@@ -1,0 +1,146 @@
+{
+  "id": "vi-ba-ria-vung-tau-quan-huyen-2019",
+  "name": "Bà Rịa Vũng Tàu — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Bà Rịa Vũng Tàu — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 8 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Bà Rịa Vũng Tàu theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 5 Huyện, 2 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/VT.json). (8 district-level units of Bà Rịa Vũng Tàu under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "VT-01",
+      "name": "Bà Rịa",
+      "name_full": "Thị xã Bà Rịa",
+      "slug": "ba-ria",
+      "division_type": "Thị xã",
+      "province_code": "VT",
+      "province_name": "Bà Rịa Vũng Tàu",
+      "ward_count": 11
+    },
+    {
+      "code": "VT-02",
+      "name": "Châu Đức",
+      "name_full": "Huyện Châu Đức",
+      "slug": "chau-duc",
+      "division_type": "Huyện",
+      "province_code": "VT",
+      "province_name": "Bà Rịa Vũng Tàu",
+      "ward_count": 16
+    },
+    {
+      "code": "VT-03",
+      "name": "Côn Đảo",
+      "name_full": "Huyện Côn Đảo",
+      "slug": "con-dao",
+      "division_type": "Huyện",
+      "province_code": "VT",
+      "province_name": "Bà Rịa Vũng Tàu",
+      "ward_count": 1
+    },
+    {
+      "code": "VT-04",
+      "name": "Đất Đỏ",
+      "name_full": "Huyện Đất Đỏ",
+      "slug": "dat-do",
+      "division_type": "Huyện",
+      "province_code": "VT",
+      "province_name": "Bà Rịa Vũng Tàu",
+      "ward_count": 8
+    },
+    {
+      "code": "VT-05",
+      "name": "Long Điền",
+      "name_full": "Huyện Long Điền",
+      "slug": "long-dien",
+      "division_type": "Huyện",
+      "province_code": "VT",
+      "province_name": "Bà Rịa Vũng Tàu",
+      "ward_count": 7
+    },
+    {
+      "code": "VT-06",
+      "name": "Phú Mỹ",
+      "name_full": "Thị xã Phú Mỹ",
+      "slug": "phu-my",
+      "division_type": "Thị xã",
+      "province_code": "VT",
+      "province_name": "Bà Rịa Vũng Tàu",
+      "ward_count": 11
+    },
+    {
+      "code": "VT-07",
+      "name": "Vũng Tàu",
+      "name_full": "Thành phố Vũng Tàu",
+      "slug": "vung-tau",
+      "division_type": "Thành phố",
+      "province_code": "VT",
+      "province_name": "Bà Rịa Vũng Tàu",
+      "ward_count": 18
+    },
+    {
+      "code": "VT-08",
+      "name": "Xuyên Mộc",
+      "name_full": "Huyện Xuyên Mộc",
+      "slug": "xuyen-moc",
+      "division_type": "Huyện",
+      "province_code": "VT",
+      "province_name": "Bà Rịa Vũng Tàu",
+      "ward_count": 13
+    }
+  ],
+  "meta": {
+    "title": "Bà Rịa Vũng Tàu — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 8 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Bà Rịa Vũng Tàu theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 5 Huyện, 2 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/VT.json). (8 district-level units of Bà Rịa Vũng Tàu under the pre-2025-merger 3-tier hierarchy.) Chứa 8 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Bà Rịa Vũng Tàu — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Bà Rịa Vũng Tàu — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 8 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 8 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

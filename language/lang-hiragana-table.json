@@ -1,0 +1,488 @@
+{
+  "id": "lang-hiragana-table",
+  "name": "Bộ Dữ liệu Bảng Hiragana Nhật Bản & Ánh xạ Romaji",
+  "category": "language",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "hiragana",
+      "label": "Hiragana",
+      "type": "string"
+    },
+    {
+      "key": "romaji",
+      "label": "Romaji",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "row",
+      "label": "Row",
+      "type": "string"
+    },
+    {
+      "key": "column",
+      "label": "Column",
+      "type": "string"
+    },
+    {
+      "key": "stroke_count",
+      "label": "Stroke Count",
+      "type": "number"
+    },
+    {
+      "key": "unicode",
+      "label": "Unicode",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "hiragana": "あ",
+      "romaji": "a",
+      "category": "Nguyên âm",
+      "row": "a",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+3042"
+    },
+    {
+      "hiragana": "い",
+      "romaji": "i",
+      "category": "Nguyên âm",
+      "row": "a",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+3044"
+    },
+    {
+      "hiragana": "う",
+      "romaji": "u",
+      "category": "Nguyên âm",
+      "row": "a",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+3046"
+    },
+    {
+      "hiragana": "え",
+      "romaji": "e",
+      "category": "Nguyên âm",
+      "row": "a",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+3048"
+    },
+    {
+      "hiragana": "お",
+      "romaji": "o",
+      "category": "Nguyên âm",
+      "row": "a",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+304A"
+    },
+    {
+      "hiragana": "か",
+      "romaji": "ka",
+      "category": "Phụ âm K",
+      "row": "ka",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+304B"
+    },
+    {
+      "hiragana": "き",
+      "romaji": "ki",
+      "category": "Phụ âm K",
+      "row": "ka",
+      "column": "i",
+      "stroke_count": 4,
+      "unicode": "U+304D"
+    },
+    {
+      "hiragana": "く",
+      "romaji": "ku",
+      "category": "Phụ âm K",
+      "row": "ka",
+      "column": "u",
+      "stroke_count": 1,
+      "unicode": "U+304F"
+    },
+    {
+      "hiragana": "け",
+      "romaji": "ke",
+      "category": "Phụ âm K",
+      "row": "ka",
+      "column": "e",
+      "stroke_count": 3,
+      "unicode": "U+3051"
+    },
+    {
+      "hiragana": "こ",
+      "romaji": "ko",
+      "category": "Phụ âm K",
+      "row": "ka",
+      "column": "o",
+      "stroke_count": 2,
+      "unicode": "U+3053"
+    },
+    {
+      "hiragana": "さ",
+      "romaji": "sa",
+      "category": "Phụ âm S",
+      "row": "sa",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+3055"
+    },
+    {
+      "hiragana": "し",
+      "romaji": "shi",
+      "category": "Phụ âm S",
+      "row": "sa",
+      "column": "i",
+      "stroke_count": 1,
+      "unicode": "U+3057"
+    },
+    {
+      "hiragana": "す",
+      "romaji": "su",
+      "category": "Phụ âm S",
+      "row": "sa",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+3059"
+    },
+    {
+      "hiragana": "せ",
+      "romaji": "se",
+      "category": "Phụ âm S",
+      "row": "sa",
+      "column": "e",
+      "stroke_count": 3,
+      "unicode": "U+305B"
+    },
+    {
+      "hiragana": "そ",
+      "romaji": "so",
+      "category": "Phụ âm S",
+      "row": "sa",
+      "column": "o",
+      "stroke_count": 1,
+      "unicode": "U+305D"
+    },
+    {
+      "hiragana": "た",
+      "romaji": "ta",
+      "category": "Phụ âm T",
+      "row": "ta",
+      "column": "a",
+      "stroke_count": 4,
+      "unicode": "U+305F"
+    },
+    {
+      "hiragana": "ち",
+      "romaji": "chi",
+      "category": "Phụ âm T",
+      "row": "ta",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+3061"
+    },
+    {
+      "hiragana": "つ",
+      "romaji": "tsu",
+      "category": "Phụ âm T",
+      "row": "ta",
+      "column": "u",
+      "stroke_count": 1,
+      "unicode": "U+3064"
+    },
+    {
+      "hiragana": "て",
+      "romaji": "te",
+      "category": "Phụ âm T",
+      "row": "ta",
+      "column": "e",
+      "stroke_count": 1,
+      "unicode": "U+3066"
+    },
+    {
+      "hiragana": "と",
+      "romaji": "to",
+      "category": "Phụ âm T",
+      "row": "ta",
+      "column": "o",
+      "stroke_count": 2,
+      "unicode": "U+3068"
+    },
+    {
+      "hiragana": "な",
+      "romaji": "na",
+      "category": "Phụ âm dòng N",
+      "row": "na",
+      "column": "a",
+      "stroke_count": 4,
+      "unicode": "U+306A"
+    },
+    {
+      "hiragana": "に",
+      "romaji": "ni",
+      "category": "Phụ âm dòng N",
+      "row": "na",
+      "column": "i",
+      "stroke_count": 3,
+      "unicode": "U+306B"
+    },
+    {
+      "hiragana": "ぬ",
+      "romaji": "nu",
+      "category": "Phụ âm dòng N",
+      "row": "na",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+306C"
+    },
+    {
+      "hiragana": "ね",
+      "romaji": "ne",
+      "category": "Phụ âm dòng N",
+      "row": "na",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+306D"
+    },
+    {
+      "hiragana": "の",
+      "romaji": "no",
+      "category": "Phụ âm dòng N",
+      "row": "na",
+      "column": "o",
+      "stroke_count": 1,
+      "unicode": "U+306E"
+    },
+    {
+      "hiragana": "は",
+      "romaji": "ha",
+      "category": "Phụ âm dòng H",
+      "row": "ha",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+306F"
+    },
+    {
+      "hiragana": "ひ",
+      "romaji": "hi",
+      "category": "Phụ âm dòng H",
+      "row": "ha",
+      "column": "i",
+      "stroke_count": 1,
+      "unicode": "U+3072"
+    },
+    {
+      "hiragana": "ふ",
+      "romaji": "fu",
+      "category": "Phụ âm dòng H",
+      "row": "ha",
+      "column": "u",
+      "stroke_count": 4,
+      "unicode": "U+3075"
+    },
+    {
+      "hiragana": "へ",
+      "romaji": "he",
+      "category": "Phụ âm dòng H",
+      "row": "ha",
+      "column": "e",
+      "stroke_count": 1,
+      "unicode": "U+3078"
+    },
+    {
+      "hiragana": "ほ",
+      "romaji": "ho",
+      "category": "Phụ âm dòng H",
+      "row": "ha",
+      "column": "o",
+      "stroke_count": 4,
+      "unicode": "U+307B"
+    },
+    {
+      "hiragana": "ま",
+      "romaji": "ma",
+      "category": "Phụ âm dòng M",
+      "row": "ma",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+307E"
+    },
+    {
+      "hiragana": "み",
+      "romaji": "mi",
+      "category": "Phụ âm dòng M",
+      "row": "ma",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+307F"
+    },
+    {
+      "hiragana": "む",
+      "romaji": "mu",
+      "category": "Phụ âm dòng M",
+      "row": "ma",
+      "column": "u",
+      "stroke_count": 3,
+      "unicode": "U+3080"
+    },
+    {
+      "hiragana": "め",
+      "romaji": "me",
+      "category": "Phụ âm dòng M",
+      "row": "ma",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+3081"
+    },
+    {
+      "hiragana": "も",
+      "romaji": "mo",
+      "category": "Phụ âm dòng M",
+      "row": "ma",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+3082"
+    },
+    {
+      "hiragana": "や",
+      "romaji": "ya",
+      "category": "Phụ âm dòng Y",
+      "row": "ya",
+      "column": "a",
+      "stroke_count": 3,
+      "unicode": "U+3084"
+    },
+    {
+      "hiragana": "ゆ",
+      "romaji": "yu",
+      "category": "Phụ âm dòng Y",
+      "row": "ya",
+      "column": "u",
+      "stroke_count": 2,
+      "unicode": "U+3086"
+    },
+    {
+      "hiragana": "よ",
+      "romaji": "yo",
+      "category": "Phụ âm dòng Y",
+      "row": "ya",
+      "column": "o",
+      "stroke_count": 2,
+      "unicode": "U+3088"
+    },
+    {
+      "hiragana": "ら",
+      "romaji": "ra",
+      "category": "Phụ âm dòng R",
+      "row": "ra",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+3089"
+    },
+    {
+      "hiragana": "り",
+      "romaji": "ri",
+      "category": "Phụ âm dòng R",
+      "row": "ra",
+      "column": "i",
+      "stroke_count": 2,
+      "unicode": "U+308A"
+    },
+    {
+      "hiragana": "る",
+      "romaji": "ru",
+      "category": "Phụ âm R",
+      "row": "ra",
+      "column": "u",
+      "stroke_count": 1,
+      "unicode": "U+308B"
+    },
+    {
+      "hiragana": "れ",
+      "romaji": "re",
+      "category": "Phụ âm R",
+      "row": "ra",
+      "column": "e",
+      "stroke_count": 2,
+      "unicode": "U+308C"
+    },
+    {
+      "hiragana": "ろ",
+      "romaji": "ro",
+      "category": "Phụ âm R",
+      "row": "ra",
+      "column": "o",
+      "stroke_count": 1,
+      "unicode": "U+308D"
+    },
+    {
+      "hiragana": "わ",
+      "romaji": "wa",
+      "category": "Phụ âm W",
+      "row": "wa",
+      "column": "a",
+      "stroke_count": 2,
+      "unicode": "U+308F"
+    },
+    {
+      "hiragana": "を",
+      "romaji": "wo",
+      "category": "Phụ âm W",
+      "row": "wa",
+      "column": "o",
+      "stroke_count": 3,
+      "unicode": "U+3092"
+    },
+    {
+      "hiragana": "ん",
+      "romaji": "n",
+      "category": "Phụ âm mũi",
+      "row": "n",
+      "column": "-",
+      "stroke_count": 1,
+      "unicode": "U+3093"
+    }
+  ],
+  "meta": {
+    "seo_title": "Bảng Hiragana Nhật - Tải xuống miễn phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống miễn phí bộ dữ liệu Bảng Hiragana Nhật Bản. Truy cập 46 ký tự Hiragana thiết yếu với Romaji, số nét và Unicode. Có sẵn định dạng Excel, CSV và PDF.",
+    "title": "Bộ Dữ liệu Bảng Hiragana Nhật Bản & Ánh xạ Romaji",
+    "description": "Bộ dữ liệu này cung cấp danh sách toàn diện 46 ký tự Hiragana Nhật Bản, bao gồm phiên âm Romaji, danh mục, số nét và giá trị Unicode. Lý tưởng cho người học ngôn ngữ và nhà phát triển.",
+    "key_takeaways": [
+      "Truy cập 46 ký tự Hiragana Nhật Bản cơ bản.",
+      "Khám phá ánh xạ Romaji và giá trị Unicode chính xác.",
+      "Tải xuống chi tiết số nét và danh mục ký tự.",
+      "Sử dụng dữ liệu này cho các ứng dụng học ngôn ngữ và phát triển."
+    ],
+    "keywords": [
+      "hiragana bảng excel",
+      "hiragana nhật csv",
+      "danh sách hiragana romaji",
+      "dữ liệu ký tự nhật",
+      "tải hiragana miễn phí",
+      "unicode hiragana"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào ứng dụng Python hoặc cơ sở dữ liệu SQL của bạn để xây dựng công cụ học tiếng Nhật hoặc dịch vụ tra cứu ký tự tùy chỉnh.",
+      "Sử dụng tệp **Excel** để lọc ký tự theo danh mục, sắp xếp theo số nét hoặc tạo thẻ ghi nhớ tương tác cho việc học ngôn ngữ.",
+      "In phiên bản **PDF** để tham khảo trong lớp học, học ngoại tuyến hoặc làm biểu đồ treo tường tiện dụng để học Hiragana.",
+      "Tận dụng bộ dữ liệu này để xác thực đầu vào của người dùng trong các trường văn bản tiếng Nhật hoặc cải thiện phần mềm đa ngôn ngữ."
+    ]
+  },
+  "record_count": 46,
+  "title": "Bộ Dữ liệu Bảng Hiragana Nhật Bản & Ánh xạ Romaji"
+}

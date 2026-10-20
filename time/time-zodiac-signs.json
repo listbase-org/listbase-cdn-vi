@@ -1,0 +1,284 @@
+{
+  "id": "time-zodiac-signs",
+  "name": "Dữ liệu Cung Hoàng Đạo Phương Tây Toàn Diện",
+  "category": "time",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "unicode",
+      "label": "Unicode",
+      "type": "string"
+    },
+    {
+      "key": "element",
+      "label": "Element (EN)",
+      "type": "string"
+    },
+    {
+      "key": "modality",
+      "label": "Modality",
+      "type": "string"
+    },
+    {
+      "key": "ruling_planet",
+      "label": "Ruling Planet",
+      "type": "string"
+    },
+    {
+      "key": "date_range",
+      "label": "Date Range",
+      "type": "string"
+    },
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "number"
+    },
+    {
+      "key": "traits",
+      "label": "Personality Traits (EN)",
+      "type": "string"
+    },
+    {
+      "key": "compatible_signs",
+      "label": "Compatible Signs",
+      "type": "string"
+    },
+    {
+      "key": "lucky_numbers",
+      "label": "Lucky Numbers",
+      "type": "string"
+    },
+    {
+      "key": "lucky_colors",
+      "label": "Lucky Colors",
+      "type": "string"
+    },
+    {
+      "key": "body_part",
+      "label": "Body Part (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bạch Dương",
+      "symbol": "♈",
+      "unicode": "U+2648",
+      "element": "Lửa",
+      "modality": "Cardinal",
+      "ruling_planet": "Mars",
+      "date_range": "Mar 21 - Apr 19",
+      "order": 1,
+      "traits": "Dũng cảm, kiên quyết, tự tin, nhiệt tình",
+      "compatible_signs": "Leo, Sagittarius, Gemini, Aquarius",
+      "lucky_numbers": "1, 8, 17",
+      "lucky_colors": "Red",
+      "body_part": "Đầu"
+    },
+    {
+      "name": "Kim Ngưu",
+      "symbol": "♉",
+      "unicode": "U+2649",
+      "element": "Đất",
+      "modality": "Fixed",
+      "ruling_planet": "Venus",
+      "date_range": "Apr 20 - May 20",
+      "order": 2,
+      "traits": "Đáng tin cậy, kiên nhẫn, thực tế, tận tụy",
+      "compatible_signs": "Virgo, Capricorn, Cancer, Pisces",
+      "lucky_numbers": "2, 6, 9, 12, 24",
+      "lucky_colors": "Green, Pink",
+      "body_part": "Cổ họng, Cổ"
+    },
+    {
+      "name": "Song Tử",
+      "symbol": "♊",
+      "unicode": "U+264A",
+      "element": "Khí",
+      "modality": "Mutable",
+      "ruling_planet": "Mercury",
+      "date_range": "May 21 - Jun 20",
+      "order": 3,
+      "traits": "Nhẹ nhàng, trìu mến, tò mò, dễ thích nghi",
+      "compatible_signs": "Libra, Aquarius, Aries, Leo",
+      "lucky_numbers": "5, 7, 14, 23",
+      "lucky_colors": "Yellow",
+      "body_part": "Cánh tay, Bàn tay, Phổi"
+    },
+    {
+      "name": "Cự Giải",
+      "symbol": "♋",
+      "unicode": "U+264B",
+      "element": "Nước",
+      "modality": "Cardinal",
+      "ruling_planet": "Moon",
+      "date_range": "Jun 21 - Jul 22",
+      "order": 4,
+      "traits": "Kiên trì, giàu trí tưởng tượng, trung thành, giàu cảm xúc",
+      "compatible_signs": "Scorpio, Pisces, Taurus, Virgo",
+      "lucky_numbers": "2, 3, 15, 20",
+      "lucky_colors": "White, Silver",
+      "body_part": "Ngực, Dạ dày"
+    },
+    {
+      "name": "Sư Tử",
+      "symbol": "♌",
+      "unicode": "U+264C",
+      "element": "Lửa",
+      "modality": "Fixed",
+      "ruling_planet": "Sun",
+      "date_range": "Jul 23 - Aug 22",
+      "order": 5,
+      "traits": "Sáng tạo, đam mê, hào phóng, ấm áp",
+      "compatible_signs": "Aries, Sagittarius, Gemini, Libra",
+      "lucky_numbers": "1, 3, 10, 19",
+      "lucky_colors": "Gold, Orange",
+      "body_part": "Tim, Cột sống"
+    },
+    {
+      "name": "Xử Nữ",
+      "symbol": "♍",
+      "unicode": "U+264D",
+      "element": "Đất",
+      "modality": "Mutable",
+      "ruling_planet": "Mercury",
+      "date_range": "Aug 23 - Sep 22",
+      "order": 6,
+      "traits": "Trung thành, phân tích, tốt bụng, chăm chỉ",
+      "compatible_signs": "Taurus, Capricorn, Cancer, Scorpio",
+      "lucky_numbers": "5, 14, 15, 23, 32",
+      "lucky_colors": "Grey, Beige, Pale Yellow",
+      "body_part": "Hệ tiêu hóa"
+    },
+    {
+      "name": "Thiên Bình",
+      "symbol": "♎",
+      "unicode": "U+264E",
+      "element": "Khí",
+      "modality": "Cardinal",
+      "ruling_planet": "Venus",
+      "date_range": "Sep 23 - Oct 22",
+      "order": 7,
+      "traits": "Hợp tác, ngoại giao, duyên dáng, công bằng",
+      "compatible_signs": "Gemini, Aquarius, Leo, Sagittarius",
+      "lucky_numbers": "4, 6, 13, 15, 24",
+      "lucky_colors": "Pink, Blue",
+      "body_part": "Thận, Lưng dưới"
+    },
+    {
+      "name": "Bọ Cạp",
+      "symbol": "♏",
+      "unicode": "U+264F",
+      "element": "Nước",
+      "modality": "Fixed",
+      "ruling_planet": "Pluto, Mars",
+      "date_range": "Oct 23 - Nov 21",
+      "order": 8,
+      "traits": "Tháo vát, dũng cảm, đam mê, bướng bỉnh",
+      "compatible_signs": "Cancer, Pisces, Virgo, Capricorn",
+      "lucky_numbers": "8, 11, 18, 22",
+      "lucky_colors": "Scarlet, Red, Rust",
+      "body_part": "Hệ sinh sản"
+    },
+    {
+      "name": "Nhân Mã",
+      "symbol": "♐",
+      "unicode": "U+2650",
+      "element": "Lửa",
+      "modality": "Mutable",
+      "ruling_planet": "Jupiter",
+      "date_range": "Nov 22 - Dec 21",
+      "order": 9,
+      "traits": "Hào phóng, duy tâm, khiếu hài hước tuyệt vời",
+      "compatible_signs": "Aries, Leo, Libra, Aquarius",
+      "lucky_numbers": "3, 7, 9, 12, 21",
+      "lucky_colors": "Blue, Purple",
+      "body_part": "Hông, Đùi"
+    },
+    {
+      "name": "Ma Kết",
+      "symbol": "♑",
+      "unicode": "U+2651",
+      "element": "Đất",
+      "modality": "Cardinal",
+      "ruling_planet": "Saturn",
+      "date_range": "Dec 22 - Jan 19",
+      "order": 10,
+      "traits": "Có trách nhiệm, kỷ luật, tự chủ",
+      "compatible_signs": "Taurus, Virgo, Scorpio, Pisces",
+      "lucky_numbers": "4, 8, 13, 22",
+      "lucky_colors": "Brown, Black, Dark Green",
+      "body_part": "Đầu gối, Xương, Da"
+    },
+    {
+      "name": "Bảo Bình",
+      "symbol": "♒",
+      "unicode": "U+2652",
+      "element": "Khí",
+      "modality": "Fixed",
+      "ruling_planet": "Uranus, Saturn",
+      "date_range": "Jan 20 - Feb 18",
+      "order": 11,
+      "traits": "Tiến bộ, độc đáo, độc lập, nhân đạo",
+      "compatible_signs": "Gemini, Libra, Aries, Sagittarius",
+      "lucky_numbers": "4, 7, 11, 22, 29",
+      "lucky_colors": "Blue, Silver",
+      "body_part": "Mắt cá chân, Hệ tuần hoàn"
+    },
+    {
+      "name": "Song Ngư",
+      "symbol": "♓",
+      "unicode": "U+2653",
+      "element": "Nước",
+      "modality": "Mutable",
+      "ruling_planet": "Neptune, Jupiter",
+      "date_range": "Feb 19 - Mar 20",
+      "order": 12,
+      "traits": "Từ bi, nghệ thuật, trực giác, nhẹ nhàng",
+      "compatible_signs": "Cancer, Scorpio, Taurus, Capricorn",
+      "lucky_numbers": "3, 9, 12, 15, 18, 24",
+      "lucky_colors": "Purple, Violet, Sea Green",
+      "body_part": "Bàn chân, Hệ bạch huyết"
+    }
+  ],
+  "meta": {
+    "seo_title": "Dữ liệu Cung Hoàng Đạo Phương Tây - Tải xuống miễn phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống miễn phí bộ dữ liệu Cung Hoàng Đạo Phương Tây với 12 bản ghi. Bao gồm đặc điểm, nguyên tố, hành tinh. Có sẵn ở định dạng Excel, CSV, PDF.",
+    "title": "Dữ liệu Cung Hoàng Đạo Phương Tây Toàn Diện",
+    "description": "Bộ dữ liệu này cung cấp thông tin chi tiết toàn diện về tất cả 12 Cung Hoàng Đạo Phương Tây, bao gồm tên, biểu tượng, nguyên tố, thuộc tính, hành tinh chủ quản và các đặc điểm tính cách chính. Đây là tài nguyên vô giá cho những người đam mê chiêm tinh, nhà phát triển và nhà phân tích dữ liệu.",
+    "key_takeaways": [
+      "Truy cập thông tin chi tiết cho tất cả 12 Cung Hoàng Đạo Phương Tây ngay lập tức.",
+      "Khám phá nguyên tố, thuộc tính, hành tinh chủ quản và các cung tương thích của mỗi cung.",
+      "Tải xuống các đặc điểm tính cách, con số may mắn và màu sắc may mắn toàn diện cho mỗi cung.",
+      "Sử dụng các ký hiệu Unicode cho các cung hoàng đạo trong các ứng dụng kỹ thuật số."
+    ],
+    "keywords": [
+      "cung hoàng đạo phương tây dữ liệu",
+      "bộ dữ liệu chiêm tinh",
+      "đặc điểm tính cách cung hoàng đạo excel",
+      "tải xuống dữ liệu cung hoàng đạo miễn phí",
+      "danh sách cung hoàng đạo csv",
+      "cung hoàng đạo pdf"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu của bạn hoặc sử dụng nó với các tập lệnh Python để xây dựng các ứng dụng hoặc trang web theo chủ đề chiêm tinh.",
+      "Phân tích xu hướng cung hoàng đạo và tạo báo cáo tùy chỉnh bằng cách sử dụng các tính năng lọc và Bảng Pivot của **Excel** cho các nghiên cứu chiêm tinh.",
+      "In phiên bản **PDF** để làm tài liệu tham khảo nhanh trong môi trường giáo dục, thuyết trình hoặc nghiên cứu chiêm tinh cá nhân.",
+      "Tích hợp dữ liệu có cấu trúc này vào tài liệu giáo dục, ứng dụng di động hoặc các dự án nghiên cứu chiêm tinh để có cái nhìn sâu sắc hơn."
+    ]
+  },
+  "record_count": 12,
+  "title": "Dữ liệu Cung Hoàng Đạo Phương Tây Toàn Diện"
+}

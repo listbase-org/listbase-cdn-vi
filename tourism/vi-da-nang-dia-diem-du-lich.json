@@ -1,0 +1,126 @@
+{
+  "id": "vi-da-nang-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Đà Nẵng",
+  "title": "Địa điểm du lịch Đà Nẵng",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Đà Nẵng (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 211,
+      "ten_dia_diem": "Bà Nà Hills",
+      "vi_tri": "Đà Nẵng",
+      "tinh_truoc_sap_nhap_2025": "Đà Nẵng",
+      "mo_ta": "Khu nghỉ dưỡng trên đỉnh núi với khí hậu mát mẻ, nổi tiếng với cây Cầu Vàng độc đáo, làng Pháp cổ điển và khu vui chơi trong nhà Fantasy Park.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM6kdP5kHtS7vvCKTyaUeiWlHxo7LRW9HAeg&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 212,
+      "ten_dia_diem": "Cầu Rồng",
+      "vi_tri": "Đà Nẵng",
+      "tinh_truoc_sap_nhap_2025": "Đà Nẵng",
+      "mo_ta": "Biểu tượng của thành phố Đà Nẵng, cây cầu có thiết kế hình rồng phun lửa và nước vào cuối tuần. Đây là điểm check-in và ngắm cảnh sông Hàn tuyệt đẹp.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://furamavietnam.com/wp-content/uploads/2024/11/Furama-Resort-Danang-Sightseeing-Dragon-Brigde-2-1024x576.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 213,
+      "ten_dia_diem": "Ngũ Hành Sơn",
+      "vi_tri": "Đà Nẵng",
+      "tinh_truoc_sap_nhap_2025": "Đà Nẵng",
+      "mo_ta": "Cụm núi đá vôi gồm 5 ngọn núi với hang động, chùa chiền, và khung cảnh thiên nhiên tuyệt đẹp. Nổi bật là động Huyền Không và chùa Tam Thai.",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdTi2qoTGuFODJZyhn7dgJ6Oh5zpv8qNKciQ&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 214,
+      "ten_dia_diem": "Bãi Biển Mỹ Khê",
+      "vi_tri": "Đà Nẵng",
+      "tinh_truoc_sap_nhap_2025": "Đà Nẵng",
+      "mo_ta": "Một trong những bãi biển đẹp nhất hành tinh, nổi tiếng với bãi cát trắng mịn, nước biển trong xanh, là nơi lý tưởng để tắm biển và các hoạt động thể thao dưới nước.",
+      "danh_gia": "4.8/5",
+      "danh_gia_diem": 4.8,
+      "anh": "https://ik.imagekit.io/tvlk/blog/2023/09/bien-my-khe-16.jpg?tr=dpr-2,w-675",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 215,
+      "ten_dia_diem": "Cầu Tình Yêu",
+      "vi_tri": "Đà Nẵng",
+      "tinh_truoc_sap_nhap_2025": "Đà Nẵng",
+      "mo_ta": "Cây cầu nhỏ bên sông Hàn với thiết kế lãng mạn, nơi các cặp đôi thường treo móc khóa tình yêu. Từ đây, bạn có thể ngắm nhìn tượng Cá Chép Hóa Rồng.",
+      "danh_gia": "4.2/5",
+      "danh_gia_diem": 4.2,
+      "anh": "https://flane.vn/wp-content/uploads/2024/03/kham-pha-cau-tinh-yeu-da-nang.jpg",
+      "tu_khoa": ""
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Đà Nẵng - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Đà Nẵng (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Đà Nẵng | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Đà Nẵng — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

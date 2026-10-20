@@ -1,0 +1,976 @@
+{
+  "id": "vi-nganh-icb",
+  "name": "Phân ngành ICB Việt Nam (155 ngành)",
+  "title": "Phân ngành ICB Việt Nam (155 ngành)",
+  "description": "Phân loại ngành theo chuẩn ICB (Industry Classification Benchmark) — mã, tên tiếng Việt và tiếng Anh, cấp độ",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 155,
+  "columns": [
+    {
+      "key": "icb_code",
+      "label": "Icb Code",
+      "type": "number"
+    },
+    {
+      "key": "icb_name",
+      "label": "Icb Name",
+      "type": "string"
+    },
+    {
+      "key": "en_icb_name",
+      "label": "En Icb Name",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "icb_code": "0530",
+      "icb_name": "Sản xuất Dầu khí",
+      "en_icb_name": "Oil & Gas Producers",
+      "level": "3"
+    },
+    {
+      "icb_code": "0570",
+      "icb_name": "Thiết bị, Dịch vụ và Phân phối Dầu khí",
+      "en_icb_name": "Oil Equipment, Services & Distribution",
+      "level": "3"
+    },
+    {
+      "icb_code": "1350",
+      "icb_name": "Hóa chất",
+      "en_icb_name": "Chemicals",
+      "level": "3"
+    },
+    {
+      "icb_code": "1730",
+      "icb_name": "Lâm nghiệp và Giấy",
+      "en_icb_name": "Forestry & Paper",
+      "level": "3"
+    },
+    {
+      "icb_code": "1750",
+      "icb_name": "Kim loại",
+      "en_icb_name": "Industrial Metals & Mining",
+      "level": "3"
+    },
+    {
+      "icb_code": "1770",
+      "icb_name": "Khai khoáng",
+      "en_icb_name": "Mining",
+      "level": "3"
+    },
+    {
+      "icb_code": "2350",
+      "icb_name": "Xây dựng và Vật liệu",
+      "en_icb_name": "Construction & Materials",
+      "level": "3"
+    },
+    {
+      "icb_code": "2720",
+      "icb_name": "Hàng công nghiệp",
+      "en_icb_name": "General Industrials",
+      "level": "3"
+    },
+    {
+      "icb_code": "2730",
+      "icb_name": "Điện tử & Thiết bị điện",
+      "en_icb_name": "Electronic & Electrical Equipment",
+      "level": "3"
+    },
+    {
+      "icb_code": "2750",
+      "icb_name": "Công nghiệp nặng",
+      "en_icb_name": "Industrial Engineering",
+      "level": "3"
+    },
+    {
+      "icb_code": "2770",
+      "icb_name": "Vận tải",
+      "en_icb_name": "Industrial Transportation",
+      "level": "3"
+    },
+    {
+      "icb_code": "2790",
+      "icb_name": "Tư vấn & Hỗ trợ Kinh doanh",
+      "en_icb_name": "Support Services",
+      "level": "3"
+    },
+    {
+      "icb_code": "3350",
+      "icb_name": "Ô tô và phụ tùng",
+      "en_icb_name": "Automobiles & Parts",
+      "level": "3"
+    },
+    {
+      "icb_code": "3530",
+      "icb_name": "Bia và đồ uống",
+      "en_icb_name": "Beverages",
+      "level": "3"
+    },
+    {
+      "icb_code": "3570",
+      "icb_name": "Sản xuất thực phẩm",
+      "en_icb_name": "Food Producers",
+      "level": "3"
+    },
+    {
+      "icb_code": "3720",
+      "icb_name": "Hàng gia dụng",
+      "en_icb_name": "Household Goods & Home Construction",
+      "level": "3"
+    },
+    {
+      "icb_code": "3740",
+      "icb_name": "Hàng hóa giải trí",
+      "en_icb_name": "Leisure Goods",
+      "level": "3"
+    },
+    {
+      "icb_code": "3760",
+      "icb_name": "Hàng cá nhân",
+      "en_icb_name": "Personal Goods",
+      "level": "3"
+    },
+    {
+      "icb_code": "3780",
+      "icb_name": "Thuốc lá",
+      "en_icb_name": "Tobacco",
+      "level": "3"
+    },
+    {
+      "icb_code": "4530",
+      "icb_name": "Thiết bị và Dịch vụ Y tế",
+      "en_icb_name": "Health Care Equipment & Services",
+      "level": "3"
+    },
+    {
+      "icb_code": "4570",
+      "icb_name": "Dược phẩm",
+      "en_icb_name": "Pharmaceuticals & Biotechnology",
+      "level": "3"
+    },
+    {
+      "icb_code": "5330",
+      "icb_name": "Phân phối thực phẩm & dược phẩm",
+      "en_icb_name": "Food & Drug Retailers",
+      "level": "3"
+    },
+    {
+      "icb_code": "5370",
+      "icb_name": "Bán lẻ",
+      "en_icb_name": "General Retailers",
+      "level": "3"
+    },
+    {
+      "icb_code": "5550",
+      "icb_name": "Truyền thông",
+      "en_icb_name": "Media",
+      "level": "3"
+    },
+    {
+      "icb_code": "5750",
+      "icb_name": "Du lịch & Giải trí",
+      "en_icb_name": "Travel & Leisure",
+      "level": "3"
+    },
+    {
+      "icb_code": "6530",
+      "icb_name": "Viễn thông cố định",
+      "en_icb_name": "Fixed Line Telecommunications",
+      "level": "3"
+    },
+    {
+      "icb_code": "6570",
+      "icb_name": "Viễn thông di động",
+      "en_icb_name": "Mobile Telecommunications",
+      "level": "3"
+    },
+    {
+      "icb_code": "7530",
+      "icb_name": "Sản xuất & Phân phối Điện",
+      "en_icb_name": "Electricity",
+      "level": "3"
+    },
+    {
+      "icb_code": "7570",
+      "icb_name": "Nước & Khí đốt",
+      "en_icb_name": "Gas, Water & Multi-utilities",
+      "level": "3"
+    },
+    {
+      "icb_code": "8350",
+      "icb_name": "Ngân hàng",
+      "en_icb_name": "Banks",
+      "level": "3"
+    },
+    {
+      "icb_code": "8530",
+      "icb_name": "Bảo hiểm phi nhân thọ",
+      "en_icb_name": "Nonlife Insurance",
+      "level": "3"
+    },
+    {
+      "icb_code": "8570",
+      "icb_name": "Bảo hiểm nhân thọ",
+      "en_icb_name": "Life Insurance",
+      "level": "3"
+    },
+    {
+      "icb_code": "8630",
+      "icb_name": "Bất động sản",
+      "en_icb_name": "Real Estate Investment & Services",
+      "level": "3"
+    },
+    {
+      "icb_code": "8770",
+      "icb_name": "Dịch vụ tài chính",
+      "en_icb_name": "Financial Services",
+      "level": "3"
+    },
+    {
+      "icb_code": "8980",
+      "icb_name": "Quỹ đầu tư",
+      "en_icb_name": "Equity Investment Instruments",
+      "level": "3"
+    },
+    {
+      "icb_code": "9530",
+      "icb_name": "Phần mềm & Dịch vụ Máy tính",
+      "en_icb_name": "Software & Computer Services",
+      "level": "3"
+    },
+    {
+      "icb_code": "9570",
+      "icb_name": "Thiết bị và Phần cứng",
+      "en_icb_name": "Technology Hardware & Equipment",
+      "level": "3"
+    },
+    {
+      "icb_code": "0001",
+      "icb_name": "Dầu khí",
+      "en_icb_name": "Oil & Gas",
+      "level": "1"
+    },
+    {
+      "icb_code": "0500",
+      "icb_name": "Dầu khí",
+      "en_icb_name": "Oil & Gas",
+      "level": "2"
+    },
+    {
+      "icb_code": "1300",
+      "icb_name": "Hóa chất",
+      "en_icb_name": "Chemicals",
+      "level": "2"
+    },
+    {
+      "icb_code": "1700",
+      "icb_name": "Tài nguyên Cơ bản",
+      "en_icb_name": "Basic Resources",
+      "level": "2"
+    },
+    {
+      "icb_code": "2300",
+      "icb_name": "Xây dựng và Vật liệu",
+      "en_icb_name": "Construction & Materials",
+      "level": "2"
+    },
+    {
+      "icb_code": "2700",
+      "icb_name": "Hàng & Dịch vụ Công nghiệp",
+      "en_icb_name": "Industrial Goods & Services",
+      "level": "2"
+    },
+    {
+      "icb_code": "3300",
+      "icb_name": "Ô tô và phụ tùng",
+      "en_icb_name": "Automobiles & Parts",
+      "level": "2"
+    },
+    {
+      "icb_code": "3500",
+      "icb_name": "Thực phẩm và đồ uống",
+      "en_icb_name": "Food & Beverage",
+      "level": "2"
+    },
+    {
+      "icb_code": "3700",
+      "icb_name": "Hàng cá nhân & Gia dụng",
+      "en_icb_name": "Personal & Household Goods",
+      "level": "2"
+    },
+    {
+      "icb_code": "4500",
+      "icb_name": "Y tế",
+      "en_icb_name": "Health Care",
+      "level": "2"
+    },
+    {
+      "icb_code": "5300",
+      "icb_name": "Bán lẻ",
+      "en_icb_name": "Retail",
+      "level": "2"
+    },
+    {
+      "icb_code": "5500",
+      "icb_name": "Truyền thông",
+      "en_icb_name": "Media",
+      "level": "2"
+    },
+    {
+      "icb_code": "5700",
+      "icb_name": "Du lịch và Giải trí",
+      "en_icb_name": "Travel & Leisure",
+      "level": "2"
+    },
+    {
+      "icb_code": "6500",
+      "icb_name": "Viễn thông",
+      "en_icb_name": "Telecommunications",
+      "level": "2"
+    },
+    {
+      "icb_code": "7500",
+      "icb_name": "Điện, nước & xăng dầu khí đốt",
+      "en_icb_name": "Utilities",
+      "level": "2"
+    },
+    {
+      "icb_code": "8300",
+      "icb_name": "Ngân hàng",
+      "en_icb_name": "Banks",
+      "level": "2"
+    },
+    {
+      "icb_code": "8500",
+      "icb_name": "Bảo hiểm",
+      "en_icb_name": "Insurance",
+      "level": "2"
+    },
+    {
+      "icb_code": "8600",
+      "icb_name": "Bất động sản",
+      "en_icb_name": "Real Estate",
+      "level": "2"
+    },
+    {
+      "icb_code": "8700",
+      "icb_name": "Dịch vụ tài chính",
+      "en_icb_name": "Financial Services",
+      "level": "2"
+    },
+    {
+      "icb_code": "9500",
+      "icb_name": "Công nghệ Thông tin",
+      "en_icb_name": "Technology",
+      "level": "2"
+    },
+    {
+      "icb_code": "0533",
+      "icb_name": "Sản xuất và Khai thác dầu khí",
+      "en_icb_name": "Exploration & Production",
+      "level": "4"
+    },
+    {
+      "icb_code": "0573",
+      "icb_name": "Thiết bị và Dịch vụ Dầu khí",
+      "en_icb_name": "Oil Equipment & Services",
+      "level": "4"
+    },
+    {
+      "icb_code": "1353",
+      "icb_name": "Nhựa, cao su & sợi",
+      "en_icb_name": "Commodity Chemicals",
+      "level": "4"
+    },
+    {
+      "icb_code": "1357",
+      "icb_name": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
+      "en_icb_name": "Specialty Chemicals",
+      "level": "4"
+    },
+    {
+      "icb_code": "1733",
+      "icb_name": "Lâm sản và Chế biến gỗ",
+      "en_icb_name": "Forestry",
+      "level": "4"
+    },
+    {
+      "icb_code": "1737",
+      "icb_name": "Sản xuất giấy",
+      "en_icb_name": "Paper",
+      "level": "4"
+    },
+    {
+      "icb_code": "1753",
+      "icb_name": "Nhôm",
+      "en_icb_name": "Aluminum",
+      "level": "4"
+    },
+    {
+      "icb_code": "1755",
+      "icb_name": "Kim Loại màu",
+      "en_icb_name": "Nonferrous Metals",
+      "level": "4"
+    },
+    {
+      "icb_code": "1757",
+      "icb_name": "Thép và sản phẩm thép",
+      "en_icb_name": "Steel",
+      "level": "4"
+    },
+    {
+      "icb_code": "1771",
+      "icb_name": "Khai thác Than",
+      "en_icb_name": "Coal",
+      "level": "4"
+    },
+    {
+      "icb_code": "1775",
+      "icb_name": "Khai khoáng",
+      "en_icb_name": "General Mining",
+      "level": "4"
+    },
+    {
+      "icb_code": "1777",
+      "icb_name": "Khai thác vàng",
+      "en_icb_name": "Gold Mining",
+      "level": "4"
+    },
+    {
+      "icb_code": "2353",
+      "icb_name": "Vật liệu xây dựng & Nội thất",
+      "en_icb_name": "Building Materials & Fixtures",
+      "level": "4"
+    },
+    {
+      "icb_code": "2357",
+      "icb_name": "Xây dựng",
+      "en_icb_name": "Heavy Construction",
+      "level": "4"
+    },
+    {
+      "icb_code": "2723",
+      "icb_name": "Containers & Đóng gói",
+      "en_icb_name": "Containers & Packaging",
+      "level": "4"
+    },
+    {
+      "icb_code": "2727",
+      "icb_name": "Công nghiệp phức hợp",
+      "en_icb_name": "Diversified Industrials",
+      "level": "4"
+    },
+    {
+      "icb_code": "2733",
+      "icb_name": "Hàng điện & điện tử",
+      "en_icb_name": "Electrical Components & Equipment",
+      "level": "4"
+    },
+    {
+      "icb_code": "2737",
+      "icb_name": "Thiết bị điện",
+      "en_icb_name": "Electronic Equipment",
+      "level": "4"
+    },
+    {
+      "icb_code": "2753",
+      "icb_name": "Xe tải & Đóng tàu",
+      "en_icb_name": "Commercial Vehicles & Trucks",
+      "level": "4"
+    },
+    {
+      "icb_code": "2757",
+      "icb_name": "Máy công nghiệp",
+      "en_icb_name": "Industrial Machinery",
+      "level": "4"
+    },
+    {
+      "icb_code": "2771",
+      "icb_name": "Chuyển phát nhanh",
+      "en_icb_name": "Delivery Services",
+      "level": "4"
+    },
+    {
+      "icb_code": "2773",
+      "icb_name": "Vận tải Thủy",
+      "en_icb_name": "Marine Transportation",
+      "level": "4"
+    },
+    {
+      "icb_code": "2775",
+      "icb_name": "Đường sắt",
+      "en_icb_name": "Railroads",
+      "level": "4"
+    },
+    {
+      "icb_code": "2777",
+      "icb_name": "Kho bãi, hậu cần và bảo dưỡng",
+      "en_icb_name": "Transportation Services",
+      "level": "4"
+    },
+    {
+      "icb_code": "2779",
+      "icb_name": "Dịch vụ vận tải",
+      "en_icb_name": "Trucking",
+      "level": "4"
+    },
+    {
+      "icb_code": "2791",
+      "icb_name": "Tư vấn & Hỗ trợ KD",
+      "en_icb_name": "Business Support Services",
+      "level": "4"
+    },
+    {
+      "icb_code": "2793",
+      "icb_name": "Đào tạo & Việc làm",
+      "en_icb_name": "Business Training & Employment Agencies",
+      "level": "4"
+    },
+    {
+      "icb_code": "2795",
+      "icb_name": "Quản lý Tài chính",
+      "en_icb_name": "Financial Administration",
+      "level": "4"
+    },
+    {
+      "icb_code": "2797",
+      "icb_name": "Nhà cung cấp thiết bị",
+      "en_icb_name": "Industrial Suppliers",
+      "level": "4"
+    },
+    {
+      "icb_code": "2799",
+      "icb_name": "Chất thải & Môi trường",
+      "en_icb_name": "Waste & Disposal Services",
+      "level": "4"
+    },
+    {
+      "icb_code": "3353",
+      "icb_name": "Sản xuất ô tô",
+      "en_icb_name": "Automobiles",
+      "level": "4"
+    },
+    {
+      "icb_code": "3355",
+      "icb_name": "Phụ tùng ô tô",
+      "en_icb_name": "Auto Parts",
+      "level": "4"
+    },
+    {
+      "icb_code": "3357",
+      "icb_name": "Lốp xe",
+      "en_icb_name": "Tires",
+      "level": "4"
+    },
+    {
+      "icb_code": "3533",
+      "icb_name": "Sản xuất bia",
+      "en_icb_name": "Brewers",
+      "level": "4"
+    },
+    {
+      "icb_code": "3535",
+      "icb_name": "Vang & Rượu mạnh",
+      "en_icb_name": "Distillers & Vintners",
+      "level": "4"
+    },
+    {
+      "icb_code": "3537",
+      "icb_name": "Đồ uống & giải khát",
+      "en_icb_name": "Soft Drinks",
+      "level": "4"
+    },
+    {
+      "icb_code": "3573",
+      "icb_name": "Nuôi trồng nông & hải sản",
+      "en_icb_name": "Farming & Fishing",
+      "level": "4"
+    },
+    {
+      "icb_code": "3577",
+      "icb_name": "Thực phẩm",
+      "en_icb_name": "Food Products",
+      "level": "4"
+    },
+    {
+      "icb_code": "3722",
+      "icb_name": "Đồ gia dụng lâu bền",
+      "en_icb_name": "Durable Household Products",
+      "level": "4"
+    },
+    {
+      "icb_code": "3724",
+      "icb_name": "Đồ gia dụng một lần",
+      "en_icb_name": "Nondurable Household Products",
+      "level": "4"
+    },
+    {
+      "icb_code": "3726",
+      "icb_name": "Thiết bị gia dụng",
+      "en_icb_name": "Furnishings",
+      "level": "4"
+    },
+    {
+      "icb_code": "3743",
+      "icb_name": "Điện tử tiêu dùng",
+      "en_icb_name": "Consumer Electronics",
+      "level": "4"
+    },
+    {
+      "icb_code": "3747",
+      "icb_name": "Đồ chơi",
+      "en_icb_name": "Toys",
+      "level": "4"
+    },
+    {
+      "icb_code": "3763",
+      "icb_name": "Hàng May mặc",
+      "en_icb_name": "Clothing & Accessories",
+      "level": "4"
+    },
+    {
+      "icb_code": "3765",
+      "icb_name": "Giầy dép",
+      "en_icb_name": "Footwear",
+      "level": "4"
+    },
+    {
+      "icb_code": "3767",
+      "icb_name": "Hàng cá nhân",
+      "en_icb_name": "Personal Products",
+      "level": "4"
+    },
+    {
+      "icb_code": "3785",
+      "icb_name": "Thuốc lá",
+      "en_icb_name": "Tobacco",
+      "level": "4"
+    },
+    {
+      "icb_code": "4533",
+      "icb_name": "Chăm sóc y tế",
+      "en_icb_name": "Health Care Providers",
+      "level": "4"
+    },
+    {
+      "icb_code": "4535",
+      "icb_name": "Thiết bị y tế",
+      "en_icb_name": "Medical Equipment",
+      "level": "4"
+    },
+    {
+      "icb_code": "4537",
+      "icb_name": "Dụng cụ y tế",
+      "en_icb_name": "Medical Supplies",
+      "level": "4"
+    },
+    {
+      "icb_code": "4573",
+      "icb_name": "Công nghệ sinh học",
+      "en_icb_name": "Biotechnology",
+      "level": "4"
+    },
+    {
+      "icb_code": "4577",
+      "icb_name": "Dược phẩm",
+      "en_icb_name": "Pharmaceuticals",
+      "level": "4"
+    },
+    {
+      "icb_code": "5333",
+      "icb_name": "Phân phối dược phẩm",
+      "en_icb_name": "Drug Retailers",
+      "level": "4"
+    },
+    {
+      "icb_code": "5337",
+      "icb_name": "Phân phối thực phẩm",
+      "en_icb_name": "Food Retailers & Wholesalers",
+      "level": "4"
+    },
+    {
+      "icb_code": "5373",
+      "icb_name": "Bán lẻ phức hợp",
+      "en_icb_name": "Broadline Retailers",
+      "level": "4"
+    },
+    {
+      "icb_code": "5377",
+      "icb_name": "Dịch vụ tiêu dùng chuyên ngành",
+      "en_icb_name": "Specialized Consumer Services",
+      "level": "4"
+    },
+    {
+      "icb_code": "5379",
+      "icb_name": "Phân phối hàng chuyên dụng",
+      "en_icb_name": "Specialty Retailers",
+      "level": "4"
+    },
+    {
+      "icb_code": "5553",
+      "icb_name": "Giải trí & Truyền thông",
+      "en_icb_name": "Broadcasting & Entertainment",
+      "level": "4"
+    },
+    {
+      "icb_code": "5555",
+      "icb_name": "Dịch vụ truyền thông",
+      "en_icb_name": "Media Agencies",
+      "level": "4"
+    },
+    {
+      "icb_code": "5557",
+      "icb_name": "Sách, ấn bản & sản phẩm văn hóa",
+      "en_icb_name": "Publishing",
+      "level": "4"
+    },
+    {
+      "icb_code": "5751",
+      "icb_name": "Hàng không",
+      "en_icb_name": "Airlines",
+      "level": "4"
+    },
+    {
+      "icb_code": "5753",
+      "icb_name": "Khách sạn",
+      "en_icb_name": "Hotels",
+      "level": "4"
+    },
+    {
+      "icb_code": "5755",
+      "icb_name": "Dịch vụ giải trí",
+      "en_icb_name": "Recreational Services",
+      "level": "4"
+    },
+    {
+      "icb_code": "5757",
+      "icb_name": "Nhà hàng và quán bar",
+      "en_icb_name": "Restaurants & Bars",
+      "level": "4"
+    },
+    {
+      "icb_code": "5759",
+      "icb_name": "Vận tải hành khách & Du lịch",
+      "en_icb_name": "Travel & Tourism",
+      "level": "4"
+    },
+    {
+      "icb_code": "6535",
+      "icb_name": "Viễn thông cố định",
+      "en_icb_name": "Fixed Line Telecommunications",
+      "level": "4"
+    },
+    {
+      "icb_code": "6575",
+      "icb_name": "Viễn thông di động",
+      "en_icb_name": "Mobile Telecommunications",
+      "level": "4"
+    },
+    {
+      "icb_code": "7535",
+      "icb_name": "Sản xuất & Phân phối Điện",
+      "en_icb_name": "Conventional Electricity",
+      "level": "4"
+    },
+    {
+      "icb_code": "7573",
+      "icb_name": "Phân phối xăng dầu & khí đốt",
+      "en_icb_name": "Gas Distribution",
+      "level": "4"
+    },
+    {
+      "icb_code": "7575",
+      "icb_name": "Tiện ích khác",
+      "en_icb_name": "Multiutilities",
+      "level": "4"
+    },
+    {
+      "icb_code": "7577",
+      "icb_name": "Nước",
+      "en_icb_name": "Water",
+      "level": "4"
+    },
+    {
+      "icb_code": "8355",
+      "icb_name": "Ngân hàng",
+      "en_icb_name": "Banks",
+      "level": "4"
+    },
+    {
+      "icb_code": "8536",
+      "icb_name": "Bảo hiểm phi nhân thọ",
+      "en_icb_name": "Property & Casualty Insurance",
+      "level": "4"
+    },
+    {
+      "icb_code": "8538",
+      "icb_name": "Tái bảo hiểm",
+      "en_icb_name": "Reinsurance",
+      "level": "4"
+    },
+    {
+      "icb_code": "8575",
+      "icb_name": "Bảo hiểm nhân thọ",
+      "en_icb_name": "Life Insurance",
+      "level": "4"
+    },
+    {
+      "icb_code": "8633",
+      "icb_name": "Bất động sản",
+      "en_icb_name": "Real Estate Holding & Development",
+      "level": "4"
+    },
+    {
+      "icb_code": "8637",
+      "icb_name": "Tư Vấn, Định giá, Môi giới Bất động sản",
+      "en_icb_name": "Real Estate Services",
+      "level": "4"
+    },
+    {
+      "icb_code": "8771",
+      "icb_name": "Quản lý tài sản",
+      "en_icb_name": "Asset Managers",
+      "level": "4"
+    },
+    {
+      "icb_code": "8773",
+      "icb_name": "Tài chính cá nhân",
+      "en_icb_name": "Consumer Finance",
+      "level": "4"
+    },
+    {
+      "icb_code": "8775",
+      "icb_name": "Tài chính đặc biệt",
+      "en_icb_name": "Specialty Finance",
+      "level": "4"
+    },
+    {
+      "icb_code": "8777",
+      "icb_name": "Môi giới chứng khoán",
+      "en_icb_name": "Investment Services",
+      "level": "4"
+    },
+    {
+      "icb_code": "8985",
+      "icb_name": "Quỹ đầu tư",
+      "en_icb_name": "Equity Investment Instruments",
+      "level": "4"
+    },
+    {
+      "icb_code": "9533",
+      "icb_name": "Dịch vụ Máy tính",
+      "en_icb_name": "Computer Services",
+      "level": "4"
+    },
+    {
+      "icb_code": "9535",
+      "icb_name": "Internet",
+      "en_icb_name": "Internet",
+      "level": "4"
+    },
+    {
+      "icb_code": "9537",
+      "icb_name": "Phần mềm",
+      "en_icb_name": "Software",
+      "level": "4"
+    },
+    {
+      "icb_code": "9572",
+      "icb_name": "Phần cứng",
+      "en_icb_name": "Computer Hardware",
+      "level": "4"
+    },
+    {
+      "icb_code": "9574",
+      "icb_name": "Thiết bị văn phòng",
+      "en_icb_name": "Electronic Office Equipment",
+      "level": "4"
+    },
+    {
+      "icb_code": "9578",
+      "icb_name": "Thiết bị viễn thông",
+      "en_icb_name": "Telecommunications Equipment",
+      "level": "4"
+    },
+    {
+      "icb_code": "1000",
+      "icb_name": "Nguyên vật liệu",
+      "en_icb_name": "Basic Materials",
+      "level": "1"
+    },
+    {
+      "icb_code": "2000",
+      "icb_name": "Công nghiệp",
+      "en_icb_name": "Industrials",
+      "level": "1"
+    },
+    {
+      "icb_code": "3000",
+      "icb_name": "Hàng Tiêu dùng",
+      "en_icb_name": "Consumer Goods",
+      "level": "1"
+    },
+    {
+      "icb_code": "4000",
+      "icb_name": "Dược phẩm và Y tế",
+      "en_icb_name": "Health Care",
+      "level": "1"
+    },
+    {
+      "icb_code": "5000",
+      "icb_name": "Dịch vụ Tiêu dùng",
+      "en_icb_name": "Consumer Services",
+      "level": "1"
+    },
+    {
+      "icb_code": "6000",
+      "icb_name": "Viễn thông",
+      "en_icb_name": "Telecommunications",
+      "level": "1"
+    },
+    {
+      "icb_code": "7000",
+      "icb_name": "Tiện ích Cộng đồng",
+      "en_icb_name": "Utilities",
+      "level": "1"
+    },
+    {
+      "icb_code": "8000",
+      "icb_name": "Tài chính",
+      "en_icb_name": "Financials",
+      "level": "1"
+    },
+    {
+      "icb_code": "8301",
+      "icb_name": "Ngân hàng",
+      "en_icb_name": "Banks",
+      "level": "1"
+    },
+    {
+      "icb_code": "9000",
+      "icb_name": "Công nghệ Thông tin",
+      "en_icb_name": "Technology",
+      "level": "1"
+    }
+  ],
+  "meta": {
+    "title": "Phân ngành ICB Việt Nam (155 ngành) - Tải miễn phí",
+    "description": "Phân loại ngành theo chuẩn ICB (Industry Classification Benchmark) — mã, tên tiếng Việt và tiếng Anh, cấp độ Chứa 155 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Phân ngành ICB Việt Nam (155 ngành) | ListBase",
+    "seo_description": "Tải xuống Phân ngành ICB Việt Nam (155 ngành) — 155 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 155 bản ghi / 4 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

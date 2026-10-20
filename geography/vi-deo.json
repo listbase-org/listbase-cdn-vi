@@ -1,0 +1,203 @@
+{
+  "id": "vi-deo",
+  "name": "Đèo ở Việt Nam",
+  "title": "Đèo ở Việt Nam",
+  "description": "Danh sách các đèo (mountain pass) trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q133056 (lớp đèo và mọi lớp con) kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Mỗi bản ghi gồm tên tiếng Việt (rdfs:label@vi), tên tiếng Anh, độ cao (m), dãy núi, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự trên Wikidata. Sắp xếp giảm dần theo độ cao. Bao gồm các đèo nổi tiếng như Đèo Ô Quy Hồ, Đèo Hải Vân và Đèo Ngoạn Mục. Đây là tập dữ liệu đèo đầu tiên trong nhóm tiếng Việt.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "number"
+    },
+    {
+      "key": "range_at",
+      "label": "Range At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q10840552",
+      "name_vi": "Đèo Ô Quy Hồ",
+      "name_en": "Đèo Ô Quy Hồ",
+      "elevation_m": 1991,
+      "range_at": "",
+      "latitude": 22.353333,
+      "longitude": 103.764444,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_%C3%94_Qu%C3%BD_H%E1%BB%93"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q10840550",
+      "name_vi": "Đèo Prenn",
+      "name_en": "Đèo Prenn",
+      "elevation_m": 1428,
+      "range_at": "",
+      "latitude": 11.905358,
+      "longitude": 108.448124,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_Prenn"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q10840546",
+      "name_vi": "Đèo Ngoạn Mục",
+      "name_en": "Đèo Ngoạn Mục",
+      "elevation_m": 629,
+      "range_at": "Dãy Trường Sơn",
+      "latitude": 11.834,
+      "longitude": 108.645,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_Ngo%E1%BA%A1n_M%E1%BB%A5c"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q1477078",
+      "name_vi": "Đèo Hải Vân",
+      "name_en": "Đèo Hải Vân",
+      "elevation_m": 496,
+      "range_at": "Dãy Trường Sơn",
+      "latitude": 16.1875,
+      "longitude": 108.130833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_H%E1%BA%A3i_V%C3%A2n"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q8558541",
+      "name_vi": "Đèo Mụ Giạ, Quảng Bình",
+      "name_en": "Đèo Mụ Giạ, Quảng Bình",
+      "elevation_m": 418,
+      "range_at": "Dãy Trường Sơn",
+      "latitude": 17.666667,
+      "longitude": 105.783333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_M%E1%BB%A5_Gi%E1%BA%A1"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q1924257",
+      "name_vi": "Đèo Ngang",
+      "name_en": "Đèo Ngang",
+      "elevation_m": 250,
+      "range_at": "Dãy Trường Sơn",
+      "latitude": 17.956111,
+      "longitude": 106.467778,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_Ngang"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q5202783",
+      "name_vi": "Đèo Cù Mông",
+      "name_en": "Đèo Cù Mông",
+      "elevation_m": 234,
+      "range_at": "",
+      "latitude": 13.68051,
+      "longitude": 109.17732,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_C%C3%B9_M%C3%B4ng"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q5202986",
+      "name_vi": "Đèo Cả",
+      "name_en": "Đèo Cả",
+      "elevation_m": 50,
+      "range_at": "",
+      "latitude": 12.879167,
+      "longitude": 109.277778,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_C%E1%BA%A3"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q6400989",
+      "name_vi": "Đèo Khau Phạ",
+      "name_en": "Đèo Khau Phạ",
+      "elevation_m": "",
+      "range_at": "",
+      "latitude": 21.775,
+      "longitude": 104.271667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_Khau_Ph%E1%BA%A1"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q6949928",
+      "name_vi": "Đèo Mã Pí Lèng",
+      "name_en": "Đèo Mã Pí Lèng",
+      "elevation_m": "",
+      "range_at": "",
+      "latitude": 23.24,
+      "longitude": 105.4,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_M%C3%A3_P%C3%AD_L%C3%A8ng"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q10840551",
+      "name_vi": "Đèo Tam Điệp",
+      "name_en": "Đèo Tam Điệp",
+      "elevation_m": "",
+      "range_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_Tam_%C4%90i%E1%BB%87p"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q61132394",
+      "name_vi": "Đèo Tài Hồ Sìn",
+      "name_en": "Đèo Tài Hồ Sìn",
+      "elevation_m": "",
+      "range_at": "",
+      "latitude": 22.612654,
+      "longitude": 106.172372,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%C3%A8o_T%C3%A0i_H%E1%BB%93_S%C3%ACn"
+    }
+  ],
+  "meta": {
+    "title": "Đèo ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách các đèo (mountain pass) trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q133056 (lớp đèo và mọi lớp con) kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Mỗi bản ghi gồm tên tiếng Việt (rdfs:label@vi), tên tiếng Anh, độ cao (m), dãy núi, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự trên Wikidata. Sắp xếp giảm dần theo độ cao. Bao gồm các đèo nổi tiếng như Đèo Ô Quy Hồ, Đèo Hải Vân và Đèo Ngoạn Mục. Đây là tập dữ liệu đèo đầu tiên trong nhóm tiếng Việt. Chứa 12 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Đèo ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Đèo ở Việt Nam — 12 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 12 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

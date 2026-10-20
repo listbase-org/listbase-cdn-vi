@@ -1,0 +1,126 @@
+{
+  "id": "vi-ha-nam-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Hà Nam",
+  "title": "Địa điểm du lịch Hà Nam",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Hà Nam (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "number"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 276,
+      "ten_dia_diem": "Chùa Tam Chúc",
+      "vi_tri": "Hà Nam",
+      "tinh_truoc_sap_nhap_2025": "Hà Nam",
+      "mo_ta": "Chùa Tam Chúc (Hà Nam) là một trong những quần thể chùa lớn nhất Việt Nam, nổi bật với kiến trúc hoành tráng và cảnh quan thiên nhiên tươi đẹp. Được bao quanh bởi những dãy núi, hồ nước trong xanh, đây là nơi thu hút tín đồ Phật giáo và du khách tham quan.",
+      "danh_gia": "4",
+      "danh_gia_diem": 4,
+      "anh": "https://www.kynghidongduong.vn/images/product/img2/du-lich-chua-tam-chuc-kynghidongduong-004.jpg",
+      "tu_khoa": "di sản, lịch sử, văn hóa"
+    },
+    {
+      "stt": 277,
+      "ten_dia_diem": "Đền Trần Thương",
+      "vi_tri": "Hà Nam",
+      "tinh_truoc_sap_nhap_2025": "Hà Nam",
+      "mo_ta": "Đền Trần Thương (Hà Nam) thờ các vị vua Trần, nổi bật với kiến trúc cổ kính và không gian thanh tịnh. Đền là điểm đến văn hóa, tâm linh, thu hút du khách vào mùa lễ hội.",
+      "danh_gia": "4.9",
+      "danh_gia_diem": 4.9,
+      "anh": "https://mia.vn/media/uploads/blog-du-lich/den-tran-thuong-7-1696133302.jpg",
+      "tu_khoa": "địa phương, độc đáo, khám phá"
+    },
+    {
+      "stt": 278,
+      "ten_dia_diem": "Hang Luồn",
+      "vi_tri": "Hà Nam",
+      "tinh_truoc_sap_nhap_2025": "Hà Nam",
+      "mo_ta": "Hang Luồn, nằm trong khu di tích Hạ Long, Quảng Ninh, nổi tiếng với hệ thống hang động kỳ vĩ. Du khách có thể chèo thuyền vào hang, khám phá vẻ đẹp hoang sơ của thiên nhiên.",
+      "danh_gia": "4.1",
+      "danh_gia_diem": 4.1,
+      "anh": "https://www.dulichhalong.net/wp-content/uploads/Hang-Luon-Halong.jpg",
+      "tu_khoa": "thiên nhiên, du lịch, hòa bình"
+    },
+    {
+      "stt": 279,
+      "ten_dia_diem": "Đền Lảnh Giang",
+      "vi_tri": "Hà Nam",
+      "tinh_truoc_sap_nhap_2025": "Hà Nam",
+      "mo_ta": "Đền Lảnh Giang (Hưng Yên) là di tích lịch sử thờ các bậc vua hùng, mang đậm giá trị văn hóa và lịch sử. Đây là một điểm du lịch tâm linh nổi bật tại miền Bắc.",
+      "danh_gia": "3.1",
+      "danh_gia_diem": 3.1,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC0tZbj_KAypbee0hvzuXUKlPNYZrhTvMsCQ&s",
+      "tu_khoa": "cảnh quan, địa danh, nổi bật"
+    },
+    {
+      "stt": 280,
+      "ten_dia_diem": "Làng Vũ Đại",
+      "vi_tri": "Hà Nam",
+      "tinh_truoc_sap_nhap_2025": "Hà Nam",
+      "mo_ta": "Làng Vũ Đại (Hà Nam) nổi tiếng nhờ sự gắn kết với tác phẩm \"Chí Phèo\" của nhà văn Nam Cao. Nơi đây có những ngôi nhà cổ, là điểm du lịch văn hóa, nơi lưu giữ nét đẹp văn hóa truyền thống.",
+      "danh_gia": "4.6",
+      "danh_gia_diem": 4.6,
+      "anh": "https://baogiaothong.mediacdn.vn/upload/images/2019-3/article_img/2019-09-12/ngo-i-nha-ba-kie-n-gio-tro-tha-nh-mo-t-die-m-tham-quan-mie-n-phi-cho-du-kha-ch--1568293960-width914height486.jpg",
+      "tu_khoa": "khám phá, thiên nhiên, thư giãn"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Hà Nam - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Hà Nam (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Hà Nam | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Hà Nam — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

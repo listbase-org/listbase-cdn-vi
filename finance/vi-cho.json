@@ -1,0 +1,295 @@
+{
+  "id": "vi-cho",
+  "name": "Chợ ở Việt Nam",
+  "title": "Chợ ở Việt Nam",
+  "description": "Danh sách chợ (khu mua bán truyền thống) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31 wd:Q330284 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu chợ (khu mua bán truyền thống) đầu tiên trong nhóm tiếng Việt — mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 24/26 toạ độ, 17/26 vi.wikipedia.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q32032749",
+      "name_vi": "Chợ An Đông",
+      "name_en": "An Dong Market",
+      "latitude": 10.758101,
+      "longitude": 106.672179,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_An_%C4%90%C3%B4ng"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q11839857",
+      "name_vi": "Chợ Bà Chiểu",
+      "name_en": "Ba Chieu Market",
+      "latitude": 10.801389,
+      "longitude": 106.698889,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_B%C3%A0_Chi%E1%BB%83u"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q125635362",
+      "name_vi": "Chợ Bàn Cờ",
+      "name_en": "Bàn Cờ Market",
+      "latitude": 10.768517,
+      "longitude": 106.680451,
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q15265989",
+      "name_vi": "Chợ Bình Tây",
+      "name_en": "Bình Tây Market",
+      "latitude": 10.749375,
+      "longitude": 106.651078,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_B%C3%ACnh_T%C3%A2y"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q3232879",
+      "name_vi": "Chợ Bến Thành",
+      "name_en": "Bến Thành Market",
+      "latitude": 10.772521,
+      "longitude": 106.698019,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_B%E1%BA%BFn_Th%C3%A0nh"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q10748770",
+      "name_vi": "Chợ Cồn",
+      "name_en": "Chợ Cồn",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_C%E1%BB%93n"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q10748771",
+      "name_vi": "Chợ Dân Sinh",
+      "name_en": "Dan Sinh Market",
+      "latitude": 10.766389,
+      "longitude": 106.698056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_D%C3%A2n_Sinh"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q136695168",
+      "name_vi": "Chợ Gò Vấp",
+      "name_en": "Go Vap Market",
+      "latitude": 10.823649,
+      "longitude": 106.687041,
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q136695129",
+      "name_vi": "Chợ Hòa Bình",
+      "name_en": "Hoa Binh Market",
+      "latitude": 10.752074,
+      "longitude": 106.67564,
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q10748776",
+      "name_vi": "Chợ Hạnh Thông Tây",
+      "name_en": "Hanh Thong Tay Market",
+      "latitude": 10.835556,
+      "longitude": 106.658611,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_H%E1%BA%A1nh_Th%C3%B4ng_T%C3%A2y"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q10748778",
+      "name_vi": "Chợ Kim Biên",
+      "name_en": "Kim Bien Market",
+      "latitude": 10.749722,
+      "longitude": 106.655833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_Kim_Bi%C3%AAn"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q10748787",
+      "name_vi": "Chợ Minh Phụng",
+      "name_en": "Minh Phung Market",
+      "latitude": 10.759722,
+      "longitude": 106.643889,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_Minh_Ph%E1%BB%A5ng"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q136695148",
+      "name_vi": "Chợ Phú Lâm",
+      "name_en": "Phu Lam Market",
+      "latitude": 10.755592,
+      "longitude": 106.631435,
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q10748790",
+      "name_vi": "Chợ Phạm Văn Hai",
+      "name_en": "Pham Van Hai Market",
+      "latitude": 10.794444,
+      "longitude": 106.6625,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_Ph%E1%BA%A1m_V%C4%83n_Hai"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q136695140",
+      "name_vi": "Chợ Thiếc",
+      "name_en": "Thiec Market",
+      "latitude": 10.759532,
+      "longitude": 106.656712,
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q136695112",
+      "name_vi": "Chợ Thái Bình",
+      "name_en": "Thai Binh Market",
+      "latitude": 10.76675,
+      "longitude": 106.68887,
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q136695169",
+      "name_vi": "Chợ Thủ Đức",
+      "name_en": "Thu Duc Market",
+      "latitude": 10.850212,
+      "longitude": 106.75417,
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q10748793",
+      "name_vi": "Chợ Tân Bình",
+      "name_en": "Tan Binh Market",
+      "latitude": 10.785833,
+      "longitude": 106.6525,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_T%C3%A2n_B%C3%ACnh"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q31994680",
+      "name_vi": "Chợ Tân Định",
+      "name_en": "Tan Dinh Market",
+      "latitude": 10.789904,
+      "longitude": 106.689996,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_T%C3%A2n_%C4%90%E1%BB%8Bnh"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q136695153",
+      "name_vi": "Chợ Xóm Củi",
+      "name_en": "Xom Cui Market",
+      "latitude": 10.746228,
+      "longitude": 106.660612,
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q136695151",
+      "name_vi": "Chợ Đa Kao",
+      "name_en": "Da Kao Market",
+      "latitude": 10.792434,
+      "longitude": 106.696569,
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q10748819",
+      "name_vi": "Chợ Đà Lạt",
+      "name_en": "Đà Lạt market",
+      "latitude": 11.942953,
+      "longitude": 108.436822,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_%C4%90%C3%A0_L%E1%BA%A1t"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q97273263",
+      "name_vi": "Chợ Đông Ba",
+      "name_en": "Đông Ba Market",
+      "latitude": 16.4725,
+      "longitude": 107.588611,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_%C4%90%C3%B4ng_Ba"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q32032941",
+      "name_vi": "Chợ đầu mối Bình Điền",
+      "name_en": "Binh Dien Market",
+      "latitude": 10.702804,
+      "longitude": 106.60979,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_%C4%91%E1%BA%A7u_m%E1%BB%91i_B%C3%ACnh_%C4%90i%E1%BB%81n"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q86013330",
+      "name_vi": "Chợ đầu mối nông sản thực phẩm Hóc Môn",
+      "name_en": "Chợ đầu mối nông sản thực phẩm Hóc Môn",
+      "latitude": 10.859625,
+      "longitude": 106.6011,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_%C4%91%E1%BA%A7u_m%E1%BB%91i_n%C3%B4ng_s%E1%BA%A3n_th%E1%BB%B1c_ph%E1%BA%A9m_H%C3%B3c_M%C3%B4n"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q10748823",
+      "name_vi": "Chợ đầu mối nông sản thực phẩm Thủ Đức",
+      "name_en": "Agricultural wholesale market in Thu Duc City",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_%C4%91%E1%BA%A7u_m%E1%BB%91i_n%C3%B4ng_s%E1%BA%A3n_th%E1%BB%B1c_ph%E1%BA%A9m_Th%E1%BB%A7_%C4%90%E1%BB%A9c"
+    }
+  ],
+  "meta": {
+    "title": "Chợ ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách chợ (khu mua bán truyền thống) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31 wd:Q330284 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu chợ (khu mua bán truyền thống) đầu tiên trong nhóm tiếng Việt — mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 24/26 toạ độ, 17/26 vi.wikipedia. Chứa 26 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Chợ ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Chợ ở Việt Nam — 26 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 26 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

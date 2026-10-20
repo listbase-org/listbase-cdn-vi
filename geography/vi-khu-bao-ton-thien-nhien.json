@@ -1,0 +1,184 @@
+{
+  "id": "vi-khu-bao-ton-thien-nhien",
+  "name": "Khu bảo tồn thiên nhiên ở Việt Nam",
+  "title": "Khu bảo tồn thiên nhiên ở Việt Nam",
+  "description": "Danh sách các khu bảo tồn thiên nhiên và khu dự trữ sinh quyển trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q179049 (lớp khu bảo tồn thiên nhiên và mọi lớp con) kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Vì vườn quốc gia (Q46169) là lớp con của khu bảo tồn thiên nhiên, các thực thể đồng thời là vườn quốc gia đã được loại bỏ khỏi tập này để tránh trùng lặp (chúng nằm trong tập vi-vuon-quoc-gia); việc loại trừ thực hiện bằng cách so khớp QID với tập vườn quốc gia. Mỗi bản ghi gồm tên tiếng Việt (rdfs:label@vi), tên tiếng Anh, diện tích (km²), năm thành lập, đơn vị hành chính chứa, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự. Bao gồm các khu như Khu bảo tồn thiên nhiên Ngọc Linh, Pù Luông và các khu dự trữ sinh quyển Cần Giờ, Đồng Nai. Đây là tập dữ liệu khu bảo tồn thiên nhiên đầu tiên trong nhóm tiếng Việt, tách biệt với vi-vuon-quoc-gia.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "established",
+      "label": "Established",
+      "type": "number"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q97622749",
+      "name_vi": "Khu bảo tồn thiên nhiên Ngọc Linh",
+      "name_en": "Khu bảo tồn thiên nhiên Ngọc Linh",
+      "area_km2": 414.2,
+      "established": 2014,
+      "located_in_at": "Đắk Glei",
+      "latitude": 15.1542,
+      "longitude": 107.8397,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Khu_b%E1%BA%A3o_t%E1%BB%93n_thi%C3%AAn_nhi%C3%AAn_Ng%E1%BB%8Dc_Linh"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q10763514",
+      "name_vi": "Gò Tháp",
+      "name_en": "Gò Tháp",
+      "area_km2": "",
+      "established": "",
+      "located_in_at": "Đồng Tháp",
+      "latitude": 10.597419,
+      "longitude": 105.824948,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/G%C3%B2_Th%C3%A1p"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q61133383",
+      "name_vi": "Khu bảo tồn thiên nhiên Bình Châu-Phước Bửu",
+      "name_en": "Khu bảo tồn thiên nhiên Bình Châu-Phước Bửu",
+      "area_km2": "",
+      "established": "",
+      "located_in_at": "Thành phố Hồ Chí Minh",
+      "latitude": 10.533333,
+      "longitude": 107.504167,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Khu_b%E1%BA%A3o_t%E1%BB%93n_thi%C3%AAn_nhi%C3%AAn_B%C3%ACnh_Ch%C3%A2u_%E2%80%93_Ph%C6%B0%E1%BB%9Bc_B%E1%BB%ADu"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q7257210",
+      "name_vi": "Khu bảo tồn thiên nhiên Pù Luông",
+      "name_en": "Khu bảo tồn thiên nhiên Pù Luông",
+      "area_km2": "",
+      "established": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Khu_b%E1%BA%A3o_t%E1%BB%93n_thi%C3%AAn_nhi%C3%AAn_P%C3%B9_Lu%C3%B4ng"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q105723502",
+      "name_vi": "Khu bảo tồn thiên nhiên đất ngập nước Vân Long",
+      "name_en": "Khu bảo tồn thiên nhiên đất ngập nước Vân Long",
+      "area_km2": "",
+      "established": "",
+      "located_in_at": "Ninh Bình",
+      "latitude": 20.372222,
+      "longitude": 105.875,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Khu_b%E1%BA%A3o_t%E1%BB%93n_thi%C3%AAn_nhi%C3%AAn_%C4%91%E1%BA%A5t_ng%E1%BA%ADp_n%C6%B0%E1%BB%9Bc_V%C3%A2n_Long"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q22771895",
+      "name_vi": "Khu dự trữ sinh quyển châu thổ sông Hồng",
+      "name_en": "Khu dự trữ sinh quyển châu thổ sông Hồng",
+      "area_km2": "",
+      "established": 2004,
+      "located_in_at": "",
+      "latitude": 20.47,
+      "longitude": 107,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Khu_d%E1%BB%B1_tr%E1%BB%AF_sinh_quy%E1%BB%83n_ch%C3%A2u_th%E1%BB%95_s%C3%B4ng_H%E1%BB%93ng"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q7988111",
+      "name_vi": "Khu dự trữ sinh quyển miền tây Nghệ An",
+      "name_en": "Khu dự trữ sinh quyển miền tây Nghệ An",
+      "area_km2": "",
+      "established": "",
+      "located_in_at": "",
+      "latitude": 19.24,
+      "longitude": 104.92,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Khu_d%E1%BB%B1_tr%E1%BB%AF_sinh_quy%E1%BB%83n_mi%E1%BB%81n_t%C3%A2y_Ngh%E1%BB%87_An"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q5029050",
+      "name_vi": "Khu dự trữ sinh quyển rừng ngập mặn Cần Giờ",
+      "name_en": "Khu dự trữ sinh quyển rừng ngập mặn Cần Giờ",
+      "area_km2": "",
+      "established": 2000,
+      "located_in_at": "",
+      "latitude": 10.31,
+      "longitude": 106.74,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Khu_d%E1%BB%B1_tr%E1%BB%AF_sinh_quy%E1%BB%83n_r%E1%BB%ABng_ng%E1%BA%ADp_m%E1%BA%B7n_C%E1%BA%A7n_Gi%E1%BB%9D"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q10779439",
+      "name_vi": "Khu dự trữ sinh quyển Đồng Nai",
+      "name_en": "Khu dự trữ sinh quyển Đồng Nai",
+      "area_km2": "",
+      "established": "",
+      "located_in_at": "Việt Nam",
+      "latitude": 11.44261,
+      "longitude": 107.23185,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Khu_d%E1%BB%B1_tr%E1%BB%AF_sinh_quy%E1%BB%83n_%C4%90%E1%BB%93ng_Nai"
+    }
+  ],
+  "meta": {
+    "title": "Khu bảo tồn thiên nhiên ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách các khu bảo tồn thiên nhiên và khu dự trữ sinh quyển trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q179049 (lớp khu bảo tồn thiên nhiên và mọi lớp con) kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Vì vườn quốc gia (Q46169) là lớp con của khu bảo tồn thiên nhiên, các thực thể đồng thời là vườn quốc gia đã được loại bỏ khỏi tập này để tránh trùng lặp (chúng nằm trong tập vi-vuon-quoc-gia); việc loại trừ thực hiện bằng cách so khớp QID với tập vườn quốc gia. Mỗi bản ghi gồm tên tiếng Việt (rdfs:label@vi), tên tiếng Anh, diện tích (km²), năm thành lập, đơn vị hành chính chứa, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự. Bao gồm các khu như Khu bảo tồn thiên nhiên Ngọc Linh, Pù Luông và các khu dự trữ sinh quyển Cần Giờ, Đồng Nai. Đây là tập dữ liệu khu bảo tồn thiên nhiên đầu tiên trong nhóm tiếng Việt, tách biệt với vi-vuon-quoc-gia. Chứa 9 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Khu bảo tồn thiên nhiên ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Khu bảo tồn thiên nhiên ở Việt Nam — 9 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 9 bản ghi / 10 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

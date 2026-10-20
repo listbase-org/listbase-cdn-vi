@@ -1,0 +1,126 @@
+{
+  "id": "vi-ca-mau-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Cà Mau",
+  "title": "Địa điểm du lịch Cà Mau",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Cà Mau (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 196,
+      "ten_dia_diem": "Mũi Cà Mau",
+      "vi_tri": "Cà Mau",
+      "tinh_truoc_sap_nhap_2025": "Cà Mau",
+      "mo_ta": "Điểm cực Nam của Việt Nam, nơi có biểu tượng cột mốc quốc gia và hệ sinh thái rừng ngập mặn độc đáo",
+      "danh_gia": "4.1/5",
+      "danh_gia_diem": 4.1,
+      "anh": "https://diemdenantoan.sgtiepthi.vn/wp-content/uploads/2023/08/muicamau-9.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 197,
+      "ten_dia_diem": "Vườn Quốc Gia U Minh Hạ",
+      "vi_tri": "Cà Mau",
+      "tinh_truoc_sap_nhap_2025": "Cà Mau",
+      "mo_ta": "Khu rừng tràm ngập nước nổi tiếng với hệ sinh thái đa dạng. Đây là nơi sinh sống của nhiều loài động, thực vật quý hiếm",
+      "danh_gia": "4.9/5",
+      "danh_gia_diem": 4.9,
+      "anh": "https://hanoitourist.com.vn/uploaded/images/2020/02/kin-nghiem-du-lich-u-minh-ha-3.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 198,
+      "ten_dia_diem": "Hòn Đá Bạc",
+      "vi_tri": "Cà Mau",
+      "tinh_truoc_sap_nhap_2025": "Cà Mau",
+      "mo_ta": "Cụm đảo nằm sát bờ biển, nổi bật với những phiến đá xếp chồng tự nhiên và hệ sinh thái biển phong phú",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/07_2020/noi-day-duoc-menh-danh-la-bien-ho-giua-dong-bang.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 199,
+      "ten_dia_diem": "Đầm Thị Tường",
+      "vi_tri": "Cà Mau",
+      "tinh_truoc_sap_nhap_2025": "Cà Mau",
+      "mo_ta": "Được mệnh danh là “biển hồ giữa đồng bằng”, đây là đầm nước tự nhiên lớn nhất miền Tây",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://dulichtravinh.com.vn/wp-content/uploads/2021/01/605a0a3db40c76522f1d.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 200,
+      "ten_dia_diem": "Đền Thờ Bác Hồ",
+      "vi_tri": "Cà Mau",
+      "tinh_truoc_sap_nhap_2025": "Cà Mau",
+      "mo_ta": "Địa điểm tâm linh quan trọng, nơi người dân Cà Mau bày tỏ lòng thành kính với Chủ tịch Hồ Chí Minh",
+      "danh_gia": "4.8/5",
+      "danh_gia_diem": 4.8,
+      "anh": "https://bizweb.dktcdn.net/100/366/377/files/hinh-anh-cho-noi-cai-rang.jpg?v=1681008363485",
+      "tu_khoa": ""
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Cà Mau - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Cà Mau (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Cà Mau | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Cà Mau — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

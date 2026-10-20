@@ -1,0 +1,126 @@
+{
+  "id": "vi-thua-thien-hue-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Thừa Thiên Huế",
+  "title": "Địa điểm du lịch Thừa Thiên Huế",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Thừa Thiên Huế (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 126,
+      "ten_dia_diem": "Đại Nội Huế",
+      "vi_tri": "Thừa Thiên Huế",
+      "tinh_truoc_sap_nhap_2025": "Thừa Thiên Huế",
+      "mo_ta": "Nằm ở bờ Bắc của dòng sông Hương thơ mộng trữ tình, Đại Nội Huế với kiến trúc nghệ thuật cung đình và vườn hào độc đáo. Cũng là trung tâm hành chính, chính trị của triều đình nhà Nguyễn và nơi sinh hoạt của nhà vua hoàng gia ngày xưa.",
+      "danh_gia": "4.9/5",
+      "danh_gia_diem": 4.9,
+      "anh": "http://surl.li/hwchra",
+      "tu_khoa": "kiến trúc, nghệ thuật, hành chính, chính trị, vua"
+    },
+    {
+      "stt": 127,
+      "ten_dia_diem": "Chùa Thiên Mụ",
+      "vi_tri": "Thừa Thiên Huế",
+      "tinh_truoc_sap_nhap_2025": "Thừa Thiên Huế",
+      "mo_ta": "Ngôi chùa này là điểm tham quan Huế nổi tiếng và không thể thiếu trong mọi hành trình đến khám phá Huế của du khách.Cách trung tâm thành phố Huế khoảng 5km về phía Tây, với một tên gọi khác là chùa Linh Mụ, chùa nằm trên đồi Hà Khê, nhìn xuống dòng Hương thơ mộng. Ngôi chùa mang vẻ đẹp cổ kính lâu đời với những khuông viên rộng rãi,khung cảnh thanh tịnh và đặc biệt hình tháp Phước Duyên 7 tầng tại sân trước của chùa được xem là biểu tượng đặc trưng cho thành phố Huế",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "http://surl.li/erxdid",
+      "tu_khoa": "chùa, cổ kính, Linh Mụ, lâu đời, đặc trưng"
+    },
+    {
+      "stt": 128,
+      "ten_dia_diem": "Lăng Khải Định",
+      "vi_tri": "Thừa Thiên Huế",
+      "tinh_truoc_sap_nhap_2025": "Thừa Thiên Huế",
+      "mo_ta": "Nhắc đến Huế người ta không khỏi đề cập đến lăng tẩm thời Nguyễn. Tour du lịch của bạn sẽ thú vị hơn, nếu đừng chân ghé thăm điểm đến Lăng Khải Định. Du khách sẽ được chiêm ngưỡng đỉnh cao nghệ thuật tạo hình sành sứ và thủy tinh rất tinh xảo của bàn tay nghệ nhân thời xưa qua, bởi lẽ. Có thể nói lăng Khải Định là một công trình kết hợp độc đáo giữa kiến trúc Đông – Tây tinh xảo.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "http://surl.li/wavyrq",
+      "tu_khoa": "thời Nguyễn, tạo hình, sành sứ, thủy tinh."
+    },
+    {
+      "stt": 129,
+      "ten_dia_diem": "Lăng Minh Mạng",
+      "vi_tri": "Thừa Thiên Huế",
+      "tinh_truoc_sap_nhap_2025": "Thừa Thiên Huế",
+      "mo_ta": "Lăng Minh Mạng còn gọi là Hiếu Lăng, nằm trên núi Cẩm Khê, gần ngã ba Bằng Lãng là nơi hội lưu của hai dòng Hữu Trạch và Tả Trạch hợp thành sông Hương, cách cố đô Huế 12 km. Lăng Minh Mạng được xây dựng từ năm 1840 đến năm 1843 thì hoàn thành, huy động tới mười nghìn thợ và lính.",
+      "danh_gia": "5.0/5",
+      "danh_gia_diem": 5,
+      "anh": "http://surl.li/pkhszj",
+      "tu_khoa": "Cẩm Khê, nghìn thợ"
+    },
+    {
+      "stt": 130,
+      "ten_dia_diem": "Cầu Tràng Tiền",
+      "vi_tri": "Thừa Thiên Huế",
+      "tinh_truoc_sap_nhap_2025": "Thừa Thiên Huế",
+      "mo_ta": "Một trong những chiếc cầu lâu đời tại Huế và trở thành biểu tượng du lịch của Huế không ai khác chính là cầu Tràng Tiền bắc qua sông Hương thơ mộng cũng là một “nàng thơ” kiều diễm của không ít văn nghệ sĩ trong nước.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "http://surl.li/cduiat",
+      "tu_khoa": "biểu tượng, lâu đời"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Thừa Thiên Huế - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Thừa Thiên Huế (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Thừa Thiên Huế | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Thừa Thiên Huế — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

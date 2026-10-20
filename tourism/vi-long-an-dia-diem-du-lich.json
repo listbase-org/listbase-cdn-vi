@@ -1,0 +1,126 @@
+{
+  "id": "vi-long-an-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Long An",
+  "title": "Địa điểm du lịch Long An",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Long An (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 36,
+      "ten_dia_diem": "Làng nổi Tân Lập",
+      "vi_tri": "Long An",
+      "tinh_truoc_sap_nhap_2025": "Long An",
+      "mo_ta": "Là khu rừng tràm ngập nước rộng lớn, nổi tiếng với con đường xuyên rừng dài gần 5km.",
+      "danh_gia": "4.4/5",
+      "danh_gia_diem": 4.4,
+      "anh": "https://disantrangan.vn/wp-content/uploads/2021/05/lang_noi_tan_lap_18-1600x1066.jpg",
+      "tu_khoa": "rừng, tham quan, chụp ảnh"
+    },
+    {
+      "stt": 37,
+      "ten_dia_diem": "Nhà cổ Trăm Cột",
+      "vi_tri": "Long An",
+      "tinh_truoc_sap_nhap_2025": "Long An",
+      "mo_ta": "Là một ngôi nhà cổ độc đáo với 120 cột gỗ quý được chạm khắc tinh xảo.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://tse4.mm.bing.net/th?id=OIP.E5QmqrexARskIuVpHN_f3wHaFR&pid=Api&P=0&h=220",
+      "tu_khoa": "tham quan, chụp ảnh, văn hóa, di tích"
+    },
+    {
+      "stt": 38,
+      "ten_dia_diem": "Chùa Tôn Thạnh",
+      "vi_tri": "Long An",
+      "tinh_truoc_sap_nhap_2025": "Long An",
+      "mo_ta": "Ngôi chùa này là nơi cụ Nguyễn Đình Chiểu từng ở và sáng tác bài văn tế \"Văn tế nghĩa sĩ Cần Giuộc\".",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://tse4.mm.bing.net/th?id=OIP.4g4eE5ZOp5g9_9DlwrJZrwHaEw&pid=Api&P=0&h=220",
+      "tu_khoa": "chùa, tham quan, văn hóa"
+    },
+    {
+      "stt": 39,
+      "ten_dia_diem": "Sông Vàm Cỏ",
+      "vi_tri": "Long An",
+      "tinh_truoc_sap_nhap_2025": "Long An",
+      "mo_ta": "Hai dòng sông lớn chảy qua Long An tạo nên vẻ đẹp sông nước đặc trưng.",
+      "danh_gia": "4.2/5",
+      "danh_gia_diem": 4.2,
+      "anh": "https://tse2.mm.bing.net/th?id=OIP.ZorRqKgh2xWA02dJByJFpQHaEK&pid=Api&P=0&h=220",
+      "tu_khoa": "sông, tham quan, chụp ảnh"
+    },
+    {
+      "stt": 40,
+      "ten_dia_diem": "Chợ đêm Tân An",
+      "vi_tri": "Long An",
+      "tinh_truoc_sap_nhap_2025": "Long An",
+      "mo_ta": "Là nơi lý tưởng để thưởng thức ẩm thực địa phương và mua sắm các đặc sản Long An",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://tse1.mm.bing.net/th?id=OIP.pqR8Xckg_RDQQn2YZLpmegHaEK&pid=Api&P=0&h=220",
+      "tu_khoa": "chợ, tham quan, ăn uống, mua sắm"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Long An - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Long An (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Long An | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Long An — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

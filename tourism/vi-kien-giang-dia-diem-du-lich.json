@@ -1,0 +1,126 @@
+{
+  "id": "vi-kien-giang-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Kiên Giang",
+  "title": "Địa điểm du lịch Kiên Giang",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Kiên Giang (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 6,
+      "ten_dia_diem": "Đảo Phú Quốc",
+      "vi_tri": "Kiên Giang",
+      "tinh_truoc_sap_nhap_2025": "Kiên Giang",
+      "mo_ta": "Là điểm du lịch nổi tiếng nhất Kiên Giang, được mệnh danh là \"Đảo Ngọc\" với nhiều bãi biển đẹp và dịch vụ cao cấp",
+      "danh_gia": "4.8/5",
+      "danh_gia_diem": 4.8,
+      "anh": "https://vietnam.travel/sites/default/files/inline-images/du-lich-phu-quoc-thang-10-.jpeg",
+      "tu_khoa": "đảo, biển, chụp ảnh, nghĩ dưỡng, vui chơi, ăn uống"
+    },
+    {
+      "stt": 7,
+      "ten_dia_diem": "Biển Mũi Nai",
+      "vi_tri": "Kiên Giang",
+      "tinh_truoc_sap_nhap_2025": "Kiên Giang",
+      "mo_ta": "Bãi biển hiền hòa, nơi lý tưởng để thư giãn và ngắm cảnh hoàng hôn",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://tse1.mm.bing.net/th?id=OIP.Ya_axd_TszOeEk3QppjKMwHaFj&pid=Api&P=0&h=220",
+      "tu_khoa": "biển, vui chơi, chụp ảnh, nghĩ dưỡng"
+    },
+    {
+      "stt": 8,
+      "ten_dia_diem": "Chùa Láng Cát",
+      "vi_tri": "Kiên Giang",
+      "tinh_truoc_sap_nhap_2025": "Kiên Giang",
+      "mo_ta": "Ngôi chùa cổ kính mang đậm dấu ấn Phật giáo.",
+      "danh_gia": "4.4/5",
+      "danh_gia_diem": 4.4,
+      "anh": "https://tse4.mm.bing.net/th?id=OIP.8FZLE40kihfcd4nTAkjEZQHaFj&pid=Api&P=0&h=220",
+      "tu_khoa": "chùa, tham quan, văn hóa"
+    },
+    {
+      "stt": 9,
+      "ten_dia_diem": "Vườn quốc gia U Minh Thượng",
+      "vi_tri": "Kiên Giang",
+      "tinh_truoc_sap_nhap_2025": "Kiên Giang",
+      "mo_ta": "Rừng ngập mặn với hệ sinh thái phong phú, là nơi lý tưởng để khám phá thiên nhiên hoang dã và tham quan bằng thuyền",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://nucuoimekong.com/wp-content/uploads/vuon-quoc-gia-u-minh-thuong-toan-canh.jpg",
+      "tu_khoa": "rừng, tham quan, chụp ảnh"
+    },
+    {
+      "stt": 10,
+      "ten_dia_diem": "Mộ chị Sứ",
+      "vi_tri": "Kiên Giang",
+      "tinh_truoc_sap_nhap_2025": "Kiên Giang",
+      "mo_ta": "Khu di tích lịch sử nổi tiếng, gắn liền với cuộc kháng chiến chống Pháp.",
+      "danh_gia": "4.4/5",
+      "danh_gia_diem": 4.4,
+      "anh": "https://tse2.mm.bing.net/th?id=OIP.TzRGCJsnEfeGXnPqQQFTLgHaFj&pid=Api&P=0&h=220",
+      "tu_khoa": "di tích, lịch sử"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Kiên Giang - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Kiên Giang (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Kiên Giang | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Kiên Giang — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

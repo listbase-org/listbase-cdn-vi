@@ -1,0 +1,226 @@
+{
+  "id": "vi-vn30-co-phieu",
+  "name": "Chỉ số VN30 — Cổ phiếu thành phần",
+  "title": "Chỉ số VN30 — Cổ phiếu thành phần",
+  "description": "Danh sách 30 mã cổ phiếu thành phần của chỉ số VN30 (Vietnam 30 Index) — 30 cổ phiếu vốn hóa lớn nhất, thanh khoản cao nhất trên sàn HOSE.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "exchange",
+      "label": "Exchange",
+      "type": "string"
+    },
+    {
+      "key": "organ_short_name",
+      "label": "Organ Short Name",
+      "type": "string"
+    },
+    {
+      "key": "organ_name",
+      "label": "Organ Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "symbol": "ACB",
+      "exchange": "HSX",
+      "organ_short_name": "ACB",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Á Châu"
+    },
+    {
+      "symbol": "BCM",
+      "exchange": "HSX",
+      "organ_short_name": "Becamex IDC",
+      "organ_name": "Tổng Công ty Đầu tư và Phát triển Công nghiệp - CTCP"
+    },
+    {
+      "symbol": "BID",
+      "exchange": "HSX",
+      "organ_short_name": "BIDV",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam"
+    },
+    {
+      "symbol": "BVH",
+      "exchange": "HSX",
+      "organ_short_name": "Tập đoàn Bảo Việt",
+      "organ_name": "Tập đoàn Bảo Việt"
+    },
+    {
+      "symbol": "CTG",
+      "exchange": "HSX",
+      "organ_short_name": "VietinBank",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Công thương Việt Nam"
+    },
+    {
+      "symbol": "FPT",
+      "exchange": "HSX",
+      "organ_short_name": "FPT Corp",
+      "organ_name": "Công ty Cổ phần FPT"
+    },
+    {
+      "symbol": "GAS",
+      "exchange": "HSX",
+      "organ_short_name": "PV Gas",
+      "organ_name": "Tổng Công ty Khí Việt Nam - Công ty Cổ phần"
+    },
+    {
+      "symbol": "GVR",
+      "exchange": "HSX",
+      "organ_short_name": "Tập đoàn CN Cao su VN",
+      "organ_name": "Tập đoàn Công nghiệp Cao su Việt Nam - Công ty Cổ phần"
+    },
+    {
+      "symbol": "HDB",
+      "exchange": "HSX",
+      "organ_short_name": "HDBank",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Phát Triển Thành phố Hồ Chí Minh"
+    },
+    {
+      "symbol": "HPG",
+      "exchange": "HSX",
+      "organ_short_name": "Hòa Phát",
+      "organ_name": "Công ty Cổ phần Tập đoàn Hòa Phát"
+    },
+    {
+      "symbol": "LPB",
+      "exchange": "HSX",
+      "organ_short_name": "LPBank",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Lộc Phát Việt Nam"
+    },
+    {
+      "symbol": "MBB",
+      "exchange": "HSX",
+      "organ_short_name": "MBBank",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Quân đội"
+    },
+    {
+      "symbol": "MSN",
+      "exchange": "HSX",
+      "organ_short_name": "Tập đoàn Masan",
+      "organ_name": "Công ty Cổ phần Tập đoàn Masan"
+    },
+    {
+      "symbol": "MWG",
+      "exchange": "HSX",
+      "organ_short_name": "Thế giới di động",
+      "organ_name": "Công ty Cổ phần Đầu tư Thế Giới Di Động"
+    },
+    {
+      "symbol": "PLX",
+      "exchange": "HSX",
+      "organ_short_name": "Petrolimex",
+      "organ_name": "Tập đoàn Xăng dầu Việt Nam"
+    },
+    {
+      "symbol": "SAB",
+      "exchange": "HSX",
+      "organ_short_name": "SABECO",
+      "organ_name": "Tổng Công ty Cổ phần Bia - Rượu - Nước Giải khát Sài Gòn"
+    },
+    {
+      "symbol": "SHB",
+      "exchange": "HSX",
+      "organ_short_name": "SHB",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Sài Gòn – Hà Nội"
+    },
+    {
+      "symbol": "SSB",
+      "exchange": "HSX",
+      "organ_short_name": "SeABank",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Đông Nam Á"
+    },
+    {
+      "symbol": "SSI",
+      "exchange": "HSX",
+      "organ_short_name": "Chứng khoán SSI",
+      "organ_name": "Công ty Cổ phần Chứng khoán SSI"
+    },
+    {
+      "symbol": "STB",
+      "exchange": "HSX",
+      "organ_short_name": "Sacombank",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín"
+    },
+    {
+      "symbol": "TCB",
+      "exchange": "HSX",
+      "organ_short_name": "Techcombank",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Kỹ thương Việt Nam"
+    },
+    {
+      "symbol": "TPB",
+      "exchange": "HSX",
+      "organ_short_name": "TPBank",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Tiên Phong"
+    },
+    {
+      "symbol": "VCB",
+      "exchange": "HSX",
+      "organ_short_name": "Vietcombank",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam"
+    },
+    {
+      "symbol": "VHM",
+      "exchange": "HSX",
+      "organ_short_name": "Vinhomes",
+      "organ_name": "Công ty Cổ phần Vinhomes"
+    },
+    {
+      "symbol": "VIB",
+      "exchange": "HSX",
+      "organ_short_name": "VIBBank",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Quốc tế Việt Nam"
+    },
+    {
+      "symbol": "VIC",
+      "exchange": "HSX",
+      "organ_short_name": "VinGroup",
+      "organ_name": "Tập đoàn Vingroup - Công ty CP"
+    },
+    {
+      "symbol": "VJC",
+      "exchange": "HSX",
+      "organ_short_name": "Vietjet Air",
+      "organ_name": "Công ty Cổ phần Hàng không Vietjet"
+    },
+    {
+      "symbol": "VNM",
+      "exchange": "HSX",
+      "organ_short_name": "VINAMILK",
+      "organ_name": "Công ty Cổ phần Sữa Việt Nam"
+    },
+    {
+      "symbol": "VPB",
+      "exchange": "HSX",
+      "organ_short_name": "VPBank",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Việt Nam Thịnh Vượng"
+    },
+    {
+      "symbol": "VRE",
+      "exchange": "HSX",
+      "organ_short_name": "Vincom Retail",
+      "organ_name": "Công ty Cổ phần Vincom Retail"
+    }
+  ],
+  "meta": {
+    "title": "Chỉ số VN30 — Cổ phiếu thành phần - Tải miễn phí",
+    "description": "Danh sách 30 mã cổ phiếu thành phần của chỉ số VN30 (Vietnam 30 Index) — 30 cổ phiếu vốn hóa lớn nhất, thanh khoản cao nhất trên sàn HOSE. Chứa 30 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Chỉ số VN30 — Cổ phiếu thành phần | ListBase",
+    "seo_description": "Tải xuống Chỉ số VN30 — Cổ phiếu thành phần — 30 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 30 bản ghi / 4 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

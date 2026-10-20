@@ -1,0 +1,186 @@
+{
+  "id": "vi-lam-dong-quan-huyen-2019",
+  "name": "Lâm Đồng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Lâm Đồng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 12 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Lâm Đồng theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 10 Huyện, 2 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/LDD.json). (12 district-level units of Lâm Đồng under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "LDD-01",
+      "name": "Bảo Lâm",
+      "name_full": "Huyện Bảo Lâm",
+      "slug": "bao-lam",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 15
+    },
+    {
+      "code": "LDD-02",
+      "name": "Bảo Lộc",
+      "name_full": "Thành phố Bảo Lộc",
+      "slug": "bao-loc",
+      "division_type": "Thành phố",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 11
+    },
+    {
+      "code": "LDD-03",
+      "name": "Cát Tiên",
+      "name_full": "Huyện Cát Tiên",
+      "slug": "cat-tien",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 12
+    },
+    {
+      "code": "LDD-04",
+      "name": "Đạ Huoai",
+      "name_full": "Huyện Đạ Huoai",
+      "slug": "da-huoai",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 10
+    },
+    {
+      "code": "LDD-05",
+      "name": "Đà Lạt",
+      "name_full": "Thành phố Đà Lạt",
+      "slug": "da-lat",
+      "division_type": "Thành phố",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 16
+    },
+    {
+      "code": "LDD-06",
+      "name": "Đạ Tẻh",
+      "name_full": "Huyện Đạ Tẻh",
+      "slug": "da-teh",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 11
+    },
+    {
+      "code": "LDD-07",
+      "name": "Đam Rông",
+      "name_full": "Huyện Đam Rông",
+      "slug": "dam-rong",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 8
+    },
+    {
+      "code": "LDD-08",
+      "name": "Di Linh",
+      "name_full": "Huyện Di Linh",
+      "slug": "di-linh",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 19
+    },
+    {
+      "code": "LDD-09",
+      "name": "Đơn Dương",
+      "name_full": "Huyện Đơn Dương",
+      "slug": "don-duong",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 10
+    },
+    {
+      "code": "LDD-10",
+      "name": "Đức Trọng",
+      "name_full": "Huyện Đức Trọng",
+      "slug": "duc-trong",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 15
+    },
+    {
+      "code": "LDD-11",
+      "name": "Lạc Dương",
+      "name_full": "Huyện Lạc Dương",
+      "slug": "lac-duong",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 6
+    },
+    {
+      "code": "LDD-12",
+      "name": "Lâm Hà",
+      "name_full": "Huyện Lâm Hà",
+      "slug": "lam-ha",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 16
+    }
+  ],
+  "meta": {
+    "title": "Lâm Đồng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 12 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Lâm Đồng theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 10 Huyện, 2 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/LDD.json). (12 district-level units of Lâm Đồng under the pre-2025-merger 3-tier hierarchy.) Chứa 12 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Lâm Đồng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Lâm Đồng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 12 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 12 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

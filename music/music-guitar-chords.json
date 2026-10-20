@@ -1,0 +1,942 @@
+{
+  "id": "music-guitar-chords",
+  "name": "Bộ Dữ Liệu Biểu Đồ Hợp Âm Guitar Toàn Diện",
+  "category": "music",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "chord",
+      "label": "Chord Symbol",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Chord Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Chord Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "fingering",
+      "label": "Fingering (E-A-D-G-B-e)",
+      "type": "string"
+    },
+    {
+      "key": "fret_position",
+      "label": "Fret Position",
+      "type": "string"
+    },
+    {
+      "key": "fingers",
+      "label": "Finger Placement",
+      "type": "string"
+    },
+    {
+      "key": "difficulty",
+      "label": "Difficulty (EN)",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    },
+    {
+      "key": "intervals",
+      "label": "Intervals",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chord": "C",
+      "name": "Đô Trưởng",
+      "type": "Trưởng",
+      "fingering": "x32010",
+      "fret_position": "Open",
+      "fingers": "0-3-2-0-1-0",
+      "difficulty": "Sơ cấp",
+      "notes": "C-E-G",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "D",
+      "name": "Rê Trưởng",
+      "type": "Trưởng",
+      "fingering": "xx0232",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-3-2",
+      "difficulty": "Sơ cấp",
+      "notes": "D-F#-A",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "E",
+      "name": "Mi Trưởng",
+      "type": "Trưởng",
+      "fingering": "022100",
+      "fret_position": "Open",
+      "fingers": "0-2-2-1-0-0",
+      "difficulty": "Sơ cấp",
+      "notes": "E-G#-B",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "F",
+      "name": "Fa Trưởng",
+      "type": "Trưởng",
+      "fingering": "133211",
+      "fret_position": "1st Fret Barre",
+      "fingers": "1-3-3-2-1-1",
+      "difficulty": "Trung cấp",
+      "notes": "F-A-C",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "G",
+      "name": "Sol Trưởng",
+      "type": "Trưởng",
+      "fingering": "320003",
+      "fret_position": "Open",
+      "fingers": "3-2-0-0-0-3",
+      "difficulty": "Sơ cấp",
+      "notes": "G-B-D",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "A",
+      "name": "La Trưởng",
+      "type": "Trưởng",
+      "fingering": "x02220",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-2-0",
+      "difficulty": "Sơ cấp",
+      "notes": "A-C#-E",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "B",
+      "name": "Si Trưởng",
+      "type": "Trưởng",
+      "fingering": "x24442",
+      "fret_position": "2nd Fret Barre",
+      "fingers": "x-1-3-3-3-1",
+      "difficulty": "Trung cấp",
+      "notes": "B-D#-F#",
+      "intervals": "1-3-5"
+    },
+    {
+      "chord": "Cm",
+      "name": "Đô Thứ",
+      "type": "Thứ",
+      "fingering": "x35543",
+      "fret_position": "3rd Fret Barre",
+      "fingers": "x-1-3-4-2-1",
+      "difficulty": "Trung cấp",
+      "notes": "C-Eb-G",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Dm",
+      "name": "Rê Thứ",
+      "type": "Thứ",
+      "fingering": "xx0231",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-3-1",
+      "difficulty": "Sơ cấp",
+      "notes": "D-F-A",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Em",
+      "name": "Mi Thứ",
+      "type": "Thứ",
+      "fingering": "022000",
+      "fret_position": "Open",
+      "fingers": "0-2-2-0-0-0",
+      "difficulty": "Sơ cấp",
+      "notes": "E-G-B",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Fm",
+      "name": "Fa Thứ",
+      "type": "Thứ",
+      "fingering": "133111",
+      "fret_position": "1st Fret Barre",
+      "fingers": "1-3-3-1-1-1",
+      "difficulty": "Trung cấp",
+      "notes": "F-Ab-C",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Gm",
+      "name": "Sol Thứ",
+      "type": "Thứ",
+      "fingering": "355333",
+      "fret_position": "3rd Fret Barre",
+      "fingers": "1-3-4-1-1-1",
+      "difficulty": "Trung cấp",
+      "notes": "G-Bb-D",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Am",
+      "name": "La Thứ",
+      "type": "Thứ",
+      "fingering": "x02210",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-1-0",
+      "difficulty": "Sơ cấp",
+      "notes": "A-C-E",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "Bm",
+      "name": "Si Thứ",
+      "type": "Thứ",
+      "fingering": "x24432",
+      "fret_position": "2nd Fret Barre",
+      "fingers": "x-1-3-4-2-1",
+      "difficulty": "Trung cấp",
+      "notes": "B-D-F#",
+      "intervals": "1-b3-5"
+    },
+    {
+      "chord": "C7",
+      "name": "Đô Bảy át",
+      "type": "Bảy át",
+      "fingering": "x32310",
+      "fret_position": "Open",
+      "fingers": "x-3-2-3-1-0",
+      "difficulty": "Sơ cấp",
+      "notes": "C-E-G-Bb",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "D7",
+      "name": "Rê Bảy át",
+      "type": "Bảy át",
+      "fingering": "xx0212",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-1-2",
+      "difficulty": "Sơ cấp",
+      "notes": "D-F#-A-C",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "E7",
+      "name": "Mi Bảy át",
+      "type": "Bảy át",
+      "fingering": "020100",
+      "fret_position": "Open",
+      "fingers": "0-2-0-1-0-0",
+      "difficulty": "Sơ cấp",
+      "notes": "E-G#-B-D",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "F7",
+      "name": "Fa Bảy át",
+      "type": "Bảy át",
+      "fingering": "131211",
+      "fret_position": "1st Fret Barre",
+      "fingers": "1-3-1-2-1-1",
+      "difficulty": "Trung cấp",
+      "notes": "F-A-C-Eb",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "G7",
+      "name": "Sol Bảy át",
+      "type": "Bảy át",
+      "fingering": "320001",
+      "fret_position": "Open",
+      "fingers": "3-2-0-0-0-1",
+      "difficulty": "Sơ cấp",
+      "notes": "G-B-D-F",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "A7",
+      "name": "La Bảy át",
+      "type": "Bảy át",
+      "fingering": "x02020",
+      "fret_position": "Open",
+      "fingers": "x-0-2-0-2-0",
+      "difficulty": "Sơ cấp",
+      "notes": "A-C#-E-G",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "B7",
+      "name": "B Dominant 7",
+      "type": "Dominant 7",
+      "fingering": "x21202",
+      "fret_position": "Open",
+      "fingers": "x-2-1-2-0-2",
+      "difficulty": "Sơ cấp",
+      "notes": "B-D#-F#-A",
+      "intervals": "1-3-5-b7"
+    },
+    {
+      "chord": "Cmaj7",
+      "name": "C Major 7",
+      "type": "Major 7",
+      "fingering": "x32000",
+      "fret_position": "Open",
+      "fingers": "x-3-2-0-0-0",
+      "difficulty": "Sơ cấp",
+      "notes": "C-E-G-B",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Dmaj7",
+      "name": "D Major 7",
+      "type": "Major 7",
+      "fingering": "xx0222",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-2-2",
+      "difficulty": "Sơ cấp",
+      "notes": "D-F#-A-C#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Emaj7",
+      "name": "E Major 7",
+      "type": "Major 7",
+      "fingering": "021100",
+      "fret_position": "Open",
+      "fingers": "0-2-1-1-0-0",
+      "difficulty": "Sơ cấp",
+      "notes": "E-G#-B-D#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Fmaj7",
+      "name": "F Major 7",
+      "type": "Major 7",
+      "fingering": "1x2210",
+      "fret_position": "Open",
+      "fingers": "1-x-2-2-1-0",
+      "difficulty": "Sơ cấp",
+      "notes": "F-A-C-E",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Gmaj7",
+      "name": "G Major 7",
+      "type": "Major 7",
+      "fingering": "320002",
+      "fret_position": "Open",
+      "fingers": "3-2-0-0-0-2",
+      "difficulty": "Sơ cấp",
+      "notes": "G-B-D-F#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Amaj7",
+      "name": "A Major 7",
+      "type": "Major 7",
+      "fingering": "x02120",
+      "fret_position": "Open",
+      "fingers": "x-0-2-1-2-0",
+      "difficulty": "Sơ cấp",
+      "notes": "A-C#-E-G#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Bmaj7",
+      "name": "B Major 7",
+      "type": "Major 7",
+      "fingering": "x24342",
+      "fret_position": "2nd Fret",
+      "fingers": "x-1-3-2-4-1",
+      "difficulty": "Trung cấp",
+      "notes": "B-D#-F#-A#",
+      "intervals": "1-3-5-7"
+    },
+    {
+      "chord": "Cm7",
+      "name": "C Minor 7",
+      "type": "Minor 7",
+      "fingering": "x35343",
+      "fret_position": "3rd Fret Barre",
+      "fingers": "x-1-3-1-2-1",
+      "difficulty": "Trung cấp",
+      "notes": "C-Eb-G-Bb",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Dm7",
+      "name": "D Minor 7",
+      "type": "Minor 7",
+      "fingering": "xx0211",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-1-1",
+      "difficulty": "Sơ cấp",
+      "notes": "D-F-A-C",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Em7",
+      "name": "E Minor 7",
+      "type": "Minor 7",
+      "fingering": "020000",
+      "fret_position": "Open",
+      "fingers": "0-2-0-0-0-0",
+      "difficulty": "Sơ cấp",
+      "notes": "E-G-B-D",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Fm7",
+      "name": "F Minor 7",
+      "type": "Minor 7",
+      "fingering": "131111",
+      "fret_position": "1st Fret Barre",
+      "fingers": "1-3-1-1-1-1",
+      "difficulty": "Trung cấp",
+      "notes": "F-Ab-C-Eb",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Gm7",
+      "name": "G Minor 7",
+      "type": "Minor 7",
+      "fingering": "353333",
+      "fret_position": "3rd Fret Barre",
+      "fingers": "1-3-1-1-1-1",
+      "difficulty": "Trung cấp",
+      "notes": "G-Bb-D-F",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Am7",
+      "name": "A Minor 7",
+      "type": "Minor 7",
+      "fingering": "x02010",
+      "fret_position": "Open",
+      "fingers": "x-0-2-0-1-0",
+      "difficulty": "Sơ cấp",
+      "notes": "A-C-E-G",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Bm7",
+      "name": "B Minor 7",
+      "type": "Minor 7",
+      "fingering": "x24232",
+      "fret_position": "2nd Fret Barre",
+      "fingers": "x-1-3-1-2-1",
+      "difficulty": "Trung cấp",
+      "notes": "B-D-F#-A",
+      "intervals": "1-b3-5-b7"
+    },
+    {
+      "chord": "Csus2",
+      "name": "C Treo 2",
+      "type": "Treo",
+      "fingering": "x30010",
+      "fret_position": "Open",
+      "fingers": "x-3-0-0-1-0",
+      "difficulty": "Sơ cấp",
+      "notes": "C-D-G",
+      "intervals": "1-2-5"
+    },
+    {
+      "chord": "Csus4",
+      "name": "C Treo 4",
+      "type": "Treo",
+      "fingering": "x33011",
+      "fret_position": "Open",
+      "fingers": "x-3-3-0-1-1",
+      "difficulty": "Sơ cấp",
+      "notes": "C-F-G",
+      "intervals": "1-4-5"
+    },
+    {
+      "chord": "Dsus2",
+      "name": "D Treo 2",
+      "type": "Treo",
+      "fingering": "xx0230",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-3-0",
+      "difficulty": "Sơ cấp",
+      "notes": "D-E-A",
+      "intervals": "1-2-5"
+    },
+    {
+      "chord": "Dsus4",
+      "name": "D Treo 4",
+      "type": "Treo",
+      "fingering": "xx0233",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-3-3",
+      "difficulty": "Sơ cấp",
+      "notes": "D-G-A",
+      "intervals": "1-4-5"
+    },
+    {
+      "chord": "Esus4",
+      "name": "E Treo 4",
+      "type": "Treo",
+      "fingering": "022200",
+      "fret_position": "Open",
+      "fingers": "0-2-2-2-0-0",
+      "difficulty": "Sơ cấp",
+      "notes": "E-A-B",
+      "intervals": "1-4-5"
+    },
+    {
+      "chord": "Asus2",
+      "name": "A Treo 2",
+      "type": "Treo",
+      "fingering": "x02200",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-0-0",
+      "difficulty": "Sơ cấp",
+      "notes": "A-B-E",
+      "intervals": "1-2-5"
+    },
+    {
+      "chord": "Asus4",
+      "name": "A Treo 4",
+      "type": "Treo",
+      "fingering": "x02230",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-3-0",
+      "difficulty": "Sơ cấp",
+      "notes": "A-D-E",
+      "intervals": "1-4-5"
+    },
+    {
+      "chord": "Cdim",
+      "name": "C Giảm",
+      "type": "Giảm",
+      "fingering": "x3424x",
+      "fret_position": "3rd Fret",
+      "fingers": "x-2-4-2-4-x",
+      "difficulty": "Trung cấp",
+      "notes": "C-Eb-Gb",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Ddim",
+      "name": "D Giảm",
+      "type": "Giảm",
+      "fingering": "xx0131",
+      "fret_position": "Open",
+      "fingers": "x-x-0-1-3-1",
+      "difficulty": "Trung cấp",
+      "notes": "D-F-Ab",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Edim",
+      "name": "E Giảm",
+      "type": "Giảm",
+      "fingering": "012020",
+      "fret_position": "Open",
+      "fingers": "0-1-2-0-2-0",
+      "difficulty": "Trung cấp",
+      "notes": "E-G-Bb",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Fdim",
+      "name": "F Giảm",
+      "type": "Giảm",
+      "fingering": "1x0101",
+      "fret_position": "1st Fret",
+      "fingers": "1-x-0-1-0-1",
+      "difficulty": "Trung cấp",
+      "notes": "F-Ab-Cb",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Gdim",
+      "name": "G Giảm",
+      "type": "Giảm",
+      "fingering": "3x2323",
+      "fret_position": "3rd Fret",
+      "fingers": "2-x-1-2-1-2",
+      "difficulty": "Trung cấp",
+      "notes": "G-Bb-Db",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Adim",
+      "name": "A Giảm",
+      "type": "Giảm",
+      "fingering": "x0121x",
+      "fret_position": "Open",
+      "fingers": "x-0-1-2-1-x",
+      "difficulty": "Trung cấp",
+      "notes": "A-C-Eb",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Bdim",
+      "name": "B Giảm",
+      "type": "Giảm",
+      "fingering": "x2343x",
+      "fret_position": "2nd Fret",
+      "fingers": "x-1-2-3-2-x",
+      "difficulty": "Trung cấp",
+      "notes": "B-D-F",
+      "intervals": "1-b3-b5"
+    },
+    {
+      "chord": "Caug",
+      "name": "C Tăng",
+      "type": "Tăng",
+      "fingering": "x32110",
+      "fret_position": "Open",
+      "fingers": "x-3-2-1-1-0",
+      "difficulty": "Trung cấp",
+      "notes": "C-E-G#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Daug",
+      "name": "D Tăng",
+      "type": "Tăng",
+      "fingering": "xx0332",
+      "fret_position": "Open",
+      "fingers": "x-x-0-3-3-2",
+      "difficulty": "Trung cấp",
+      "notes": "D-F#-A#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Eaug",
+      "name": "E Tăng",
+      "type": "Tăng",
+      "fingering": "032110",
+      "fret_position": "Open",
+      "fingers": "0-3-2-1-1-0",
+      "difficulty": "Trung cấp",
+      "notes": "E-G#-B#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Faug",
+      "name": "F Tăng",
+      "type": "Tăng",
+      "fingering": "1x322x",
+      "fret_position": "1st Fret",
+      "fingers": "1-x-3-2-2-x",
+      "difficulty": "Trung cấp",
+      "notes": "F-A-C#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Gaug",
+      "name": "G Tăng",
+      "type": "Tăng",
+      "fingering": "321003",
+      "fret_position": "Open",
+      "fingers": "3-2-1-0-0-3",
+      "difficulty": "Trung cấp",
+      "notes": "G-B-D#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Aaug",
+      "name": "A Tăng",
+      "type": "Tăng",
+      "fingering": "x03221",
+      "fret_position": "Open",
+      "fingers": "x-0-3-2-2-1",
+      "difficulty": "Trung cấp",
+      "notes": "A-C#-E#",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "Baug",
+      "name": "B Tăng",
+      "type": "Tăng",
+      "fingering": "x21003",
+      "fret_position": "Open",
+      "fingers": "x-2-1-0-0-3",
+      "difficulty": "Trung cấp",
+      "notes": "B-D#-Fx",
+      "intervals": "1-3-#5"
+    },
+    {
+      "chord": "C5",
+      "name": "C Hợp âm quãng 5",
+      "type": "Hợp âm quãng 5",
+      "fingering": "x355xx",
+      "fret_position": "3rd Fret",
+      "fingers": "x-1-3-4-x-x",
+      "difficulty": "Sơ cấp",
+      "notes": "C-G",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "D5",
+      "name": "D Hợp âm quãng 5",
+      "type": "Hợp âm quãng 5",
+      "fingering": "x577xx",
+      "fret_position": "5th Fret",
+      "fingers": "x-1-3-4-x-x",
+      "difficulty": "Sơ cấp",
+      "notes": "D-A",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "E5",
+      "name": "E Hợp âm quãng 5",
+      "type": "Hợp âm quãng 5",
+      "fingering": "022xxx",
+      "fret_position": "Open",
+      "fingers": "0-2-2-x-x-x",
+      "difficulty": "Sơ cấp",
+      "notes": "E-B",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "F5",
+      "name": "F Hợp âm quãng 5",
+      "type": "Hợp âm quãng 5",
+      "fingering": "133xxx",
+      "fret_position": "1st Fret",
+      "fingers": "1-3-3-x-x-x",
+      "difficulty": "Sơ cấp",
+      "notes": "F-C",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "G5",
+      "name": "G Hợp âm Power",
+      "type": "Hợp âm Power",
+      "fingering": "355xxx",
+      "fret_position": "3rd Fret",
+      "fingers": "1-3-4-x-x-x",
+      "difficulty": "Người mới bắt đầu",
+      "notes": "G-D",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "A5",
+      "name": "A Hợp âm Power",
+      "type": "Hợp âm Power",
+      "fingering": "x022xx",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-x-x",
+      "difficulty": "Người mới bắt đầu",
+      "notes": "A-E",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "B5",
+      "name": "B Hợp âm Power",
+      "type": "Hợp âm Power",
+      "fingering": "x244xx",
+      "fret_position": "2nd Fret",
+      "fingers": "x-1-3-4-x-x",
+      "difficulty": "Người mới bắt đầu",
+      "notes": "B-F#",
+      "intervals": "1-5"
+    },
+    {
+      "chord": "Cadd9",
+      "name": "C Hợp âm Add 9",
+      "type": "Hợp âm Add 9",
+      "fingering": "x32030",
+      "fret_position": "Open",
+      "fingers": "x-3-2-0-3-0",
+      "difficulty": "Người mới bắt đầu",
+      "notes": "C-E-G-D",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "Dadd9",
+      "name": "D Hợp âm Add 9",
+      "type": "Hợp âm Add 9",
+      "fingering": "x54030",
+      "fret_position": "4th Fret",
+      "fingers": "x-4-3-0-2-0",
+      "difficulty": "Trung cấp",
+      "notes": "D-F#-A-E",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "Eadd9",
+      "name": "E Hợp âm Add 9",
+      "type": "Hợp âm Add 9",
+      "fingering": "024100",
+      "fret_position": "Open",
+      "fingers": "0-2-4-1-0-0",
+      "difficulty": "Trung cấp",
+      "notes": "E-G#-B-F#",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "Gadd9",
+      "name": "G Hợp âm Add 9",
+      "type": "Hợp âm Add 9",
+      "fingering": "320203",
+      "fret_position": "Open",
+      "fingers": "3-2-0-2-0-3",
+      "difficulty": "Người mới bắt đầu",
+      "notes": "G-B-D-A",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "Aadd9",
+      "name": "A Hợp âm Add 9",
+      "type": "Hợp âm Add 9",
+      "fingering": "x02420",
+      "fret_position": "Open",
+      "fingers": "x-0-2-4-2-0",
+      "difficulty": "Trung cấp",
+      "notes": "A-C#-E-B",
+      "intervals": "1-3-5-9"
+    },
+    {
+      "chord": "C6",
+      "name": "C Hợp âm Trưởng 6",
+      "type": "Hợp âm Trưởng 6",
+      "fingering": "x32210",
+      "fret_position": "Open",
+      "fingers": "x-3-2-2-1-0",
+      "difficulty": "Người mới bắt đầu",
+      "notes": "C-E-G-A",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "D6",
+      "name": "D Hợp âm Trưởng 6",
+      "type": "Hợp âm Trưởng 6",
+      "fingering": "xx0202",
+      "fret_position": "Open",
+      "fingers": "x-x-0-2-0-2",
+      "difficulty": "Người mới bắt đầu",
+      "notes": "D-F#-A-B",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "E6",
+      "name": "E Hợp âm Trưởng 6",
+      "type": "Hợp âm Trưởng 6",
+      "fingering": "022120",
+      "fret_position": "Open",
+      "fingers": "0-2-2-1-2-0",
+      "difficulty": "Người mới bắt đầu",
+      "notes": "E-G#-B-C#",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "G6",
+      "name": "G Hợp âm Trưởng 6",
+      "type": "Hợp âm Trưởng 6",
+      "fingering": "320000",
+      "fret_position": "Open",
+      "fingers": "3-2-0-0-0-0",
+      "difficulty": "Người mới bắt đầu",
+      "notes": "G-B-D-E",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "A6",
+      "name": "A Hợp âm Trưởng 6",
+      "type": "Hợp âm Trưởng 6",
+      "fingering": "x02222",
+      "fret_position": "Open",
+      "fingers": "x-0-2-2-2-2",
+      "difficulty": "Người mới bắt đầu",
+      "notes": "A-C#-E-F#",
+      "intervals": "1-3-5-6"
+    },
+    {
+      "chord": "C9",
+      "name": "C Hợp âm Át 9",
+      "type": "Hợp âm Át 9",
+      "fingering": "x32330",
+      "fret_position": "Open",
+      "fingers": "x-2-1-2-3-0",
+      "difficulty": "Trung cấp",
+      "notes": "C-E-G-Bb-D",
+      "intervals": "1-3-5-b7-9"
+    },
+    {
+      "chord": "D9",
+      "name": "D Hợp âm Át 9",
+      "type": "Hợp âm Át 9",
+      "fingering": "x54530",
+      "fret_position": "4th Fret",
+      "fingers": "x-2-1-2-1-0",
+      "difficulty": "Trung cấp",
+      "notes": "D-F#-A-C-E",
+      "intervals": "1-3-5-b7-9"
+    },
+    {
+      "chord": "E9",
+      "name": "E Hợp âm Át 9",
+      "type": "Hợp âm Át 9",
+      "fingering": "020102",
+      "fret_position": "Open",
+      "fingers": "0-2-0-1-0-2",
+      "difficulty": "Trung cấp",
+      "notes": "E-G#-B-D-F#",
+      "intervals": "1-3-5-b7-9"
+    },
+    {
+      "chord": "G9",
+      "name": "G Hợp âm Át 9",
+      "type": "Hợp âm Át 9",
+      "fingering": "320201",
+      "fret_position": "Open",
+      "fingers": "3-2-0-2-0-1",
+      "difficulty": "Trung cấp",
+      "notes": "G-B-D-F-A",
+      "intervals": "1-3-5-b7-9"
+    },
+    {
+      "chord": "A9",
+      "name": "A Hợp âm Át 9",
+      "type": "Hợp âm Át 9",
+      "fingering": "x02423",
+      "fret_position": "Open",
+      "fingers": "x-0-2-4-2-3",
+      "difficulty": "Trung cấp",
+      "notes": "A-C#-E-G-B",
+      "intervals": "1-3-5-b7-9"
+    }
+  ],
+  "meta": {
+    "seo_title": "Biểu Đồ Hợp Âm Guitar - Tải Miễn Phí (Excel/CSV/PDF)",
+    "seo_description": "Tải miễn phí 78 biểu đồ hợp âm guitar! Bao gồm cách bấm, nốt và độ khó. Có sẵn định dạng Excel, CSV, PDF cho người học và nhà phát triển.",
+    "title": "Bộ Dữ Liệu Biểu Đồ Hợp Âm Guitar Toàn Diện",
+    "description": "Bộ dữ liệu này cung cấp 78 hợp âm guitar phổ biến, bao gồm ký hiệu, tên đầy đủ, mẫu bấm ngón, vị trí phím, mức độ khó, và các nốt cùng quãng. Lý tưởng cho người chơi guitar, giáo viên âm nhạc và nhà phát triển ứng dụng âm nhạc.",
+    "key_takeaways": [
+      "Truy cập 78 điểm dữ liệu hợp âm guitar thiết yếu cho nhiều phong cách chơi.",
+      "Khám phá chi tiết cách bấm ngón, vị trí phím và các nốt cho từng hợp âm.",
+      "Tải xuống tài nguyên đa năng để nâng cao việc học guitar hoặc phát triển ứng dụng của bạn.",
+      "Tận dụng xếp hạng độ khó của hợp âm để xây dựng lộ trình học tập tiến bộ."
+    ],
+    "keywords": [
+      "biểu đồ hợp âm guitar excel",
+      "hợp âm guitar miễn phí csv",
+      "dữ liệu hợp âm guitar",
+      "cách bấm hợp âm pdf",
+      "hợp âm guitar cơ bản",
+      "học guitar"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL hoặc tập lệnh Python của bạn để xây dựng ứng dụng tra cứu hợp âm guitar hoặc API.",
+      "Sử dụng tệp **Excel** để lọc hợp âm theo độ khó, tạo biểu đồ luyện tập tùy chỉnh hoặc phân tích mối quan hệ giữa các hợp âm.",
+      "In phiên bản **PDF** để có một hướng dẫn tham khảo tiện lợi, ngoại tuyến trong không gian luyện tập của bạn hoặc để giảng dạy trên lớp.",
+      "Tích hợp dữ liệu này vào phần mềm giáo dục hoặc các trang web tương tác để giúp người dùng học hợp âm guitar hiệu quả."
+    ]
+  },
+  "record_count": 78,
+  "title": "Bộ Dữ Liệu Biểu Đồ Hợp Âm Guitar Toàn Diện"
+}

@@ -1,0 +1,106 @@
+{
+  "id": "vi-mui-dat",
+  "name": "Mũi đất ở Việt Nam",
+  "title": "Mũi đất ở Việt Nam",
+  "description": "Danh sách các mũi đất (cape/headland) trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q185113 (lớp mũi đất và mọi lớp con) kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Mỗi bản ghi gồm tên tiếng Việt (rdfs:label@vi), tên tiếng Anh, vùng nước tiếp giáp, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự. Sắp xếp theo bảng chữ cái tên tiếng Việt. Bao gồm Mũi Cà Mau (điểm cực nam đất liền), Mũi Điện, Mũi Dinh. Tập dữ liệu nhỏ (4 bản ghi) nhưng là tập mũi đất đầu tiên trong nhóm tiếng Việt — mọi bản ghi đều truy nguyên tới một QID Wikidata.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "body_of_water_at",
+      "label": "Body Of Water At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q2623979",
+      "name_vi": "Bán đảo Cà Mau",
+      "name_en": "Bán đảo Cà Mau",
+      "body_of_water_at": "Biển Đông",
+      "latitude": 9.086111,
+      "longitude": 105.083333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%C3%A1n_%C4%91%E1%BA%A3o_C%C3%A0_Mau"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q1394226",
+      "name_vi": "Mũi Cà Mau",
+      "name_en": "Mũi Cà Mau",
+      "body_of_water_at": "Biển Đông",
+      "latitude": 8.631667,
+      "longitude": 104.713889,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/M%C5%A9i_C%C3%A0_Mau"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q110637496",
+      "name_vi": "Mũi Dinh",
+      "name_en": "Mũi Dinh",
+      "body_of_water_at": "",
+      "latitude": 11.361134,
+      "longitude": 109.018079,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/M%C5%A9i_Dinh"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q10796335",
+      "name_vi": "Mũi Điện",
+      "name_en": "Mũi Điện",
+      "body_of_water_at": "",
+      "latitude": 12.89649,
+      "longitude": 109.45696,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/M%C5%A9i_%C4%90i%E1%BB%87n"
+    }
+  ],
+  "meta": {
+    "title": "Mũi đất ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách các mũi đất (cape/headland) trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q185113 (lớp mũi đất và mọi lớp con) kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Mỗi bản ghi gồm tên tiếng Việt (rdfs:label@vi), tên tiếng Anh, vùng nước tiếp giáp, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự. Sắp xếp theo bảng chữ cái tên tiếng Việt. Bao gồm Mũi Cà Mau (điểm cực nam đất liền), Mũi Điện, Mũi Dinh. Tập dữ liệu nhỏ (4 bản ghi) nhưng là tập mũi đất đầu tiên trong nhóm tiếng Việt — mọi bản ghi đều truy nguyên tới một QID Wikidata. Chứa 4 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Mũi đất ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Mũi đất ở Việt Nam — 4 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 4 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

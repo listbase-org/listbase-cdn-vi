@@ -1,0 +1,367 @@
+{
+  "id": "vi-provinces",
+  "name": "Việt Nam — Tỉnh thành (34 đơn vị hành chính cấp tỉnh)",
+  "title": "Việt Nam — Tỉnh thành (34 đơn vị hành chính cấp tỉnh)",
+  "description": "Danh sách 34 tỉnh và thành phố trung ương của Việt Nam sau khi sắp xếp lại theo Nghị quyết 60/NQ-TW (tháng 7/2025). Mỗi bản ghi gồm mã tỉnh, tên, phân loại (tỉnh / thành phố trung ương), mã điện thoại và số phường/xã trực thuộc.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "codename",
+      "label": "Codename",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "division_type_en",
+      "label": "Division Type En",
+      "type": "string"
+    },
+    {
+      "key": "phone_code",
+      "label": "Phone Code",
+      "type": "number"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": 1,
+      "name": "Thành phố Hà Nội",
+      "codename": "ha_noi",
+      "division_type": "thành phố trung ương",
+      "division_type_en": "centrally-governed city",
+      "phone_code": 24,
+      "ward_count": 126
+    },
+    {
+      "code": 4,
+      "name": "Tỉnh Cao Bằng",
+      "codename": "cao_bang",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 206,
+      "ward_count": 56
+    },
+    {
+      "code": 8,
+      "name": "Tỉnh Tuyên Quang",
+      "codename": "tuyen_quang",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 207,
+      "ward_count": 124
+    },
+    {
+      "code": 11,
+      "name": "Tỉnh Điện Biên",
+      "codename": "dien_bien",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 215,
+      "ward_count": 45
+    },
+    {
+      "code": 12,
+      "name": "Tỉnh Lai Châu",
+      "codename": "lai_chau",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 213,
+      "ward_count": 38
+    },
+    {
+      "code": 14,
+      "name": "Tỉnh Sơn La",
+      "codename": "son_la",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 212,
+      "ward_count": 75
+    },
+    {
+      "code": 15,
+      "name": "Tỉnh Lào Cai",
+      "codename": "lao_cai",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 214,
+      "ward_count": 99
+    },
+    {
+      "code": 19,
+      "name": "Tỉnh Thái Nguyên",
+      "codename": "thai_nguyen",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 208,
+      "ward_count": 92
+    },
+    {
+      "code": 20,
+      "name": "Tỉnh Lạng Sơn",
+      "codename": "lang_son",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 205,
+      "ward_count": 65
+    },
+    {
+      "code": 22,
+      "name": "Tỉnh Quảng Ninh",
+      "codename": "quang_ninh",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 203,
+      "ward_count": 54
+    },
+    {
+      "code": 24,
+      "name": "Tỉnh Bắc Ninh",
+      "codename": "bac_ninh",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 222,
+      "ward_count": 99
+    },
+    {
+      "code": 25,
+      "name": "Tỉnh Phú Thọ",
+      "codename": "phu_tho",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 210,
+      "ward_count": 148
+    },
+    {
+      "code": 31,
+      "name": "Thành phố Hải Phòng",
+      "codename": "hai_phong",
+      "division_type": "thành phố trung ương",
+      "division_type_en": "centrally-governed city",
+      "phone_code": 225,
+      "ward_count": 114
+    },
+    {
+      "code": 33,
+      "name": "Tỉnh Hưng Yên",
+      "codename": "hung_yen",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 221,
+      "ward_count": 104
+    },
+    {
+      "code": 37,
+      "name": "Tỉnh Ninh Bình",
+      "codename": "ninh_binh",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 229,
+      "ward_count": 129
+    },
+    {
+      "code": 38,
+      "name": "Tỉnh Thanh Hóa",
+      "codename": "thanh_hoa",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 237,
+      "ward_count": 166
+    },
+    {
+      "code": 40,
+      "name": "Tỉnh Nghệ An",
+      "codename": "nghe_an",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 238,
+      "ward_count": 130
+    },
+    {
+      "code": 42,
+      "name": "Tỉnh Hà Tĩnh",
+      "codename": "ha_tinh",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 239,
+      "ward_count": 69
+    },
+    {
+      "code": 44,
+      "name": "Tỉnh Quảng Trị",
+      "codename": "quang_tri",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 233,
+      "ward_count": 78
+    },
+    {
+      "code": 46,
+      "name": "Thành phố Huế",
+      "codename": "hue",
+      "division_type": "thành phố trung ương",
+      "division_type_en": "centrally-governed city",
+      "phone_code": 234,
+      "ward_count": 40
+    },
+    {
+      "code": 48,
+      "name": "Thành phố Đà Nẵng",
+      "codename": "da_nang",
+      "division_type": "thành phố trung ương",
+      "division_type_en": "centrally-governed city",
+      "phone_code": 236,
+      "ward_count": 94
+    },
+    {
+      "code": 51,
+      "name": "Tỉnh Quảng Ngãi",
+      "codename": "quang_ngai",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 255,
+      "ward_count": 96
+    },
+    {
+      "code": 52,
+      "name": "Tỉnh Gia Lai",
+      "codename": "gia_lai",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 269,
+      "ward_count": 135
+    },
+    {
+      "code": 56,
+      "name": "Tỉnh Khánh Hòa",
+      "codename": "khanh_hoa",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 258,
+      "ward_count": 65
+    },
+    {
+      "code": 66,
+      "name": "Tỉnh Đắk Lắk",
+      "codename": "dak_lak",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 262,
+      "ward_count": 102
+    },
+    {
+      "code": 68,
+      "name": "Tỉnh Lâm Đồng",
+      "codename": "lam_dong",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 263,
+      "ward_count": 124
+    },
+    {
+      "code": 75,
+      "name": "Tỉnh Đồng Nai",
+      "codename": "dong_nai",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 251,
+      "ward_count": 95
+    },
+    {
+      "code": 79,
+      "name": "Thành phố Hồ Chí Minh",
+      "codename": "ho_chi_minh",
+      "division_type": "thành phố trung ương",
+      "division_type_en": "centrally-governed city",
+      "phone_code": 28,
+      "ward_count": 168
+    },
+    {
+      "code": 80,
+      "name": "Tỉnh Tây Ninh",
+      "codename": "tay_ninh",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 276,
+      "ward_count": 96
+    },
+    {
+      "code": 82,
+      "name": "Tỉnh Đồng Tháp",
+      "codename": "dong_thap",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 277,
+      "ward_count": 102
+    },
+    {
+      "code": 86,
+      "name": "Tỉnh Vĩnh Long",
+      "codename": "vinh_long",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 270,
+      "ward_count": 124
+    },
+    {
+      "code": 91,
+      "name": "Tỉnh An Giang",
+      "codename": "an_giang",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 296,
+      "ward_count": 102
+    },
+    {
+      "code": 92,
+      "name": "Thành phố Cần Thơ",
+      "codename": "can_tho",
+      "division_type": "thành phố trung ương",
+      "division_type_en": "centrally-governed city",
+      "phone_code": 292,
+      "ward_count": 103
+    },
+    {
+      "code": 96,
+      "name": "Tỉnh Cà Mau",
+      "codename": "ca_mau",
+      "division_type": "tỉnh",
+      "division_type_en": "province",
+      "phone_code": 290,
+      "ward_count": 64
+    }
+  ],
+  "meta": {
+    "title": "Việt Nam — Tỉnh thành (34 đơn vị hành chính cấp tỉnh) - Tải miễn phí",
+    "description": "Danh sách 34 tỉnh và thành phố trung ương của Việt Nam sau khi sắp xếp lại theo Nghị quyết 60/NQ-TW (tháng 7/2025). Mỗi bản ghi gồm mã tỉnh, tên, phân loại (tỉnh / thành phố trung ương), mã điện thoại và số phường/xã trực thuộc. Chứa 34 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Việt Nam — Tỉnh thành (34 đơn vị hành chính cấp tỉnh) | ListBase",
+    "seo_description": "Tải xuống Việt Nam — Tỉnh thành (34 đơn vị hành chính cấp tỉnh) — 34 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 34 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "vi-quang-binh-quan-huyen-2019",
+  "name": "Quảng Bình — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Quảng Bình — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 8 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Quảng Bình theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 6 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/QB.json). (8 district-level units of Quảng Bình under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "QB-01",
+      "name": "Ba Đồn",
+      "name_full": "Thị xã Ba Đồn",
+      "slug": "ba-don",
+      "division_type": "Thị xã",
+      "province_code": "QB",
+      "province_name": "Quảng Bình",
+      "ward_count": 5
+    },
+    {
+      "code": "QB-02",
+      "name": "Bố Trạch",
+      "name_full": "Huyện Bố Trạch",
+      "slug": "bo-trach",
+      "division_type": "Huyện",
+      "province_code": "QB",
+      "province_name": "Quảng Bình",
+      "ward_count": 30
+    },
+    {
+      "code": "QB-03",
+      "name": "Đồng Hới",
+      "name_full": "Thành phố Đồng Hới",
+      "slug": "dong-hoi",
+      "division_type": "Thành phố",
+      "province_code": "QB",
+      "province_name": "Quảng Bình",
+      "ward_count": 16
+    },
+    {
+      "code": "QB-04",
+      "name": "Lệ Thủy",
+      "name_full": "Huyện Lệ Thủy",
+      "slug": "le-thuy",
+      "division_type": "Huyện",
+      "province_code": "QB",
+      "province_name": "Quảng Bình",
+      "ward_count": 28
+    },
+    {
+      "code": "QB-05",
+      "name": "Minh Hóa",
+      "name_full": "Huyện Minh Hóa",
+      "slug": "minh-hoa",
+      "division_type": "Huyện",
+      "province_code": "QB",
+      "province_name": "Quảng Bình",
+      "ward_count": 16
+    },
+    {
+      "code": "QB-06",
+      "name": "Quảng Ninh",
+      "name_full": "Huyện Quảng Ninh",
+      "slug": "quang-ninh",
+      "division_type": "Huyện",
+      "province_code": "QB",
+      "province_name": "Quảng Bình",
+      "ward_count": 15
+    },
+    {
+      "code": "QB-07",
+      "name": "Quảng Trạch",
+      "name_full": "Huyện Quảng Trạch",
+      "slug": "quang-trach",
+      "division_type": "Huyện",
+      "province_code": "QB",
+      "province_name": "Quảng Bình",
+      "ward_count": 33
+    },
+    {
+      "code": "QB-08",
+      "name": "Tuyên Hóa",
+      "name_full": "Huyện Tuyên Hóa",
+      "slug": "tuyen-hoa",
+      "division_type": "Huyện",
+      "province_code": "QB",
+      "province_name": "Quảng Bình",
+      "ward_count": 20
+    }
+  ],
+  "meta": {
+    "title": "Quảng Bình — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 8 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Quảng Bình theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 6 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/QB.json). (8 district-level units of Quảng Bình under the pre-2025-merger 3-tier hierarchy.) Chứa 8 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Quảng Bình — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Quảng Bình — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 8 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 8 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

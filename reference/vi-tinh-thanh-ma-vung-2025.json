@@ -1,0 +1,484 @@
+{
+  "id": "vi-tinh-thanh-ma-vung-2025",
+  "name": "Việt Nam — 34 tỉnh/thành phố: mã vùng điện thoại & mã bưu chính (cấu trúc sau sáp nhập 2025)",
+  "title": "Việt Nam — 34 tỉnh/thành phố: mã vùng điện thoại & mã bưu chính (cấu trúc sau sáp nhập 2025)",
+  "description": "Danh sách 34 tỉnh và thành phố trực thuộc Trung ương của Việt Nam theo cấu trúc hành chính sau cuộc sáp nhập năm 2025, kèm mã vùng điện thoại (area code), khoảng mã bưu chính (postal code range), vùng địa lý/kinh tế và mô tả ngắn. Trích xuất từ các tệp VN/<tỉnh>.json của kho AlexanderPhan04/vietnam-location-data (MIT). (34 provinces and centrally-governed cities of Vietnam under the post-2025-merger structure, with telephone area codes, postal code ranges, geographic region and a short description.)",
+  "category": "reference",
+  "source": "https://github.com/AlexanderPhan04/vietnam-location-data",
+  "source_url": "https://github.com/AlexanderPhan04/vietnam-location-data",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "area_code",
+      "label": "Area Code",
+      "type": "number"
+    },
+    {
+      "key": "postal_code_min",
+      "label": "Postal Code Min",
+      "type": "number"
+    },
+    {
+      "key": "postal_code_max",
+      "label": "Postal Code Max",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "AG",
+      "id": "VN-AG",
+      "name": "An Giang",
+      "type": "Tỉnh",
+      "region": "Đồng bằng sông Cửu Long",
+      "slug": "an-giang",
+      "area_code": "0296",
+      "postal_code_min": "880000",
+      "postal_code_max": "889999",
+      "description": "Tỉnh đông dân nhất miền Tây, nổi tiếng với vùng Thất Sơn (Bảy Núi) và lễ hội Bà Chúa Xứ. Có đường biên giới dài với Campuchia."
+    },
+    {
+      "code": "BN",
+      "id": "VN-BN",
+      "name": "Bắc Ninh",
+      "type": "Tỉnh",
+      "region": "Đồng bằng sông Hồng",
+      "slug": "bac-ninh",
+      "area_code": "0222",
+      "postal_code_min": "160000",
+      "postal_code_max": "239999",
+      "description": "Thủ phủ công nghiệp miền Bắc, sáp nhập từ tỉnh Bắc Ninh cũ và tỉnh Bắc Giang (tái lập tỉnh Hà Bắc)."
+    },
+    {
+      "code": "CB",
+      "id": "VN-CB",
+      "name": "Cao Bằng",
+      "type": "Tỉnh",
+      "region": "Đông Bắc Bộ",
+      "slug": "cao-bang",
+      "area_code": "0206",
+      "postal_code_min": "210000",
+      "postal_code_max": "219999",
+      "description": "Tỉnh miền núi biên giới, giữ nguyên trạng thái địa giới hành chính cấp tỉnh."
+    },
+    {
+      "code": "CM",
+      "id": "VN-CM",
+      "name": "Cà Mau",
+      "type": "Tỉnh",
+      "region": "Đồng bằng sông Cửu Long",
+      "slug": "ca-mau",
+      "area_code": "0290",
+      "postal_code_min": "970000",
+      "postal_code_max": "979999",
+      "description": "Tỉnh cực Nam của Tổ quốc, 3 mặt giáp biển. Nổi tiếng với Mũi Cà Mau và cua biển."
+    },
+    {
+      "code": "CT",
+      "id": "VN-CT",
+      "name": "Cần Thơ",
+      "type": "Thành phố trực thuộc Trung ương",
+      "region": "Đồng bằng sông Cửu Long",
+      "slug": "can-tho",
+      "area_code": "0292",
+      "postal_code_min": "900000",
+      "postal_code_max": "959999",
+      "description": "Thủ phủ miền Tây, sáp nhập từ TP. Cần Thơ cũ, tỉnh Hậu Giang và tỉnh Sóc Trăng."
+    },
+    {
+      "code": "GL",
+      "id": "VN-GL",
+      "name": "Gia Lai",
+      "type": "Tỉnh",
+      "region": "Tây Nguyên & Duyên hải Nam Trung Bộ",
+      "slug": "gia-lai",
+      "area_code": "0269",
+      "postal_code_min": "590000",
+      "postal_code_max": "609999",
+      "description": "Tỉnh chiến lược Đông - Tây, sáp nhập từ tỉnh Gia Lai cũ và tỉnh Bình Định."
+    },
+    {
+      "code": "HUE",
+      "id": "VN-HUE",
+      "name": "Huế",
+      "type": "Thành phố trực thuộc Trung ương",
+      "region": "Bắc Trung Bộ",
+      "slug": "hue",
+      "area_code": "0234",
+      "postal_code_min": "530000",
+      "postal_code_max": "539999",
+      "description": "Thành phố Di sản, trực thuộc Trung ương trên cơ sở toàn bộ tỉnh Thừa Thiên Huế cũ."
+    },
+    {
+      "code": "HN",
+      "id": "VN-HN",
+      "name": "Hà Nội",
+      "type": "Thành phố trực thuộc Trung ương",
+      "region": "Miền Bắc",
+      "slug": "ha-noi",
+      "area_code": "024",
+      "postal_code_min": "100000",
+      "postal_code_max": "150000",
+      "description": ""
+    },
+    {
+      "code": "HT",
+      "id": "VN-HT",
+      "name": "Hà Tĩnh",
+      "type": "Tỉnh",
+      "region": "Bắc Trung Bộ",
+      "slug": "ha-tinh",
+      "area_code": "0239",
+      "postal_code_min": "480000",
+      "postal_code_max": "489999",
+      "description": "Tỉnh công nghiệp thép - cảng biển. Đã thực hiện mở rộng TP. Hà Tĩnh ra hướng biển (sáp nhập huyện Lộc Hà)."
+    },
+    {
+      "code": "HY",
+      "id": "VN-HY",
+      "name": "Hưng Yên",
+      "type": "Tỉnh",
+      "region": "Đồng bằng sông Hồng",
+      "slug": "hung-yen",
+      "area_code": "0221",
+      "postal_code_min": "170000",
+      "postal_code_max": "419999",
+      "description": "Tỉnh đồng bằng trù phú, sáp nhập từ tỉnh Hưng Yên cũ và tỉnh Thái Bình."
+    },
+    {
+      "code": "HP",
+      "id": "VN-HP",
+      "name": "Hải Phòng",
+      "type": "Thành phố trực thuộc Trung ương",
+      "region": "Miền Bắc",
+      "slug": "hai-phong",
+      "area_code": "0225",
+      "postal_code_min": "180000",
+      "postal_code_max": "189000",
+      "description": ""
+    },
+    {
+      "code": "SG",
+      "id": "VN-SG",
+      "name": "Hồ Chí Minh",
+      "type": "Thành phố trực thuộc Trung ương",
+      "region": "Miền Nam",
+      "slug": "ho-chi-minh",
+      "area_code": "028",
+      "postal_code_min": "700000",
+      "postal_code_max": "740000",
+      "description": ""
+    },
+    {
+      "code": "KH",
+      "id": "VN-KH",
+      "name": "Khánh Hòa",
+      "type": "Tỉnh",
+      "region": "Duyên hải Nam Trung Bộ",
+      "slug": "khanh-hoa",
+      "area_code": "0258",
+      "postal_code_min": "620000",
+      "postal_code_max": "659999",
+      "description": "Thủ phủ du lịch và kinh tế biển, sáp nhập từ tỉnh Khánh Hòa cũ và tỉnh Phú Yên (Tái lập tỉnh Phú Khánh)."
+    },
+    {
+      "code": "LCA",
+      "id": "VN-LCA",
+      "name": "Lai Châu",
+      "type": "Tỉnh",
+      "region": "Tây Bắc Bộ",
+      "slug": "lai-chau",
+      "area_code": "0213",
+      "postal_code_min": "390000",
+      "postal_code_max": "399999",
+      "description": "Tỉnh biên giới Tây Bắc, địa hình hiểm trở, giữ nguyên trạng thái địa giới hành chính cấp tỉnh."
+    },
+    {
+      "code": "LC",
+      "id": "VN-LC",
+      "name": "Lào Cai",
+      "type": "Tỉnh",
+      "region": "Tây Bắc Bộ",
+      "slug": "lao-cai",
+      "area_code": "0214",
+      "postal_code_min": "320000",
+      "postal_code_max": "339999",
+      "description": "Tỉnh miền núi biên giới, sáp nhập từ tỉnh Lào Cai cũ và tỉnh Yên Bái."
+    },
+    {
+      "code": "LD",
+      "id": "VN-LD",
+      "name": "Lâm Đồng",
+      "type": "Tỉnh",
+      "region": "Tây Nguyên",
+      "slug": "lam-dong",
+      "area_code": "0263",
+      "postal_code_min": "660000",
+      "postal_code_max": "679999",
+      "description": "Tỉnh du lịch nổi tiếng, thực hiện sáp nhập lớn năm 2025: Lạc Dương nhập vào Đà Lạt; 3 huyện phía Nam nhập làm một."
+    },
+    {
+      "code": "LS",
+      "id": "VN-LS",
+      "name": "Lạng Sơn",
+      "type": "Tỉnh",
+      "region": "Đông Bắc Bộ",
+      "slug": "lang-son",
+      "area_code": "0205",
+      "postal_code_min": "240000",
+      "postal_code_max": "249999",
+      "description": "Tỉnh biên giới cửa ngõ, giữ nguyên trạng thái địa giới hành chính cấp tỉnh."
+    },
+    {
+      "code": "NA",
+      "id": "VN-NA",
+      "name": "Nghệ An",
+      "type": "Tỉnh",
+      "region": "Bắc Trung Bộ",
+      "slug": "nghe-an",
+      "area_code": "0238",
+      "postal_code_min": "460000",
+      "postal_code_max": "479999",
+      "description": "Tỉnh có diện tích lớn nhất Việt Nam. Đã thực hiện sáp nhập TX. Cửa Lò vào TP. Vinh."
+    },
+    {
+      "code": "NB",
+      "id": "VN-NB",
+      "name": "Ninh Bình",
+      "type": "Tỉnh",
+      "region": "Đồng bằng sông Hồng",
+      "slug": "ninh-binh",
+      "area_code": "0229",
+      "postal_code_min": "400000",
+      "postal_code_max": "440000",
+      "description": "Đơn vị hành chính mới hợp nhất từ 3 tỉnh cũ: Ninh Bình, Nam Định, Hà Nam (theo Nghị quyết giả định 2025)."
+    },
+    {
+      "code": "PT",
+      "id": "VN-PT",
+      "name": "Phú Thọ",
+      "type": "Tỉnh",
+      "region": "Trung du và miền núi phía Bắc",
+      "slug": "phu-tho",
+      "area_code": "0210",
+      "postal_code_min": "280000",
+      "postal_code_max": "359999",
+      "description": "Tỉnh lớn cửa ngõ Tây Bắc, sáp nhập từ 3 tỉnh cũ: Phú Thọ, Vĩnh Phúc và Hòa Bình."
+    },
+    {
+      "code": "QNg",
+      "id": "VN-QNg",
+      "name": "Quảng Ngãi",
+      "type": "Tỉnh",
+      "region": "Duyên hải Nam Trung Bộ",
+      "slug": "quang-ngai",
+      "area_code": "0255",
+      "postal_code_min": "570000",
+      "postal_code_max": "589999",
+      "description": "Tỉnh đa dạng địa hình Biển - Núi, sáp nhập từ tỉnh Quảng Ngãi cũ và tỉnh Kon Tum."
+    },
+    {
+      "code": "QN",
+      "id": "VN-QN",
+      "name": "Quảng Ninh",
+      "type": "Tỉnh",
+      "region": "Đông Bắc Bộ",
+      "slug": "quang-ninh",
+      "area_code": "0203",
+      "postal_code_min": "200000",
+      "postal_code_max": "209999",
+      "description": "Tỉnh duy nhất có 5 thành phố trực thuộc. Giữ nguyên trạng thái địa giới hành chính cấp tỉnh."
+    },
+    {
+      "code": "QT",
+      "id": "VN-QT",
+      "name": "Quảng Trị",
+      "type": "Tỉnh",
+      "region": "Bắc Trung Bộ",
+      "slug": "quang-tri",
+      "area_code": "0233",
+      "postal_code_min": "510000",
+      "postal_code_max": "529999",
+      "description": "Tỉnh sáp nhập từ Quảng Trị cũ và Quảng Bình (Khôi phục một phần Bình Trị Thiên xưa)."
+    },
+    {
+      "code": "SL",
+      "id": "VN-SL",
+      "name": "Sơn La",
+      "type": "Tỉnh",
+      "region": "Tây Bắc Bộ",
+      "slug": "son-la",
+      "area_code": "0212",
+      "postal_code_min": "360000",
+      "postal_code_max": "369999",
+      "description": "Tỉnh miền núi Tây Bắc, diện tích lớn thứ 3 cả nước, giữ nguyên trạng thái địa giới hành chính cấp tỉnh."
+    },
+    {
+      "code": "TH",
+      "id": "VN-TH",
+      "name": "Thanh Hóa",
+      "type": "Tỉnh",
+      "region": "Bắc Trung Bộ",
+      "slug": "thanh-hoa",
+      "area_code": "0237",
+      "postal_code_min": "440000",
+      "postal_code_max": "459999",
+      "description": "Tỉnh có quy mô dân số đông thứ 3 cả nước, giữ nguyên địa giới tỉnh. Đã sáp nhập huyện Đông Sơn vào TP. Thanh Hóa."
+    },
+    {
+      "code": "TN",
+      "id": "VN-TN",
+      "name": "Thái Nguyên",
+      "type": "Tỉnh",
+      "region": "Đông Bắc Bộ",
+      "slug": "thai-nguyen",
+      "area_code": "0208",
+      "postal_code_min": "250000",
+      "postal_code_max": "269999",
+      "description": "Trung tâm vùng Đông Bắc, sáp nhập từ tỉnh Thái Nguyên cũ và tỉnh Bắc Kạn."
+    },
+    {
+      "code": "TQ",
+      "id": "VN-TQ",
+      "name": "Tuyên Quang",
+      "type": "Tỉnh",
+      "region": "Đông Bắc Bộ",
+      "slug": "tuyen-quang",
+      "area_code": "0207",
+      "postal_code_min": "220000",
+      "postal_code_max": "319999",
+      "description": "Tỉnh miền núi phía Bắc, sáp nhập từ tỉnh Tuyên Quang cũ và tỉnh Hà Giang."
+    },
+    {
+      "code": "TN",
+      "id": "VN-TN",
+      "name": "Tây Ninh",
+      "type": "Tỉnh",
+      "region": "Đông Nam Bộ",
+      "slug": "tay-ninh",
+      "area_code": "0276",
+      "postal_code_min": "840000",
+      "postal_code_max": "849999",
+      "description": "Cửa ngõ Tây Bắc của TP.HCM, thủ phủ đạo Cao Đài và núi Bà Đen. Giữ nguyên địa giới hành chính."
+    },
+    {
+      "code": "VL",
+      "id": "VN-VL",
+      "name": "Vĩnh Long",
+      "type": "Tỉnh",
+      "region": "Đồng bằng sông Cửu Long",
+      "slug": "vinh-long",
+      "area_code": "0270",
+      "postal_code_min": "890000",
+      "postal_code_max": "899999",
+      "description": "Tỉnh nằm giữa hai dòng sông Tiền và sông Hậu. Nổi tiếng với Vương quốc Gốm đỏ và trái cây đặc sản."
+    },
+    {
+      "code": "DB",
+      "id": "VN-DB",
+      "name": "Điện Biên",
+      "type": "Tỉnh",
+      "region": "Tây Bắc Bộ",
+      "slug": "dien-bien",
+      "area_code": "0215",
+      "postal_code_min": "380000",
+      "postal_code_max": "389999",
+      "description": "Tỉnh biên giới Tây Bắc, giữ nguyên trạng thái địa giới hành chính cấp tỉnh."
+    },
+    {
+      "code": "DN",
+      "id": "VN-DN",
+      "name": "Đà Nẵng",
+      "type": "Thành phố trực thuộc Trung ương",
+      "region": "Duyên hải Nam Trung Bộ",
+      "slug": "da-nang",
+      "area_code": "0236",
+      "postal_code_min": "550000",
+      "postal_code_max": "560000",
+      "description": "Thành phố động lực miền Trung, sáp nhập từ TP. Đà Nẵng cũ và tỉnh Quảng Nam."
+    },
+    {
+      "code": "40",
+      "id": "VN-40",
+      "name": "Đắk Lắk",
+      "type": "Tỉnh",
+      "region": "Tây Nguyên",
+      "slug": "dak-lak",
+      "area_code": "0262",
+      "postal_code_min": "630000",
+      "postal_code_max": "639999",
+      "description": "Trung tâm vùng Tây Nguyên. Giữ nguyên địa giới hành chính cấp tỉnh trong năm 2025."
+    },
+    {
+      "code": "DNai",
+      "id": "VN-DNai",
+      "name": "Đồng Nai",
+      "type": "Tỉnh",
+      "region": "Đông Nam Bộ",
+      "slug": "dong-nai",
+      "area_code": "0251",
+      "postal_code_min": "810000",
+      "postal_code_max": "829999",
+      "description": "Thủ phủ công nghiệp miền Nam, nơi tọa lạc Sân bay Quốc tế Long Thành. Giữ nguyên địa giới hành chính cấp tỉnh."
+    },
+    {
+      "code": "DT",
+      "id": "VN-DT",
+      "name": "Đồng Tháp",
+      "type": "Tỉnh",
+      "region": "Đồng bằng sông Cửu Long",
+      "slug": "dong-thap",
+      "area_code": "0277",
+      "postal_code_min": "870000",
+      "postal_code_max": "879999",
+      "description": "Đất Sen Hồng, vựa lúa và hoa kiểng của miền Tây. Tỉnh có 3 thành phố trực thuộc."
+    }
+  ],
+  "meta": {
+    "title": "Việt Nam — 34 tỉnh/thành phố: mã vùng điện thoại & mã bưu chính (cấu trúc sau sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 34 tỉnh và thành phố trực thuộc Trung ương của Việt Nam theo cấu trúc hành chính sau cuộc sáp nhập năm 2025, kèm mã vùng điện thoại (area code), khoảng mã bưu chính (postal code range), vùng địa lý/kinh tế và mô tả ngắn. Trích xuất từ các tệp VN/<tỉnh>.json của kho AlexanderPhan04/vietnam-location-data (MIT). (34 provinces and centrally-governed cities of Vietnam under the post-2025-merger structure, with telephone area codes, postal code ranges, geographic region and a short description.) Chứa 34 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Việt Nam — 34 tỉnh/thành phố: mã vùng điện thoại & mã bưu chính (cấu trúc sau sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Việt Nam — 34 tỉnh/thành phố: mã vùng điện thoại & mã bưu chính (cấu trúc sau sáp nhập 2025) — 34 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 34 bản ghi / 10 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: https://github.com/AlexanderPhan04/vietnam-location-data"
+    ]
+  }
+}

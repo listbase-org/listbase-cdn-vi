@@ -1,0 +1,349 @@
+{
+  "id": "science-planet-data",
+  "name": "Bộ Dữ liệu Hành tinh & Thiên thể Hệ Mặt trời",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "order_from_sun",
+      "label": "Order from Sun",
+      "type": "number"
+    },
+    {
+      "key": "mass_kg",
+      "label": "Mass (kg)",
+      "type": "string"
+    },
+    {
+      "key": "mass_earth",
+      "label": "Mass (Earth = 1)",
+      "type": "number"
+    },
+    {
+      "key": "diameter_km",
+      "label": "Diameter (km)",
+      "type": "number"
+    },
+    {
+      "key": "diameter_earth",
+      "label": "Diameter (Earth = 1)",
+      "type": "number"
+    },
+    {
+      "key": "distance_from_sun_km",
+      "label": "Distance from Sun (km)",
+      "type": "string"
+    },
+    {
+      "key": "distance_from_sun_au",
+      "label": "Distance from Sun (AU)",
+      "type": "number"
+    },
+    {
+      "key": "orbital_period_days",
+      "label": "Orbital Period (days)",
+      "type": "number"
+    },
+    {
+      "key": "orbital_period_years",
+      "label": "Orbital Period (years)",
+      "type": "number"
+    },
+    {
+      "key": "rotation_period_hours",
+      "label": "Rotation Period (hours)",
+      "type": "number"
+    },
+    {
+      "key": "moons",
+      "label": "Number of Moons",
+      "type": "number"
+    },
+    {
+      "key": "rings",
+      "label": "Has Rings",
+      "type": "string"
+    },
+    {
+      "key": "surface_gravity_ms2",
+      "label": "Surface Gravity (m/s²)",
+      "type": "number"
+    },
+    {
+      "key": "avg_temperature_c",
+      "label": "Avg Temperature (°C)",
+      "type": "number"
+    },
+    {
+      "key": "atmosphere",
+      "label": "Atmosphere (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Sao Thủy",
+      "symbol": "☿",
+      "type": "Hành tinh đất đá",
+      "order_from_sun": 1,
+      "mass_kg": "3.30 × 10²³",
+      "mass_earth": 0.055,
+      "diameter_km": 4879,
+      "diameter_earth": 0.383,
+      "distance_from_sun_km": "57.9 × 10⁶",
+      "distance_from_sun_au": 0.39,
+      "orbital_period_days": 88,
+      "orbital_period_years": 0.24,
+      "rotation_period_hours": 1407.6,
+      "moons": 0,
+      "rings": "No",
+      "surface_gravity_ms2": 3.7,
+      "avg_temperature_c": 167,
+      "atmosphere": "Tối thiểu (tầng ngoài cùng)"
+    },
+    {
+      "name": "Sao Kim",
+      "symbol": "♀",
+      "type": "Hành tinh đất đá",
+      "order_from_sun": 2,
+      "mass_kg": "4.87 × 10²⁴",
+      "mass_earth": 0.815,
+      "diameter_km": 12104,
+      "diameter_earth": 0.949,
+      "distance_from_sun_km": "108.2 × 10⁶",
+      "distance_from_sun_au": 0.72,
+      "orbital_period_days": 225,
+      "orbital_period_years": 0.62,
+      "rotation_period_hours": -5832.5,
+      "moons": 0,
+      "rings": "No",
+      "surface_gravity_ms2": 8.87,
+      "avg_temperature_c": 464,
+      "atmosphere": "CO₂, N₂ (dày đặc)"
+    },
+    {
+      "name": "Trái Đất",
+      "symbol": "⊕",
+      "type": "Hành tinh đất đá",
+      "order_from_sun": 3,
+      "mass_kg": "5.97 × 10²⁴",
+      "mass_earth": 1,
+      "diameter_km": 12756,
+      "diameter_earth": 1,
+      "distance_from_sun_km": "149.6 × 10⁶",
+      "distance_from_sun_au": 1,
+      "orbital_period_days": 365.25,
+      "orbital_period_years": 1,
+      "rotation_period_hours": 23.93,
+      "moons": 1,
+      "rings": "No",
+      "surface_gravity_ms2": 9.81,
+      "avg_temperature_c": 15,
+      "atmosphere": "N₂, O₂"
+    },
+    {
+      "name": "Sao Hỏa",
+      "symbol": "♂",
+      "type": "Hành tinh đất đá",
+      "order_from_sun": 4,
+      "mass_kg": "6.42 × 10²³",
+      "mass_earth": 0.107,
+      "diameter_km": 6792,
+      "diameter_earth": 0.532,
+      "distance_from_sun_km": "228.0 × 10⁶",
+      "distance_from_sun_au": 1.52,
+      "orbital_period_days": 687,
+      "orbital_period_years": 1.88,
+      "rotation_period_hours": 24.62,
+      "moons": 2,
+      "rings": "No",
+      "surface_gravity_ms2": 3.71,
+      "avg_temperature_c": -65,
+      "atmosphere": "CO₂, N₂, Ar (mỏng)"
+    },
+    {
+      "name": "Sao Mộc",
+      "symbol": "♃",
+      "type": "Hành tinh khí khổng lồ",
+      "order_from_sun": 5,
+      "mass_kg": "1.90 × 10²⁷",
+      "mass_earth": 317.8,
+      "diameter_km": 142984,
+      "diameter_earth": 11.21,
+      "distance_from_sun_km": "778.5 × 10⁶",
+      "distance_from_sun_au": 5.2,
+      "orbital_period_days": 4333,
+      "orbital_period_years": 11.86,
+      "rotation_period_hours": 9.93,
+      "moons": 95,
+      "rings": "Yes (faint)",
+      "surface_gravity_ms2": 24.79,
+      "avg_temperature_c": -110,
+      "atmosphere": "H₂, He"
+    },
+    {
+      "name": "Sao Thổ",
+      "symbol": "♄",
+      "type": "Hành tinh khí khổng lồ",
+      "order_from_sun": 6,
+      "mass_kg": "5.68 × 10²⁶",
+      "mass_earth": 95.2,
+      "diameter_km": 120536,
+      "diameter_earth": 9.45,
+      "distance_from_sun_km": "1432 × 10⁶",
+      "distance_from_sun_au": 9.58,
+      "orbital_period_days": 10759,
+      "orbital_period_years": 29.46,
+      "rotation_period_hours": 10.66,
+      "moons": 146,
+      "rings": "Yes (prominent)",
+      "surface_gravity_ms2": 10.44,
+      "avg_temperature_c": -140,
+      "atmosphere": "H₂, He"
+    },
+    {
+      "name": "Sao Thiên Vương",
+      "symbol": "⛢",
+      "type": "Hành tinh băng khổng lồ",
+      "order_from_sun": 7,
+      "mass_kg": "8.68 × 10²⁵",
+      "mass_earth": 14.5,
+      "diameter_km": 51118,
+      "diameter_earth": 4.01,
+      "distance_from_sun_km": "2867 × 10⁶",
+      "distance_from_sun_au": 19.18,
+      "orbital_period_days": 30687,
+      "orbital_period_years": 84.01,
+      "rotation_period_hours": -17.24,
+      "moons": 28,
+      "rings": "Yes (faint)",
+      "surface_gravity_ms2": 8.87,
+      "avg_temperature_c": -195,
+      "atmosphere": "H₂, He, CH₄"
+    },
+    {
+      "name": "Sao Hải Vương",
+      "symbol": "♆",
+      "type": "Hành tinh băng khổng lồ",
+      "order_from_sun": 8,
+      "mass_kg": "1.02 × 10²⁶",
+      "mass_earth": 17.1,
+      "diameter_km": 49528,
+      "diameter_earth": 3.88,
+      "distance_from_sun_km": "4515 × 10⁶",
+      "distance_from_sun_au": 30.07,
+      "orbital_period_days": 60190,
+      "orbital_period_years": 164.8,
+      "rotation_period_hours": 16.11,
+      "moons": 16,
+      "rings": "Yes (faint)",
+      "surface_gravity_ms2": 11.15,
+      "avg_temperature_c": -200,
+      "atmosphere": "H₂, He, CH₄"
+    },
+    {
+      "name": "Sao Diêm Vương",
+      "symbol": "♇",
+      "type": "Hành tinh lùn",
+      "order_from_sun": 9,
+      "mass_kg": "1.30 × 10²²",
+      "mass_earth": 0.002,
+      "diameter_km": 2377,
+      "diameter_earth": 0.186,
+      "distance_from_sun_km": "5906 × 10⁶",
+      "distance_from_sun_au": 39.48,
+      "orbital_period_days": 90560,
+      "orbital_period_years": 248,
+      "rotation_period_hours": -153.3,
+      "moons": 5,
+      "rings": "No",
+      "surface_gravity_ms2": 0.62,
+      "avg_temperature_c": -230,
+      "atmosphere": "N₂, CH₄, CO (mỏng)"
+    },
+    {
+      "name": "Ceres",
+      "symbol": "⚳",
+      "type": "Hành tinh lùn",
+      "order_from_sun": null,
+      "mass_kg": "9.38 × 10²⁰",
+      "mass_earth": 0.00016,
+      "diameter_km": 940,
+      "diameter_earth": 0.074,
+      "distance_from_sun_km": "414 × 10⁶",
+      "distance_from_sun_au": 2.77,
+      "orbital_period_days": 1682,
+      "orbital_period_years": 4.6,
+      "rotation_period_hours": 9.07,
+      "moons": 0,
+      "rings": "No",
+      "surface_gravity_ms2": 0.27,
+      "avg_temperature_c": -105,
+      "atmosphere": "Tối thiểu"
+    },
+    {
+      "name": "Eris",
+      "symbol": "⯰",
+      "type": "Hành tinh lùn",
+      "order_from_sun": null,
+      "mass_kg": "1.66 × 10²²",
+      "mass_earth": 0.0028,
+      "diameter_km": 2326,
+      "diameter_earth": 0.182,
+      "distance_from_sun_km": "10120 × 10⁶",
+      "distance_from_sun_au": 67.67,
+      "orbital_period_days": 203830,
+      "orbital_period_years": 558,
+      "rotation_period_hours": 25.9,
+      "moons": 1,
+      "rings": "No",
+      "surface_gravity_ms2": 0.82,
+      "avg_temperature_c": -243,
+      "atmosphere": "Tối thiểu"
+    }
+  ],
+  "meta": {
+    "seo_title": "Dữ liệu Hành tinh Hệ Mặt trời - Tải xuống miễn phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống miễn phí dữ liệu toàn diện của 11 thiên thể hệ mặt trời. Bao gồm khối lượng, đường kính, chu kỳ quỹ đạo, vệ tinh, khí quyển. Có sẵn ở định dạng Excel, CSV, PDF.",
+    "title": "Bộ Dữ liệu Hành tinh & Thiên thể Hệ Mặt trời",
+    "description": "Bộ dữ liệu này cung cấp các đặc điểm vật lý và quỹ đạo toàn diện cho 11 thiên thể trong hệ mặt trời của chúng ta, bao gồm các hành tinh lớn và hành tinh lùn. Nó bao gồm chi tiết về khối lượng, đường kính, khoảng cách từ Mặt trời, chu kỳ quỹ đạo, số lượng vệ tinh và thành phần khí quyển.",
+    "key_takeaways": [
+      "Truy cập dữ liệu vật lý và quỹ đạo chi tiết cho 11 thiên thể trong hệ mặt trời.",
+      "Khám phá các số liệu so sánh như Khối lượng (Trái đất=1) và Đường kính (Trái đất=1) để dễ dàng phân tích.",
+      "Tải xuống các sự thật thiên văn học quan trọng cho các dự án giáo dục, nghiên cứu hoặc phát triển.",
+      "Sử dụng dữ liệu thành phần khí quyển, nhiệt độ và trọng lực bề mặt."
+    ],
+    "keywords": [
+      "dữ liệu hành tinh hệ mặt trời excel",
+      "thuộc tính hành tinh csv",
+      "thống kê thiên thể pdf",
+      "dữ liệu cơ học quỹ đạo",
+      "tải xuống dữ liệu hành tinh",
+      "bộ dữ liệu thiên văn học miễn phí"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL của bạn hoặc sử dụng nó với các tập lệnh Python cho các mô phỏng vật lý thiên văn và dự án mô hình hóa dữ liệu.",
+      "Sử dụng tệp **Excel** để tạo Bảng tổng hợp, lọc dữ liệu cho các hành tinh cụ thể và tạo các báo cáo toàn diện về đặc điểm của thiên thể.",
+      "In phiên bản **PDF** để tham khảo trong lớp học, các buổi hội thảo giáo dục hoặc làm hướng dẫn tiện lợi ngoại tuyến cho những người đam mê thiên văn học.",
+      "Tận dụng bộ dữ liệu này để phát triển ứng dụng giáo dục, điền nội dung cho các trang web chủ đề không gian hoặc nâng cao nghiên cứu về khoa học hành tinh."
+    ]
+  },
+  "record_count": 11,
+  "title": "Bộ Dữ liệu Hành tinh & Thiên thể Hệ Mặt trời"
+}

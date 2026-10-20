@@ -1,0 +1,136 @@
+{
+  "id": "vi-binh-thuan-san-bay",
+  "name": "Sân bay — Bình Thuận",
+  "title": "Sân bay — Bình Thuận",
+  "description": "Danh sách các sân bay và phi trường tại Bình Thuận (Việt Nam / VN) — bao gồm mã ICAO/IATA, thành phố, tọa độ WGS84, độ cao (feet) và múi giờ. Tập hợp con của danh sách sân bay quốc gia, được lọc theo subdivision='Binh-Thuận' trong nguồn dữ liệu mborsetti/airportsdata. (Airports in Binh Thuan, Vietnam — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list with subdivision='Binh-Thuận' in upstream source.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "VVPQ",
+      "iata": "PQC",
+      "name": "Phu Quoc Airport",
+      "city": "Duong Dong",
+      "subdivision": "Binh-Thuận",
+      "subdivision_native": "Bình Thuận",
+      "country": "VN",
+      "country_native": "Việt Nam",
+      "elevation_ft": 23,
+      "latitude": 10.227,
+      "longitude": 103.967,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "lid": ""
+    },
+    {
+      "icao": "VVPT",
+      "iata": "PHH",
+      "name": "Phan Thiet Airport",
+      "city": "Phan Thiet",
+      "subdivision": "Binh-Thuận",
+      "subdivision_native": "Bình Thuận",
+      "country": "VN",
+      "country_native": "Việt Nam",
+      "elevation_ft": 0,
+      "latitude": 10.9064,
+      "longitude": 108.069,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "lid": ""
+    },
+    {
+      "icao": "VVRG",
+      "iata": "VKG",
+      "name": "Rach Gia Airport",
+      "city": "Rach Gia",
+      "subdivision": "Binh-Thuận",
+      "subdivision_native": "Bình Thuận",
+      "country": "VN",
+      "country_native": "Việt Nam",
+      "elevation_ft": 7,
+      "latitude": 9.95803,
+      "longitude": 105.13238,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Sân bay — Bình Thuận - Tải miễn phí",
+    "description": "Danh sách các sân bay và phi trường tại Bình Thuận (Việt Nam / VN) — bao gồm mã ICAO/IATA, thành phố, tọa độ WGS84, độ cao (feet) và múi giờ. Tập hợp con của danh sách sân bay quốc gia, được lọc theo subdivision='Binh-Thuận' trong nguồn dữ liệu mborsetti/airportsdata. (Airports in Binh Thuan, Vietnam — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list with subdivision='Binh-Thuận' in upstream source.) Chứa 3 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Sân bay — Bình Thuận | ListBase",
+    "seo_description": "Tải xuống Sân bay — Bình Thuận — 3 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 3 bản ghi / 13 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

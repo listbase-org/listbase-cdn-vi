@@ -1,0 +1,769 @@
+{
+  "id": "lang-english-pronouns",
+  "name": "Bộ Dữ Liệu Bảng Phân Loại Đại Từ Tiếng Anh",
+  "category": "language",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "pronoun",
+      "label": "Pronoun",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "case",
+      "label": "Case (EN)",
+      "type": "string"
+    },
+    {
+      "key": "person",
+      "label": "Person (EN)",
+      "type": "string"
+    },
+    {
+      "key": "number",
+      "label": "Number (EN)",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender (EN)",
+      "type": "string"
+    },
+    {
+      "key": "example",
+      "label": "Example",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pronoun": "I",
+      "type": "Đại từ nhân xưng",
+      "case": "Chủ ngữ",
+      "person": "Ngôi thứ nhất",
+      "number": "Số ít",
+      "gender": "Trung tính",
+      "example": "I am happy.",
+      "function": "Chủ ngữ của động từ"
+    },
+    {
+      "pronoun": "you",
+      "type": "Đại từ nhân xưng",
+      "case": "Chủ ngữ",
+      "person": "Ngôi thứ hai",
+      "number": "Số ít/Số nhiều",
+      "gender": "Trung tính",
+      "example": "You are kind.",
+      "function": "Chủ ngữ của động từ"
+    },
+    {
+      "pronoun": "he",
+      "type": "Đại từ nhân xưng",
+      "case": "Chủ ngữ",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Nam tính",
+      "example": "He runs fast.",
+      "function": "Chủ ngữ của động từ"
+    },
+    {
+      "pronoun": "she",
+      "type": "Đại từ nhân xưng",
+      "case": "Chủ ngữ",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Nữ tính",
+      "example": "She sings well.",
+      "function": "Chủ ngữ của động từ"
+    },
+    {
+      "pronoun": "it",
+      "type": "Đại từ nhân xưng",
+      "case": "Chủ ngữ",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Trung tính",
+      "example": "It is raining.",
+      "function": "Chủ ngữ của động từ"
+    },
+    {
+      "pronoun": "we",
+      "type": "Đại từ nhân xưng",
+      "case": "Chủ ngữ",
+      "person": "Ngôi thứ nhất",
+      "number": "Số nhiều",
+      "gender": "Trung tính",
+      "example": "We are friends.",
+      "function": "Chủ ngữ của động từ"
+    },
+    {
+      "pronoun": "they",
+      "type": "Đại từ nhân xưng",
+      "case": "Chủ ngữ",
+      "person": "Ngôi thứ ba",
+      "number": "Số nhiều",
+      "gender": "Trung tính",
+      "example": "They work hard.",
+      "function": "Chủ ngữ của động từ"
+    },
+    {
+      "pronoun": "me",
+      "type": "Đại từ nhân xưng",
+      "case": "Tân ngữ",
+      "person": "Ngôi thứ nhất",
+      "number": "Số ít",
+      "gender": "Trung tính",
+      "example": "She called me.",
+      "function": "Tân ngữ của động từ/giới từ"
+    },
+    {
+      "pronoun": "you",
+      "type": "Đại từ nhân xưng",
+      "case": "Tân ngữ",
+      "person": "Ngôi thứ hai",
+      "number": "Số ít/Số nhiều",
+      "gender": "Trung tính",
+      "example": "I saw you.",
+      "function": "Tân ngữ của động từ/giới từ"
+    },
+    {
+      "pronoun": "him",
+      "type": "Đại từ nhân xưng",
+      "case": "Tân ngữ",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Nam tính",
+      "example": "We helped him.",
+      "function": "Tân ngữ của động từ/giới từ"
+    },
+    {
+      "pronoun": "her",
+      "type": "Đại từ nhân xưng",
+      "case": "Tân ngữ",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Nữ tính",
+      "example": "They met her.",
+      "function": "Tân ngữ của động từ/giới từ"
+    },
+    {
+      "pronoun": "it",
+      "type": "Đại từ nhân xưng",
+      "case": "Tân ngữ",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Trung tính",
+      "example": "I found it.",
+      "function": "Tân ngữ của động từ/giới từ"
+    },
+    {
+      "pronoun": "us",
+      "type": "Đại từ nhân xưng",
+      "case": "Tân ngữ",
+      "person": "Ngôi thứ nhất",
+      "number": "Số nhiều",
+      "gender": "Trung tính",
+      "example": "She joined us.",
+      "function": "Tân ngữ của động từ/giới từ"
+    },
+    {
+      "pronoun": "them",
+      "type": "Đại từ nhân xưng",
+      "case": "Tân ngữ",
+      "person": "Ngôi thứ ba",
+      "number": "Số nhiều",
+      "gender": "Trung tính",
+      "example": "We invited them.",
+      "function": "Tân ngữ của động từ/giới từ"
+    },
+    {
+      "pronoun": "my",
+      "type": "Sở hữu",
+      "case": "Tính từ",
+      "person": "Ngôi thứ nhất",
+      "number": "Số ít",
+      "gender": "Trung tính",
+      "example": "This is my book.",
+      "function": "Bổ nghĩa cho danh từ"
+    },
+    {
+      "pronoun": "your",
+      "type": "Sở hữu",
+      "case": "Tính từ",
+      "person": "Ngôi thứ hai",
+      "number": "Số ít/Số nhiều",
+      "gender": "Trung tính",
+      "example": "Is this your car?",
+      "function": "Bổ nghĩa cho danh từ"
+    },
+    {
+      "pronoun": "his",
+      "type": "Sở hữu",
+      "case": "Tính từ",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Nam tính",
+      "example": "That is his phone.",
+      "function": "Bổ nghĩa cho danh từ"
+    },
+    {
+      "pronoun": "her",
+      "type": "Sở hữu",
+      "case": "Tính từ",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Nữ tính",
+      "example": "I like her dress.",
+      "function": "Bổ nghĩa cho danh từ"
+    },
+    {
+      "pronoun": "its",
+      "type": "Sở hữu",
+      "case": "Tính từ",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Trung tính",
+      "example": "The dog wagged its tail.",
+      "function": "Bổ nghĩa cho danh từ"
+    },
+    {
+      "pronoun": "our",
+      "type": "Sở hữu",
+      "case": "Tính từ",
+      "person": "Ngôi thứ nhất",
+      "number": "Số nhiều",
+      "gender": "Trung tính",
+      "example": "This is our house.",
+      "function": "Bổ nghĩa cho danh từ"
+    },
+    {
+      "pronoun": "their",
+      "type": "Sở hữu",
+      "case": "Tính từ",
+      "person": "Thứ ba",
+      "number": "Số nhiều",
+      "gender": "Trung lập",
+      "example": "They lost their keys.",
+      "function": "Bổ nghĩa cho danh từ"
+    },
+    {
+      "pronoun": "mine",
+      "type": "Sở hữu",
+      "case": "Độc lập",
+      "person": "Thứ nhất",
+      "number": "Số ít",
+      "gender": "Trung lập",
+      "example": "This book is mine.",
+      "function": "Thay thế cụm danh từ"
+    },
+    {
+      "pronoun": "yours",
+      "type": "Sở hữu",
+      "case": "Độc lập",
+      "person": "Thứ hai",
+      "number": "Số ít/Số nhiều",
+      "gender": "Trung lập",
+      "example": "Is this car yours?",
+      "function": "Thay thế cụm danh từ"
+    },
+    {
+      "pronoun": "his",
+      "type": "Sở hữu",
+      "case": "Độc lập",
+      "person": "Thứ ba",
+      "number": "Số ít",
+      "gender": "Nam tính",
+      "example": "The phone is his.",
+      "function": "Thay thế cụm danh từ"
+    },
+    {
+      "pronoun": "hers",
+      "type": "Sở hữu",
+      "case": "Độc lập",
+      "person": "Thứ ba",
+      "number": "Số ít",
+      "gender": "Nữ tính",
+      "example": "The dress is hers.",
+      "function": "Thay thế cụm danh từ"
+    },
+    {
+      "pronoun": "its",
+      "type": "Sở hữu",
+      "case": "Độc lập",
+      "person": "Thứ ba",
+      "number": "Số ít",
+      "gender": "Trung tính",
+      "example": "The responsibility is its.",
+      "function": "Thay thế cụm danh từ"
+    },
+    {
+      "pronoun": "ours",
+      "type": "Sở hữu",
+      "case": "Độc lập",
+      "person": "Thứ nhất",
+      "number": "Số nhiều",
+      "gender": "Trung lập",
+      "example": "The house is ours.",
+      "function": "Thay thế cụm danh từ"
+    },
+    {
+      "pronoun": "theirs",
+      "type": "Sở hữu",
+      "case": "Độc lập",
+      "person": "Thứ ba",
+      "number": "Số nhiều",
+      "gender": "Trung lập",
+      "example": "The car is theirs.",
+      "function": "Thay thế cụm danh từ"
+    },
+    {
+      "pronoun": "myself",
+      "type": "Phản thân",
+      "case": "Phản thân",
+      "person": "Thứ nhất",
+      "number": "Số ít",
+      "gender": "Trung lập",
+      "example": "I hurt myself.",
+      "function": "Tân ngữ chỉ chủ ngữ"
+    },
+    {
+      "pronoun": "yourself",
+      "type": "Phản thân",
+      "case": "Phản thân",
+      "person": "Thứ hai",
+      "number": "Số ít",
+      "gender": "Trung lập",
+      "example": "You should believe in yourself.",
+      "function": "Tân ngữ chỉ chủ ngữ"
+    },
+    {
+      "pronoun": "himself",
+      "type": "Phản thân",
+      "case": "Phản thân",
+      "person": "Thứ ba",
+      "number": "Số ít",
+      "gender": "Nam tính",
+      "example": "He taught himself.",
+      "function": "Tân ngữ chỉ chủ ngữ"
+    },
+    {
+      "pronoun": "herself",
+      "type": "Phản thân",
+      "case": "Phản thân",
+      "person": "Thứ ba",
+      "number": "Số ít",
+      "gender": "Nữ tính",
+      "example": "She introduced herself.",
+      "function": "Tân ngữ chỉ chủ ngữ"
+    },
+    {
+      "pronoun": "itself",
+      "type": "Phản thân",
+      "case": "Phản thân",
+      "person": "Thứ ba",
+      "number": "Số ít",
+      "gender": "Trung tính",
+      "example": "The cat cleaned itself.",
+      "function": "Tân ngữ chỉ chủ ngữ"
+    },
+    {
+      "pronoun": "ourselves",
+      "type": "Phản thân",
+      "case": "Phản thân",
+      "person": "Thứ nhất",
+      "number": "Số nhiều",
+      "gender": "Trung lập",
+      "example": "We enjoyed ourselves.",
+      "function": "Tân ngữ chỉ chủ ngữ"
+    },
+    {
+      "pronoun": "yourselves",
+      "type": "Phản thân",
+      "case": "Phản thân",
+      "person": "Thứ hai",
+      "number": "Số nhiều",
+      "gender": "Trung lập",
+      "example": "Help yourselves.",
+      "function": "Tân ngữ chỉ chủ ngữ"
+    },
+    {
+      "pronoun": "themselves",
+      "type": "Phản thân",
+      "case": "Phản thân",
+      "person": "Thứ ba",
+      "number": "Số nhiều",
+      "gender": "Trung lập",
+      "example": "They blamed themselves.",
+      "function": "Tân ngữ chỉ chủ ngữ"
+    },
+    {
+      "pronoun": "this",
+      "type": "Chỉ định",
+      "case": "-",
+      "person": "-",
+      "number": "Số ít",
+      "gender": "Trung lập",
+      "example": "This is delicious.",
+      "function": "Chỉ vật ở gần"
+    },
+    {
+      "pronoun": "that",
+      "type": "Chỉ định",
+      "case": "-",
+      "person": "-",
+      "number": "Số ít",
+      "gender": "Trung lập",
+      "example": "That is beautiful.",
+      "function": "Chỉ vật ở xa"
+    },
+    {
+      "pronoun": "these",
+      "type": "Chỉ định",
+      "case": "-",
+      "person": "-",
+      "number": "Số nhiều",
+      "gender": "Trung lập",
+      "example": "These are my books.",
+      "function": "Chỉ các vật ở gần"
+    },
+    {
+      "pronoun": "those",
+      "type": "Chỉ định",
+      "case": "-",
+      "person": "-",
+      "number": "Số nhiều",
+      "gender": "Trung lập",
+      "example": "Those are expensive.",
+      "function": "Chỉ các vật ở xa"
+    },
+    {
+      "pronoun": "who",
+      "type": "Nghi vấn",
+      "case": "Chủ ngữ",
+      "person": "-",
+      "number": "-",
+      "gender": "Người",
+      "example": "Who called?",
+      "function": "Hỏi về người (chủ ngữ)"
+    },
+    {
+      "pronoun": "whom",
+      "type": "Nghi vấn",
+      "case": "Tân ngữ",
+      "person": "-",
+      "number": "-",
+      "gender": "Người",
+      "example": "Whom did you call?",
+      "function": "Hỏi về người (tân ngữ)"
+    },
+    {
+      "pronoun": "whose",
+      "type": "Nghi vấn",
+      "case": "Sở hữu",
+      "person": "-",
+      "number": "-",
+      "gender": "Người",
+      "example": "Whose is this?",
+      "function": "Hỏi về sự sở hữu"
+    },
+    {
+      "pronoun": "what",
+      "type": "Nghi vấn",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Vật",
+      "example": "What happened?",
+      "function": "Hỏi về vật/hành động"
+    },
+    {
+      "pronoun": "which",
+      "type": "Nghi vấn",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Người/Vật",
+      "example": "Which do you prefer?",
+      "function": "Hỏi để lựa chọn"
+    },
+    {
+      "pronoun": "who",
+      "type": "Quan hệ",
+      "case": "Chủ ngữ",
+      "person": "-",
+      "number": "-",
+      "gender": "Người",
+      "example": "The man who called is here.",
+      "function": "Giới thiệu mệnh đề quan hệ (chủ ngữ)"
+    },
+    {
+      "pronoun": "whom",
+      "type": "Quan hệ",
+      "case": "Tân ngữ",
+      "person": "-",
+      "number": "-",
+      "gender": "Người",
+      "example": "The person whom I met was kind.",
+      "function": "Giới thiệu mệnh đề quan hệ (tân ngữ)"
+    },
+    {
+      "pronoun": "whose",
+      "type": "Quan hệ",
+      "case": "Sở hữu",
+      "person": "-",
+      "number": "-",
+      "gender": "Người/Vật",
+      "example": "The author whose book I read.",
+      "function": "Thể hiện sự sở hữu trong mệnh đề quan hệ"
+    },
+    {
+      "pronoun": "which",
+      "type": "Quan hệ",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Vật",
+      "example": "The book which I read was good.",
+      "function": "Giới thiệu mệnh đề quan hệ (vật)"
+    },
+    {
+      "pronoun": "that",
+      "type": "Quan hệ",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Người/Vật",
+      "example": "The house that Jack built.",
+      "function": "Giới thiệu mệnh đề quan hệ hạn định"
+    },
+    {
+      "pronoun": "anyone",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Người",
+      "example": "Anyone can join.",
+      "function": "Chỉ bất kỳ người nào"
+    },
+    {
+      "pronoun": "everyone",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Người",
+      "example": "Everyone is welcome.",
+      "function": "Chỉ tất cả mọi người"
+    },
+    {
+      "pronoun": "someone",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Người",
+      "example": "Someone called you.",
+      "function": "Chỉ người không xác định"
+    },
+    {
+      "pronoun": "no one",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Người",
+      "example": "No one was there.",
+      "function": "Chỉ không người nào"
+    },
+    {
+      "pronoun": "anything",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Vật",
+      "example": "Is there anything to eat?",
+      "function": "Chỉ bất kỳ vật nào"
+    },
+    {
+      "pronoun": "everything",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Vật",
+      "example": "Everything is ready.",
+      "function": "Chỉ tất cả mọi vật"
+    },
+    {
+      "pronoun": "something",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Vật",
+      "example": "I heard something.",
+      "function": "Chỉ vật không xác định"
+    },
+    {
+      "pronoun": "nothing",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Vật",
+      "example": "Nothing happened.",
+      "function": "Chỉ không vật nào"
+    },
+    {
+      "pronoun": "all",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít/Số nhiều",
+      "gender": "Trung tính",
+      "example": "All are welcome.",
+      "function": "Chỉ toàn bộ số lượng"
+    },
+    {
+      "pronoun": "some",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít/Số nhiều",
+      "gender": "Trung tính",
+      "example": "Some are missing.",
+      "function": "Chỉ một phần số lượng"
+    },
+    {
+      "pronoun": "none",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít/Số nhiều",
+      "gender": "Trung tính",
+      "example": "None were found.",
+      "function": "Chỉ số lượng bằng không"
+    },
+    {
+      "pronoun": "both",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số nhiều",
+      "gender": "Trung tính",
+      "example": "Both are correct.",
+      "function": "Chỉ hai vật cùng nhau"
+    },
+    {
+      "pronoun": "each",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Trung tính",
+      "example": "Each has a role.",
+      "function": "Chỉ các cá nhân"
+    },
+    {
+      "pronoun": "either",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Trung tính",
+      "example": "Either will work.",
+      "function": "Chỉ một trong hai"
+    },
+    {
+      "pronoun": "neither",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Trung tính",
+      "example": "Neither is correct.",
+      "function": "Chỉ không có cái nào trong hai"
+    },
+    {
+      "pronoun": "few",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số nhiều",
+      "gender": "Trung tính",
+      "example": "Few attended.",
+      "function": "Chỉ số lượng nhỏ"
+    },
+    {
+      "pronoun": "many",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số nhiều",
+      "gender": "Trung tính",
+      "example": "Many have tried.",
+      "function": "Chỉ số lượng lớn"
+    },
+    {
+      "pronoun": "several",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số nhiều",
+      "gender": "Trung tính",
+      "example": "Several are broken.",
+      "function": "Chỉ nhiều hơn hai"
+    },
+    {
+      "pronoun": "one",
+      "type": "Bất định",
+      "case": "-",
+      "person": "Ngôi thứ ba",
+      "number": "Số ít",
+      "gender": "Trung tính",
+      "example": "One must be careful.",
+      "function": "Chỉ bất kỳ người nào (trang trọng)"
+    }
+  ],
+  "meta": {
+    "seo_title": "Bảng Đại Từ Tiếng Anh - Tải Miễn Phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống bộ dữ liệu bảng đại từ tiếng Anh toàn diện với 69 bản ghi về loại, cách, ngôi, giới tính và ví dụ. Miễn phí ở định dạng Excel, CSV, PDF.",
+    "title": "Bộ Dữ Liệu Bảng Phân Loại Đại Từ Tiếng Anh",
+    "description": "Bộ dữ liệu này cung cấp phân loại chi tiết 69 đại từ tiếng Anh, bao gồm loại, cách ngữ pháp, ngôi, số, giới tính, câu ví dụ và chức năng. Đây là tài nguyên thiết yếu cho các nhà ngôn ngữ học, nhà giáo dục và người học ngôn ngữ.",
+    "key_takeaways": [
+      "Truy cập danh sách toàn diện 69 đại từ tiếng Anh với các thuộc tính ngữ pháp chi tiết.",
+      "Khám phá các loại đại từ, cách, ngôi, số, giới tính và chức năng.",
+      "Tải xuống các câu ví dụ để hiểu thực tế về cách sử dụng đại từ.",
+      "Tận dụng dữ liệu có cấu trúc để phân tích ngôn ngữ và tạo tài liệu giáo dục."
+    ],
+    "keywords": [
+      "đại từ tiếng anh",
+      "bảng đại từ",
+      "ngữ pháp tiếng anh excel",
+      "phân loại đại từ",
+      "ví dụ đại từ csv",
+      "tải đại từ tiếng anh"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL hoặc tập lệnh Python của bạn để xây dựng công cụ phân tích đại từ hoặc API.",
+      "Sử dụng tệp **Excel** để lọc đại từ theo loại, cách hoặc giới tính, tạo Pivot Tables để phân tích thống kê hoặc chuẩn bị báo cáo ngữ pháp.",
+      "In phiên bản **PDF** để tham khảo trong lớp học, tài liệu học tiếng Anh hoặc làm hướng dẫn ngoại tuyến nhanh về đại từ tiếng Anh.",
+      "Tích hợp bộ dữ liệu có cấu trúc này vào phần mềm giáo dục hoặc nền tảng e-learning để nâng cao bài học ngữ pháp tiếng Anh."
+    ]
+  },
+  "record_count": 69,
+  "title": "Bộ Dữ Liệu Bảng Phân Loại Đại Từ Tiếng Anh"
+}

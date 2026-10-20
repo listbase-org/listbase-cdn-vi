@@ -1,0 +1,126 @@
+{
+  "id": "vi-lao-cai-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Lào Cai",
+  "title": "Địa điểm du lịch Lào Cai",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Lào Cai (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 31,
+      "ten_dia_diem": "Đỉnh Núi Fansipan",
+      "vi_tri": "Lào Cai",
+      "tinh_truoc_sap_nhap_2025": "Lào Cai",
+      "mo_ta": "Fansipan được mệnh danh là “Nóc nhà Đông Dương” với độ cao 3.147m.",
+      "danh_gia": "4.8/5",
+      "danh_gia_diem": 4.8,
+      "anh": "https://limtravel.vn/wp-content/uploads/2020/10/tour-leo-nui-fansipan-3-1.jpg",
+      "tu_khoa": "núi, tham quan, thám hiểm, chụp ảnh"
+    },
+    {
+      "stt": 32,
+      "ten_dia_diem": "Cổng Trời Ô Quy Hồ",
+      "vi_tri": "Lào Cai",
+      "tinh_truoc_sap_nhap_2025": "Lào Cai",
+      "mo_ta": "Đèo Ô Quy Hồ là một trong \"Tứ đại đỉnh đèo\" của Tây Bắc, nối liền Lào Cai và Lai Châu.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://media.techcity.cloud/vietnam.vn/2023/09/cong-troi-o-quy-ho-sapa_26-09-2022_175234433.jpg",
+      "tu_khoa": "đèo, tham quan, chụp ảnh"
+    },
+    {
+      "stt": 33,
+      "ten_dia_diem": "Chợ phiên Bắc Hà",
+      "vi_tri": "Lào Cai",
+      "tinh_truoc_sap_nhap_2025": "Lào Cai",
+      "mo_ta": "Chợ phiên Bắc Hà nổi tiếng với các mặt hàng thổ cẩm, nông sản và các món ăn đặc trưng của người dân tộc H’Mông, Dao.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://tse1.mm.bing.net/th?id=OIP.4K8zaZgInJkSkftXRLz_-wHaFA&pid=Api&P=0&h=220",
+      "tu_khoa": "chợ, tham quan, ăn uống, mua sắm"
+    },
+    {
+      "stt": 34,
+      "ten_dia_diem": "Thác Tình Yêu",
+      "vi_tri": "Lào Cai",
+      "tinh_truoc_sap_nhap_2025": "Lào Cai",
+      "mo_ta": "Là một điểm đến lãng mạn với dòng nước trong xanh chảy qua rừng nguyên sinh.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://docmiendatnuoc.com/wp-content/uploads/2019/07/thac-tinh-yeu-sapa-1.jpg",
+      "tu_khoa": "thác, suối, tham quan, chụp ảnh"
+    },
+    {
+      "stt": 35,
+      "ten_dia_diem": "Đền Thượng",
+      "vi_tri": "Lào Cai",
+      "tinh_truoc_sap_nhap_2025": "Lào Cai",
+      "mo_ta": "Là nơi thờ Trần Hưng Đạo, vị tướng tài ba trong lịch sử Việt Nam.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://52hz.vn/wp-content/uploads/2023/01/31-den-thuong-lao-cai-chinh-dien.jpg",
+      "tu_khoa": "đền, tham quan, chụp ảnh, lịch sử"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Lào Cai - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Lào Cai (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Lào Cai | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Lào Cai — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

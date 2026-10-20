@@ -1,0 +1,211 @@
+{
+  "id": "vi-di-san-the-gioi-unesco",
+  "name": "Di sản thế giới UNESCO tại Việt Nam",
+  "title": "Di sản thế giới UNESCO tại Việt Nam",
+  "description": "Danh sách các di sản thế giới được UNESCO công nhận tại Việt Nam",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    },
+    {
+      "key": "danger",
+      "label": "Danger",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "short_description",
+      "label": "Short Description",
+      "type": "string"
+    },
+    {
+      "key": "id_number",
+      "label": "Id Number",
+      "type": "number"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Complex of Hué Monuments",
+      "category": "Cultural",
+      "date_inscribed": 1993,
+      "criteria": "(iv)",
+      "region": "Asia and the Pacific",
+      "states": "Viet Nam",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 16.46944,
+      "longitude": 107.57778,
+      "short_description": "Established as the capital of unified Viet Nam in 1802, Hué was not only the political but also the cultural and religious centre under the Nguyen dynasty until 1945. The Perfume River winds its way through the Capital City, the Imperial City, the Forbidden Purple City and the Inner City, giving this unique feudal capital a setting of great natural beauty.",
+      "id_number": 678,
+      "url": "https://whc.unesco.org/en/list/678"
+    },
+    {
+      "name": "Ha Long Bay",
+      "category": "Natural",
+      "date_inscribed": 1994,
+      "criteria": "(vii)(viii)",
+      "region": "Asia and the Pacific",
+      "states": "Viet Nam",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 20.9,
+      "longitude": 107.1,
+      "short_description": "Ha Long Bay, in the Gulf of Tonkin, includes some 1,600 islands and islets, forming a spectacular seascape of limestone pillars. Because of their precipitous nature, most of the islands are uninhabited and unaffected by a human presence. The site's outstanding scenic beauty is complemented by its great biological interest.",
+      "id_number": 672,
+      "url": "https://whc.unesco.org/en/list/672"
+    },
+    {
+      "name": "Hoi An Ancient Town",
+      "category": "Cultural",
+      "date_inscribed": 1999,
+      "criteria": "(ii)(v)",
+      "region": "Asia and the Pacific",
+      "states": "Viet Nam",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 15.883333,
+      "longitude": 108.333333,
+      "short_description": "Hoi An Ancient Town is an exceptionally well-preserved example of a South-East Asian trading port dating from the 15th to the 19th century. Its buildings and its street plan reflect the influences, both indigenous and foreign, that have combined to produce this unique heritage site.",
+      "id_number": 948,
+      "url": "https://whc.unesco.org/en/list/948"
+    },
+    {
+      "name": "My Son Sanctuary",
+      "category": "Cultural",
+      "date_inscribed": 1999,
+      "criteria": "(ii)(iii)",
+      "region": "Asia and the Pacific",
+      "states": "Viet Nam",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 15.516667,
+      "longitude": 108.566667,
+      "short_description": "Between the 4th and 13th centuries a unique culture which owed its spiritual origins to Indian Hinduism developed on the coast of contemporary Viet Nam. This is graphically illustrated by the remains of a series of impressive tower-temples located in a dramatic site that was the religious and political capital of the Champa Kingdom for most of its existence.",
+      "id_number": 949,
+      "url": "https://whc.unesco.org/en/list/949"
+    },
+    {
+      "name": "Phong Nha-Ke Bang National Park",
+      "category": "Natural",
+      "date_inscribed": 2003,
+      "criteria": "(viii)(ix)(x)",
+      "region": "Asia and the Pacific",
+      "states": "Viet Nam",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 17.537222,
+      "longitude": 106.15125,
+      "short_description": "The Phong Nha-Ke Bang National Park, inscribed on the World Heritage List in 2003, covered 85,754 hectares. With this extension, the site covers a total surface area of 126,236 hectares (a 46 % increase) and shares a boundary with the Hin Namno Nature Reserve in the Peoples Democratic Republic of Laos. The Park’s landscape is formed by limestone plateaux and tropical forests. It features great geological diversity and offers spectacular phenomena, including a large number of caves and underground rivers. The site harbours a high level of biodiversity and many endemic species. The extension ensures a more coherent ecosystem while providing additional protection to the catchment areas that are of vital importance for the integrity of limestone landscapes.",
+      "id_number": 951,
+      "url": "https://whc.unesco.org/en/list/951"
+    },
+    {
+      "name": "Central Sector of the Imperial Citadel of Thang Long - Hanoi",
+      "category": "Cultural",
+      "date_inscribed": 2010,
+      "criteria": "(ii)(iii)(vi)",
+      "region": "Asia and the Pacific",
+      "states": "Viet Nam",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 21.039444,
+      "longitude": 105.837222,
+      "short_description": "The Thang Long Imperial Citadel was built in the 11th century by the Ly Viet Dynasty, marking the independence of the Dai Viet. It was constructed on the remains of a Chinese fortress dating from the 7th century, on drained land reclaimed from the Red River Delta in Hanoi. It was the centre of regional political power for almost 13 centuries without interruption. The Imperial Citadel buildings and the remains in the 18 Hoang Dieu Archaeological Site reflect a unique South-East Asian culture specific to the lower Red River Valley, at the crossroads between influences coming from China in the north and the ancient Kingdom of Champa in the south.",
+      "id_number": 1328,
+      "url": "https://whc.unesco.org/en/list/1328"
+    },
+    {
+      "name": "Citadel of the Ho Dynasty",
+      "category": "Cultural",
+      "date_inscribed": 2011,
+      "criteria": "(ii)(iv)",
+      "region": "Asia and the Pacific",
+      "states": "Viet Nam",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 20.078056,
+      "longitude": 105.604722,
+      "short_description": "The 14th -century Ho Dynasty citadel, built according to the feng shui principles, testifies to the flowering of neo-Confucianism in late 14th century Viet Nam and its spread to other parts of east Asia. According to these principles it was sited in a landscape of great scenic beauty on an axis joining the Tuong Son and Don Son mountains in a plain between the Ma and Buoi rivers. The citadel buildings represent an outstanding example of a new style of south-east Asian imperial city.",
+      "id_number": 1358,
+      "url": "https://whc.unesco.org/en/list/1358"
+    },
+    {
+      "name": "Trang An Landscape Complex",
+      "category": "Mixed",
+      "date_inscribed": 2014,
+      "criteria": "(v)(vii)(viii)",
+      "region": "Asia and the Pacific",
+      "states": "Viet Nam",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 20.256667,
+      "longitude": 105.896389,
+      "short_description": "Situated near the southern margin of the Red River Delta, the Trang An Landscape Complex is a spectacular landscape of limestone karst peaks permeated with valleys, many of them partly submerged and surrounded by steep, almost vertical cliffs. Exploration of caves at different altitudes has revealed archaeological traces of human activity over a continuous period of more than 30,000 years. They illustrate the occupation of these mountains by seasonal hunter-gatherers and how they adapted to major climatic and environmental changes, especially the repeated inundation of the landscape by the sea after the last ice age. The story of human occupation continues through the Neolithic and Bronze Ages to the historical era. Hoa Lu, the ancient capital of Viet Nam, was strategically established here in the 10th and 11th centuries AD. The property also contains temples, pagodas, paddy-fields and small villages.",
+      "id_number": 1438,
+      "url": "https://whc.unesco.org/en/list/1438"
+    }
+  ],
+  "meta": {
+    "title": "Di sản thế giới UNESCO tại Việt Nam - Tải miễn phí",
+    "description": "Danh sách các di sản thế giới được UNESCO công nhận tại Việt Nam Chứa 8 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Di sản thế giới UNESCO tại Việt Nam | ListBase",
+    "seo_description": "Tải xuống Di sản thế giới UNESCO tại Việt Nam — 8 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 8 bản ghi / 13 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

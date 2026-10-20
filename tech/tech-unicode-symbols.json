@@ -1,0 +1,554 @@
+{
+  "id": "tech-unicode-symbols",
+  "name": "Bộ Dữ Liệu Biểu Tượng Unicode & Thực Thể HTML Phổ Biến",
+  "category": "tech",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "code_point",
+      "label": "Code Point",
+      "type": "string"
+    },
+    {
+      "key": "html_entity",
+      "label": "HTML Entity",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "symbol": "←",
+      "code_point": "U+2190",
+      "html_entity": "&larr;",
+      "name": "Mũi tên sang trái",
+      "category": "Mũi tên"
+    },
+    {
+      "symbol": "→",
+      "code_point": "U+2192",
+      "html_entity": "&rarr;",
+      "name": "Mũi tên sang phải",
+      "category": "Mũi tên"
+    },
+    {
+      "symbol": "↑",
+      "code_point": "U+2191",
+      "html_entity": "&uarr;",
+      "name": "Mũi tên lên trên",
+      "category": "Mũi tên"
+    },
+    {
+      "symbol": "↓",
+      "code_point": "U+2193",
+      "html_entity": "&darr;",
+      "name": "Mũi tên xuống dưới",
+      "category": "Mũi tên"
+    },
+    {
+      "symbol": "↔",
+      "code_point": "U+2194",
+      "html_entity": "&harr;",
+      "name": "Mũi tên trái phải",
+      "category": "Mũi tên"
+    },
+    {
+      "symbol": "↕",
+      "code_point": "U+2195",
+      "html_entity": "&varr;",
+      "name": "Mũi tên lên xuống",
+      "category": "Mũi tên"
+    },
+    {
+      "symbol": "⇐",
+      "code_point": "U+21D0",
+      "html_entity": "&lArr;",
+      "name": "Mũi tên đôi sang trái",
+      "category": "Mũi tên"
+    },
+    {
+      "symbol": "⇒",
+      "code_point": "U+21D2",
+      "html_entity": "&rArr;",
+      "name": "Mũi tên đôi sang phải",
+      "category": "Mũi tên"
+    },
+    {
+      "symbol": "⇑",
+      "code_point": "U+21D1",
+      "html_entity": "&uArr;",
+      "name": "Mũi tên đôi lên trên",
+      "category": "Mũi tên"
+    },
+    {
+      "symbol": "⇓",
+      "code_point": "U+21D3",
+      "html_entity": "&dArr;",
+      "name": "Mũi tên đôi xuống dưới",
+      "category": "Mũi tên"
+    },
+    {
+      "symbol": "±",
+      "code_point": "U+00B1",
+      "html_entity": "&plusmn;",
+      "name": "Dấu cộng trừ",
+      "category": "Toán tử"
+    },
+    {
+      "symbol": "×",
+      "code_point": "U+00D7",
+      "html_entity": "&times;",
+      "name": "Dấu nhân",
+      "category": "Toán tử"
+    },
+    {
+      "symbol": "÷",
+      "code_point": "U+00F7",
+      "html_entity": "&divide;",
+      "name": "Dấu chia",
+      "category": "Toán tử"
+    },
+    {
+      "symbol": "≠",
+      "code_point": "U+2260",
+      "html_entity": "&ne;",
+      "name": "Không bằng",
+      "category": "Toán tử"
+    },
+    {
+      "symbol": "≈",
+      "code_point": "U+2248",
+      "html_entity": "&asymp;",
+      "name": "Gần bằng",
+      "category": "Toán tử"
+    },
+    {
+      "symbol": "≤",
+      "code_point": "U+2264",
+      "html_entity": "&le;",
+      "name": "Nhỏ hơn hoặc bằng",
+      "category": "Toán tử"
+    },
+    {
+      "symbol": "≥",
+      "code_point": "U+2265",
+      "html_entity": "&ge;",
+      "name": "Lớn hơn hoặc bằng",
+      "category": "Toán tử"
+    },
+    {
+      "symbol": "∞",
+      "code_point": "U+221E",
+      "html_entity": "&infin;",
+      "name": "Vô cực",
+      "category": "Toán tử"
+    },
+    {
+      "symbol": "√",
+      "code_point": "U+221A",
+      "html_entity": "&radic;",
+      "name": "Căn bậc hai",
+      "category": "Toán tử"
+    },
+    {
+      "symbol": "∑",
+      "code_point": "U+2211",
+      "html_entity": "&sum;",
+      "name": "Tổng hợp N-ary",
+      "category": "Toán tử"
+    },
+    {
+      "symbol": "∏",
+      "code_point": "U+220F",
+      "html_entity": "&prod;",
+      "name": "Tích n-ary",
+      "category": "Các toán tử toán học"
+    },
+    {
+      "symbol": "∫",
+      "code_point": "U+222B",
+      "html_entity": "&int;",
+      "name": "Tích phân",
+      "category": "Các toán tử toán học"
+    },
+    {
+      "symbol": "∂",
+      "code_point": "U+2202",
+      "html_entity": "&part;",
+      "name": "Đạo hàm riêng phần",
+      "category": "Các toán tử toán học"
+    },
+    {
+      "symbol": "∇",
+      "code_point": "U+2207",
+      "html_entity": "&nabla;",
+      "name": "Nabla",
+      "category": "Các toán tử toán học"
+    },
+    {
+      "symbol": "α",
+      "code_point": "U+03B1",
+      "html_entity": "&alpha;",
+      "name": "Chữ Hy Lạp thường Alpha",
+      "category": "Chữ cái Hy Lạp"
+    },
+    {
+      "symbol": "β",
+      "code_point": "U+03B2",
+      "html_entity": "&beta;",
+      "name": "Chữ Hy Lạp thường Beta",
+      "category": "Chữ cái Hy Lạp"
+    },
+    {
+      "symbol": "γ",
+      "code_point": "U+03B3",
+      "html_entity": "&gamma;",
+      "name": "Chữ Hy Lạp thường Gamma",
+      "category": "Chữ cái Hy Lạp"
+    },
+    {
+      "symbol": "δ",
+      "code_point": "U+03B4",
+      "html_entity": "&delta;",
+      "name": "Chữ Hy Lạp thường Delta",
+      "category": "Chữ cái Hy Lạp"
+    },
+    {
+      "symbol": "π",
+      "code_point": "U+03C0",
+      "html_entity": "&pi;",
+      "name": "Chữ Hy Lạp thường Pi",
+      "category": "Chữ cái Hy Lạp"
+    },
+    {
+      "symbol": "σ",
+      "code_point": "U+03C3",
+      "html_entity": "&sigma;",
+      "name": "Chữ Hy Lạp thường Sigma",
+      "category": "Chữ cái Hy Lạp"
+    },
+    {
+      "symbol": "θ",
+      "code_point": "U+03B8",
+      "html_entity": "&theta;",
+      "name": "Chữ Hy Lạp thường Theta",
+      "category": "Chữ cái Hy Lạp"
+    },
+    {
+      "symbol": "λ",
+      "code_point": "U+03BB",
+      "html_entity": "&lambda;",
+      "name": "Chữ Hy Lạp thường Lambda",
+      "category": "Chữ cái Hy Lạp"
+    },
+    {
+      "symbol": "μ",
+      "code_point": "U+03BC",
+      "html_entity": "&mu;",
+      "name": "Chữ Hy Lạp thường Mu",
+      "category": "Chữ cái Hy Lạp"
+    },
+    {
+      "symbol": "Ω",
+      "code_point": "U+03A9",
+      "html_entity": "&Omega;",
+      "name": "Chữ Hy Lạp hoa Omega",
+      "category": "Chữ cái Hy Lạp"
+    },
+    {
+      "symbol": "$",
+      "code_point": "U+0024",
+      "html_entity": "&dollar;",
+      "name": "Ký hiệu Đô la",
+      "category": "Tiền tệ"
+    },
+    {
+      "symbol": "€",
+      "code_point": "U+20AC",
+      "html_entity": "&euro;",
+      "name": "Ký hiệu Euro",
+      "category": "Tiền tệ"
+    },
+    {
+      "symbol": "£",
+      "code_point": "U+00A3",
+      "html_entity": "&pound;",
+      "name": "Ký hiệu Bảng Anh",
+      "category": "Tiền tệ"
+    },
+    {
+      "symbol": "¥",
+      "code_point": "U+00A5",
+      "html_entity": "&yen;",
+      "name": "Ký hiệu Yên",
+      "category": "Tiền tệ"
+    },
+    {
+      "symbol": "₩",
+      "code_point": "U+20A9",
+      "html_entity": "&#8361;",
+      "name": "Ký hiệu Won",
+      "category": "Tiền tệ"
+    },
+    {
+      "symbol": "₹",
+      "code_point": "U+20B9",
+      "html_entity": "&#8377;",
+      "name": "Ký hiệu Rupee Ấn Độ",
+      "category": "Tiền tệ"
+    },
+    {
+      "symbol": "฿",
+      "code_point": "U+0E3F",
+      "html_entity": "&#3647;",
+      "name": "Ký hiệu Baht Thái",
+      "category": "Tiền tệ"
+    },
+    {
+      "symbol": "₿",
+      "code_point": "U+20BF",
+      "html_entity": "&#8383;",
+      "name": "Ký hiệu Bitcoin",
+      "category": "Tiền tệ"
+    },
+    {
+      "symbol": "©",
+      "code_point": "U+00A9",
+      "html_entity": "&copy;",
+      "name": "Ký hiệu bản quyền",
+      "category": "Ký hiệu chữ"
+    },
+    {
+      "symbol": "®",
+      "code_point": "U+00AE",
+      "html_entity": "&reg;",
+      "name": "Ký hiệu đã đăng ký",
+      "category": "Ký hiệu chữ"
+    },
+    {
+      "symbol": "™",
+      "code_point": "U+2122",
+      "html_entity": "&trade;",
+      "name": "Ký hiệu nhãn hiệu",
+      "category": "Ký hiệu chữ"
+    },
+    {
+      "symbol": "°",
+      "code_point": "U+00B0",
+      "html_entity": "&deg;",
+      "name": "Ký hiệu độ",
+      "category": "Ký hiệu chữ"
+    },
+    {
+      "symbol": "•",
+      "code_point": "U+2022",
+      "html_entity": "&bull;",
+      "name": "Dấu đầu dòng",
+      "category": "Ký hiệu chữ"
+    },
+    {
+      "symbol": "…",
+      "code_point": "U+2026",
+      "html_entity": "&hellip;",
+      "name": "Dấu ba chấm ngang",
+      "category": "Ký hiệu chữ"
+    },
+    {
+      "symbol": "†",
+      "code_point": "U+2020",
+      "html_entity": "&dagger;",
+      "name": "Ký hiệu dao găm",
+      "category": "Ký hiệu chữ"
+    },
+    {
+      "symbol": "‡",
+      "code_point": "U+2021",
+      "html_entity": "&Dagger;",
+      "name": "Ký hiệu dao găm kép",
+      "category": "Ký hiệu chữ"
+    },
+    {
+      "symbol": "§",
+      "code_point": "U+00A7",
+      "html_entity": "&sect;",
+      "name": "Ký hiệu mục",
+      "category": "Ký hiệu chữ"
+    },
+    {
+      "symbol": "¶",
+      "code_point": "U+00B6",
+      "html_entity": "&para;",
+      "name": "Ký hiệu đoạn văn",
+      "category": "Ký hiệu chữ"
+    },
+    {
+      "symbol": "✓",
+      "code_point": "U+2713",
+      "html_entity": "&#10003;",
+      "name": "Dấu tích",
+      "category": "Trạng thái"
+    },
+    {
+      "symbol": "✗",
+      "code_point": "U+2717",
+      "html_entity": "&#10007;",
+      "name": "Dấu X bỏ phiếu",
+      "category": "Trạng thái"
+    },
+    {
+      "symbol": "✔",
+      "code_point": "U+2714",
+      "html_entity": "&#10004;",
+      "name": "Dấu tích đậm",
+      "category": "Trạng thái"
+    },
+    {
+      "symbol": "✘",
+      "code_point": "U+2718",
+      "html_entity": "&#10008;",
+      "name": "Dấu X bỏ phiếu đậm",
+      "category": "Trạng thái"
+    },
+    {
+      "symbol": "★",
+      "code_point": "U+2605",
+      "html_entity": "&#9733;",
+      "name": "Ngôi sao đen",
+      "category": "Trạng thái"
+    },
+    {
+      "symbol": "☆",
+      "code_point": "U+2606",
+      "html_entity": "&#9734;",
+      "name": "Ngôi sao trắng",
+      "category": "Trạng thái"
+    },
+    {
+      "symbol": "♥",
+      "code_point": "U+2665",
+      "html_entity": "&hearts;",
+      "name": "Ký hiệu trái tim đen",
+      "category": "Trạng thái"
+    },
+    {
+      "symbol": "♦",
+      "code_point": "U+2666",
+      "html_entity": "&diams;",
+      "name": "Ký hiệu rô đen",
+      "category": "Trạng thái"
+    },
+    {
+      "symbol": "♣",
+      "code_point": "U+2663",
+      "html_entity": "&clubs;",
+      "name": "Ký hiệu Lá bài Chuồn đen",
+      "category": "Trạng thái"
+    },
+    {
+      "symbol": "♠",
+      "code_point": "U+2660",
+      "html_entity": "&spades;",
+      "name": "Ký hiệu Lá bài Bích đen",
+      "category": "Trạng thái"
+    },
+    {
+      "symbol": "½",
+      "code_point": "U+00BD",
+      "html_entity": "&frac12;",
+      "name": "Phân số thường một phần hai",
+      "category": "Phân số"
+    },
+    {
+      "symbol": "⅓",
+      "code_point": "U+2153",
+      "html_entity": "&#8531;",
+      "name": "Phân số thường một phần ba",
+      "category": "Phân số"
+    },
+    {
+      "symbol": "¼",
+      "code_point": "U+00BC",
+      "html_entity": "&frac14;",
+      "name": "Phân số thường một phần tư",
+      "category": "Phân số"
+    },
+    {
+      "symbol": "¾",
+      "code_point": "U+00BE",
+      "html_entity": "&frac34;",
+      "name": "Phân số thường ba phần tư",
+      "category": "Phân số"
+    },
+    {
+      "symbol": "⅛",
+      "code_point": "U+215B",
+      "html_entity": "&#8539;",
+      "name": "Phân số thường một phần tám",
+      "category": "Phân số"
+    },
+    {
+      "symbol": "²",
+      "code_point": "U+00B2",
+      "html_entity": "&sup2;",
+      "name": "Số mũ hai",
+      "category": "Phân số"
+    },
+    {
+      "symbol": "³",
+      "code_point": "U+00B3",
+      "html_entity": "&sup3;",
+      "name": "Số mũ ba",
+      "category": "Phân số"
+    },
+    {
+      "symbol": "¹",
+      "code_point": "U+00B9",
+      "html_entity": "&sup1;",
+      "name": "Số mũ một",
+      "category": "Phân số"
+    }
+  ],
+  "meta": {
+    "seo_title": "Biểu Tượng Unicode Phổ Biến - Tải Miễn Phí (Excel/CSV/PDF)",
+    "seo_description": "Tải miễn phí 70 biểu tượng Unicode phổ biến với mã điểm, thực thể HTML và danh mục. Có sẵn định dạng Excel, CSV, PDF cho nhiều mục đích sử dụng.",
+    "title": "Bộ Dữ Liệu Biểu Tượng Unicode & Thực Thể HTML Phổ Biến",
+    "description": "Bộ dữ liệu này cung cấp danh sách 70 biểu tượng Unicode phổ biến, bao gồm mã điểm, thực thể HTML, tên và danh mục để dễ dàng tham khảo.",
+    "key_takeaways": [
+      "Truy cập 70 biểu tượng Unicode thiết yếu, mã điểm và thực thể HTML của chúng.",
+      "Khám phá các danh mục biểu tượng đa dạng như Mũi Tên, Toán Tử Học và nhiều hơn nữa.",
+      "Tải xuống dữ liệu sẵn sàng sử dụng cho phát triển web, xử lý văn bản và dự án thiết kế.",
+      "Tận dụng các biểu tượng để cải thiện nội dung số và quốc tế hóa."
+    ],
+    "keywords": [
+      "biểu tượng unicode",
+      "html entities csv",
+      "mã điểm excel",
+      "ký tự đặc biệt tải xuống",
+      "biểu tượng văn bản pdf",
+      "unicode phổ biến"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào ứng dụng web hoặc cơ sở dữ liệu của bạn để hiển thị biểu tượng động dựa trên đầu vào người dùng hoặc danh mục.",
+      "Sử dụng tệp **Excel** để nhanh chóng lọc và tìm các biểu tượng hoặc thực thể HTML cụ thể cho các dự án tạo nội dung hoặc thiết kế của bạn.",
+      "In phiên bản **PDF** để có hướng dẫn tham khảo ngoại tuyến tiện dụng về các biểu tượng Unicode phổ biến và chi tiết tương ứng của chúng.",
+      "Tham khảo bộ dữ liệu để đảm bảo hiển thị đúng các ký tự đặc biệt trên các nền tảng khác nhau và cho đối tượng quốc tế."
+    ]
+  },
+  "record_count": 70,
+  "title": "Bộ Dữ Liệu Biểu Tượng Unicode & Thực Thể HTML Phổ Biến"
+}

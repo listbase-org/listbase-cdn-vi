@@ -1,0 +1,699 @@
+{
+  "id": "science-electronegativity",
+  "name": "Bộ Dữ Liệu Bảng Độ Âm Điện (Thang Pauling)",
+  "category": "science",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Element Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "atomic_number",
+      "label": "Atomic Number",
+      "type": "number"
+    },
+    {
+      "key": "electronegativity",
+      "label": "Electronegativity (Pauling)",
+      "type": "number"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "number"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "number"
+    },
+    {
+      "key": "category",
+      "label": "Element Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "trend",
+      "label": "Trend Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "symbol": "H",
+      "name": "Hydro",
+      "atomic_number": 1,
+      "electronegativity": 2.2,
+      "period": 1,
+      "group": 1,
+      "category": "Phi kim",
+      "trend": "Tham chiếu"
+    },
+    {
+      "symbol": "He",
+      "name": "Heli",
+      "atomic_number": 2,
+      "electronegativity": "-",
+      "period": 1,
+      "group": 18,
+      "category": "Khí hiếm",
+      "trend": "Không áp dụng - Khí hiếm"
+    },
+    {
+      "symbol": "Li",
+      "name": "Liti",
+      "atomic_number": 3,
+      "electronegativity": 0.98,
+      "period": 2,
+      "group": 1,
+      "category": "Kim loại kiềm",
+      "trend": "Thấp nhất trong chu kì"
+    },
+    {
+      "symbol": "Be",
+      "name": "Beri",
+      "atomic_number": 4,
+      "electronegativity": 1.57,
+      "period": 2,
+      "group": 2,
+      "category": "Kim loại kiềm thổ",
+      "trend": "Tăng dần trong chu kì"
+    },
+    {
+      "symbol": "B",
+      "name": "Bo",
+      "atomic_number": 5,
+      "electronegativity": 2.04,
+      "period": 2,
+      "group": 13,
+      "category": "Á kim",
+      "trend": "Tăng dần trong chu kì"
+    },
+    {
+      "symbol": "C",
+      "name": "Cacbon",
+      "atomic_number": 6,
+      "electronegativity": 2.55,
+      "period": 2,
+      "group": 14,
+      "category": "Phi kim",
+      "trend": "Tăng dần trong chu kì"
+    },
+    {
+      "symbol": "N",
+      "name": "Nitơ",
+      "atomic_number": 7,
+      "electronegativity": 3.04,
+      "period": 2,
+      "group": 15,
+      "category": "Phi kim",
+      "trend": "Tăng dần trong chu kì"
+    },
+    {
+      "symbol": "O",
+      "name": "Oxy",
+      "atomic_number": 8,
+      "electronegativity": 3.44,
+      "period": 2,
+      "group": 16,
+      "category": "Phi kim",
+      "trend": "Cao thứ hai"
+    },
+    {
+      "symbol": "F",
+      "name": "Flo",
+      "atomic_number": 9,
+      "electronegativity": 3.98,
+      "period": 2,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Nguyên tố có độ âm điện cao nhất"
+    },
+    {
+      "symbol": "Ne",
+      "name": "Neon",
+      "atomic_number": 10,
+      "electronegativity": "-",
+      "period": 2,
+      "group": 18,
+      "category": "Khí hiếm",
+      "trend": "Không áp dụng - Khí hiếm"
+    },
+    {
+      "symbol": "Na",
+      "name": "Natri",
+      "atomic_number": 11,
+      "electronegativity": 0.93,
+      "period": 3,
+      "group": 1,
+      "category": "Kim loại kiềm",
+      "trend": "Thấp nhất trong chu kì"
+    },
+    {
+      "symbol": "Mg",
+      "name": "Magie",
+      "atomic_number": 12,
+      "electronegativity": 1.31,
+      "period": 3,
+      "group": 2,
+      "category": "Kim loại kiềm thổ",
+      "trend": "Tăng dần trong chu kì"
+    },
+    {
+      "symbol": "Al",
+      "name": "Nhôm",
+      "atomic_number": 13,
+      "electronegativity": 1.61,
+      "period": 3,
+      "group": 13,
+      "category": "Kim loại sau chuyển tiếp",
+      "trend": "Tăng dần trong chu kì"
+    },
+    {
+      "symbol": "Si",
+      "name": "Silic",
+      "atomic_number": 14,
+      "electronegativity": 1.9,
+      "period": 3,
+      "group": 14,
+      "category": "Á kim",
+      "trend": "Tăng dần trong chu kì"
+    },
+    {
+      "symbol": "P",
+      "name": "Phốt pho",
+      "atomic_number": 15,
+      "electronegativity": 2.19,
+      "period": 3,
+      "group": 15,
+      "category": "Phi kim",
+      "trend": "Tăng dần trong chu kì"
+    },
+    {
+      "symbol": "S",
+      "name": "Lưu huỳnh",
+      "atomic_number": 16,
+      "electronegativity": 2.58,
+      "period": 3,
+      "group": 16,
+      "category": "Phi kim",
+      "trend": "Tăng dần trong chu kì"
+    },
+    {
+      "symbol": "Cl",
+      "name": "Clo",
+      "atomic_number": 17,
+      "electronegativity": 3.16,
+      "period": 3,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Cao nhất trong chu kì"
+    },
+    {
+      "symbol": "Ar",
+      "name": "Argon",
+      "atomic_number": 18,
+      "electronegativity": "-",
+      "period": 3,
+      "group": 18,
+      "category": "Khí hiếm",
+      "trend": "Không áp dụng - Khí hiếm"
+    },
+    {
+      "symbol": "K",
+      "name": "Kali",
+      "atomic_number": 19,
+      "electronegativity": 0.82,
+      "period": 4,
+      "group": 1,
+      "category": "Kim loại kiềm",
+      "trend": "Thấp nhất trong chu kì"
+    },
+    {
+      "symbol": "Ca",
+      "name": "Canxi",
+      "atomic_number": 20,
+      "electronegativity": 1,
+      "period": 4,
+      "group": 2,
+      "category": "Kim loại kiềm thổ",
+      "trend": "Tăng dần trong chu kì"
+    },
+    {
+      "symbol": "Sc",
+      "name": "Scandi",
+      "atomic_number": 21,
+      "electronegativity": 1.36,
+      "period": 4,
+      "group": 3,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Ti",
+      "name": "Titan",
+      "atomic_number": 22,
+      "electronegativity": 1.54,
+      "period": 4,
+      "group": 4,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "V",
+      "name": "Vanadi",
+      "atomic_number": 23,
+      "electronegativity": 1.63,
+      "period": 4,
+      "group": 5,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Cr",
+      "name": "Crom",
+      "atomic_number": 24,
+      "electronegativity": 1.66,
+      "period": 4,
+      "group": 6,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Mn",
+      "name": "Mangan",
+      "atomic_number": 25,
+      "electronegativity": 1.55,
+      "period": 4,
+      "group": 7,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Fe",
+      "name": "Sắt",
+      "atomic_number": 26,
+      "electronegativity": 1.83,
+      "period": 4,
+      "group": 8,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Co",
+      "name": "Coban",
+      "atomic_number": 27,
+      "electronegativity": 1.88,
+      "period": 4,
+      "group": 9,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Ni",
+      "name": "Niken",
+      "atomic_number": 28,
+      "electronegativity": 1.91,
+      "period": 4,
+      "group": 10,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Cu",
+      "name": "Đồng",
+      "atomic_number": 29,
+      "electronegativity": 1.9,
+      "period": 4,
+      "group": 11,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Zn",
+      "name": "Kẽm",
+      "atomic_number": 30,
+      "electronegativity": 1.65,
+      "period": 4,
+      "group": 12,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Ga",
+      "name": "Gali",
+      "atomic_number": 31,
+      "electronegativity": 1.81,
+      "period": 4,
+      "group": 13,
+      "category": "Kim loại sau chuyển tiếp",
+      "trend": "Sau chuyển tiếp"
+    },
+    {
+      "symbol": "Ge",
+      "name": "Germani",
+      "atomic_number": 32,
+      "electronegativity": 2.01,
+      "period": 4,
+      "group": 14,
+      "category": "Á kim",
+      "trend": "Tăng dần theo chu kỳ"
+    },
+    {
+      "symbol": "As",
+      "name": "Asen",
+      "atomic_number": 33,
+      "electronegativity": 2.18,
+      "period": 4,
+      "group": 15,
+      "category": "Á kim",
+      "trend": "Tăng dần theo chu kỳ"
+    },
+    {
+      "symbol": "Se",
+      "name": "Selen",
+      "atomic_number": 34,
+      "electronegativity": 2.55,
+      "period": 4,
+      "group": 16,
+      "category": "Phi kim",
+      "trend": "Tăng dần theo chu kỳ"
+    },
+    {
+      "symbol": "Br",
+      "name": "Brom",
+      "atomic_number": 35,
+      "electronegativity": 2.96,
+      "period": 4,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Cao nhất trong chu kỳ"
+    },
+    {
+      "symbol": "Kr",
+      "name": "Krypton",
+      "atomic_number": 36,
+      "electronegativity": 3,
+      "period": 4,
+      "group": 18,
+      "category": "Khí hiếm",
+      "trend": "Khí hiếm có giá trị EN"
+    },
+    {
+      "symbol": "Rb",
+      "name": "Rubidi",
+      "atomic_number": 37,
+      "electronegativity": 0.82,
+      "period": 5,
+      "group": 1,
+      "category": "Kim loại kiềm",
+      "trend": "Thấp nhất trong chu kỳ"
+    },
+    {
+      "symbol": "Sr",
+      "name": "Stronti",
+      "atomic_number": 38,
+      "electronegativity": 0.95,
+      "period": 5,
+      "group": 2,
+      "category": "Kim loại kiềm thổ",
+      "trend": "Tăng dần theo chu kỳ"
+    },
+    {
+      "symbol": "Y",
+      "name": "Ytri",
+      "atomic_number": 39,
+      "electronegativity": 1.22,
+      "period": 5,
+      "group": 3,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Zr",
+      "name": "Zirconi",
+      "atomic_number": 40,
+      "electronegativity": 1.33,
+      "period": 5,
+      "group": 4,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Nb",
+      "name": "Niobi",
+      "atomic_number": 41,
+      "electronegativity": 1.6,
+      "period": 5,
+      "group": 5,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Mo",
+      "name": "Molypden",
+      "atomic_number": 42,
+      "electronegativity": 2.16,
+      "period": 5,
+      "group": 6,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Tc",
+      "name": "Tecneti",
+      "atomic_number": 43,
+      "electronegativity": 1.9,
+      "period": 5,
+      "group": 7,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Ru",
+      "name": "Rutheni",
+      "atomic_number": 44,
+      "electronegativity": 2.2,
+      "period": 5,
+      "group": 8,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Rh",
+      "name": "Rhodi",
+      "atomic_number": 45,
+      "electronegativity": 2.28,
+      "period": 5,
+      "group": 9,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Pd",
+      "name": "Paladi",
+      "atomic_number": 46,
+      "electronegativity": 2.2,
+      "period": 5,
+      "group": 10,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Ag",
+      "name": "Bạc",
+      "atomic_number": 47,
+      "electronegativity": 1.93,
+      "period": 5,
+      "group": 11,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Cd",
+      "name": "Cadmi",
+      "atomic_number": 48,
+      "electronegativity": 1.69,
+      "period": 5,
+      "group": 12,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "In",
+      "name": "Indi",
+      "atomic_number": 49,
+      "electronegativity": 1.78,
+      "period": 5,
+      "group": 13,
+      "category": "Kim loại sau chuyển tiếp",
+      "trend": "Sau chuyển tiếp"
+    },
+    {
+      "symbol": "Sn",
+      "name": "Thiếc",
+      "atomic_number": 50,
+      "electronegativity": 1.96,
+      "period": 5,
+      "group": 14,
+      "category": "Kim loại sau chuyển tiếp",
+      "trend": "Tăng dần theo chu kỳ"
+    },
+    {
+      "symbol": "Sb",
+      "name": "Antimon",
+      "atomic_number": 51,
+      "electronegativity": 2.05,
+      "period": 5,
+      "group": 15,
+      "category": "Á kim",
+      "trend": "Tăng dần theo chu kỳ"
+    },
+    {
+      "symbol": "Te",
+      "name": "Telu",
+      "atomic_number": 52,
+      "electronegativity": 2.1,
+      "period": 5,
+      "group": 16,
+      "category": "Á kim",
+      "trend": "Tăng dần theo chu kỳ"
+    },
+    {
+      "symbol": "I",
+      "name": "Iốt",
+      "atomic_number": 53,
+      "electronegativity": 2.66,
+      "period": 5,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Cao nhất trong chu kỳ (nhóm chính)"
+    },
+    {
+      "symbol": "Xe",
+      "name": "Xenon",
+      "atomic_number": 54,
+      "electronegativity": 2.6,
+      "period": 5,
+      "group": 18,
+      "category": "Khí hiếm",
+      "trend": "Khí hiếm có giá trị EN"
+    },
+    {
+      "symbol": "Cs",
+      "name": "Xesi",
+      "atomic_number": 55,
+      "electronegativity": 0.79,
+      "period": 6,
+      "group": 1,
+      "category": "Kim loại kiềm",
+      "trend": "Nguyên tố có EN thấp thứ hai"
+    },
+    {
+      "symbol": "Ba",
+      "name": "Bari",
+      "atomic_number": 56,
+      "electronegativity": 0.89,
+      "period": 6,
+      "group": 2,
+      "category": "Kim loại kiềm thổ",
+      "trend": "EN thấp"
+    },
+    {
+      "symbol": "Au",
+      "name": "Vàng",
+      "atomic_number": 79,
+      "electronegativity": 2.54,
+      "period": 6,
+      "group": 11,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "EN cao đối với kim loại"
+    },
+    {
+      "symbol": "Hg",
+      "name": "Thủy ngân",
+      "atomic_number": 80,
+      "electronegativity": 2,
+      "period": 6,
+      "group": 12,
+      "category": "Kim loại chuyển tiếp",
+      "trend": "Vùng kim loại chuyển tiếp"
+    },
+    {
+      "symbol": "Pb",
+      "name": "Chì",
+      "atomic_number": 82,
+      "electronegativity": 2.33,
+      "period": 6,
+      "group": 14,
+      "category": "Kim loại sau chuyển tiếp",
+      "trend": "Sau chuyển tiếp"
+    },
+    {
+      "symbol": "Bi",
+      "name": "Bitmut",
+      "atomic_number": 83,
+      "electronegativity": 2.02,
+      "period": 6,
+      "group": 15,
+      "category": "Kim loại sau chuyển tiếp",
+      "trend": "Sau chuyển tiếp"
+    },
+    {
+      "symbol": "At",
+      "name": "Astatin",
+      "atomic_number": 85,
+      "electronegativity": 2.2,
+      "period": 6,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Halogen phóng xạ"
+    },
+    {
+      "symbol": "Fr",
+      "name": "Franci",
+      "atomic_number": 87,
+      "electronegativity": 0.7,
+      "period": 7,
+      "group": 1,
+      "category": "Kim loại kiềm",
+      "trend": "Nguyên tố có độ âm điện thấp nhất"
+    }
+  ],
+  "meta": {
+    "seo_title": "Bảng Độ Âm Điện (Thang Pauling) - Tải Miễn Phí (Excel/CSV/PDF)",
+    "seo_description": "Tải miễn phí: Bảng Độ Âm Điện (Thang Pauling) cho 62 nguyên tố hóa học. Khám phá tính chất nguyên tử & xu hướng. Có sẵn định dạng Excel, CSV, PDF.",
+    "title": "Bộ Dữ Liệu Bảng Độ Âm Điện (Thang Pauling)",
+    "description": "Bộ dữ liệu này cung cấp giá trị độ âm điện (Thang Pauling) cho 62 nguyên tố hóa học, bao gồm số nguyên tử, chu kỳ, nhóm và loại nguyên tố. Lý tưởng cho sinh viên, nhà nghiên cứu và nhà giáo dục hóa học.",
+    "key_takeaways": [
+      "Truy cập dữ liệu độ âm điện Pauling cho 62 nguyên tố.",
+      "Khám phá chi tiết các tính chất nguyên tử và xu hướng tuần hoàn.",
+      "Tải xuống dữ liệu toàn diện ở định dạng Excel, CSV hoặc PDF để phân tích.",
+      "Có được cái nhìn sâu sắc về liên kết hóa học và khả năng phản ứng."
+    ],
+    "keywords": [
+      "bảng độ âm điện pauling",
+      "dữ liệu nguyên tố hóa học",
+      "tính chất nguyên tử",
+      "giá trị độ âm điện excel",
+      "xu hướng tuần hoàn csv",
+      "dữ liệu hóa học miễn phí"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL hoặc tập lệnh Python của bạn để thực hiện phân tích dữ liệu tùy chỉnh về xu hướng độ âm điện và tính chất nguyên tố hóa học.",
+      "Sử dụng tệp **Excel** để tạo Bảng tổng hợp, lọc các nguyên tố theo nhóm hoặc loại và tạo báo cáo cho nghiên cứu học thuật hoặc bài tập trên lớp.",
+      "In phiên bản **PDF** để làm hướng dẫn tham khảo nhanh, ngoại tuyến trong phòng thí nghiệm hóa học, lớp học hoặc cho các bài thuyết trình về đặc điểm nguyên tử.",
+      "Tận dụng bộ dữ liệu này để hiểu các xu hướng tuần hoàn của độ âm điện và dự đoán hành vi liên kết hóa học trong các hợp chất khác nhau."
+    ]
+  },
+  "record_count": 62,
+  "title": "Bộ Dữ Liệu Bảng Độ Âm Điện (Thang Pauling)"
+}

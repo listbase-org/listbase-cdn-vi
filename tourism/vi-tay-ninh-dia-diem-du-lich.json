@@ -1,0 +1,126 @@
+{
+  "id": "vi-tay-ninh-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Tây Ninh",
+  "title": "Địa điểm du lịch Tây Ninh",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Tây Ninh (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 106,
+      "ten_dia_diem": "Núi Bà Đen",
+      "vi_tri": "Tây Ninh",
+      "tinh_truoc_sap_nhap_2025": "Tây Ninh",
+      "mo_ta": "núi Bà Đen còn được biết đến như “nóc nhà” của Nam Bộ với đỉnh cao nhất là 986 m, diện tích 24 km², Nếu yêu thích vẻ đẹp bao la của đất trời, muốn chiêm ngưỡng cảnh đẹp từ trên cao thì có thể lựa chọn di chuyển bằng cáp treo từ chân núi lên đỉnh núi.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "http://surl.li/zaoqyj",
+      "tu_khoa": "nóc nhà, cáp treo, núi"
+    },
+    {
+      "stt": 107,
+      "ten_dia_diem": "Tòa thánh Tây Ninh",
+      "vi_tri": "Tây Ninh",
+      "tinh_truoc_sap_nhap_2025": "Tây Ninh",
+      "mo_ta": "Tòa thánh chính là địa điểm du lịch Tây Ninh dành cho những dân phượt muốn tìm hiểu về nét văn hóa và nét kiến trúc tiêu biểu tại nơi đây, Phong cách thiết kế của công trình vô cùng độc đáo, các chi tiết được trạm trổ hoa văn kỳ công và mang nhiều nét biểu tượng cho văn hóa mảnh đất này.",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "http://surl.li/wqpvnz",
+      "tu_khoa": "tòa thánh, kiến trúc, trạm trổ, hoa văn"
+    },
+    {
+      "stt": 108,
+      "ten_dia_diem": "Hồ Dầu Tiếng",
+      "vi_tri": "Tây Ninh",
+      "tinh_truoc_sap_nhap_2025": "Tây Ninh",
+      "mo_ta": "Hồ Dầu Tiếng được xây dựng với mục đích cung cấp nước cho sinh hoạt, ngoài ra nơi đây còn là điểm du lịch vô cùng hot với phong cảnh êm đềm, thơ mộng tựa như trong chuyện cổ tích. Bạn sẽ được thả hồn vào khung cảnh thiên nhiên tuyệt đẹp với non nước hữu tình, mây trời hiền hòa, sắc xanh bạt ngàn của màu nước và màu trời. Những ghềnh đá nhấp nhô quanh ốc đảo trên hồ chính là điểm dừng chân và cũng là background tuyệt đẹp cho bạn để sống ảo.",
+      "danh_gia": "4.0/5",
+      "danh_gia_diem": 4,
+      "anh": "http://surl.li/lftayu",
+      "tu_khoa": "thiên nhiên, cung cấp nước, ghềnh đá, ốc đảo"
+    },
+    {
+      "stt": 109,
+      "ten_dia_diem": "Tháp Chóp Mạt",
+      "vi_tri": "Tây Ninh",
+      "tinh_truoc_sap_nhap_2025": "Tây Ninh",
+      "mo_ta": "Tòa tháp này có kiến trúc rất đặc biệt đó chính là được xây dựng nhỏ dần lên phía trên nhưng lại không hề có đỉnh chóp. Người Óc Eo rất khéo léo và thông minh khi xây dựng công trình, họ không hề chút xi măng nào làm vật liệu kết dính. Khi đến đây tham quan, du khách có thể thoải mái check in tại một không gian vô cùng yên bình và mang nét hoài cổ của địa điểm du lịch Tây Ninh này.",
+      "danh_gia": "4.0/5",
+      "danh_gia_diem": 4,
+      "anh": "http://surl.li/wnvrio",
+      "tu_khoa": "tháp, nhỏ dần, hoài cổ"
+    },
+    {
+      "stt": 110,
+      "ten_dia_diem": "Vườn quốc gia Lò Gò -  Xa Mát",
+      "vi_tri": "Tây Ninh",
+      "tinh_truoc_sap_nhap_2025": "Tây Ninh",
+      "mo_ta": "tới đây, du khách có thể ngắm nhìn các loài động, thực vật quý hiếm mà bạn khó có cơ hội được nhìn ngắm ngoài đời. Có rất nhiều những loài động vật quý hiếm được liệt kê vào sách đỏ. Ngoài ra, du khách cũng có thể trải nghiệm rất nhiều những hoạt động như đạp xe xuyên rừng, khám phá rừng bằng đường sông,…",
+      "danh_gia": "4.0/5",
+      "danh_gia_diem": 4,
+      "anh": "http://surl.li/mobftk",
+      "tu_khoa": "dđộng vật, thực vật, quý hiếm, xuyên rừng"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Tây Ninh - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Tây Ninh (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Tây Ninh | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Tây Ninh — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

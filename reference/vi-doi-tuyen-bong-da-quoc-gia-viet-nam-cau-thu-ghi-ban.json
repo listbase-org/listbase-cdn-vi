@@ -1,0 +1,973 @@
+{
+  "id": "vi-doi-tuyen-bong-da-quoc-gia-viet-nam-cau-thu-ghi-ban",
+  "name": "Bàn thắng của đội tuyển bóng đá Việt Nam — cầu thủ ghi bàn 1993–2024 (82)",
+  "title": "Bàn thắng của đội tuyển bóng đá Việt Nam — cầu thủ ghi bàn 1993–2024 (82)",
+  "description": "Từng bàn thắng ghi cho đội tuyển bóng đá quốc gia Việt Nam theo tệp goalscorers.csv của martj42/international_results: ngày, trận đấu, đối thủ, cầu thủ ghi bàn, phút, phản lưới (cầu thủ đối phương đá phản lưới), phạt đền. Nguồn không có cầu thủ ghi bàn cho mọi trận — dữ liệu chưa đầy đủ (chủ yếu các giải lớn như Asian Cup, vòng loại World Cup). Tên cầu thủ giữ nguyên như nguồn.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "ngay",
+      "label": "Ngay",
+      "type": "date"
+    },
+    {
+      "key": "nam",
+      "label": "Nam",
+      "type": "number"
+    },
+    {
+      "key": "doi_nha",
+      "label": "Doi Nha",
+      "type": "string"
+    },
+    {
+      "key": "doi_khach",
+      "label": "Doi Khach",
+      "type": "string"
+    },
+    {
+      "key": "doi_thu",
+      "label": "Doi Thu",
+      "type": "string"
+    },
+    {
+      "key": "cau_thu",
+      "label": "Cau Thu",
+      "type": "string"
+    },
+    {
+      "key": "phut",
+      "label": "Phut",
+      "type": "number"
+    },
+    {
+      "key": "phan_luoi",
+      "label": "Phan Luoi",
+      "type": "boolean"
+    },
+    {
+      "key": "phat_den",
+      "label": "Phat Den",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "ngay": "1993-04-13",
+      "nam": 1993,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Singapore",
+      "doi_thu": "Singapore",
+      "cau_thu": "Lư Đình Tuấn",
+      "phut": 14,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "1993-04-13",
+      "nam": 1993,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Singapore",
+      "doi_thu": "Singapore",
+      "cau_thu": "Phan Thanh Hùng",
+      "phut": 77,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "1993-04-16",
+      "nam": 1993,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Indonesia",
+      "doi_thu": "Indonesia",
+      "cau_thu": "Hà Vương Ngầu Nại",
+      "phut": 61,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "1993-04-30",
+      "nam": 1993,
+      "doi_nha": "Indonesia",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Indonesia",
+      "cau_thu": "Nguyen Hong Son",
+      "phut": 30,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "1997-05-11",
+      "nam": 1997,
+      "doi_nha": "Turkmenistan",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Turkmenistan",
+      "cau_thu": "Nguyen Cong Vinh",
+      "phut": 71,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "1997-05-25",
+      "nam": 1997,
+      "doi_nha": "Vietnam",
+      "doi_khach": "China",
+      "doi_thu": "China",
+      "cau_thu": "Le Huynh Duc",
+      "phut": 38,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2001-02-10",
+      "nam": 2001,
+      "doi_nha": "Mongolia",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Mongolia",
+      "cau_thu": "Nguyễn Hồng Sơn",
+      "phut": 45,
+      "phan_luoi": false,
+      "phat_den": true
+    },
+    {
+      "ngay": "2001-02-15",
+      "nam": 2001,
+      "doi_nha": "Bangladesh",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Bangladesh",
+      "cau_thu": "Nguyễn Văn Sỹ",
+      "phut": 65,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2001-02-15",
+      "nam": 2001,
+      "doi_nha": "Bangladesh",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Bangladesh",
+      "cau_thu": "Nguyễn Hồng Sơn",
+      "phut": 73,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2001-02-15",
+      "nam": 2001,
+      "doi_nha": "Bangladesh",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Bangladesh",
+      "cau_thu": "Nguyễn Trung Vĩnh",
+      "phut": 77,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2001-02-15",
+      "nam": 2001,
+      "doi_nha": "Bangladesh",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Bangladesh",
+      "cau_thu": "Nguyễn Hồng Sơn",
+      "phut": 87,
+      "phan_luoi": false,
+      "phat_den": true
+    },
+    {
+      "ngay": "2001-02-17",
+      "nam": 2001,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Mongolia",
+      "doi_thu": "Mongolia",
+      "cau_thu": "Nguyễn Lương Phúc",
+      "phut": 3,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2001-02-17",
+      "nam": 2001,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Mongolia",
+      "doi_thu": "Mongolia",
+      "cau_thu": "Nguyễn Hồng Sơn",
+      "phut": 15,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2001-02-17",
+      "nam": 2001,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Mongolia",
+      "doi_thu": "Mongolia",
+      "cau_thu": "Nguyễn Hồng Sơn",
+      "phut": 21,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2001-02-17",
+      "nam": 2001,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Mongolia",
+      "doi_thu": "Mongolia",
+      "cau_thu": "Nguyễn Lương Phúc",
+      "phut": 87,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2004-02-18",
+      "nam": 2004,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Maldives",
+      "doi_thu": "Maldives",
+      "cau_thu": "Phan Văn Tài Em",
+      "phut": 9,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2004-02-18",
+      "nam": 2004,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Maldives",
+      "doi_thu": "Maldives",
+      "cau_thu": "Nguyễn Minh Hải",
+      "phut": 13,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2004-02-18",
+      "nam": 2004,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Maldives",
+      "doi_thu": "Maldives",
+      "cau_thu": "Phan Văn Tài Em",
+      "phut": 60,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2004-02-18",
+      "nam": 2004,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Maldives",
+      "doi_thu": "Maldives",
+      "cau_thu": "Phạm Văn Quyến",
+      "phut": 80,
+      "phan_luoi": false,
+      "phat_den": true
+    },
+    {
+      "ngay": "2004-09-08",
+      "nam": 2004,
+      "doi_nha": "Vietnam",
+      "doi_khach": "South Korea",
+      "doi_thu": "South Korea",
+      "cau_thu": "Phan Văn Tài Em",
+      "phut": 49,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2007-07-08",
+      "nam": 2007,
+      "doi_nha": "Vietnam",
+      "doi_khach": "United Arab Emirates",
+      "doi_thu": "United Arab Emirates",
+      "cau_thu": "Huỳnh Quang Thanh",
+      "phut": 64,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2007-07-08",
+      "nam": 2007,
+      "doi_nha": "Vietnam",
+      "doi_khach": "United Arab Emirates",
+      "doi_thu": "United Arab Emirates",
+      "cau_thu": "Lê Công Vinh",
+      "phut": 73,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2007-07-12",
+      "nam": 2007,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Qatar",
+      "doi_thu": "Qatar",
+      "cau_thu": "Phan Thanh Bình",
+      "phut": 32,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2007-07-16",
+      "nam": 2007,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Japan",
+      "doi_thu": "Japan",
+      "cau_thu": "Keita Suzuki",
+      "phut": 8,
+      "phan_luoi": true,
+      "phat_den": false
+    },
+    {
+      "ngay": "2011-06-29",
+      "nam": 2011,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Macau",
+      "doi_thu": "Macau",
+      "cau_thu": "Lê Công Vinh",
+      "phut": 20,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2011-06-29",
+      "nam": 2011,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Macau",
+      "doi_thu": "Macau",
+      "cau_thu": "Lê Công Vinh",
+      "phut": 36,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2011-06-29",
+      "nam": 2011,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Macau",
+      "doi_thu": "Macau",
+      "cau_thu": "Lê Công Vinh",
+      "phut": 42,
+      "phan_luoi": false,
+      "phat_den": true
+    },
+    {
+      "ngay": "2011-06-29",
+      "nam": 2011,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Macau",
+      "doi_thu": "Macau",
+      "cau_thu": "Phạm Thành Lương",
+      "phut": 62,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2011-06-29",
+      "nam": 2011,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Macau",
+      "doi_thu": "Macau",
+      "cau_thu": "Nguyễn Ngọc Thanh",
+      "phut": 67,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2011-06-29",
+      "nam": 2011,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Macau",
+      "doi_thu": "Macau",
+      "cau_thu": "Nguyễn Văn Quyết",
+      "phut": 89,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2011-07-03",
+      "nam": 2011,
+      "doi_nha": "Macau",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Macau",
+      "cau_thu": "Huỳnh Quang Thanh",
+      "phut": 2,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2011-07-03",
+      "nam": 2011,
+      "doi_nha": "Macau",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Macau",
+      "cau_thu": "Nguyễn Quang Hải",
+      "phut": 23,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2011-07-03",
+      "nam": 2011,
+      "doi_nha": "Macau",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Macau",
+      "cau_thu": "Lê Công Vinh",
+      "phut": 29,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2011-07-03",
+      "nam": 2011,
+      "doi_nha": "Macau",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Macau",
+      "cau_thu": "Lê Công Vinh",
+      "phut": 42,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2011-07-03",
+      "nam": 2011,
+      "doi_nha": "Macau",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Macau",
+      "cau_thu": "Lê Công Vinh",
+      "phut": 74,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2011-07-03",
+      "nam": 2011,
+      "doi_nha": "Macau",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Macau",
+      "cau_thu": "Lê Công Vinh",
+      "phut": 82,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2011-07-03",
+      "nam": 2011,
+      "doi_nha": "Macau",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Macau",
+      "cau_thu": "Huỳnh Quang Thanh",
+      "phut": 86,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2011-07-28",
+      "nam": 2011,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Qatar",
+      "doi_thu": "Qatar",
+      "cau_thu": "Nguyễn Trọng Hoàng",
+      "phut": 60,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2011-07-28",
+      "nam": 2011,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Qatar",
+      "doi_thu": "Qatar",
+      "cau_thu": "Nguyễn Quang Hải",
+      "phut": 75,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2015-09-08",
+      "nam": 2015,
+      "doi_nha": "Taiwan",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Taiwan",
+      "cau_thu": "Đinh Tiến Thành",
+      "phut": 53,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2015-09-08",
+      "nam": 2015,
+      "doi_nha": "Taiwan",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Taiwan",
+      "cau_thu": "Trần Phi Sơn",
+      "phut": 90,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2015-10-08",
+      "nam": 2015,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Iraq",
+      "doi_thu": "Iraq",
+      "cau_thu": "Lê Công Vinh",
+      "phut": 25,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2016-03-24",
+      "nam": 2016,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Taiwan",
+      "doi_thu": "Taiwan",
+      "cau_thu": "Lê Công Vinh",
+      "phut": 8,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2016-03-24",
+      "nam": 2016,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Taiwan",
+      "doi_thu": "Taiwan",
+      "cau_thu": "Nguyễn Văn Toàn",
+      "phut": 29,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2016-03-24",
+      "nam": 2016,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Taiwan",
+      "doi_thu": "Taiwan",
+      "cau_thu": "Nguyễn Văn Toàn",
+      "phut": 42,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2016-03-24",
+      "nam": 2016,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Taiwan",
+      "doi_thu": "Taiwan",
+      "cau_thu": "Lê Công Vinh",
+      "phut": 90,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2019-01-08",
+      "nam": 2019,
+      "doi_nha": "Iraq",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Iraq",
+      "cau_thu": "Ali Faez",
+      "phut": 24,
+      "phan_luoi": true,
+      "phat_den": false
+    },
+    {
+      "ngay": "2019-01-08",
+      "nam": 2019,
+      "doi_nha": "Iraq",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Iraq",
+      "cau_thu": "Nguyễn Công Phượng",
+      "phut": 42,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2019-01-16",
+      "nam": 2019,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Yemen",
+      "doi_thu": "Yemen",
+      "cau_thu": "Nguyễn Quang Hải",
+      "phut": 38,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2019-01-16",
+      "nam": 2019,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Yemen",
+      "doi_thu": "Yemen",
+      "cau_thu": "Quế Ngọc Hải",
+      "phut": 64,
+      "phan_luoi": false,
+      "phat_den": true
+    },
+    {
+      "ngay": "2019-01-20",
+      "nam": 2019,
+      "doi_nha": "Jordan",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Jordan",
+      "cau_thu": "Nguyễn Công Phượng",
+      "phut": 51,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2019-10-10",
+      "nam": 2019,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Malaysia",
+      "doi_thu": "Malaysia",
+      "cau_thu": "Nguyễn Quang Hải",
+      "phut": 40,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2019-10-15",
+      "nam": 2019,
+      "doi_nha": "Indonesia",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Indonesia",
+      "cau_thu": "Đỗ Duy Mạnh",
+      "phut": 26,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2019-10-15",
+      "nam": 2019,
+      "doi_nha": "Indonesia",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Indonesia",
+      "cau_thu": "Quế Ngọc Hải",
+      "phut": 55,
+      "phan_luoi": false,
+      "phat_den": true
+    },
+    {
+      "ngay": "2019-10-15",
+      "nam": 2019,
+      "doi_nha": "Indonesia",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Indonesia",
+      "cau_thu": "Nguyễn Tiến Linh",
+      "phut": 61,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2019-11-14",
+      "nam": 2019,
+      "doi_nha": "Vietnam",
+      "doi_khach": "United Arab Emirates",
+      "doi_thu": "United Arab Emirates",
+      "cau_thu": "Nguyễn Tiến Linh",
+      "phut": 44,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2021-06-07",
+      "nam": 2021,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Indonesia",
+      "doi_thu": "Indonesia",
+      "cau_thu": "Nguyễn Tiến Linh",
+      "phut": 51,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2021-06-07",
+      "nam": 2021,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Indonesia",
+      "doi_thu": "Indonesia",
+      "cau_thu": "Nguyễn Quang Hải",
+      "phut": 62,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2021-06-07",
+      "nam": 2021,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Indonesia",
+      "doi_thu": "Indonesia",
+      "cau_thu": "Nguyễn Công Phượng",
+      "phut": 67,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2021-06-07",
+      "nam": 2021,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Indonesia",
+      "doi_thu": "Indonesia",
+      "cau_thu": "Vũ Văn Thanh",
+      "phut": 74,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2021-06-11",
+      "nam": 2021,
+      "doi_nha": "Malaysia",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Malaysia",
+      "cau_thu": "Nguyễn Tiến Linh",
+      "phut": 27,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2021-06-11",
+      "nam": 2021,
+      "doi_nha": "Malaysia",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Malaysia",
+      "cau_thu": "Quế Ngọc Hải",
+      "phut": 82,
+      "phan_luoi": false,
+      "phat_den": true
+    },
+    {
+      "ngay": "2021-06-15",
+      "nam": 2021,
+      "doi_nha": "United Arab Emirates",
+      "doi_khach": "Vietnam",
+      "doi_thu": "United Arab Emirates",
+      "cau_thu": "Nguyễn Tiến Linh",
+      "phut": 85,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2021-06-15",
+      "nam": 2021,
+      "doi_nha": "United Arab Emirates",
+      "doi_khach": "Vietnam",
+      "doi_thu": "United Arab Emirates",
+      "cau_thu": "Trần Minh Vương",
+      "phut": 90,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2021-09-02",
+      "nam": 2021,
+      "doi_nha": "Saudi Arabia",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Saudi Arabia",
+      "cau_thu": "Nguyễn Quang Hải",
+      "phut": 3,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2021-10-07",
+      "nam": 2021,
+      "doi_nha": "China",
+      "doi_khach": "Vietnam",
+      "doi_thu": "China",
+      "cau_thu": "Hồ Tấn Tài",
+      "phut": 80,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2021-10-07",
+      "nam": 2021,
+      "doi_nha": "China",
+      "doi_khach": "Vietnam",
+      "doi_thu": "China",
+      "cau_thu": "Nguyễn Tiến Linh",
+      "phut": 90,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2021-10-12",
+      "nam": 2021,
+      "doi_nha": "Oman",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Oman",
+      "cau_thu": "Nguyễn Tiến Linh",
+      "phut": 39,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2022-02-01",
+      "nam": 2022,
+      "doi_nha": "Vietnam",
+      "doi_khach": "China",
+      "doi_thu": "China",
+      "cau_thu": "Hồ Tấn Tài",
+      "phut": 9,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2022-02-01",
+      "nam": 2022,
+      "doi_nha": "Vietnam",
+      "doi_khach": "China",
+      "doi_thu": "China",
+      "cau_thu": "Nguyễn Tiến Linh",
+      "phut": 16,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2022-02-01",
+      "nam": 2022,
+      "doi_nha": "Vietnam",
+      "doi_khach": "China",
+      "doi_thu": "China",
+      "cau_thu": "Phan Văn Đức",
+      "phut": 76,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2022-03-29",
+      "nam": 2022,
+      "doi_nha": "Japan",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Japan",
+      "cau_thu": "Nguyễn Thanh Bình",
+      "phut": 19,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2023-11-16",
+      "nam": 2023,
+      "doi_nha": "Philippines",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Philippines",
+      "cau_thu": "Nguyễn Văn Toàn",
+      "phut": 16,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2023-11-16",
+      "nam": 2023,
+      "doi_nha": "Philippines",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Philippines",
+      "cau_thu": "Nguyễn Đình Bắc",
+      "phut": 90,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2024-01-14",
+      "nam": 2024,
+      "doi_nha": "Japan",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Japan",
+      "cau_thu": "Nguyễn Đình Bắc",
+      "phut": 16,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2024-01-14",
+      "nam": 2024,
+      "doi_nha": "Japan",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Japan",
+      "cau_thu": "Phạm Tuấn Hải",
+      "phut": 33,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2024-01-24",
+      "nam": 2024,
+      "doi_nha": "Iraq",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Iraq",
+      "cau_thu": "Bùi Hoàng Việt Anh",
+      "phut": 42,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2024-01-24",
+      "nam": 2024,
+      "doi_nha": "Iraq",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Iraq",
+      "cau_thu": "Nguyễn Quang Hải",
+      "phut": 90,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2024-06-06",
+      "nam": 2024,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Philippines",
+      "doi_thu": "Philippines",
+      "cau_thu": "Nguyễn Tiến Linh",
+      "phut": 65,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2024-06-06",
+      "nam": 2024,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Philippines",
+      "doi_thu": "Philippines",
+      "cau_thu": "Nguyễn Tiến Linh",
+      "phut": 76,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2024-06-06",
+      "nam": 2024,
+      "doi_nha": "Vietnam",
+      "doi_khach": "Philippines",
+      "doi_thu": "Philippines",
+      "cau_thu": "Phạm Tuấn Hải",
+      "phut": 90,
+      "phan_luoi": false,
+      "phat_den": false
+    },
+    {
+      "ngay": "2024-06-11",
+      "nam": 2024,
+      "doi_nha": "Iraq",
+      "doi_khach": "Vietnam",
+      "doi_thu": "Iraq",
+      "cau_thu": "Phạm Tuấn Hải",
+      "phut": 84,
+      "phan_luoi": false,
+      "phat_den": false
+    }
+  ],
+  "meta": {
+    "title": "Bàn thắng của đội tuyển bóng đá Việt Nam — cầu thủ ghi bàn 1993–2024 (82) - Tải miễn phí",
+    "description": "Từng bàn thắng ghi cho đội tuyển bóng đá quốc gia Việt Nam theo tệp goalscorers.csv của martj42/international_results: ngày, trận đấu, đối thủ, cầu thủ ghi bàn, phút, phản lưới (cầu thủ đối phương đá phản lưới), phạt đền. Nguồn không có cầu thủ ghi bàn cho mọi trận — dữ liệu chưa đầy đủ (chủ yếu các giải lớn như Asian Cup, vòng loại World Cup). Tên cầu thủ giữ nguyên như nguồn. Chứa 82 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Bàn thắng của đội tuyển bóng đá Việt Nam — cầu thủ ghi bàn 1993–2024 (82) | ListBase",
+    "seo_description": "Tải xuống Bàn thắng của đội tuyển bóng đá Việt Nam — cầu thủ ghi bàn 1993–2024 (82) — 82 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 82 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

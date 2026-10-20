@@ -1,0 +1,126 @@
+{
+  "id": "vi-thai-binh-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Thái Bình",
+  "title": "Địa điểm du lịch Thái Bình",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Thái Bình (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 111,
+      "ten_dia_diem": "Chùa Keo",
+      "vi_tri": "Thái Bình",
+      "tinh_truoc_sap_nhap_2025": "Thái Bình",
+      "mo_ta": "Chùa Keo ở Thái Bình được xếp hạng là ngôi chùa cổ đẹp nhất tại Việt Nam. Chùa được xây dựng theo kiến trúc cổ kín từ thời nhà Lê. Chính vì lẽ đó mà chùa Keo được xem là một trong những địa điểm check-in Thái Bình mà bạn nhất định phải đến tham quan.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "http://surl.li/ivqjww",
+      "tu_khoa": "chùa, cổ kín"
+    },
+    {
+      "stt": 112,
+      "ten_dia_diem": "Bãi biển Đồng Châu",
+      "vi_tri": "Thái Bình",
+      "tinh_truoc_sap_nhap_2025": "Thái Bình",
+      "mo_ta": "Còn giữ nguyên vẻ đẹp hoang sơ thì hãy đến với bãi biển Đồng Châu. Với bờ cát trải dài 5km ôm lấy mặt biển mênh mông, xanh mướt đã vẻ nên một địa điểm du lịch độc đáo tại Bắc Trung Bộ. hững chiếc chòi canh nhấp nhô trên mặt nước tạo nên cảnh sắt thật là hữu tình.",
+      "danh_gia": "3.5/5",
+      "danh_gia_diem": 3.5,
+      "anh": "http://surl.li/sbizem",
+      "tu_khoa": "hoang sơ, cò, quý hiếm"
+    },
+    {
+      "stt": 113,
+      "ten_dia_diem": "Bãi biển Cồn Đen",
+      "vi_tri": "Thái Bình",
+      "tinh_truoc_sap_nhap_2025": "Thái Bình",
+      "mo_ta": "hình ảnh đẹp nhất của biển và sự hoang sơ của khu rừng nguyên sinh. Đặc biệt, vào thời điểm bình minh và hoàng hôn thì vẻ đẹp nơi đây lại trở nên quyến rũ đến kỳ lạ, lúc này cũng là khoảnh khắc được nhiều người săn đón nhất. Với vẻ đẹp trong lành từ không khí cho đến mặt nước biển trong xanh cùng bãi cát trắng thì đây đích thị là một background cực xịn",
+      "danh_gia": "4.0/5",
+      "danh_gia_diem": 4,
+      "anh": "http://surl.li/yjhohk",
+      "tu_khoa": "biển, hoang sơ, cát trắng, quyến rũ"
+    },
+    {
+      "stt": 114,
+      "ten_dia_diem": "Nhà thờ Bác Trạch",
+      "vi_tri": "Thái Bình",
+      "tinh_truoc_sap_nhap_2025": "Thái Bình",
+      "mo_ta": "Đây chính là một trong những nhà thờ lớn nhất Việt Nam hiện nay với hoa văn trang trí công phu theo lối kiến trúc Roman. \nVới vẻ đẹp này chắc chắn nhà thờ Bác Trạch là một địa điểm check-in Thái Bình độc đáo dành cho bạn.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "http://surl.li/vgxrod",
+      "tu_khoa": "nhà thờ, lớn nhất, Roman"
+    },
+    {
+      "stt": 115,
+      "ten_dia_diem": "Làng dệt chiếu Hới",
+      "vi_tri": "Thái Bình",
+      "tinh_truoc_sap_nhap_2025": "Thái Bình",
+      "mo_ta": "Nổi tiếng với những làng nghề truyền thống gần hàng trăm năm tuổi.  bạn còn được hiểu thêm về cuộc sống giản dị của người dân trong làng. Và bạn sẽ được người dân giới thiệu về quy trình để tạo ra được một một chiếc chiếu truyền thống, từ thu hoạch chế biến cói cho tới khâu thành phẩm. Những trải nghiệm này sẽ là một kỷ niệm khó quên cho chuyến đi của bạn.",
+      "danh_gia": "4.0/5",
+      "danh_gia_diem": 4,
+      "anh": "http://surl.li/hglflh",
+      "tu_khoa": "truyền thống, chiếu."
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Thái Bình - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Thái Bình (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Thái Bình | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Thái Bình — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

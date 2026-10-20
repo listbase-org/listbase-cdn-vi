@@ -1,0 +1,214 @@
+{
+  "id": "vi-nha-choc-troi",
+  "name": "Nhà chọc trời ở Việt Nam",
+  "title": "Nhà chọc trời ở Việt Nam",
+  "description": "Danh sách nhà chọc trời (P31 = wd:Q11303) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-20. Mỗi thực thể bắt buộc có toạ độ WGS84 (P625) và ít nhất một nhãn tiếng Việt hoặc tiếng Anh (theo quy tắc name_vi-OR-name_en của dự án). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikidata. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 13/13 toạ độ, 9/13 nhãn tiếng Việt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_vi",
+      "label": "Admin Area Vi",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q609140",
+      "name_vi": "AON Hanoi Landmark Tower",
+      "name_en": "AON Hanoi Landmark Tower",
+      "admin_area_vi": "Mễ Trì",
+      "admin_area_en": "Mễ Trì",
+      "latitude": 21.01732222,
+      "longitude": 105.78405278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q609140"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q638512",
+      "name_vi": "Bitexco Financial Tower",
+      "name_en": "Bitexco Financial Tower",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.771666666,
+      "longitude": 106.704444444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q638512"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q6684904",
+      "name_vi": "Hà Nội City Complex",
+      "name_en": "Lotte Center Hanoi",
+      "admin_area_vi": "Quận Ba Đình",
+      "admin_area_en": "Ba Đình District",
+      "latitude": 21.03235,
+      "longitude": 105.8126,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6684904"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q6351258",
+      "name_vi": "IFC Saigon One",
+      "name_en": "IFC One Saigon",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.7717,
+      "longitude": 106.704,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6351258"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q122340123",
+      "name_vi": "",
+      "name_en": "Saigon Centre Tower 1",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.7717,
+      "longitude": 106.704,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122340123"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q122340198",
+      "name_vi": "",
+      "name_en": "Saigon Centre Tower 2",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.7717,
+      "longitude": 106.704,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122340198"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q6353162",
+      "name_vi": "Saigon Trade Center",
+      "name_en": "Saigon Trade Center",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.7717,
+      "longitude": 106.704,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6353162"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q109439521",
+      "name_vi": "Techno Park Tower",
+      "name_en": "",
+      "admin_area_vi": "Đa Tốn",
+      "admin_area_en": "Đa Tốn",
+      "latitude": 20.98899,
+      "longitude": 105.94206,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109439521"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q18640924",
+      "name_vi": "The Landmark81",
+      "name_en": "Landmark 81",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.795,
+      "longitude": 106.721944444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18640924"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q20026285",
+      "name_vi": "Tháp Vietcombank",
+      "name_en": "Vietcombank Tower",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.775916666,
+      "longitude": 106.705472222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20026285"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q6352680",
+      "name_vi": "Tòa nhà Saigon Times Square",
+      "name_en": "Saigon Times Square",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.77391,
+      "longitude": 106.70477,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6352680"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q15549825",
+      "name_vi": "",
+      "name_en": "VietinBank Business Center Office Tower",
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "latitude": 21.0825,
+      "longitude": 105.79,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15549825"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q13447090",
+      "name_vi": "",
+      "name_en": "Vincom Center Dong Khoi",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.778103,
+      "longitude": 106.70195,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q13447090"
+    }
+  ],
+  "meta": {
+    "title": "Nhà chọc trời ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách nhà chọc trời (P31 = wd:Q11303) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-20. Mỗi thực thể bắt buộc có toạ độ WGS84 (P625) và ít nhất một nhãn tiếng Việt hoặc tiếng Anh (theo quy tắc name_vi-OR-name_en của dự án). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikidata. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 13/13 toạ độ, 9/13 nhãn tiếng Việt. Chứa 13 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Nhà chọc trời ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Nhà chọc trời ở Việt Nam — 13 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 13 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

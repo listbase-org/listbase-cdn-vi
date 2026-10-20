@@ -1,0 +1,257 @@
+{
+  "id": "finance-container-codes",
+  "name": "Bộ dữ liệu mã và thông số kỹ thuật container ISO 6346",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Container Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "length_ft",
+      "label": "Length (ft)",
+      "type": "number"
+    },
+    {
+      "key": "dimensions",
+      "label": "Dimensions (L×W×H m)",
+      "type": "string"
+    },
+    {
+      "key": "capacity_cbm",
+      "label": "Capacity (m³)",
+      "type": "number"
+    },
+    {
+      "key": "max_payload_kg",
+      "label": "Max Payload (kg)",
+      "type": "number"
+    },
+    {
+      "key": "tare_weight_kg",
+      "label": "Tare Weight (kg)",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "20GP",
+      "iso_code": "22G1",
+      "name": "20ft Mục đích chung",
+      "category": "Khô",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 33.2,
+      "max_payload_kg": 28200,
+      "tare_weight_kg": 2300,
+      "description": "Container khô tiêu chuẩn 20 feet"
+    },
+    {
+      "code": "40GP",
+      "iso_code": "42G1",
+      "name": "40ft Mục đích chung",
+      "category": "Khô",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 67.7,
+      "max_payload_kg": 26680,
+      "tare_weight_kg": 3800,
+      "description": "Container khô tiêu chuẩn 40 feet"
+    },
+    {
+      "code": "40HC",
+      "iso_code": "45G1",
+      "name": "40ft Cao khối",
+      "category": "Khô",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.89",
+      "capacity_cbm": 76.3,
+      "max_payload_kg": 26460,
+      "tare_weight_kg": 4020,
+      "description": "Container cao khối với chiều cao vượt trội"
+    },
+    {
+      "code": "45HC",
+      "iso_code": "45G1",
+      "name": "45ft Cao khối",
+      "category": "Khô",
+      "length_ft": 45,
+      "dimensions": "13.72 × 2.44 × 2.89",
+      "capacity_cbm": 86.1,
+      "max_payload_kg": 25600,
+      "tare_weight_kg": 4800,
+      "description": "Container cao khối 45 feet"
+    },
+    {
+      "code": "20RF",
+      "iso_code": "22R1",
+      "name": "20ft Lạnh",
+      "category": "Lạnh",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 28.3,
+      "max_payload_kg": 27400,
+      "tare_weight_kg": 3080,
+      "description": "Container lạnh 20 feet"
+    },
+    {
+      "code": "40RF",
+      "iso_code": "42R1",
+      "name": "40ft Lạnh",
+      "category": "Lạnh",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 59.3,
+      "max_payload_kg": 26280,
+      "tare_weight_kg": 4200,
+      "description": "Container lạnh 40 feet"
+    },
+    {
+      "code": "40RH",
+      "iso_code": "45R1",
+      "name": "40ft Lạnh Cao khối",
+      "category": "Lạnh",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.89",
+      "capacity_cbm": 67.5,
+      "max_payload_kg": 25900,
+      "tare_weight_kg": 4580,
+      "description": "Container lạnh cao khối"
+    },
+    {
+      "code": "20OT",
+      "iso_code": "22U1",
+      "name": "20ft Mở nóc",
+      "category": "Mở nóc",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 32.5,
+      "max_payload_kg": 28100,
+      "tare_weight_kg": 2400,
+      "description": "Container mở nóc cho hàng quá khổ"
+    },
+    {
+      "code": "40OT",
+      "iso_code": "42U1",
+      "name": "40ft Mở nóc",
+      "category": "Mở nóc",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 65.9,
+      "max_payload_kg": 26500,
+      "tare_weight_kg": 3980,
+      "description": "Container mở nóc 40 feet"
+    },
+    {
+      "code": "20FR",
+      "iso_code": "22P1",
+      "name": "20ft Mặt phẳng",
+      "category": "Mặt phẳng",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 0,
+      "max_payload_kg": 28600,
+      "tare_weight_kg": 2700,
+      "description": "Không có vách/nóc cho máy móc hạng nặng"
+    },
+    {
+      "code": "40FR",
+      "iso_code": "42P1",
+      "name": "40ft Mặt phẳng",
+      "category": "Mặt phẳng",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 0,
+      "max_payload_kg": 40000,
+      "tare_weight_kg": 5700,
+      "description": "Container mặt phẳng 40 feet"
+    },
+    {
+      "code": "20TK",
+      "iso_code": "22T1",
+      "name": "20ft Bồn",
+      "category": "Bồn",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 21,
+      "max_payload_kg": 26000,
+      "tare_weight_kg": 4480,
+      "description": "Để vận chuyển chất lỏng/khí"
+    },
+    {
+      "code": "20PL",
+      "iso_code": "22P3",
+      "name": "20ft Sàn phẳng",
+      "category": "Sàn phẳng",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 0",
+      "capacity_cbm": 0,
+      "max_payload_kg": 30000,
+      "tare_weight_kg": 2500,
+      "description": "Nền phẳng, không có vách"
+    },
+    {
+      "code": "40PL",
+      "iso_code": "42P3",
+      "name": "40ft Sàn phẳng",
+      "category": "Sàn phẳng",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 0",
+      "capacity_cbm": 0,
+      "max_payload_kg": 40000,
+      "tare_weight_kg": 5000,
+      "description": "Container sàn phẳng 40 feet"
+    }
+  ],
+  "meta": {
+    "seo_title": "Mã container ISO 6346 - Tải xuống miễn phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống miễn phí dữ liệu mã container ISO 6346. Gồm 14 bản ghi về kích thước, dung tích và tải trọng. Có sẵn ở định dạng Excel, CSV, PDF.",
+    "title": "Bộ dữ liệu mã và thông số kỹ thuật container ISO 6346",
+    "description": "Bộ dữ liệu này cung cấp danh sách đầy đủ 14 mã container ISO 6346, chi tiết các loại, kích thước, dung tích và thông số kỹ thuật trọng lượng cho các container vận chuyển khác nhau.",
+    "key_takeaways": [
+      "Truy cập thông số kỹ thuật chi tiết cho 14 loại container ISO 6346 phổ biến.",
+      "Khám phá kích thước container, dung tích, tải trọng tối đa và trọng lượng vỏ container.",
+      "Tải xuống tài liệu tham khảo sẵn sàng sử dụng cho phân tích hậu cần, vận chuyển và chuỗi cung ứng.",
+      "Tận dụng dữ liệu chính xác để lập kế hoạch vận chuyển hàng hóa và tối ưu hóa việc sử dụng container."
+    ],
+    "keywords": [
+      "mã container ISO 6346",
+      "kích thước container",
+      "dữ liệu container vận chuyển",
+      "thông số container excel",
+      "các loại container ISO csv",
+      "dung tích tải trọng container pdf"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL hoặc tập lệnh Python để tích hợp thông số kỹ thuật container vào hệ thống quản lý hậu cần hoặc công cụ tính toán cước phí.",
+      "Sử dụng tệp **Excel** để tạo Bảng tổng hợp (Pivot Tables), lọc các loại container và phân tích dung tích để lập kế hoạch tuyến đường vận chuyển và xếp hàng tối ưu.",
+      "In phiên bản **PDF** để tham khảo trong lớp học, sách hướng dẫn vận hành hoặc tra cứu nhanh ngoại tuyến tại kho hàng.",
+      "Tham khảo bộ dữ liệu này để xác thực khai báo container, hiểu các tiêu chuẩn vận chuyển quốc tế hoặc xây dựng tài liệu giáo dục về thương mại toàn cầu."
+    ]
+  },
+  "record_count": 14,
+  "title": "Bộ dữ liệu mã và thông số kỹ thuật container ISO 6346"
+}

@@ -1,0 +1,1150 @@
+{
+  "id": "vi-nha-may-dien-quy-hoach-dien-7",
+  "name": "Nhà máy điện theo Quy hoạch điện VII điều chỉnh",
+  "title": "Nhà máy điện theo Quy hoạch điện VII điều chỉnh",
+  "description": "Danh sách 184 dự án nguồn điện theo Quy hoạch điện VII điều chỉnh (bản 06/2020) — các nhà máy hiện hữu và dự kiến xây dựng giai đoạn 2016–2030, kèm loại hình (viết tắt nguyên văn: TĐ = thủy điện, NĐ = nhiệt điện...), công suất và năm dự kiến vận hành (trích từ repo Vietnam-Power-Plants). Lưu ý: chứa một số dòng gộp (vd \"Năng lượng tái tạo (thủy điện nhỏ, điện gió, mặt trời, sinh khối v.v..)\") nguyên văn theo nguồn.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 184,
+  "columns": [
+    {
+      "key": "base_name",
+      "label": "Base Name",
+      "type": "string"
+    },
+    {
+      "key": "fuel",
+      "label": "Fuel",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "planned_year",
+      "label": "Planned Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "base_name": "A Lin",
+      "fuel": "TĐ",
+      "capacity_mw": 62,
+      "planned_year": 2018
+    },
+    {
+      "base_name": "An Khê #1",
+      "fuel": "Điện sinh khối",
+      "capacity_mw": 55,
+      "planned_year": 2017
+    },
+    {
+      "base_name": "An Khê #2",
+      "fuel": "Điện sinh khối",
+      "capacity_mw": 55,
+      "planned_year": 2018
+    },
+    {
+      "base_name": "Bá Thước 1",
+      "fuel": "TĐ",
+      "capacity_mw": 60,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Bác Ái #1,2",
+      "fuel": "TĐ",
+      "capacity_mw": "2x300",
+      "planned_year": 2023
+    },
+    {
+      "base_name": "Bác Ái #3,4",
+      "fuel": "TĐ",
+      "capacity_mw": "2x300",
+      "planned_year": 2025
+    },
+    {
+      "base_name": "Bạc Liêu giai đoạn III",
+      "fuel": "Điện gió",
+      "capacity_mw": 142,
+      "planned_year": 2018
+    },
+    {
+      "base_name": "Bạc Liêu I #1 (*)",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2029
+    },
+    {
+      "base_name": "Bạc Liêu I #2 (*)",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2030
+    },
+    {
+      "base_name": "Bắc Mê",
+      "fuel": "TĐ",
+      "capacity_mw": 45,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Băn Mống (Sống Hiều)",
+      "fuel": "TĐ",
+      "capacity_mw": 60,
+      "planned_year": 2022
+    },
+    {
+      "base_name": "Bảo Lâm 3",
+      "fuel": "TĐ",
+      "capacity_mw": 46,
+      "planned_year": 2019
+    },
+    {
+      "base_name": "Cẩm Phả III #1,2",
+      "fuel": "NĐ",
+      "capacity_mw": "2x220",
+      "planned_year": 2020
+    },
+    {
+      "base_name": "Chi Khê",
+      "fuel": "TĐ",
+      "capacity_mw": 41,
+      "planned_year": 2017
+    },
+    {
+      "base_name": "Công Thanh",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2020
+    },
+    {
+      "base_name": "Đa Nhim mở rộng",
+      "fuel": "TĐ",
+      "capacity_mw": 100,
+      "planned_year": 2018
+    },
+    {
+      "base_name": "Đăk Mi 1",
+      "fuel": "TĐ",
+      "capacity_mw": 54,
+      "planned_year": 2018
+    },
+    {
+      "base_name": "Đăk Mi 2",
+      "fuel": "TĐ",
+      "capacity_mw": 98,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Đăk Mi 3",
+      "fuel": "TĐ",
+      "capacity_mw": 45,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Đăk Re",
+      "fuel": "TĐ",
+      "capacity_mw": 60,
+      "planned_year": 2022
+    },
+    {
+      "base_name": "Đồn Dương #1",
+      "fuel": "TĐ",
+      "capacity_mw": 300,
+      "planned_year": 2030
+    },
+    {
+      "base_name": "Đồng Phù Yên #1",
+      "fuel": "TĐ",
+      "capacity_mw": 300,
+      "planned_year": 2028
+    },
+    {
+      "base_name": "Đồng Phù Yên #2",
+      "fuel": "TĐ",
+      "capacity_mw": 300,
+      "planned_year": 2029
+    },
+    {
+      "base_name": "Đồng Phù Yên #3",
+      "fuel": "TĐ",
+      "capacity_mw": 300,
+      "planned_year": 2030
+    },
+    {
+      "base_name": "Dung Quất I",
+      "fuel": "TBKHH",
+      "capacity_mw": 750,
+      "planned_year": 2023
+    },
+    {
+      "base_name": "Dung Quất II",
+      "fuel": "TBKHH",
+      "capacity_mw": 750,
+      "planned_year": 2024
+    },
+    {
+      "base_name": "Duyên Hải II #1,2",
+      "fuel": "NĐ",
+      "capacity_mw": "2x600",
+      "planned_year": 2021
+    },
+    {
+      "base_name": "Duyên Hải III #1",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Duyên Hải III #2",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2017
+    },
+    {
+      "base_name": "Duyên Hải III mở rộng",
+      "fuel": "NĐ",
+      "capacity_mw": 660,
+      "planned_year": 2019
+    },
+    {
+      "base_name": "Formosa Đồng Nai #3",
+      "fuel": "NĐ",
+      "capacity_mw": 150,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Formosa Hà Tĩnh #10",
+      "fuel": "NĐ",
+      "capacity_mw": 150,
+      "planned_year": 2020
+    },
+    {
+      "base_name": "Formosa Hà Tĩnh #2",
+      "fuel": "NĐ",
+      "capacity_mw": 150,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Formosa Hà Tĩnh #3,4",
+      "fuel": "NĐ",
+      "capacity_mw": "2x100",
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Formosa Hà Tĩnh #5",
+      "fuel": "NĐ",
+      "capacity_mw": 150,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Formosa Hà Tĩnh #6,7",
+      "fuel": "NĐ",
+      "capacity_mw": "2x150",
+      "planned_year": 2020
+    },
+    {
+      "base_name": "Formosa Hà Tĩnh #8,9",
+      "fuel": "NĐ",
+      "capacity_mw": "2x100",
+      "planned_year": 2020
+    },
+    {
+      "base_name": "Hải Dương #1",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2020
+    },
+    {
+      "base_name": "Hải Dương #2",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2021
+    },
+    {
+      "base_name": "Hải Hà 1",
+      "fuel": "NĐ",
+      "capacity_mw": "3x50",
+      "planned_year": 2019
+    },
+    {
+      "base_name": "Hải Hà 2",
+      "fuel": "NĐ",
+      "capacity_mw": "5x150",
+      "planned_year": 2022
+    },
+    {
+      "base_name": "Hải Hà 3",
+      "fuel": "NĐ",
+      "capacity_mw": "2x300",
+      "planned_year": 2025
+    },
+    {
+      "base_name": "Hải Hà 4",
+      "fuel": "NĐ",
+      "capacity_mw": "2x300",
+      "planned_year": 2028
+    },
+    {
+      "base_name": "Hải Phòng III #1",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2025
+    },
+    {
+      "base_name": "Hải Phòng III #2",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2026
+    },
+    {
+      "base_name": "Hanbaram",
+      "fuel": "Điện gió",
+      "capacity_mw": 117,
+      "planned_year": 2020
+    },
+    {
+      "base_name": "Hòa Bình mở rộng #1",
+      "fuel": "TĐ",
+      "capacity_mw": 240,
+      "planned_year": 2021
+    },
+    {
+      "base_name": "Hòa Bình mở rộng #2",
+      "fuel": "TĐ",
+      "capacity_mw": 240,
+      "planned_year": 2022
+    },
+    {
+      "base_name": "Hồi Xuân",
+      "fuel": "TĐ",
+      "capacity_mw": 102,
+      "planned_year": 2018
+    },
+    {
+      "base_name": "Huội Quảng #2",
+      "fuel": "TĐ",
+      "capacity_mw": 260,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Huối Tạo",
+      "fuel": "TĐ",
+      "capacity_mw": 180,
+      "planned_year": 2030
+    },
+    {
+      "base_name": "Ialy mở rộng",
+      "fuel": "TĐ",
+      "capacity_mw": 360,
+      "planned_year": 2020
+    },
+    {
+      "base_name": "KCP #1",
+      "fuel": "NMĐ sinh khối",
+      "capacity_mw": 30,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "KCP #2",
+      "fuel": "NMĐ sinh khối",
+      "capacity_mw": 30,
+      "planned_year": 2018
+    },
+    {
+      "base_name": "Khai Long (Cà Mau)",
+      "fuel": "Điện gió",
+      "capacity_mw": 100,
+      "planned_year": 2018
+    },
+    {
+      "base_name": "Kiên Giang I",
+      "fuel": "TBKHH",
+      "capacity_mw": 750,
+      "planned_year": 2021
+    },
+    {
+      "base_name": "Kiên Giang II",
+      "fuel": "TBKHH",
+      "capacity_mw": 750,
+      "planned_year": 2022
+    },
+    {
+      "base_name": "La Ngâu",
+      "fuel": "TĐ",
+      "capacity_mw": 36,
+      "planned_year": 2018
+    },
+    {
+      "base_name": "Lai Châu #2,3",
+      "fuel": "TĐ",
+      "capacity_mw": "2x400",
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Lee&Man",
+      "fuel": "NĐ sinh khối",
+      "capacity_mw": 125,
+      "planned_year": 2018
+    },
+    {
+      "base_name": "Long An I #1",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2024
+    },
+    {
+      "base_name": "Long An I #2",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2025
+    },
+    {
+      "base_name": "Long An II #1",
+      "fuel": "NĐ",
+      "capacity_mw": 800,
+      "planned_year": 2026
+    },
+    {
+      "base_name": "Long An II #2",
+      "fuel": "NĐ",
+      "capacity_mw": 800,
+      "planned_year": 2027
+    },
+    {
+      "base_name": "Long Phú I #1",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2018
+    },
+    {
+      "base_name": "Long Phú I #2",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2019
+    },
+    {
+      "base_name": "Long Phú II #1",
+      "fuel": "NĐ",
+      "capacity_mw": 660,
+      "planned_year": 2021
+    },
+    {
+      "base_name": "Long Phú II #2",
+      "fuel": "NĐ",
+      "capacity_mw": 660,
+      "planned_year": 2022
+    },
+    {
+      "base_name": "Long Phú III #1",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2021
+    },
+    {
+      "base_name": "Long Phú III #2,3",
+      "fuel": "NĐ",
+      "capacity_mw": "2x600",
+      "planned_year": 2022
+    },
+    {
+      "base_name": "Long Sơn #1",
+      "fuel": "NĐ hóa dầu",
+      "capacity_mw": 75,
+      "planned_year": 2017
+    },
+    {
+      "base_name": "Long Sơn #2,3",
+      "fuel": "NĐ hóa dầu",
+      "capacity_mw": "2x75",
+      "planned_year": 2018
+    },
+    {
+      "base_name": "Lông Tạo",
+      "fuel": "TĐ",
+      "capacity_mw": 42,
+      "planned_year": 2017
+    },
+    {
+      "base_name": "Lục Nam #1",
+      "fuel": "NĐ",
+      "capacity_mw": 50,
+      "planned_year": 2022
+    },
+    {
+      "base_name": "Lục Nam #2",
+      "fuel": "NĐ",
+      "capacity_mw": 50,
+      "planned_year": 2023
+    },
+    {
+      "base_name": "Miền Trung I",
+      "fuel": "TBKHH",
+      "capacity_mw": 750,
+      "planned_year": 2023
+    },
+    {
+      "base_name": "Miền Trung II",
+      "fuel": "TBKHH",
+      "capacity_mw": 750,
+      "planned_year": 2024
+    },
+    {
+      "base_name": "Miền Trung III (nếu khi cho hóa dầu không khả thi)",
+      "fuel": "TBKHH",
+      "capacity_mw": 750,
+      "planned_year": 2026
+    },
+    {
+      "base_name": "Mỹ Lý",
+      "fuel": "TĐ",
+      "capacity_mw": 250,
+      "planned_year": 2021
+    },
+    {
+      "base_name": "Na Dương II",
+      "fuel": "NĐ",
+      "capacity_mw": 110,
+      "planned_year": 2019
+    },
+    {
+      "base_name": "Nậm Củm 1,4,5",
+      "fuel": "TĐ",
+      "capacity_mw": 65,
+      "planned_year": 2019
+    },
+    {
+      "base_name": "Nậm Củm 2,3,6",
+      "fuel": "TĐ",
+      "capacity_mw": 54,
+      "planned_year": 2020
+    },
+    {
+      "base_name": "Nam Định I #1",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2021
+    },
+    {
+      "base_name": "Nam Định I #2",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2022
+    },
+    {
+      "base_name": "Nậm Mô (Láo)",
+      "fuel": "TĐ",
+      "capacity_mw": 72,
+      "planned_year": 2026
+    },
+    {
+      "base_name": "Nậm Mô (Việt Nam)",
+      "fuel": "TĐ",
+      "capacity_mw": 95,
+      "planned_year": 2020
+    },
+    {
+      "base_name": "Nậm Na 3",
+      "fuel": "TĐ",
+      "capacity_mw": 84,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Nậm Phà 5",
+      "fuel": "TĐ",
+      "capacity_mw": 35,
+      "planned_year": 2020
+    },
+    {
+      "base_name": "Nậm Toóng",
+      "fuel": "TĐ",
+      "capacity_mw": 34,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Năng lượng tái tạo (thủy điện nhỏ, điện gió, mặt trời, sinh khối v.v..)",
+      "fuel": "",
+      "capacity_mw": 260,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Năng lượng tái tạo (thủy điện nhỏ, điện gió, mặt trời, sinh khối v.v..)",
+      "fuel": "",
+      "capacity_mw": 360,
+      "planned_year": 2017
+    },
+    {
+      "base_name": "Năng lượng tái tạo (thủy điện nhỏ, điện gió, mặt trời, sinh khối v.v..)",
+      "fuel": "",
+      "capacity_mw": 520,
+      "planned_year": 2018
+    },
+    {
+      "base_name": "Năng lượng tái tạo (thủy điện nhỏ, điện gió, mặt trời, sinh khối v.v..)",
+      "fuel": "",
+      "capacity_mw": 450,
+      "planned_year": 2019
+    },
+    {
+      "base_name": "Năng lượng tái tạo (thủy điện nhỏ, điện gió, mặt trời, sinh khối v.v..)",
+      "fuel": "",
+      "capacity_mw": 470,
+      "planned_year": 2020
+    },
+    {
+      "base_name": "Năng lượng tái tạo (thủy điện nhỏ, điện gió, mặt trời, sinh khối v.v..)",
+      "fuel": "",
+      "capacity_mw": 790,
+      "planned_year": 2021
+    },
+    {
+      "base_name": "Năng lượng tái tạo (thủy điện nhỏ, điện gió, mặt trời, sinh khối v.v..)",
+      "fuel": "",
+      "capacity_mw": 1200,
+      "planned_year": 2022
+    },
+    {
+      "base_name": "Năng lượng tái tạo (thủy điện nhỏ, điện gió, mặt trời, sinh khối v.v..)",
+      "fuel": "",
+      "capacity_mw": 1000,
+      "planned_year": 2023
+    },
+    {
+      "base_name": "Năng lượng tái tạo (thủy điện nhỏ, điện gió, mặt trời, sinh khối v.v..)",
+      "fuel": "",
+      "capacity_mw": 1200,
+      "planned_year": 2024
+    },
+    {
+      "base_name": "Năng lượng tái tạo (thủy điện nhỏ, điện gió, mặt trời, sinh khối v.v..)",
+      "fuel": "",
+      "capacity_mw": 1800,
+      "planned_year": 2025
+    },
+    {
+      "base_name": "Năng lượng tái tạo (thủy điện nhỏ, điện gió, mặt trời, sinh khối v.v..)",
+      "fuel": "",
+      "capacity_mw": 2160,
+      "planned_year": 2026
+    },
+    {
+      "base_name": "Năng lượng tái tạo (thủy điện nhỏ, điện gió, mặt trời, sinh khối v.v..)",
+      "fuel": "",
+      "capacity_mw": 2910,
+      "planned_year": 2027
+    },
+    {
+      "base_name": "Năng lượng tái tạo (thủy điện nhỏ, điện gió, mặt trời, sinh khối v.v..)",
+      "fuel": "",
+      "capacity_mw": 3240,
+      "planned_year": 2028
+    },
+    {
+      "base_name": "Năng lượng tái tạo (thủy điện nhỏ, điện gió, mặt trời, sinh khối v.v..)",
+      "fuel": "",
+      "capacity_mw": 3350,
+      "planned_year": 2029
+    },
+    {
+      "base_name": "Năng lượng tái tạo (thủy điện nhỏ, điện gió, mặt trời, sinh khối v.v..)",
+      "fuel": "",
+      "capacity_mw": 3530,
+      "planned_year": 2030
+    },
+    {
+      "base_name": "Nghi Sơn II #1",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2021
+    },
+    {
+      "base_name": "Nghi Sơn II #2",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2022
+    },
+    {
+      "base_name": "Nhạn Hạc",
+      "fuel": "TĐ",
+      "capacity_mw": 59,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Nho Quế 1",
+      "fuel": "TĐ",
+      "capacity_mw": 32,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Nho Quế 2",
+      "fuel": "TĐ",
+      "capacity_mw": 48,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Ninh Thuận I #1",
+      "fuel": "Điện hạt nhân",
+      "capacity_mw": 1200,
+      "planned_year": 2028
+    },
+    {
+      "base_name": "Ninh Thuận I #2",
+      "fuel": "Điện hạt nhân",
+      "capacity_mw": 1200,
+      "planned_year": 2029
+    },
+    {
+      "base_name": "Ninh Thuận II #1",
+      "fuel": "Điện hạt nhân",
+      "capacity_mw": 1100,
+      "planned_year": 2029
+    },
+    {
+      "base_name": "Ninh Thuận II #2",
+      "fuel": "Điện hạt nhân",
+      "capacity_mw": 1100,
+      "planned_year": 2030
+    },
+    {
+      "base_name": "Ô Môn II",
+      "fuel": "TBKHH",
+      "capacity_mw": 750,
+      "planned_year": 2026
+    },
+    {
+      "base_name": "Ô Môn III",
+      "fuel": "TBKHH",
+      "capacity_mw": 750,
+      "planned_year": 2020
+    },
+    {
+      "base_name": "Ô Môn IV",
+      "fuel": "TBKHH",
+      "capacity_mw": 750,
+      "planned_year": 2021
+    },
+    {
+      "base_name": "Pắc Ma",
+      "fuel": "TĐ",
+      "capacity_mw": 140,
+      "planned_year": 2019
+    },
+    {
+      "base_name": "Phú Thọ",
+      "fuel": "TĐ",
+      "capacity_mw": 105,
+      "planned_year": 2023
+    },
+    {
+      "base_name": "Quảng Ninh III #1",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2029
+    },
+    {
+      "base_name": "Quảng Ninh III #2",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2030
+    },
+    {
+      "base_name": "Quảng Trạch I #1",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2021
+    },
+    {
+      "base_name": "Quảng Trạch I #2",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2022
+    },
+    {
+      "base_name": "Quảng Trạch II #1",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2028
+    },
+    {
+      "base_name": "Quảng Trạch II #2",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2029
+    },
+    {
+      "base_name": "Quảng Trị #1",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2023
+    },
+    {
+      "base_name": "Quảng Trị #2",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2024
+    },
+    {
+      "base_name": "Quỳnh Lập I #1",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2022
+    },
+    {
+      "base_name": "Quỳnh Lập I #2",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2023
+    },
+    {
+      "base_name": "Quỳnh Lập II #1",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2026
+    },
+    {
+      "base_name": "Quỳnh Lập II #2",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2027
+    },
+    {
+      "base_name": "Rạng Đông",
+      "fuel": "NĐ",
+      "capacity_mw": 100,
+      "planned_year": 2025
+    },
+    {
+      "base_name": "Sêkaman 1 (Lào)",
+      "fuel": "TĐ",
+      "capacity_mw": 290,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Sêkaman 4 (Lào)",
+      "fuel": "TĐ",
+      "capacity_mw": 80,
+      "planned_year": 2018
+    },
+    {
+      "base_name": "Sêkaman Xanxay (Lào)",
+      "fuel": "TĐ",
+      "capacity_mw": 32,
+      "planned_year": 2017
+    },
+    {
+      "base_name": "Sóc Trăng",
+      "fuel": "Điện gió",
+      "capacity_mw": 99,
+      "planned_year": 2019
+    },
+    {
+      "base_name": "Sơn Mỹ I #1",
+      "fuel": "TBKHH",
+      "capacity_mw": 750,
+      "planned_year": 2026
+    },
+    {
+      "base_name": "Sơn Mỹ I #2",
+      "fuel": "TBKHH",
+      "capacity_mw": 750,
+      "planned_year": 2027
+    },
+    {
+      "base_name": "Sơn Mỹ I #3",
+      "fuel": "TBKHH",
+      "capacity_mw": 750,
+      "planned_year": 2028
+    },
+    {
+      "base_name": "Sơn Mỹ II #1",
+      "fuel": "TBKHH",
+      "capacity_mw": 750,
+      "planned_year": 2023
+    },
+    {
+      "base_name": "Sơn Mỹ II #2",
+      "fuel": "TBKHH",
+      "capacity_mw": 750,
+      "planned_year": 2024
+    },
+    {
+      "base_name": "Sơn Mỹ II #3",
+      "fuel": "TBKHH",
+      "capacity_mw": 750,
+      "planned_year": 2025
+    },
+    {
+      "base_name": "Sông Bung 2",
+      "fuel": "TĐ",
+      "capacity_mw": 100,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Sông Hậu I #1,2",
+      "fuel": "NĐ",
+      "capacity_mw": "2x600",
+      "planned_year": 2019
+    },
+    {
+      "base_name": "Sông Hậu II #1",
+      "fuel": "NĐ",
+      "capacity_mw": 1000,
+      "planned_year": 2021
+    },
+    {
+      "base_name": "Sông Hậu II #2",
+      "fuel": "NĐ",
+      "capacity_mw": 1000,
+      "planned_year": 2022
+    },
+    {
+      "base_name": "Sông Lô 6",
+      "fuel": "TĐ",
+      "capacity_mw": 44,
+      "planned_year": 2018
+    },
+    {
+      "base_name": "Sông Miện 4",
+      "fuel": "TĐ",
+      "capacity_mw": 38,
+      "planned_year": 2018
+    },
+    {
+      "base_name": "Sông Tranh 3",
+      "fuel": "TĐ",
+      "capacity_mw": 62,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Sông Tranh 4",
+      "fuel": "TĐ",
+      "capacity_mw": 48,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Tân Phước I #1",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2027
+    },
+    {
+      "base_name": "Tân Phước I #2",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2028
+    },
+    {
+      "base_name": "Tân Phước II #1 (*)",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2028
+    },
+    {
+      "base_name": "Tân Phước II #2 (*)",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2029
+    },
+    {
+      "base_name": "Thác Mơ mở rộng",
+      "fuel": "TĐ",
+      "capacity_mw": 75,
+      "planned_year": 2017
+    },
+    {
+      "base_name": "Thái Bình I #1,2",
+      "fuel": "NĐ",
+      "capacity_mw": "2x300",
+      "planned_year": 2017
+    },
+    {
+      "base_name": "Thái Bình II #1",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2017
+    },
+    {
+      "base_name": "Thái Bình II #2",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2018
+    },
+    {
+      "base_name": "Thăng Long #1",
+      "fuel": "NĐ",
+      "capacity_mw": 300,
+      "planned_year": 2018
+    },
+    {
+      "base_name": "Thăng Long #2",
+      "fuel": "NĐ",
+      "capacity_mw": 300,
+      "planned_year": 2019
+    },
+    {
+      "base_name": "Thiên Tân 1",
+      "fuel": "Điện mặt trời",
+      "capacity_mw": 300,
+      "planned_year": 2019
+    },
+    {
+      "base_name": "Thiên Tân 2",
+      "fuel": "Điện mặt trời",
+      "capacity_mw": 400,
+      "planned_year": 2020
+    },
+    {
+      "base_name": "Thiên Tân 3",
+      "fuel": "Điện mặt trời",
+      "capacity_mw": 300,
+      "planned_year": 2021
+    },
+    {
+      "base_name": "Thượng KonTum #1,2",
+      "fuel": "TĐ",
+      "capacity_mw": "2x110",
+      "planned_year": 2019
+    },
+    {
+      "base_name": "Trà Khúc 1",
+      "fuel": "TĐ",
+      "capacity_mw": 36,
+      "planned_year": 2017
+    },
+    {
+      "base_name": "Trị An mở rộng",
+      "fuel": "TĐ",
+      "capacity_mw": 200,
+      "planned_year": 2025
+    },
+    {
+      "base_name": "Trung - Nam",
+      "fuel": "Điện gió",
+      "capacity_mw": 90,
+      "planned_year": 2019
+    },
+    {
+      "base_name": "Trung Sơn #1,2",
+      "fuel": "TĐ",
+      "capacity_mw": "2x65",
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Trung Sơn #3,4",
+      "fuel": "TĐ",
+      "capacity_mw": "2x65",
+      "planned_year": 2017
+    },
+    {
+      "base_name": "Uông Bí ngừng phát điên",
+      "fuel": "NĐ",
+      "capacity_mw": 105,
+      "planned_year": 2021
+    },
+    {
+      "base_name": "Vân Phong I #1",
+      "fuel": "NĐ",
+      "capacity_mw": 660,
+      "planned_year": 2022
+    },
+    {
+      "base_name": "Vân Phong I #2",
+      "fuel": "NĐ",
+      "capacity_mw": 660,
+      "planned_year": 2023
+    },
+    {
+      "base_name": "Vê Đan",
+      "fuel": "NĐ than",
+      "capacity_mw": 60,
+      "planned_year": 2016
+    },
+    {
+      "base_name": "Vĩnh Tân I #1,2",
+      "fuel": "NĐ",
+      "capacity_mw": "2x600",
+      "planned_year": 2019
+    },
+    {
+      "base_name": "Vĩnh Tân III #1",
+      "fuel": "NĐ",
+      "capacity_mw": 660,
+      "planned_year": 2022
+    },
+    {
+      "base_name": "Vĩnh Tân III #2,3",
+      "fuel": "NĐ",
+      "capacity_mw": "2x660",
+      "planned_year": 2023
+    },
+    {
+      "base_name": "Vĩnh Tân IV #1,2",
+      "fuel": "NĐ",
+      "capacity_mw": "2x600",
+      "planned_year": 2018
+    },
+    {
+      "base_name": "Vĩnh Tân IV mở rộng",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2019
+    },
+    {
+      "base_name": "Vũng Áng II #1",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2021
+    },
+    {
+      "base_name": "Vũng Áng II #2",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2022
+    },
+    {
+      "base_name": "Vũng Áng III #1",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2024
+    },
+    {
+      "base_name": "Vũng Áng III #2",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2025
+    },
+    {
+      "base_name": "Vũng Áng III #3 (*)",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2029
+    },
+    {
+      "base_name": "Vũng Áng III #4 (*)",
+      "fuel": "NĐ",
+      "capacity_mw": 600,
+      "planned_year": 2030
+    },
+    {
+      "base_name": "Yên Sơn",
+      "fuel": "TĐ",
+      "capacity_mw": 70,
+      "planned_year": 2017
+    }
+  ],
+  "meta": {
+    "title": "Nhà máy điện theo Quy hoạch điện VII điều chỉnh - Tải miễn phí",
+    "description": "Danh sách 184 dự án nguồn điện theo Quy hoạch điện VII điều chỉnh (bản 06/2020) — các nhà máy hiện hữu và dự kiến xây dựng giai đoạn 2016–2030, kèm loại hình (viết tắt nguyên văn: TĐ = thủy điện, NĐ = nhiệt điện...), công suất và năm dự kiến vận hành (trích từ repo Vietnam-Power-Plants). Lưu ý: chứa một số dòng gộp (vd \"Năng lượng tái tạo (thủy điện nhỏ, điện gió, mặt trời, sinh khối v.v..)\") nguyên văn theo nguồn. Chứa 184 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Nhà máy điện theo Quy hoạch điện VII điều chỉnh | ListBase",
+    "seo_description": "Tải xuống Nhà máy điện theo Quy hoạch điện VII điều chỉnh — 184 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 184 bản ghi / 4 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

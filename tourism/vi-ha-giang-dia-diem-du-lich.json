@@ -1,0 +1,126 @@
+{
+  "id": "vi-ha-giang-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Hà Giang",
+  "title": "Địa điểm du lịch Hà Giang",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Hà Giang (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "number"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 271,
+      "ten_dia_diem": "Cột cờ Lũng Cú",
+      "vi_tri": "Hà Giang",
+      "tinh_truoc_sap_nhap_2025": "Hà Giang",
+      "mo_ta": "Cột cờ Lũng Cú, nằm ở cực Bắc Việt Nam (Hà Giang), là biểu tượng thiêng liêng của chủ quyền quốc gia. Du khách chinh phục gần 800 bậc thang để chiêm ngưỡng lá cờ đỏ sao vàng tung bay trên đỉnh núi hùng vĩ.",
+      "danh_gia": "3.9",
+      "danh_gia_diem": 3.9,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSigfgZFV4EvIXqI5SCa9MfMv9bGaePC9_0VQ&s",
+      "tu_khoa": "du lịch, thiên nhiên, cảnh đẹp"
+    },
+    {
+      "stt": 272,
+      "ten_dia_diem": "Đèo Mã Pí Lèng",
+      "vi_tri": "Hà Giang",
+      "tinh_truoc_sap_nhap_2025": "Hà Giang",
+      "mo_ta": "Đèo Mã Pí Lèng là cung đường hùng vĩ tại Hà Giang, với sông Nho Quế xanh ngọc chảy uốn lượn phía dưới. Đây là điểm thu hút phượt thủ và du khách yêu vẻ đẹp thiên nhiên hoang sơ.",
+      "danh_gia": "4",
+      "danh_gia_diem": 4,
+      "anh": "https://owa.bestprice.vn/images/destinations/uploads/deo-ma-pi-leng-6001155be6540.jpg",
+      "tu_khoa": "lịch sử, văn hóa, khám phá"
+    },
+    {
+      "stt": 273,
+      "ten_dia_diem": "Phố cổ Đồng Văn",
+      "vi_tri": "Hà Giang",
+      "tinh_truoc_sap_nhap_2025": "Hà Giang",
+      "mo_ta": "Phố cổ Đồng Văn (Hà Giang) lưu giữ nét kiến trúc cổ kính với những ngôi nhà tường đất, mái ngói âm dương. Phiên chợ cuối tuần nhộn nhịp là điểm nhấn văn hóa hấp dẫn.",
+      "danh_gia": "5",
+      "danh_gia_diem": 5,
+      "anh": "https://tuyengiao.hagiang.gov.vn/upload/64711/fck/leminhtien.btgtu/2022_06_16_23_23_014.png",
+      "tu_khoa": "địa danh nổi tiếng, biểu tượng"
+    },
+    {
+      "stt": 274,
+      "ten_dia_diem": "Hẻm Tu Sản",
+      "vi_tri": "Hà Giang",
+      "tinh_truoc_sap_nhap_2025": "Hà Giang",
+      "mo_ta": "Hẻm Tu Sản, nơi sâu nhất Đông Nam Á, nổi bật với vách đá cao 800m và dòng sông Nho Quế xanh biếc. Du khách có thể chèo thuyền khám phá khung cảnh kỳ vĩ này.",
+      "danh_gia": "4.5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://images.baodantoc.vn/uploads/2022/Th%C3%A1ng%201/Ng%C3%A0y%207/NG%C3%82N/Tu%20S%E1%BA%A3n/kham-pha-ve-dep-hem-tu-san-hem-vuc-sau-nhat-tai-dong-nam-a-o-ha-giang3-1639281377835787560145.jpg",
+      "tu_khoa": "thư giãn, yên bình, du lịch sinh thái"
+    },
+    {
+      "stt": 275,
+      "ten_dia_diem": "Dinh Vua Mèo",
+      "vi_tri": "Hà Giang",
+      "tinh_truoc_sap_nhap_2025": "Hà Giang",
+      "mo_ta": "Dinh Vua Mèo (Hà Giang) là dinh thự cổ của dòng họ Vương, với kiến trúc kết hợp độc đáo giữa Trung Hoa, Pháp và văn hóa dân tộc H'Mông, thu hút nhiều du khách tham quan.",
+      "danh_gia": "4.8",
+      "danh_gia_diem": 4.8,
+      "anh": "https://i2.ex-cdn.com/crystalbay.com/files/content/2024/09/25/dinh-thu-vua-meo-1-1430.jpg",
+      "tu_khoa": "bảo tồn, động vật, thực vật"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Hà Giang - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Hà Giang (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Hà Giang | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Hà Giang — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

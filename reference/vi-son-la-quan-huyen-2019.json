@@ -1,0 +1,186 @@
+{
+  "id": "vi-son-la-quan-huyen-2019",
+  "name": "Sơn La — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Sơn La — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 12 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Sơn La theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 11 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/SL.json). (12 district-level units of Sơn La under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "SL-01",
+      "name": "Bắc Yên",
+      "name_full": "Huyện Bắc Yên",
+      "slug": "bac-yen",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 16
+    },
+    {
+      "code": "SL-02",
+      "name": "Mai Sơn",
+      "name_full": "Huyện Mai Sơn",
+      "slug": "mai-son",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 22
+    },
+    {
+      "code": "SL-03",
+      "name": "Mộc Châu",
+      "name_full": "Huyện Mộc Châu",
+      "slug": "moc-chau",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 15
+    },
+    {
+      "code": "SL-04",
+      "name": "Mường La",
+      "name_full": "Huyện Mường La",
+      "slug": "muong-la",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 16
+    },
+    {
+      "code": "SL-05",
+      "name": "Phù Yên",
+      "name_full": "Huyện Phù Yên",
+      "slug": "phu-yen",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 27
+    },
+    {
+      "code": "SL-06",
+      "name": "Quỳnh Nhai",
+      "name_full": "Huyện Quỳnh Nhai",
+      "slug": "quynh-nhai",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 11
+    },
+    {
+      "code": "SL-07",
+      "name": "Sơn La",
+      "name_full": "Thành phố Sơn La",
+      "slug": "son-la",
+      "division_type": "Thành phố",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 12
+    },
+    {
+      "code": "SL-08",
+      "name": "Sông Mã",
+      "name_full": "Huyện Sông Mã",
+      "slug": "song-ma",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 19
+    },
+    {
+      "code": "SL-09",
+      "name": "Sốp Cộp",
+      "name_full": "Huyện Sốp Cộp",
+      "slug": "sop-cop",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 8
+    },
+    {
+      "code": "SL-10",
+      "name": "Thuận Châu",
+      "name_full": "Huyện Thuận Châu",
+      "slug": "thuan-chau",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 29
+    },
+    {
+      "code": "SL-11",
+      "name": "Vân Hồ",
+      "name_full": "Huyện Vân Hồ",
+      "slug": "van-ho",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 14
+    },
+    {
+      "code": "SL-12",
+      "name": "Yên Châu",
+      "name_full": "Huyện Yên Châu",
+      "slug": "yen-chau",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 15
+    }
+  ],
+  "meta": {
+    "title": "Sơn La — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 12 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Sơn La theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 11 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/SL.json). (12 district-level units of Sơn La under the pre-2025-merger 3-tier hierarchy.) Chứa 12 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Sơn La — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Sơn La — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 12 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 12 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

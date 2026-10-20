@@ -1,0 +1,172 @@
+{
+  "id": "vi-cong-vien",
+  "name": "Công viên ở Việt Nam",
+  "title": "Công viên ở Việt Nam",
+  "description": "Danh sách công viên ở việt nam (P31 = wd:Q22698) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-19. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi) kèm toạ độ WGS84 (P625). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikipedia tiếng Việt nếu có. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 8/8 toạ độ, 7/8 vi.wikipedia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "admin_area_vi",
+      "label": "Admin Area Vi",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q10752053",
+      "name_vi": "Công viên Lê Nin",
+      "name_en": "Lenin Park",
+      "latitude": 21.031685,
+      "longitude": 105.839415,
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%C3%B4ng_vi%C3%AAn_L%C3%AA-nin",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10752053"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q10752054",
+      "name_vi": "Công viên Lê Văn Tám",
+      "name_en": "Le Van Tam Park",
+      "latitude": 10.788613,
+      "longitude": 106.693715,
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Tân Định",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%C3%B4ng_vi%C3%AAn_L%C3%AA_V%C4%83n_T%C3%A1m",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10752054"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q10752055",
+      "name_vi": "Công viên Tao Đàn",
+      "name_en": "Tao Dan Park",
+      "latitude": 10.774722,
+      "longitude": 106.693056,
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%C3%B4ng_vi%C3%AAn_Tao_%C4%90%C3%A0n",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10752055"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q10752058",
+      "name_vi": "Công viên Thống Nhất",
+      "name_en": "Thống Nhất Park",
+      "latitude": 21.015762,
+      "longitude": 105.844818,
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%C3%B4ng_vi%C3%AAn_Th%E1%BB%91ng_Nh%E1%BA%A5t",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10752058"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q10752061",
+      "name_vi": "Công viên hoa Đà Lạt",
+      "name_en": "Đà Lạt flower park",
+      "latitude": 11.950375,
+      "longitude": 108.449714,
+      "admin_area_vi": "Đà Lạt",
+      "admin_area_en": "Đà Lạt",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_hoa_th%C3%A0nh_ph%E1%BB%91_%C4%90%C3%A0_L%E1%BA%A1t",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10752061"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q25418011",
+      "name_vi": "Hoa viên Chí Linh",
+      "name_en": "Chí Linh Park",
+      "latitude": 21.027476,
+      "longitude": 105.854363,
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_hoa_Ch%C3%AD_Linh",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25418011"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q16480647",
+      "name_vi": "Khu du lịch Văn Thánh",
+      "name_en": "Văn Thánh Park",
+      "latitude": 10.797544,
+      "longitude": 106.714638,
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Thạnh Mỹ Tây",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Khu_du_l%E1%BB%8Bch_V%C4%83n_Th%C3%A1nh",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16480647"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q4914339",
+      "name_vi": "Làng du lịch Bình Quới",
+      "name_en": "Binh Quoi Tourist Village",
+      "latitude": 10.833,
+      "longitude": 106.742,
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Bình Quới",
+      "wikipedia_vi": "",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4914339"
+    }
+  ],
+  "meta": {
+    "title": "Công viên ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách công viên ở việt nam (P31 = wd:Q22698) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-19. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi) kèm toạ độ WGS84 (P625). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikipedia tiếng Việt nếu có. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 8/8 toạ độ, 7/8 vi.wikipedia. Chứa 8 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Công viên ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Công viên ở Việt Nam — 8 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 8 bản ghi / 10 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

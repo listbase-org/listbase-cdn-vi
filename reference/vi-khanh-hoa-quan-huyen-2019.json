@@ -1,0 +1,156 @@
+{
+  "id": "vi-khanh-hoa-quan-huyen-2019",
+  "name": "Khánh Hòa — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Khánh Hòa — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 9 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Khánh Hòa theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 6 Huyện, 2 Thành phố, 1 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/KH.json). (9 district-level units of Khánh Hòa under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "KH-01",
+      "name": "Cam Lâm",
+      "name_full": "Huyện Cam Lâm",
+      "slug": "cam-lam",
+      "division_type": "Huyện",
+      "province_code": "KH",
+      "province_name": "Khánh Hòa",
+      "ward_count": 14
+    },
+    {
+      "code": "KH-02",
+      "name": "Cam Ranh",
+      "name_full": "Thành phố Cam Ranh",
+      "slug": "cam-ranh",
+      "division_type": "Thành phố",
+      "province_code": "KH",
+      "province_name": "Khánh Hòa",
+      "ward_count": 15
+    },
+    {
+      "code": "KH-03",
+      "name": "Diên Khánh",
+      "name_full": "Huyện Diên Khánh",
+      "slug": "dien-khanh",
+      "division_type": "Huyện",
+      "province_code": "KH",
+      "province_name": "Khánh Hòa",
+      "ward_count": 19
+    },
+    {
+      "code": "KH-04",
+      "name": "Khánh Sơn",
+      "name_full": "Huyện Khánh Sơn",
+      "slug": "khanh-son",
+      "division_type": "Huyện",
+      "province_code": "KH",
+      "province_name": "Khánh Hòa",
+      "ward_count": 8
+    },
+    {
+      "code": "KH-05",
+      "name": "Khánh Vĩnh",
+      "name_full": "Huyện Khánh Vĩnh",
+      "slug": "khanh-vinh",
+      "division_type": "Huyện",
+      "province_code": "KH",
+      "province_name": "Khánh Hòa",
+      "ward_count": 14
+    },
+    {
+      "code": "KH-06",
+      "name": "Nha Trang",
+      "name_full": "Thành phố Nha Trang",
+      "slug": "nha-trang",
+      "division_type": "Thành phố",
+      "province_code": "KH",
+      "province_name": "Khánh Hòa",
+      "ward_count": 27
+    },
+    {
+      "code": "KH-07",
+      "name": "Ninh Hòa",
+      "name_full": "Thị xã Ninh Hòa",
+      "slug": "ninh-hoa",
+      "division_type": "Thị xã",
+      "province_code": "KH",
+      "province_name": "Khánh Hòa",
+      "ward_count": 28
+    },
+    {
+      "code": "KH-08",
+      "name": "Trường Sa",
+      "name_full": "Huyện Trường Sa",
+      "slug": "truong-sa",
+      "division_type": "Huyện",
+      "province_code": "KH",
+      "province_name": "Khánh Hòa",
+      "ward_count": 3
+    },
+    {
+      "code": "KH-09",
+      "name": "Vạn Ninh",
+      "name_full": "Huyện Vạn Ninh",
+      "slug": "van-ninh",
+      "division_type": "Huyện",
+      "province_code": "KH",
+      "province_name": "Khánh Hòa",
+      "ward_count": 13
+    }
+  ],
+  "meta": {
+    "title": "Khánh Hòa — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 9 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Khánh Hòa theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 6 Huyện, 2 Thành phố, 1 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/KH.json). (9 district-level units of Khánh Hòa under the pre-2025-merger 3-tier hierarchy.) Chứa 9 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Khánh Hòa — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Khánh Hòa — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 9 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 9 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

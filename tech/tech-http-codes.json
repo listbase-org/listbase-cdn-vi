@@ -1,0 +1,428 @@
+{
+  "id": "tech-http-codes",
+  "name": "HTTP Status Codes Dataset",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Status Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Status Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": 100,
+      "name": "Tiếp tục",
+      "category": "Thông tin",
+      "description": "Máy chủ đã nhận các tiêu đề yêu cầu và máy khách nên tiếp tục gửi phần thân yêu cầu."
+    },
+    {
+      "code": 101,
+      "name": "Chuyển đổi giao thức",
+      "category": "Thông tin",
+      "description": "Người yêu cầu đã yêu cầu máy chủ chuyển đổi giao thức và máy chủ đã đồng ý."
+    },
+    {
+      "code": 102,
+      "name": "Đang xử lý",
+      "category": "Thông tin",
+      "description": "Máy chủ đã nhận và đang xử lý yêu cầu, nhưng chưa có phản hồi nào."
+    },
+    {
+      "code": 103,
+      "name": "Gợi ý sớm",
+      "category": "Thông tin",
+      "description": "Dùng để trả về một số tiêu đề phản hồi trước thông báo HTTP cuối cùng."
+    },
+    {
+      "code": 200,
+      "name": "OK",
+      "category": "Thành công",
+      "description": "Yêu cầu đã thành công. Ý nghĩa phụ thuộc vào phương thức HTTP được sử dụng."
+    },
+    {
+      "code": 201,
+      "name": "Đã tạo",
+      "category": "Thành công",
+      "description": "Yêu cầu đã thành công và một tài nguyên mới đã được tạo ra."
+    },
+    {
+      "code": 202,
+      "name": "Đã chấp nhận",
+      "category": "Thành công",
+      "description": "Yêu cầu đã được nhận nhưng chưa được xử lý."
+    },
+    {
+      "code": 203,
+      "name": "Thông tin không chính thống",
+      "category": "Thành công",
+      "description": "Siêu dữ liệu trả về không hoàn toàn giống với dữ liệu có sẵn từ máy chủ gốc."
+    },
+    {
+      "code": 204,
+      "name": "Không có nội dung",
+      "category": "Thành công",
+      "description": "Không có nội dung để gửi cho yêu cầu này, nhưng các tiêu đề có thể hữu ích."
+    },
+    {
+      "code": 205,
+      "name": "Đặt lại nội dung",
+      "category": "Thành công",
+      "description": "Yêu cầu tác nhân người dùng đặt lại tài liệu đã gửi yêu cầu này."
+    },
+    {
+      "code": 206,
+      "name": "Nội dung một phần",
+      "category": "Thành công",
+      "description": "Được sử dụng khi tiêu đề Range được gửi từ máy khách để yêu cầu chỉ một phần của tài nguyên."
+    },
+    {
+      "code": 207,
+      "name": "Đa trạng thái",
+      "category": "Thành công",
+      "description": "Truyền đạt thông tin về nhiều tài nguyên, cho các tình huống mà nhiều mã trạng thái có thể phù hợp."
+    },
+    {
+      "code": 208,
+      "name": "Đã báo cáo",
+      "category": "Thành công",
+      "description": "Được sử dụng bên trong phản hồi DAV: propstat để tránh liệt kê lặp đi lặp lại các thành viên nội bộ."
+    },
+    {
+      "code": 226,
+      "name": "Đã sử dụng IM",
+      "category": "Thành công",
+      "description": "Máy chủ đã hoàn thành yêu cầu GET và phản hồi là biểu diễn của kết quả."
+    },
+    {
+      "code": 300,
+      "name": "Nhiều lựa chọn",
+      "category": "Chuyển hướng",
+      "description": "Yêu cầu có nhiều hơn một phản hồi có thể có. Tác nhân người dùng nên chọn một trong số đó."
+    },
+    {
+      "code": 301,
+      "name": "Đã di chuyển vĩnh viễn",
+      "category": "Chuyển hướng",
+      "description": "URL của tài nguyên được yêu cầu đã được thay đổi vĩnh viễn. URL mới được cung cấp trong phản hồi."
+    },
+    {
+      "code": 302,
+      "name": "Đã tìm thấy",
+      "category": "Chuyển hướng",
+      "description": "URI của tài nguyên được yêu cầu đã được thay đổi tạm thời. Các thay đổi tiếp theo có thể được thực hiện trong tương lai."
+    },
+    {
+      "code": 303,
+      "name": "Xem khác",
+      "category": "Chuyển hướng",
+      "description": "Máy chủ đã gửi phản hồi này để chỉ dẫn máy khách lấy tài nguyên được yêu cầu tại một URI khác bằng yêu cầu GET."
+    },
+    {
+      "code": 304,
+      "name": "Không sửa đổi",
+      "category": "Chuyển hướng",
+      "description": "Được sử dụng cho mục đích lưu vào bộ nhớ cache. Nó thông báo cho máy khách rằng phản hồi chưa được sửa đổi."
+    },
+    {
+      "code": 305,
+      "name": "Sử dụng Proxy",
+      "category": "Chuyển hướng",
+      "description": "Đã ngừng sử dụng. Từng được định nghĩa để chỉ ra rằng một phản hồi được yêu cầu phải được truy cập thông qua một proxy."
+    },
+    {
+      "code": 307,
+      "name": "Chuyển hướng tạm thời",
+      "category": "Chuyển hướng",
+      "description": "Máy chủ gửi phản hồi này để hướng dẫn máy khách lấy tài nguyên được yêu cầu tại một URI khác với cùng phương thức."
+    },
+    {
+      "code": 308,
+      "name": "Chuyển hướng vĩnh viễn",
+      "category": "Chuyển hướng",
+      "description": "Tài nguyên hiện đã được đặt vĩnh viễn tại một URI khác, được chỉ định bởi tiêu đề Location."
+    },
+    {
+      "code": 400,
+      "name": "Yêu cầu xấu",
+      "category": "Lỗi máy khách",
+      "description": "Máy chủ không thể hoặc sẽ không xử lý yêu cầu do điều gì đó được cho là lỗi của máy khách."
+    },
+    {
+      "code": 401,
+      "name": "Không được ủy quyền",
+      "category": "Lỗi máy khách",
+      "description": "Máy khách phải tự xác thực để nhận được phản hồi được yêu cầu."
+    },
+    {
+      "code": 402,
+      "name": "Yêu cầu thanh toán",
+      "category": "Lỗi máy khách",
+      "description": "Dành riêng cho việc sử dụng trong tương lai. Mục đích ban đầu là dành cho các hệ thống thanh toán kỹ thuật số."
+    },
+    {
+      "code": 403,
+      "name": "Bị cấm",
+      "category": "Lỗi máy khách",
+      "description": "Máy khách không có quyền truy cập vào nội dung; máy chủ từ chối cung cấp tài nguyên được yêu cầu."
+    },
+    {
+      "code": 404,
+      "name": "Không tìm thấy",
+      "category": "Lỗi máy khách",
+      "description": "Máy chủ không thể tìm thấy tài nguyên được yêu cầu. Điều này cũng có thể có nghĩa là điểm cuối hợp lệ nhưng tài nguyên không tồn tại."
+    },
+    {
+      "code": 405,
+      "name": "Phương thức không được phép",
+      "category": "Lỗi máy khách",
+      "description": "Phương thức yêu cầu được máy chủ biết nhưng không được tài nguyên mục tiêu hỗ trợ."
+    },
+    {
+      "code": 406,
+      "name": "Không chấp nhận được",
+      "category": "Lỗi máy khách",
+      "description": "Máy chủ không thể tạo phản hồi phù hợp với danh sách các giá trị chấp nhận được được định nghĩa trong các tiêu đề yêu cầu."
+    },
+    {
+      "code": 407,
+      "name": "Yêu cầu xác thực Proxy",
+      "category": "Lỗi máy khách",
+      "description": "Tương tự 401 Không được ủy quyền nhưng cần xác thực phải được thực hiện bởi một proxy."
+    },
+    {
+      "code": 408,
+      "name": "Hết thời gian yêu cầu",
+      "category": "Lỗi máy khách",
+      "description": "Máy chủ muốn đóng kết nối không sử dụng này."
+    },
+    {
+      "code": 409,
+      "name": "Xung đột",
+      "category": "Lỗi máy khách",
+      "description": "Phản hồi này được gửi khi một yêu cầu xung đột với trạng thái hiện tại của máy chủ."
+    },
+    {
+      "code": 410,
+      "name": "Đã biến mất",
+      "category": "Lỗi máy khách",
+      "description": "Nội dung được yêu cầu đã bị xóa vĩnh viễn khỏi máy chủ, không có địa chỉ chuyển tiếp."
+    },
+    {
+      "code": 411,
+      "name": "Yêu cầu độ dài",
+      "category": "Lỗi máy khách",
+      "description": "Máy chủ từ chối yêu cầu vì trường tiêu đề Content-Length không được định nghĩa và máy chủ yêu cầu nó."
+    },
+    {
+      "code": 412,
+      "name": "Điều kiện tiên quyết không thành công",
+      "category": "Lỗi máy khách",
+      "description": "Máy khách đã chỉ ra các điều kiện tiên quyết trong tiêu đề của nó mà máy chủ không đáp ứng."
+    },
+    {
+      "code": 413,
+      "name": "Tải trọng quá lớn",
+      "category": "Lỗi máy khách",
+      "description": "Thực thể yêu cầu lớn hơn giới hạn được xác định bởi máy chủ."
+    },
+    {
+      "code": 414,
+      "name": "URI quá dài",
+      "category": "Lỗi máy khách",
+      "description": "URI được máy khách yêu cầu dài hơn mức máy chủ sẵn sàng giải thích."
+    },
+    {
+      "code": 415,
+      "name": "Kiểu phương tiện không được hỗ trợ",
+      "category": "Lỗi máy khách",
+      "description": "Định dạng phương tiện của dữ liệu được yêu cầu không được máy chủ hỗ trợ."
+    },
+    {
+      "code": 416,
+      "name": "Phạm vi không thỏa mãn",
+      "category": "Lỗi máy khách",
+      "description": "Phạm vi được chỉ định bởi trường tiêu đề Range trong yêu cầu không thể được thực hiện."
+    },
+    {
+      "code": 417,
+      "name": "Kỳ vọng không thành công",
+      "category": "Lỗi máy khách",
+      "description": "Kỳ vọng được chỉ ra bởi trường tiêu đề yêu cầu Expect không thể được đáp ứng bởi máy chủ."
+    },
+    {
+      "code": 418,
+      "name": "Tôi là ấm trà",
+      "category": "Lỗi máy khách",
+      "description": "Máy chủ từ chối việc cố gắng pha cà phê bằng ấm trà."
+    },
+    {
+      "code": 421,
+      "name": "Yêu cầu sai hướng",
+      "category": "Lỗi máy khách",
+      "description": "Yêu cầu được gửi đến một máy chủ không thể tạo ra phản hồi."
+    },
+    {
+      "code": 422,
+      "name": "Thực thể không thể xử lý",
+      "category": "Lỗi máy khách",
+      "description": "Yêu cầu được định dạng tốt nhưng không thể được thực hiện do lỗi ngữ nghĩa."
+    },
+    {
+      "code": 423,
+      "name": "Bị khóa",
+      "category": "Lỗi máy khách",
+      "description": "Tài nguyên đang được truy cập đã bị khóa."
+    },
+    {
+      "code": 424,
+      "name": "Phụ thuộc thất bại",
+      "category": "Lỗi máy khách",
+      "description": "Yêu cầu không thành công do yêu cầu trước đó không thành công."
+    },
+    {
+      "code": 425,
+      "name": "Quá sớm",
+      "category": "Lỗi máy khách",
+      "description": "Cho biết rằng máy chủ không muốn mạo hiểm xử lý một yêu cầu có thể được phát lại."
+    },
+    {
+      "code": 426,
+      "name": "Yêu cầu nâng cấp",
+      "category": "Lỗi máy khách",
+      "description": "Máy chủ từ chối thực hiện yêu cầu bằng giao thức hiện tại nhưng có thể thực hiện sau khi máy khách nâng cấp."
+    },
+    {
+      "code": 428,
+      "name": "Yêu cầu điều kiện tiên quyết",
+      "category": "Lỗi máy khách",
+      "description": "Máy chủ gốc yêu cầu yêu cầu phải có điều kiện."
+    },
+    {
+      "code": 429,
+      "name": "Quá nhiều yêu cầu",
+      "category": "Lỗi máy khách",
+      "description": "Người dùng đã gửi quá nhiều yêu cầu trong một khoảng thời gian nhất định (giới hạn tốc độ)."
+    },
+    {
+      "code": 431,
+      "name": "Trường tiêu đề yêu cầu quá lớn",
+      "category": "Lỗi máy khách",
+      "description": "Máy chủ không muốn xử lý yêu cầu vì các trường tiêu đề quá lớn."
+    },
+    {
+      "code": 451,
+      "name": "Không khả dụng vì lý do pháp lý",
+      "category": "Lỗi máy khách",
+      "description": "Tác nhân người dùng đã yêu cầu một tài nguyên không thể cung cấp hợp pháp."
+    },
+    {
+      "code": 500,
+      "name": "Lỗi máy chủ nội bộ",
+      "category": "Lỗi máy chủ",
+      "description": "Máy chủ đã gặp phải một tình huống mà nó không biết cách xử lý."
+    },
+    {
+      "code": 501,
+      "name": "Chưa được triển khai",
+      "category": "Lỗi máy chủ",
+      "description": "Phương thức yêu cầu không được máy chủ hỗ trợ và không thể xử lý."
+    },
+    {
+      "code": 502,
+      "name": "Cổng không hợp lệ",
+      "category": "Lỗi máy chủ",
+      "description": "Máy chủ, khi hoạt động như một cổng, đã nhận được phản hồi không hợp lệ cần thiết để xử lý yêu cầu."
+    },
+    {
+      "code": 503,
+      "name": "Dịch vụ không khả dụng",
+      "category": "Lỗi máy chủ",
+      "description": "Máy chủ không sẵn sàng xử lý yêu cầu. Các nguyên nhân phổ biến là bảo trì hoặc quá tải."
+    },
+    {
+      "code": 504,
+      "name": "Hết thời gian chờ cổng",
+      "category": "Lỗi máy chủ",
+      "description": "Máy chủ đang hoạt động như một cổng và không thể nhận được phản hồi kịp thời."
+    },
+    {
+      "code": 505,
+      "name": "Phiên bản HTTP không được hỗ trợ",
+      "category": "Lỗi máy chủ",
+      "description": "Phiên bản HTTP được sử dụng trong yêu cầu không được máy chủ hỗ trợ."
+    },
+    {
+      "code": 506,
+      "name": "Biến thể cũng đàm phán",
+      "category": "Lỗi máy chủ",
+      "description": "Máy chủ có lỗi cấu hình nội bộ."
+    },
+    {
+      "code": 507,
+      "name": "Không đủ bộ nhớ",
+      "category": "Lỗi máy chủ",
+      "description": "Máy chủ không thể lưu trữ bản trình bày cần thiết để hoàn thành yêu cầu."
+    },
+    {
+      "code": 508,
+      "name": "Phát hiện vòng lặp",
+      "category": "Lỗi máy chủ",
+      "description": "Máy chủ đã phát hiện một vòng lặp vô hạn trong khi xử lý yêu cầu."
+    },
+    {
+      "code": 510,
+      "name": "Chưa được mở rộng",
+      "category": "Lỗi máy chủ",
+      "description": "Yêu cầu cần thêm các phần mở rộng để máy chủ có thể hoàn thành."
+    },
+    {
+      "code": 511,
+      "name": "Yêu cầu xác thực mạng",
+      "category": "Lỗi máy chủ",
+      "description": "Cho biết rằng máy khách cần xác thực để có quyền truy cập mạng."
+    }
+  ],
+  "meta": {
+    "seo_title": "HTTP Status Codes - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download HTTP Status Codes with 62 records. Available in Excel, CSV, and PDF formats.",
+    "title": "HTTP Status Codes Dataset",
+    "description": "HTTP Status Codes containing 62 records.",
+    "key_takeaways": [
+      "Access 62 records in multiple formats.",
+      "Download data in Excel, CSV, or PDF format.",
+      "Use ISO codes for easy integration with other systems."
+    ],
+    "keywords": [
+      "http status codes excel",
+      "http status codes csv download",
+      "http status codes data",
+      "http status codes list"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your database or use it with Python/pandas for data analysis.",
+      "Open the **Excel** file to filter, sort, and create Pivot Tables for quick insights.",
+      "Print the **PDF** version for offline reference or classroom handouts.",
+      "Use the data to build applications, dashboards, or educational resources."
+    ]
+  },
+  "record_count": 62,
+  "title": "HTTP Status Codes Dataset"
+}

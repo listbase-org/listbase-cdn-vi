@@ -1,0 +1,356 @@
+{
+  "id": "vi-san-van-dong",
+  "name": "Sân vận động ở Việt Nam",
+  "title": "Sân vận động ở Việt Nam",
+  "description": "Danh sách các sân vận động nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q483110 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Đây là tập dữ liệu sân vận động đầu tiên trong nhóm tiếng Việt.",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "located_in_vi",
+      "label": "Located In Vi",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q7023325",
+      "name_vi": "Sân vận động 19 tháng 8",
+      "name_en": "Nha Trang Stadium",
+      "latitude": 12.250427,
+      "longitude": 109.192944,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_19_th%C3%A1ng_8"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q5034301",
+      "name_vi": "Sân vận động Cao Lãnh",
+      "name_en": "Cao Lanh Stadium",
+      "latitude": 10.464722,
+      "longitude": 105.6425,
+      "located_in_vi": "Cao Lãnh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Cao_L%C3%A3nh"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q5095075",
+      "name_vi": "Sân vận động Chi Lăng",
+      "name_en": "Chi Lang Stadium",
+      "latitude": 16.069609,
+      "longitude": 108.216475,
+      "located_in_vi": "Đà Nẵng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Chi_L%C4%83ng_(c%C5%A9)"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q10822664",
+      "name_vi": "Sân vận động Cần Thơ",
+      "name_en": "Cần Thơ Stadium",
+      "latitude": 10.049,
+      "longitude": 105.789,
+      "located_in_vi": "Cần Thơ",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_C%E1%BA%A7n_Th%C6%A1"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q19457544",
+      "name_vi": "Sân vận động Cẩm Phả",
+      "name_en": "Cẩm Phả Stadium",
+      "latitude": 21.006559,
+      "longitude": 107.275653,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_C%E1%BA%A9m_Ph%E1%BA%A3"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q5574748",
+      "name_vi": "Sân vận động Gò Đậu",
+      "name_en": "Go Dau Stadium",
+      "latitude": 10.970043,
+      "longitude": 106.672,
+      "located_in_vi": "Thủ Dầu Một",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_G%C3%B2_%C4%90%E1%BA%ADu"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q135438798",
+      "name_vi": "Sân vận động Hoài Đức",
+      "name_en": "Sân vận động Hoài Đức",
+      "latitude": 21.067222,
+      "longitude": 105.709444,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Ho%C3%A0i_%C4%90%E1%BB%A9c"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q113449918",
+      "name_vi": "Sân vận động Hà Tĩnh",
+      "name_en": "Hà Tĩnh Stadium",
+      "latitude": 18.333333,
+      "longitude": 105.9075,
+      "located_in_vi": "Hà Tĩnh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_H%C3%A0_T%C4%A9nh"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q1817188",
+      "name_vi": "Sân vận động Hàng Đẫy",
+      "name_en": "Hàng Đẫy Stadium",
+      "latitude": 21.029722,
+      "longitude": 105.833056,
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_H%C3%A0ng_%C4%90%E1%BA%ABy"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q28197235",
+      "name_vi": "Sân vận động Hòa Xuân",
+      "name_en": "Hòa Xuân Stadium",
+      "latitude": 15.999072,
+      "longitude": 108.222817,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Chi_L%C4%83ng_(m%E1%BB%9Bi)"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q5930497",
+      "name_vi": "Sân vận động Long An",
+      "name_en": "Long An Stadium",
+      "latitude": 10.536111,
+      "longitude": 106.408333,
+      "located_in_vi": "Tân An",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Long_An"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q3277766",
+      "name_vi": "Sân vận động Lạch Tray",
+      "name_en": "Lạch Tray Stadium",
+      "latitude": 20.851779,
+      "longitude": 106.688743,
+      "located_in_vi": "Hải Phòng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_L%E1%BA%A1ch_Tray"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q10822667",
+      "name_vi": "Sân vận động Ninh Bình",
+      "name_en": "Ninh Binh Stadium",
+      "latitude": 20.258528,
+      "longitude": 105.969056,
+      "located_in_vi": "Hoa Lư",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Ninh_B%C3%ACnh"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q124434928",
+      "name_vi": "Sân vận động Ninh Thuận",
+      "name_en": "Ninh Thuan Stadium",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Ninh_Thu%E1%BA%ADn"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q135438868",
+      "name_vi": "Sân vận động Phan Thiết",
+      "name_en": "Sân vận động Phan Thiết",
+      "latitude": 10.933333,
+      "longitude": 108.093889,
+      "located_in_vi": "Bình Thuận",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Phan_Thi%E1%BA%BFt"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q7204458",
+      "name_vi": "Sân vận động Pleiku",
+      "name_en": "Pleiku Stadium",
+      "latitude": 13.979167,
+      "longitude": 108.005,
+      "located_in_vi": "Pleiku",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Pleiku"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q7273047",
+      "name_vi": "Sân vận động Qui Nhơn",
+      "name_en": "Quy Nhơn Stadium",
+      "latitude": 13.774444,
+      "longitude": 109.228611,
+      "located_in_vi": "Quy Nhơn",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Quy_Nh%C6%A1n"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q2770718",
+      "name_vi": "Sân vận động Quân khu 7",
+      "name_en": "Quan khu 7 Stadium",
+      "latitude": 10.80194,
+      "longitude": 106.66667,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Qu%C3%A2n_khu_7"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q10822668",
+      "name_vi": "Sân vận động Rạch Giá",
+      "name_en": "Rach Gia Stadium",
+      "latitude": 9.963333,
+      "longitude": 105.118056,
+      "located_in_vi": "Rạch Giá",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_R%E1%BA%A1ch_Gi%C3%A1"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q19578021",
+      "name_vi": "Sân vận động Tam Kỳ",
+      "name_en": "Tam Kỳ Stadium",
+      "latitude": 15.56,
+      "longitude": 108.506667,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Tam_K%E1%BB%B3"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q7710351",
+      "name_vi": "Sân vận động Thanh Hóa",
+      "name_en": "Thanh Hoa Stadium",
+      "latitude": 19.799141,
+      "longitude": 105.772746,
+      "located_in_vi": "Thanh Hóa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Thanh_H%C3%B3a"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q4115591",
+      "name_vi": "Sân vận động Thiên Trường",
+      "name_en": "Thien Truong Stadium",
+      "latitude": 20.4358,
+      "longitude": 106.18,
+      "located_in_vi": "Nam Định",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Thi%C3%AAn_Tr%C6%B0%E1%BB%9Dng"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q2051647",
+      "name_vi": "Sân vận động Thống Nhất",
+      "name_en": "Thong Nhat Stadium",
+      "latitude": 10.760703,
+      "longitude": 106.663331,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Th%E1%BB%91ng_Nh%E1%BA%A5t"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q10822672",
+      "name_vi": "Sân vận động Tiền Giang",
+      "name_en": "Tien Giang Stadium",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Ti%E1%BB%81n_Giang"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q5929707",
+      "name_vi": "Sân vận động Tự Do",
+      "name_en": "Independence Stadium",
+      "latitude": 16.467275,
+      "longitude": 107.597581,
+      "located_in_vi": "Huế",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_T%E1%BB%B1_Do"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q3277621",
+      "name_vi": "Sân vận động Vinh",
+      "name_en": "Vinh Stadium",
+      "latitude": 18.669015,
+      "longitude": 105.669508,
+      "located_in_vi": "Vinh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Vinh"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q109436207",
+      "name_vi": "Sân vận động Việt Trì",
+      "name_en": "Việt Trì Stadium",
+      "latitude": 21.305278,
+      "longitude": 105.413056,
+      "located_in_vi": "Việt Trì",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Vi%E1%BB%87t_Tr%C3%AC"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q1150956",
+      "name_vi": "Sân vận động quốc gia Mỹ Đình",
+      "name_en": "My Dinh National Stadium",
+      "latitude": 21.020556,
+      "longitude": 105.763806,
+      "located_in_vi": "Từ Liêm",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_Qu%E1%BB%91c_gia_M%E1%BB%B9_%C4%90%C3%ACnh"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q2524171",
+      "name_vi": "Sân vận động Đồng Nai",
+      "name_en": "Biên Hòa Stadium",
+      "latitude": 10.96139,
+      "longitude": 106.8625,
+      "located_in_vi": "Biên Hòa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C3%A2n_v%E1%BA%ADn_%C4%91%E1%BB%99ng_%C4%90%E1%BB%93ng_Nai"
+    }
+  ],
+  "meta": {
+    "title": "Sân vận động ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách các sân vận động nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q483110 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Đây là tập dữ liệu sân vận động đầu tiên trong nhóm tiếng Việt. Chứa 29 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Sân vận động ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Sân vận động ở Việt Nam — 29 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 29 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "vi-can-tho-quan-huyen-2019",
+  "name": "Cần Thơ — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Cần Thơ — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 9 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Cần Thơ theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 5 Quận, 4 Huyện. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/CT.json). (9 district-level units of Cần Thơ under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "CT-01",
+      "name": " Thới Lai",
+      "name_full": "Huyện  Thới Lai",
+      "slug": "thoi-lai",
+      "division_type": "Huyện",
+      "province_code": "CT",
+      "province_name": "Cần Thơ",
+      "ward_count": 13
+    },
+    {
+      "code": "CT-02",
+      "name": "Bình Thủy",
+      "name_full": "Quận Bình Thủy",
+      "slug": "binh-thuy",
+      "division_type": "Quận",
+      "province_code": "CT",
+      "province_name": "Cần Thơ",
+      "ward_count": 10
+    },
+    {
+      "code": "CT-03",
+      "name": "Cái Răng",
+      "name_full": "Quận Cái Răng",
+      "slug": "cai-rang",
+      "division_type": "Quận",
+      "province_code": "CT",
+      "province_name": "Cần Thơ",
+      "ward_count": 8
+    },
+    {
+      "code": "CT-04",
+      "name": "Cờ Đỏ",
+      "name_full": "Huyện Cờ Đỏ",
+      "slug": "co-do",
+      "division_type": "Huyện",
+      "province_code": "CT",
+      "province_name": "Cần Thơ",
+      "ward_count": 10
+    },
+    {
+      "code": "CT-05",
+      "name": "Ninh Kiều",
+      "name_full": "Quận Ninh Kiều",
+      "slug": "ninh-kieu",
+      "division_type": "Quận",
+      "province_code": "CT",
+      "province_name": "Cần Thơ",
+      "ward_count": 14
+    },
+    {
+      "code": "CT-06",
+      "name": "Ô Môn",
+      "name_full": "Quận Ô Môn",
+      "slug": "o-mon",
+      "division_type": "Quận",
+      "province_code": "CT",
+      "province_name": "Cần Thơ",
+      "ward_count": 7
+    },
+    {
+      "code": "CT-07",
+      "name": "Phong Điền",
+      "name_full": "Huyện Phong Điền",
+      "slug": "phong-dien",
+      "division_type": "Huyện",
+      "province_code": "CT",
+      "province_name": "Cần Thơ",
+      "ward_count": 7
+    },
+    {
+      "code": "CT-08",
+      "name": "Thốt Nốt",
+      "name_full": "Quận Thốt Nốt",
+      "slug": "thot-not",
+      "division_type": "Quận",
+      "province_code": "CT",
+      "province_name": "Cần Thơ",
+      "ward_count": 10
+    },
+    {
+      "code": "CT-09",
+      "name": "Vĩnh Thạnh",
+      "name_full": "Huyện Vĩnh Thạnh",
+      "slug": "vinh-thanh",
+      "division_type": "Huyện",
+      "province_code": "CT",
+      "province_name": "Cần Thơ",
+      "ward_count": 11
+    }
+  ],
+  "meta": {
+    "title": "Cần Thơ — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 9 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Cần Thơ theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 5 Quận, 4 Huyện. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/CT.json). (9 district-level units of Cần Thơ under the pre-2025-merger 3-tier hierarchy.) Chứa 9 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Cần Thơ — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Cần Thơ — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 9 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 9 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

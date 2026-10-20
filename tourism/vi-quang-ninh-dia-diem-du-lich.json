@@ -1,0 +1,126 @@
+{
+  "id": "vi-quang-ninh-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Quảng Ninh",
+  "title": "Địa điểm du lịch Quảng Ninh",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Quảng Ninh (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 86,
+      "ten_dia_diem": "Vịnh Hạ Long",
+      "vi_tri": "Quảng Ninh",
+      "tinh_truoc_sap_nhap_2025": "Quảng Ninh",
+      "mo_ta": "Là một trong những di sản thiên nhiên thế giới được UNESCO công nhận. Với diện tích 1553km2, gần 2000 hòn đảo lớn nhỏ, \nvịnh Hạ Long được thiên nhiên ưu ái có hệ thống hang động và đảo đá vừa đa dạng lại tuyệt đẹp.",
+      "danh_gia": "4.8/5",
+      "danh_gia_diem": 4.8,
+      "anh": "http://surl.li/oadeki",
+      "tu_khoa": "UNESCO, đảo, hang động, đảo đá"
+    },
+    {
+      "stt": 87,
+      "ten_dia_diem": "Biển Bãi Cháy",
+      "vi_tri": "Quảng Ninh",
+      "tinh_truoc_sap_nhap_2025": "Quảng Ninh",
+      "mo_ta": "Bãi Cháy luôn thu hút rất nhiều du khách đến tham quan trải nghiệm và tắm biển. Bãi biển cùng đã có thêm những hoạt động thể thao trên biển như cano, dù bay hay nhà phao để du khách có thể tận hưởng những dịch vụ cao cấp hơn.",
+      "danh_gia": "3.9/5",
+      "danh_gia_diem": 3.9,
+      "anh": "http://surl.li/saniob",
+      "tu_khoa": "Bãi biển, tắm biển, dù bay, nhà phao"
+    },
+    {
+      "stt": 88,
+      "ten_dia_diem": "Công viên Hạ Long",
+      "vi_tri": "Quảng Ninh",
+      "tinh_truoc_sap_nhap_2025": "Quảng Ninh",
+      "mo_ta": "Du lịch Hạ Long thì chắc chắn không nên bỏ qua Sun World Halong Park - khu phức hợp giải trí nổi tiếng dành cho mọi lứa tuổi. Nếu bạn đã từng đến VinWonders thì công viên Hạ Long cũng là một thiên đường tương tự như vậy, nhưng sẽ náo nhiệt hơn nhiều nhé.",
+      "danh_gia": "4.4/5",
+      "danh_gia_diem": 4.4,
+      "anh": "http://surl.li/kdadyl",
+      "tu_khoa": "công viên, náo nhiệt, giải trí"
+    },
+    {
+      "stt": 89,
+      "ten_dia_diem": "Làng chài Cửa Vạn",
+      "vi_tri": "Quảng Ninh",
+      "tinh_truoc_sap_nhap_2025": "Quảng Ninh",
+      "mo_ta": "Không chỉ được tận hưởng không gian yên tĩnh, thanh bình nơi đây, du khách còn có thêm những hiểu biết về đời sống văn hóa, thường nhật của các ngư dân. Ngư dân ở đây hết sức thân thiện và mến khách. Hành khách có thể chèo thuyền thúng, cắt cá, câu mực… để hiểu hơn cuộc sống dân chài.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "http://surl.li/mxcags",
+      "tu_khoa": "yên tĩnh, thanh bình, đời sống, văn hóa, ngư dân, thân thiện, mến khách, chèo thuyền, cắt cá, câu mực"
+    },
+    {
+      "stt": 90,
+      "ten_dia_diem": "Động Thiên Cung",
+      "vi_tri": "Quang Ninh",
+      "tinh_truoc_sap_nhap_2025": "Quảng Ninh",
+      "mo_ta": "Với cấu trúc nhiều tầng, nhiều lớp phức tạp, các khối nhũ đá ở đây có nhiều hình dáng kỳ lạ. Hang động này đã được đầu tư\n hệ thống chiếu sáng đầy đủ. Hình ảnh chim muông, hoa lá, hình ảnh sinh hoạt đời thường của con người được chạm khắc bên trong động. Nhiều dấu tích khảo cổ đã được tìm thấy chứng minh cho những giá trị lịch sử quan trọng qua các thời kỳ.",
+      "danh_gia": "4.4/5",
+      "danh_gia_diem": 4.4,
+      "anh": "http://surl.li/pzwmqk",
+      "tu_khoa": "nhũ đá, chạm khắc, dấu tích, khảo cỗ, lịch sử"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Quảng Ninh - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Quảng Ninh (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Quảng Ninh | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Quảng Ninh — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

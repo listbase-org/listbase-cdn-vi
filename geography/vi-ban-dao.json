@@ -1,0 +1,97 @@
+{
+  "id": "vi-ban-dao",
+  "name": "Bán đảo ở Việt Nam",
+  "title": "Bán đảo ở Việt Nam",
+  "description": "Danh sách các bán đảo nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q34763 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Để bảo đảm các tập dữ liệu rời nhau, đã loại các QID đã có trong tập vi-mui-dat (mũi đất). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu bán đảo đầu tiên trong nhóm tiếng Việt.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q32173893",
+      "name_vi": "Bán đảo Phương Mai",
+      "name_en": "Phuong Mai peninsula",
+      "latitude": 13.883333,
+      "longitude": 109.266667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%C3%A1n_%C4%91%E1%BA%A3o_Ph%C6%B0%C6%A1ng_Mai"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q43467",
+      "name_vi": "bán đảo Đông Dương",
+      "name_en": "Mainland Southeast Asia",
+      "latitude": 16,
+      "longitude": 102,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%C3%A1n_%C4%91%E1%BA%A3o_%C4%90%C3%B4ng_D%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q10824995",
+      "name_vi": "Bình Quới – Thanh Đa",
+      "name_en": "Bình Quới – Thanh Đa",
+      "latitude": 10.825196,
+      "longitude": 106.741182,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%C3%ACnh_Qu%E1%BB%9Bi_%E2%80%93_Thanh_%C4%90a"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q7560606",
+      "name_vi": "Núi Sơn Trà",
+      "name_en": "Sơn Trà Mountain",
+      "latitude": 16.1197,
+      "longitude": 108.2868,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/S%C6%A1n_Tr%C3%A0"
+    }
+  ],
+  "meta": {
+    "title": "Bán đảo ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách các bán đảo nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q34763 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Để bảo đảm các tập dữ liệu rời nhau, đã loại các QID đã có trong tập vi-mui-dat (mũi đất). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu bán đảo đầu tiên trong nhóm tiếng Việt. Chứa 4 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Bán đảo ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Bán đảo ở Việt Nam — 4 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 4 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

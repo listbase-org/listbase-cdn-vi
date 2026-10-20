@@ -1,0 +1,492 @@
+{
+  "id": "vi-sap-nhap-tinh-tms-2025",
+  "name": "Vi Sap Nhap Tinh Tms 2025",
+  "title": "Vi Sap Nhap Tinh Tms 2025",
+  "description": "Ánh xạ 63 mã tỉnh TMS trước sáp nhập 7/2025 sang 34 tỉnh thành mới (mã BNV, mã TMS, tên tỉnh mới), kèm số phường xã thuộc mỗi mã cũ",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "ma_tinh_cu_tms",
+      "label": "Ma Tinh Cu Tms",
+      "type": "number"
+    },
+    {
+      "key": "ma_tinh_moi_bnv",
+      "label": "Ma Tinh Moi Bnv",
+      "type": "number"
+    },
+    {
+      "key": "ma_tinh_moi_tms",
+      "label": "Ma Tinh Moi Tms",
+      "type": "number"
+    },
+    {
+      "key": "ten_tinh_moi",
+      "label": "Ten Tinh Moi",
+      "type": "string"
+    },
+    {
+      "key": "so_phuong_xa",
+      "label": "So Phuong Xa",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ma_tinh_cu_tms": "101",
+      "ma_tinh_moi_bnv": "01",
+      "ma_tinh_moi_tms": "101",
+      "ten_tinh_moi": "Thành phố Hà Nội",
+      "so_phuong_xa": 126
+    },
+    {
+      "ma_tinh_cu_tms": "103",
+      "ma_tinh_moi_bnv": "04",
+      "ma_tinh_moi_tms": "103",
+      "ten_tinh_moi": "Tp Hải Phòng",
+      "so_phuong_xa": 50
+    },
+    {
+      "ma_tinh_cu_tms": "107",
+      "ma_tinh_moi_bnv": "04",
+      "ma_tinh_moi_tms": "103",
+      "ten_tinh_moi": "Tp Hải Phòng",
+      "so_phuong_xa": 64
+    },
+    {
+      "ma_tinh_cu_tms": "109",
+      "ma_tinh_moi_bnv": "05",
+      "ma_tinh_moi_tms": "109",
+      "ten_tinh_moi": "Tỉnh Hưng Yên",
+      "so_phuong_xa": 39
+    },
+    {
+      "ma_tinh_cu_tms": "111",
+      "ma_tinh_moi_bnv": "06",
+      "ma_tinh_moi_tms": "117",
+      "ten_tinh_moi": "Tỉnh Ninh Bình",
+      "so_phuong_xa": 33
+    },
+    {
+      "ma_tinh_cu_tms": "113",
+      "ma_tinh_moi_bnv": "06",
+      "ma_tinh_moi_tms": "117",
+      "ten_tinh_moi": "Tỉnh Ninh Bình",
+      "so_phuong_xa": 57
+    },
+    {
+      "ma_tinh_cu_tms": "115",
+      "ma_tinh_moi_bnv": "05",
+      "ma_tinh_moi_tms": "109",
+      "ten_tinh_moi": "Tỉnh Hưng Yên",
+      "so_phuong_xa": 65
+    },
+    {
+      "ma_tinh_cu_tms": "117",
+      "ma_tinh_moi_bnv": "06",
+      "ma_tinh_moi_tms": "117",
+      "ten_tinh_moi": "Tỉnh Ninh Bình",
+      "so_phuong_xa": 39
+    },
+    {
+      "ma_tinh_cu_tms": "201",
+      "ma_tinh_moi_bnv": "08",
+      "ma_tinh_moi_tms": "211",
+      "ten_tinh_moi": "Tỉnh Tuyên Quang",
+      "so_phuong_xa": 73
+    },
+    {
+      "ma_tinh_cu_tms": "203",
+      "ma_tinh_moi_bnv": "07",
+      "ma_tinh_moi_tms": "203",
+      "ten_tinh_moi": "Tỉnh Cao Bằng",
+      "so_phuong_xa": 56
+    },
+    {
+      "ma_tinh_cu_tms": "205",
+      "ma_tinh_moi_bnv": "09",
+      "ma_tinh_moi_tms": "205",
+      "ten_tinh_moi": "Tỉnh Lào Cai",
+      "so_phuong_xa": 48
+    },
+    {
+      "ma_tinh_cu_tms": "207",
+      "ma_tinh_moi_bnv": 10,
+      "ma_tinh_moi_tms": "215",
+      "ten_tinh_moi": "Tỉnh Thái Nguyên",
+      "so_phuong_xa": 37
+    },
+    {
+      "ma_tinh_cu_tms": "209",
+      "ma_tinh_moi_bnv": 11,
+      "ma_tinh_moi_tms": "209",
+      "ten_tinh_moi": "Tỉnh Lạng Sơn",
+      "so_phuong_xa": 65
+    },
+    {
+      "ma_tinh_cu_tms": "211",
+      "ma_tinh_moi_bnv": "08",
+      "ma_tinh_moi_tms": "211",
+      "ten_tinh_moi": "Tỉnh Tuyên Quang",
+      "so_phuong_xa": 51
+    },
+    {
+      "ma_tinh_cu_tms": "213",
+      "ma_tinh_moi_bnv": "09",
+      "ma_tinh_moi_tms": "205",
+      "ten_tinh_moi": "Tỉnh Lào Cai",
+      "so_phuong_xa": 51
+    },
+    {
+      "ma_tinh_cu_tms": "215",
+      "ma_tinh_moi_bnv": 10,
+      "ma_tinh_moi_tms": "215",
+      "ten_tinh_moi": "Tỉnh Thái Nguyên",
+      "so_phuong_xa": 55
+    },
+    {
+      "ma_tinh_cu_tms": "217",
+      "ma_tinh_moi_bnv": 12,
+      "ma_tinh_moi_tms": "217",
+      "ten_tinh_moi": "Tỉnh Phú Thọ",
+      "so_phuong_xa": 66
+    },
+    {
+      "ma_tinh_cu_tms": "219",
+      "ma_tinh_moi_bnv": 12,
+      "ma_tinh_moi_tms": "217",
+      "ten_tinh_moi": "Tỉnh Phú Thọ",
+      "so_phuong_xa": 36
+    },
+    {
+      "ma_tinh_cu_tms": "221",
+      "ma_tinh_moi_bnv": "02",
+      "ma_tinh_moi_tms": "223",
+      "ten_tinh_moi": "Tỉnh Bắc Ninh",
+      "so_phuong_xa": 58
+    },
+    {
+      "ma_tinh_cu_tms": "223",
+      "ma_tinh_moi_bnv": "02",
+      "ma_tinh_moi_tms": "223",
+      "ten_tinh_moi": "Tỉnh Bắc Ninh",
+      "so_phuong_xa": 41
+    },
+    {
+      "ma_tinh_cu_tms": "225",
+      "ma_tinh_moi_bnv": "03",
+      "ma_tinh_moi_tms": "225",
+      "ten_tinh_moi": "Tỉnh Quảng Ninh",
+      "so_phuong_xa": 54
+    },
+    {
+      "ma_tinh_cu_tms": "301",
+      "ma_tinh_moi_bnv": 13,
+      "ma_tinh_moi_tms": "301",
+      "ten_tinh_moi": "Tỉnh Điện Biên",
+      "so_phuong_xa": 45
+    },
+    {
+      "ma_tinh_cu_tms": "302",
+      "ma_tinh_moi_bnv": 14,
+      "ma_tinh_moi_tms": "302",
+      "ten_tinh_moi": "Tỉnh Lai Châu",
+      "so_phuong_xa": 38
+    },
+    {
+      "ma_tinh_cu_tms": "303",
+      "ma_tinh_moi_bnv": 15,
+      "ma_tinh_moi_tms": "303",
+      "ten_tinh_moi": "Tỉnh Sơn La",
+      "so_phuong_xa": 75
+    },
+    {
+      "ma_tinh_cu_tms": "305",
+      "ma_tinh_moi_bnv": 12,
+      "ma_tinh_moi_tms": "217",
+      "ten_tinh_moi": "Tỉnh Phú Thọ",
+      "so_phuong_xa": 46
+    },
+    {
+      "ma_tinh_cu_tms": "401",
+      "ma_tinh_moi_bnv": 16,
+      "ma_tinh_moi_tms": "401",
+      "ten_tinh_moi": "Tỉnh Thanh Hóa",
+      "so_phuong_xa": 166
+    },
+    {
+      "ma_tinh_cu_tms": "403",
+      "ma_tinh_moi_bnv": 17,
+      "ma_tinh_moi_tms": "403",
+      "ten_tinh_moi": "Tỉnh Nghệ An",
+      "so_phuong_xa": 130
+    },
+    {
+      "ma_tinh_cu_tms": "405",
+      "ma_tinh_moi_bnv": 18,
+      "ma_tinh_moi_tms": "405",
+      "ten_tinh_moi": "Tỉnh Hà Tĩnh",
+      "so_phuong_xa": 69
+    },
+    {
+      "ma_tinh_cu_tms": "407",
+      "ma_tinh_moi_bnv": 19,
+      "ma_tinh_moi_tms": "409",
+      "ten_tinh_moi": "Tỉnh Quảng Trị",
+      "so_phuong_xa": 41
+    },
+    {
+      "ma_tinh_cu_tms": "409",
+      "ma_tinh_moi_bnv": 19,
+      "ma_tinh_moi_tms": "409",
+      "ten_tinh_moi": "Tỉnh Quảng Trị",
+      "so_phuong_xa": 37
+    },
+    {
+      "ma_tinh_cu_tms": "411",
+      "ma_tinh_moi_bnv": 20,
+      "ma_tinh_moi_tms": "411",
+      "ten_tinh_moi": "Thành phố Huế",
+      "so_phuong_xa": 40
+    },
+    {
+      "ma_tinh_cu_tms": "501",
+      "ma_tinh_moi_bnv": 21,
+      "ma_tinh_moi_tms": "501",
+      "ten_tinh_moi": "Tp Đà Nẵng",
+      "so_phuong_xa": 16
+    },
+    {
+      "ma_tinh_cu_tms": "503",
+      "ma_tinh_moi_bnv": 21,
+      "ma_tinh_moi_tms": "501",
+      "ten_tinh_moi": "Tp Đà Nẵng",
+      "so_phuong_xa": 78
+    },
+    {
+      "ma_tinh_cu_tms": "505",
+      "ma_tinh_moi_bnv": 22,
+      "ma_tinh_moi_tms": "505",
+      "ten_tinh_moi": "Tỉnh Quảng Ngãi",
+      "so_phuong_xa": 56
+    },
+    {
+      "ma_tinh_cu_tms": "507",
+      "ma_tinh_moi_bnv": 24,
+      "ma_tinh_moi_tms": "603",
+      "ten_tinh_moi": "Tỉnh Gia Lai",
+      "so_phuong_xa": 58
+    },
+    {
+      "ma_tinh_cu_tms": "509",
+      "ma_tinh_moi_bnv": 25,
+      "ma_tinh_moi_tms": "605",
+      "ten_tinh_moi": "Tỉnh Đắk Lắk",
+      "so_phuong_xa": 34
+    },
+    {
+      "ma_tinh_cu_tms": "511",
+      "ma_tinh_moi_bnv": 23,
+      "ma_tinh_moi_tms": 511,
+      "ten_tinh_moi": "Tỉnh Khánh Hòa",
+      "so_phuong_xa": 41
+    },
+    {
+      "ma_tinh_cu_tms": "601",
+      "ma_tinh_moi_bnv": 22,
+      "ma_tinh_moi_tms": "505",
+      "ten_tinh_moi": "Tỉnh Quảng Ngãi",
+      "so_phuong_xa": 40
+    },
+    {
+      "ma_tinh_cu_tms": "603",
+      "ma_tinh_moi_bnv": 24,
+      "ma_tinh_moi_tms": "603",
+      "ten_tinh_moi": "Tỉnh Gia Lai",
+      "so_phuong_xa": 77
+    },
+    {
+      "ma_tinh_cu_tms": "605",
+      "ma_tinh_moi_bnv": 25,
+      "ma_tinh_moi_tms": "605",
+      "ten_tinh_moi": "Tỉnh Đắk Lắk",
+      "so_phuong_xa": 68
+    },
+    {
+      "ma_tinh_cu_tms": "606",
+      "ma_tinh_moi_bnv": 26,
+      "ma_tinh_moi_tms": "703",
+      "ten_tinh_moi": "Tỉnh Lâm Đồng",
+      "so_phuong_xa": 28
+    },
+    {
+      "ma_tinh_cu_tms": "701",
+      "ma_tinh_moi_bnv": 29,
+      "ma_tinh_moi_tms": "701",
+      "ten_tinh_moi": "Tp Hồ Chí Minh",
+      "so_phuong_xa": 102
+    },
+    {
+      "ma_tinh_cu_tms": "703",
+      "ma_tinh_moi_bnv": 26,
+      "ma_tinh_moi_tms": "703",
+      "ten_tinh_moi": "Tỉnh Lâm Đồng",
+      "so_phuong_xa": 51
+    },
+    {
+      "ma_tinh_cu_tms": "705",
+      "ma_tinh_moi_bnv": 23,
+      "ma_tinh_moi_tms": 511,
+      "ten_tinh_moi": "Tỉnh Khánh Hòa",
+      "so_phuong_xa": 24
+    },
+    {
+      "ma_tinh_cu_tms": "707",
+      "ma_tinh_moi_bnv": 28,
+      "ma_tinh_moi_tms": "713",
+      "ten_tinh_moi": "Tỉnh Đồng Nai",
+      "so_phuong_xa": 40
+    },
+    {
+      "ma_tinh_cu_tms": "709",
+      "ma_tinh_moi_bnv": 27,
+      "ma_tinh_moi_tms": "709",
+      "ten_tinh_moi": "Tỉnh Tây Ninh",
+      "so_phuong_xa": 36
+    },
+    {
+      "ma_tinh_cu_tms": "711",
+      "ma_tinh_moi_bnv": 29,
+      "ma_tinh_moi_tms": "701",
+      "ten_tinh_moi": "Tp Hồ Chí Minh",
+      "so_phuong_xa": 36
+    },
+    {
+      "ma_tinh_cu_tms": "713",
+      "ma_tinh_moi_bnv": 28,
+      "ma_tinh_moi_tms": "713",
+      "ten_tinh_moi": "Tỉnh Đồng Nai",
+      "so_phuong_xa": 55
+    },
+    {
+      "ma_tinh_cu_tms": "715",
+      "ma_tinh_moi_bnv": 26,
+      "ma_tinh_moi_tms": "703",
+      "ten_tinh_moi": "Tỉnh Lâm Đồng",
+      "so_phuong_xa": 45
+    },
+    {
+      "ma_tinh_cu_tms": "717",
+      "ma_tinh_moi_bnv": 29,
+      "ma_tinh_moi_tms": "701",
+      "ten_tinh_moi": "Tp Hồ Chí Minh",
+      "so_phuong_xa": 30
+    },
+    {
+      "ma_tinh_cu_tms": "801",
+      "ma_tinh_moi_bnv": 27,
+      "ma_tinh_moi_tms": "709",
+      "ten_tinh_moi": "Tỉnh Tây Ninh",
+      "so_phuong_xa": 60
+    },
+    {
+      "ma_tinh_cu_tms": "803",
+      "ma_tinh_moi_bnv": 31,
+      "ma_tinh_moi_tms": "803",
+      "ten_tinh_moi": "Tỉnh Đồng Tháp",
+      "so_phuong_xa": 45
+    },
+    {
+      "ma_tinh_cu_tms": "805",
+      "ma_tinh_moi_bnv": 32,
+      "ma_tinh_moi_tms": "805",
+      "ten_tinh_moi": "Tỉnh An Giang",
+      "so_phuong_xa": 54
+    },
+    {
+      "ma_tinh_cu_tms": "807",
+      "ma_tinh_moi_bnv": 31,
+      "ma_tinh_moi_tms": "803",
+      "ten_tinh_moi": "Tỉnh Đồng Tháp",
+      "so_phuong_xa": 57
+    },
+    {
+      "ma_tinh_cu_tms": "809",
+      "ma_tinh_moi_bnv": 30,
+      "ma_tinh_moi_tms": "809",
+      "ten_tinh_moi": "Tỉnh Vĩnh Long",
+      "so_phuong_xa": 35
+    },
+    {
+      "ma_tinh_cu_tms": "811",
+      "ma_tinh_moi_bnv": 30,
+      "ma_tinh_moi_tms": "809",
+      "ten_tinh_moi": "Tỉnh Vĩnh Long",
+      "so_phuong_xa": 48
+    },
+    {
+      "ma_tinh_cu_tms": "813",
+      "ma_tinh_moi_bnv": 32,
+      "ma_tinh_moi_tms": "805",
+      "ten_tinh_moi": "Tỉnh An Giang",
+      "so_phuong_xa": 48
+    },
+    {
+      "ma_tinh_cu_tms": "815",
+      "ma_tinh_moi_bnv": 33,
+      "ma_tinh_moi_tms": "815",
+      "ten_tinh_moi": "Tp Cần Thơ",
+      "so_phuong_xa": 32
+    },
+    {
+      "ma_tinh_cu_tms": "816",
+      "ma_tinh_moi_bnv": 33,
+      "ma_tinh_moi_tms": "815",
+      "ten_tinh_moi": "Tp Cần Thơ",
+      "so_phuong_xa": 28
+    },
+    {
+      "ma_tinh_cu_tms": "817",
+      "ma_tinh_moi_bnv": 30,
+      "ma_tinh_moi_tms": "809",
+      "ten_tinh_moi": "Tỉnh Vĩnh Long",
+      "so_phuong_xa": 41
+    },
+    {
+      "ma_tinh_cu_tms": "819",
+      "ma_tinh_moi_bnv": 33,
+      "ma_tinh_moi_tms": "815",
+      "ten_tinh_moi": "Tp Cần Thơ",
+      "so_phuong_xa": 43
+    },
+    {
+      "ma_tinh_cu_tms": "821",
+      "ma_tinh_moi_bnv": 34,
+      "ma_tinh_moi_tms": "823",
+      "ten_tinh_moi": "Tỉnh Cà Mau",
+      "so_phuong_xa": 25
+    },
+    {
+      "ma_tinh_cu_tms": "823",
+      "ma_tinh_moi_bnv": 34,
+      "ma_tinh_moi_tms": "823",
+      "ten_tinh_moi": "Tỉnh Cà Mau",
+      "so_phuong_xa": 39
+    }
+  ],
+  "meta": {
+    "title": "Vi Sap Nhap Tinh Tms 2025 - Tải miễn phí",
+    "description": "Ánh xạ 63 mã tỉnh TMS trước sáp nhập 7/2025 sang 34 tỉnh thành mới (mã BNV, mã TMS, tên tỉnh mới), kèm số phường xã thuộc mỗi mã cũ Chứa 63 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Vi Sap Nhap Tinh Tms 2025 | ListBase",
+    "seo_description": "Tải xuống Vi Sap Nhap Tinh Tms 2025 — 63 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 63 bản ghi / 5 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

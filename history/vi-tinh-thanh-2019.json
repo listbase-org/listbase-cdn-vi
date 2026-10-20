@@ -1,0 +1,492 @@
+{
+  "id": "vi-tinh-thanh-2019",
+  "name": "Việt Nam — 63 tỉnh thành (cấu trúc trước sáp nhập 2025)",
+  "title": "Việt Nam — 63 tỉnh thành (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 63 tỉnh và thành phố trung ương của Việt Nam theo cấu trúc hành chính TRƯỚC khi sắp xếp lại tháng 7/2025 (Nghị quyết 60/NQ-TW). Mỗi bản ghi gồm mã viết tắt (ví dụ HN = Hà Nội, SG = Hồ Chí Minh), tên đầy đủ, slug ASCII, số quận/huyện trực thuộc và số phường/xã trực thuộc. Là ảnh chụp cấu trúc 3 cấp (tỉnh → quận/huyện → phường/xã) đã được dùng trong giai đoạn 1976–2025. (List of Vietnam's 63 provinces and centrally-governed cities under the PRE-2025-merger administrative structure. Snapshot from March 2019.)",
+  "category": "history",
+  "source": "https://github.com/thien0291/vietnam_dataset",
+  "source_url": "https://github.com/thien0291/vietnam_dataset",
+  "updated": "2026-04",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_count",
+      "label": "District Count",
+      "type": "number"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "AG",
+      "name": "An Giang",
+      "slug": "an-giang",
+      "district_count": 11,
+      "ward_count": 156
+    },
+    {
+      "code": "BD",
+      "name": "Bình Dương",
+      "slug": "binh-duong",
+      "district_count": 9,
+      "ward_count": 92
+    },
+    {
+      "code": "BDD",
+      "name": "Bình Định",
+      "slug": "binh-dinh",
+      "district_count": 11,
+      "ward_count": 160
+    },
+    {
+      "code": "BG",
+      "name": "Bắc Giang",
+      "slug": "bac-giang",
+      "district_count": 10,
+      "ward_count": 234
+    },
+    {
+      "code": "BK",
+      "name": "Bắc Kạn",
+      "slug": "bac-kan",
+      "district_count": 8,
+      "ward_count": 122
+    },
+    {
+      "code": "BL",
+      "name": "Bạc Liêu",
+      "slug": "bac-lieu",
+      "district_count": 7,
+      "ward_count": 67
+    },
+    {
+      "code": "BN",
+      "name": "Bắc Ninh",
+      "slug": "bac-ninh",
+      "district_count": 8,
+      "ward_count": 128
+    },
+    {
+      "code": "BP",
+      "name": "Bình Phước",
+      "slug": "binh-phuoc",
+      "district_count": 11,
+      "ward_count": 114
+    },
+    {
+      "code": "BTH",
+      "name": "Bình Thuận  ",
+      "slug": "binh-thuan",
+      "district_count": 10,
+      "ward_count": 128
+    },
+    {
+      "code": "BTR",
+      "name": "Bến Tre",
+      "slug": "ben-tre",
+      "district_count": 9,
+      "ward_count": 167
+    },
+    {
+      "code": "CB",
+      "name": "Cao Bằng",
+      "slug": "cao-bang",
+      "district_count": 13,
+      "ward_count": 199
+    },
+    {
+      "code": "CM",
+      "name": "Cà Mau",
+      "slug": "ca-mau",
+      "district_count": 9,
+      "ward_count": 102
+    },
+    {
+      "code": "CT",
+      "name": "Cần Thơ",
+      "slug": "can-tho",
+      "district_count": 9,
+      "ward_count": 90
+    },
+    {
+      "code": "DDB",
+      "name": "Điện Biên",
+      "slug": "dien-bien",
+      "district_count": 10,
+      "ward_count": 132
+    },
+    {
+      "code": "DDL",
+      "name": "Đắk Lắk",
+      "slug": "dak-lak",
+      "district_count": 15,
+      "ward_count": 185
+    },
+    {
+      "code": "DDN",
+      "name": "Đà Nẵng",
+      "slug": "da-nang",
+      "district_count": 8,
+      "ward_count": 57
+    },
+    {
+      "code": "DDT",
+      "name": "Đồng Tháp",
+      "slug": "dong-thap",
+      "district_count": 12,
+      "ward_count": 145
+    },
+    {
+      "code": "DNA",
+      "name": "Đồng Nai",
+      "slug": "dong-nai",
+      "district_count": 11,
+      "ward_count": 178
+    },
+    {
+      "code": "DNO",
+      "name": "Đắk Nông",
+      "slug": "dak-nong",
+      "district_count": 8,
+      "ward_count": 71
+    },
+    {
+      "code": "GL",
+      "name": "Gia Lai",
+      "slug": "gia-lai",
+      "district_count": 17,
+      "ward_count": 224
+    },
+    {
+      "code": "HB",
+      "name": "Hòa Bình",
+      "slug": "hoa-binh",
+      "district_count": 11,
+      "ward_count": 211
+    },
+    {
+      "code": "HD",
+      "name": "Hải Dương",
+      "slug": "hai-duong",
+      "district_count": 12,
+      "ward_count": 267
+    },
+    {
+      "code": "HG",
+      "name": "Hà Giang",
+      "slug": "ha-giang",
+      "district_count": 11,
+      "ward_count": 195
+    },
+    {
+      "code": "HGI",
+      "name": "Hậu Giang",
+      "slug": "hau-giang",
+      "district_count": 7,
+      "ward_count": 74
+    },
+    {
+      "code": "HN",
+      "name": "Hà Nội",
+      "slug": "ha-noi",
+      "district_count": 30,
+      "ward_count": 587
+    },
+    {
+      "code": "HNA",
+      "name": "Hà Nam",
+      "slug": "ha-nam",
+      "district_count": 6,
+      "ward_count": 116
+    },
+    {
+      "code": "HP",
+      "name": "Hải Phòng",
+      "slug": "hai-phong",
+      "district_count": 15,
+      "ward_count": 229
+    },
+    {
+      "code": "HT",
+      "name": "Hà Tĩnh",
+      "slug": "ha-tinh",
+      "district_count": 12,
+      "ward_count": 265
+    },
+    {
+      "code": "HY",
+      "name": "Hưng Yên",
+      "slug": "hung-yen",
+      "district_count": 10,
+      "ward_count": 162
+    },
+    {
+      "code": "KG",
+      "name": "Kiên Giang",
+      "slug": "kien-giang",
+      "district_count": 15,
+      "ward_count": 145
+    },
+    {
+      "code": "KH",
+      "name": "Khánh Hòa",
+      "slug": "khanh-hoa",
+      "district_count": 9,
+      "ward_count": 141
+    },
+    {
+      "code": "KT",
+      "name": "Kon Tum",
+      "slug": "kon-tum",
+      "district_count": 10,
+      "ward_count": 102
+    },
+    {
+      "code": "LA",
+      "name": "Long An",
+      "slug": "long-an",
+      "district_count": 15,
+      "ward_count": 194
+    },
+    {
+      "code": "LCA",
+      "name": "Lào Cai",
+      "slug": "lao-cai",
+      "district_count": 9,
+      "ward_count": 165
+    },
+    {
+      "code": "LCH",
+      "name": "Lai Châu",
+      "slug": "lai-chau",
+      "district_count": 8,
+      "ward_count": 109
+    },
+    {
+      "code": "LDD",
+      "name": "Lâm Đồng",
+      "slug": "lam-dong",
+      "district_count": 12,
+      "ward_count": 149
+    },
+    {
+      "code": "LS",
+      "name": "Lạng Sơn",
+      "slug": "lang-son",
+      "district_count": 11,
+      "ward_count": 233
+    },
+    {
+      "code": "NA",
+      "name": "Nghệ An",
+      "slug": "nghe-an",
+      "district_count": 21,
+      "ward_count": 485
+    },
+    {
+      "code": "NB",
+      "name": "Ninh Bình",
+      "slug": "ninh-binh",
+      "district_count": 8,
+      "ward_count": 146
+    },
+    {
+      "code": "NDD",
+      "name": "Nam Định",
+      "slug": "nam-dinh",
+      "district_count": 10,
+      "ward_count": 230
+    },
+    {
+      "code": "NT",
+      "name": "Ninh Thuận",
+      "slug": "ninh-thuan",
+      "district_count": 7,
+      "ward_count": 65
+    },
+    {
+      "code": "PT",
+      "name": "Phú Thọ",
+      "slug": "phu-tho",
+      "district_count": 13,
+      "ward_count": 277
+    },
+    {
+      "code": "PY",
+      "name": "Phú Yên",
+      "slug": "phu-yen",
+      "district_count": 9,
+      "ward_count": 113
+    },
+    {
+      "code": "QB",
+      "name": "Quảng Bình",
+      "slug": "quang-binh",
+      "district_count": 8,
+      "ward_count": 163
+    },
+    {
+      "code": "QNA",
+      "name": "Quảng Nam",
+      "slug": "quang-nam",
+      "district_count": 18,
+      "ward_count": 246
+    },
+    {
+      "code": "QNG",
+      "name": "Quảng Ngãi",
+      "slug": "quang-ngai",
+      "district_count": 14,
+      "ward_count": 187
+    },
+    {
+      "code": "QNI",
+      "name": "Quảng Ninh",
+      "slug": "quang-ninh",
+      "district_count": 14,
+      "ward_count": 188
+    },
+    {
+      "code": "QT",
+      "name": "Quảng Trị",
+      "slug": "quang-tri",
+      "district_count": 10,
+      "ward_count": 141
+    },
+    {
+      "code": "SG",
+      "name": "Hồ Chí Minh",
+      "slug": "ho-chi-minh",
+      "district_count": 24,
+      "ward_count": 326
+    },
+    {
+      "code": "SL",
+      "name": "Sơn La",
+      "slug": "son-la",
+      "district_count": 12,
+      "ward_count": 204
+    },
+    {
+      "code": "ST",
+      "name": "Sóc Trăng",
+      "slug": "soc-trang",
+      "district_count": 11,
+      "ward_count": 112
+    },
+    {
+      "code": "TB",
+      "name": "Thái Bình",
+      "slug": "thai-binh",
+      "district_count": 8,
+      "ward_count": 287
+    },
+    {
+      "code": "TG",
+      "name": "Tiền Giang",
+      "slug": "tien-giang",
+      "district_count": 11,
+      "ward_count": 180
+    },
+    {
+      "code": "TH",
+      "name": "Thanh Hóa",
+      "slug": "thanh-hoa",
+      "district_count": 27,
+      "ward_count": 639
+    },
+    {
+      "code": "TN",
+      "name": "Thái Nguyên",
+      "slug": "thai-nguyen",
+      "district_count": 9,
+      "ward_count": 182
+    },
+    {
+      "code": "TNI",
+      "name": "Tây Ninh",
+      "slug": "tay-ninh",
+      "district_count": 9,
+      "ward_count": 95
+    },
+    {
+      "code": "TQ",
+      "name": "Tuyên Quang",
+      "slug": "tuyen-quang",
+      "district_count": 7,
+      "ward_count": 142
+    },
+    {
+      "code": "TTH",
+      "name": "Thừa Thiên Huế",
+      "slug": "thua-thien-hue",
+      "district_count": 9,
+      "ward_count": 158
+    },
+    {
+      "code": "TV",
+      "name": "Trà Vinh",
+      "slug": "tra-vinh",
+      "district_count": 8,
+      "ward_count": 114
+    },
+    {
+      "code": "VL",
+      "name": "Vĩnh Long",
+      "slug": "vinh-long",
+      "district_count": 8,
+      "ward_count": 109
+    },
+    {
+      "code": "VP",
+      "name": "Vĩnh Phúc",
+      "slug": "vinh-phuc",
+      "district_count": 9,
+      "ward_count": 137
+    },
+    {
+      "code": "VT",
+      "name": "Bà Rịa Vũng Tàu",
+      "slug": "ba-ria-vung-tau",
+      "district_count": 8,
+      "ward_count": 85
+    },
+    {
+      "code": "YB",
+      "name": "Yên Bái",
+      "slug": "yen-bai",
+      "district_count": 9,
+      "ward_count": 180
+    }
+  ],
+  "meta": {
+    "title": "Việt Nam — 63 tỉnh thành (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 63 tỉnh và thành phố trung ương của Việt Nam theo cấu trúc hành chính TRƯỚC khi sắp xếp lại tháng 7/2025 (Nghị quyết 60/NQ-TW). Mỗi bản ghi gồm mã viết tắt (ví dụ HN = Hà Nội, SG = Hồ Chí Minh), tên đầy đủ, slug ASCII, số quận/huyện trực thuộc và số phường/xã trực thuộc. Là ảnh chụp cấu trúc 3 cấp (tỉnh → quận/huyện → phường/xã) đã được dùng trong giai đoạn 1976–2025. (List of Vietnam's 63 provinces and centrally-governed cities under the PRE-2025-merger administrative structure. Snapshot from March 2019.) Chứa 63 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Việt Nam — 63 tỉnh thành (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Việt Nam — 63 tỉnh thành (cấu trúc trước sáp nhập 2025) — 63 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 63 bản ghi / 5 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: https://github.com/thien0291/vietnam_dataset"
+    ]
+  }
+}

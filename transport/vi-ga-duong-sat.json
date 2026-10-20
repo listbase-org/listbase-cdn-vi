@@ -1,0 +1,2644 @@
+{
+  "id": "vi-ga-duong-sat",
+  "name": "Ga đường sắt ở Việt Nam",
+  "title": "Ga đường sắt ở Việt Nam",
+  "description": "Danh sách ga đường sắt (nhà ga xe lửa) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31 wd:Q55488 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu ga đường sắt (nhà ga xe lửa) đầu tiên trong nhóm tiếng Việt — mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 282/287 toạ độ, 286/287 vi.wikipedia.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 287,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q130514609",
+      "name_vi": "Ga An Cựu",
+      "name_en": "Ga An Cựu",
+      "latitude": 16.452365,
+      "longitude": 107.599628,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_An_C%E1%BB%B1u"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q130321397",
+      "name_vi": "Ga An Hòa",
+      "name_en": "Ga An Hòa",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_An_H%C3%B2a"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q60363898",
+      "name_vi": "Ga An Mỹ",
+      "name_en": "An Mỹ railway station",
+      "latitude": 15.596389,
+      "longitude": 108.4275,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_An_M%E1%BB%B9"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q2012224",
+      "name_vi": "Ga Biên Hòa",
+      "name_en": "Biên Hòa railway station",
+      "latitude": 10.95083,
+      "longitude": 106.82639,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Bi%C3%AAn_H%C3%B2a"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q60433821",
+      "name_vi": "Ga Bàn Cờ",
+      "name_en": "Ga Bàn Cờ",
+      "latitude": 21.032222,
+      "longitude": 106.7775,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%C3%A0n_C%E1%BB%9D"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q130495455",
+      "name_vi": "Ga Bàu Cá",
+      "name_en": "Ga Bàu Cá",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%C3%A0u_C%C3%A1"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q60299831",
+      "name_vi": "Ga Bình Lục",
+      "name_en": "Bình Lục railway station",
+      "latitude": 20.493056,
+      "longitude": 105.997222,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%C3%ACnh_L%E1%BB%A5c"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q60363915",
+      "name_vi": "Ga Bình Sơn",
+      "name_en": "Bình Sơn railway station",
+      "latitude": 15.286944,
+      "longitude": 108.758889,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%C3%ACnh_S%C6%A1n"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q4914343",
+      "name_vi": "Ga Bình Thuận",
+      "name_en": "Binh Thuan Railway Station",
+      "latitude": 10.968611,
+      "longitude": 108.003056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%C3%ACnh_Thu%E1%BA%ADn"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q1284826",
+      "name_vi": "Ga Bình Triệu",
+      "name_en": "Bình Triệu railway station",
+      "latitude": 10.827311,
+      "longitude": 106.71596,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%C3%ACnh_Tri%E1%BB%87u"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q60367510",
+      "name_vi": "Ga Bình Định",
+      "name_en": "Bình Định railway station",
+      "latitude": 13.887222,
+      "longitude": 109.100833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%C3%ACnh_%C4%90%E1%BB%8Bnh"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q55843076",
+      "name_vi": "Ga Bạch Hạc",
+      "name_en": "Bạch Hạc railway station",
+      "latitude": 21.290278,
+      "longitude": 105.464722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%E1%BA%A1ch_H%E1%BA%A1c"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q54314436",
+      "name_vi": "Ga Bản Thí",
+      "name_en": "Bản Thí railway station",
+      "latitude": 21.766944,
+      "longitude": 106.733611,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%E1%BA%A3n_Th%C3%AD"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q60364809",
+      "name_vi": "Ga Bảo Chánh",
+      "name_en": "Bảo Chánh railway station",
+      "latitude": 10.9525,
+      "longitude": 107.325833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%E1%BA%A3o_Ch%C3%A1nh"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q55842993",
+      "name_vi": "Ga Bảo Hà",
+      "name_en": "Bảo Hà railway station",
+      "latitude": 22.178611,
+      "longitude": 104.355,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%E1%BA%A3o_H%C3%A0"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q60433644",
+      "name_vi": "Ga Bảo Sơn",
+      "name_en": "Ga Bảo Sơn",
+      "latitude": 21.36968,
+      "longitude": 106.317417,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%E1%BA%A3o_S%C6%A1n"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q4838555",
+      "name_vi": "Ga Bắc Giang",
+      "name_en": "Bắc Giang railway station",
+      "latitude": 21.278889,
+      "longitude": 106.191389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%E1%BA%AFc_Giang"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q55840782",
+      "name_vi": "Ga Bắc Hồng",
+      "name_en": "Bắc Hồng railway station",
+      "latitude": 21.171667,
+      "longitude": 105.799722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%E1%BA%AFc_H%E1%BB%93ng"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q54314586",
+      "name_vi": "Ga Bắc Lệ",
+      "name_en": "Bắc Lệ railway station",
+      "latitude": 21.516111,
+      "longitude": 106.431389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%E1%BA%AFc_L%E1%BB%87"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q4838561",
+      "name_vi": "Ga Bắc Ninh",
+      "name_en": "Bắc Ninh railway station",
+      "latitude": 21.178333,
+      "longitude": 106.055833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%E1%BA%AFc_Ninh"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q54314315",
+      "name_vi": "Ga Bắc Thủy",
+      "name_en": "Bắc Thủy railway station",
+      "latitude": 21.713611,
+      "longitude": 106.665,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%E1%BA%AFc_Th%E1%BB%A7y"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q60325245",
+      "name_vi": "Ga Bỉm Sơn",
+      "name_en": "Bỉm Sơn railway station",
+      "latitude": 20.081389,
+      "longitude": 105.855278,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%E1%BB%89m_S%C6%A1n"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q10760429",
+      "name_vi": "Ga Bồng Sơn",
+      "name_en": "Bồng Sơn railway station",
+      "latitude": 14.438333,
+      "longitude": 109.019444,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_B%E1%BB%93ng_S%C6%A1n"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q109439529",
+      "name_vi": "Ga Cam Thịnh Đông",
+      "name_en": "Ga Cam Thịnh Đông",
+      "latitude": 11.825851,
+      "longitude": 109.104754,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Cam_Th%E1%BB%8Bnh_%C4%90%C3%B4ng"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q60195896",
+      "name_vi": "Ga Cao Xá",
+      "name_en": "Cao Xá railway station",
+      "latitude": 20.944722,
+      "longitude": 106.272222,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Cao_X%C3%A1"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q54311543",
+      "name_vi": "Ga Chi Lăng",
+      "name_en": "Chi Lăng railway station",
+      "latitude": 21.601389,
+      "longitude": 106.534722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Chi_L%C4%83ng"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q130516259",
+      "name_vi": "Ga Chiêm Sơn",
+      "name_en": "Ga Chiêm Sơn",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Chi%C3%AAm_S%C6%A1n"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q60364575",
+      "name_vi": "Ga Chu Lễ",
+      "name_en": "Chu Lễ railway station",
+      "latitude": 18.223056,
+      "longitude": 105.698333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Chu_L%E1%BB%85"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q60367395",
+      "name_vi": "Ga Châu Hanh",
+      "name_en": "Châu Hanh railway station",
+      "latitude": 11.227778,
+      "longitude": 108.425,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ch%C3%A2u_Hanh"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q55843063",
+      "name_vi": "Ga Chí Chủ",
+      "name_en": "Chí Chủ railway station",
+      "latitude": 21.429722,
+      "longitude": 105.153056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ch%C3%AD_Ch%E1%BB%A7"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q60433746",
+      "name_vi": "Ga Chí Linh",
+      "name_en": "Ga Chí Linh",
+      "latitude": 21.154167,
+      "longitude": 106.446111,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ch%C3%AD_Linh"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q60367471",
+      "name_vi": "Ga Chí Thạnh",
+      "name_en": "Chí Thạnh railway station",
+      "latitude": 13.304722,
+      "longitude": 109.219444,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ch%C3%AD_Th%E1%BA%A1nh"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q60364070",
+      "name_vi": "Ga Chợ Sy",
+      "name_en": "Chợ Sy railway station",
+      "latitude": 19.0075,
+      "longitude": 105.575833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ch%E1%BB%A3_Sy"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q54887484",
+      "name_vi": "Ga Chợ Tía",
+      "name_en": "Chợ Tía railway station",
+      "latitude": 20.801111,
+      "longitude": 105.884722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ch%E1%BB%A3_T%C3%ADa"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q60367289",
+      "name_vi": "Ga Cà Ná",
+      "name_en": "Cà Ná railway station",
+      "latitude": 11.351944,
+      "longitude": 108.876389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_C%C3%A0_N%C3%A1"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q60367433",
+      "name_vi": "Ga Cà Rôm",
+      "name_en": "Kà Rôm railway station",
+      "latitude": 11.779722,
+      "longitude": 109.079167,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_K%C3%A0_R%C3%B4m"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q60258761",
+      "name_vi": "Ga Cái Lân",
+      "name_en": "Cái Lân railway station",
+      "latitude": 20.971667,
+      "longitude": 107.040278,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_C%C3%A1i_L%C3%A2n"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q55950512",
+      "name_vi": "Ga Cát Đằng",
+      "name_en": "Cát Đằng railway station",
+      "latitude": 20.295278,
+      "longitude": 106.025,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_C%C3%A1t_%C4%90%E1%BA%B1ng"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q60367190",
+      "name_vi": "Ga Cây Cầy",
+      "name_en": "Cây Cầy railway station",
+      "latitude": 12.216944,
+      "longitude": 109.080278,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_C%C3%A2y_C%E1%BA%A7y"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q2586962",
+      "name_vi": "Ga Cầu Bây",
+      "name_en": "Sài Đồng station",
+      "latitude": 21.028611,
+      "longitude": 105.917222,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_C%E1%BA%A7u_B%C3%A2y"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q60299874",
+      "name_vi": "Ga Cầu Giát",
+      "name_en": "Cầu Giát railway station",
+      "latitude": 19.159204,
+      "longitude": 105.626829,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_C%E1%BA%A7u_Gi%C3%A1t"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q60363513",
+      "name_vi": "Ga Cầu Hai",
+      "name_en": "Cầu Hai railway station",
+      "latitude": 16.269722,
+      "longitude": 107.886389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_C%E1%BA%A7u_Hai"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q60299833",
+      "name_vi": "Ga Cầu Họ",
+      "name_en": "Cầu Họ railway station",
+      "latitude": 20.465833,
+      "longitude": 106.049722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_C%E1%BA%A7u_H%E1%BB%8D"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q55842970",
+      "name_vi": "Ga Cầu Nhô",
+      "name_en": "Cầu Nhô railway station",
+      "latitude": 22.279722,
+      "longitude": 104.245556,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_C%E1%BA%A7u_Nh%C3%B2"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q55950540",
+      "name_vi": "Ga Cầu Yên",
+      "name_en": "Cầu Yên railway station",
+      "latitude": 20.203889,
+      "longitude": 105.965556,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_C%E1%BA%A7u_Y%C3%AAn"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q60195876",
+      "name_vi": "Ga Cẩm Giàng",
+      "name_en": "Cẩm Giàng railway station",
+      "latitude": 20.965833,
+      "longitude": 106.173056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_C%E1%BA%A9m_Gi%C3%A0ng"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q60370304",
+      "name_vi": "Ga Cẩm Lý",
+      "name_en": "Cẩm Lý railway station",
+      "latitude": 21.215833,
+      "longitude": 106.380556,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_C%E1%BA%A9m_L%C3%BD"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q54186555",
+      "name_vi": "Ga Cổ Loa",
+      "name_en": "Cổ Loa railway station",
+      "latitude": 21.133056,
+      "longitude": 105.873056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_C%E1%BB%95_Loa"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q55843026",
+      "name_vi": "Ga Cổ Phúc",
+      "name_en": "Cổ Phúc railway station",
+      "latitude": 21.760833,
+      "longitude": 104.830556,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_C%E1%BB%95_Ph%C3%BAc"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q60363901",
+      "name_vi": "Ga Diêm Phổ",
+      "name_en": "Diêm Phổ railway station",
+      "latitude": 15.476111,
+      "longitude": 108.586944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Di%C3%AAm_Ph%E1%BB%95"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q60364476",
+      "name_vi": "Ga Diên Sanh",
+      "name_en": "Diên Sanh railway station",
+      "latitude": 16.687222,
+      "longitude": 107.247222,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Di%C3%AAn_Sanh"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q3096367",
+      "name_vi": "Ga Diêu Trì",
+      "name_en": "Dieu Tri Railway Station",
+      "latitude": 13.807222,
+      "longitude": 109.143611,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Di%C3%AAu_Tr%C3%AC"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q5270017",
+      "name_vi": "Ga Dĩ An",
+      "name_en": "Dĩ An railway station",
+      "latitude": 10.907778,
+      "longitude": 106.769167,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_D%C4%A9_An"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q60364820",
+      "name_vi": "Ga Dầu Giây",
+      "name_en": "Dầu Giây railway station",
+      "latitude": 10.930833,
+      "longitude": 107.137778,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_D%E1%BA%A7u_Gi%C3%A2y"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q60299808",
+      "name_vi": "Ga Dụ Nghĩa",
+      "name_en": "Dụ Nghĩa railway station",
+      "latitude": 20.915278,
+      "longitude": 106.564444,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_D%E1%BB%A5_Ngh%C4%A9a"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q60325235",
+      "name_vi": "Ga Ghềnh",
+      "name_en": "Ghềnh railway station",
+      "latitude": 20.169167,
+      "longitude": 105.941111,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Gh%E1%BB%81nh"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q60364797",
+      "name_vi": "Ga Gia Huynh",
+      "name_en": "Gia Huynh railway station",
+      "latitude": 10.985278,
+      "longitude": 107.541389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Gia_Huynh"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q5557794",
+      "name_vi": "Ga Gia Lâm",
+      "name_en": "Gia Lâm railway station",
+      "latitude": 21.0525,
+      "longitude": 105.881111,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Gia_L%C3%A2m"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q60364805",
+      "name_vi": "Ga Gia Ray",
+      "name_en": "Gia Ray railway station",
+      "latitude": 10.964167,
+      "longitude": 107.403056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Gia_Ray"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q5558563",
+      "name_vi": "Ga Giáp Bát",
+      "name_en": "Giáp Bát Station",
+      "latitude": 20.978611,
+      "longitude": 105.84,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Gi%C3%A1p_B%C3%A1t"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q60367176",
+      "name_vi": "Ga Giã",
+      "name_en": "Giã railway station",
+      "latitude": 12.7,
+      "longitude": 109.223611,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Gi%C3%A3"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q17990937",
+      "name_vi": "Ga Gò Vấp",
+      "name_en": "Gò Vấp railway station",
+      "latitude": 10.815845,
+      "longitude": 106.684681,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_G%C3%B2_V%E1%BA%A5p"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q60364498",
+      "name_vi": "Ga Hiền Sỹ",
+      "name_en": "Hiền Sỹ railway station",
+      "latitude": 16.529167,
+      "longitude": 107.431944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Hi%E1%BB%81n_S%E1%BB%B9"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q60364731",
+      "name_vi": "Ga Hoàn Lão",
+      "name_en": "Hoàn Lão railway station",
+      "latitude": 17.575556,
+      "longitude": 106.522222,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ho%C3%A0n_L%C3%A3o"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q60364060",
+      "name_vi": "Ga Hoàng Mai",
+      "name_en": "Hoàng Mai railway station",
+      "latitude": 19.268333,
+      "longitude": 105.696667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ho%C3%A0ng_Mai"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q994118",
+      "name_vi": "Ga Huế",
+      "name_en": "Hue Railway Station",
+      "latitude": 16.4565,
+      "longitude": 107.578,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Hu%E1%BA%BF"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q1207323",
+      "name_vi": "Ga Hà Nội",
+      "name_en": "Hanoi railway station",
+      "latitude": 21.02417,
+      "longitude": 105.84083,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%C3%A0_N%E1%BB%99i"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q60364461",
+      "name_vi": "Ga Hà Thanh",
+      "name_en": "Hà Thanh railway station",
+      "latitude": 16.908056,
+      "longitude": 107.077222,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%C3%A0_Thanh"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q60363948",
+      "name_vi": "Ga Hà Đông",
+      "name_en": "Hà Đông railway station (Vietnam Railways)",
+      "latitude": 20.952867,
+      "longitude": 105.760328,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%C3%A0_%C4%90%C3%B4ng_(%C4%91%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_B%E1%BA%AFc_H%E1%BB%93ng_%E2%80%93_V%C4%83n_%C4%90i%E1%BB%83n)"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q109439528",
+      "name_vi": "Ga Hàm Cường Tây",
+      "name_en": "Hàm Cường Tây Station",
+      "latitude": 10.930978,
+      "longitude": 107.943372,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%C3%A0m_C%C6%B0%E1%BB%9Dng_T%C3%A2y"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q130516167",
+      "name_vi": "Ga Hàm Liêm",
+      "name_en": "Ga Hàm Liêm",
+      "latitude": 11.027299,
+      "longitude": 108.067145,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%C3%A0m_Li%C3%AAm"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q60364563",
+      "name_vi": "Ga Hòa Duyệt",
+      "name_en": "Hòa Duyệt railway station",
+      "latitude": 18.383889,
+      "longitude": 105.601944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%C3%B2a_Duy%E1%BB%87t"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q60367205",
+      "name_vi": "Ga Hòa Huỳnh",
+      "name_en": "Hòa Huỳnh railway station",
+      "latitude": 12.574444,
+      "longitude": 109.168056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%C3%B2a_Hu%E1%BB%B3nh"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q60367294",
+      "name_vi": "Ga Hòa Trinh",
+      "name_en": "Hòa Trinh railway station",
+      "latitude": 11.499167,
+      "longitude": 108.911389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%C3%B2a_Trinh"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q60367271",
+      "name_vi": "Ga Hòa Tân",
+      "name_en": "Hòa Tân railway station",
+      "latitude": 12.121389,
+      "longitude": 109.098611,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%C3%B2a_T%C3%A2n"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q60367216",
+      "name_vi": "Ga Hòa Vinh Tây",
+      "name_en": "Ga Hòa Vinh Tây",
+      "latitude": 15.022778,
+      "longitude": 108.834167,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%C3%B2a_Vinh_T%C3%A2y"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q60367442",
+      "name_vi": "Ga Hòa Đa",
+      "name_en": "Hòa Đa railway station",
+      "latitude": 13.205278,
+      "longitude": 109.270278,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%C3%B2a_%C4%90a"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q55843081",
+      "name_vi": "Ga Hương Canh",
+      "name_en": "Hương Canh railway station",
+      "latitude": 21.281111,
+      "longitude": 105.646944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%C6%B0%C6%A1ng_Canh"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q60364585",
+      "name_vi": "Ga Hương Phố",
+      "name_en": "Hương Phố railway station",
+      "latitude": 18.169722,
+      "longitude": 105.707778,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%C6%B0%C6%A1ng_Ph%E1%BB%91"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q60363499",
+      "name_vi": "Ga Hương Thuỷ",
+      "name_en": "Hương Thuỷ railway station",
+      "latitude": 16.418056,
+      "longitude": 107.664444,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%C6%B0%C6%A1ng_Th%E1%BB%A7y"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q55843077",
+      "name_vi": "Ga Hướng Lại",
+      "name_en": "Hướng Lại railway station",
+      "latitude": 21.291667,
+      "longitude": 105.519167,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%C6%B0%E1%BB%9Bng_L%E1%BA%A1i"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q5636439",
+      "name_vi": "Ga Hạ Long",
+      "name_en": "Ha Long Railway Station",
+      "latitude": 20.974444,
+      "longitude": 107.010833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%E1%BA%A1_Long"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q5638921",
+      "name_vi": "Ga Hải Dương",
+      "name_en": "Hải Dương railway station",
+      "latitude": 20.94778,
+      "longitude": 106.32972,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%E1%BA%A3i_D%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q3055063",
+      "name_vi": "Ga Hải Phòng",
+      "name_en": "Haiphong railway station",
+      "latitude": 20.856111,
+      "longitude": 106.6875,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%E1%BA%A3i_Ph%C3%B2ng"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q60363448",
+      "name_vi": "Ga Hải Vân",
+      "name_en": "Hải Vân railway station",
+      "latitude": 16.193778,
+      "longitude": 108.151225,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%E1%BA%A3i_V%C3%A2n"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q60363449",
+      "name_vi": "Ga Hải Vân Bắc",
+      "name_en": "Hải Vân Bắc railway station",
+      "latitude": 16.211111,
+      "longitude": 108.115833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%E1%BA%A3i_V%C3%A2n_B%E1%BA%AFc"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q60363452",
+      "name_vi": "Ga Hải Vân Nam",
+      "name_en": "Hải Vân Nam railway station",
+      "latitude": 16.170278,
+      "longitude": 108.136944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%E1%BA%A3i_V%C3%A2n_Nam"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q60367251",
+      "name_vi": "Ga Hảo Sơn",
+      "name_en": "Hảo Sơn railway station",
+      "latitude": 12.908333,
+      "longitude": 109.376667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%E1%BA%A3o_S%C6%A1n"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q60299861",
+      "name_vi": "Ga Hố Nai",
+      "name_en": "Hố Nai railway station",
+      "latitude": 10.959444,
+      "longitude": 106.906111,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%E1%BB%91_Nai"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q61133207",
+      "name_vi": "Ga Hợp Tiến",
+      "name_en": "Ga Hợp Tiến",
+      "latitude": 21.571667,
+      "longitude": 106.016667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_H%E1%BB%A3p_Ti%E1%BA%BFn"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q60364045",
+      "name_vi": "Ga Khoa Trường",
+      "name_en": "Khoa Trường railway station",
+      "latitude": 19.375556,
+      "longitude": 105.731944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Khoa_Tr%C6%B0%E1%BB%9Dng"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q60367504",
+      "name_vi": "Ga Khánh Phước",
+      "name_en": "Khánh Phước railway station",
+      "latitude": 14.0875,
+      "longitude": 109.037222,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Kh%C3%A1nh_Ph%C6%B0%E1%BB%9Bc"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q60299749",
+      "name_vi": "Ga Khúc Rồng",
+      "name_en": "Khúc Rồng railway station",
+      "latitude": 21.580278,
+      "longitude": 105.926944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Kh%C3%BAc_R%E1%BB%93ng"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q60363478",
+      "name_vi": "Ga Kim Liên",
+      "name_en": "Kim Liên railway station",
+      "latitude": 16.132222,
+      "longitude": 108.120556,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Kim_Li%C3%AAn"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q60364683",
+      "name_vi": "Ga Kim Lũ",
+      "name_en": "Kim Lũ railway station",
+      "latitude": 17.950278,
+      "longitude": 105.961389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Kim_L%C5%A9"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q60363926",
+      "name_vi": "Ga Kim Nỗ",
+      "name_en": "Kim Nỗ railway station",
+      "latitude": 21.142664,
+      "longitude": 105.790158,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Kim_N%E1%BB%97"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q6393088",
+      "name_vi": "Ga Kép",
+      "name_en": "Kép railway station",
+      "latitude": 21.41694,
+      "longitude": 106.29111,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_K%C3%A9p"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q60367466",
+      "name_vi": "Ga La Hai",
+      "name_en": "La Hai railway station",
+      "latitude": 13.381667,
+      "longitude": 109.105833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_La_Hai"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q60364609",
+      "name_vi": "Ga La Khê",
+      "name_en": "La Khê railway station",
+      "latitude": 18.0625,
+      "longitude": 105.826111,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_La_Kh%C3%AA_(%C4%91%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_B%E1%BA%AFc_Nam)"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q60195925",
+      "name_vi": "Ga Lai Khê",
+      "name_en": "Lai Khê railway station",
+      "latitude": 20.977778,
+      "longitude": 106.413611,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Lai_Kh%C3%AA"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q6482797",
+      "name_vi": "Ga Lan Mẫu",
+      "name_en": "Lan Mau Railway Station",
+      "latitude": 21.290278,
+      "longitude": 106.3375,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Lan_M%E1%BA%ABu"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q55842997",
+      "name_vi": "Ga Lang Khay",
+      "name_en": "Lang Khay railway station",
+      "latitude": 22.068889,
+      "longitude": 104.475833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Lang_Khay"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q55842996",
+      "name_vi": "Ga Lang Thíp",
+      "name_en": "Lang Thíp railway station",
+      "latitude": 22.120833,
+      "longitude": 104.414444,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Lang_Th%C3%ADp"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q54305883",
+      "name_vi": "Ga Lim",
+      "name_en": "Lim railway station",
+      "latitude": 21.146667,
+      "longitude": 106.019444,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Lim"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q5962539",
+      "name_vi": "Ga Long Biên",
+      "name_en": "Long Biên railway station",
+      "latitude": 21.039722,
+      "longitude": 105.850278,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Long_Bi%C3%AAn"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q60364815",
+      "name_vi": "Ga Long Khánh",
+      "name_en": "Long Khánh railway station",
+      "latitude": 10.933333,
+      "longitude": 107.245833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Long_Kh%C3%A1nh"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q60367228",
+      "name_vi": "Ga Long Thạnh",
+      "name_en": "Long Thạnh railway station",
+      "latitude": 11.128889,
+      "longitude": 108.204722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Long_Th%E1%BA%A1nh"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q60364390",
+      "name_vi": "Ga Long Đại",
+      "name_en": "Long Đại railway station",
+      "latitude": 17.318333,
+      "longitude": 106.6275,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Long_%C4%90%E1%BA%A1i"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q55842977",
+      "name_vi": "Ga Làng Giàng",
+      "name_en": "Làng Giàng railway station",
+      "latitude": 22.428889,
+      "longitude": 104.046389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_L%C3%A0ng_Gi%C3%A0ng"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q5962872",
+      "name_vi": "Ga Lào Cai",
+      "name_en": "Lào Cai railway station",
+      "latitude": 22.4925,
+      "longitude": 103.978333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_L%C3%A0o_Cai"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q55843002",
+      "name_vi": "Ga Lâm Giang",
+      "name_en": "Lâm Giang railway station",
+      "latitude": 22.048333,
+      "longitude": 104.496667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_L%C3%A2m_Giang"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q60363471",
+      "name_vi": "Ga Lăng Cô",
+      "name_en": "Lăng Cô railway station",
+      "latitude": 16.222222,
+      "longitude": 108.081111,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_L%C4%83ng_C%C3%B4"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q6706057",
+      "name_vi": "Ga Lưu Xá",
+      "name_en": "Luu Xa railway station",
+      "latitude": 21.562222,
+      "longitude": 105.847222,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_L%C6%B0u_X%C3%A1"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q54335890",
+      "name_vi": "Ga Lương Sơn",
+      "name_en": "Lương Sơn railway station (Thái Nguyên)",
+      "latitude": 21.490851,
+      "longitude": 105.877687,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_L%C6%B0%C6%A1ng_S%C6%A1n_(%C4%91%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_H%C3%A0_N%E1%BB%99i_%E2%80%93_Quan_Tri%E1%BB%81u)"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q16480070",
+      "name_vi": "Ga Lương Sơn",
+      "name_en": "Lương Sơn railway station (Khánh Hòa)",
+      "latitude": 12.337778,
+      "longitude": 109.194444,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_L%C6%B0%C6%A1ng_S%C6%A1n_(%C4%91%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_B%E1%BA%AFc_Nam)"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q60364703",
+      "name_vi": "Ga Lạc Sơn",
+      "name_en": "Lạc Sơn railway station",
+      "latitude": 17.811389,
+      "longitude": 106.188889,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_L%E1%BA%A1c_S%C6%A1n"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q60195849",
+      "name_vi": "Ga Lạc Đạo",
+      "name_en": "Lạc Đạo railway station",
+      "latitude": 20.983056,
+      "longitude": 106.030278,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_L%E1%BA%A1c_%C4%90%E1%BA%A1o"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q55842979",
+      "name_vi": "Ga Lạng",
+      "name_en": "Lạng railway station",
+      "latitude": 22.367778,
+      "longitude": 104.135,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_L%E1%BA%A1ng"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q6485616",
+      "name_vi": "Ga Lạng Sơn",
+      "name_en": "Lạng Sơn railway station",
+      "latitude": 21.856389,
+      "longitude": 106.768611,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_L%E1%BA%A1ng_S%C6%A1n"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q60364381",
+      "name_vi": "Ga Lệ Kỳ",
+      "name_en": "Ga Lệ Kỳ",
+      "latitude": 17.404722,
+      "longitude": 106.608056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_L%E1%BB%87_K%E1%BB%B3"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q60364707",
+      "name_vi": "Ga Lệ Sơn",
+      "name_en": "Lệ Sơn railway station",
+      "latitude": 17.778333,
+      "longitude": 106.258056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_L%E1%BB%87_S%C6%A1n"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q60363881",
+      "name_vi": "Ga Lệ Trạch",
+      "name_en": "Lệ Trạch railway station",
+      "latitude": 15.970556,
+      "longitude": 108.182778,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_L%E1%BB%87_Tr%E1%BA%A1ch"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q60367224",
+      "name_vi": "Ga Ma Lâm",
+      "name_en": "Ma Lâm railway station",
+      "latitude": 11.0725,
+      "longitude": 108.131667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ma_L%C3%A2m"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q60364004",
+      "name_vi": "Ga Minh Khôi",
+      "name_en": "Minh Khôi railway station",
+      "latitude": 19.632778,
+      "longitude": 105.701944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Minh_Kh%C3%B4i"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q60364715",
+      "name_vi": "Ga Minh Lệ",
+      "name_en": "Minh Lệ railway station",
+      "latitude": 17.712222,
+      "longitude": 106.370278,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Minh_L%E1%BB%87"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q6753588",
+      "name_vi": "Ga Mạo Khê",
+      "name_en": "Mao Khe Railway Station",
+      "latitude": 21.0625,
+      "longitude": 106.604722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_M%E1%BA%A1o_Kh%C3%AA"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q55843019",
+      "name_vi": "Ga Mậu A",
+      "name_en": "Mậu A railway station",
+      "latitude": 21.8775,
+      "longitude": 104.694444,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_M%E1%BA%ADu_A"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q55843018",
+      "name_vi": "Ga Mậu Đông",
+      "name_en": "Mậu Đông railway station",
+      "latitude": 21.933611,
+      "longitude": 104.636944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_M%E1%BA%ADu_%C4%90%C3%B4ng"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q60367481",
+      "name_vi": "Ga Mộ Đức",
+      "name_en": "Mộ Đức railway station",
+      "latitude": 14.954722,
+      "longitude": 108.865278,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_M%E1%BB%99_%C4%90%E1%BB%A9c"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q60364483",
+      "name_vi": "Ga Mỹ Chánh",
+      "name_en": "Mỹ Chánh railway station",
+      "latitude": 16.628056,
+      "longitude": 107.305,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_M%E1%BB%B9_Ch%C3%A1nh"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q60364078",
+      "name_vi": "Ga Mỹ Lý",
+      "name_en": "Mỹ Lý railway station",
+      "latitude": 18.8975,
+      "longitude": 105.601111,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_M%E1%BB%B9_L%C3%BD"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q60364424",
+      "name_vi": "Ga Mỹ Trạch",
+      "name_en": "Mỹ Trạch railway station",
+      "latitude": 17.186667,
+      "longitude": 106.805556,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_M%E1%BB%B9_Tr%E1%BA%A1ch"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q60364400",
+      "name_vi": "Ga Mỹ Đức",
+      "name_en": "Mỹ Đức railway station",
+      "latitude": 17.238333,
+      "longitude": 106.695833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_M%E1%BB%B9_%C4%90%E1%BB%A9c"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q60298456",
+      "name_vi": "Ga Na Dương",
+      "name_en": "Ga Na Dương",
+      "latitude": 21.701111,
+      "longitude": 106.958611,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Na_D%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q3097164",
+      "name_vi": "Ga Nam Định",
+      "name_en": "Nam Định railway station",
+      "latitude": 20.42,
+      "longitude": 106.164444,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Nam_%C4%90%E1%BB%8Bnh"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q115861039",
+      "name_vi": "Ga Nghi Long",
+      "name_en": "Nghi Long railway station",
+      "latitude": 18.825429,
+      "longitude": 105.658253,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Nghi_Long"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q60325250",
+      "name_vi": "Ga Nghĩa Trang",
+      "name_en": "Nghĩa Trang railway station",
+      "latitude": 19.916111,
+      "longitude": 105.813889,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ngh%C4%A9a_Trang"
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q60364721",
+      "name_vi": "Ga Ngân Sơn",
+      "name_en": "Ngân Sơn railway station",
+      "latitude": 17.67,
+      "longitude": 106.394167,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ng%C3%A2n_S%C6%A1n"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q60367429",
+      "name_vi": "Ga Ngã Ba",
+      "name_en": "Ngã Ba railway station",
+      "latitude": 11.925833,
+      "longitude": 109.121111,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ng%C3%A3_Ba"
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q55843021",
+      "name_vi": "Ga Ngòi Hóp",
+      "name_en": "Ngòi Hóp railway station",
+      "latitude": 21.822222,
+      "longitude": 104.755,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ng%C3%B2i_H%C3%B3p"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q130735953",
+      "name_vi": "Ga Ngọc Hồi",
+      "name_en": "Ngọc Hồi Station",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ng%E1%BB%8Dc_H%E1%BB%93i"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q60364695",
+      "name_vi": "Ga Ngọc Lâm",
+      "name_en": "Ngọc Lâm railway station",
+      "latitude": 17.828611,
+      "longitude": 106.121111,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ng%E1%BB%8Dc_L%C3%A2m"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q3097205",
+      "name_vi": "Ga Nha Trang",
+      "name_en": "Nha Trang Railway Station",
+      "latitude": 12.248333,
+      "longitude": 109.184167,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Nha_Trang"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q16877130",
+      "name_vi": "Ga Ninh Bình",
+      "name_en": "Ninh Bình railway station",
+      "latitude": 20.241999,
+      "longitude": 105.974856,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ninh_B%C3%ACnh"
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q60367202",
+      "name_vi": "Ga Ninh Hòa",
+      "name_en": "Ninh Hòa railway station",
+      "latitude": 12.488889,
+      "longitude": 109.122778,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ninh_H%C3%B2a"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q60363889",
+      "name_vi": "Ga Nông Sơn",
+      "name_en": "Nông Sơn railway station",
+      "latitude": 15.886667,
+      "longitude": 108.186667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_N%C3%B4ng_S%C6%A1n"
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q60325211",
+      "name_vi": "Ga Núi Gôi",
+      "name_en": "Núi Gôi railway station",
+      "latitude": 20.331389,
+      "longitude": 106.076944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_N%C3%BAi_G%C3%B4i"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q60363906",
+      "name_vi": "Ga Núi Thành",
+      "name_en": "Núi Thành railway station",
+      "latitude": 15.421111,
+      "longitude": 108.669722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_N%C3%BAi_Th%C3%A0nh"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q1284845",
+      "name_vi": "Ga Phan Thiết",
+      "name_en": "Phan Thiết Railway Station",
+      "latitude": 10.9418,
+      "longitude": 108.0824,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Phan_Thi%E1%BA%BFt"
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q113991198",
+      "name_vi": "Ga Phong Phú (đường sắt Bắc Nam)",
+      "name_en": "Phong Phú Station",
+      "latitude": 11.242376,
+      "longitude": 108.607278,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Phong_Ph%C3%BA_(%C4%91%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_B%E1%BA%AFc_Nam)"
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q60367197",
+      "name_vi": "Ga Phong Thạnh",
+      "name_en": "Phong Thạnh railway station",
+      "latitude": 12.433333,
+      "longitude": 109.125833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Phong_Th%E1%BA%A1nh"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q60364492",
+      "name_vi": "Ga Phò Trạch",
+      "name_en": "Phò Trạch railway station",
+      "latitude": 16.584444,
+      "longitude": 107.361667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%C3%B2_Tr%E1%BA%A1ch"
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q60367505",
+      "name_vi": "Ga Phù Cát",
+      "name_en": "Phù Cát railway station",
+      "latitude": 13.994722,
+      "longitude": 109.056667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%C3%B9_C%C3%A1t"
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q60367150",
+      "name_vi": "Ga Phù Mỹ",
+      "name_en": "Phù Mỹ railway station",
+      "latitude": 14.184167,
+      "longitude": 109.039722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%C3%B9_M%E1%BB%B9"
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q60363895",
+      "name_vi": "Ga Phú Cang",
+      "name_en": "Phú Cang railway station",
+      "latitude": 15.704444,
+      "longitude": 108.341389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%C3%BA_Cang"
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q60363937",
+      "name_vi": "Ga Phú Diễn",
+      "name_en": "Phú Diễn railway station",
+      "latitude": 21.051492,
+      "longitude": 105.764667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%C3%BA_Di%E1%BB%85n_(%C4%91%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_B%E1%BA%AFc_H%E1%BB%93ng_%E2%80%93_V%C4%83n_%C4%90i%E1%BB%83n)"
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q60367245",
+      "name_vi": "Ga Phú Hiệp",
+      "name_en": "Phú Hiệp railway station",
+      "latitude": 13.000278,
+      "longitude": 109.361111,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%C3%BA_Hi%E1%BB%87p"
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q60364411",
+      "name_vi": "Ga Phú Hòa",
+      "name_en": "Phú Hòa railway station",
+      "latitude": 17.193056,
+      "longitude": 106.748333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%C3%BA_H%C3%B2a"
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q60299803",
+      "name_vi": "Ga Phú Thai",
+      "name_en": "Phú Thai railway station",
+      "latitude": 20.965556,
+      "longitude": 106.511389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%C3%BA_Th%C3%A1i"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q7188266",
+      "name_vi": "Ga Phú Thọ",
+      "name_en": "Phú Thọ railway station",
+      "latitude": 21.402222,
+      "longitude": 105.224167,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%C3%BA_Th%E1%BB%8D"
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q60195839",
+      "name_vi": "Ga Phú Thụy",
+      "name_en": "Phú Thụy railway station",
+      "latitude": 21.003611,
+      "longitude": 105.961944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%C3%BA_Th%E1%BB%A5y"
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q112053877",
+      "name_vi": "Ga Phú Vinh",
+      "name_en": "Phú Vinh station",
+      "latitude": 12.254731,
+      "longitude": 109.149922,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%C3%BA_Vinh"
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q54887496",
+      "name_vi": "Ga Phú Xuyên",
+      "name_en": "Phú Xuyên railway station",
+      "latitude": 20.7375,
+      "longitude": 105.913056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%C3%BA_Xuy%C3%AAn"
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q60364594",
+      "name_vi": "Ga Phúc Trạch",
+      "name_en": "Phúc Trạch railway station",
+      "latitude": 18.110833,
+      "longitude": 105.769722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%C3%BAc_Tr%E1%BA%A1ch"
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q60364734",
+      "name_vi": "Ga Phúc Tự",
+      "name_en": "Phúc Tự railway station",
+      "latitude": 17.551667,
+      "longitude": 106.542778,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%C3%BAc_T%E1%BB%B1"
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q55843086",
+      "name_vi": "Ga Phúc Yên",
+      "name_en": "Phúc Yên railway station",
+      "latitude": 21.240278,
+      "longitude": 105.711667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%C3%BAc_Y%C3%AAn"
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q60367464",
+      "name_vi": "Ga Phước Lãnh",
+      "name_en": "Phước Lãnh railway station",
+      "latitude": 13.486111,
+      "longitude": 109.030833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%C6%B0%E1%BB%9Bc_L%C3%A3nh"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q60367413",
+      "name_vi": "Ga Phước Nhơn",
+      "name_en": "Phước Nhơn railway station",
+      "latitude": 11.666389,
+      "longitude": 108.993333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%C6%B0%E1%BB%9Bc_Nh%C6%A1n"
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q60299789",
+      "name_vi": "Ga Phạm Xá",
+      "name_en": "Phạm Xá railway station",
+      "latitude": 20.968889,
+      "longitude": 106.452222,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%E1%BA%A1m_X%C3%A1"
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q55842968",
+      "name_vi": "Ga Phố Lu",
+      "name_en": "Phố Lu railway station",
+      "latitude": 22.315,
+      "longitude": 104.187222,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%E1%BB%91_Lu"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q54311011",
+      "name_vi": "Ga Phố Tráng",
+      "name_en": "Phố Tráng railway station",
+      "latitude": 21.33917,
+      "longitude": 106.25361,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%E1%BB%91_Tr%C3%A1ng"
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q54314681",
+      "name_vi": "Ga Phố Vị",
+      "name_en": "Phố Vị railway station",
+      "latitude": 21.473333,
+      "longitude": 106.378333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%E1%BB%91_V%E1%BB%8B"
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q54336232",
+      "name_vi": "Ga Phổ Yên",
+      "name_en": "Phổ Yên railway station",
+      "latitude": 21.411111,
+      "longitude": 105.876944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%E1%BB%95_Y%C3%AAn"
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q7188250",
+      "name_vi": "Ga Phủ Lý",
+      "name_en": "Phủ Lý railway station",
+      "latitude": 20.540556,
+      "longitude": 105.913056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%E1%BB%A7_L%C3%BD"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q55843071",
+      "name_vi": "Ga Phủ Đức",
+      "name_en": "Phủ Đức railway station",
+      "latitude": 21.338889,
+      "longitude": 105.365833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ph%E1%BB%A7_%C4%90%E1%BB%A9c"
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q7273045",
+      "name_vi": "Ga Quy Nhơn",
+      "name_en": "Quy Nhơn railway station",
+      "latitude": 13.778333,
+      "longitude": 109.223333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Quy_Nh%C6%A1n"
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q60364079",
+      "name_vi": "Ga Quán Hành",
+      "name_en": "Quán Hành railway station",
+      "latitude": 18.784444,
+      "longitude": 105.6475,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Qu%C3%A1n_H%C3%A0nh"
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q7268828",
+      "name_vi": "Ga Quán Triều",
+      "name_en": "Quán Triều railway station",
+      "latitude": 21.603889,
+      "longitude": 105.801944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Qu%C3%A1n_Tri%E1%BB%81u"
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q7268850",
+      "name_vi": "Ga Quảng Ngãi",
+      "name_en": "Quảng Ngãi railway station",
+      "latitude": 15.120778,
+      "longitude": 108.781139,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Qu%E1%BA%A3ng_Ng%C3%A3i"
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q60364469",
+      "name_vi": "Ga Quảng Trị",
+      "name_en": "Quảng Trị railway station",
+      "latitude": 16.737778,
+      "longitude": 107.186944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Qu%E1%BA%A3ng_Tr%E1%BB%8B"
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q60367493",
+      "name_vi": "Ga Sa Huỳnh",
+      "name_en": "Sa Huỳnh railway station",
+      "latitude": 14.661667,
+      "longitude": 109.064722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Sa_Hu%E1%BB%B3nh"
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q60364443",
+      "name_vi": "Ga Sa Lung",
+      "name_en": "Sa Lung railway station",
+      "latitude": 17.058611,
+      "longitude": 106.966111,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Sa_Lung"
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q54310802",
+      "name_vi": "Ga Sen Hồ",
+      "name_en": "Sen Hồ railway station",
+      "latitude": 21.2525,
+      "longitude": 106.104722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Sen_H%E1%BB%93"
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q60367418",
+      "name_vi": "Ga Suối Cát",
+      "name_en": "Suối Cát railway station",
+      "latitude": 12.0275,
+      "longitude": 109.040278,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Su%E1%BB%91i_C%C3%A1t"
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q60364792",
+      "name_vi": "Ga Suối Kiết",
+      "name_en": "Suối Kiết railway station",
+      "latitude": 10.968333,
+      "longitude": 107.630278,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Su%E1%BB%91i_Ki%E1%BA%BFt"
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q60364774",
+      "name_vi": "Ga Suối Vận",
+      "name_en": "Suối Vận railway station",
+      "latitude": 10.920556,
+      "longitude": 107.867222,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Su%E1%BB%91i_V%E1%BA%ADn"
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q2673539",
+      "name_vi": "Ga Sài Gòn",
+      "name_en": "Saigon railway station",
+      "latitude": 10.78222,
+      "longitude": 106.67722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_S%C3%A0i_G%C3%B2n"
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q7561050",
+      "name_vi": "Ga Sóng Thần",
+      "name_en": "Sóng Thần railway station",
+      "latitude": 10.883056,
+      "longitude": 106.753333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_S%C3%B3ng_Th%E1%BA%A7n"
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q60364789",
+      "name_vi": "Ga Sông Dinh",
+      "name_en": "Sông Dinh railway station",
+      "latitude": 10.921389,
+      "longitude": 107.672778,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_S%C3%B4ng_Dinh"
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q54313729",
+      "name_vi": "Ga Sông Hòa",
+      "name_en": "Sông Hóa railway station",
+      "latitude": 21.556111,
+      "longitude": 106.489722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_S%C3%B4ng_H%C3%B3a"
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q60367302",
+      "name_vi": "Ga Sông Lòng Sông",
+      "name_en": "Sông Lòng Sông railway station",
+      "latitude": 11.263611,
+      "longitude": 108.673889,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_S%C3%B4ng_L%C3%B2ng_S%C3%B4ng"
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q60367402",
+      "name_vi": "Ga Sông Lũy",
+      "name_en": "Sông Lũy railway station",
+      "latitude": 11.214722,
+      "longitude": 108.3225,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_S%C3%B4ng_L%C5%A9y"
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q60367386",
+      "name_vi": "Ga Sông Mao",
+      "name_en": "Sông Mao railway station",
+      "latitude": 11.248889,
+      "longitude": 108.506667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_S%C3%B4ng_Mao"
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q60364783",
+      "name_vi": "Ga Sông Phan",
+      "name_en": "Sông Phan railway station",
+      "latitude": 10.874444,
+      "longitude": 107.751667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_S%C3%B4ng_Phan"
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q7680466",
+      "name_vi": "Ga Tam Kỳ",
+      "name_en": "Tam Ky Railway Station",
+      "latitude": 15.5575,
+      "longitude": 108.482778,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Tam_K%E1%BB%B3"
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q60367212",
+      "name_vi": "Ga Tam Quan",
+      "name_en": "Tam Quan railway station",
+      "latitude": 14.547778,
+      "longitude": 109.043611,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Tam_Quan"
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q113991207",
+      "name_vi": "Ga Tam Thành",
+      "name_en": "Tam Thành railway station",
+      "latitude": 15.613438,
+      "longitude": 108.418466,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Tam_Th%C3%A0nh"
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q7710349",
+      "name_vi": "Ga Thanh Hóa",
+      "name_en": "Thanh Hoa Railway Station",
+      "latitude": 19.811667,
+      "longitude": 105.766944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Thanh_H%C3%B3a"
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q7710360",
+      "name_vi": "Ga Thanh Khê",
+      "name_en": "Thanh Khe Railway Station",
+      "latitude": 16.066356,
+      "longitude": 108.182378,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Thanh_Kh%C3%AA"
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q60364567",
+      "name_vi": "Ga Thanh Luyện",
+      "name_en": "Thanh Luyện railway station",
+      "latitude": 18.296389,
+      "longitude": 105.636389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Thanh_Luy%E1%BB%87n"
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q54333320",
+      "name_vi": "Ga Thái Nguyên",
+      "name_en": "Thái Nguyên railway station",
+      "latitude": 21.586778,
+      "longitude": 105.823653,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Th%C3%A1i_Nguy%C3%AAn"
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q55842978",
+      "name_vi": "Ga Thái Niên",
+      "name_en": "Thái Niên railway station",
+      "latitude": 22.399722,
+      "longitude": 104.085833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Th%C3%A1i_Ni%C3%AAn"
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q55842988",
+      "name_vi": "Ga Thái Văn",
+      "name_en": "Thái Văn railway station",
+      "latitude": 22.234444,
+      "longitude": 104.284722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Th%C3%A1i_V%C4%83n"
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q2215367",
+      "name_vi": "Ga Tháp Chàm",
+      "name_en": "Thap Cham Railway Station",
+      "latitude": 11.597222,
+      "longitude": 108.95,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Th%C3%A1p_Ch%C3%A0m"
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q54887447",
+      "name_vi": "Ga Thường Tín",
+      "name_en": "Thường Tín railway station",
+      "latitude": 20.869444,
+      "longitude": 105.864722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Th%C6%B0%E1%BB%9Dng_T%C3%ADn"
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q60364433",
+      "name_vi": "Ga Thượng Lâm",
+      "name_en": "Thượng Lâm railway station",
+      "latitude": 17.152778,
+      "longitude": 106.858333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Th%C6%B0%E1%BB%A3ng_L%C3%A2m"
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q60299815",
+      "name_vi": "Ga Thượng Lý",
+      "name_en": "Thượng Lý railway station",
+      "latitude": 20.865278,
+      "longitude": 106.658056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Th%C6%B0%E1%BB%A3ng_L%C3%BD"
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q55843088",
+      "name_vi": "Ga Thạch Lỗi",
+      "name_en": "Thạch Lỗi railway station",
+      "latitude": 21.200556,
+      "longitude": 105.75,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Th%E1%BA%A1ch_L%E1%BB%97i"
+    },
+    {
+      "id": 209,
+      "wikidata_id": "Q60367484",
+      "name_vi": "Ga Thạch Trụ",
+      "name_en": "Thạch Trụ railway station",
+      "latitude": 14.880278,
+      "longitude": 108.910278,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Th%E1%BA%A1ch_Tr%E1%BB%A5"
+    },
+    {
+      "id": 210,
+      "wikidata_id": "Q54308872",
+      "name_vi": "Ga Thị Cầu",
+      "name_en": "Thị Cầu railway station",
+      "latitude": 21.195,
+      "longitude": 106.081111,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Th%E1%BB%8B_C%E1%BA%A7u"
+    },
+    {
+      "id": 211,
+      "wikidata_id": "Q60364012",
+      "name_vi": "Ga Thị Long",
+      "name_en": "Thị Long railway station",
+      "latitude": 19.541667,
+      "longitude": 105.71,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Th%E1%BB%8B_Long"
+    },
+    {
+      "id": 212,
+      "wikidata_id": "Q67898988",
+      "name_vi": "Ga Thịnh Châu",
+      "name_en": "Thịnh Châu railway station",
+      "latitude": 20.509774,
+      "longitude": 105.894846,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Th%E1%BB%8Bnh_Ch%C3%A2u"
+    },
+    {
+      "id": 213,
+      "wikidata_id": "Q60364727",
+      "name_vi": "Ga Thọ Lộc",
+      "name_en": "Thọ Lộc railway station",
+      "latitude": 17.618889,
+      "longitude": 106.458611,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Th%E1%BB%8D_L%E1%BB%99c"
+    },
+    {
+      "id": 214,
+      "wikidata_id": "Q118581513",
+      "name_vi": "Ga Thủy Thạch",
+      "name_en": "Thủy Thạch station",
+      "latitude": 14.752592,
+      "longitude": 109.006693,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Th%E1%BB%A7y_Th%E1%BA%A1ch"
+    },
+    {
+      "id": 215,
+      "wikidata_id": "Q60367490",
+      "name_vi": "Ga Thủy Trạch",
+      "name_en": "Thủy Trạch railway station",
+      "latitude": 14.7525,
+      "longitude": 109.006667,
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 216,
+      "wikidata_id": "Q60363520",
+      "name_vi": "Ga Thừa Lưu",
+      "name_en": "Thừa Lưu railway station",
+      "latitude": 16.270833,
+      "longitude": 107.994722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Th%E1%BB%ABa_L%C6%B0u"
+    },
+    {
+      "id": 217,
+      "wikidata_id": "Q60364450",
+      "name_vi": "Ga Tiên An",
+      "name_en": "Tiên An railway station",
+      "latitude": 16.977778,
+      "longitude": 107.03,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ti%C3%AAn_An"
+    },
+    {
+      "id": 218,
+      "wikidata_id": "Q55843069",
+      "name_vi": "Ga Tiên Kiên",
+      "name_en": "Tiên Kiên railway station",
+      "latitude": 21.366944,
+      "longitude": 105.291944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ti%C3%AAn_Ki%C3%AAn"
+    },
+    {
+      "id": 219,
+      "wikidata_id": "Q60195905",
+      "name_vi": "Ga Tiền Trung",
+      "name_en": "Tiền Trung railway station",
+      "latitude": 20.9675,
+      "longitude": 106.378611,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Ti%E1%BB%81n_Trung"
+    },
+    {
+      "id": 220,
+      "wikidata_id": "Q54336542",
+      "name_vi": "Ga Trung Giã",
+      "name_en": "Trung Giã railway station",
+      "latitude": 21.315278,
+      "longitude": 105.871389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Trung_Gi%C3%A3"
+    },
+    {
+      "id": 221,
+      "wikidata_id": "Q112066665",
+      "name_vi": "Ga Trung Hòa (đường sắt Bắc Nam)",
+      "name_en": "Trung Hòa railway station",
+      "latitude": 10.933636,
+      "longitude": 107.062865,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Trung_H%C3%B2a_(%C4%91%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_B%E1%BA%AFc_Nam)"
+    },
+    {
+      "id": 222,
+      "wikidata_id": "Q60363505",
+      "name_vi": "Ga Truồi",
+      "name_en": "Truồi railway station",
+      "latitude": 16.318889,
+      "longitude": 107.774722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Tru%E1%BB%93i"
+    },
+    {
+      "id": 223,
+      "wikidata_id": "Q60363892",
+      "name_vi": "Ga Trà Kiệu",
+      "name_en": "Trà Kiệu railway station",
+      "latitude": 15.809444,
+      "longitude": 108.231111,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Tr%C3%A0_Ki%E1%BB%87u"
+    },
+    {
+      "id": 224,
+      "wikidata_id": "Q55843005",
+      "name_vi": "Ga Trái Hút",
+      "name_en": "Trái Hút railway station",
+      "latitude": 21.972222,
+      "longitude": 104.591667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Tr%C3%A1i_H%C3%BAt"
+    },
+    {
+      "id": 225,
+      "wikidata_id": "Q111181407",
+      "name_vi": "Ga Trình Xuyên",
+      "name_en": "Trình Xuyên station",
+      "latitude": 20.370833,
+      "longitude": 106.1325,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Tr%C3%ACnh_Xuy%C3%AAn"
+    },
+    {
+      "id": 226,
+      "wikidata_id": "Q60364054",
+      "name_vi": "Ga Trường Lâm",
+      "name_en": "Trường Lâm railway station",
+      "latitude": 19.315,
+      "longitude": 105.72,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Tr%C6%B0%E1%BB%9Dng_L%C3%A2m"
+    },
+    {
+      "id": 227,
+      "wikidata_id": "Q60368169",
+      "name_vi": "Ga Trại Mát",
+      "name_en": "Trại Mát railway station",
+      "latitude": 11.946111,
+      "longitude": 108.501389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Tr%E1%BA%A1i_M%C3%A1t"
+    },
+    {
+      "id": 228,
+      "wikidata_id": "Q60364802",
+      "name_vi": "Ga Trản Táo",
+      "name_en": "Trản Táo railway station",
+      "latitude": 10.9675,
+      "longitude": 107.488056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Tr%E1%BA%A3n_T%C3%A1o"
+    },
+    {
+      "id": 229,
+      "wikidata_id": "Q60364822",
+      "name_vi": "Ga Trảng Bom",
+      "name_en": "Trảng Bom railway station",
+      "latitude": 10.944722,
+      "longitude": 106.993889,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Tr%E1%BA%A3ng_Bom"
+    },
+    {
+      "id": 230,
+      "wikidata_id": "Q60363911",
+      "name_vi": "Ga Trị Bình",
+      "name_en": "Trị Bình railway station",
+      "latitude": 15.348333,
+      "longitude": 108.729444,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Tr%C3%AC_B%C3%ACnh"
+    },
+    {
+      "id": 231,
+      "wikidata_id": "Q60367261",
+      "name_vi": "Ga Tu Bông",
+      "name_en": "Tu Bông railway station",
+      "latitude": 12.777778,
+      "longitude": 109.300833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Tu_B%C3%B4ng"
+    },
+    {
+      "id": 232,
+      "wikidata_id": "Q7857223",
+      "name_vi": "Ga Tuy Hòa",
+      "name_en": "Tuy Hoa Railway Station",
+      "latitude": 13.0881,
+      "longitude": 109.2973,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Tuy_H%C3%B2a"
+    },
+    {
+      "id": 233,
+      "wikidata_id": "Q60195858",
+      "name_vi": "Ga Tuấn Lương",
+      "name_en": "Tuấn Lương railway station",
+      "latitude": 20.970556,
+      "longitude": 106.100278,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Tu%E1%BA%A5n_L%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 234,
+      "wikidata_id": "Q60298484",
+      "name_vi": "Ga Tân Liên",
+      "name_en": "Ga Tân Liên",
+      "latitude": 21.81286,
+      "longitude": 106.82548,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_T%C3%A2n_Li%C3%AAn"
+    },
+    {
+      "id": 235,
+      "wikidata_id": "Q60367454",
+      "name_vi": "Ga Tân Vinh",
+      "name_en": "Tân Vinh railway station",
+      "latitude": 13.7075,
+      "longitude": 109.049444,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_T%C3%A2n_Vinh"
+    },
+    {
+      "id": 236,
+      "wikidata_id": "Q7682014",
+      "name_vi": "Ga Tân Ấp",
+      "name_en": "Tan Ap Railway Station",
+      "latitude": 18.033611,
+      "longitude": 105.854167,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_T%C3%A2n_%E1%BA%A4p"
+    },
+    {
+      "id": 237,
+      "wikidata_id": "Q54306404",
+      "name_vi": "Ga Từ Sơn",
+      "name_en": "Từ Sơn railway station",
+      "latitude": 21.120278,
+      "longitude": 105.9625,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_T%E1%BB%AB_S%C6%A1n"
+    },
+    {
+      "id": 238,
+      "wikidata_id": "Q7897882",
+      "name_vi": "Ga Uông Bí",
+      "name_en": "Uong Bi Railway Station",
+      "latitude": 21.034722,
+      "longitude": 106.755556,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_U%C3%B4ng_B%C3%AD"
+    },
+    {
+      "id": 239,
+      "wikidata_id": "Q7932534",
+      "name_vi": "Ga Vinh",
+      "name_en": "Vinh Railway Station",
+      "latitude": 18.688333,
+      "longitude": 105.664444,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Vinh"
+    },
+    {
+      "id": 240,
+      "wikidata_id": "Q7928448",
+      "name_vi": "Ga Việt Trì",
+      "name_en": "Việt Trì railway station",
+      "latitude": 21.300556,
+      "longitude": 105.431667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Vi%E1%BB%87t_Tr%C3%AC"
+    },
+    {
+      "id": 241,
+      "wikidata_id": "Q54314779",
+      "name_vi": "Ga Voi Xô",
+      "name_en": "Voi Xô railway station",
+      "latitude": 21.438611,
+      "longitude": 106.338056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Voi_X%C3%B4"
+    },
+    {
+      "id": 242,
+      "wikidata_id": "Q60367461",
+      "name_vi": "Ga Vân Canh",
+      "name_en": "Vân Canh railway station",
+      "latitude": 13.620556,
+      "longitude": 108.996944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_V%C3%A2n_Canh"
+    },
+    {
+      "id": 243,
+      "wikidata_id": "Q55843033",
+      "name_vi": "Ga Văn Phú",
+      "name_en": "Văn Phú railway station",
+      "latitude": 21.678333,
+      "longitude": 104.926944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_V%C4%83n_Ph%C3%BA"
+    },
+    {
+      "id": 244,
+      "wikidata_id": "Q60364039",
+      "name_vi": "Ga Văn Trai",
+      "name_en": "Văn Trai railway station",
+      "latitude": 19.457778,
+      "longitude": 105.763333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_V%C4%83n_Trai"
+    },
+    {
+      "id": 245,
+      "wikidata_id": "Q60364455",
+      "name_vi": "Ga Văn Xá",
+      "name_en": "Văn Xá railway station",
+      "latitude": 16.508333,
+      "longitude": 107.503056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_V%C4%83n_X%C3%A1"
+    },
+    {
+      "id": 246,
+      "wikidata_id": "Q7913293",
+      "name_vi": "Ga Văn Điển",
+      "name_en": "Văn Điển railway station",
+      "latitude": 20.943889,
+      "longitude": 105.843611,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_V%C4%83n_%C4%90i%E1%BB%83n"
+    },
+    {
+      "id": 247,
+      "wikidata_id": "Q60367283",
+      "name_vi": "Ga Vĩnh Hảo",
+      "name_en": "Vĩnh Hảo railway station",
+      "latitude": 11.309444,
+      "longitude": 108.741944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_V%C4%A9nh_H%E1%BA%A3o"
+    },
+    {
+      "id": 248,
+      "wikidata_id": "Q112130166",
+      "name_vi": "Ga Vĩnh Tân",
+      "name_en": "Vĩnh Tân railway station",
+      "latitude": 11.325913,
+      "longitude": 108.811285,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_V%C4%A9nh_T%C3%A2n"
+    },
+    {
+      "id": 249,
+      "wikidata_id": "Q54353665",
+      "name_vi": "Ga Vĩnh Yên",
+      "name_en": "Vĩnh Yên railway station",
+      "latitude": 21.308889,
+      "longitude": 105.601944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_V%C4%A9nh_Y%C3%AAn"
+    },
+    {
+      "id": 250,
+      "wikidata_id": "Q55843062",
+      "name_vi": "Ga Vũ Ẻn",
+      "name_en": "Vũ Ẻn railway station",
+      "latitude": 21.4875,
+      "longitude": 105.085833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_V%C5%A9_%E1%BA%BAn"
+    },
+    {
+      "id": 251,
+      "wikidata_id": "Q60367167",
+      "name_vi": "Ga Vạn Phú",
+      "name_en": "Vạn Phú railway station",
+      "latitude": 14.313889,
+      "longitude": 109.064167,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_V%E1%BA%A1n_Ph%C3%BA"
+    },
+    {
+      "id": 252,
+      "wikidata_id": "Q57307316",
+      "name_vi": "Ga Vạn Điểm",
+      "name_en": "Vạn Điểm railway station",
+      "latitude": 20.771111,
+      "longitude": 105.901111,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_V%E1%BA%A1n_%C4%90i%E1%BB%83m"
+    },
+    {
+      "id": 253,
+      "wikidata_id": "Q60299810",
+      "name_vi": "Ga Vật Cách",
+      "name_en": "Vật Cách railway station",
+      "latitude": 20.884722,
+      "longitude": 106.605,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_V%E1%BA%ADt_C%C3%A1ch"
+    },
+    {
+      "id": 254,
+      "wikidata_id": "Q130516136",
+      "name_vi": "Ga Xuân Sơn Nam",
+      "name_en": "Ga Xuân Sơn Nam",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Xu%C3%A2n_S%C6%A1n_Nam"
+    },
+    {
+      "id": 255,
+      "wikidata_id": "Q8052177",
+      "name_vi": "Ga Yên Bái",
+      "name_en": "Yên Bái railway station",
+      "latitude": 21.702215,
+      "longitude": 104.880567,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Y%C3%AAn_B%C3%A1i"
+    },
+    {
+      "id": 256,
+      "wikidata_id": "Q8052178",
+      "name_vi": "Ga Yên Cư",
+      "name_en": "Yen Cu Railway Station",
+      "latitude": 20.982778,
+      "longitude": 106.914444,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Y%C3%AAn_C%C6%B0"
+    },
+    {
+      "id": 257,
+      "wikidata_id": "Q60364556",
+      "name_vi": "Ga Yên Duệ",
+      "name_en": "Yên Duệ railway station",
+      "latitude": 18.426944,
+      "longitude": 105.566389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Y%C3%AAn_Du%E1%BB%87"
+    },
+    {
+      "id": 258,
+      "wikidata_id": "Q60433801",
+      "name_vi": "Ga Yên Dưỡng",
+      "name_en": "Ga Yên Dưỡng",
+      "latitude": 21.045556,
+      "longitude": 106.700833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Y%C3%AAn_D%C6%B0%E1%BB%A1ng"
+    },
+    {
+      "id": 259,
+      "wikidata_id": "Q60364063",
+      "name_vi": "Ga Yên Lý",
+      "name_en": "Yên Lý railway station",
+      "latitude": 19.076667,
+      "longitude": 105.585833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Y%C3%AAn_L%C3%BD"
+    },
+    {
+      "id": 260,
+      "wikidata_id": "Q60363991",
+      "name_vi": "Ga Yên Thái",
+      "name_en": "Yên Thái railway station",
+      "latitude": 19.718333,
+      "longitude": 105.707222,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Y%C3%AAn_Th%C3%A1i"
+    },
+    {
+      "id": 261,
+      "wikidata_id": "Q60299868",
+      "name_vi": "Ga Yên Trung",
+      "name_en": "Yên Trung railway station",
+      "latitude": 18.523611,
+      "longitude": 105.587778,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Y%C3%AAn_Trung"
+    },
+    {
+      "id": 262,
+      "wikidata_id": "Q54313522",
+      "name_vi": "Ga Yên Trạch",
+      "name_en": "Yên Trạch railway station",
+      "latitude": 21.809722,
+      "longitude": 106.761944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Y%C3%AAn_Tr%E1%BA%A1ch"
+    },
+    {
+      "id": 263,
+      "wikidata_id": "Q8052198",
+      "name_vi": "Ga Yên Viên",
+      "name_en": "Yên Viên railway station",
+      "latitude": 21.086944,
+      "longitude": 105.9175,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Y%C3%AAn_Vi%C3%AAn"
+    },
+    {
+      "id": 264,
+      "wikidata_id": "Q60364533",
+      "name_vi": "Ga Yên Xuân",
+      "name_en": "Yên Xuân railway station",
+      "latitude": 18.603889,
+      "longitude": 105.62,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_Y%C3%AAn_Xu%C3%A2n"
+    },
+    {
+      "id": 265,
+      "wikidata_id": "Q54336614",
+      "name_vi": "Ga Đa Phúc",
+      "name_en": "Đa Phúc railway station",
+      "latitude": 21.232778,
+      "longitude": 105.860833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90a_Ph%C3%BAc"
+    },
+    {
+      "id": 266,
+      "wikidata_id": "Q55843052",
+      "name_vi": "Ga Đoan Thượng",
+      "name_en": "Đoan Thượng railway station",
+      "latitude": 21.619722,
+      "longitude": 104.950278,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90oan_Th%C6%B0%E1%BB%A3ng"
+    },
+    {
+      "id": 267,
+      "wikidata_id": "Q3096348",
+      "name_vi": "Ga Đà Lạt",
+      "name_en": "Da Lat Railway Station",
+      "latitude": 11.942,
+      "longitude": 108.455,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%C3%A0_L%E1%BA%A1t"
+    },
+    {
+      "id": 268,
+      "wikidata_id": "Q3096350",
+      "name_vi": "Ga Đà Nẵng",
+      "name_en": "Da Nang Railway Station",
+      "latitude": 16.0716,
+      "longitude": 108.2092,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%C3%A0_N%E1%BA%B5ng"
+    },
+    {
+      "id": 269,
+      "wikidata_id": "Q60325247",
+      "name_vi": "Ga Đò Lèn",
+      "name_en": "Đò Lèn railway station",
+      "latitude": 19.987778,
+      "longitude": 105.844444,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%C3%B2_L%C3%A8n"
+    },
+    {
+      "id": 270,
+      "wikidata_id": "Q5295707",
+      "name_vi": "Ga Đông Anh",
+      "name_en": "Đông Anh railway station",
+      "latitude": 21.153056,
+      "longitude": 105.851944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%C3%B4ng_Anh"
+    },
+    {
+      "id": 271,
+      "wikidata_id": "Q5295730",
+      "name_vi": "Ga Đông Hà",
+      "name_en": "Dong Ha Railway Station",
+      "latitude": 16.811111,
+      "longitude": 107.111667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%C3%B4ng_H%C3%A0"
+    },
+    {
+      "id": 272,
+      "wikidata_id": "Q60433772",
+      "name_vi": "Ga Đông Triều",
+      "name_en": "Ga Đông Triều",
+      "latitude": 21.094722,
+      "longitude": 106.533056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%C3%B4ng_Tri%E1%BB%81u"
+    },
+    {
+      "id": 273,
+      "wikidata_id": "Q60367240",
+      "name_vi": "Ga Đông Tác",
+      "name_en": "Đông Tác railway station",
+      "latitude": 13.055833,
+      "longitude": 109.321944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%C3%B4ng_T%C3%A1c"
+    },
+    {
+      "id": 274,
+      "wikidata_id": "Q60367255",
+      "name_vi": "Ga Đại Lãnh",
+      "name_en": "Đại Lãnh railway station",
+      "latitude": 12.833889,
+      "longitude": 109.360556,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%E1%BA%A1i_L%C3%A3nh"
+    },
+    {
+      "id": 275,
+      "wikidata_id": "Q60363919",
+      "name_vi": "Ga Đại Lộc",
+      "name_en": "Đại Lộc railway station",
+      "latitude": 15.195,
+      "longitude": 108.765833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%E1%BA%A1i_L%E1%BB%99c"
+    },
+    {
+      "id": 276,
+      "wikidata_id": "Q63725495",
+      "name_vi": "Ga Đại Từ",
+      "name_en": "Đại Từ railway station",
+      "latitude": 21.651394,
+      "longitude": 105.616808,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%E1%BA%A1i_T%E1%BB%AB"
+    },
+    {
+      "id": 277,
+      "wikidata_id": "Q60299835",
+      "name_vi": "Ga Đặng Xá",
+      "name_en": "Đặng Xá railway station",
+      "latitude": 20.441667,
+      "longitude": 106.118889,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%E1%BA%B7ng_X%C3%A1"
+    },
+    {
+      "id": 278,
+      "wikidata_id": "Q60364671",
+      "name_vi": "Ga Đồng Chuối",
+      "name_en": "Đồng Chuối railway station",
+      "latitude": 18.008056,
+      "longitude": 105.903889,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%E1%BB%93ng_Chu%E1%BB%91i"
+    },
+    {
+      "id": 279,
+      "wikidata_id": "Q60325243",
+      "name_vi": "Ga Đồng Giao",
+      "name_en": "Đồng Giao railway station",
+      "latitude": 20.138611,
+      "longitude": 105.870833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%E1%BB%93ng_Giao"
+    },
+    {
+      "id": 280,
+      "wikidata_id": "Q527753",
+      "name_vi": "Ga Đồng Hới",
+      "name_en": "Dong Hoi Railway Station",
+      "latitude": 17.469274,
+      "longitude": 106.600106,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%E1%BB%93ng_H%E1%BB%9Bi"
+    },
+    {
+      "id": 281,
+      "wikidata_id": "Q60364689",
+      "name_vi": "Ga Đồng Lê",
+      "name_en": "Đồng Lê railway station",
+      "latitude": 17.887778,
+      "longitude": 106.021944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%E1%BB%93ng_L%C3%AA"
+    },
+    {
+      "id": 282,
+      "wikidata_id": "Q54314050",
+      "name_vi": "Ga Đồng Mỏ",
+      "name_en": "Đồng Mỏ railway station",
+      "latitude": 21.651389,
+      "longitude": 106.576944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%E1%BB%93ng_M%E1%BB%8F"
+    },
+    {
+      "id": 283,
+      "wikidata_id": "Q54887531",
+      "name_vi": "Ga Đồng Văn",
+      "name_en": "Đồng Văn railway station",
+      "latitude": 20.638611,
+      "longitude": 105.918889,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%E1%BB%93ng_V%C4%83n"
+    },
+    {
+      "id": 284,
+      "wikidata_id": "Q1109565",
+      "name_vi": "Ga Đồng Đăng",
+      "name_en": "Đồng Đăng railway station",
+      "latitude": 21.9439,
+      "longitude": 106.697,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%E1%BB%93ng_%C4%90%C4%83ng"
+    },
+    {
+      "id": 285,
+      "wikidata_id": "Q60364548",
+      "name_vi": "Ga Đức Lạc",
+      "name_en": "Đức Lạc railway station",
+      "latitude": 18.482778,
+      "longitude": 105.583056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%E1%BB%A9c_L%E1%BA%A1c"
+    },
+    {
+      "id": 286,
+      "wikidata_id": "Q60367487",
+      "name_vi": "Ga Đức Phổ",
+      "name_en": "Đức Phổ railway station",
+      "latitude": 14.809722,
+      "longitude": 108.946389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%C4%90%E1%BB%A9c_Ph%E1%BB%95"
+    },
+    {
+      "id": 287,
+      "wikidata_id": "Q55843057",
+      "name_vi": "Ga Ấm Thượng",
+      "name_en": "Ấm Thượng railway station",
+      "latitude": 21.560278,
+      "longitude": 105.005556,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ga_%E1%BA%A4m_Th%C6%B0%E1%BB%A3ng"
+    }
+  ],
+  "meta": {
+    "title": "Ga đường sắt ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách ga đường sắt (nhà ga xe lửa) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31 wd:Q55488 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu ga đường sắt (nhà ga xe lửa) đầu tiên trong nhóm tiếng Việt — mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 282/287 toạ độ, 286/287 vi.wikipedia. Chứa 287 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Ga đường sắt ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Ga đường sắt ở Việt Nam — 287 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 287 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

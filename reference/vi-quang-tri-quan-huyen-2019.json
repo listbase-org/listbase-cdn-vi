@@ -1,0 +1,166 @@
+{
+  "id": "vi-quang-tri-quan-huyen-2019",
+  "name": "Quảng Trị — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Quảng Trị — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 10 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Quảng Trị theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 1 Thành phố, 1 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/QT.json). (10 district-level units of Quảng Trị under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "QT-01",
+      "name": "Cam Lộ",
+      "name_full": "Huyện Cam Lộ",
+      "slug": "cam-lo",
+      "division_type": "Huyện",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 9
+    },
+    {
+      "code": "QT-02",
+      "name": "Đa Krông",
+      "name_full": "Huyện Đa Krông",
+      "slug": "da-krong",
+      "division_type": "Huyện",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 14
+    },
+    {
+      "code": "QT-03",
+      "name": "Đảo Cồn cỏ",
+      "name_full": "Huyện Đảo Cồn cỏ",
+      "slug": "dao-con-co",
+      "division_type": "Huyện",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 0
+    },
+    {
+      "code": "QT-04",
+      "name": "Đông Hà",
+      "name_full": "Thành phố Đông Hà",
+      "slug": "dong-ha",
+      "division_type": "Thành phố",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 9
+    },
+    {
+      "code": "QT-05",
+      "name": "Gio Linh",
+      "name_full": "Huyện Gio Linh",
+      "slug": "gio-linh",
+      "division_type": "Huyện",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 21
+    },
+    {
+      "code": "QT-06",
+      "name": "Hải Lăng",
+      "name_full": "Huyện Hải Lăng",
+      "slug": "hai-lang",
+      "division_type": "Huyện",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 20
+    },
+    {
+      "code": "QT-07",
+      "name": "Hướng Hóa",
+      "name_full": "Huyện Hướng Hóa",
+      "slug": "huong-hoa",
+      "division_type": "Huyện",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 22
+    },
+    {
+      "code": "QT-08",
+      "name": "Quảng Trị",
+      "name_full": "Thị xã Quảng Trị",
+      "slug": "quang-tri",
+      "division_type": "Thị xã",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 5
+    },
+    {
+      "code": "QT-09",
+      "name": "Triệu Phong",
+      "name_full": "Huyện Triệu Phong",
+      "slug": "trieu-phong",
+      "division_type": "Huyện",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 19
+    },
+    {
+      "code": "QT-10",
+      "name": "Vĩnh Linh",
+      "name_full": "Huyện Vĩnh Linh",
+      "slug": "vinh-linh",
+      "division_type": "Huyện",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 22
+    }
+  ],
+  "meta": {
+    "title": "Quảng Trị — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 10 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Quảng Trị theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 1 Thành phố, 1 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/QT.json). (10 district-level units of Quảng Trị under the pre-2025-merger 3-tier hierarchy.) Chứa 10 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Quảng Trị — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Quảng Trị — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 10 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 10 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

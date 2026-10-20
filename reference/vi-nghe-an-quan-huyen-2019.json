@@ -1,0 +1,276 @@
+{
+  "id": "vi-nghe-an-quan-huyen-2019",
+  "name": "Nghệ An — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Nghệ An — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 21 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Nghệ An theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 17 Huyện, 3 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/NA.json). (21 district-level units of Nghệ An under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "NA-01",
+      "name": "Anh Sơn",
+      "name_full": "Huyện Anh Sơn",
+      "slug": "anh-son",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 21
+    },
+    {
+      "code": "NA-02",
+      "name": "Con Cuông",
+      "name_full": "Huyện Con Cuông",
+      "slug": "con-cuong",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 13
+    },
+    {
+      "code": "NA-03",
+      "name": "Cửa Lò",
+      "name_full": "Thị xã Cửa Lò",
+      "slug": "cua-lo",
+      "division_type": "Thị xã",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 7
+    },
+    {
+      "code": "NA-04",
+      "name": "Diễn Châu",
+      "name_full": "Huyện Diễn Châu",
+      "slug": "dien-chau",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 39
+    },
+    {
+      "code": "NA-05",
+      "name": "Đô Lương",
+      "name_full": "Huyện Đô Lương",
+      "slug": "do-luong",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 33
+    },
+    {
+      "code": "NA-06",
+      "name": "Hoàng Mai",
+      "name_full": "Thị xã Hoàng Mai",
+      "slug": "hoang-mai",
+      "division_type": "Thị xã",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 10
+    },
+    {
+      "code": "NA-07",
+      "name": "Hưng Nguyên",
+      "name_full": "Huyện Hưng Nguyên",
+      "slug": "hung-nguyen",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 23
+    },
+    {
+      "code": "NA-08",
+      "name": "Kỳ Sơn",
+      "name_full": "Huyện Kỳ Sơn",
+      "slug": "ky-son",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 21
+    },
+    {
+      "code": "NA-09",
+      "name": "Nam Đàn",
+      "name_full": "Huyện Nam Đàn",
+      "slug": "nam-dan",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 24
+    },
+    {
+      "code": "NA-10",
+      "name": "Nghi Lộc",
+      "name_full": "Huyện Nghi Lộc",
+      "slug": "nghi-loc",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 31
+    },
+    {
+      "code": "NA-11",
+      "name": "Nghĩa Đàn",
+      "name_full": "Huyện Nghĩa Đàn",
+      "slug": "nghia-dan",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 25
+    },
+    {
+      "code": "NA-12",
+      "name": "Quế Phong",
+      "name_full": "Huyện Quế Phong",
+      "slug": "que-phong",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 14
+    },
+    {
+      "code": "NA-13",
+      "name": "Quỳ Châu",
+      "name_full": "Huyện Quỳ Châu",
+      "slug": "quy-chau",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 12
+    },
+    {
+      "code": "NA-14",
+      "name": "Quỳ Hợp",
+      "name_full": "Huyện Quỳ Hợp",
+      "slug": "quy-hop",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 21
+    },
+    {
+      "code": "NA-15",
+      "name": "Quỳnh Lưu",
+      "name_full": "Huyện Quỳnh Lưu",
+      "slug": "quynh-luu",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 33
+    },
+    {
+      "code": "NA-16",
+      "name": "Tân Kỳ",
+      "name_full": "Huyện Tân Kỳ",
+      "slug": "tan-ky",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 22
+    },
+    {
+      "code": "NA-17",
+      "name": "Thái Hòa",
+      "name_full": "Thị xã Thái Hòa",
+      "slug": "thai-hoa",
+      "division_type": "Thị xã",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 10
+    },
+    {
+      "code": "NA-18",
+      "name": "Thanh Chương",
+      "name_full": "Huyện Thanh Chương",
+      "slug": "thanh-chuong",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 41
+    },
+    {
+      "code": "NA-19",
+      "name": "Tương Dương",
+      "name_full": "Huyện Tương Dương",
+      "slug": "tuong-duong",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 18
+    },
+    {
+      "code": "NA-20",
+      "name": "Vinh",
+      "name_full": "Thành phố Vinh",
+      "slug": "vinh",
+      "division_type": "Thành phố",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 27
+    },
+    {
+      "code": "NA-21",
+      "name": "Yên Thành",
+      "name_full": "Huyện Yên Thành",
+      "slug": "yen-thanh",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 40
+    }
+  ],
+  "meta": {
+    "title": "Nghệ An — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 21 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Nghệ An theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 17 Huyện, 3 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/NA.json). (21 district-level units of Nghệ An under the pre-2025-merger 3-tier hierarchy.) Chứa 21 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Nghệ An — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Nghệ An — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 21 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 21 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

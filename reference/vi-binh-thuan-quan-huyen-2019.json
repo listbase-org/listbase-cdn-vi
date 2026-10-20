@@ -1,0 +1,166 @@
+{
+  "id": "vi-binh-thuan-quan-huyen-2019",
+  "name": "Bình Thuận   — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Bình Thuận   — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 10 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Bình Thuận   theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/BTH.json). (10 district-level units of Bình Thuận   under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "BTH-01",
+      "name": "Bắc Bình",
+      "name_full": "Huyện Bắc Bình",
+      "slug": "bac-binh",
+      "division_type": "Huyện",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 18
+    },
+    {
+      "code": "BTH-02",
+      "name": "Đảo Phú Quý",
+      "name_full": "Huyện Đảo Phú Quý",
+      "slug": "dao-phu-quy",
+      "division_type": "Huyện",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 3
+    },
+    {
+      "code": "BTH-03",
+      "name": "Đức Linh",
+      "name_full": "Huyện Đức Linh",
+      "slug": "duc-linh",
+      "division_type": "Huyện",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 13
+    },
+    {
+      "code": "BTH-04",
+      "name": "Hàm Tân",
+      "name_full": "Huyện Hàm Tân",
+      "slug": "ham-tan",
+      "division_type": "Huyện",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 10
+    },
+    {
+      "code": "BTH-05",
+      "name": "Hàm Thuận Bắc",
+      "name_full": "Huyện Hàm Thuận Bắc",
+      "slug": "ham-thuan-bac",
+      "division_type": "Huyện",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 18
+    },
+    {
+      "code": "BTH-06",
+      "name": "Hàm Thuận Nam",
+      "name_full": "Huyện Hàm Thuận Nam",
+      "slug": "ham-thuan-nam",
+      "division_type": "Huyện",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 12
+    },
+    {
+      "code": "BTH-07",
+      "name": "La Gi",
+      "name_full": "Thị xã La Gi",
+      "slug": "la-gi",
+      "division_type": "Thị xã",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 9
+    },
+    {
+      "code": "BTH-08",
+      "name": "Phan Thiết",
+      "name_full": "Thành phố Phan Thiết",
+      "slug": "phan-thiet",
+      "division_type": "Thành phố",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 19
+    },
+    {
+      "code": "BTH-09",
+      "name": "Tánh Linh",
+      "name_full": "Huyện Tánh Linh",
+      "slug": "tanh-linh",
+      "division_type": "Huyện",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 14
+    },
+    {
+      "code": "BTH-10",
+      "name": "Tuy Phong",
+      "name_full": "Huyện Tuy Phong",
+      "slug": "tuy-phong",
+      "division_type": "Huyện",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 12
+    }
+  ],
+  "meta": {
+    "title": "Bình Thuận   — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 10 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Bình Thuận   theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/BTH.json). (10 district-level units of Bình Thuận   under the pre-2025-merger 3-tier hierarchy.) Chứa 10 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Bình Thuận   — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Bình Thuận   — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 10 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 10 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

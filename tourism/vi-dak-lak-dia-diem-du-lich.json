@@ -1,0 +1,126 @@
+{
+  "id": "vi-dak-lak-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Đắk Lắk",
+  "title": "Địa điểm du lịch Đắk Lắk",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Đắk Lắk (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "number"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 241,
+      "ten_dia_diem": "Buôn Đôn",
+      "vi_tri": "Đắk Lắk",
+      "tinh_truoc_sap_nhap_2025": "Đắk Lắk",
+      "mo_ta": "Buôn Đôn, nằm tại tỉnh Đắk Lắk, Việt Nam, là một vùng đất nổi tiếng với văn hóa đặc sắc và khung cảnh thiên nhiên hùng vĩ. Đây là vùng đất của người dân tộc Ê-đê và Mnông, nơi bạn có thể khám phá những nét văn hóa độc đáo và các hoạt động thú vị",
+      "danh_gia": "3.6",
+      "danh_gia_diem": 3.6,
+      "anh": "https://cdn.tgdd.vn/Files/2023/09/28/1549550/du-lich-buon-don-dak-lak-7-dia-diem-khong-the-bo-lo-202309282152153920.jpg",
+      "tu_khoa": "du lịch, thiên nhiên, cảnh đẹp"
+    },
+    {
+      "stt": 242,
+      "ten_dia_diem": "Hồ Lắk",
+      "vi_tri": "Đắk Lắk",
+      "tinh_truoc_sap_nhap_2025": "Đắk Lắk",
+      "mo_ta": "Hồ Lắk là một hồ nước lớn tại Việt Nam, nằm ở phía tây bắc tỉnh Lâm Đồng. Hồ này được biết đến với cảnh quan thiên nhiên tuyệt đẹp và đa dạng sinh học phong phú. Hồ Lắk cũng là một điểm đến thu hút du khách với các hoạt động như lặn biển, câu cá, và du thuyền",
+      "danh_gia": "3.4",
+      "danh_gia_diem": 3.4,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsOvhXUBk60SmnYLmkC5qZ1c-BF0w4VF5Dyw&s",
+      "tu_khoa": "lịch sử, văn hóa, khám phá"
+    },
+    {
+      "stt": 243,
+      "ten_dia_diem": "Thác Dray Nur",
+      "vi_tri": "Đắk Lắk",
+      "tinh_truoc_sap_nhap_2025": "Đắk Lắk",
+      "mo_ta": "Thác Dray Nur, nằm ở tỉnh Đắk Lắk, là một trong những thác nước đẹp và hùng vĩ nhất của Tây Nguyên. Thác này nằm bên dòng sông Sêrêpôk, nổi tiếng với vẻ đẹp hoang sơ và huyền bí",
+      "danh_gia": "3.9",
+      "danh_gia_diem": 3.9,
+      "anh": "https://images.baodantoc.vn/uploads/2021/Th%C3%A1ng_10/Ng%C3%A0y_14/NGN%C3%82/th%C3%A1c%20Dray%20Nur/41-1634140188-dray-nur.jpg",
+      "tu_khoa": "địa danh nổi tiếng, biểu tượng"
+    },
+    {
+      "stt": 244,
+      "ten_dia_diem": "Bảo tàng cà phê Thế giới",
+      "vi_tri": "Đắk Lắk",
+      "tinh_truoc_sap_nhap_2025": "Đắk Lắk",
+      "mo_ta": "Bảo tàng Thế giới Cà phê, tọa lạc tại Buôn Ma Thuột, Đắk Lắk, là một điểm đến hấp dẫn cho những ai yêu thích cà phê và muốn tìm hiểu về văn hóa cà phê toàn cầu",
+      "danh_gia": "3.7",
+      "danh_gia_diem": 3.7,
+      "anh": "https://thaiantravel.com/wp-content/uploads/2024/06/bao-tang-the-gioi-ca-phe-o-tay-nguyen-1-jpg.webp",
+      "tu_khoa": "thư giãn, yên bình, du lịch sinh thái"
+    },
+    {
+      "stt": 245,
+      "ten_dia_diem": "Khu du lịch Ko Tam",
+      "vi_tri": "Đắk Lắk",
+      "tinh_truoc_sap_nhap_2025": "Đắk Lắk",
+      "mo_ta": "Khu du lịch Ko Tam, tọa lạc tại Buôn Ma Thuột, Đắk Lắk, là một điểm đến sinh thái và văn hóa nổi bật của Tây Nguyên. Với diện tích khoảng 13 hecta, Ko Tam mang đến cho du khách một không gian thiên nhiên hoang sơ và yên bình, cùng với những nét văn hóa đặc sắc của người dân tộc Ê-đê",
+      "danh_gia": "3",
+      "danh_gia_diem": 3,
+      "anh": "https://vcdn1-dulich.vnecdn.net/2023/09/18/thac-lieng-nung-ha-the-bao-169-4064-1297-1695029127.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PEGSVxss36taUtg2gGqjxA",
+      "tu_khoa": "bảo tồn, động vật, thực vật"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Đắk Lắk - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Đắk Lắk (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Đắk Lắk | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Đắk Lắk — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

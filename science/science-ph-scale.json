@@ -1,0 +1,295 @@
+{
+  "id": "science-ph-scale",
+  "name": "Tập dữ liệu Tham chiếu Thang pH và Tính chất Hóa học",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "substance",
+      "label": "Substance (EN)",
+      "type": "string"
+    },
+    {
+      "key": "ph",
+      "label": "pH Value",
+      "type": "number"
+    },
+    {
+      "key": "h_concentration",
+      "label": "[H⁺] Concentration (mol/L)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "nature",
+      "label": "Nature (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "substance": "Axit ắc quy (H₂SO₄)",
+      "ph": 0,
+      "h_concentration": "1",
+      "category": "Axit mạnh",
+      "nature": "Tính ăn mòn cao"
+    },
+    {
+      "substance": "Axit clohidric (HCl)",
+      "ph": 0,
+      "h_concentration": "1",
+      "category": "Axit mạnh",
+      "nature": "Tính ăn mòn cao"
+    },
+    {
+      "substance": "Axit dạ dày",
+      "ph": 1,
+      "h_concentration": "10⁻¹",
+      "category": "Axit mạnh",
+      "nature": "Tính ăn mòn"
+    },
+    {
+      "substance": "Nước chanh",
+      "ph": 2,
+      "h_concentration": "10⁻²",
+      "category": "Axit mạnh",
+      "nature": "Có tính axit"
+    },
+    {
+      "substance": "Giấm",
+      "ph": 2.5,
+      "h_concentration": "3.2×10⁻³",
+      "category": "Axit mạnh",
+      "nature": "Có tính axit"
+    },
+    {
+      "substance": "Coca-Cola",
+      "ph": 2.5,
+      "h_concentration": "3.2×10⁻³",
+      "category": "Axit mạnh",
+      "nature": "Có tính axit"
+    },
+    {
+      "substance": "Nước cam",
+      "ph": 3.5,
+      "h_concentration": "3.2×10⁻⁴",
+      "category": "Axit yếu",
+      "nature": "Có tính axit nhẹ"
+    },
+    {
+      "substance": "Nước ép cà chua",
+      "ph": 4,
+      "h_concentration": "10⁻⁴",
+      "category": "Axit yếu",
+      "nature": "Có tính axit nhẹ"
+    },
+    {
+      "substance": "Bia",
+      "ph": 4.5,
+      "h_concentration": "3.2×10⁻⁵",
+      "category": "Axit yếu",
+      "nature": "Có tính axit nhẹ"
+    },
+    {
+      "substance": "Cà phê đen",
+      "ph": 5,
+      "h_concentration": "10⁻⁵",
+      "category": "Axit yếu",
+      "nature": "Có tính axit nhẹ"
+    },
+    {
+      "substance": "Mưa axit",
+      "ph": 5,
+      "h_concentration": "10⁻⁵",
+      "category": "Axit yếu",
+      "nature": "Môi trường"
+    },
+    {
+      "substance": "Chuối",
+      "ph": 5.5,
+      "h_concentration": "3.2×10⁻⁶",
+      "category": "Axit yếu",
+      "nature": "Có tính axit nhẹ"
+    },
+    {
+      "substance": "Mưa bình thường",
+      "ph": 5.6,
+      "h_concentration": "2.5×10⁻⁶",
+      "category": "Axit yếu",
+      "nature": "Tự nhiên"
+    },
+    {
+      "substance": "Sữa",
+      "ph": 6.5,
+      "h_concentration": "3.2×10⁻⁷",
+      "category": "Axit yếu",
+      "nature": "Gần trung tính"
+    },
+    {
+      "substance": "Nước bọt",
+      "ph": 6.8,
+      "h_concentration": "1.6×10⁻⁷",
+      "category": "Axit yếu",
+      "nature": "Gần trung tính"
+    },
+    {
+      "substance": "Nước tinh khiết",
+      "ph": 7,
+      "h_concentration": "10⁻⁷",
+      "category": "Trung tính",
+      "nature": "Trung tính"
+    },
+    {
+      "substance": "Máu",
+      "ph": 7.4,
+      "h_concentration": "4×10⁻⁸",
+      "category": "Trung tính",
+      "nature": "Có tính bazơ nhẹ"
+    },
+    {
+      "substance": "Lòng trắng trứng",
+      "ph": 8,
+      "h_concentration": "10⁻⁸",
+      "category": "Bazơ yếu",
+      "nature": "Có tính bazơ nhẹ"
+    },
+    {
+      "substance": "Nước biển",
+      "ph": 8,
+      "h_concentration": "10⁻⁸",
+      "category": "Bazơ yếu",
+      "nature": "Có tính bazơ nhẹ"
+    },
+    {
+      "substance": "Baking Soda (NaHCO₃)",
+      "ph": 8.5,
+      "h_concentration": "3.2×10⁻⁹",
+      "category": "Bazơ yếu",
+      "nature": "Có tính bazơ nhẹ"
+    },
+    {
+      "substance": "Kem đánh răng",
+      "ph": 9,
+      "h_concentration": "10⁻⁹",
+      "category": "Bazơ yếu",
+      "nature": "Có tính bazơ"
+    },
+    {
+      "substance": "Sữa Magnesia",
+      "ph": 10.5,
+      "h_concentration": "3.2×10⁻¹¹",
+      "category": "Bazơ yếu",
+      "nature": "Có tính bazơ"
+    },
+    {
+      "substance": "Amoniac (NH₃)",
+      "ph": 11,
+      "h_concentration": "10⁻¹¹",
+      "category": "Bazơ trung bình",
+      "nature": "Gây ăn mòn mạnh"
+    },
+    {
+      "substance": "Nước xà phòng",
+      "ph": 12,
+      "h_concentration": "10⁻¹²",
+      "category": "Bazơ mạnh",
+      "nature": "Gây ăn mòn mạnh"
+    },
+    {
+      "substance": "Nước tẩy trắng (NaClO)",
+      "ph": 12.5,
+      "h_concentration": "3.2×10⁻¹³",
+      "category": "Bazơ mạnh",
+      "nature": "Ăn mòn"
+    },
+    {
+      "substance": "Nước tẩy rửa lò nướng",
+      "ph": 13,
+      "h_concentration": "10⁻¹³",
+      "category": "Bazơ mạnh",
+      "nature": "Rất ăn mòn"
+    },
+    {
+      "substance": "Nước thông cống",
+      "ph": 14,
+      "h_concentration": "10⁻¹⁴",
+      "category": "Bazơ mạnh",
+      "nature": "Rất ăn mòn"
+    },
+    {
+      "substance": "Natri Hydroxide (NaOH)",
+      "ph": 14,
+      "h_concentration": "10⁻¹⁴",
+      "category": "Bazơ mạnh",
+      "nature": "Rất ăn mòn"
+    },
+    {
+      "substance": "Đất khỏe mạnh",
+      "ph": 6.5,
+      "h_concentration": "3.2×10⁻⁷",
+      "category": "Môi trường",
+      "nature": "Tối ưu cho hầu hết các loại cây"
+    },
+    {
+      "substance": "Hồ bơi (Lý tưởng)",
+      "ph": 7.4,
+      "h_concentration": "4×10⁻⁸",
+      "category": "Môi trường",
+      "nature": "An toàn khi bơi"
+    },
+    {
+      "substance": "Bể cá (Nước ngọt)",
+      "ph": 7,
+      "h_concentration": "10⁻⁷",
+      "category": "Môi trường",
+      "nature": "Tối ưu cho cá"
+    },
+    {
+      "substance": "Da người",
+      "ph": 5.5,
+      "h_concentration": "3.2×10⁻⁶",
+      "category": "Sinh học",
+      "nature": "Lớp phủ axit"
+    },
+    {
+      "substance": "Nước tiểu người",
+      "ph": 6,
+      "h_concentration": "10⁻⁶",
+      "category": "Sinh học",
+      "nature": "Thay đổi (4.5-8)"
+    }
+  ],
+  "meta": {
+    "seo_title": "Dữ liệu thang pH - Tải xuống miễn phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống 33 mục tham chiếu thang pH cho các chất khác nhau. Có giá trị pH, nồng độ H⁺ và danh mục. Miễn phí ở định dạng Excel, CSV, PDF.",
+    "title": "Tập dữ liệu Tham chiếu Thang pH và Tính chất Hóa học",
+    "description": "Tập dữ liệu này cung cấp tài liệu tham khảo toàn diện về 33 chất, liệt kê giá trị pH, nồng độ ion hydro, danh mục axit/bazơ và tính chất của chúng.",
+    "key_takeaways": [
+      "Truy cập danh sách được tuyển chọn gồm 33 chất thông thường với giá trị pH của chúng.",
+      "Khám phá nồng độ ion hydro ([H⁺]) và phân loại các chất theo độ axit/bazơ.",
+      "Tải xuống dữ liệu tham chiếu hóa học thiết yếu ở nhiều định dạng tiện lợi.",
+      "Hiểu rõ bản chất của các chất khác nhau, từ ăn mòn cao đến trung tính."
+    ],
+    "keywords": [
+      "thang pH tham khảo excel",
+      "dữ liệu axit bazơ pH csv",
+      "giá trị pH chất tải xuống",
+      "nồng độ H+ hóa học",
+      "chất kiềm axit danh sách",
+      "tập dữ liệu pH miễn phí pdf"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu hoặc tập lệnh Python của bạn để nghiên cứu hóa học, phân tích dữ liệu hoặc xây dựng các ứng dụng giáo dục liên quan đến pH.",
+      "Sử dụng tệp **Excel** để lọc, sắp xếp và phân tích giá trị pH và nồng độ cho báo cáo phòng thí nghiệm, dự án học thuật hoặc tạo biểu đồ so sánh.",
+      "In phiên bản **PDF** để tham khảo nhanh ngoại tuyến trong lớp học hóa học, phòng thí nghiệm hoặc cho hướng dẫn học tập và thuyết trình giáo dục.",
+      "Tận dụng tập dữ liệu này để làm phong phú nội dung giáo dục, phát triển câu đố hoặc minh họa phổ pH của các chất hàng ngày cho học sinh."
+    ]
+  },
+  "record_count": 33,
+  "title": "Tập dữ liệu Tham chiếu Thang pH và Tính chất Hóa học"
+}

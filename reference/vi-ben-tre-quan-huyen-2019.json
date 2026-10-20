@@ -1,0 +1,156 @@
+{
+  "id": "vi-ben-tre-quan-huyen-2019",
+  "name": "Bến Tre — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Bến Tre — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 9 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Bến Tre theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/BTR.json). (9 district-level units of Bến Tre under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "BTR-01",
+      "name": "Ba Tri",
+      "name_full": "Huyện Ba Tri",
+      "slug": "ba-tri",
+      "division_type": "Huyện",
+      "province_code": "BTR",
+      "province_name": "Bến Tre",
+      "ward_count": 25
+    },
+    {
+      "code": "BTR-02",
+      "name": "Bến Tre",
+      "name_full": "Thành phố Bến Tre",
+      "slug": "ben-tre",
+      "division_type": "Thành phố",
+      "province_code": "BTR",
+      "province_name": "Bến Tre",
+      "ward_count": 18
+    },
+    {
+      "code": "BTR-03",
+      "name": "Bình Đại",
+      "name_full": "Huyện Bình Đại",
+      "slug": "binh-dai",
+      "division_type": "Huyện",
+      "province_code": "BTR",
+      "province_name": "Bến Tre",
+      "ward_count": 20
+    },
+    {
+      "code": "BTR-04",
+      "name": "Châu Thành",
+      "name_full": "Huyện Châu Thành",
+      "slug": "chau-thanh",
+      "division_type": "Huyện",
+      "province_code": "BTR",
+      "province_name": "Bến Tre",
+      "ward_count": 22
+    },
+    {
+      "code": "BTR-05",
+      "name": "Chợ Lách",
+      "name_full": "Huyện Chợ Lách",
+      "slug": "cho-lach",
+      "division_type": "Huyện",
+      "province_code": "BTR",
+      "province_name": "Bến Tre",
+      "ward_count": 11
+    },
+    {
+      "code": "BTR-06",
+      "name": "Giồng Trôm",
+      "name_full": "Huyện Giồng Trôm",
+      "slug": "giong-trom",
+      "division_type": "Huyện",
+      "province_code": "BTR",
+      "province_name": "Bến Tre",
+      "ward_count": 23
+    },
+    {
+      "code": "BTR-07",
+      "name": "Mỏ Cày Bắc",
+      "name_full": "Huyện Mỏ Cày Bắc",
+      "slug": "mo-cay-bac",
+      "division_type": "Huyện",
+      "province_code": "BTR",
+      "province_name": "Bến Tre",
+      "ward_count": 13
+    },
+    {
+      "code": "BTR-08",
+      "name": "Mỏ Cày Nam",
+      "name_full": "Huyện Mỏ Cày Nam",
+      "slug": "mo-cay-nam",
+      "division_type": "Huyện",
+      "province_code": "BTR",
+      "province_name": "Bến Tre",
+      "ward_count": 17
+    },
+    {
+      "code": "BTR-09",
+      "name": "Thạnh Phú",
+      "name_full": "Huyện Thạnh Phú",
+      "slug": "thanh-phu",
+      "division_type": "Huyện",
+      "province_code": "BTR",
+      "province_name": "Bến Tre",
+      "ward_count": 18
+    }
+  ],
+  "meta": {
+    "title": "Bến Tre — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 9 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Bến Tre theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/BTR.json). (9 district-level units of Bến Tre under the pre-2025-merger 3-tier hierarchy.) Chứa 9 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Bến Tre — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Bến Tre — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 9 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 9 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

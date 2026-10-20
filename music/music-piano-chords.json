@@ -1,0 +1,919 @@
+{
+  "id": "music-piano-chords",
+  "name": "Tập Dữ Liệu Tham Chiếu Biểu Đồ Hợp Âm Piano Thiết Yếu",
+  "category": "music",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "chord",
+      "label": "Chord Symbol",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Chord Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Chord Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "keys",
+      "label": "Keys/Notes",
+      "type": "string"
+    },
+    {
+      "key": "left_hand",
+      "label": "Left Hand",
+      "type": "string"
+    },
+    {
+      "key": "right_hand",
+      "label": "Right Hand",
+      "type": "string"
+    },
+    {
+      "key": "intervals",
+      "label": "Intervals",
+      "type": "string"
+    },
+    {
+      "key": "semitones",
+      "label": "Semitones",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chord": "C",
+      "name": "Hợp âm Đô Trưởng",
+      "type": "Trưởng",
+      "keys": "C-E-G",
+      "left_hand": "C-G",
+      "right_hand": "C-E-G",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Cm",
+      "name": "Hợp âm Đô Thứ",
+      "type": "Thứ",
+      "keys": "C-Eb-G",
+      "left_hand": "C-G",
+      "right_hand": "C-Eb-G",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "C7",
+      "name": "Hợp âm Đô Bảy át",
+      "type": "Bảy át",
+      "keys": "C-E-G-Bb",
+      "left_hand": "C-Bb",
+      "right_hand": "C-E-G-Bb",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Cmaj7",
+      "name": "Hợp âm Đô Bảy trưởng",
+      "type": "Bảy trưởng",
+      "keys": "C-E-G-B",
+      "left_hand": "C-B",
+      "right_hand": "C-E-G-B",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Cm7",
+      "name": "Hợp âm Đô Bảy thứ",
+      "type": "Bảy thứ",
+      "keys": "C-Eb-G-Bb",
+      "left_hand": "C-Bb",
+      "right_hand": "C-Eb-G-Bb",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Cdim",
+      "name": "Hợp âm Đô Giảm",
+      "type": "Giảm",
+      "keys": "C-Eb-Gb",
+      "left_hand": "C-Gb",
+      "right_hand": "C-Eb-Gb",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Cdim7",
+      "name": "Hợp âm Đô Bảy giảm",
+      "type": "Bảy giảm",
+      "keys": "C-Eb-Gb-Bbb",
+      "left_hand": "C-Gb",
+      "right_hand": "C-Eb-Gb-A",
+      "intervals": "1-b3-b5-bb7",
+      "semitones": "0-3-6-9"
+    },
+    {
+      "chord": "Caug",
+      "name": "Hợp âm Đô Tăng",
+      "type": "Tăng",
+      "keys": "C-E-G#",
+      "left_hand": "C-G#",
+      "right_hand": "C-E-G#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Csus2",
+      "name": "Hợp âm Đô Treo 2",
+      "type": "Treo",
+      "keys": "C-D-G",
+      "left_hand": "C-G",
+      "right_hand": "C-D-G",
+      "intervals": "1-2-5",
+      "semitones": "0-2-7"
+    },
+    {
+      "chord": "Csus4",
+      "name": "Hợp âm Đô Treo 4",
+      "type": "Treo",
+      "keys": "C-F-G",
+      "left_hand": "C-G",
+      "right_hand": "C-F-G",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "C6",
+      "name": "Hợp âm Đô Sáu trưởng",
+      "type": "Sáu trưởng",
+      "keys": "C-E-G-A",
+      "left_hand": "C-A",
+      "right_hand": "C-E-G-A",
+      "intervals": "1-3-5-6",
+      "semitones": "0-4-7-9"
+    },
+    {
+      "chord": "Cm6",
+      "name": "Hợp âm Đô Sáu thứ",
+      "type": "Sáu thứ",
+      "keys": "C-Eb-G-A",
+      "left_hand": "C-A",
+      "right_hand": "C-Eb-G-A",
+      "intervals": "1-b3-5-6",
+      "semitones": "0-3-7-9"
+    },
+    {
+      "chord": "C9",
+      "name": "Hợp âm Đô Chín át",
+      "type": "Chín át",
+      "keys": "C-E-G-Bb-D",
+      "left_hand": "C-Bb",
+      "right_hand": "E-G-Bb-D",
+      "intervals": "1-3-5-b7-9",
+      "semitones": "0-4-7-10-14"
+    },
+    {
+      "chord": "Cadd9",
+      "name": "Hợp âm Đô Thêm 9",
+      "type": "Thêm 9",
+      "keys": "C-E-G-D",
+      "left_hand": "C-G",
+      "right_hand": "C-E-G-D",
+      "intervals": "1-3-5-9",
+      "semitones": "0-4-7-14"
+    },
+    {
+      "chord": "D",
+      "name": "Hợp âm Rê Trưởng",
+      "type": "Trưởng",
+      "keys": "D-F#-A",
+      "left_hand": "D-A",
+      "right_hand": "D-F#-A",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Dm",
+      "name": "Hợp âm Rê Thứ",
+      "type": "Thứ",
+      "keys": "D-F-A",
+      "left_hand": "D-A",
+      "right_hand": "D-F-A",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "D7",
+      "name": "Hợp âm Rê Bảy át",
+      "type": "Bảy át",
+      "keys": "D-F#-A-C",
+      "left_hand": "D-C",
+      "right_hand": "D-F#-A-C",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Dmaj7",
+      "name": "Hợp âm Rê Bảy trưởng",
+      "type": "Bảy trưởng",
+      "keys": "D-F#-A-C#",
+      "left_hand": "D-C#",
+      "right_hand": "D-F#-A-C#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Dm7",
+      "name": "Hợp âm Rê Bảy thứ",
+      "type": "Bảy thứ",
+      "keys": "D-F-A-C",
+      "left_hand": "D-C",
+      "right_hand": "D-F-A-C",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Ddim",
+      "name": "Hợp âm Rê Giảm",
+      "type": "Giảm",
+      "keys": "D-F-Ab",
+      "left_hand": "D-Ab",
+      "right_hand": "D-F-Ab",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Daug",
+      "name": "D Tăng",
+      "type": "Tăng",
+      "keys": "D-F#-A#",
+      "left_hand": "D-A#",
+      "right_hand": "D-F#-A#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Dsus2",
+      "name": "D Treo bậc 2",
+      "type": "Treo",
+      "keys": "D-E-A",
+      "left_hand": "D-A",
+      "right_hand": "D-E-A",
+      "intervals": "1-2-5",
+      "semitones": "0-2-7"
+    },
+    {
+      "chord": "Dsus4",
+      "name": "D Treo bậc 4",
+      "type": "Treo",
+      "keys": "D-G-A",
+      "left_hand": "D-A",
+      "right_hand": "D-G-A",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "E",
+      "name": "E Trưởng",
+      "type": "Trưởng",
+      "keys": "E-G#-B",
+      "left_hand": "E-B",
+      "right_hand": "E-G#-B",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Em",
+      "name": "E Thứ",
+      "type": "Thứ",
+      "keys": "E-G-B",
+      "left_hand": "E-B",
+      "right_hand": "E-G-B",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "E7",
+      "name": "E Bậc 7 Trội",
+      "type": "Bậc 7 Trội",
+      "keys": "E-G#-B-D",
+      "left_hand": "E-D",
+      "right_hand": "E-G#-B-D",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Emaj7",
+      "name": "E Trưởng 7",
+      "type": "Trưởng 7",
+      "keys": "E-G#-B-D#",
+      "left_hand": "E-D#",
+      "right_hand": "E-G#-B-D#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Em7",
+      "name": "E Thứ 7",
+      "type": "Thứ 7",
+      "keys": "E-G-B-D",
+      "left_hand": "E-D",
+      "right_hand": "E-G-B-D",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Edim",
+      "name": "E Giảm",
+      "type": "Giảm",
+      "keys": "E-G-Bb",
+      "left_hand": "E-Bb",
+      "right_hand": "E-G-Bb",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Eaug",
+      "name": "E Tăng",
+      "type": "Tăng",
+      "keys": "E-G#-B#",
+      "left_hand": "E-C",
+      "right_hand": "E-G#-C",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Esus4",
+      "name": "E Treo bậc 4",
+      "type": "Treo",
+      "keys": "E-A-B",
+      "left_hand": "E-B",
+      "right_hand": "E-A-B",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "F",
+      "name": "F Trưởng",
+      "type": "Trưởng",
+      "keys": "F-A-C",
+      "left_hand": "F-C",
+      "right_hand": "F-A-C",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Fm",
+      "name": "F Thứ",
+      "type": "Thứ",
+      "keys": "F-Ab-C",
+      "left_hand": "F-C",
+      "right_hand": "F-Ab-C",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "F7",
+      "name": "F Bậc 7 Trội",
+      "type": "Bậc 7 Trội",
+      "keys": "F-A-C-Eb",
+      "left_hand": "F-Eb",
+      "right_hand": "F-A-C-Eb",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Fmaj7",
+      "name": "F Trưởng 7",
+      "type": "Trưởng 7",
+      "keys": "F-A-C-E",
+      "left_hand": "F-E",
+      "right_hand": "F-A-C-E",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Fm7",
+      "name": "F Thứ 7",
+      "type": "Thứ 7",
+      "keys": "F-Ab-C-Eb",
+      "left_hand": "F-Eb",
+      "right_hand": "F-Ab-C-Eb",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Fdim",
+      "name": "F Giảm",
+      "type": "Giảm",
+      "keys": "F-Ab-Cb",
+      "left_hand": "F-B",
+      "right_hand": "F-Ab-B",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Faug",
+      "name": "F Tăng",
+      "type": "Tăng",
+      "keys": "F-A-C#",
+      "left_hand": "F-C#",
+      "right_hand": "F-A-C#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "G",
+      "name": "G Trưởng",
+      "type": "Trưởng",
+      "keys": "G-B-D",
+      "left_hand": "G-D",
+      "right_hand": "G-B-D",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Gm",
+      "name": "G Thứ",
+      "type": "Thứ",
+      "keys": "G-Bb-D",
+      "left_hand": "G-D",
+      "right_hand": "G-Bb-D",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "G7",
+      "name": "G Đôminant 7",
+      "type": "Đôminant 7",
+      "keys": "G-B-D-F",
+      "left_hand": "G-F",
+      "right_hand": "G-B-D-F",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Gmaj7",
+      "name": "G Trưởng 7",
+      "type": "Trưởng 7",
+      "keys": "G-B-D-F#",
+      "left_hand": "G-F#",
+      "right_hand": "G-B-D-F#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Gm7",
+      "name": "G Thứ 7",
+      "type": "Thứ 7",
+      "keys": "G-Bb-D-F",
+      "left_hand": "G-F",
+      "right_hand": "G-Bb-D-F",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Gdim",
+      "name": "G Giảm",
+      "type": "Giảm",
+      "keys": "G-Bb-Db",
+      "left_hand": "G-Db",
+      "right_hand": "G-Bb-Db",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Gaug",
+      "name": "G Tăng",
+      "type": "Tăng",
+      "keys": "G-B-D#",
+      "left_hand": "G-D#",
+      "right_hand": "G-B-D#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Gsus4",
+      "name": "G Treo 4",
+      "type": "Treo",
+      "keys": "G-C-D",
+      "left_hand": "G-D",
+      "right_hand": "G-C-D",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "A",
+      "name": "A Trưởng",
+      "type": "Trưởng",
+      "keys": "A-C#-E",
+      "left_hand": "A-E",
+      "right_hand": "A-C#-E",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Am",
+      "name": "A Thứ",
+      "type": "Thứ",
+      "keys": "A-C-E",
+      "left_hand": "A-E",
+      "right_hand": "A-C-E",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "A7",
+      "name": "A Đôminant 7",
+      "type": "Đôminant 7",
+      "keys": "A-C#-E-G",
+      "left_hand": "A-G",
+      "right_hand": "A-C#-E-G",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Amaj7",
+      "name": "A Trưởng 7",
+      "type": "Trưởng 7",
+      "keys": "A-C#-E-G#",
+      "left_hand": "A-G#",
+      "right_hand": "A-C#-E-G#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Am7",
+      "name": "A Thứ 7",
+      "type": "Thứ 7",
+      "keys": "A-C-E-G",
+      "left_hand": "A-G",
+      "right_hand": "A-C-E-G",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Adim",
+      "name": "A Giảm",
+      "type": "Giảm",
+      "keys": "A-C-Eb",
+      "left_hand": "A-Eb",
+      "right_hand": "A-C-Eb",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Aaug",
+      "name": "A Tăng",
+      "type": "Tăng",
+      "keys": "A-C#-E#",
+      "left_hand": "A-F",
+      "right_hand": "A-C#-F",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Asus2",
+      "name": "A Treo 2",
+      "type": "Treo",
+      "keys": "A-B-E",
+      "left_hand": "A-E",
+      "right_hand": "A-B-E",
+      "intervals": "1-2-5",
+      "semitones": "0-2-7"
+    },
+    {
+      "chord": "Asus4",
+      "name": "A Treo 4",
+      "type": "Treo",
+      "keys": "A-D-E",
+      "left_hand": "A-E",
+      "right_hand": "A-D-E",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "B",
+      "name": "B Trưởng",
+      "type": "Trưởng",
+      "keys": "B-D#-F#",
+      "left_hand": "B-F#",
+      "right_hand": "B-D#-F#",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Bm",
+      "name": "B Thứ",
+      "type": "Thứ",
+      "keys": "B-D-F#",
+      "left_hand": "B-F#",
+      "right_hand": "B-D-F#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "B7",
+      "name": "B Đôminant 7",
+      "type": "Đôminant 7",
+      "keys": "B-D#-F#-A",
+      "left_hand": "B-A",
+      "right_hand": "B-D#-F#-A",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Bmaj7",
+      "name": "B Trưởng 7",
+      "type": "Trưởng 7",
+      "keys": "B-D#-F#-A#",
+      "left_hand": "B-A#",
+      "right_hand": "B-D#-F#-A#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Bm7",
+      "name": "B Thứ 7",
+      "type": "Thứ 7",
+      "keys": "B-D-F#-A",
+      "left_hand": "B-A",
+      "right_hand": "B-D-F#-A",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Bdim",
+      "name": "Si Giảm",
+      "type": "Giảm",
+      "keys": "B-D-F",
+      "left_hand": "B-F",
+      "right_hand": "B-D-F",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Baug",
+      "name": "Si Tăng",
+      "type": "Tăng",
+      "keys": "B-D#-Fx",
+      "left_hand": "B-G",
+      "right_hand": "B-D#-G",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "C#",
+      "name": "Đô Thăng Trưởng",
+      "type": "Trưởng",
+      "keys": "C#-E#-G#",
+      "left_hand": "C#-G#",
+      "right_hand": "C#-F-G#",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "C#m",
+      "name": "Đô Thăng Thứ",
+      "type": "Thứ",
+      "keys": "C#-E-G#",
+      "left_hand": "C#-G#",
+      "right_hand": "C#-E-G#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Db",
+      "name": "Rê Giáng Trưởng",
+      "type": "Trưởng",
+      "keys": "Db-F-Ab",
+      "left_hand": "Db-Ab",
+      "right_hand": "Db-F-Ab",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Eb",
+      "name": "Mi Giáng Trưởng",
+      "type": "Trưởng",
+      "keys": "Eb-G-Bb",
+      "left_hand": "Eb-Bb",
+      "right_hand": "Eb-G-Bb",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Ebm",
+      "name": "Mi Giáng Thứ",
+      "type": "Thứ",
+      "keys": "Eb-Gb-Bb",
+      "left_hand": "Eb-Bb",
+      "right_hand": "Eb-Gb-Bb",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "F#",
+      "name": "Fa Thăng Trưởng",
+      "type": "Trưởng",
+      "keys": "F#-A#-C#",
+      "left_hand": "F#-C#",
+      "right_hand": "F#-A#-C#",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "F#m",
+      "name": "Fa Thăng Thứ",
+      "type": "Thứ",
+      "keys": "F#-A-C#",
+      "left_hand": "F#-C#",
+      "right_hand": "F#-A-C#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Gb",
+      "name": "Sol Giáng Trưởng",
+      "type": "Trưởng",
+      "keys": "Gb-Bb-Db",
+      "left_hand": "Gb-Db",
+      "right_hand": "Gb-Bb-Db",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "G#m",
+      "name": "Sol Thăng Thứ",
+      "type": "Thứ",
+      "keys": "G#-B-D#",
+      "left_hand": "G#-D#",
+      "right_hand": "G#-B-D#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Ab",
+      "name": "La Giáng Trưởng",
+      "type": "Trưởng",
+      "keys": "Ab-C-Eb",
+      "left_hand": "Ab-Eb",
+      "right_hand": "Ab-C-Eb",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Abm",
+      "name": "La Giáng Thứ",
+      "type": "Thứ",
+      "keys": "Ab-Cb-Eb",
+      "left_hand": "Ab-Eb",
+      "right_hand": "Ab-B-Eb",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Bb",
+      "name": "Si Giáng Trưởng",
+      "type": "Trưởng",
+      "keys": "Bb-D-F",
+      "left_hand": "Bb-F",
+      "right_hand": "Bb-D-F",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Bbm",
+      "name": "Si Giáng Thứ",
+      "type": "Thứ",
+      "keys": "Bb-Db-F",
+      "left_hand": "Bb-F",
+      "right_hand": "Bb-Db-F",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Bb7",
+      "name": "Si Giáng Đôminant Bảy",
+      "type": "Đôminant Bảy",
+      "keys": "Bb-D-F-Ab",
+      "left_hand": "Bb-Ab",
+      "right_hand": "Bb-D-F-Ab",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Cmaj9",
+      "name": "Đô Trưởng Chín",
+      "type": "Trưởng Chín",
+      "keys": "C-E-G-B-D",
+      "left_hand": "C-B",
+      "right_hand": "E-G-B-D",
+      "intervals": "1-3-5-7-9",
+      "semitones": "0-4-7-11-14"
+    },
+    {
+      "chord": "Cm9",
+      "name": "Đô Thứ Chín",
+      "type": "Thứ Chín",
+      "keys": "C-Eb-G-Bb-D",
+      "left_hand": "C-Bb",
+      "right_hand": "Eb-G-Bb-D",
+      "intervals": "1-b3-5-b7-9",
+      "semitones": "0-3-7-10-14"
+    },
+    {
+      "chord": "C11",
+      "name": "Đô Đôminant Mười Một",
+      "type": "Đôminant Mười Một",
+      "keys": "C-E-G-Bb-D-F",
+      "left_hand": "C-Bb",
+      "right_hand": "E-G-D-F",
+      "intervals": "1-3-5-b7-9-11",
+      "semitones": "0-4-7-10-14-17"
+    },
+    {
+      "chord": "C13",
+      "name": "Đô Đôminant Mười Ba",
+      "type": "Đôminant Mười Ba",
+      "keys": "C-E-G-Bb-D-A",
+      "left_hand": "C-Bb",
+      "right_hand": "E-G-D-A",
+      "intervals": "1-3-5-b7-9-13",
+      "semitones": "0-4-7-10-14-21"
+    },
+    {
+      "chord": "Am/E",
+      "name": "La thứ trên Mi",
+      "type": "Hợp âm xiên",
+      "keys": "E-A-C-E",
+      "left_hand": "E",
+      "right_hand": "A-C-E",
+      "intervals": "5-1-b3-5",
+      "semitones": "7-0-3-7"
+    },
+    {
+      "chord": "C/G",
+      "name": "Đô trưởng trên Sol",
+      "type": "Hợp âm xiên",
+      "keys": "G-C-E-G",
+      "left_hand": "G",
+      "right_hand": "C-E-G",
+      "intervals": "5-1-3-5",
+      "semitones": "7-0-4-7"
+    },
+    {
+      "chord": "D/F#",
+      "name": "Rê trưởng trên Fa thăng",
+      "type": "Hợp âm xiên",
+      "keys": "F#-D-F#-A",
+      "left_hand": "F#",
+      "right_hand": "D-F#-A",
+      "intervals": "3-1-3-5",
+      "semitones": "4-0-4-7"
+    },
+    {
+      "chord": "G/B",
+      "name": "Sol trưởng trên Si",
+      "type": "Hợp âm xiên",
+      "keys": "B-D-G-B",
+      "left_hand": "B",
+      "right_hand": "D-G-B",
+      "intervals": "3-5-1-3",
+      "semitones": "4-7-0-4"
+    }
+  ],
+  "meta": {
+    "seo_title": "Biểu Đồ Hợp Âm Piano - Tải Xuống Miễn Phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống miễn phí Biểu Đồ Hợp Âm Piano với 84 hợp âm thiết yếu cho mọi cấp độ. Có sẵn định dạng Excel, CSV, PDF cho nhạc sĩ & người học.",
+    "title": "Tập Dữ Liệu Tham Chiếu Biểu Đồ Hợp Âm Piano Thiết Yếu",
+    "description": "Tập dữ liệu này cung cấp danh sách toàn diện 84 hợp âm piano, chi tiết ký hiệu, tên, nốt, cách đặt tay, quãng và cấu trúc bán cung. Lý tưởng cho nhạc sĩ, sinh viên và nhà giáo dục.",
+    "key_takeaways": [
+      "Truy cập 84 hợp âm piano cơ bản với thông tin âm nhạc chi tiết.",
+      "Khám phá cấu trúc hợp âm, nốt, quãng và mối quan hệ bán cung cho các loại hợp âm khác nhau.",
+      "Tải xuống dữ liệu hợp âm sẵn dùng để học lý thuyết âm nhạc hoặc phát triển ứng dụng.",
+      "Sử dụng cách đặt tay chính xác (tay trái và tay phải) để chơi piano đúng kỹ thuật."
+    ],
+    "keywords": [
+      "biểu đồ hợp âm piano",
+      "hợp âm piano miễn phí excel",
+      "dữ liệu lý thuyết âm nhạc",
+      "hợp âm piano csv",
+      "nốt piano pdf",
+      "tải 84 hợp âm piano"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào ứng dụng học nhạc hoặc cơ sở dữ liệu của bạn để cung cấp tra cứu hợp âm và bài tập động.",
+      "Sử dụng tệp **Excel** để lọc hợp âm theo loại, phân tích mẫu quãng hoặc tạo trang luyện tập cá nhân.",
+      "In phiên bản **PDF** để tham khảo nhanh, ngoại tuyến trong các buổi học piano hoặc thực hành.",
+      "Tận dụng tập dữ liệu này để phát triển các công cụ giáo dục cho học sinh piano, minh họa việc xây dựng hợp âm và lý thuyết một cách trực quan."
+    ]
+  },
+  "record_count": 84,
+  "title": "Tập Dữ Liệu Tham Chiếu Biểu Đồ Hợp Âm Piano Thiết Yếu"
+}

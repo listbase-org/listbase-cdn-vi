@@ -1,0 +1,176 @@
+{
+  "id": "vi-tien-giang-quan-huyen-2019",
+  "name": "Tiền Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Tiền Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 11 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Tiền Giang theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 2 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/TG.json). (11 district-level units of Tiền Giang under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "TG-01",
+      "name": "Cái Bè",
+      "name_full": "Huyện Cái Bè",
+      "slug": "cai-be",
+      "division_type": "Huyện",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 25
+    },
+    {
+      "code": "TG-02",
+      "name": "Cai Lậy",
+      "name_full": "Thị xã Cai Lậy",
+      "slug": "cai-lay",
+      "division_type": "Thị xã",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 17
+    },
+    {
+      "code": "TG-03",
+      "name": "Châu Thành",
+      "name_full": "Huyện Châu Thành",
+      "slug": "chau-thanh",
+      "division_type": "Huyện",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 23
+    },
+    {
+      "code": "TG-04",
+      "name": "Chợ Gạo",
+      "name_full": "Huyện Chợ Gạo",
+      "slug": "cho-gao",
+      "division_type": "Huyện",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 19
+    },
+    {
+      "code": "TG-05",
+      "name": "Gò Công",
+      "name_full": "Thị xã Gò Công",
+      "slug": "go-cong",
+      "division_type": "Thị xã",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 13
+    },
+    {
+      "code": "TG-06",
+      "name": "Gò Công Đông",
+      "name_full": "Huyện Gò Công Đông",
+      "slug": "go-cong-dong",
+      "division_type": "Huyện",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 13
+    },
+    {
+      "code": "TG-07",
+      "name": "Gò Công Tây",
+      "name_full": "Huyện Gò Công Tây",
+      "slug": "go-cong-tay",
+      "division_type": "Huyện",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 13
+    },
+    {
+      "code": "TG-08",
+      "name": "Huyện Cai Lậy",
+      "name_full": "Huyện Huyện Cai Lậy",
+      "slug": "huyen-cai-lay",
+      "division_type": "Huyện",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 21
+    },
+    {
+      "code": "TG-09",
+      "name": "Mỹ Tho",
+      "name_full": "Thành phố Mỹ Tho",
+      "slug": "my-tho",
+      "division_type": "Thành phố",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 17
+    },
+    {
+      "code": "TG-10",
+      "name": "Tân Phú Đông",
+      "name_full": "Huyện Tân Phú Đông",
+      "slug": "tan-phu-dong",
+      "division_type": "Huyện",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 6
+    },
+    {
+      "code": "TG-11",
+      "name": "Tân Phước",
+      "name_full": "Huyện Tân Phước",
+      "slug": "tan-phuoc",
+      "division_type": "Huyện",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 13
+    }
+  ],
+  "meta": {
+    "title": "Tiền Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 11 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Tiền Giang theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 2 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/TG.json). (11 district-level units of Tiền Giang under the pre-2025-merger 3-tier hierarchy.) Chứa 11 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Tiền Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Tiền Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 11 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 11 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

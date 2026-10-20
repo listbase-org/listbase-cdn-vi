@@ -1,0 +1,2626 @@
+{
+  "id": "vi-cau",
+  "name": "Cầu ở Việt Nam",
+  "title": "Cầu ở Việt Nam",
+  "description": "Danh sách các cây cầu nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q12280 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Đây là tập dữ liệu cầu đầu tiên trong nhóm tiếng Việt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 256,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "located_in_vi",
+      "label": "Located In Vi",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q1091054",
+      "name_vi": "Chùa Cầu",
+      "name_en": "Japanese Bridge",
+      "latitude": 15.87719,
+      "longitude": 108.325968,
+      "located_in_vi": "Hội An",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_C%E1%BA%A7u"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q65171257",
+      "name_vi": "Cầu An Hảo",
+      "name_en": "An Hao bridge",
+      "latitude": 10.916944,
+      "longitude": 106.843889,
+      "located_in_vi": "Biên Hòa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_An_H%E1%BA%A3o"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q32600435",
+      "name_vi": "Cầu An Đông",
+      "name_en": "An Dong Bridge",
+      "latitude": 11.544261,
+      "longitude": 109.018164,
+      "located_in_vi": "Ninh Phước",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_An_%C4%90%C3%B4ng"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q19705165",
+      "name_vi": "Cầu Ba Son",
+      "name_en": "Ba Son Bridge",
+      "latitude": 10.77955,
+      "longitude": 106.71017,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ba_Son"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q31921344",
+      "name_vi": "Cầu Bách Lẫm",
+      "name_en": "Bach Lam Bridge",
+      "latitude": 21.707362,
+      "longitude": 104.891305,
+      "located_in_vi": "Yên Bái",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%C3%A1ch_L%E1%BA%ABm"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q2655548",
+      "name_vi": "Cầu Bãi Cháy",
+      "name_en": "Bai Chay Bridge",
+      "latitude": 20.960278,
+      "longitude": 107.065833,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%C3%A3i_Ch%C3%A1y"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q115191968",
+      "name_vi": "Cầu Bãi Cháy",
+      "name_en": "Bai Chay bridge",
+      "latitude": 20.960278,
+      "longitude": 107.065833,
+      "located_in_vi": "Quảng Ninh",
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q10752337",
+      "name_vi": "Cầu Bình",
+      "name_en": "Cầu Bình",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%C3%ACnh"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q10752338",
+      "name_vi": "Cầu Bình Ca",
+      "name_en": "Cầu Bình Ca",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%C3%ACnh_Ca"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q24956744",
+      "name_vi": "Cầu Bình Khánh",
+      "name_en": "Binh Khanh Bridge",
+      "latitude": 10.659836,
+      "longitude": 106.738767,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%C3%ACnh_Kh%C3%A1nh"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q11840147",
+      "name_vi": "Cầu Bình Lợi",
+      "name_en": "Binh Loi Railway Bridge",
+      "latitude": 10.82556,
+      "longitude": 106.70861,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%91%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_B%C3%ACnh_L%E1%BB%A3i"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q99256447",
+      "name_vi": "Cầu Bình Lợi",
+      "name_en": "Binh Loi Road Bridge",
+      "latitude": 10.8247,
+      "longitude": 106.7095,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%91%C6%B0%E1%BB%9Dng_b%E1%BB%99_B%C3%ACnh_L%E1%BB%A3i"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q10752341",
+      "name_vi": "Cầu Bình Phước",
+      "name_en": "Binh Phuoc Bridge",
+      "latitude": 10.861671,
+      "longitude": 106.71718,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%C3%ACnh_Ph%C6%B0%E1%BB%9Bc"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q5005108",
+      "name_vi": "Cầu Bình Triệu",
+      "name_en": "Bình Triệu Bridge",
+      "latitude": 10.821007,
+      "longitude": 106.713524,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%C3%ACnh_Tri%E1%BB%87u"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q10771231",
+      "name_vi": "Cầu Bình Điền",
+      "name_en": "Binh Dien Bridge",
+      "latitude": 10.701558,
+      "longitude": 106.59733,
+      "located_in_vi": "Bình Chánh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%C3%ACnh_%C4%90i%E1%BB%81n"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q4914331",
+      "name_vi": "Cầu Bính",
+      "name_en": "Bính Bridge",
+      "latitude": 20.875278,
+      "longitude": 106.667778,
+      "located_in_vi": "Hải Phòng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%C3%ADnh"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q24958487",
+      "name_vi": "Cầu Bông",
+      "name_en": "Cầu Bông",
+      "latitude": 10.79356,
+      "longitude": 106.695978,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%C3%B4ng"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q61127335",
+      "name_vi": "Cầu Bùi Hữu Nghĩa",
+      "name_en": "Cầu Bùi Hữu Nghĩa",
+      "latitude": 10.793624,
+      "longitude": 106.697543,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%C3%B9i_H%E1%BB%AFu_Ngh%C4%A9a"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q61132595",
+      "name_vi": "Cầu Bạch Đằng",
+      "name_en": "Bạch Đằng Bridge",
+      "latitude": 20.848089,
+      "longitude": 106.765429,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q10806122",
+      "name_vi": "Cầu Bản Xá",
+      "name_en": "Ban Xa Bridge",
+      "latitude": 22.054718,
+      "longitude": 103.160286,
+      "located_in_vi": "Điện Biên",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%E1%BA%A3n_X%C3%A1"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q10800506",
+      "name_vi": "Cầu Bảo Hà",
+      "name_en": "Bao Ha Bridge",
+      "latitude": 22.170736,
+      "longitude": 104.354804,
+      "located_in_vi": "Bảo Yên",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%E1%BA%A3o_H%C3%A0"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q25238198",
+      "name_vi": "Cầu Bắc Luân II",
+      "name_en": "Beilun II Bridge",
+      "latitude": 21.546532,
+      "longitude": 107.992688,
+      "located_in_vi": "Đông Hưng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%E1%BA%AFc_Lu%C3%A2n_II"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q10752342",
+      "name_vi": "Cầu Bến Lức",
+      "name_en": "Cầu Bến Lức",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%E1%BA%BFn_L%E1%BB%A9c"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q10800458",
+      "name_vi": "Cầu Bến Rừng",
+      "name_en": "Ben Rung Bridge",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Hải Phòng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%E1%BA%BFn_R%E1%BB%ABng"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q32030640",
+      "name_vi": "Cầu Bến Thủy",
+      "name_en": "Ben Thuy Bridge",
+      "latitude": 18.646491,
+      "longitude": 105.70836,
+      "located_in_vi": "Nghi Xuân",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%E1%BA%BFn_Th%E1%BB%A7y"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q10752343",
+      "name_vi": "Cầu Bến Thủy II",
+      "name_en": "Ben Thuy II Bridge",
+      "latitude": 18.638906,
+      "longitude": 105.706085,
+      "located_in_vi": "Nghệ An",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%E1%BA%BFn_Th%E1%BB%A7y_II"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q32278700",
+      "name_vi": "Cầu Bến Tượng",
+      "name_en": "Ben Tuong Bridge",
+      "latitude": 21.601297,
+      "longitude": 105.841386,
+      "located_in_vi": "Thái Nguyên",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%E1%BA%BFn_T%C6%B0%E1%BB%A3ng"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q24959128",
+      "name_vi": "Cầu Bửu Hòa",
+      "name_en": "Buu Hoa bridge",
+      "latitude": 10.923306,
+      "longitude": 106.827167,
+      "located_in_vi": "Biên Hòa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_B%E1%BB%ADu_H%C3%B2a"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q10752344",
+      "name_vi": "Cầu Calmette",
+      "name_en": "Calmette Bridge",
+      "latitude": 10.76571,
+      "longitude": 106.70085,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Calmette"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q5034299",
+      "name_vi": "Cầu Cao Lãnh",
+      "name_en": "Cao Lanh Bridge",
+      "latitude": 10.412678,
+      "longitude": 105.651899,
+      "located_in_vi": "Cao Lãnh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Cao_L%C3%A3nh"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q10752345",
+      "name_vi": "Cầu Chui",
+      "name_en": "Cầu Chui",
+      "latitude": 21.053945,
+      "longitude": 105.887157,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Chui"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q11840149",
+      "name_vi": "Cầu Chà Và",
+      "name_en": "Cha Va Bridge",
+      "latitude": 10.748635,
+      "longitude": 106.660498,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ch%C3%A0_V%C3%A0_(Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh)"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q11840148",
+      "name_vi": "Cầu Chà Và (Bà Rịa – Vũng Tàu)",
+      "name_en": "Cầu Chà Và (Bà Rịa – Vũng Tàu)",
+      "latitude": 10.451667,
+      "longitude": 107.1175,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ch%C3%A0_V%C3%A0_(B%C3%A0_R%E1%BB%8Ba_%E2%80%93_V%C5%A9ng_T%C3%A0u)"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q10752347",
+      "name_vi": "Cầu Chánh Hưng",
+      "name_en": "Chanh Hung Bridge",
+      "latitude": 10.744313,
+      "longitude": 106.668878,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ch%C3%A1nh_H%C6%B0ng"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q32031257",
+      "name_vi": "Cầu Châu Giang",
+      "name_en": "Chau Giang Bridge",
+      "latitude": 20.545865,
+      "longitude": 105.920975,
+      "located_in_vi": "Phủ Lý",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ch%C3%A2u_Giang"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q86011284",
+      "name_vi": "Cầu Châu Đốc",
+      "name_en": "Chau Doc Bridge",
+      "latitude": 10.705512,
+      "longitude": 105.141743,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ch%C3%A2u_%C4%90%E1%BB%91c"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q3023443",
+      "name_vi": "Cầu Chương Dương",
+      "name_en": "Chương Dương Bridge",
+      "latitude": 21.038,
+      "longitude": 105.861,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ch%C6%B0%C6%A1ng_D%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q10740293",
+      "name_vi": "Cầu Chợ Dinh",
+      "name_en": "Cho Dinh Bridge",
+      "latitude": 16.4929,
+      "longitude": 107.592479,
+      "located_in_vi": "Phú Vang",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ch%E1%BB%A3_Dinh"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q10752349",
+      "name_vi": "Cầu Chữ Y",
+      "name_en": "Chu Y Bridge",
+      "latitude": 10.750869,
+      "longitude": 106.683723,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ch%E1%BB%AF_Y"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q31920745",
+      "name_vi": "Cầu Cái Bé",
+      "name_en": "Cai Be Bridge",
+      "latitude": 9.862396,
+      "longitude": 105.130546,
+      "located_in_vi": "Châu Thành",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_C%C3%A1i_B%C3%A9"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q32269252",
+      "name_vi": "Cầu Cái Lớn",
+      "name_en": "Cai Lon Bridge",
+      "latitude": 9.854567,
+      "longitude": 105.119897,
+      "located_in_vi": "Châu Thành",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_C%C3%A1i_L%E1%BB%9Bn"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q31992670",
+      "name_vi": "Cầu Cái Răng",
+      "name_en": "Cai Rang Bridge",
+      "latitude": 10.006831,
+      "longitude": 105.749979,
+      "located_in_vi": "Cái Răng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_C%C3%A1i_R%C4%83ng"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q32300559",
+      "name_vi": "Cầu Câu Lâu",
+      "name_en": "Cau Lau Bridge",
+      "latitude": 15.86155,
+      "longitude": 108.272179,
+      "located_in_vi": "Điện Bàn",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_C%C3%A2u_L%C3%A2u"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q1151193",
+      "name_vi": "Cầu Cần Thơ",
+      "name_en": "Cần Thơ Bridge",
+      "latitude": 10.035,
+      "longitude": 105.8125,
+      "located_in_vi": "Cần Thơ",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_C%E1%BA%A7n_Th%C6%A1"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q10752350",
+      "name_vi": "Cầu Cẩm Giàng",
+      "name_en": "Cầu Cẩm Giàng",
+      "latitude": 20.967554,
+      "longitude": 106.167739,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_C%E1%BA%A9m_Gi%C3%A0ng"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q32193056",
+      "name_vi": "Cầu Cẩm Hải",
+      "name_en": "Cam Hai Bridge",
+      "latitude": 21.084844,
+      "longitude": 107.379976,
+      "located_in_vi": "Vân Đồn",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_C%E1%BA%A9m_H%E1%BA%A3i"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q10841443",
+      "name_vi": "Cầu Cỏ May",
+      "name_en": "Co May Bridge",
+      "latitude": 10.464142,
+      "longitude": 107.169137,
+      "located_in_vi": "Bà Rịa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_C%E1%BB%8F_May"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q10752351",
+      "name_vi": "Cầu Cốc Lếu",
+      "name_en": "Cốc Lếu Bridge",
+      "latitude": 22.50328,
+      "longitude": 103.96854,
+      "located_in_vi": "Lào Cai",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_C%E1%BB%91c_L%E1%BA%BFu"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q10752354",
+      "name_vi": "Cầu Cổ Chiên",
+      "name_en": "Cổ Chiên Bridge",
+      "latitude": 10.0287,
+      "longitude": 106.3061,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_C%E1%BB%95_Chi%C3%AAn"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q86006271",
+      "name_vi": "Cầu Cổ Lũy",
+      "name_en": "Co Luy Bridge",
+      "latitude": 15.142642,
+      "longitude": 108.885408,
+      "located_in_vi": "Quảng Ngãi",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_C%E1%BB%95_L%C5%A9y"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q32258460",
+      "name_vi": "Cầu Cửa Hội",
+      "name_en": "Cua Hoi Bridge",
+      "latitude": 18.75211,
+      "longitude": 105.74543,
+      "located_in_vi": "Cửa Lò",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_C%E1%BB%ADa_H%E1%BB%99i"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q10841173",
+      "name_vi": "Cầu Cửa Lấp",
+      "name_en": "Cua Lap Bridge",
+      "latitude": 10.421152,
+      "longitude": 107.184813,
+      "located_in_vi": "Long Điền",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_C%E1%BB%ADa_L%E1%BA%A5p"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q13153004",
+      "name_vi": "Cầu Cửa Nhượng",
+      "name_en": "Cua Nhuong Bridge",
+      "latitude": 18.258115,
+      "longitude": 106.110704,
+      "located_in_vi": "Cẩm Xuyên",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_C%E1%BB%ADa_Nh%C6%B0%E1%BB%A3ng"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q24959045",
+      "name_vi": "Cầu Cửa đại",
+      "name_en": "Cua Dai Bridge",
+      "latitude": 15.865527,
+      "longitude": 108.376184,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_C%E1%BB%ADa_%C4%90%E1%BA%A1i"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q10752420",
+      "name_vi": "Cầu Dã Viên",
+      "name_en": "Da Vien Bridge",
+      "latitude": 16.459559,
+      "longitude": 107.570965,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_D%C3%A3_Vi%C3%AAn"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q10752358",
+      "name_vi": "Cầu Dùng",
+      "name_en": "Cầu Dùng",
+      "latitude": 18.788333,
+      "longitude": 105.330556,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_D%C3%B9ng"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q2172664",
+      "name_vi": "Cầu Ghềnh",
+      "name_en": "Ghenh Bridge",
+      "latitude": 10.930278,
+      "longitude": 106.823889,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Gh%E1%BB%81nh"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q32265697",
+      "name_vi": "Cầu Gia Bẩy",
+      "name_en": "Gia Bay Bridge",
+      "latitude": 21.59935,
+      "longitude": 105.835492,
+      "located_in_vi": "Thái Nguyên",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Gia_B%E1%BA%A9y"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q31920641",
+      "name_vi": "Cầu Gianh",
+      "name_en": "Gianh Bridge",
+      "latitude": 17.712559,
+      "longitude": 106.442499,
+      "located_in_vi": "Bố Trạch",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Gianh"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q30921006",
+      "name_vi": "Cầu Giao Thủy",
+      "name_en": "Giao Thuy Bridge",
+      "latitude": 15.844801,
+      "longitude": 108.12206,
+      "located_in_vi": "Đại Lộc",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Giao_Th%E1%BB%A7y"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q10752363",
+      "name_vi": "Cầu Giấy",
+      "name_en": "Paper Bridge",
+      "latitude": 21.030278,
+      "longitude": 105.801111,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Gi%E1%BA%A5y"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q85381441",
+      "name_vi": "Cầu Hang Tôm",
+      "name_en": "Hang Tom Bridge",
+      "latitude": 22.07897,
+      "longitude": 103.173454,
+      "located_in_vi": "Điện Biên",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Hang_T%C3%B4m"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q1537236",
+      "name_vi": "Cầu Hiền Lương",
+      "name_en": "Hien Luong Bridge",
+      "latitude": 17.00437,
+      "longitude": 107.051746,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Hi%E1%BB%81n_L%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q10752367",
+      "name_vi": "Cầu Hiệp",
+      "name_en": "Cầu Hiệp",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Hi%E1%BB%87p"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q65171259",
+      "name_vi": "Cầu Hiệp Hòa",
+      "name_en": "Hiep Hoa bridge",
+      "latitude": 10.936111,
+      "longitude": 106.828611,
+      "located_in_vi": "Biên Hòa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Hi%E1%BB%87p_H%C3%B2a"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q32298141",
+      "name_vi": "Cầu Hoàng Long",
+      "name_en": "Hoang Long Bridge",
+      "latitude": 19.835882,
+      "longitude": 105.79422,
+      "located_in_vi": "Thanh Hóa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ho%C3%A0ng_Long"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q10832670",
+      "name_vi": "Cầu Hoàng Văn Thụ",
+      "name_en": "Hoang Van Thu Bridge",
+      "latitude": 20.867264,
+      "longitude": 106.681336,
+      "located_in_vi": "Hải Phòng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ho%C3%A0ng_V%C4%83n_Th%E1%BB%A5"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q10752368",
+      "name_vi": "Cầu Hàm Luông",
+      "name_en": "Ham Luong bridge",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Bến Tre",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_H%C3%A0m_Lu%C3%B4ng"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q4346741",
+      "name_vi": "Cầu Hàm Rồng",
+      "name_en": "Thanh Hoa Bridge",
+      "latitude": 19.8381,
+      "longitude": 105.794,
+      "located_in_vi": "Thanh Hóa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_H%C3%A0m_R%E1%BB%93ng"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q10752357",
+      "name_vi": "Cầu Hàn",
+      "name_en": "Han Bridge",
+      "latitude": 20.957867,
+      "longitude": 106.309512,
+      "located_in_vi": "Hải Dương",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_H%C3%A0n"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q32257708",
+      "name_vi": "Cầu Hòa Bình",
+      "name_en": "Hoa Binh Bridge",
+      "latitude": 20.823872,
+      "longitude": 105.341322,
+      "located_in_vi": "Hòa Bình",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_H%C3%B2a_B%C3%ACnh"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q32599216",
+      "name_vi": "Cầu Hòa Bình 3",
+      "name_en": "Hoa Binh 3 Bridge",
+      "latitude": 20.846874,
+      "longitude": 105.351658,
+      "located_in_vi": "Hòa Bình",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Th%E1%BB%91ng_Nh%E1%BA%A5t,_Ph%C3%BA_Th%E1%BB%8D"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q10752370",
+      "name_vi": "Cầu Hóa An",
+      "name_en": "Hóa An Bridge",
+      "latitude": 10.946931,
+      "longitude": 106.805793,
+      "located_in_vi": "Đồng Nai",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_H%C3%B3a_An"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q10742459",
+      "name_vi": "Cầu Hùng Vương",
+      "name_en": "Hung Vuong Bridge",
+      "latitude": 13.081032,
+      "longitude": 109.31827,
+      "located_in_vi": "Phú Yên",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_H%C3%B9ng_V%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q31990249",
+      "name_vi": "Cầu Hưng Lợi",
+      "name_en": "Hung Loi Bridge",
+      "latitude": 10.016923,
+      "longitude": 105.773944,
+      "located_in_vi": "Cái Răng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_H%C6%B0ng_L%E1%BB%A3i"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q124881817",
+      "name_vi": "Cầu Hưng Đức",
+      "name_en": "Cầu Hưng Đức",
+      "latitude": 18.580295,
+      "longitude": 105.654031,
+      "located_in_vi": "Hà Tĩnh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_H%C6%B0ng_%C4%90%E1%BB%A9c"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q32251783",
+      "name_vi": "Cầu Hạc Trì",
+      "name_en": "Hac Tri Bridge",
+      "latitude": 21.300247,
+      "longitude": 105.446357,
+      "located_in_vi": "Phú Thọ",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_H%E1%BA%A1c_Tr%C3%AC"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q16481181",
+      "name_vi": "Cầu Hồ",
+      "name_en": "Ho Bridge",
+      "latitude": 21.071006,
+      "longitude": 106.09422,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_H%E1%BB%93"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q124158901",
+      "name_vi": "Cầu Hữu Trạch",
+      "name_en": "Cầu Hữu Trạch",
+      "latitude": 16.3825,
+      "longitude": 107.569167,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_H%E1%BB%AFu_Tr%E1%BA%A1ch"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q32031481",
+      "name_vi": "Cầu Ka Long",
+      "name_en": "Ka Long Bridge",
+      "latitude": 21.530102,
+      "longitude": 107.966345,
+      "located_in_vi": "Quảng Ninh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ka_Long"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q10752373",
+      "name_vi": "Cầu Khuể",
+      "name_en": "Cầu Khuể",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Khu%E1%BB%83"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q10752374",
+      "name_vi": "Cầu Khánh Hội",
+      "name_en": "Khanh Hoi Bridge",
+      "latitude": 10.768872,
+      "longitude": 106.70557,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Kh%C3%A1nh_H%E1%BB%99i"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q32594864",
+      "name_vi": "Cầu Kim Thành",
+      "name_en": "Kim Thanh Bridge",
+      "latitude": 22.526111,
+      "longitude": 103.940988,
+      "located_in_vi": "Hà Khẩu",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Kim_Th%C3%A0nh"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q32032192",
+      "name_vi": "Cầu Kinh Dương Vương",
+      "name_en": "Kinh Duong Vuong Bridge",
+      "latitude": 21.07165,
+      "longitude": 106.042379,
+      "located_in_vi": "Tiên Du",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Kinh_D%C6%B0%C6%A1ng_V%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q10752376",
+      "name_vi": "Cầu Kinh Nước Mặn",
+      "name_en": "Cầu Kinh Nước Mặn",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Kinh_N%C6%B0%E1%BB%9Bc_M%E1%BA%B7n"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q32301920",
+      "name_vi": "Cầu Kiến An",
+      "name_en": "Kien An Bridge",
+      "latitude": 20.816981,
+      "longitude": 106.623595,
+      "located_in_vi": "Hải Phòng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ki%E1%BA%BFn_An"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q10752378",
+      "name_vi": "Cầu Kiền",
+      "name_en": "Kien Bridge",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ki%E1%BB%81n"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q30919767",
+      "name_vi": "Cầu Kiệu",
+      "name_en": "Cầu Kiệu",
+      "latitude": 10.792516,
+      "longitude": 106.686121,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ki%E1%BB%87u"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q30919756",
+      "name_vi": "Cầu Kênh Tẻ",
+      "name_en": "Kênh Tẻ Bridge",
+      "latitude": 10.752366,
+      "longitude": 106.702193,
+      "located_in_vi": "Quận 7",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_K%C3%AAnh_T%E1%BA%BB"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q49053982",
+      "name_vi": "Cầu Kỳ Cùng",
+      "name_en": "Ky Cung Bridge",
+      "latitude": 21.850517,
+      "longitude": 106.757987,
+      "located_in_vi": "Lạng Sơn",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_K%E1%BB%B3_C%C3%B9ng"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q10786547",
+      "name_vi": "Cầu Kỳ Lam",
+      "name_en": "Ky Lam Bridge",
+      "latitude": 15.856462,
+      "longitude": 108.189766,
+      "located_in_vi": "Điện Bàn",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_K%E1%BB%B3_Lam"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q32277887",
+      "name_vi": "Cầu La Tiến",
+      "name_en": "La Tien Bridge",
+      "latitude": 20.659375,
+      "longitude": 106.232761,
+      "located_in_vi": "Phù Cừ",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_La_Ti%E1%BA%BFn"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q2670019",
+      "name_vi": "Cầu Long Biên",
+      "name_en": "Long Bien Bridge",
+      "latitude": 21.043333,
+      "longitude": 105.858889,
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Long_Bi%C3%AAn"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q32301854",
+      "name_vi": "Cầu Long Bình–Chrey Thom",
+      "name_en": "Long Binh–Chrey Thom Bridge",
+      "latitude": 10.944888,
+      "longitude": 105.079224,
+      "located_in_vi": "Koh Thum",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Long_B%C3%ACnh_%E2%80%93_Chrey_Thom"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q32258452",
+      "name_vi": "Cầu Long Hồ",
+      "name_en": "Long Ho Bridge",
+      "latitude": 11.980669,
+      "longitude": 109.208839,
+      "located_in_vi": "Khánh Hòa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Long_H%E1%BB%93"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q32193531",
+      "name_vi": "Cầu Làng Giàng",
+      "name_en": "Lang Giang Bridge",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Bảo Thắng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_L%C3%A0ng_Gi%C3%A0ng"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q30919761",
+      "name_vi": "Cầu Lê Văn Sỹ",
+      "name_en": "Le Van Sy Bridge",
+      "latitude": 10.785911,
+      "longitude": 106.681298,
+      "located_in_vi": "Quận 3",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_L%C3%AA_V%C4%83n_S%E1%BB%B9"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q61129922",
+      "name_vi": "Cầu Lò Gốm",
+      "name_en": "Lo Gom Bridge",
+      "latitude": 10.734316,
+      "longitude": 106.634368,
+      "located_in_vi": "Quận 6",
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q10772201",
+      "name_vi": "Cầu Lạc Long",
+      "name_en": "Lac Long Bridge",
+      "latitude": 20.862118,
+      "longitude": 106.678598,
+      "located_in_vi": "Hồng Bàng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_L%E1%BA%A1c_Long"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q32254264",
+      "name_vi": "Cầu Lệ Bắc",
+      "name_en": "Le Bac Bridge",
+      "latitude": 13.306199,
+      "longitude": 108.597024,
+      "located_in_vi": "Krông Pa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_L%E1%BB%87_B%E1%BA%AFc"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q32598303",
+      "name_vi": "Cầu Mai Lĩnh",
+      "name_en": "Mai Linh Bridge",
+      "latitude": 20.936699,
+      "longitude": 105.727283,
+      "located_in_vi": "Hà Đông",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Mai_L%C4%A9nh"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q16480402",
+      "name_vi": "Cầu Mai Đình – Đông Xuyên",
+      "name_en": "Mai Dinh – Dong Xuyen Bridge",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Mai_%C4%90%C3%ACnh_%E2%80%93_%C4%90%C3%B4ng_Xuy%C3%AAn"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q16481264",
+      "name_vi": "Cầu Mống",
+      "name_en": "Mong Bridge",
+      "latitude": 10.768,
+      "longitude": 106.7037,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_M%E1%BB%91ng"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q16480443",
+      "name_vi": "Cầu Mỹ Lợi",
+      "name_en": "Cầu Mỹ Lợi",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_M%E1%BB%B9_L%E1%BB%A3i"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q3032279",
+      "name_vi": "Cầu Mỹ Thuận",
+      "name_en": "Mỹ Thuận Bridge",
+      "latitude": 10.277646,
+      "longitude": 105.909845,
+      "located_in_vi": "Cái Bè",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_M%E1%BB%B9_Thu%E1%BA%ADn"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q32284071",
+      "name_vi": "Cầu Mỹ Thuận 2",
+      "name_en": "My Thuan 2 Bridge",
+      "latitude": 10.276228,
+      "longitude": 105.906904,
+      "located_in_vi": "Vĩnh Long",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_M%E1%BB%B9_Thu%E1%BA%ADn_2"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q16480914",
+      "name_vi": "Cầu Nam Bình",
+      "name_en": "Nam Binh Bridge",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Nam_B%C3%ACnh"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q32581061",
+      "name_vi": "Cầu Nguyễn Hoàng",
+      "name_en": "Nguyen Hoang Bridge",
+      "latitude": 16.455266,
+      "longitude": 107.559864,
+      "located_in_vi": "Huế",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Nguy%E1%BB%85n_Ho%C3%A0ng"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q10752384",
+      "name_vi": "Cầu Nguyễn Tri Phương",
+      "name_en": "Nguyễn Tri Phương Bridge",
+      "latitude": 10.749699,
+      "longitude": 106.669253,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Nguy%E1%BB%85n_Tri_Ph%C6%B0%C6%A1ng_(Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh)"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q10752385",
+      "name_vi": "Cầu Nguyễn Tri Phương",
+      "name_en": "Nguyen Tri Phuong Bridge",
+      "latitude": 16.015706,
+      "longitude": 108.213746,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Nguy%E1%BB%85n_Tri_Ph%C6%B0%C6%A1ng_(%C4%90%C3%A0_N%E1%BA%B5ng)"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q30919753",
+      "name_vi": "Cầu Nguyễn Văn Cừ",
+      "name_en": "Nguyễn Văn Cừ Bridge",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Nguy%E1%BB%85n_V%C4%83n_C%E1%BB%AB"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q65164322",
+      "name_vi": "Cầu Nguyễn Văn Trỗi",
+      "name_en": "Nguyen Van Troi Bridge",
+      "latitude": 16.051056,
+      "longitude": 108.228806,
+      "located_in_vi": "Đà Nẵng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Nguy%E1%BB%85n_V%C4%83n_Tr%E1%BB%97i"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q32594904",
+      "name_vi": "Cầu Nguyệt Viên",
+      "name_en": "Nguyet Vien Bridge",
+      "latitude": 19.816857,
+      "longitude": 105.817979,
+      "located_in_vi": "Thanh Hóa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Nguy%E1%BB%87t_Vi%C3%AAn"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q10742576",
+      "name_vi": "Cầu Ngọc Tháp",
+      "name_en": "Ngoc Thap Bridge",
+      "latitude": 21.39511,
+      "longitude": 105.238162,
+      "located_in_vi": "Phú Thọ",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ng%E1%BB%8Dc_Th%C3%A1p"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q10752386",
+      "name_vi": "Cầu Nhơn Trạch",
+      "name_en": "Nhon Trach bridge",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Đồng Nai",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Nh%C6%A1n_Tr%E1%BA%A1ch"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q16480413",
+      "name_vi": "Cầu Như Nguyệt",
+      "name_en": "Cầu Như Nguyệt",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Nh%C6%B0_Nguy%E1%BB%87t"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q32291751",
+      "name_vi": "Cầu Nhật Lệ",
+      "name_en": "Nhat Le Bridge",
+      "latitude": 17.472423,
+      "longitude": 106.627176,
+      "located_in_vi": "Đồng Hới",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Nh%E1%BA%ADt_L%E1%BB%87"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q32291761",
+      "name_vi": "Cầu Nhật Lệ 2",
+      "name_en": "Nhat Le 2 Bridge",
+      "latitude": 17.449126,
+      "longitude": 106.63701,
+      "located_in_vi": "Đồng Hới",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Nh%E1%BA%ADt_L%E1%BB%87_2"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q3023944",
+      "name_vi": "Cầu Nhật Tân",
+      "name_en": "Nhật Tân Bridge",
+      "latitude": 21.092811,
+      "longitude": 105.820706,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Nh%E1%BA%ADt_T%C3%A2n"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q11840151",
+      "name_vi": "Cầu Nhị Thiên Đường",
+      "name_en": "Nhi Thien Duong Bridge",
+      "latitude": 10.741684,
+      "longitude": 106.655982,
+      "located_in_vi": "Quận 8",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Nh%E1%BB%8B_Thi%C3%AAn_%C4%90%C6%B0%E1%BB%9Dng"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q10752389",
+      "name_vi": "Cầu Ninh Bình",
+      "name_en": "Cầu Ninh Bình",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ninh_B%C3%ACnh"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q32289066",
+      "name_vi": "Cầu Ninh Chữ",
+      "name_en": "Ninh Chu Bridge",
+      "latitude": 11.59279,
+      "longitude": 109.046687,
+      "located_in_vi": "Ninh Hải",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ninh_Ch%E1%BB%AD"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q10752390",
+      "name_vi": "Cầu Non Nước",
+      "name_en": "Non Nước Bridge",
+      "latitude": 20.26537,
+      "longitude": 105.981004,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Non_N%C6%B0%E1%BB%9Bc"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q10757175",
+      "name_vi": "Cầu Nông Tiến",
+      "name_en": "Nong Tien Bridge",
+      "latitude": 21.816719,
+      "longitude": 105.219129,
+      "located_in_vi": "Tuyên Quang",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_N%C3%B4ng_Ti%E1%BA%BFn"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q32508006",
+      "name_vi": "Cầu Núi Đọ",
+      "name_en": "Nui Do Bridge",
+      "latitude": 19.887736,
+      "longitude": 105.730904,
+      "located_in_vi": "Thiệu Hóa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_N%C3%BAi_%C4%90%E1%BB%8D"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q32254906",
+      "name_vi": "Cầu Phong Châu",
+      "name_en": "Phong Chau Bridge",
+      "latitude": 21.285503,
+      "longitude": 105.259636,
+      "located_in_vi": "Tam Nông",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Phong_Ch%C3%A2u"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q10771234",
+      "name_vi": "Cầu Phù Đổng",
+      "name_en": "Phu Dong Bridge",
+      "latitude": 21.041334,
+      "longitude": 105.93899,
+      "located_in_vi": "Gia Lâm",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ph%C3%B9_%C4%90%E1%BB%95ng"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q10742428",
+      "name_vi": "Cầu Phùng",
+      "name_en": "Phung Bridge",
+      "latitude": 21.087071,
+      "longitude": 105.645264,
+      "located_in_vi": "Phúc Thọ",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ph%C3%B9ng"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q32302725",
+      "name_vi": "Cầu Phú Cường",
+      "name_en": "Phu Cuong Bridge",
+      "latitude": 10.981,
+      "longitude": 106.643363,
+      "located_in_vi": "Thủ Dầu Một",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ph%C3%BA_C%C6%B0%E1%BB%9Dng"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q61127719",
+      "name_vi": "Cầu Phú Hữu",
+      "name_en": "Phu Huu Bridge",
+      "latitude": 10.816107,
+      "longitude": 106.791621,
+      "located_in_vi": "Quận 9",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ph%C3%BA_H%E1%BB%AFu"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q10771125",
+      "name_vi": "Cầu Phú Long",
+      "name_en": "Phu Long Bridge",
+      "latitude": 10.890301,
+      "longitude": 106.692081,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ph%C3%BA_Long"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q32566329",
+      "name_vi": "Cầu Phú Lương",
+      "name_en": "Phu Luong Bridge",
+      "latitude": 20.946403,
+      "longitude": 106.354705,
+      "located_in_vi": "Hải Dương",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ph%C3%BA_L%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q4216999",
+      "name_vi": "Cầu Phú Mỹ",
+      "name_en": "Phu My Bridge",
+      "latitude": 10.744992,
+      "longitude": 106.744456,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ph%C3%BA_M%E1%BB%B9"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q10752393",
+      "name_vi": "Cầu Phú Xuân",
+      "name_en": "Phu Xuan Bridge",
+      "latitude": 16.465435,
+      "longitude": 107.585234,
+      "located_in_vi": "Huế",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ph%C3%BA_Xu%C3%A2n"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q24956743",
+      "name_vi": "Cầu Phước Khánh",
+      "name_en": "Phước Khánh Bridge",
+      "latitude": 10.663,
+      "longitude": 106.795,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ph%C6%B0%E1%BB%9Bc_Kh%C3%A1nh"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q10752392",
+      "name_vi": "Cầu Phả Lại",
+      "name_en": "Cầu Phả Lại",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ph%E1%BA%A3_L%E1%BA%A1i"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q32255016",
+      "name_vi": "Cầu Phố Lu",
+      "name_en": "Pho Lu Bridge",
+      "latitude": 22.319327,
+      "longitude": 104.180904,
+      "located_in_vi": "Bảo Thắng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ph%E1%BB%91_Lu"
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q32600443",
+      "name_vi": "Cầu Phố Mới",
+      "name_en": "Pho Moi Bridge",
+      "latitude": 22.485229,
+      "longitude": 103.978403,
+      "located_in_vi": "Lào Cai",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ph%E1%BB%91_M%E1%BB%9Bi"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q10752394",
+      "name_vi": "Cầu Pá Uôn",
+      "name_en": "Pa Uon Bridge",
+      "latitude": 21.694261,
+      "longitude": 103.616024,
+      "located_in_vi": "Chiềng Ơn",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_P%C3%A1_U%C3%B4n"
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q137452609",
+      "name_vi": "Cầu Quan",
+      "name_en": "Cầu Quan",
+      "latitude": 11.315175,
+      "longitude": 106.093304,
+      "located_in_vi": "Tây Ninh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Quan_(c%E1%BA%A7u_t%E1%BA%A1i_T%C3%A2y_Ninh)"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q104862199",
+      "name_vi": "Cầu Quang Thanh",
+      "name_en": "Quang Thanh Bridge",
+      "latitude": 20.833026,
+      "longitude": 106.49555,
+      "located_in_vi": "An Lão",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Quang_Thanh"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q24957298",
+      "name_vi": "Cầu Quang Trung",
+      "name_en": "Quang Trung Bridge",
+      "latitude": 10.024276,
+      "longitude": 105.780761,
+      "located_in_vi": "Cần Thơ",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Quang_Trung"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q32587054",
+      "name_vi": "Cầu Quay",
+      "name_en": "Cầu Quay",
+      "latitude": 10.355842,
+      "longitude": 106.368574,
+      "located_in_vi": "Mỹ Tho",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Quay_(M%E1%BB%B9_Tho)"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q32253386",
+      "name_vi": "Cầu Quán Hàu",
+      "name_en": "Quan Hau Bridge",
+      "latitude": 17.398573,
+      "longitude": 106.640497,
+      "located_in_vi": "Quảng Ninh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Qu%C3%A1n_H%C3%A0u"
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q32300048",
+      "name_vi": "Cầu Quảng trường Thái Bình",
+      "name_en": "Thai Binh Square Bridge",
+      "latitude": 20.468921,
+      "longitude": 106.368776,
+      "located_in_vi": "Thái Bình",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Qu%E1%BA%A3ng_tr%C6%B0%E1%BB%9Dng_Th%C3%A1i_B%C3%ACnh"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q10826215",
+      "name_vi": "Cầu Rào",
+      "name_en": "Rao Bridge",
+      "latitude": 20.828014,
+      "longitude": 106.69956,
+      "located_in_vi": "Ngô Quyền",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_R%C3%A0o"
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q10752397",
+      "name_vi": "Cầu Rạch Chiếc",
+      "name_en": "Rach Chiec Bridge",
+      "latitude": 10.813284,
+      "longitude": 106.757004,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_R%E1%BA%A1ch_Chi%E1%BA%BFc"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q25418134",
+      "name_vi": "Cầu Rạch Cát",
+      "name_en": "Rach Cat bridge",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Biên Hòa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_R%E1%BA%A1ch_C%C3%A1t_(%C4%90%E1%BB%93ng_Nai)"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q2684873",
+      "name_vi": "Cầu Rạch Miễu",
+      "name_en": "Rạch Miễu Bridge",
+      "latitude": 10.337,
+      "longitude": 106.344,
+      "located_in_vi": "Bến Tre",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_R%E1%BA%A1ch_Mi%E1%BB%85u"
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q86012790",
+      "name_vi": "Cầu Rạch Miễu 2",
+      "name_en": "Rach Mieu 2 Bridge",
+      "latitude": 10.336111,
+      "longitude": 106.307778,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_R%E1%BA%A1ch_Mi%E1%BB%85u_2"
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q5305270",
+      "name_vi": "Cầu Rồng",
+      "name_en": "Dragon River Bridge",
+      "latitude": 16.061111,
+      "longitude": 108.226667,
+      "located_in_vi": "Đà Nẵng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_R%E1%BB%93ng"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q10752399",
+      "name_vi": "Cầu Rộ",
+      "name_en": "Cầu Rộ",
+      "latitude": 18.728608,
+      "longitude": 105.372748,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_R%E1%BB%99"
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q2290616",
+      "name_vi": "Cầu Sài Gòn",
+      "name_en": "Saigon Bridge",
+      "latitude": 10.798889,
+      "longitude": 106.727222,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_S%C3%A0i_G%C3%B2n"
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q32293741",
+      "name_vi": "Cầu Sêrêpôk",
+      "name_en": "Serepok Bridge",
+      "latitude": 12.613117,
+      "longitude": 107.92933,
+      "located_in_vi": "Cư Jút",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_S%C3%AAr%C3%AAp%C3%B4k"
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q32258469",
+      "name_vi": "Cầu Sông Ba",
+      "name_en": "Song Ba Bridge",
+      "latitude": 13.954199,
+      "longitude": 108.651704,
+      "located_in_vi": "An Khê",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_S%C3%B4ng_Ba"
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q10752400",
+      "name_vi": "Cầu Sông Hàn",
+      "name_en": "Han River Bridge",
+      "latitude": 16.072278,
+      "longitude": 108.226722,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_S%C3%B4ng_H%C3%A0n"
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q16481165",
+      "name_vi": "Cầu Tam Bạc",
+      "name_en": "Tam Bac Bridge",
+      "latitude": 20.853503,
+      "longitude": 106.666542,
+      "located_in_vi": "Lê Chân (quận)",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Tam_B%E1%BA%A1c"
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q10740295",
+      "name_vi": "Cầu Tam Giang",
+      "name_en": "Tam Giang Bridge",
+      "latitude": 16.58245,
+      "longitude": 107.588528,
+      "located_in_vi": "Hương Trà",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Tam_Giang"
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q3023373",
+      "name_vi": "Cầu Thanh Trì",
+      "name_en": "Thanh Trì Bridge",
+      "latitude": 21.098,
+      "longitude": 105.786,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Thanh_Tr%C3%AC"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q16480564",
+      "name_vi": "Cầu Thuận An",
+      "name_en": "Thuan An Bridge",
+      "latitude": 16.553408,
+      "longitude": 107.647528,
+      "located_in_vi": "Phú Vang",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Thu%E1%BA%ADn_An"
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q7798648",
+      "name_vi": "Cầu Thuận Phước",
+      "name_en": "Thuận Phước Bridge",
+      "latitude": 16.0919,
+      "longitude": 108.222,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Thu%E1%BA%ADn_Ph%C6%B0%E1%BB%9Bc"
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q10757733",
+      "name_vi": "Cầu Thái Hà",
+      "name_en": "Thai Ha Bridge",
+      "latitude": 20.591785,
+      "longitude": 106.129423,
+      "located_in_vi": "Lý Nhân",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Th%C3%A1i_H%C3%A0"
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q10752403",
+      "name_vi": "Cầu Thê Húc",
+      "name_en": "The Huc Bridge",
+      "latitude": 21.03075,
+      "longitude": 105.8528,
+      "located_in_vi": "Hoàn Kiếm",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Th%C3%AA_H%C3%BAc"
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q3023384",
+      "name_vi": "Cầu Thăng Long",
+      "name_en": "Thăng Long Bridge",
+      "latitude": 21.098,
+      "longitude": 105.786,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Th%C4%83ng_Long"
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q94435745",
+      "name_vi": "Cầu Thạch Bích",
+      "name_en": "Thach Bich Bridge",
+      "latitude": 15.135591,
+      "longitude": 108.786227,
+      "located_in_vi": "Quảng Ngãi",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Th%E1%BA%A1ch_B%C3%ADch"
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q61132437",
+      "name_vi": "Cầu Thạch Hãn",
+      "name_en": "Thach Han Bridge",
+      "latitude": 16.742327,
+      "longitude": 107.181317,
+      "located_in_vi": "Quảng Trị",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Th%E1%BA%A1ch_H%C3%A3n"
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q124158952",
+      "name_vi": "Cầu Thạnh Hội",
+      "name_en": "Cầu Thạnh Hội",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Bình Dương",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Th%E1%BA%A1nh_H%E1%BB%99i"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q10752404",
+      "name_vi": "Cầu Thị Nghè",
+      "name_en": "Thi Nghe Bridge",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Th%E1%BB%8B_Ngh%C3%A8"
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q7783809",
+      "name_vi": "Cầu Thị Nại",
+      "name_en": "Thi Nai Bridge",
+      "latitude": 13.813804,
+      "longitude": 109.240272,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Th%E1%BB%8B_N%E1%BA%A1i"
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q30919768",
+      "name_vi": "Cầu Thịnh Long",
+      "name_en": "Thinh Long Bridge",
+      "latitude": 20.067578,
+      "longitude": 106.208706,
+      "located_in_vi": "Nam Định",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Th%E1%BB%8Bnh_Long"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q116739064",
+      "name_vi": "Cầu Thống Nhất",
+      "name_en": "Thong Nhat bridge",
+      "latitude": 10.946056,
+      "longitude": 106.837639,
+      "located_in_vi": "Đồng Nai",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Th%E1%BB%91ng_Nh%E1%BA%A5t_(Bi%C3%AAn_H%C3%B2a)"
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q30919760",
+      "name_vi": "Cầu Thủ Biên",
+      "name_en": "Thu Bien Bridge",
+      "latitude": 11.031209,
+      "longitude": 106.911666,
+      "located_in_vi": "Đồng Nai",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Th%E1%BB%A7_Bi%C3%AAn"
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q10752405",
+      "name_vi": "Cầu Thủ Bộ",
+      "name_en": "Cầu Thủ Bộ",
+      "latitude": 10.543361,
+      "longitude": 106.650124,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Th%E1%BB%A7_B%E1%BB%99"
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q7798636",
+      "name_vi": "Cầu Thủ Thiêm",
+      "name_en": "Thu Thiem Bridge",
+      "latitude": 10.7858,
+      "longitude": 106.718,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Th%E1%BB%A7_Thi%C3%AAm"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q10752410",
+      "name_vi": "Cầu Tiên Sơn",
+      "name_en": "Tiên Sơn Bridge",
+      "latitude": 16.035466,
+      "longitude": 108.236068,
+      "located_in_vi": "Đà Nẵng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ti%C3%AAn_S%C6%A1n"
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q20025349",
+      "name_vi": "Cầu Trung Hà",
+      "name_en": "Cầu Trung Hà",
+      "latitude": 21.234822,
+      "longitude": 105.350304,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Trung_H%C3%A0"
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q26177418",
+      "name_vi": "Cầu Trà Khúc 1",
+      "name_en": "Tra Khuc 1 Bridge",
+      "latitude": 15.137492,
+      "longitude": 108.801066,
+      "located_in_vi": "Quảng Ngãi",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Tr%C3%A0_Kh%C3%BAc_1"
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q32258443",
+      "name_vi": "Cầu Trà Khúc 2",
+      "name_en": "Tra Khuc 2 Bridge",
+      "latitude": 15.136167,
+      "longitude": 108.806141,
+      "located_in_vi": "Quảng Ngãi",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Tr%C3%A0_Kh%C3%BAc_2"
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q10752407",
+      "name_vi": "Cầu Trường Tiền",
+      "name_en": "Trang Tien Bridge",
+      "latitude": 16.468889,
+      "longitude": 107.588611,
+      "located_in_vi": "Huế",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Tr%C6%B0%E1%BB%9Dng_Ti%E1%BB%81n"
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q97580309",
+      "name_vi": "Cầu Trần Hoàng Na",
+      "name_en": "Tran Hoang Na Bridge",
+      "latitude": 10.007976,
+      "longitude": 105.768099,
+      "located_in_vi": "Cần Thơ",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Tr%E1%BA%A7n_Ho%C3%A0ng_Na"
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q86012789",
+      "name_vi": "Cầu Trần Hưng Đạo",
+      "name_en": "Tran Hung Dao Bridge",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/D%E1%BB%B1_%C3%A1n_c%E1%BA%A7u_Tr%E1%BA%A7n_H%C6%B0ng_%C4%90%E1%BA%A1o"
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q32253700",
+      "name_vi": "Cầu Trần Phú",
+      "name_en": "Tran Phu Bridge",
+      "latitude": 12.261688,
+      "longitude": 109.199124,
+      "located_in_vi": "Khánh Hòa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Tr%E1%BA%A7n_Ph%C3%BA"
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q7833322",
+      "name_vi": "Cầu Trần Thị Lý",
+      "name_en": "Tran Thi Ly Bridge",
+      "latitude": 16.050278,
+      "longitude": 108.229444,
+      "located_in_vi": "Đà Nẵng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Tr%E1%BA%A7n_Th%E1%BB%8B_L%C3%BD"
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q112263399",
+      "name_vi": "Cầu Trần Thị Lý (Đà Nẵng)",
+      "name_en": "Maréchal-de-Lattre-de-Tassigny bridge (Bougival)",
+      "latitude": 16.050278,
+      "longitude": 108.229444,
+      "located_in_vi": "Đà Nẵng",
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q31993740",
+      "name_vi": "Cầu Tuần",
+      "name_en": "Tuan Bridge",
+      "latitude": 16.394661,
+      "longitude": 107.576368,
+      "located_in_vi": "Hương Thủy",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Tu%E1%BA%A7n"
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q32029761",
+      "name_vi": "Cầu Tân An",
+      "name_en": "Tan An Bridge",
+      "latitude": 10.543896,
+      "longitude": 106.41181,
+      "located_in_vi": "Long An",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_T%C3%A2n_An_(Qu%E1%BB%91c_l%E1%BB%99_1)"
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q32252333",
+      "name_vi": "Cầu Tân An",
+      "name_en": "Tan An Bridge",
+      "latitude": 10.55577,
+      "longitude": 106.407603,
+      "located_in_vi": "Long An",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_T%C3%A2n_An_(tuy%E1%BA%BFn_tr%C3%A1nh_Qu%E1%BB%91c_l%E1%BB%99_1)"
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q48988027",
+      "name_vi": "Cầu Tân An",
+      "name_en": "Tan An Bridge",
+      "latitude": 10.801093,
+      "longitude": 105.199409,
+      "located_in_vi": "Tân Châu",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_T%C3%A2n_An_(An_Giang)"
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q32301864",
+      "name_vi": "Cầu Tân Phong",
+      "name_en": "Tan Phong Bridge",
+      "latitude": 20.443637,
+      "longitude": 106.202844,
+      "located_in_vi": "Nam Định",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_T%C3%A2n_Phong"
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q16480448",
+      "name_vi": "Cầu Tân Thuận",
+      "name_en": "Tân Thuận Bridge",
+      "latitude": 10.755573,
+      "longitude": 106.719028,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_T%C3%A2n_Thu%E1%BA%ADn"
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q16481265",
+      "name_vi": "Cầu Tân Vũ – Lạch Huyện",
+      "name_en": "Cầu Tân Vũ – Lạch Huyện",
+      "latitude": 20.806388,
+      "longitude": 106.822101,
+      "located_in_vi": "Hải Phòng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%90%C3%ACnh_V%C5%A9_%E2%80%93_C%C3%A1t_H%E1%BA%A3i"
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q10752412",
+      "name_vi": "Cầu Tân Đệ",
+      "name_en": "Cầu Tân Đệ",
+      "latitude": 20.441667,
+      "longitude": 106.22,
+      "located_in_vi": "Nam Định",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_T%C3%A2n_%C4%90%E1%BB%87"
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q32261425",
+      "name_vi": "Cầu Tình Húc",
+      "name_en": "Tinh Huc Bridge",
+      "latitude": 21.80319,
+      "longitude": 105.218224,
+      "located_in_vi": "Tuyên Quang",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_T%C3%ACnh_H%C3%BAc"
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q32029735",
+      "name_vi": "Cầu Tình Yêu",
+      "name_en": "Tinh Yeu Bridge",
+      "latitude": 20.99093,
+      "longitude": 107.012624,
+      "located_in_vi": "Hạ Long",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_T%C3%ACnh_Y%C3%AAu"
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q32305226",
+      "name_vi": "Cầu Tô Châu",
+      "name_en": "To Chau Bridge",
+      "latitude": 10.376234,
+      "longitude": 104.484284,
+      "located_in_vi": "Hà Tiên",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_T%C3%B4_Ch%C3%A2u"
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q7023045",
+      "name_vi": "Cầu Tư Hiền",
+      "name_en": "Tu Hien Bridge",
+      "latitude": 16.349236,
+      "longitude": 107.913799,
+      "located_in_vi": "Phú Lộc",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_T%C6%B0_Hi%E1%BB%81n"
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q32192031",
+      "name_vi": "Cầu Tạ Khoa",
+      "name_en": "Ta Khoa Bridge",
+      "latitude": 21.208097,
+      "longitude": 104.369355,
+      "located_in_vi": "Bắc Yên",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_T%E1%BA%A1_Khoa"
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q20025350",
+      "name_vi": "Cầu Vàm Cống",
+      "name_en": "Vàm Cống bridge",
+      "latitude": 10.317033,
+      "longitude": 105.504122,
+      "located_in_vi": "Thốt Nốt",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_V%C3%A0m_C%E1%BB%91ng"
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q24958982",
+      "name_vi": "Cầu Vàm Sát",
+      "name_en": "Vam Sat Bridge",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_V%C3%A0m_S%C3%A1t"
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q55954790",
+      "name_vi": "Cầu Vàng",
+      "name_en": "Golden Bridge",
+      "latitude": 15.99486,
+      "longitude": 107.99625,
+      "located_in_vi": "Đà Nẵng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_V%C3%A0ng"
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q10752416",
+      "name_vi": "Cầu Vát",
+      "name_en": "Vat Bridge",
+      "latitude": 21.321385,
+      "longitude": 105.898601,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_V%C3%A1t"
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q10733228",
+      "name_vi": "Cầu Vân Đồn",
+      "name_en": "Van Don Bridge",
+      "latitude": 21.036517,
+      "longitude": 107.368913,
+      "located_in_vi": "Vân Đồn",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_V%C3%A2n_%C4%90%E1%BB%93n"
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q10826216",
+      "name_vi": "Cầu Võ Nguyên Giáp",
+      "name_en": "Vo Nguyen Giap Bridge",
+      "latitude": 20.819548,
+      "longitude": 106.69461,
+      "located_in_vi": "Lê Chân (quận)",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_V%C3%B5_Nguy%C3%AAn_Gi%C3%A1p"
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q25418374",
+      "name_vi": "Cầu Văn Lang",
+      "name_en": "Van Lang Bridge",
+      "latitude": 21.295919,
+      "longitude": 105.410862,
+      "located_in_vi": "Ba Vì",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_V%C4%83n_Lang"
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q18456849",
+      "name_vi": "Cầu Văn Phú",
+      "name_en": "Van Phu Bridge",
+      "latitude": 21.679375,
+      "longitude": 104.921364,
+      "located_in_vi": "Yên Bái",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_V%C4%83n_Ph%C3%BA"
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q3023933",
+      "name_vi": "Cầu Vĩnh Tuy",
+      "name_en": "Vĩnh Tuy Bridge",
+      "latitude": 21.0044,
+      "longitude": 105.876,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_V%C4%A9nh_Tuy"
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q32252088",
+      "name_vi": "Cầu Xóm Bóng",
+      "name_en": "Xom Bong Bridge",
+      "latitude": 12.263314,
+      "longitude": 109.195597,
+      "located_in_vi": "Khánh Hòa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_X%C3%B3m_B%C3%B3ng"
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q10830341",
+      "name_vi": "Cầu Xương Giang",
+      "name_en": "Xuong Giang Bridge",
+      "latitude": 21.265442,
+      "longitude": 106.201417,
+      "located_in_vi": "Bắc Giang",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_X%C6%B0%C6%A1ng_Giang"
+    },
+    {
+      "id": 209,
+      "wikidata_id": "Q10752417",
+      "name_vi": "Cầu Yên Bái",
+      "name_en": "Yen Bai Bridge",
+      "latitude": 21.694883,
+      "longitude": 104.870594,
+      "located_in_vi": "Yên Bái",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Y%C3%AAn_B%C3%A1i"
+    },
+    {
+      "id": 210,
+      "wikidata_id": "Q10752418",
+      "name_vi": "Cầu Yên Lệnh",
+      "name_en": "Cầu Yên Lệnh",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Y%C3%AAn_L%E1%BB%87nh"
+    },
+    {
+      "id": 211,
+      "wikidata_id": "Q32282436",
+      "name_vi": "Cầu Yên Xuân",
+      "name_en": "Yen Xuan Bridge",
+      "latitude": 18.606256,
+      "longitude": 105.602373,
+      "located_in_vi": "Hưng Nguyên",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Y%C3%AAn_Xu%C3%A2n"
+    },
+    {
+      "id": 212,
+      "wikidata_id": "Q111315252",
+      "name_vi": "Cầu kính Rồng Mây",
+      "name_en": "Rồng Mây Glass Bridge",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_k%C3%ADnh_R%E1%BB%93ng_M%C3%A2y"
+    },
+    {
+      "id": 213,
+      "wikidata_id": "Q32286874",
+      "name_vi": "Cầu ngói Phát Diệm",
+      "name_en": "Phat Diem covered bridge",
+      "latitude": 20.089361,
+      "longitude": 106.082438,
+      "located_in_vi": "Kim Sơn",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_ng%C3%B3i_Ph%C3%A1t_Di%E1%BB%87m"
+    },
+    {
+      "id": 214,
+      "wikidata_id": "Q10752425",
+      "name_vi": "Cầu ngói Thanh Toàn",
+      "name_en": "Thanh Toan covered bridge",
+      "latitude": 16.46677,
+      "longitude": 107.642691,
+      "located_in_vi": "Hương Thủy",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_ng%C3%B3i_Thanh_To%C3%A0n"
+    },
+    {
+      "id": 215,
+      "wikidata_id": "Q32286827",
+      "name_vi": "Cầu ngói chợ Lương",
+      "name_en": "Quan Phuong covered bridge",
+      "latitude": 20.226215,
+      "longitude": 106.270525,
+      "located_in_vi": "Hải Hậu",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_ng%C3%B3i_ch%E1%BB%A3_L%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 216,
+      "wikidata_id": "Q90949704",
+      "name_vi": "Cầu ngói chợ Thượng",
+      "name_en": "Thuong Nong covered bridge",
+      "latitude": 20.320783,
+      "longitude": 106.209712,
+      "located_in_vi": "Nam Định",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_ng%C3%B3i_ch%E1%BB%A3_Th%C6%B0%E1%BB%A3ng"
+    },
+    {
+      "id": 217,
+      "wikidata_id": "Q10783702",
+      "name_vi": "Cầu treo Kon Klor",
+      "name_en": "Kon Klor Bridge",
+      "latitude": 14.347252,
+      "longitude": 108.035391,
+      "located_in_vi": "Kon Tum",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_treo_Kon_Klor"
+    },
+    {
+      "id": 218,
+      "wikidata_id": "Q65171265",
+      "name_vi": "Cầu vượt AMATA",
+      "name_en": "Cầu vượt AMATA",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Biên Hòa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_v%C6%B0%E1%BB%A3t_AMATA"
+    },
+    {
+      "id": 219,
+      "wikidata_id": "Q16480456",
+      "name_vi": "Cầu vượt Cộng Hòa - Hoàng Hoa Thám",
+      "name_en": "Cầu vượt Cộng Hòa - Hoàng Hoa Thám",
+      "latitude": 10.801889,
+      "longitude": 106.647466,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_v%C6%B0%E1%BB%A3t_Ho%C3%A0ng_Hoa_Th%C3%A1m"
+    },
+    {
+      "id": 220,
+      "wikidata_id": "Q16480461",
+      "name_vi": "Cầu vượt Daewoo",
+      "name_en": "Daewoo overpass",
+      "latitude": 21.030293,
+      "longitude": 105.812844,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_v%C6%B0%E1%BB%A3t_Daewoo"
+    },
+    {
+      "id": 221,
+      "wikidata_id": "Q10752434",
+      "name_vi": "Cầu vượt Hàng Xanh",
+      "name_en": "Cầu vượt Hàng Xanh",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_v%C6%B0%E1%BB%A3t_H%C3%A0ng_Xanh"
+    },
+    {
+      "id": 222,
+      "wikidata_id": "Q32254118",
+      "name_vi": "Cầu vượt Lê Hồng Phong - Nguyễn Bỉnh Khiêm",
+      "name_en": "Le Hong Phong - Nguyen Binh Khiem Interchange",
+      "latitude": 20.844145,
+      "longitude": 106.709437,
+      "located_in_vi": "Hải An",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_v%C6%B0%E1%BB%A3t_L%C3%AA_H%E1%BB%93ng_Phong_%E2%80%93_Nguy%E1%BB%85n_B%E1%BB%89nh_Khi%C3%AAm"
+    },
+    {
+      "id": 223,
+      "wikidata_id": "Q10752435",
+      "name_vi": "Cầu vượt Lăng Cha Cả",
+      "name_en": "Cầu vượt Lăng Cha Cả",
+      "latitude": 10.800278,
+      "longitude": 106.660833,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_v%C6%B0%E1%BB%A3t_L%C4%83ng_Cha_C%E1%BA%A3"
+    },
+    {
+      "id": 224,
+      "wikidata_id": "Q10831649",
+      "name_vi": "Cầu vượt Nguyễn Văn Linh",
+      "name_en": "Cầu vượt Nguyễn Văn Linh",
+      "latitude": 20.834743,
+      "longitude": 106.683173,
+      "located_in_vi": "Lê Chân (quận)",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_v%C6%B0%E1%BB%A3t_Nguy%E1%BB%85n_V%C4%83n_Linh_(H%E1%BA%A3i_Ph%C3%B2ng)"
+    },
+    {
+      "id": 225,
+      "wikidata_id": "Q10752436",
+      "name_vi": "Cầu vượt Ngã Tư Sở",
+      "name_en": "Cầu vượt Ngã Tư Sở",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_v%C6%B0%E1%BB%A3t_Ng%C3%A3_T%C6%B0_S%E1%BB%9F"
+    },
+    {
+      "id": 226,
+      "wikidata_id": "Q30920746",
+      "name_vi": "Cầu vượt ngã sáu Gò Vấp",
+      "name_en": "Cầu vượt ngã sáu Gò Vấp",
+      "latitude": 10.826884,
+      "longitude": 106.679886,
+      "located_in_vi": "Gò Vấp",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_v%C6%B0%E1%BB%A3t_ng%C3%A3_s%C3%A1u_G%C3%B2_V%E1%BA%A5p"
+    },
+    {
+      "id": 227,
+      "wikidata_id": "Q18456856",
+      "name_vi": "Cầu vượt ngã tư Vũng Tàu",
+      "name_en": "Cầu vượt ngã tư Vũng Tàu",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Biên Hòa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_v%C6%B0%E1%BB%A3t_ng%C3%A3_t%C6%B0_V%C5%A9ng_T%C3%A0u"
+    },
+    {
+      "id": 228,
+      "wikidata_id": "Q49053997",
+      "name_vi": "Cầu vượt nút giao Nguyễn Thái Sơn - Nguyễn Kiệm",
+      "name_en": "Nguyen Thai Son - Nguyen Kiem Interchange Overpass",
+      "latitude": 10.814416,
+      "longitude": 106.678762,
+      "located_in_vi": "Gò Vấp",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_v%C6%B0%E1%BB%A3t_Nguy%E1%BB%85n_Th%C3%A1i_S%C6%A1n_%E2%80%93_Nguy%E1%BB%85n_Ki%E1%BB%87m"
+    },
+    {
+      "id": 229,
+      "wikidata_id": "Q10752437",
+      "name_vi": "Cầu vượt vòng xoay Cây Gõ",
+      "name_en": "Cầu vượt vòng xoay Cây Gõ",
+      "latitude": 10.754537,
+      "longitude": 106.643193,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/N%C3%BAt_giao_th%C3%B4ng_C%C3%A2y_G%C3%B5"
+    },
+    {
+      "id": 230,
+      "wikidata_id": "Q10752440",
+      "name_vi": "Cầu Ánh Sao",
+      "name_en": "Ánh Sao Bridge",
+      "latitude": 10.724731,
+      "longitude": 106.7185,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C3%81nh_Sao"
+    },
+    {
+      "id": 231,
+      "wikidata_id": "Q10752442",
+      "name_vi": "Cầu Ông Lãnh",
+      "name_en": "Ông Lãnh Bridge",
+      "latitude": 10.763502,
+      "longitude": 106.698286,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C3%94ng_L%C3%A3nh"
+    },
+    {
+      "id": 232,
+      "wikidata_id": "Q10752445",
+      "name_vi": "Cầu Ông Lớn",
+      "name_en": "Ong Lon Bridge",
+      "latitude": 10.728499,
+      "longitude": 106.689482,
+      "located_in_vi": "Quận 7",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C3%94ng_L%E1%BB%9Bn"
+    },
+    {
+      "id": 233,
+      "wikidata_id": "Q10752447",
+      "name_vi": "Cầu Ông Thìn",
+      "name_en": "Ong Thin Bridge",
+      "latitude": 10.650338,
+      "longitude": 106.655231,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C3%94ng_Th%C3%ACn"
+    },
+    {
+      "id": 234,
+      "wikidata_id": "Q2663700",
+      "name_vi": "Cầu Đakrông",
+      "name_en": "Đa Krông bridge",
+      "latitude": 16.657389,
+      "longitude": 106.816496,
+      "located_in_vi": "Đakrông",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%90akr%C3%B4ng"
+    },
+    {
+      "id": 235,
+      "wikidata_id": "Q30919771",
+      "name_vi": "Cầu Điện Biên Phủ",
+      "name_en": "Cầu Điện Biên Phủ",
+      "latitude": 10.793312,
+      "longitude": 106.700406,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%90i%E1%BB%87n_Bi%C3%AAn_Ph%E1%BB%A7"
+    },
+    {
+      "id": 236,
+      "wikidata_id": "Q10752449",
+      "name_vi": "Cầu Đoan Hùng",
+      "name_en": "Cầu Đoan Hùng",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%90oan_H%C3%B9ng"
+    },
+    {
+      "id": 237,
+      "wikidata_id": "Q10838115",
+      "name_vi": "Cầu Đoan Vĩ",
+      "name_en": "Doan Vi Bridge",
+      "latitude": 20.363197,
+      "longitude": 105.921386,
+      "located_in_vi": "Thanh Liêm",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%90oan_V%C4%A9"
+    },
+    {
+      "id": 238,
+      "wikidata_id": "Q10752450",
+      "name_vi": "Cầu Đuống",
+      "name_en": "Duong River Bridge",
+      "latitude": 21.07763,
+      "longitude": 105.90848,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%90u%E1%BB%91ng"
+    },
+    {
+      "id": 239,
+      "wikidata_id": "Q10752453",
+      "name_vi": "Cầu Đà Rằng",
+      "name_en": "Cầu Đà Rằng",
+      "latitude": 13.070651,
+      "longitude": 109.308037,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%91%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_%C4%90%C3%A0_R%E1%BA%B1ng"
+    },
+    {
+      "id": 240,
+      "wikidata_id": "Q32192507",
+      "name_vi": "Cầu Đà Rằng",
+      "name_en": "Da Rang Bridge",
+      "latitude": 13.054889,
+      "longitude": 109.293797,
+      "located_in_vi": "Phú Hòa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%90%C3%A0_R%E1%BA%B1ng_(Qu%E1%BB%91c_l%E1%BB%99_1)"
+    },
+    {
+      "id": 241,
+      "wikidata_id": "Q32252524",
+      "name_vi": "Cầu Đà Rằng",
+      "name_en": "Da Rang Bridge",
+      "latitude": 13.070556,
+      "longitude": 109.307778,
+      "located_in_vi": "Phú Yên",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%91%C6%B0%E1%BB%9Dng_b%E1%BB%99_%C4%90%C3%A0_R%E1%BA%B1ng_(n%E1%BB%99i_%C3%B4_Tuy_H%C3%B2a)"
+    },
+    {
+      "id": 242,
+      "wikidata_id": "Q10752455",
+      "name_vi": "Cầu Đò Quan",
+      "name_en": "Đò Quan Bridge",
+      "latitude": 20.4208,
+      "longitude": 106.18,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%90%C3%B2_Quan"
+    },
+    {
+      "id": 243,
+      "wikidata_id": "Q11840154",
+      "name_vi": "Cầu Đông Trù",
+      "name_en": "Dong Tru Bridge",
+      "latitude": 21.071337,
+      "longitude": 105.87799,
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%90%C3%B4ng_Tr%C3%B9"
+    },
+    {
+      "id": 244,
+      "wikidata_id": "Q32030706",
+      "name_vi": "Cầu Đăk Bla",
+      "name_en": "Dak Bla Bridge",
+      "latitude": 14.344612,
+      "longitude": 108.000063,
+      "located_in_vi": "Kon Tum",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%90%C4%83k_Bla"
+    },
+    {
+      "id": 245,
+      "wikidata_id": "Q134007298",
+      "name_vi": "Cầu Đỏ",
+      "name_en": "Cầu Đỏ",
+      "latitude": 10.817361,
+      "longitude": 106.706,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%90%E1%BB%8F_(Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh)"
+    },
+    {
+      "id": 246,
+      "wikidata_id": "Q1873530",
+      "name_vi": "Cầu Đồng Nai",
+      "name_en": "Dong Nai Bridge",
+      "latitude": 10.901389,
+      "longitude": 106.839444,
+      "located_in_vi": "Biên Hòa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%90%E1%BB%93ng_Nai"
+    },
+    {
+      "id": 247,
+      "wikidata_id": "Q10752459",
+      "name_vi": "Cầu Đồng Nai 2",
+      "name_en": "Cầu Đồng Nai 2",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%90%E1%BB%93ng_Nai_2"
+    },
+    {
+      "id": 248,
+      "wikidata_id": "Q10830377",
+      "name_vi": "Cầu Đồng Quang",
+      "name_en": "Dong Quang Bridge",
+      "latitude": 21.110863,
+      "longitude": 105.319873,
+      "located_in_vi": "Thanh Thủy",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_%C4%90%E1%BB%93ng_Quang"
+    },
+    {
+      "id": 249,
+      "wikidata_id": "Q61127329",
+      "name_vi": "Cầu Đồng Điền",
+      "name_en": "Dong Dien Bridge",
+      "latitude": 10.642695,
+      "longitude": 106.74306,
+      "located_in_vi": "Nhà Bè",
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 250,
+      "wikidata_id": "Q16480406",
+      "name_vi": "Cầu đường bộ Thị Cầu",
+      "name_en": "Cầu đường bộ Thị Cầu",
+      "latitude": 21.204662,
+      "longitude": 106.091509,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Th%E1%BB%8B_C%E1%BA%A7u"
+    },
+    {
+      "id": 251,
+      "wikidata_id": "Q109438085",
+      "name_vi": "Dự án cầu Phước An",
+      "name_en": "Phuoc An bridge",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Ph%C6%B0%E1%BB%9Bc_An"
+    },
+    {
+      "id": 252,
+      "wikidata_id": "Q10757734",
+      "name_vi": "Dự án cầu Thượng Cát",
+      "name_en": "Dự án cầu Thượng Cát",
+      "latitude": 21.099727,
+      "longitude": 105.74868,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/D%E1%BB%B1_%C3%A1n_c%E1%BA%A7u_Th%C6%B0%E1%BB%A3ng_C%C3%A1t"
+    },
+    {
+      "id": 253,
+      "wikidata_id": "Q10757736",
+      "name_vi": "Dự án cầu Vĩnh Thịnh",
+      "name_en": "Dự án cầu Vĩnh Thịnh",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_V%C4%A9nh_Th%E1%BB%8Bnh"
+    },
+    {
+      "id": 254,
+      "wikidata_id": "Q10761687",
+      "name_vi": "Gián Khẩu",
+      "name_en": "Gián Khẩu",
+      "latitude": 20.326941,
+      "longitude": 105.934757,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Gi%C3%A1n_Kh%E1%BA%A9u"
+    },
+    {
+      "id": 255,
+      "wikidata_id": "Q16480433",
+      "name_vi": "cầu Long Thành",
+      "name_en": "Long Thanh bridge",
+      "latitude": 10.78625,
+      "longitude": 106.865127,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Long_Th%C3%A0nh"
+    },
+    {
+      "id": 256,
+      "wikidata_id": "Q111754985",
+      "name_vi": "cầu kính Bạch Long",
+      "name_en": "Bạch Long bridge",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Mộc Châu",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_k%C3%ADnh_B%E1%BA%A1ch_Long"
+    }
+  ],
+  "meta": {
+    "title": "Cầu ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách các cây cầu nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q12280 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Đây là tập dữ liệu cầu đầu tiên trong nhóm tiếng Việt. Chứa 256 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Cầu ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Cầu ở Việt Nam — 256 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 256 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

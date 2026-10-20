@@ -1,0 +1,166 @@
+{
+  "id": "vi-nam-dinh-quan-huyen-2019",
+  "name": "Nam Định — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Nam Định — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 10 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Nam Định theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 9 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/NDD.json). (10 district-level units of Nam Định under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "NDD-01",
+      "name": "Giao Thủy",
+      "name_full": "Huyện Giao Thủy",
+      "slug": "giao-thuy",
+      "division_type": "Huyện",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 23
+    },
+    {
+      "code": "NDD-02",
+      "name": "Hải Hậu",
+      "name_full": "Huyện Hải Hậu",
+      "slug": "hai-hau",
+      "division_type": "Huyện",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 35
+    },
+    {
+      "code": "NDD-03",
+      "name": "Mỹ Lộc",
+      "name_full": "Huyện Mỹ Lộc",
+      "slug": "my-loc",
+      "division_type": "Huyện",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 11
+    },
+    {
+      "code": "NDD-04",
+      "name": "Nam Định",
+      "name_full": "Thành phố Nam Định",
+      "slug": "nam-dinh",
+      "division_type": "Thành phố",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 25
+    },
+    {
+      "code": "NDD-05",
+      "name": "Nam Trực",
+      "name_full": "Huyện Nam Trực",
+      "slug": "nam-truc",
+      "division_type": "Huyện",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 20
+    },
+    {
+      "code": "NDD-06",
+      "name": "Nghĩa Hưng",
+      "name_full": "Huyện Nghĩa Hưng",
+      "slug": "nghia-hung",
+      "division_type": "Huyện",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 25
+    },
+    {
+      "code": "NDD-07",
+      "name": "Trực Ninh",
+      "name_full": "Huyện Trực Ninh",
+      "slug": "truc-ninh",
+      "division_type": "Huyện",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 21
+    },
+    {
+      "code": "NDD-08",
+      "name": "Vụ Bản",
+      "name_full": "Huyện Vụ Bản",
+      "slug": "vu-ban",
+      "division_type": "Huyện",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 18
+    },
+    {
+      "code": "NDD-09",
+      "name": "Xuân Trường",
+      "name_full": "Huyện Xuân Trường",
+      "slug": "xuan-truong",
+      "division_type": "Huyện",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 20
+    },
+    {
+      "code": "NDD-10",
+      "name": "Ý Yên",
+      "name_full": "Huyện Ý Yên",
+      "slug": "y-yen",
+      "division_type": "Huyện",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 32
+    }
+  ],
+  "meta": {
+    "title": "Nam Định — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 10 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Nam Định theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 9 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/NDD.json). (10 district-level units of Nam Định under the pre-2025-merger 3-tier hierarchy.) Chứa 10 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Nam Định — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Nam Định — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 10 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 10 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

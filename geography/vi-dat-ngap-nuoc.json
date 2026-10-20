@@ -1,0 +1,79 @@
+{
+  "id": "vi-dat-ngap-nuoc",
+  "name": "Đất ngập nước ở Việt Nam",
+  "title": "Đất ngập nước ở Việt Nam",
+  "description": "Danh sách các vùng đất ngập nước nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q170321 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Để bảo đảm các tập rời nhau, đã loại các QID đã có trong vi-vuon-quoc-gia (vườn quốc gia), vi-khu-bao-ton-thien-nhien (khu bảo tồn thiên nhiên), vi-khu-bao-ve (khu bảo vệ) và vi-ho (hồ). Đây là tập dữ liệu đất ngập nước đầu tiên trong nhóm tiếng Việt.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q16480259",
+      "name_vi": "Rừng tràm Trà Sư",
+      "name_en": "Tra Su Forest",
+      "latitude": 10.585556,
+      "longitude": 105.058611,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/R%E1%BB%ABng_tr%C3%A0m_Tr%C3%A0_S%C6%B0"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q131322816",
+      "name_vi": "Rừng tràm Tân Tuyến",
+      "name_en": "Rừng tràm Tân Tuyến",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/R%E1%BB%ABng_tr%C3%A0m_T%C3%A2n_Tuy%E1%BA%BFn"
+    }
+  ],
+  "meta": {
+    "title": "Đất ngập nước ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách các vùng đất ngập nước nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q170321 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Để bảo đảm các tập rời nhau, đã loại các QID đã có trong vi-vuon-quoc-gia (vườn quốc gia), vi-khu-bao-ton-thien-nhien (khu bảo tồn thiên nhiên), vi-khu-bao-ve (khu bảo vệ) và vi-ho (hồ). Đây là tập dữ liệu đất ngập nước đầu tiên trong nhóm tiếng Việt. Chứa 2 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Đất ngập nước ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Đất ngập nước ở Việt Nam — 2 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 2 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

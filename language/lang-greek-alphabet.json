@@ -1,0 +1,319 @@
+{
+  "id": "lang-greek-alphabet",
+  "name": "Bộ Dữ Liệu Các Ký Tự Bảng Chữ Cái Hy Lạp Hoàn Chỉnh",
+  "category": "language",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "uppercase",
+      "label": "Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "lowercase",
+      "label": "Lowercase",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "transliteration",
+      "label": "Transliteration",
+      "type": "string"
+    },
+    {
+      "key": "code_point_upper",
+      "label": "Code Point (Upper)",
+      "type": "string"
+    },
+    {
+      "key": "code_point_lower",
+      "label": "Code Point (Lower)",
+      "type": "string"
+    },
+    {
+      "key": "numeric_value",
+      "label": "Numeric Value",
+      "type": "number"
+    },
+    {
+      "key": "usage",
+      "label": "Common Usage in Science/Math (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "uppercase": "Α",
+      "lowercase": "α",
+      "name": "Alpha",
+      "transliteration": "a",
+      "code_point_upper": "U+0391",
+      "code_point_lower": "U+03B1",
+      "numeric_value": 1,
+      "usage": "Góc, gia tốc góc, hằng số cấu trúc tinh tế"
+    },
+    {
+      "uppercase": "Β",
+      "lowercase": "β",
+      "name": "Beta",
+      "transliteration": "b",
+      "code_point_upper": "U+0392",
+      "code_point_lower": "U+03B2",
+      "numeric_value": 2,
+      "usage": "Hệ số beta, hạt beta, góc"
+    },
+    {
+      "uppercase": "Γ",
+      "lowercase": "γ",
+      "name": "Gamma",
+      "transliteration": "g",
+      "code_point_upper": "U+0393",
+      "code_point_lower": "U+03B3",
+      "numeric_value": 3,
+      "usage": "Hàm Gamma, tia gamma, sức căng bề mặt"
+    },
+    {
+      "uppercase": "Δ",
+      "lowercase": "δ",
+      "name": "Delta",
+      "transliteration": "d",
+      "code_point_upper": "U+0394",
+      "code_point_lower": "U+03B4",
+      "numeric_value": 4,
+      "usage": "Thay đổi/khác biệt, hàm delta Dirac, góc"
+    },
+    {
+      "uppercase": "Ε",
+      "lowercase": "ε",
+      "name": "Epsilon",
+      "transliteration": "e",
+      "code_point_upper": "U+0395",
+      "code_point_lower": "U+03B5",
+      "numeric_value": 5,
+      "usage": "Lượng dương nhỏ, độ điện môi, biến dạng"
+    },
+    {
+      "uppercase": "Ζ",
+      "lowercase": "ζ",
+      "name": "Zeta",
+      "transliteration": "z",
+      "code_point_upper": "U+0396",
+      "code_point_lower": "U+03B6",
+      "numeric_value": 7,
+      "usage": "Hàm zeta Riemann, tỷ lệ tắt dần"
+    },
+    {
+      "uppercase": "Η",
+      "lowercase": "η",
+      "name": "Eta",
+      "transliteration": "ē",
+      "code_point_upper": "U+0397",
+      "code_point_lower": "U+03B7",
+      "numeric_value": 8,
+      "usage": "Hiệu suất, độ nhớt, hàm eta Dirichlet"
+    },
+    {
+      "uppercase": "Θ",
+      "lowercase": "θ",
+      "name": "Theta",
+      "transliteration": "th",
+      "code_point_upper": "U+0398",
+      "code_point_lower": "U+03B8",
+      "numeric_value": 9,
+      "usage": "Góc, nhiệt độ, biến thể của ký hiệu Big O"
+    },
+    {
+      "uppercase": "Ι",
+      "lowercase": "ι",
+      "name": "Iota",
+      "transliteration": "i",
+      "code_point_upper": "U+0399",
+      "code_point_lower": "U+03B9",
+      "numeric_value": 10,
+      "usage": "Chỉ số, ánh xạ bao hàm, số dương nhỏ nhất"
+    },
+    {
+      "uppercase": "Κ",
+      "lowercase": "κ",
+      "name": "Kappa",
+      "transliteration": "k",
+      "code_point_upper": "U+039A",
+      "code_point_lower": "U+03BA",
+      "numeric_value": 20,
+      "usage": "Độ cong, độ dẫn nhiệt, tính kết nối"
+    },
+    {
+      "uppercase": "Λ",
+      "lowercase": "λ",
+      "name": "Lambda",
+      "transliteration": "l",
+      "code_point_upper": "U+039B",
+      "code_point_lower": "U+03BB",
+      "numeric_value": 30,
+      "usage": "Bước sóng, giá trị riêng, giải tích lambda"
+    },
+    {
+      "uppercase": "Μ",
+      "lowercase": "μ",
+      "name": "Mu",
+      "transliteration": "m",
+      "code_point_upper": "U+039C",
+      "code_point_lower": "U+03BC",
+      "numeric_value": 40,
+      "usage": "Tiền tố micro-, giá trị trung bình, hệ số ma sát"
+    },
+    {
+      "uppercase": "Ν",
+      "lowercase": "ν",
+      "name": "Nu",
+      "transliteration": "n",
+      "code_point_upper": "U+039D",
+      "code_point_lower": "U+03BD",
+      "numeric_value": 50,
+      "usage": "Tần số, độ nhớt động học, tỷ số Poisson"
+    },
+    {
+      "uppercase": "Ξ",
+      "lowercase": "ξ",
+      "name": "Xi",
+      "transliteration": "x",
+      "code_point_upper": "U+039E",
+      "code_point_lower": "U+03BE",
+      "numeric_value": 60,
+      "usage": "Biến ngẫu nhiên, mức độ phản ứng"
+    },
+    {
+      "uppercase": "Ο",
+      "lowercase": "ο",
+      "name": "Omicron",
+      "transliteration": "o",
+      "code_point_upper": "U+039F",
+      "code_point_lower": "U+03BF",
+      "numeric_value": 70,
+      "usage": "Ký hiệu Big O (ít dùng do dễ nhầm với 0)"
+    },
+    {
+      "uppercase": "Π",
+      "lowercase": "π",
+      "name": "Pi",
+      "transliteration": "p",
+      "code_point_upper": "U+03A0",
+      "code_point_lower": "U+03C0",
+      "numeric_value": 80,
+      "usage": "Hằng số Pi (3.14159...), ký hiệu tích, lợi nhuận"
+    },
+    {
+      "uppercase": "Ρ",
+      "lowercase": "ρ",
+      "name": "Rho",
+      "transliteration": "r",
+      "code_point_upper": "U+03A1",
+      "code_point_lower": "U+03C1",
+      "numeric_value": 100,
+      "usage": "Mật độ, điện trở suất, hệ số tương quan"
+    },
+    {
+      "uppercase": "Σ",
+      "lowercase": "σ/ς",
+      "name": "Sigma",
+      "transliteration": "s",
+      "code_point_upper": "U+03A3",
+      "code_point_lower": "U+03C3",
+      "numeric_value": 200,
+      "usage": "Tổng, độ lệch chuẩn, ứng suất"
+    },
+    {
+      "uppercase": "Τ",
+      "lowercase": "τ",
+      "name": "Tau",
+      "transliteration": "t",
+      "code_point_upper": "U+03A4",
+      "code_point_lower": "U+03C4",
+      "numeric_value": 300,
+      "usage": "Mô-men xoắn, ứng suất cắt, hằng số thời gian, tau (2π)"
+    },
+    {
+      "uppercase": "Υ",
+      "lowercase": "υ",
+      "name": "Upsilon",
+      "transliteration": "u/y",
+      "code_point_upper": "U+03A5",
+      "code_point_lower": "U+03C5",
+      "numeric_value": 400,
+      "usage": "Meson Upsilon, thể tích riêng"
+    },
+    {
+      "uppercase": "Φ",
+      "lowercase": "φ",
+      "name": "Phi",
+      "transliteration": "ph",
+      "code_point_upper": "U+03A6",
+      "code_point_lower": "U+03C6",
+      "numeric_value": 500,
+      "usage": "Tỉ lệ vàng, từ thông, góc, hàm sóng"
+    },
+    {
+      "uppercase": "Χ",
+      "lowercase": "χ",
+      "name": "Chi",
+      "transliteration": "ch",
+      "code_point_upper": "U+03A7",
+      "code_point_lower": "U+03C7",
+      "numeric_value": 600,
+      "usage": "Phân phối Chi-bình phương, độ âm điện"
+    },
+    {
+      "uppercase": "Ψ",
+      "lowercase": "ψ",
+      "name": "Psi",
+      "transliteration": "ps",
+      "code_point_upper": "U+03A8",
+      "code_point_lower": "U+03C8",
+      "numeric_value": 700,
+      "usage": "Hàm sóng, hàm digamma, góc"
+    },
+    {
+      "uppercase": "Ω",
+      "lowercase": "ω",
+      "name": "Omega",
+      "transliteration": "ō",
+      "code_point_upper": "U+03A9",
+      "code_point_lower": "U+03C9",
+      "numeric_value": 800,
+      "usage": "Ohm (điện trở), vận tốc góc, góc khối"
+    }
+  ],
+  "meta": {
+    "seo_title": "Bảng Chữ Cái Hy Lạp - Tải Miễn Phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống bảng chữ cái Hy Lạp đầy đủ 24 ký tự, phiên âm, giá trị số và công dụng khoa học. Miễn phí ở định dạng Excel, CSV, PDF.",
+    "title": "Bộ Dữ Liệu Các Ký Tự Bảng Chữ Cái Hy Lạp Hoàn Chỉnh",
+    "description": "Bộ dữ liệu này cung cấp danh sách đầy đủ 24 ký tự của bảng chữ cái Hy Lạp, bao gồm chữ hoa, chữ thường, tên, phiên âm, điểm mã Unicode, giá trị số và các ứng dụng khoa học/toán học phổ biến.",
+    "key_takeaways": [
+      "Truy cập tất cả 24 ký tự bảng chữ cái Hy Lạp với các thuộc tính chi tiết.",
+      "Khám phá các điểm mã Unicode và các ứng dụng khoa học/toán học phổ biến.",
+      "Tải xuống dữ liệu sẵn sàng sử dụng cho các dự án ngôn ngữ hoặc STEM.",
+      "Nhận một tài liệu tham khảo hoàn chỉnh cho tiếng Hy Lạp cổ và ký hiệu khoa học hiện đại."
+    ],
+    "keywords": [
+      "bảng chữ cái hy lạp excel",
+      "chữ cái hy lạp unicode",
+      "alpha beta gamma bộ dữ liệu",
+      "ký hiệu khoa học csv",
+      "cách dùng bảng chữ cái hy lạp pdf",
+      "tải chữ cái hy lạp"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào tập lệnh Python hoặc cơ sở dữ liệu SQL của bạn để phân tích ngôn ngữ hoặc ánh xạ ký tự.",
+      "Sử dụng tệp **Excel** để lọc các ký tự theo giá trị số hoặc mục đích sử dụng chung, tạo bảng tham chiếu nhanh để học tập.",
+      "In phiên bản **PDF** để có biểu đồ tham chiếu rõ ràng, ngoại tuyến trong lớp học, phòng thí nghiệm hoặc tự học.",
+      "Tận dụng dữ liệu này để xây dựng các ứng dụng giáo dục, câu đố hoặc công cụ để học bảng chữ cái Hy Lạp và các ứng dụng của nó."
+    ]
+  },
+  "record_count": 24,
+  "title": "Bộ Dữ Liệu Các Ký Tự Bảng Chữ Cái Hy Lạp Hoàn Chỉnh"
+}

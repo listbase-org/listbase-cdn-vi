@@ -1,0 +1,220 @@
+{
+  "id": "vi-di-chi-khao-co",
+  "name": "Di chỉ khảo cổ ở Việt Nam",
+  "title": "Di chỉ khảo cổ ở Việt Nam",
+  "description": "Danh sách di chỉ khảo cổ ở việt nam (P31 = wd:Q839954) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-19. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi) kèm toạ độ WGS84 (P625). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikipedia tiếng Việt nếu có. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 12/12 toạ độ, 11/12 vi.wikipedia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "admin_area_vi",
+      "label": "Admin Area Vi",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q798059",
+      "name_vi": "Cổ Loa",
+      "name_en": "Co Loa Citadel",
+      "latitude": 21.113408,
+      "longitude": 105.873206,
+      "admin_area_vi": "Đông Anh (huyện)",
+      "admin_area_en": "Đông Anh district",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_C%E1%BB%95_Loa",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q798059"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q10763514",
+      "name_vi": "Gò Tháp",
+      "name_en": "Gò Tháp",
+      "latitude": 10.597419,
+      "longitude": 105.824948,
+      "admin_area_vi": "Đồng Tháp",
+      "admin_area_en": "Đồng Tháp",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/G%C3%B2_Th%C3%A1p",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10763514"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q5157981",
+      "name_vi": "Hang Con Moong",
+      "name_en": "Con Moong Cave",
+      "latitude": 20.2875,
+      "longitude": 105.605,
+      "admin_area_vi": "Thạch Thành",
+      "admin_area_en": "Thạch Thành",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Hang_Con_Moong",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5157981"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q3798365",
+      "name_vi": "Indrapura",
+      "name_en": "Indrapura",
+      "latitude": 15.666944,
+      "longitude": 108.383056,
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Indrapura",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3798365"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q130218117",
+      "name_vi": "Mỹ Sơn nhóm tháp A",
+      "name_en": "Mỹ Sơn Group A",
+      "latitude": 15.762882,
+      "longitude": 108.125219,
+      "admin_area_vi": "Duy Xuyên",
+      "admin_area_en": "Duy Xuyên",
+      "wikipedia_vi": "",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130218117"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q32206985",
+      "name_vi": "Nền Chùa",
+      "name_en": "Nền Chùa",
+      "latitude": 10.111573,
+      "longitude": 105.107447,
+      "admin_area_vi": "Kiên Giang",
+      "admin_area_en": "Kiên Giang",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/N%E1%BB%81n_Ch%C3%B9a",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32206985"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q7187240",
+      "name_vi": "Phong Châu",
+      "name_en": "Phong Châu",
+      "latitude": 21.2817,
+      "longitude": 105.442,
+      "admin_area_vi": "Việt Trì",
+      "admin_area_en": "Việt Trì",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Phong_Ch%C3%A2u",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7187240"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q3485391",
+      "name_vi": "Thánh địa Cát Tiên",
+      "name_en": "Cát Tiên archaeological site",
+      "latitude": 11.528333,
+      "longitude": 107.398889,
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%C3%A1nh_%C4%91%E1%BB%8Ba_C%C3%A1t_Ti%C3%AAn",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3485391"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q391406",
+      "name_vi": "Thánh địa Mỹ Sơn",
+      "name_en": "Mỹ Sơn",
+      "latitude": 15.76324,
+      "longitude": 108.124446,
+      "admin_area_vi": "Đà Nẵng",
+      "admin_area_en": "Da Nang",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%C3%A1nh_%C4%91%E1%BB%8Ba_M%E1%BB%B9_S%C6%A1n",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q391406"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q10825849",
+      "name_vi": "Tháp Phú Diên",
+      "name_en": "Thap Phu Dien",
+      "latitude": 16.49578,
+      "longitude": 107.746104,
+      "admin_area_vi": "Huế",
+      "admin_area_en": "Huế",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%C3%A1p_Ph%C3%BA_Di%C3%AAn",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10825849"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q109438230",
+      "name_vi": "Tháp Vĩnh Hưng",
+      "name_en": "Vinh Hung tower",
+      "latitude": 9.393084,
+      "longitude": 105.578183,
+      "admin_area_vi": "Vĩnh Hưng A",
+      "admin_area_en": "Vĩnh Hưng A",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%C3%A1p_V%C4%A9nh_H%C6%B0ng",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109438230"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q2344822",
+      "name_vi": "Óc Eo",
+      "name_en": "Óc Eo",
+      "latitude": 10.232944,
+      "longitude": 105.162994,
+      "admin_area_vi": "Thoại Sơn",
+      "admin_area_en": "Thoại Sơn",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C3%93c_Eo",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2344822"
+    }
+  ],
+  "meta": {
+    "title": "Di chỉ khảo cổ ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách di chỉ khảo cổ ở việt nam (P31 = wd:Q839954) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-19. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi) kèm toạ độ WGS84 (P625). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikipedia tiếng Việt nếu có. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 12/12 toạ độ, 11/12 vi.wikipedia. Chứa 12 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Di chỉ khảo cổ ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Di chỉ khảo cổ ở Việt Nam — 12 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 12 bản ghi / 10 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

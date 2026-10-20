@@ -1,0 +1,126 @@
+{
+  "id": "vi-cao-bang-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Cao Bằng",
+  "title": "Địa điểm du lịch Cao Bằng",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Cao Bằng (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 206,
+      "ten_dia_diem": "Thác Bản Giốc",
+      "vi_tri": "Cao Bằng",
+      "tinh_truoc_sap_nhap_2025": "Cao Bằng",
+      "mo_ta": "Một trong những thác nước đẹp nhất và lớn nhất Đông Nam Á, nằm trên biên giới Việt Nam - Trung Quốc. Thác được chia thành nhiều tầng với dòng nước trong xanh, tạo nên khung cảnh hùng vĩ.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8q5L6WXqDFFhtORzBnJg_oAuNoZL_HOk12A&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 207,
+      "ten_dia_diem": "Động Ngườm Ngao",
+      "vi_tri": "Cao Bằng",
+      "tinh_truoc_sap_nhap_2025": "Cao Bằng",
+      "mo_ta": "Hang động dài hơn 2.1km, nổi bật với hệ thống thạch nhũ độc đáo và cảnh quan kỳ ảo. Động nằm gần thác Bản Giốc, là điểm đến lý tưởng để khám phá.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://www.kynghidongduong.vn/userfiles/images/tour-trong-nuoc/ba-be-ban-gioc/dong-nguom-ngao-du-lich-thac-ban-gioc-kynghidongduong-003.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 208,
+      "ten_dia_diem": "Núi Mắt Thần",
+      "vi_tri": "Cao Bằng",
+      "tinh_truoc_sap_nhap_2025": "Cao Bằng",
+      "mo_ta": "Ngọn núi độc đáo với một lỗ lớn ở giữa, được gọi là \"Mắt Thần.\" Đây là điểm check-in nổi tiếng với cảnh quan núi non tuyệt đẹp.",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://cdn.tuoitre.vn/zoom/700_700/2020/2/7/thu4-read-only-15810754865291338931220-crop-1581075584794374189472.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 209,
+      "ten_dia_diem": "Di tích rừng Trần Hưng Đạo",
+      "vi_tri": "Cao Bằng",
+      "tinh_truoc_sap_nhap_2025": "Cao Bằng",
+      "mo_ta": "Nơi thành lập Đội Việt Nam Tuyên Truyền Giải Phóng Quân năm 1944, khởi nguồn của Quân đội Nhân dân Việt Nam. Khu di tích có giá trị lịch sử to lớn.",
+      "danh_gia": "4.4/5",
+      "danh_gia_diem": 4.4,
+      "anh": "https://images.vietnamtourism.gov.vn/vn//images/2019/Thang10/Rung-THD5.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 210,
+      "ten_dia_diem": "Làng rèn Phúc Sen",
+      "vi_tri": "Cao Bằng",
+      "tinh_truoc_sap_nhap_2025": "Cao Bằng",
+      "mo_ta": "Làng nghề truyền thống nổi tiếng với sản phẩm dao kéo chất lượng cao. Du khách có thể tham quan quy trình rèn và mua sắm các sản phẩm thủ công.",
+      "danh_gia": "4.2/5",
+      "danh_gia_diem": 4.2,
+      "anh": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/03_2023/lang-ren-phuc-sen-8.jpg",
+      "tu_khoa": ""
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Cao Bằng - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Cao Bằng (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Cao Bằng | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Cao Bằng — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

@@ -1,0 +1,7166 @@
+{
+  "id": "vi-quan-huyen-2019",
+  "name": "Việt Nam — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Việt Nam — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 710 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) của Việt Nam theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Mỗi bản ghi gồm mã, tên đơn vị, phân loại (Quận / Huyện / Thị xã / Thành phố), số phường/xã trực thuộc và tỉnh chủ quản. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); bộ dữ liệu này là ảnh chụp lịch sử của cấp này. (710 Vietnamese district-level units — districts, urban districts, district-level cities — under the pre-2025-merger 3-tier hierarchy. The district tier was abolished in the July 2025 reform.)",
+  "category": "reference",
+  "source": "https://github.com/thien0291/vietnam_dataset",
+  "source_url": "https://github.com/thien0291/vietnam_dataset",
+  "updated": "2026-04",
+  "record_count": 710,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "AG-01",
+      "name": "An Phú",
+      "name_full": "Huyện An Phú",
+      "slug": "an-phu",
+      "division_type": "Huyện",
+      "province_code": "AG",
+      "province_name": "An Giang",
+      "ward_count": 14
+    },
+    {
+      "code": "AG-02",
+      "name": "Châu Đốc",
+      "name_full": "Thị xã Châu Đốc",
+      "slug": "chau-doc",
+      "division_type": "Thị xã",
+      "province_code": "AG",
+      "province_name": "An Giang",
+      "ward_count": 7
+    },
+    {
+      "code": "AG-03",
+      "name": "Châu Phú",
+      "name_full": "Huyện Châu Phú",
+      "slug": "chau-phu",
+      "division_type": "Huyện",
+      "province_code": "AG",
+      "province_name": "An Giang",
+      "ward_count": 13
+    },
+    {
+      "code": "AG-04",
+      "name": "Châu Thành",
+      "name_full": "Huyện Châu Thành",
+      "slug": "chau-thanh",
+      "division_type": "Huyện",
+      "province_code": "AG",
+      "province_name": "An Giang",
+      "ward_count": 13
+    },
+    {
+      "code": "AG-05",
+      "name": "Chợ Mới",
+      "name_full": "Huyện Chợ Mới",
+      "slug": "cho-moi",
+      "division_type": "Huyện",
+      "province_code": "AG",
+      "province_name": "An Giang",
+      "ward_count": 18
+    },
+    {
+      "code": "AG-06",
+      "name": "Long Xuyên",
+      "name_full": "Thành phố Long Xuyên",
+      "slug": "long-xuyen",
+      "division_type": "Thành phố",
+      "province_code": "AG",
+      "province_name": "An Giang",
+      "ward_count": 13
+    },
+    {
+      "code": "AG-07",
+      "name": "Phú Tân",
+      "name_full": "Huyện Phú Tân",
+      "slug": "phu-tan",
+      "division_type": "Huyện",
+      "province_code": "AG",
+      "province_name": "An Giang",
+      "ward_count": 18
+    },
+    {
+      "code": "AG-08",
+      "name": "Tân Châu",
+      "name_full": "Thị xã Tân Châu",
+      "slug": "tan-chau",
+      "division_type": "Thị xã",
+      "province_code": "AG",
+      "province_name": "An Giang",
+      "ward_count": 14
+    },
+    {
+      "code": "AG-09",
+      "name": "Thoại Sơn",
+      "name_full": "Huyện Thoại Sơn",
+      "slug": "thoai-son",
+      "division_type": "Huyện",
+      "province_code": "AG",
+      "province_name": "An Giang",
+      "ward_count": 17
+    },
+    {
+      "code": "AG-10",
+      "name": "Tịnh Biên",
+      "name_full": "Huyện Tịnh Biên",
+      "slug": "tinh-bien",
+      "division_type": "Huyện",
+      "province_code": "AG",
+      "province_name": "An Giang",
+      "ward_count": 14
+    },
+    {
+      "code": "AG-11",
+      "name": "Tri Tôn",
+      "name_full": "Huyện Tri Tôn",
+      "slug": "tri-ton",
+      "division_type": "Huyện",
+      "province_code": "AG",
+      "province_name": "An Giang",
+      "ward_count": 15
+    },
+    {
+      "code": "BD-01",
+      "name": "Bắc Tân Uyên",
+      "name_full": "Huyện Bắc Tân Uyên",
+      "slug": "bac-tan-uyen",
+      "division_type": "Huyện",
+      "province_code": "BD",
+      "province_name": "Bình Dương",
+      "ward_count": 10
+    },
+    {
+      "code": "BD-02",
+      "name": "Bàu Bàng",
+      "name_full": "Huyện Bàu Bàng",
+      "slug": "bau-bang",
+      "division_type": "Huyện",
+      "province_code": "BD",
+      "province_name": "Bình Dương",
+      "ward_count": 7
+    },
+    {
+      "code": "BD-03",
+      "name": "Bến Cát",
+      "name_full": "Thị xã Bến Cát",
+      "slug": "ben-cat",
+      "division_type": "Thị xã",
+      "province_code": "BD",
+      "province_name": "Bình Dương",
+      "ward_count": 9
+    },
+    {
+      "code": "BD-04",
+      "name": "Dầu Tiếng",
+      "name_full": "Huyện Dầu Tiếng",
+      "slug": "dau-tieng",
+      "division_type": "Huyện",
+      "province_code": "BD",
+      "province_name": "Bình Dương",
+      "ward_count": 12
+    },
+    {
+      "code": "BD-05",
+      "name": "Dĩ An",
+      "name_full": "Thị xã Dĩ An",
+      "slug": "di-an",
+      "division_type": "Thị xã",
+      "province_code": "BD",
+      "province_name": "Bình Dương",
+      "ward_count": 7
+    },
+    {
+      "code": "BD-06",
+      "name": "Phú Giáo",
+      "name_full": "Huyện Phú Giáo",
+      "slug": "phu-giao",
+      "division_type": "Huyện",
+      "province_code": "BD",
+      "province_name": "Bình Dương",
+      "ward_count": 11
+    },
+    {
+      "code": "BD-07",
+      "name": "Tân Uyên",
+      "name_full": "Huyện Tân Uyên",
+      "slug": "tan-uyen",
+      "division_type": "Huyện",
+      "province_code": "BD",
+      "province_name": "Bình Dương",
+      "ward_count": 12
+    },
+    {
+      "code": "BD-08",
+      "name": "Thủ Dầu Một",
+      "name_full": "Thành Phố Thủ Dầu Một",
+      "slug": "thu-dau-mot",
+      "division_type": "Thành Phố",
+      "province_code": "BD",
+      "province_name": "Bình Dương",
+      "ward_count": 14
+    },
+    {
+      "code": "BD-09",
+      "name": "Thuận An",
+      "name_full": "Huyện Thuận An",
+      "slug": "thuan-an",
+      "division_type": "Huyện",
+      "province_code": "BD",
+      "province_name": "Bình Dương",
+      "ward_count": 10
+    },
+    {
+      "code": "BDD-01",
+      "name": "An Lão",
+      "name_full": "Huyện An Lão",
+      "slug": "an-lao",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 10
+    },
+    {
+      "code": "BDD-02",
+      "name": "An Nhơn",
+      "name_full": "Huyện An Nhơn",
+      "slug": "an-nhon",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 15
+    },
+    {
+      "code": "BDD-03",
+      "name": "Hoài Ân",
+      "name_full": "Huyện Hoài Ân",
+      "slug": "hoai-an",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 15
+    },
+    {
+      "code": "BDD-04",
+      "name": "Hoài Nhơn",
+      "name_full": "Huyện Hoài Nhơn",
+      "slug": "hoai-nhon",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 17
+    },
+    {
+      "code": "BDD-05",
+      "name": "Phù Cát",
+      "name_full": "Huyện Phù Cát",
+      "slug": "phu-cat",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 16
+    },
+    {
+      "code": "BDD-06",
+      "name": "Phù Mỹ",
+      "name_full": "Huyện Phù Mỹ",
+      "slug": "phu-my",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 22
+    },
+    {
+      "code": "BDD-07",
+      "name": "Quy Nhơn",
+      "name_full": "Thành phố Quy Nhơn",
+      "slug": "quy-nhon",
+      "division_type": "Thành phố",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 21
+    },
+    {
+      "code": "BDD-08",
+      "name": "Tây Sơn",
+      "name_full": "Huyện Tây Sơn",
+      "slug": "tay-son",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 15
+    },
+    {
+      "code": "BDD-09",
+      "name": "Tuy Phước",
+      "name_full": "Huyện Tuy Phước",
+      "slug": "tuy-phuoc",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 13
+    },
+    {
+      "code": "BDD-10",
+      "name": "Vân Canh",
+      "name_full": "Huyện Vân Canh",
+      "slug": "van-canh",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 7
+    },
+    {
+      "code": "BDD-11",
+      "name": "Vĩnh Thạnh",
+      "name_full": "Huyện Vĩnh Thạnh",
+      "slug": "vinh-thanh",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 9
+    },
+    {
+      "code": "BG-01",
+      "name": "Bắc Giang",
+      "name_full": "Thành phố Bắc Giang",
+      "slug": "bac-giang",
+      "division_type": "Thành phố",
+      "province_code": "BG",
+      "province_name": "Bắc Giang",
+      "ward_count": 16
+    },
+    {
+      "code": "BG-02",
+      "name": "Hiệp Hòa",
+      "name_full": "Huyện Hiệp Hòa",
+      "slug": "hiep-hoa",
+      "division_type": "Huyện",
+      "province_code": "BG",
+      "province_name": "Bắc Giang",
+      "ward_count": 27
+    },
+    {
+      "code": "BG-03",
+      "name": "Lạng Giang",
+      "name_full": "Huyện Lạng Giang",
+      "slug": "lang-giang",
+      "division_type": "Huyện",
+      "province_code": "BG",
+      "province_name": "Bắc Giang",
+      "ward_count": 23
+    },
+    {
+      "code": "BG-04",
+      "name": "Lục Nam",
+      "name_full": "Huyện Lục Nam",
+      "slug": "luc-nam",
+      "division_type": "Huyện",
+      "province_code": "BG",
+      "province_name": "Bắc Giang",
+      "ward_count": 27
+    },
+    {
+      "code": "BG-05",
+      "name": "Lục Ngạn",
+      "name_full": "Huyện Lục Ngạn",
+      "slug": "luc-ngan",
+      "division_type": "Huyện",
+      "province_code": "BG",
+      "province_name": "Bắc Giang",
+      "ward_count": 30
+    },
+    {
+      "code": "BG-06",
+      "name": "Sơn Động",
+      "name_full": "Huyện Sơn Động",
+      "slug": "son-dong",
+      "division_type": "Huyện",
+      "province_code": "BG",
+      "province_name": "Bắc Giang",
+      "ward_count": 24
+    },
+    {
+      "code": "BG-07",
+      "name": "Tân Yên",
+      "name_full": "Huyện Tân Yên",
+      "slug": "tan-yen",
+      "division_type": "Huyện",
+      "province_code": "BG",
+      "province_name": "Bắc Giang",
+      "ward_count": 24
+    },
+    {
+      "code": "BG-08",
+      "name": "Việt Yên",
+      "name_full": "Huyện Việt Yên",
+      "slug": "viet-yen",
+      "division_type": "Huyện",
+      "province_code": "BG",
+      "province_name": "Bắc Giang",
+      "ward_count": 20
+    },
+    {
+      "code": "BG-09",
+      "name": "Yên Dũng",
+      "name_full": "Huyện Yên Dũng",
+      "slug": "yen-dung",
+      "division_type": "Huyện",
+      "province_code": "BG",
+      "province_name": "Bắc Giang",
+      "ward_count": 23
+    },
+    {
+      "code": "BG-10",
+      "name": "Yên Thế",
+      "name_full": "Huyện Yên Thế",
+      "slug": "yen-the",
+      "division_type": "Huyện",
+      "province_code": "BG",
+      "province_name": "Bắc Giang",
+      "ward_count": 20
+    },
+    {
+      "code": "BK-01",
+      "name": "Ba Bể",
+      "name_full": "Huyện Ba Bể",
+      "slug": "ba-be",
+      "division_type": "Huyện",
+      "province_code": "BK",
+      "province_name": "Bắc Kạn",
+      "ward_count": 16
+    },
+    {
+      "code": "BK-02",
+      "name": "Bắc Kạn",
+      "name_full": "Thị xã Bắc Kạn",
+      "slug": "bac-kan",
+      "division_type": "Thị xã",
+      "province_code": "BK",
+      "province_name": "Bắc Kạn",
+      "ward_count": 8
+    },
+    {
+      "code": "BK-03",
+      "name": "Bạch Thông",
+      "name_full": "Huyện Bạch Thông",
+      "slug": "bach-thong",
+      "division_type": "Huyện",
+      "province_code": "BK",
+      "province_name": "Bắc Kạn",
+      "ward_count": 17
+    },
+    {
+      "code": "BK-04",
+      "name": "Chợ Đồn",
+      "name_full": "Huyện Chợ Đồn",
+      "slug": "cho-don",
+      "division_type": "Huyện",
+      "province_code": "BK",
+      "province_name": "Bắc Kạn",
+      "ward_count": 22
+    },
+    {
+      "code": "BK-05",
+      "name": "Chợ Mới",
+      "name_full": "Huyện Chợ Mới",
+      "slug": "cho-moi",
+      "division_type": "Huyện",
+      "province_code": "BK",
+      "province_name": "Bắc Kạn",
+      "ward_count": 16
+    },
+    {
+      "code": "BK-06",
+      "name": "Na Rì",
+      "name_full": "Huyện Na Rì",
+      "slug": "na-ri",
+      "division_type": "Huyện",
+      "province_code": "BK",
+      "province_name": "Bắc Kạn",
+      "ward_count": 22
+    },
+    {
+      "code": "BK-07",
+      "name": "Ngân Sơn",
+      "name_full": "Huyện Ngân Sơn",
+      "slug": "ngan-son",
+      "division_type": "Huyện",
+      "province_code": "BK",
+      "province_name": "Bắc Kạn",
+      "ward_count": 11
+    },
+    {
+      "code": "BK-08",
+      "name": "Pác Nặm",
+      "name_full": "Huyện Pác Nặm",
+      "slug": "pac-nam",
+      "division_type": "Huyện",
+      "province_code": "BK",
+      "province_name": "Bắc Kạn",
+      "ward_count": 10
+    },
+    {
+      "code": "BL-01",
+      "name": "Bạc Liêu",
+      "name_full": "Thành phố Bạc Liêu",
+      "slug": "bac-lieu",
+      "division_type": "Thành phố",
+      "province_code": "BL",
+      "province_name": "Bạc Liêu",
+      "ward_count": 12
+    },
+    {
+      "code": "BL-02",
+      "name": "Đông Hải",
+      "name_full": "Huyện Đông Hải",
+      "slug": "dong-hai",
+      "division_type": "Huyện",
+      "province_code": "BL",
+      "province_name": "Bạc Liêu",
+      "ward_count": 11
+    },
+    {
+      "code": "BL-03",
+      "name": "Giá Rai",
+      "name_full": "Huyện Giá Rai",
+      "slug": "gia-rai",
+      "division_type": "Huyện",
+      "province_code": "BL",
+      "province_name": "Bạc Liêu",
+      "ward_count": 11
+    },
+    {
+      "code": "BL-04",
+      "name": "Hòa Bình",
+      "name_full": "Huyện Hòa Bình",
+      "slug": "hoa-binh",
+      "division_type": "Huyện",
+      "province_code": "BL",
+      "province_name": "Bạc Liêu",
+      "ward_count": 8
+    },
+    {
+      "code": "BL-05",
+      "name": "Hồng Dân",
+      "name_full": "Huyện Hồng Dân",
+      "slug": "hong-dan",
+      "division_type": "Huyện",
+      "province_code": "BL",
+      "province_name": "Bạc Liêu",
+      "ward_count": 9
+    },
+    {
+      "code": "BL-06",
+      "name": "Phước Long",
+      "name_full": "Huyện Phước Long",
+      "slug": "phuoc-long",
+      "division_type": "Huyện",
+      "province_code": "BL",
+      "province_name": "Bạc Liêu",
+      "ward_count": 8
+    },
+    {
+      "code": "BL-07",
+      "name": "Vĩnh Lợi",
+      "name_full": "Huyện Vĩnh Lợi",
+      "slug": "vinh-loi",
+      "division_type": "Huyện",
+      "province_code": "BL",
+      "province_name": "Bạc Liêu",
+      "ward_count": 8
+    },
+    {
+      "code": "BN-01",
+      "name": "Bắc Ninh",
+      "name_full": "Thành phố Bắc Ninh",
+      "slug": "bac-ninh",
+      "division_type": "Thành phố",
+      "province_code": "BN",
+      "province_name": "Bắc Ninh",
+      "ward_count": 19
+    },
+    {
+      "code": "BN-02",
+      "name": "Gia Bình",
+      "name_full": "Huyện Gia Bình",
+      "slug": "gia-binh",
+      "division_type": "Huyện",
+      "province_code": "BN",
+      "province_name": "Bắc Ninh",
+      "ward_count": 14
+    },
+    {
+      "code": "BN-03",
+      "name": "Lương Tài",
+      "name_full": "Huyện Lương Tài",
+      "slug": "luong-tai",
+      "division_type": "Huyện",
+      "province_code": "BN",
+      "province_name": "Bắc Ninh",
+      "ward_count": 14
+    },
+    {
+      "code": "BN-04",
+      "name": "Quế Võ",
+      "name_full": "Huyện Quế Võ",
+      "slug": "que-vo",
+      "division_type": "Huyện",
+      "province_code": "BN",
+      "province_name": "Bắc Ninh",
+      "ward_count": 21
+    },
+    {
+      "code": "BN-05",
+      "name": "Thuận Thành",
+      "name_full": "Huyện Thuận Thành",
+      "slug": "thuan-thanh",
+      "division_type": "Huyện",
+      "province_code": "BN",
+      "province_name": "Bắc Ninh",
+      "ward_count": 19
+    },
+    {
+      "code": "BN-06",
+      "name": "Tiên Du",
+      "name_full": "Huyện Tiên Du",
+      "slug": "tien-du",
+      "division_type": "Huyện",
+      "province_code": "BN",
+      "province_name": "Bắc Ninh",
+      "ward_count": 14
+    },
+    {
+      "code": "BN-07",
+      "name": "Từ Sơn",
+      "name_full": "Thị xã Từ Sơn",
+      "slug": "tu-son",
+      "division_type": "Thị xã",
+      "province_code": "BN",
+      "province_name": "Bắc Ninh",
+      "ward_count": 13
+    },
+    {
+      "code": "BN-08",
+      "name": "Yên Phong",
+      "name_full": "Huyện Yên Phong",
+      "slug": "yen-phong",
+      "division_type": "Huyện",
+      "province_code": "BN",
+      "province_name": "Bắc Ninh",
+      "ward_count": 14
+    },
+    {
+      "code": "BP-01",
+      "name": "Bình Long",
+      "name_full": "Thị xã Bình Long",
+      "slug": "binh-long",
+      "division_type": "Thị xã",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 7
+    },
+    {
+      "code": "BP-02",
+      "name": "Bù Đăng",
+      "name_full": "Huyện Bù Đăng",
+      "slug": "bu-dang",
+      "division_type": "Huyện",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 16
+    },
+    {
+      "code": "BP-03",
+      "name": "Bù Đốp",
+      "name_full": "Huyện Bù Đốp",
+      "slug": "bu-dop",
+      "division_type": "Huyện",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 7
+    },
+    {
+      "code": "BP-04",
+      "name": "Bù Gia Mập",
+      "name_full": "Huyện Bù Gia Mập",
+      "slug": "bu-gia-map",
+      "division_type": "Huyện",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 10
+    },
+    {
+      "code": "BP-05",
+      "name": "Chơn Thành",
+      "name_full": "Huyện Chơn Thành",
+      "slug": "chon-thanh",
+      "division_type": "Huyện",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 9
+    },
+    {
+      "code": "BP-06",
+      "name": "Đồng Phú",
+      "name_full": "Huyện Đồng Phú",
+      "slug": "dong-phu",
+      "division_type": "Huyện",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 11
+    },
+    {
+      "code": "BP-07",
+      "name": "Đồng Xoài",
+      "name_full": "Thị xã Đồng Xoài",
+      "slug": "dong-xoai",
+      "division_type": "Thị xã",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 8
+    },
+    {
+      "code": "BP-08",
+      "name": "Hớn Quản",
+      "name_full": "Huyện Hớn Quản",
+      "slug": "hon-quan",
+      "division_type": "Huyện",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 13
+    },
+    {
+      "code": "BP-09",
+      "name": "Lộc Ninh",
+      "name_full": "Huyện Lộc Ninh",
+      "slug": "loc-ninh",
+      "division_type": "Huyện",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 16
+    },
+    {
+      "code": "BP-10",
+      "name": "Phú Riềng",
+      "name_full": "Huyện Phú Riềng",
+      "slug": "phu-rieng",
+      "division_type": "Huyện",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 10
+    },
+    {
+      "code": "BP-11",
+      "name": "Phước Long",
+      "name_full": "Thị xã Phước Long",
+      "slug": "phuoc-long",
+      "division_type": "Thị xã",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 7
+    },
+    {
+      "code": "BTH-01",
+      "name": "Bắc Bình",
+      "name_full": "Huyện Bắc Bình",
+      "slug": "bac-binh",
+      "division_type": "Huyện",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 18
+    },
+    {
+      "code": "BTH-02",
+      "name": "Đảo Phú Quý",
+      "name_full": "Huyện Đảo Phú Quý",
+      "slug": "dao-phu-quy",
+      "division_type": "Huyện",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 3
+    },
+    {
+      "code": "BTH-03",
+      "name": "Đức Linh",
+      "name_full": "Huyện Đức Linh",
+      "slug": "duc-linh",
+      "division_type": "Huyện",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 13
+    },
+    {
+      "code": "BTH-04",
+      "name": "Hàm Tân",
+      "name_full": "Huyện Hàm Tân",
+      "slug": "ham-tan",
+      "division_type": "Huyện",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 10
+    },
+    {
+      "code": "BTH-05",
+      "name": "Hàm Thuận Bắc",
+      "name_full": "Huyện Hàm Thuận Bắc",
+      "slug": "ham-thuan-bac",
+      "division_type": "Huyện",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 18
+    },
+    {
+      "code": "BTH-06",
+      "name": "Hàm Thuận Nam",
+      "name_full": "Huyện Hàm Thuận Nam",
+      "slug": "ham-thuan-nam",
+      "division_type": "Huyện",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 12
+    },
+    {
+      "code": "BTH-07",
+      "name": "La Gi",
+      "name_full": "Thị xã La Gi",
+      "slug": "la-gi",
+      "division_type": "Thị xã",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 9
+    },
+    {
+      "code": "BTH-08",
+      "name": "Phan Thiết",
+      "name_full": "Thành phố Phan Thiết",
+      "slug": "phan-thiet",
+      "division_type": "Thành phố",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 19
+    },
+    {
+      "code": "BTH-09",
+      "name": "Tánh Linh",
+      "name_full": "Huyện Tánh Linh",
+      "slug": "tanh-linh",
+      "division_type": "Huyện",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 14
+    },
+    {
+      "code": "BTH-10",
+      "name": "Tuy Phong",
+      "name_full": "Huyện Tuy Phong",
+      "slug": "tuy-phong",
+      "division_type": "Huyện",
+      "province_code": "BTH",
+      "province_name": "Bình Thuận  ",
+      "ward_count": 12
+    },
+    {
+      "code": "BTR-01",
+      "name": "Ba Tri",
+      "name_full": "Huyện Ba Tri",
+      "slug": "ba-tri",
+      "division_type": "Huyện",
+      "province_code": "BTR",
+      "province_name": "Bến Tre",
+      "ward_count": 25
+    },
+    {
+      "code": "BTR-02",
+      "name": "Bến Tre",
+      "name_full": "Thành phố Bến Tre",
+      "slug": "ben-tre",
+      "division_type": "Thành phố",
+      "province_code": "BTR",
+      "province_name": "Bến Tre",
+      "ward_count": 18
+    },
+    {
+      "code": "BTR-03",
+      "name": "Bình Đại",
+      "name_full": "Huyện Bình Đại",
+      "slug": "binh-dai",
+      "division_type": "Huyện",
+      "province_code": "BTR",
+      "province_name": "Bến Tre",
+      "ward_count": 20
+    },
+    {
+      "code": "BTR-04",
+      "name": "Châu Thành",
+      "name_full": "Huyện Châu Thành",
+      "slug": "chau-thanh",
+      "division_type": "Huyện",
+      "province_code": "BTR",
+      "province_name": "Bến Tre",
+      "ward_count": 22
+    },
+    {
+      "code": "BTR-05",
+      "name": "Chợ Lách",
+      "name_full": "Huyện Chợ Lách",
+      "slug": "cho-lach",
+      "division_type": "Huyện",
+      "province_code": "BTR",
+      "province_name": "Bến Tre",
+      "ward_count": 11
+    },
+    {
+      "code": "BTR-06",
+      "name": "Giồng Trôm",
+      "name_full": "Huyện Giồng Trôm",
+      "slug": "giong-trom",
+      "division_type": "Huyện",
+      "province_code": "BTR",
+      "province_name": "Bến Tre",
+      "ward_count": 23
+    },
+    {
+      "code": "BTR-07",
+      "name": "Mỏ Cày Bắc",
+      "name_full": "Huyện Mỏ Cày Bắc",
+      "slug": "mo-cay-bac",
+      "division_type": "Huyện",
+      "province_code": "BTR",
+      "province_name": "Bến Tre",
+      "ward_count": 13
+    },
+    {
+      "code": "BTR-08",
+      "name": "Mỏ Cày Nam",
+      "name_full": "Huyện Mỏ Cày Nam",
+      "slug": "mo-cay-nam",
+      "division_type": "Huyện",
+      "province_code": "BTR",
+      "province_name": "Bến Tre",
+      "ward_count": 17
+    },
+    {
+      "code": "BTR-09",
+      "name": "Thạnh Phú",
+      "name_full": "Huyện Thạnh Phú",
+      "slug": "thanh-phu",
+      "division_type": "Huyện",
+      "province_code": "BTR",
+      "province_name": "Bến Tre",
+      "ward_count": 18
+    },
+    {
+      "code": "CB-01",
+      "name": "Bảo Lạc",
+      "name_full": "Huyện Bảo Lạc",
+      "slug": "bao-lac",
+      "division_type": "Huyện",
+      "province_code": "CB",
+      "province_name": "Cao Bằng",
+      "ward_count": 17
+    },
+    {
+      "code": "CB-02",
+      "name": "Bảo Lâm",
+      "name_full": "Huyện Bảo Lâm",
+      "slug": "bao-lam",
+      "division_type": "Huyện",
+      "province_code": "CB",
+      "province_name": "Cao Bằng",
+      "ward_count": 13
+    },
+    {
+      "code": "CB-03",
+      "name": "Cao Bằng",
+      "name_full": "Thị xã Cao Bằng",
+      "slug": "cao-bang",
+      "division_type": "Thị xã",
+      "province_code": "CB",
+      "province_name": "Cao Bằng",
+      "ward_count": 11
+    },
+    {
+      "code": "CB-04",
+      "name": "Hạ Lang",
+      "name_full": "Huyện Hạ Lang",
+      "slug": "ha-lang",
+      "division_type": "Huyện",
+      "province_code": "CB",
+      "province_name": "Cao Bằng",
+      "ward_count": 15
+    },
+    {
+      "code": "CB-05",
+      "name": "Hà Quảng",
+      "name_full": "Huyện Hà Quảng",
+      "slug": "ha-quang",
+      "division_type": "Huyện",
+      "province_code": "CB",
+      "province_name": "Cao Bằng",
+      "ward_count": 19
+    },
+    {
+      "code": "CB-06",
+      "name": "Hòa An",
+      "name_full": "Huyện Hòa An",
+      "slug": "hoa-an",
+      "division_type": "Huyện",
+      "province_code": "CB",
+      "province_name": "Cao Bằng",
+      "ward_count": 21
+    },
+    {
+      "code": "CB-07",
+      "name": "Nguyên Bình",
+      "name_full": "Huyện Nguyên Bình",
+      "slug": "nguyen-binh",
+      "division_type": "Huyện",
+      "province_code": "CB",
+      "province_name": "Cao Bằng",
+      "ward_count": 20
+    },
+    {
+      "code": "CB-08",
+      "name": "Phục Hòa",
+      "name_full": "Huyện Phục Hòa",
+      "slug": "phuc-hoa",
+      "division_type": "Huyện",
+      "province_code": "CB",
+      "province_name": "Cao Bằng",
+      "ward_count": 9
+    },
+    {
+      "code": "CB-09",
+      "name": "Quảng Uyên",
+      "name_full": "Huyện Quảng Uyên",
+      "slug": "quang-uyen",
+      "division_type": "Huyện",
+      "province_code": "CB",
+      "province_name": "Cao Bằng",
+      "ward_count": 17
+    },
+    {
+      "code": "CB-10",
+      "name": "Thạch An",
+      "name_full": "Huyện Thạch An",
+      "slug": "thach-an",
+      "division_type": "Huyện",
+      "province_code": "CB",
+      "province_name": "Cao Bằng",
+      "ward_count": 16
+    },
+    {
+      "code": "CB-11",
+      "name": "Thông Nông",
+      "name_full": "Huyện Thông Nông",
+      "slug": "thong-nong",
+      "division_type": "Huyện",
+      "province_code": "CB",
+      "province_name": "Cao Bằng",
+      "ward_count": 11
+    },
+    {
+      "code": "CB-12",
+      "name": "Trà Lĩnh",
+      "name_full": "Huyện Trà Lĩnh",
+      "slug": "tra-linh",
+      "division_type": "Huyện",
+      "province_code": "CB",
+      "province_name": "Cao Bằng",
+      "ward_count": 10
+    },
+    {
+      "code": "CB-13",
+      "name": "Trùng Khánh",
+      "name_full": "Huyện Trùng Khánh",
+      "slug": "trung-khanh",
+      "division_type": "Huyện",
+      "province_code": "CB",
+      "province_name": "Cao Bằng",
+      "ward_count": 20
+    },
+    {
+      "code": "CM-01",
+      "name": "Cà Mau",
+      "name_full": "Thành phố Cà Mau",
+      "slug": "ca-mau",
+      "division_type": "Thành phố",
+      "province_code": "CM",
+      "province_name": "Cà Mau",
+      "ward_count": 18
+    },
+    {
+      "code": "CM-02",
+      "name": "Cái Nước",
+      "name_full": "Huyện Cái Nước",
+      "slug": "cai-nuoc",
+      "division_type": "Huyện",
+      "province_code": "CM",
+      "province_name": "Cà Mau",
+      "ward_count": 11
+    },
+    {
+      "code": "CM-03",
+      "name": "Đầm Dơi",
+      "name_full": "Huyện Đầm Dơi",
+      "slug": "dam-doi",
+      "division_type": "Huyện",
+      "province_code": "CM",
+      "province_name": "Cà Mau",
+      "ward_count": 16
+    },
+    {
+      "code": "CM-04",
+      "name": "Năm Căn",
+      "name_full": "Huyện Năm Căn",
+      "slug": "nam-can",
+      "division_type": "Huyện",
+      "province_code": "CM",
+      "province_name": "Cà Mau",
+      "ward_count": 8
+    },
+    {
+      "code": "CM-05",
+      "name": "Ngọc Hiển",
+      "name_full": "Huyện Ngọc Hiển",
+      "slug": "ngoc-hien",
+      "division_type": "Huyện",
+      "province_code": "CM",
+      "province_name": "Cà Mau",
+      "ward_count": 7
+    },
+    {
+      "code": "CM-06",
+      "name": "Phú Tân",
+      "name_full": "Huyện Phú Tân",
+      "slug": "phu-tan",
+      "division_type": "Huyện",
+      "province_code": "CM",
+      "province_name": "Cà Mau",
+      "ward_count": 9
+    },
+    {
+      "code": "CM-07",
+      "name": "Thới Bình",
+      "name_full": "Huyện Thới Bình",
+      "slug": "thoi-binh",
+      "division_type": "Huyện",
+      "province_code": "CM",
+      "province_name": "Cà Mau",
+      "ward_count": 12
+    },
+    {
+      "code": "CM-08",
+      "name": "Trần Văn Thời",
+      "name_full": "Huyện Trần Văn Thời",
+      "slug": "tran-van-thoi",
+      "division_type": "Huyện",
+      "province_code": "CM",
+      "province_name": "Cà Mau",
+      "ward_count": 13
+    },
+    {
+      "code": "CM-09",
+      "name": "U Minh",
+      "name_full": "Huyện U Minh",
+      "slug": "u-minh",
+      "division_type": "Huyện",
+      "province_code": "CM",
+      "province_name": "Cà Mau",
+      "ward_count": 8
+    },
+    {
+      "code": "CT-01",
+      "name": " Thới Lai",
+      "name_full": "Huyện  Thới Lai",
+      "slug": "thoi-lai",
+      "division_type": "Huyện",
+      "province_code": "CT",
+      "province_name": "Cần Thơ",
+      "ward_count": 13
+    },
+    {
+      "code": "CT-02",
+      "name": "Bình Thủy",
+      "name_full": "Quận Bình Thủy",
+      "slug": "binh-thuy",
+      "division_type": "Quận",
+      "province_code": "CT",
+      "province_name": "Cần Thơ",
+      "ward_count": 10
+    },
+    {
+      "code": "CT-03",
+      "name": "Cái Răng",
+      "name_full": "Quận Cái Răng",
+      "slug": "cai-rang",
+      "division_type": "Quận",
+      "province_code": "CT",
+      "province_name": "Cần Thơ",
+      "ward_count": 8
+    },
+    {
+      "code": "CT-04",
+      "name": "Cờ Đỏ",
+      "name_full": "Huyện Cờ Đỏ",
+      "slug": "co-do",
+      "division_type": "Huyện",
+      "province_code": "CT",
+      "province_name": "Cần Thơ",
+      "ward_count": 10
+    },
+    {
+      "code": "CT-05",
+      "name": "Ninh Kiều",
+      "name_full": "Quận Ninh Kiều",
+      "slug": "ninh-kieu",
+      "division_type": "Quận",
+      "province_code": "CT",
+      "province_name": "Cần Thơ",
+      "ward_count": 14
+    },
+    {
+      "code": "CT-06",
+      "name": "Ô Môn",
+      "name_full": "Quận Ô Môn",
+      "slug": "o-mon",
+      "division_type": "Quận",
+      "province_code": "CT",
+      "province_name": "Cần Thơ",
+      "ward_count": 7
+    },
+    {
+      "code": "CT-07",
+      "name": "Phong Điền",
+      "name_full": "Huyện Phong Điền",
+      "slug": "phong-dien",
+      "division_type": "Huyện",
+      "province_code": "CT",
+      "province_name": "Cần Thơ",
+      "ward_count": 7
+    },
+    {
+      "code": "CT-08",
+      "name": "Thốt Nốt",
+      "name_full": "Quận Thốt Nốt",
+      "slug": "thot-not",
+      "division_type": "Quận",
+      "province_code": "CT",
+      "province_name": "Cần Thơ",
+      "ward_count": 10
+    },
+    {
+      "code": "CT-09",
+      "name": "Vĩnh Thạnh",
+      "name_full": "Huyện Vĩnh Thạnh",
+      "slug": "vinh-thanh",
+      "division_type": "Huyện",
+      "province_code": "CT",
+      "province_name": "Cần Thơ",
+      "ward_count": 11
+    },
+    {
+      "code": "DDB-01",
+      "name": "Điện Biên",
+      "name_full": "Huyện Điện Biên",
+      "slug": "dien-bien",
+      "division_type": "Huyện",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 26
+    },
+    {
+      "code": "DDB-02",
+      "name": "Điện Biên Đông",
+      "name_full": "Huyện Điện Biên Đông",
+      "slug": "dien-bien-dong",
+      "division_type": "Huyện",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 14
+    },
+    {
+      "code": "DDB-03",
+      "name": "Điện Biên Phủ",
+      "name_full": "Thành phố Điện Biên Phủ",
+      "slug": "dien-bien-phu",
+      "division_type": "Thành phố",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 9
+    },
+    {
+      "code": "DDB-04",
+      "name": "Mường Ảng",
+      "name_full": "Huyện Mường Ảng",
+      "slug": "muong-ang",
+      "division_type": "Huyện",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 10
+    },
+    {
+      "code": "DDB-05",
+      "name": "Mường Chà",
+      "name_full": "Huyện Mường Chà",
+      "slug": "muong-cha",
+      "division_type": "Huyện",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 14
+    },
+    {
+      "code": "DDB-06",
+      "name": "Mường Lay",
+      "name_full": "Thị xã Mường Lay",
+      "slug": "muong-lay",
+      "division_type": "Thị xã",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 3
+    },
+    {
+      "code": "DDB-07",
+      "name": "Mường Nhé",
+      "name_full": "Huyện Mường Nhé",
+      "slug": "muong-nhe",
+      "division_type": "Huyện",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 11
+    },
+    {
+      "code": "DDB-08",
+      "name": "Nậm Pồ",
+      "name_full": "Huyện Nậm Pồ",
+      "slug": "nam-po",
+      "division_type": "Huyện",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 14
+    },
+    {
+      "code": "DDB-09",
+      "name": "Tủa Chùa",
+      "name_full": "Huyện Tủa Chùa",
+      "slug": "tua-chua",
+      "division_type": "Huyện",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 12
+    },
+    {
+      "code": "DDB-10",
+      "name": "Tuần Giáo",
+      "name_full": "Huyện Tuần Giáo",
+      "slug": "tuan-giao",
+      "division_type": "Huyện",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 19
+    },
+    {
+      "code": "DDL-01",
+      "name": "Buôn Đôn",
+      "name_full": "Huyện Buôn Đôn",
+      "slug": "buon-don",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 7
+    },
+    {
+      "code": "DDL-02",
+      "name": "Buôn Hồ",
+      "name_full": "Thị xã Buôn Hồ",
+      "slug": "buon-ho",
+      "division_type": "Thị xã",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 12
+    },
+    {
+      "code": "DDL-03",
+      "name": "Buôn Ma Thuột",
+      "name_full": "Thành phố Buôn Ma Thuột",
+      "slug": "buon-ma-thuot",
+      "division_type": "Thành phố",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 21
+    },
+    {
+      "code": "DDL-04",
+      "name": "Cư Kuin",
+      "name_full": "Huyện Cư Kuin",
+      "slug": "cu-kuin",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 8
+    },
+    {
+      "code": "DDL-05",
+      "name": "Cư M'gar",
+      "name_full": "Huyện Cư M'gar",
+      "slug": "cu-m-gar",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 17
+    },
+    {
+      "code": "DDL-06",
+      "name": "Ea H'Leo",
+      "name_full": "Huyện Ea H'Leo",
+      "slug": "ea-h-leo",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 12
+    },
+    {
+      "code": "DDL-07",
+      "name": "Ea Kar",
+      "name_full": "Huyện Ea Kar",
+      "slug": "ea-kar",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 16
+    },
+    {
+      "code": "DDL-08",
+      "name": "Ea Súp",
+      "name_full": "Huyện Ea Súp",
+      "slug": "ea-sup",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 10
+    },
+    {
+      "code": "DDL-09",
+      "name": "Krông Ana",
+      "name_full": "Huyện Krông Ana",
+      "slug": "krong-ana",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 8
+    },
+    {
+      "code": "DDL-10",
+      "name": "Krông Bông",
+      "name_full": "Huyện Krông Bông",
+      "slug": "krong-bong",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 14
+    },
+    {
+      "code": "DDL-11",
+      "name": "Krông Buk",
+      "name_full": "Huyện Krông Buk",
+      "slug": "krong-buk",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 8
+    },
+    {
+      "code": "DDL-12",
+      "name": "Krông Năng",
+      "name_full": "Huyện Krông Năng",
+      "slug": "krong-nang",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 12
+    },
+    {
+      "code": "DDL-13",
+      "name": "Krông Pắc",
+      "name_full": "Huyện Krông Pắc",
+      "slug": "krong-pac",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 16
+    },
+    {
+      "code": "DDL-14",
+      "name": "Lăk",
+      "name_full": "Huyện Lăk",
+      "slug": "lak",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 11
+    },
+    {
+      "code": "DDL-15",
+      "name": "M'Đrăk",
+      "name_full": "Huyện M'Đrăk",
+      "slug": "m-drak",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 13
+    },
+    {
+      "code": "DDN-01",
+      "name": "Cẩm Lệ",
+      "name_full": "Quận Cẩm Lệ",
+      "slug": "cam-le",
+      "division_type": "Quận",
+      "province_code": "DDN",
+      "province_name": "Đà Nẵng",
+      "ward_count": 6
+    },
+    {
+      "code": "DDN-02",
+      "name": "Hải Châu",
+      "name_full": "Quận Hải Châu",
+      "slug": "hai-chau",
+      "division_type": "Quận",
+      "province_code": "DDN",
+      "province_name": "Đà Nẵng",
+      "ward_count": 13
+    },
+    {
+      "code": "DDN-03",
+      "name": "Hòa Vang",
+      "name_full": "Huyện Hòa Vang",
+      "slug": "hoa-vang",
+      "division_type": "Huyện",
+      "province_code": "DDN",
+      "province_name": "Đà Nẵng",
+      "ward_count": 11
+    },
+    {
+      "code": "DDN-04",
+      "name": "Hoàng Sa",
+      "name_full": "Huyện Hoàng Sa",
+      "slug": "hoang-sa",
+      "division_type": "Huyện",
+      "province_code": "DDN",
+      "province_name": "Đà Nẵng",
+      "ward_count": 0
+    },
+    {
+      "code": "DDN-05",
+      "name": "Liên Chiểu",
+      "name_full": "Quận Liên Chiểu",
+      "slug": "lien-chieu",
+      "division_type": "Quận",
+      "province_code": "DDN",
+      "province_name": "Đà Nẵng",
+      "ward_count": 5
+    },
+    {
+      "code": "DDN-06",
+      "name": "Ngũ Hành Sơn",
+      "name_full": "Quận Ngũ Hành Sơn",
+      "slug": "ngu-hanh-son",
+      "division_type": "Quận",
+      "province_code": "DDN",
+      "province_name": "Đà Nẵng",
+      "ward_count": 4
+    },
+    {
+      "code": "DDN-07",
+      "name": "Sơn Trà",
+      "name_full": "Quận Sơn Trà",
+      "slug": "son-tra",
+      "division_type": "Quận",
+      "province_code": "DDN",
+      "province_name": "Đà Nẵng",
+      "ward_count": 7
+    },
+    {
+      "code": "DDN-08",
+      "name": "Thanh Khê",
+      "name_full": "Quận Thanh Khê",
+      "slug": "thanh-khe",
+      "division_type": "Quận",
+      "province_code": "DDN",
+      "province_name": "Đà Nẵng",
+      "ward_count": 11
+    },
+    {
+      "code": "DDT-01",
+      "name": "Cao Lãnh",
+      "name_full": "Thành phố Cao Lãnh",
+      "slug": "cao-lanh",
+      "division_type": "Thành phố",
+      "province_code": "DDT",
+      "province_name": "Đồng Tháp",
+      "ward_count": 16
+    },
+    {
+      "code": "DDT-02",
+      "name": "Châu Thành",
+      "name_full": "Huyện Châu Thành",
+      "slug": "chau-thanh",
+      "division_type": "Huyện",
+      "province_code": "DDT",
+      "province_name": "Đồng Tháp",
+      "ward_count": 12
+    },
+    {
+      "code": "DDT-03",
+      "name": "Hồng Ngự",
+      "name_full": "Thị xã Hồng Ngự",
+      "slug": "hong-ngu",
+      "division_type": "Thị xã",
+      "province_code": "DDT",
+      "province_name": "Đồng Tháp",
+      "ward_count": 7
+    },
+    {
+      "code": "DDT-04",
+      "name": "Huyện Cao Lãnh",
+      "name_full": "Huyện Huyện Cao Lãnh",
+      "slug": "huyen-cao-lanh",
+      "division_type": "Huyện",
+      "province_code": "DDT",
+      "province_name": "Đồng Tháp",
+      "ward_count": 18
+    },
+    {
+      "code": "DDT-05",
+      "name": "Huyện Hồng Ngự",
+      "name_full": "Huyện Huyện Hồng Ngự",
+      "slug": "huyen-hong-ngu",
+      "division_type": "Huyện",
+      "province_code": "DDT",
+      "province_name": "Đồng Tháp",
+      "ward_count": 11
+    },
+    {
+      "code": "DDT-06",
+      "name": "Lai Vung",
+      "name_full": "Huyện Lai Vung",
+      "slug": "lai-vung",
+      "division_type": "Huyện",
+      "province_code": "DDT",
+      "province_name": "Đồng Tháp",
+      "ward_count": 12
+    },
+    {
+      "code": "DDT-07",
+      "name": "Lấp Vò",
+      "name_full": "Huyện Lấp Vò",
+      "slug": "lap-vo",
+      "division_type": "Huyện",
+      "province_code": "DDT",
+      "province_name": "Đồng Tháp",
+      "ward_count": 13
+    },
+    {
+      "code": "DDT-08",
+      "name": "Sa Đéc",
+      "name_full": "Thị xã Sa Đéc",
+      "slug": "sa-dec",
+      "division_type": "Thị xã",
+      "province_code": "DDT",
+      "province_name": "Đồng Tháp",
+      "ward_count": 9
+    },
+    {
+      "code": "DDT-09",
+      "name": "Tam Nông",
+      "name_full": "Huyện Tam Nông",
+      "slug": "tam-nong",
+      "division_type": "Huyện",
+      "province_code": "DDT",
+      "province_name": "Đồng Tháp",
+      "ward_count": 12
+    },
+    {
+      "code": "DDT-10",
+      "name": "Tân Hồng",
+      "name_full": "Huyện Tân Hồng",
+      "slug": "tan-hong",
+      "division_type": "Huyện",
+      "province_code": "DDT",
+      "province_name": "Đồng Tháp",
+      "ward_count": 9
+    },
+    {
+      "code": "DDT-11",
+      "name": "Thanh Bình",
+      "name_full": "Huyện Thanh Bình",
+      "slug": "thanh-binh",
+      "division_type": "Huyện",
+      "province_code": "DDT",
+      "province_name": "Đồng Tháp",
+      "ward_count": 13
+    },
+    {
+      "code": "DDT-12",
+      "name": "Tháp Mười",
+      "name_full": "Huyện Tháp Mười",
+      "slug": "thap-muoi",
+      "division_type": "Huyện",
+      "province_code": "DDT",
+      "province_name": "Đồng Tháp",
+      "ward_count": 13
+    },
+    {
+      "code": "DNA-01",
+      "name": "Biên Hòa",
+      "name_full": "Thành phố Biên Hòa",
+      "slug": "bien-hoa",
+      "division_type": "Thành phố",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 33
+    },
+    {
+      "code": "DNA-02",
+      "name": "Cẩm Mỹ",
+      "name_full": "Huyện Cẩm Mỹ",
+      "slug": "cam-my",
+      "division_type": "Huyện",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 13
+    },
+    {
+      "code": "DNA-03",
+      "name": "Định Quán",
+      "name_full": "Huyện Định Quán",
+      "slug": "dinh-quan",
+      "division_type": "Huyện",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 14
+    },
+    {
+      "code": "DNA-04",
+      "name": "Long Khánh",
+      "name_full": "Thị xã Long Khánh",
+      "slug": "long-khanh",
+      "division_type": "Thị xã",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 16
+    },
+    {
+      "code": "DNA-05",
+      "name": "Long Thành",
+      "name_full": "Huyện Long Thành",
+      "slug": "long-thanh",
+      "division_type": "Huyện",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 16
+    },
+    {
+      "code": "DNA-06",
+      "name": "Nhơn Trạch",
+      "name_full": "Huyện Nhơn Trạch",
+      "slug": "nhon-trach",
+      "division_type": "Huyện",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 12
+    },
+    {
+      "code": "DNA-07",
+      "name": "Tân Phú",
+      "name_full": "Quận Tân Phú",
+      "slug": "tan-phu",
+      "division_type": "Quận",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 18
+    },
+    {
+      "code": "DNA-08",
+      "name": "Thống Nhất",
+      "name_full": "Huyện Thống Nhất",
+      "slug": "thong-nhat",
+      "division_type": "Huyện",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 11
+    },
+    {
+      "code": "DNA-09",
+      "name": "Trảng Bom",
+      "name_full": "Huyện Trảng Bom",
+      "slug": "trang-bom",
+      "division_type": "Huyện",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 18
+    },
+    {
+      "code": "DNA-10",
+      "name": "Vĩnh Cửu",
+      "name_full": "Huyện Vĩnh Cửu",
+      "slug": "vinh-cuu",
+      "division_type": "Huyện",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 12
+    },
+    {
+      "code": "DNA-11",
+      "name": "Xuân Lộc",
+      "name_full": "Huyện Xuân Lộc",
+      "slug": "xuan-loc",
+      "division_type": "Huyện",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 15
+    },
+    {
+      "code": "DNO-01",
+      "name": "Cư Jút",
+      "name_full": "Huyện Cư Jút",
+      "slug": "cu-jut",
+      "division_type": "Huyện",
+      "province_code": "DNO",
+      "province_name": "Đắk Nông",
+      "ward_count": 8
+    },
+    {
+      "code": "DNO-02",
+      "name": "Dăk GLong",
+      "name_full": "Huyện Dăk GLong",
+      "slug": "dak-glong",
+      "division_type": "Huyện",
+      "province_code": "DNO",
+      "province_name": "Đắk Nông",
+      "ward_count": 7
+    },
+    {
+      "code": "DNO-03",
+      "name": "Dăk Mil",
+      "name_full": "Huyện Dăk Mil",
+      "slug": "dak-mil",
+      "division_type": "Huyện",
+      "province_code": "DNO",
+      "province_name": "Đắk Nông",
+      "ward_count": 10
+    },
+    {
+      "code": "DNO-04",
+      "name": "Dăk R'Lấp",
+      "name_full": "Huyện Dăk R'Lấp",
+      "slug": "dak-r-lap",
+      "division_type": "Huyện",
+      "province_code": "DNO",
+      "province_name": "Đắk Nông",
+      "ward_count": 11
+    },
+    {
+      "code": "DNO-05",
+      "name": "Dăk Song",
+      "name_full": "Huyện Dăk Song",
+      "slug": "dak-song",
+      "division_type": "Huyện",
+      "province_code": "DNO",
+      "province_name": "Đắk Nông",
+      "ward_count": 9
+    },
+    {
+      "code": "DNO-06",
+      "name": "Gia Nghĩa",
+      "name_full": "Thị xã Gia Nghĩa",
+      "slug": "gia-nghia",
+      "division_type": "Thị xã",
+      "province_code": "DNO",
+      "province_name": "Đắk Nông",
+      "ward_count": 8
+    },
+    {
+      "code": "DNO-07",
+      "name": "Krông Nô",
+      "name_full": "Huyện Krông Nô",
+      "slug": "krong-no",
+      "division_type": "Huyện",
+      "province_code": "DNO",
+      "province_name": "Đắk Nông",
+      "ward_count": 12
+    },
+    {
+      "code": "DNO-08",
+      "name": "Tuy Đức",
+      "name_full": "Huyện Tuy Đức",
+      "slug": "tuy-duc",
+      "division_type": "Huyện",
+      "province_code": "DNO",
+      "province_name": "Đắk Nông",
+      "ward_count": 6
+    },
+    {
+      "code": "GL-01",
+      "name": "An Khê",
+      "name_full": "Thị xã An Khê",
+      "slug": "an-khe",
+      "division_type": "Thị xã",
+      "province_code": "GL",
+      "province_name": "Gia Lai",
+      "ward_count": 11
+    },
+    {
+      "code": "GL-02",
+      "name": "AYun Pa",
+      "name_full": "Thị xã AYun Pa",
+      "slug": "ayun-pa",
+      "division_type": "Thị xã",
+      "province_code": "GL",
+      "province_name": "Gia Lai",
+      "ward_count": 8
+    },
+    {
+      "code": "GL-03",
+      "name": "Chư Păh",
+      "name_full": "Huyện Chư Păh",
+      "slug": "chu-pah",
+      "division_type": "Huyện",
+      "province_code": "GL",
+      "province_name": "Gia Lai",
+      "ward_count": 15
+    },
+    {
+      "code": "GL-04",
+      "name": "Chư Pưh",
+      "name_full": "Huyện Chư Pưh",
+      "slug": "chu-puh",
+      "division_type": "Huyện",
+      "province_code": "GL",
+      "province_name": "Gia Lai",
+      "ward_count": 9
+    },
+    {
+      "code": "GL-05",
+      "name": "Chư Sê",
+      "name_full": "Huyện Chư Sê",
+      "slug": "chu-se",
+      "division_type": "Huyện",
+      "province_code": "GL",
+      "province_name": "Gia Lai",
+      "ward_count": 16
+    },
+    {
+      "code": "GL-06",
+      "name": "ChưPRông",
+      "name_full": "Huyện ChưPRông",
+      "slug": "chuprong",
+      "division_type": "Huyện",
+      "province_code": "GL",
+      "province_name": "Gia Lai",
+      "ward_count": 20
+    },
+    {
+      "code": "GL-07",
+      "name": "Đăk Đoa",
+      "name_full": "Huyện Đăk Đoa",
+      "slug": "dak-doa",
+      "division_type": "Huyện",
+      "province_code": "GL",
+      "province_name": "Gia Lai",
+      "ward_count": 17
+    },
+    {
+      "code": "GL-08",
+      "name": "Đăk Pơ",
+      "name_full": "Huyện Đăk Pơ",
+      "slug": "dak-po",
+      "division_type": "Huyện",
+      "province_code": "GL",
+      "province_name": "Gia Lai",
+      "ward_count": 8
+    },
+    {
+      "code": "GL-09",
+      "name": "Đức Cơ",
+      "name_full": "Huyện Đức Cơ",
+      "slug": "duc-co",
+      "division_type": "Huyện",
+      "province_code": "GL",
+      "province_name": "Gia Lai",
+      "ward_count": 10
+    },
+    {
+      "code": "GL-10",
+      "name": "Ia Grai",
+      "name_full": "Huyện Ia Grai",
+      "slug": "ia-grai",
+      "division_type": "Huyện",
+      "province_code": "GL",
+      "province_name": "Gia Lai",
+      "ward_count": 13
+    },
+    {
+      "code": "GL-11",
+      "name": "Ia Pa",
+      "name_full": "Huyện Ia Pa",
+      "slug": "ia-pa",
+      "division_type": "Huyện",
+      "province_code": "GL",
+      "province_name": "Gia Lai",
+      "ward_count": 10
+    },
+    {
+      "code": "GL-12",
+      "name": "KBang",
+      "name_full": "Huyện KBang",
+      "slug": "kbang",
+      "division_type": "Huyện",
+      "province_code": "GL",
+      "province_name": "Gia Lai",
+      "ward_count": 14
+    },
+    {
+      "code": "GL-13",
+      "name": "Kông Chro",
+      "name_full": "Huyện Kông Chro",
+      "slug": "kong-chro",
+      "division_type": "Huyện",
+      "province_code": "GL",
+      "province_name": "Gia Lai",
+      "ward_count": 14
+    },
+    {
+      "code": "GL-14",
+      "name": "Krông Pa",
+      "name_full": "Huyện Krông Pa",
+      "slug": "krong-pa",
+      "division_type": "Huyện",
+      "province_code": "GL",
+      "province_name": "Gia Lai",
+      "ward_count": 14
+    },
+    {
+      "code": "GL-15",
+      "name": "Mang Yang",
+      "name_full": "Huyện Mang Yang",
+      "slug": "mang-yang",
+      "division_type": "Huyện",
+      "province_code": "GL",
+      "province_name": "Gia Lai",
+      "ward_count": 12
+    },
+    {
+      "code": "GL-16",
+      "name": "Phú Thiện",
+      "name_full": "Huyện Phú Thiện",
+      "slug": "phu-thien",
+      "division_type": "Huyện",
+      "province_code": "GL",
+      "province_name": "Gia Lai",
+      "ward_count": 10
+    },
+    {
+      "code": "GL-17",
+      "name": "Plei Ku",
+      "name_full": "Thành phố Plei Ku",
+      "slug": "plei-ku",
+      "division_type": "Thành phố",
+      "province_code": "GL",
+      "province_name": "Gia Lai",
+      "ward_count": 23
+    },
+    {
+      "code": "HB-01",
+      "name": "Cao Phong",
+      "name_full": "Huyện Cao Phong",
+      "slug": "cao-phong",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 13
+    },
+    {
+      "code": "HB-02",
+      "name": "Đà Bắc",
+      "name_full": "Huyện Đà Bắc",
+      "slug": "da-bac",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 20
+    },
+    {
+      "code": "HB-03",
+      "name": "Hòa Bình",
+      "name_full": "Thành phố Hòa Bình",
+      "slug": "hoa-binh",
+      "division_type": "Thành phố",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 15
+    },
+    {
+      "code": "HB-04",
+      "name": "Kim Bôi",
+      "name_full": "Huyện Kim Bôi",
+      "slug": "kim-boi",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 28
+    },
+    {
+      "code": "HB-05",
+      "name": "Kỳ Sơn",
+      "name_full": "Huyện Kỳ Sơn",
+      "slug": "ky-son",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 10
+    },
+    {
+      "code": "HB-06",
+      "name": "Lạc Sơn",
+      "name_full": "Huyện Lạc Sơn",
+      "slug": "lac-son",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 29
+    },
+    {
+      "code": "HB-07",
+      "name": "Lạc Thủy",
+      "name_full": "Huyện Lạc Thủy",
+      "slug": "lac-thuy",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 15
+    },
+    {
+      "code": "HB-08",
+      "name": "Lương Sơn",
+      "name_full": "Huyện Lương Sơn",
+      "slug": "luong-son",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 21
+    },
+    {
+      "code": "HB-09",
+      "name": "Mai Châu",
+      "name_full": "Huyện Mai Châu",
+      "slug": "mai-chau",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 23
+    },
+    {
+      "code": "HB-10",
+      "name": "Tân Lạc",
+      "name_full": "Huyện Tân Lạc",
+      "slug": "tan-lac",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 24
+    },
+    {
+      "code": "HB-11",
+      "name": "Yên Thủy",
+      "name_full": "Huyện Yên Thủy",
+      "slug": "yen-thuy",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 13
+    },
+    {
+      "code": "HD-01",
+      "name": "Bình Giang",
+      "name_full": "Huyện Bình Giang",
+      "slug": "binh-giang",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 18
+    },
+    {
+      "code": "HD-02",
+      "name": "Cẩm Giàng",
+      "name_full": "Huyện Cẩm Giàng",
+      "slug": "cam-giang",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 19
+    },
+    {
+      "code": "HD-03",
+      "name": "Chí Linh",
+      "name_full": "Thị xã Chí Linh",
+      "slug": "chi-linh",
+      "division_type": "Thị xã",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 20
+    },
+    {
+      "code": "HD-04",
+      "name": "Gia Lộc",
+      "name_full": "Huyện Gia Lộc",
+      "slug": "gia-loc",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 23
+    },
+    {
+      "code": "HD-05",
+      "name": "Hải Dương",
+      "name_full": "Thành phố Hải Dương",
+      "slug": "hai-duong",
+      "division_type": "Thành phố",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 21
+    },
+    {
+      "code": "HD-06",
+      "name": "Kim Thành",
+      "name_full": "Huyện Kim Thành",
+      "slug": "kim-thanh",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 21
+    },
+    {
+      "code": "HD-07",
+      "name": "Kinh Môn",
+      "name_full": "Huyện Kinh Môn",
+      "slug": "kinh-mon",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 27
+    },
+    {
+      "code": "HD-08",
+      "name": "Nam Sách",
+      "name_full": "Huyện Nam Sách",
+      "slug": "nam-sach",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 19
+    },
+    {
+      "code": "HD-09",
+      "name": "Ninh Giang",
+      "name_full": "Huyện Ninh Giang",
+      "slug": "ninh-giang",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 28
+    },
+    {
+      "code": "HD-10",
+      "name": "Thanh Hà",
+      "name_full": "Huyện Thanh Hà",
+      "slug": "thanh-ha",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 25
+    },
+    {
+      "code": "HD-11",
+      "name": "Thanh Miện",
+      "name_full": "Huyện Thanh Miện",
+      "slug": "thanh-mien",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 19
+    },
+    {
+      "code": "HD-12",
+      "name": "Tứ Kỳ",
+      "name_full": "Huyện Tứ Kỳ",
+      "slug": "tu-ky",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 27
+    },
+    {
+      "code": "HG-01",
+      "name": "Bắc Mê",
+      "name_full": "Huyện Bắc Mê",
+      "slug": "bac-me",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 13
+    },
+    {
+      "code": "HG-02",
+      "name": "Bắc Quang",
+      "name_full": "Huyện Bắc Quang",
+      "slug": "bac-quang",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 23
+    },
+    {
+      "code": "HG-03",
+      "name": "Đồng Văn",
+      "name_full": "Huyện Đồng Văn",
+      "slug": "dong-van",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 19
+    },
+    {
+      "code": "HG-04",
+      "name": "Hà Giang",
+      "name_full": "Thành phố Hà Giang",
+      "slug": "ha-giang",
+      "division_type": "Thành phố",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 8
+    },
+    {
+      "code": "HG-05",
+      "name": "Hoàng Su Phì",
+      "name_full": "Huyện Hoàng Su Phì",
+      "slug": "hoang-su-phi",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 25
+    },
+    {
+      "code": "HG-06",
+      "name": "Mèo Vạc",
+      "name_full": "Huyện Mèo Vạc",
+      "slug": "meo-vac",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 18
+    },
+    {
+      "code": "HG-07",
+      "name": "Quản Bạ",
+      "name_full": "Huyện Quản Bạ",
+      "slug": "quan-ba",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 13
+    },
+    {
+      "code": "HG-08",
+      "name": "Quang Bình",
+      "name_full": "Huyện Quang Bình",
+      "slug": "quang-binh",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 15
+    },
+    {
+      "code": "HG-09",
+      "name": "Vị Xuyên",
+      "name_full": "Huyện Vị Xuyên",
+      "slug": "vi-xuyen",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 24
+    },
+    {
+      "code": "HG-10",
+      "name": "Xín Mần",
+      "name_full": "Huyện Xín Mần",
+      "slug": "xin-man",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 19
+    },
+    {
+      "code": "HG-11",
+      "name": "Yên Minh",
+      "name_full": "Huyện Yên Minh",
+      "slug": "yen-minh",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 18
+    },
+    {
+      "code": "HGI-01",
+      "name": "Châu Thành",
+      "name_full": "Huyện Châu Thành",
+      "slug": "chau-thanh",
+      "division_type": "Huyện",
+      "province_code": "HGI",
+      "province_name": "Hậu Giang",
+      "ward_count": 9
+    },
+    {
+      "code": "HGI-02",
+      "name": "Châu Thành A",
+      "name_full": "Huyện Châu Thành A",
+      "slug": "chau-thanh-a",
+      "division_type": "Huyện",
+      "province_code": "HGI",
+      "province_name": "Hậu Giang",
+      "ward_count": 10
+    },
+    {
+      "code": "HGI-03",
+      "name": "Long Mỹ",
+      "name_full": "Huyện Long Mỹ",
+      "slug": "long-my",
+      "division_type": "Huyện",
+      "province_code": "HGI",
+      "province_name": "Hậu Giang",
+      "ward_count": 15
+    },
+    {
+      "code": "HGI-04",
+      "name": "Ngã Bảy",
+      "name_full": "Thị xã Ngã Bảy",
+      "slug": "nga-bay",
+      "division_type": "Thị xã",
+      "province_code": "HGI",
+      "province_name": "Hậu Giang",
+      "ward_count": 6
+    },
+    {
+      "code": "HGI-05",
+      "name": "Phụng Hiệp",
+      "name_full": "Huyện Phụng Hiệp",
+      "slug": "phung-hiep",
+      "division_type": "Huyện",
+      "province_code": "HGI",
+      "province_name": "Hậu Giang",
+      "ward_count": 15
+    },
+    {
+      "code": "HGI-06",
+      "name": "Vị Thanh",
+      "name_full": "Thành phố Vị Thanh",
+      "slug": "vi-thanh",
+      "division_type": "Thành phố",
+      "province_code": "HGI",
+      "province_name": "Hậu Giang",
+      "ward_count": 9
+    },
+    {
+      "code": "HGI-07",
+      "name": "Vị Thủy",
+      "name_full": "Huyện Vị Thủy",
+      "slug": "vi-thuy",
+      "division_type": "Huyện",
+      "province_code": "HGI",
+      "province_name": "Hậu Giang",
+      "ward_count": 10
+    },
+    {
+      "code": "HN-01",
+      "name": "Ba Đình",
+      "name_full": "Quận Ba Đình",
+      "slug": "ba-dinh",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 14
+    },
+    {
+      "code": "HN-02",
+      "name": "Ba Vì",
+      "name_full": "Huyện Ba Vì",
+      "slug": "ba-vi",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 31
+    },
+    {
+      "code": "HN-03",
+      "name": "Bắc Từ Liêm",
+      "name_full": "Quận Bắc Từ Liêm",
+      "slug": "bac-tu-liem",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 13
+    },
+    {
+      "code": "HN-04",
+      "name": "Cầu Giấy",
+      "name_full": "Quận Cầu Giấy",
+      "slug": "cau-giay",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 8
+    },
+    {
+      "code": "HN-05",
+      "name": "Chương Mỹ",
+      "name_full": "Huyện Chương Mỹ",
+      "slug": "chuong-my",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 32
+    },
+    {
+      "code": "HN-06",
+      "name": "Đan Phượng",
+      "name_full": "Huyện Đan Phượng",
+      "slug": "dan-phuong",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 16
+    },
+    {
+      "code": "HN-07",
+      "name": "Đông Anh",
+      "name_full": "Huyện Đông Anh",
+      "slug": "dong-anh",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 25
+    },
+    {
+      "code": "HN-08",
+      "name": "Đống Đa",
+      "name_full": "Quận Đống Đa",
+      "slug": "dong-da",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 21
+    },
+    {
+      "code": "HN-09",
+      "name": "Gia Lâm",
+      "name_full": "Huyện Gia Lâm",
+      "slug": "gia-lam",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 22
+    },
+    {
+      "code": "HN-10",
+      "name": "Hà Đông",
+      "name_full": "Quận Hà Đông",
+      "slug": "ha-dong",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 17
+    },
+    {
+      "code": "HN-11",
+      "name": "Hai Bà Trưng",
+      "name_full": "Quận Hai Bà Trưng",
+      "slug": "hai-ba-trung",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 20
+    },
+    {
+      "code": "HN-12",
+      "name": "Hoài Đức",
+      "name_full": "Huyện Hoài Đức",
+      "slug": "hoai-duc",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 20
+    },
+    {
+      "code": "HN-13",
+      "name": "Hoàn Kiếm",
+      "name_full": "Quận Hoàn Kiếm",
+      "slug": "hoan-kiem",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 18
+    },
+    {
+      "code": "HN-14",
+      "name": "Hoàng Mai",
+      "name_full": "Quận Hoàng Mai",
+      "slug": "hoang-mai",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 14
+    },
+    {
+      "code": "HN-15",
+      "name": "Long Biên",
+      "name_full": "Quận Long Biên",
+      "slug": "long-bien",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 14
+    },
+    {
+      "code": "HN-16",
+      "name": "Mê Linh",
+      "name_full": "Huyện Mê Linh",
+      "slug": "me-linh",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 18
+    },
+    {
+      "code": "HN-17",
+      "name": "Mỹ Đức",
+      "name_full": "Huyện Mỹ Đức",
+      "slug": "my-duc",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 22
+    },
+    {
+      "code": "HN-18",
+      "name": "Nam Từ Liêm",
+      "name_full": "Quận Nam Từ Liêm",
+      "slug": "nam-tu-liem",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 10
+    },
+    {
+      "code": "HN-19",
+      "name": "Phú Xuyên",
+      "name_full": "Huyện Phú Xuyên",
+      "slug": "phu-xuyen",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 28
+    },
+    {
+      "code": "HN-20",
+      "name": "Phúc Thọ",
+      "name_full": "Huyện Phúc Thọ",
+      "slug": "phuc-tho",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 24
+    },
+    {
+      "code": "HN-21",
+      "name": "Quốc Oai",
+      "name_full": "Huyện Quốc Oai",
+      "slug": "quoc-oai",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 21
+    },
+    {
+      "code": "HN-22",
+      "name": "Sóc Sơn",
+      "name_full": "Huyện Sóc Sơn",
+      "slug": "soc-son",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 26
+    },
+    {
+      "code": "HN-23",
+      "name": "Sơn Tây",
+      "name_full": "Thị xã Sơn Tây",
+      "slug": "son-tay",
+      "division_type": "Thị xã",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 15
+    },
+    {
+      "code": "HN-24",
+      "name": "Tây Hồ",
+      "name_full": "Quận Tây Hồ",
+      "slug": "tay-ho",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 8
+    },
+    {
+      "code": "HN-25",
+      "name": "Thạch Thất",
+      "name_full": "Huyện Thạch Thất",
+      "slug": "thach-that",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 23
+    },
+    {
+      "code": "HN-26",
+      "name": "Thanh Oai",
+      "name_full": "Huyện Thanh Oai",
+      "slug": "thanh-oai",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 21
+    },
+    {
+      "code": "HN-27",
+      "name": "Thanh Trì",
+      "name_full": "Huyện Thanh Trì",
+      "slug": "thanh-tri",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 16
+    },
+    {
+      "code": "HN-28",
+      "name": "Thanh Xuân",
+      "name_full": "Quận Thanh Xuân",
+      "slug": "thanh-xuan",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 11
+    },
+    {
+      "code": "HN-29",
+      "name": "Thường Tín",
+      "name_full": "Huyện Thường Tín",
+      "slug": "thuong-tin",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 29
+    },
+    {
+      "code": "HN-30",
+      "name": "Ứng Hòa",
+      "name_full": "Huyện Ứng Hòa",
+      "slug": "ung-hoa",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 30
+    },
+    {
+      "code": "HNA-01",
+      "name": "Bình Lục",
+      "name_full": "Huyện Bình Lục",
+      "slug": "binh-luc",
+      "division_type": "Huyện",
+      "province_code": "HNA",
+      "province_name": "Hà Nam",
+      "ward_count": 19
+    },
+    {
+      "code": "HNA-02",
+      "name": "Duy Tiên",
+      "name_full": "Huyện Duy Tiên",
+      "slug": "duy-tien",
+      "division_type": "Huyện",
+      "province_code": "HNA",
+      "province_name": "Hà Nam",
+      "ward_count": 18
+    },
+    {
+      "code": "HNA-03",
+      "name": "Kim Bảng",
+      "name_full": "Huyện Kim Bảng",
+      "slug": "kim-bang",
+      "division_type": "Huyện",
+      "province_code": "HNA",
+      "province_name": "Hà Nam",
+      "ward_count": 18
+    },
+    {
+      "code": "HNA-04",
+      "name": "Lý Nhân",
+      "name_full": "Huyện Lý Nhân",
+      "slug": "ly-nhan",
+      "division_type": "Huyện",
+      "province_code": "HNA",
+      "province_name": "Hà Nam",
+      "ward_count": 23
+    },
+    {
+      "code": "HNA-05",
+      "name": "Phủ Lý",
+      "name_full": "Thành phố Phủ Lý",
+      "slug": "phu-ly",
+      "division_type": "Thành phố",
+      "province_code": "HNA",
+      "province_name": "Hà Nam",
+      "ward_count": 21
+    },
+    {
+      "code": "HNA-06",
+      "name": "Thanh Liêm",
+      "name_full": "Huyện Thanh Liêm",
+      "slug": "thanh-liem",
+      "division_type": "Huyện",
+      "province_code": "HNA",
+      "province_name": "Hà Nam",
+      "ward_count": 17
+    },
+    {
+      "code": "HP-01",
+      "name": "An Dương",
+      "name_full": "Huyện An Dương",
+      "slug": "an-duong",
+      "division_type": "Huyện",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 18
+    },
+    {
+      "code": "HP-02",
+      "name": "An Lão",
+      "name_full": "Huyện An Lão",
+      "slug": "an-lao",
+      "division_type": "Huyện",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 17
+    },
+    {
+      "code": "HP-03",
+      "name": "Bạch Long Vĩ",
+      "name_full": "Huyện Bạch Long Vĩ",
+      "slug": "bach-long-vi",
+      "division_type": "Huyện",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 0
+    },
+    {
+      "code": "HP-04",
+      "name": "Cát Hải",
+      "name_full": "Huyện Cát Hải",
+      "slug": "cat-hai",
+      "division_type": "Huyện",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 12
+    },
+    {
+      "code": "HP-05",
+      "name": "Đồ Sơn",
+      "name_full": "Quận Đồ Sơn",
+      "slug": "do-son",
+      "division_type": "Quận",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 7
+    },
+    {
+      "code": "HP-06",
+      "name": "Dương Kinh",
+      "name_full": "Quận Dương Kinh",
+      "slug": "duong-kinh",
+      "division_type": "Quận",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 6
+    },
+    {
+      "code": "HP-07",
+      "name": "Hải An",
+      "name_full": "Quận Hải An",
+      "slug": "hai-an",
+      "division_type": "Quận",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 9
+    },
+    {
+      "code": "HP-08",
+      "name": "Hồng Bàng",
+      "name_full": "Quận Hồng Bàng",
+      "slug": "hong-bang",
+      "division_type": "Quận",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 12
+    },
+    {
+      "code": "HP-09",
+      "name": "Kiến An",
+      "name_full": "Quận Kiến An",
+      "slug": "kien-an",
+      "division_type": "Quận",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 11
+    },
+    {
+      "code": "HP-10",
+      "name": "Kiến Thụy",
+      "name_full": "Huyện Kiến Thụy",
+      "slug": "kien-thuy",
+      "division_type": "Huyện",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 19
+    },
+    {
+      "code": "HP-11",
+      "name": "Lê Chân",
+      "name_full": "Quận Lê Chân",
+      "slug": "le-chan",
+      "division_type": "Quận",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 15
+    },
+    {
+      "code": "HP-12",
+      "name": "Ngô Quyền",
+      "name_full": "Quận Ngô Quyền",
+      "slug": "ngo-quyen",
+      "division_type": "Quận",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 13
+    },
+    {
+      "code": "HP-13",
+      "name": "Thủy Nguyên",
+      "name_full": "Huyện Thủy Nguyên",
+      "slug": "thuy-nguyen",
+      "division_type": "Huyện",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 37
+    },
+    {
+      "code": "HP-14",
+      "name": "Tiên Lãng",
+      "name_full": "Huyện Tiên Lãng",
+      "slug": "tien-lang",
+      "division_type": "Huyện",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 23
+    },
+    {
+      "code": "HP-15",
+      "name": "Vĩnh Bảo",
+      "name_full": "Huyện Vĩnh Bảo",
+      "slug": "vinh-bao",
+      "division_type": "Huyện",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 30
+    },
+    {
+      "code": "HT-01",
+      "name": "Cẩm Xuyên",
+      "name_full": "Huyện Cẩm Xuyên",
+      "slug": "cam-xuyen",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 27
+    },
+    {
+      "code": "HT-02",
+      "name": "Can Lộc",
+      "name_full": "Huyện Can Lộc",
+      "slug": "can-loc",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 23
+    },
+    {
+      "code": "HT-03",
+      "name": "Đức Thọ",
+      "name_full": "Huyện Đức Thọ",
+      "slug": "duc-tho",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 28
+    },
+    {
+      "code": "HT-04",
+      "name": "Hà Tĩnh",
+      "name_full": "Thành phố Hà Tĩnh",
+      "slug": "ha-tinh",
+      "division_type": "Thành phố",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 16
+    },
+    {
+      "code": "HT-05",
+      "name": "Hồng Lĩnh",
+      "name_full": "Thị xã Hồng Lĩnh",
+      "slug": "hong-linh",
+      "division_type": "Thị xã",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 6
+    },
+    {
+      "code": "HT-06",
+      "name": "Hương Khê",
+      "name_full": "Huyện Hương Khê",
+      "slug": "huong-khe",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 22
+    },
+    {
+      "code": "HT-07",
+      "name": "Hương Sơn",
+      "name_full": "Huyện Hương Sơn",
+      "slug": "huong-son",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 32
+    },
+    {
+      "code": "HT-08",
+      "name": "Kỳ Anh",
+      "name_full": "Huyện Kỳ Anh",
+      "slug": "ky-anh",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 34
+    },
+    {
+      "code": "HT-09",
+      "name": "Lộc Hà",
+      "name_full": "Huyện Lộc Hà",
+      "slug": "loc-ha",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 13
+    },
+    {
+      "code": "HT-10",
+      "name": "Nghi Xuân",
+      "name_full": "Huyện Nghi Xuân",
+      "slug": "nghi-xuan",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 21
+    },
+    {
+      "code": "HT-11",
+      "name": "Thạch Hà",
+      "name_full": "Huyện Thạch Hà",
+      "slug": "thach-ha",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 31
+    },
+    {
+      "code": "HT-12",
+      "name": "Vũ Quang",
+      "name_full": "Huyện Vũ Quang",
+      "slug": "vu-quang",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 12
+    },
+    {
+      "code": "HY-01",
+      "name": "Ân Thi",
+      "name_full": "Huyện Ân Thi",
+      "slug": "an-thi",
+      "division_type": "Huyện",
+      "province_code": "HY",
+      "province_name": "Hưng Yên",
+      "ward_count": 21
+    },
+    {
+      "code": "HY-02",
+      "name": "Hưng Yên",
+      "name_full": "Thành phố Hưng Yên",
+      "slug": "hung-yen",
+      "division_type": "Thành phố",
+      "province_code": "HY",
+      "province_name": "Hưng Yên",
+      "ward_count": 17
+    },
+    {
+      "code": "HY-03",
+      "name": "Khoái Châu",
+      "name_full": "Huyện Khoái Châu",
+      "slug": "khoai-chau",
+      "division_type": "Huyện",
+      "province_code": "HY",
+      "province_name": "Hưng Yên",
+      "ward_count": 25
+    },
+    {
+      "code": "HY-04",
+      "name": "Kim Động",
+      "name_full": "Huyện Kim Động",
+      "slug": "kim-dong",
+      "division_type": "Huyện",
+      "province_code": "HY",
+      "province_name": "Hưng Yên",
+      "ward_count": 17
+    },
+    {
+      "code": "HY-05",
+      "name": "Mỹ Hào",
+      "name_full": "Huyện Mỹ Hào",
+      "slug": "my-hao",
+      "division_type": "Huyện",
+      "province_code": "HY",
+      "province_name": "Hưng Yên",
+      "ward_count": 13
+    },
+    {
+      "code": "HY-06",
+      "name": "Phù Cừ",
+      "name_full": "Huyện Phù Cừ",
+      "slug": "phu-cu",
+      "division_type": "Huyện",
+      "province_code": "HY",
+      "province_name": "Hưng Yên",
+      "ward_count": 14
+    },
+    {
+      "code": "HY-07",
+      "name": "Tiên Lữ",
+      "name_full": "Huyện Tiên Lữ",
+      "slug": "tien-lu",
+      "division_type": "Huyện",
+      "province_code": "HY",
+      "province_name": "Hưng Yên",
+      "ward_count": 15
+    },
+    {
+      "code": "HY-08",
+      "name": "Văn Giang",
+      "name_full": "Huyện Văn Giang",
+      "slug": "van-giang",
+      "division_type": "Huyện",
+      "province_code": "HY",
+      "province_name": "Hưng Yên",
+      "ward_count": 11
+    },
+    {
+      "code": "HY-09",
+      "name": "Văn Lâm",
+      "name_full": "Huyện Văn Lâm",
+      "slug": "van-lam",
+      "division_type": "Huyện",
+      "province_code": "HY",
+      "province_name": "Hưng Yên",
+      "ward_count": 11
+    },
+    {
+      "code": "HY-10",
+      "name": "Yên Mỹ",
+      "name_full": "Huyện Yên Mỹ",
+      "slug": "yen-my",
+      "division_type": "Huyện",
+      "province_code": "HY",
+      "province_name": "Hưng Yên",
+      "ward_count": 18
+    },
+    {
+      "code": "KG-01",
+      "name": "An Biên",
+      "name_full": "Huyện An Biên",
+      "slug": "an-bien",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 9
+    },
+    {
+      "code": "KG-02",
+      "name": "An Minh",
+      "name_full": "Huyện An Minh",
+      "slug": "an-minh",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 11
+    },
+    {
+      "code": "KG-03",
+      "name": "Châu Thành",
+      "name_full": "Huyện Châu Thành",
+      "slug": "chau-thanh",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 10
+    },
+    {
+      "code": "KG-04",
+      "name": "Giang Thành",
+      "name_full": "Huyện Giang Thành",
+      "slug": "giang-thanh",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 5
+    },
+    {
+      "code": "KG-05",
+      "name": "Giồng Riềng",
+      "name_full": "Huyện Giồng Riềng",
+      "slug": "giong-rieng",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 19
+    },
+    {
+      "code": "KG-06",
+      "name": "Gò Quao",
+      "name_full": "Huyện Gò Quao",
+      "slug": "go-quao",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 11
+    },
+    {
+      "code": "KG-07",
+      "name": "Hà Tiên",
+      "name_full": "Thị xã Hà Tiên",
+      "slug": "ha-tien",
+      "division_type": "Thị xã",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 7
+    },
+    {
+      "code": "KG-08",
+      "name": "Hòn Đất",
+      "name_full": "Huyện Hòn Đất",
+      "slug": "hon-dat",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 14
+    },
+    {
+      "code": "KG-09",
+      "name": "Kiên Hải",
+      "name_full": "Huyện Kiên Hải",
+      "slug": "kien-hai",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 4
+    },
+    {
+      "code": "KG-10",
+      "name": "Kiên Lương",
+      "name_full": "Huyện Kiên Lương",
+      "slug": "kien-luong",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 8
+    },
+    {
+      "code": "KG-11",
+      "name": "Phú Quốc",
+      "name_full": "Huyện Phú Quốc",
+      "slug": "phu-quoc",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 10
+    },
+    {
+      "code": "KG-12",
+      "name": "Rạch Giá",
+      "name_full": "Thành phố Rạch Giá",
+      "slug": "rach-gia",
+      "division_type": "Thành phố",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 12
+    },
+    {
+      "code": "KG-13",
+      "name": "Tân Hiệp",
+      "name_full": "Huyện Tân Hiệp",
+      "slug": "tan-hiep",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 11
+    },
+    {
+      "code": "KG-14",
+      "name": "U minh Thượng",
+      "name_full": "Huyện U minh Thượng",
+      "slug": "u-minh-thuong",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 6
+    },
+    {
+      "code": "KG-15",
+      "name": "Vĩnh Thuận",
+      "name_full": "Huyện Vĩnh Thuận",
+      "slug": "vinh-thuan",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 8
+    },
+    {
+      "code": "KH-01",
+      "name": "Cam Lâm",
+      "name_full": "Huyện Cam Lâm",
+      "slug": "cam-lam",
+      "division_type": "Huyện",
+      "province_code": "KH",
+      "province_name": "Khánh Hòa",
+      "ward_count": 14
+    },
+    {
+      "code": "KH-02",
+      "name": "Cam Ranh",
+      "name_full": "Thành phố Cam Ranh",
+      "slug": "cam-ranh",
+      "division_type": "Thành phố",
+      "province_code": "KH",
+      "province_name": "Khánh Hòa",
+      "ward_count": 15
+    },
+    {
+      "code": "KH-03",
+      "name": "Diên Khánh",
+      "name_full": "Huyện Diên Khánh",
+      "slug": "dien-khanh",
+      "division_type": "Huyện",
+      "province_code": "KH",
+      "province_name": "Khánh Hòa",
+      "ward_count": 19
+    },
+    {
+      "code": "KH-04",
+      "name": "Khánh Sơn",
+      "name_full": "Huyện Khánh Sơn",
+      "slug": "khanh-son",
+      "division_type": "Huyện",
+      "province_code": "KH",
+      "province_name": "Khánh Hòa",
+      "ward_count": 8
+    },
+    {
+      "code": "KH-05",
+      "name": "Khánh Vĩnh",
+      "name_full": "Huyện Khánh Vĩnh",
+      "slug": "khanh-vinh",
+      "division_type": "Huyện",
+      "province_code": "KH",
+      "province_name": "Khánh Hòa",
+      "ward_count": 14
+    },
+    {
+      "code": "KH-06",
+      "name": "Nha Trang",
+      "name_full": "Thành phố Nha Trang",
+      "slug": "nha-trang",
+      "division_type": "Thành phố",
+      "province_code": "KH",
+      "province_name": "Khánh Hòa",
+      "ward_count": 27
+    },
+    {
+      "code": "KH-07",
+      "name": "Ninh Hòa",
+      "name_full": "Thị xã Ninh Hòa",
+      "slug": "ninh-hoa",
+      "division_type": "Thị xã",
+      "province_code": "KH",
+      "province_name": "Khánh Hòa",
+      "ward_count": 28
+    },
+    {
+      "code": "KH-08",
+      "name": "Trường Sa",
+      "name_full": "Huyện Trường Sa",
+      "slug": "truong-sa",
+      "division_type": "Huyện",
+      "province_code": "KH",
+      "province_name": "Khánh Hòa",
+      "ward_count": 3
+    },
+    {
+      "code": "KH-09",
+      "name": "Vạn Ninh",
+      "name_full": "Huyện Vạn Ninh",
+      "slug": "van-ninh",
+      "division_type": "Huyện",
+      "province_code": "KH",
+      "province_name": "Khánh Hòa",
+      "ward_count": 13
+    },
+    {
+      "code": "KT-01",
+      "name": "Đăk Glei",
+      "name_full": "Huyện Đăk Glei",
+      "slug": "dak-glei",
+      "division_type": "Huyện",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 12
+    },
+    {
+      "code": "KT-02",
+      "name": "Đăk Hà",
+      "name_full": "Huyện Đăk Hà",
+      "slug": "dak-ha",
+      "division_type": "Huyện",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 11
+    },
+    {
+      "code": "KT-03",
+      "name": "Đăk Tô",
+      "name_full": "Huyện Đăk Tô",
+      "slug": "dak-to",
+      "division_type": "Huyện",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 9
+    },
+    {
+      "code": "KT-04",
+      "name": "Ia H'Drai",
+      "name_full": "Huyện Ia H'Drai",
+      "slug": "ia-h-drai",
+      "division_type": "Huyện",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 3
+    },
+    {
+      "code": "KT-05",
+      "name": "Kon Plông",
+      "name_full": "Huyện Kon Plông",
+      "slug": "kon-plong",
+      "division_type": "Huyện",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 9
+    },
+    {
+      "code": "KT-06",
+      "name": "Kon Rẫy",
+      "name_full": "Huyện Kon Rẫy",
+      "slug": "kon-ray",
+      "division_type": "Huyện",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 7
+    },
+    {
+      "code": "KT-07",
+      "name": "KonTum",
+      "name_full": "Thành phố KonTum",
+      "slug": "kontum",
+      "division_type": "Thành phố",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 21
+    },
+    {
+      "code": "KT-08",
+      "name": "Ngọc Hồi",
+      "name_full": "Huyện Ngọc Hồi",
+      "slug": "ngoc-hoi",
+      "division_type": "Huyện",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 8
+    },
+    {
+      "code": "KT-09",
+      "name": "Sa Thầy",
+      "name_full": "Huyện Sa Thầy",
+      "slug": "sa-thay",
+      "division_type": "Huyện",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 11
+    },
+    {
+      "code": "KT-10",
+      "name": "Tu Mơ Rông",
+      "name_full": "Huyện Tu Mơ Rông",
+      "slug": "tu-mo-rong",
+      "division_type": "Huyện",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 11
+    },
+    {
+      "code": "LA-01",
+      "name": "Bến Lức",
+      "name_full": "Huyện Bến Lức",
+      "slug": "ben-luc",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 15
+    },
+    {
+      "code": "LA-02",
+      "name": "Cần Đước",
+      "name_full": "Huyện Cần Đước",
+      "slug": "can-duoc",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 18
+    },
+    {
+      "code": "LA-03",
+      "name": "Cần Giuộc",
+      "name_full": "Huyện Cần Giuộc",
+      "slug": "can-giuoc",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 17
+    },
+    {
+      "code": "LA-04",
+      "name": "Châu Thành",
+      "name_full": "Huyện Châu Thành",
+      "slug": "chau-thanh",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 13
+    },
+    {
+      "code": "LA-05",
+      "name": "Đức Hòa",
+      "name_full": "Huyện Đức Hòa",
+      "slug": "duc-hoa",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 20
+    },
+    {
+      "code": "LA-06",
+      "name": "Đức Huệ",
+      "name_full": "Huyện Đức Huệ",
+      "slug": "duc-hue",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 11
+    },
+    {
+      "code": "LA-07",
+      "name": "Kiến Tường",
+      "name_full": "Thị xã Kiến Tường",
+      "slug": "kien-tuong",
+      "division_type": "Thị xã",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 8
+    },
+    {
+      "code": "LA-08",
+      "name": "Mộc Hóa",
+      "name_full": "Huyện Mộc Hóa",
+      "slug": "moc-hoa",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 7
+    },
+    {
+      "code": "LA-09",
+      "name": "Tân An",
+      "name_full": "Thành phố Tân An",
+      "slug": "tan-an",
+      "division_type": "Thành phố",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 14
+    },
+    {
+      "code": "LA-10",
+      "name": "Tân Hưng",
+      "name_full": "Huyện Tân Hưng",
+      "slug": "tan-hung",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 13
+    },
+    {
+      "code": "LA-11",
+      "name": "Tân Thạnh",
+      "name_full": "Huyện Tân Thạnh",
+      "slug": "tan-thanh",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 13
+    },
+    {
+      "code": "LA-12",
+      "name": "Tân Trụ",
+      "name_full": "Huyện Tân Trụ",
+      "slug": "tan-tru",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 11
+    },
+    {
+      "code": "LA-13",
+      "name": "Thạnh Hóa",
+      "name_full": "Huyện Thạnh Hóa",
+      "slug": "thanh-hoa",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 11
+    },
+    {
+      "code": "LA-14",
+      "name": "Thủ Thừa",
+      "name_full": "Huyện Thủ Thừa",
+      "slug": "thu-thua",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 13
+    },
+    {
+      "code": "LA-15",
+      "name": "Vĩnh Hưng",
+      "name_full": "Huyện Vĩnh Hưng",
+      "slug": "vinh-hung",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 10
+    },
+    {
+      "code": "LCA-01",
+      "name": "Bắc Hà",
+      "name_full": "Huyện Bắc Hà",
+      "slug": "bac-ha",
+      "division_type": "Huyện",
+      "province_code": "LCA",
+      "province_name": "Lào Cai",
+      "ward_count": 21
+    },
+    {
+      "code": "LCA-02",
+      "name": "Bảo Thắng",
+      "name_full": "Huyện Bảo Thắng",
+      "slug": "bao-thang",
+      "division_type": "Huyện",
+      "province_code": "LCA",
+      "province_name": "Lào Cai",
+      "ward_count": 15
+    },
+    {
+      "code": "LCA-03",
+      "name": "Bảo Yên",
+      "name_full": "Huyện Bảo Yên",
+      "slug": "bao-yen",
+      "division_type": "Huyện",
+      "province_code": "LCA",
+      "province_name": "Lào Cai",
+      "ward_count": 18
+    },
+    {
+      "code": "LCA-04",
+      "name": "Bát Xát",
+      "name_full": "Huyện Bát Xát",
+      "slug": "bat-xat",
+      "division_type": "Huyện",
+      "province_code": "LCA",
+      "province_name": "Lào Cai",
+      "ward_count": 23
+    },
+    {
+      "code": "LCA-05",
+      "name": "Lào Cai",
+      "name_full": "Thành phố Lào Cai",
+      "slug": "lao-cai",
+      "division_type": "Thành phố",
+      "province_code": "LCA",
+      "province_name": "Lào Cai",
+      "ward_count": 18
+    },
+    {
+      "code": "LCA-06",
+      "name": "Mường Khương",
+      "name_full": "Huyện Mường Khương",
+      "slug": "muong-khuong",
+      "division_type": "Huyện",
+      "province_code": "LCA",
+      "province_name": "Lào Cai",
+      "ward_count": 16
+    },
+    {
+      "code": "LCA-07",
+      "name": "Sa Pa",
+      "name_full": "Huyện Sa Pa",
+      "slug": "sa-pa",
+      "division_type": "Huyện",
+      "province_code": "LCA",
+      "province_name": "Lào Cai",
+      "ward_count": 18
+    },
+    {
+      "code": "LCA-08",
+      "name": "Văn Bàn",
+      "name_full": "Huyện Văn Bàn",
+      "slug": "van-ban",
+      "division_type": "Huyện",
+      "province_code": "LCA",
+      "province_name": "Lào Cai",
+      "ward_count": 23
+    },
+    {
+      "code": "LCA-09",
+      "name": "Xi Ma Cai",
+      "name_full": "Huyện Xi Ma Cai",
+      "slug": "xi-ma-cai",
+      "division_type": "Huyện",
+      "province_code": "LCA",
+      "province_name": "Lào Cai",
+      "ward_count": 13
+    },
+    {
+      "code": "LCH-01",
+      "name": "Lai Châu",
+      "name_full": "Thị xã Lai Châu",
+      "slug": "lai-chau",
+      "division_type": "Thị xã",
+      "province_code": "LCH",
+      "province_name": "Lai Châu",
+      "ward_count": 7
+    },
+    {
+      "code": "LCH-02",
+      "name": "Mường Tè",
+      "name_full": "Huyện Mường Tè",
+      "slug": "muong-te",
+      "division_type": "Huyện",
+      "province_code": "LCH",
+      "province_name": "Lai Châu",
+      "ward_count": 14
+    },
+    {
+      "code": "LCH-03",
+      "name": "Nậm Nhùn",
+      "name_full": "Huyện Nậm Nhùn",
+      "slug": "nam-nhun",
+      "division_type": "Huyện",
+      "province_code": "LCH",
+      "province_name": "Lai Châu",
+      "ward_count": 11
+    },
+    {
+      "code": "LCH-04",
+      "name": "Phong Thổ",
+      "name_full": "Huyện Phong Thổ",
+      "slug": "phong-tho",
+      "division_type": "Huyện",
+      "province_code": "LCH",
+      "province_name": "Lai Châu",
+      "ward_count": 18
+    },
+    {
+      "code": "LCH-05",
+      "name": "Sìn Hồ",
+      "name_full": "Huyện Sìn Hồ",
+      "slug": "sin-ho",
+      "division_type": "Huyện",
+      "province_code": "LCH",
+      "province_name": "Lai Châu",
+      "ward_count": 23
+    },
+    {
+      "code": "LCH-06",
+      "name": "Tam Đường",
+      "name_full": "Huyện Tam Đường",
+      "slug": "tam-duong",
+      "division_type": "Huyện",
+      "province_code": "LCH",
+      "province_name": "Lai Châu",
+      "ward_count": 14
+    },
+    {
+      "code": "LCH-07",
+      "name": "Tân Uyên",
+      "name_full": "Huyện Tân Uyên",
+      "slug": "tan-uyen",
+      "division_type": "Huyện",
+      "province_code": "LCH",
+      "province_name": "Lai Châu",
+      "ward_count": 10
+    },
+    {
+      "code": "LCH-08",
+      "name": "Than Uyên",
+      "name_full": "Huyện Than Uyên",
+      "slug": "than-uyen",
+      "division_type": "Huyện",
+      "province_code": "LCH",
+      "province_name": "Lai Châu",
+      "ward_count": 12
+    },
+    {
+      "code": "LDD-01",
+      "name": "Bảo Lâm",
+      "name_full": "Huyện Bảo Lâm",
+      "slug": "bao-lam",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 15
+    },
+    {
+      "code": "LDD-02",
+      "name": "Bảo Lộc",
+      "name_full": "Thành phố Bảo Lộc",
+      "slug": "bao-loc",
+      "division_type": "Thành phố",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 11
+    },
+    {
+      "code": "LDD-03",
+      "name": "Cát Tiên",
+      "name_full": "Huyện Cát Tiên",
+      "slug": "cat-tien",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 12
+    },
+    {
+      "code": "LDD-04",
+      "name": "Đạ Huoai",
+      "name_full": "Huyện Đạ Huoai",
+      "slug": "da-huoai",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 10
+    },
+    {
+      "code": "LDD-05",
+      "name": "Đà Lạt",
+      "name_full": "Thành phố Đà Lạt",
+      "slug": "da-lat",
+      "division_type": "Thành phố",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 16
+    },
+    {
+      "code": "LDD-06",
+      "name": "Đạ Tẻh",
+      "name_full": "Huyện Đạ Tẻh",
+      "slug": "da-teh",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 11
+    },
+    {
+      "code": "LDD-07",
+      "name": "Đam Rông",
+      "name_full": "Huyện Đam Rông",
+      "slug": "dam-rong",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 8
+    },
+    {
+      "code": "LDD-08",
+      "name": "Di Linh",
+      "name_full": "Huyện Di Linh",
+      "slug": "di-linh",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 19
+    },
+    {
+      "code": "LDD-09",
+      "name": "Đơn Dương",
+      "name_full": "Huyện Đơn Dương",
+      "slug": "don-duong",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 10
+    },
+    {
+      "code": "LDD-10",
+      "name": "Đức Trọng",
+      "name_full": "Huyện Đức Trọng",
+      "slug": "duc-trong",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 15
+    },
+    {
+      "code": "LDD-11",
+      "name": "Lạc Dương",
+      "name_full": "Huyện Lạc Dương",
+      "slug": "lac-duong",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 6
+    },
+    {
+      "code": "LDD-12",
+      "name": "Lâm Hà",
+      "name_full": "Huyện Lâm Hà",
+      "slug": "lam-ha",
+      "division_type": "Huyện",
+      "province_code": "LDD",
+      "province_name": "Lâm Đồng",
+      "ward_count": 16
+    },
+    {
+      "code": "LS-01",
+      "name": "Bắc Sơn",
+      "name_full": "Huyện Bắc Sơn",
+      "slug": "bac-son",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 20
+    },
+    {
+      "code": "LS-02",
+      "name": "Bình Gia",
+      "name_full": "Huyện Bình Gia",
+      "slug": "binh-gia",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 20
+    },
+    {
+      "code": "LS-03",
+      "name": "Cao Lộc",
+      "name_full": "Huyện Cao Lộc",
+      "slug": "cao-loc",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 23
+    },
+    {
+      "code": "LS-04",
+      "name": "Chi Lăng",
+      "name_full": "Huyện Chi Lăng",
+      "slug": "chi-lang",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 22
+    },
+    {
+      "code": "LS-05",
+      "name": "Đình Lập",
+      "name_full": "Huyện Đình Lập",
+      "slug": "dinh-lap",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 12
+    },
+    {
+      "code": "LS-06",
+      "name": "Hữu Lũng",
+      "name_full": "Huyện Hữu Lũng",
+      "slug": "huu-lung",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 26
+    },
+    {
+      "code": "LS-07",
+      "name": "Lạng Sơn",
+      "name_full": "Thành phố Lạng Sơn",
+      "slug": "lang-son",
+      "division_type": "Thành phố",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 11
+    },
+    {
+      "code": "LS-08",
+      "name": "Lộc Bình",
+      "name_full": "Huyện Lộc Bình",
+      "slug": "loc-binh",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 29
+    },
+    {
+      "code": "LS-09",
+      "name": "Tràng Định",
+      "name_full": "Huyện Tràng Định",
+      "slug": "trang-dinh",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 23
+    },
+    {
+      "code": "LS-10",
+      "name": "Văn Lãng",
+      "name_full": "Huyện Văn Lãng",
+      "slug": "van-lang",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 20
+    },
+    {
+      "code": "LS-11",
+      "name": "Văn Quan",
+      "name_full": "Huyện Văn Quan",
+      "slug": "van-quan",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 27
+    },
+    {
+      "code": "NA-01",
+      "name": "Anh Sơn",
+      "name_full": "Huyện Anh Sơn",
+      "slug": "anh-son",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 21
+    },
+    {
+      "code": "NA-02",
+      "name": "Con Cuông",
+      "name_full": "Huyện Con Cuông",
+      "slug": "con-cuong",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 13
+    },
+    {
+      "code": "NA-03",
+      "name": "Cửa Lò",
+      "name_full": "Thị xã Cửa Lò",
+      "slug": "cua-lo",
+      "division_type": "Thị xã",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 7
+    },
+    {
+      "code": "NA-04",
+      "name": "Diễn Châu",
+      "name_full": "Huyện Diễn Châu",
+      "slug": "dien-chau",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 39
+    },
+    {
+      "code": "NA-05",
+      "name": "Đô Lương",
+      "name_full": "Huyện Đô Lương",
+      "slug": "do-luong",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 33
+    },
+    {
+      "code": "NA-06",
+      "name": "Hoàng Mai",
+      "name_full": "Thị xã Hoàng Mai",
+      "slug": "hoang-mai",
+      "division_type": "Thị xã",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 10
+    },
+    {
+      "code": "NA-07",
+      "name": "Hưng Nguyên",
+      "name_full": "Huyện Hưng Nguyên",
+      "slug": "hung-nguyen",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 23
+    },
+    {
+      "code": "NA-08",
+      "name": "Kỳ Sơn",
+      "name_full": "Huyện Kỳ Sơn",
+      "slug": "ky-son",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 21
+    },
+    {
+      "code": "NA-09",
+      "name": "Nam Đàn",
+      "name_full": "Huyện Nam Đàn",
+      "slug": "nam-dan",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 24
+    },
+    {
+      "code": "NA-10",
+      "name": "Nghi Lộc",
+      "name_full": "Huyện Nghi Lộc",
+      "slug": "nghi-loc",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 31
+    },
+    {
+      "code": "NA-11",
+      "name": "Nghĩa Đàn",
+      "name_full": "Huyện Nghĩa Đàn",
+      "slug": "nghia-dan",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 25
+    },
+    {
+      "code": "NA-12",
+      "name": "Quế Phong",
+      "name_full": "Huyện Quế Phong",
+      "slug": "que-phong",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 14
+    },
+    {
+      "code": "NA-13",
+      "name": "Quỳ Châu",
+      "name_full": "Huyện Quỳ Châu",
+      "slug": "quy-chau",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 12
+    },
+    {
+      "code": "NA-14",
+      "name": "Quỳ Hợp",
+      "name_full": "Huyện Quỳ Hợp",
+      "slug": "quy-hop",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 21
+    },
+    {
+      "code": "NA-15",
+      "name": "Quỳnh Lưu",
+      "name_full": "Huyện Quỳnh Lưu",
+      "slug": "quynh-luu",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 33
+    },
+    {
+      "code": "NA-16",
+      "name": "Tân Kỳ",
+      "name_full": "Huyện Tân Kỳ",
+      "slug": "tan-ky",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 22
+    },
+    {
+      "code": "NA-17",
+      "name": "Thái Hòa",
+      "name_full": "Thị xã Thái Hòa",
+      "slug": "thai-hoa",
+      "division_type": "Thị xã",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 10
+    },
+    {
+      "code": "NA-18",
+      "name": "Thanh Chương",
+      "name_full": "Huyện Thanh Chương",
+      "slug": "thanh-chuong",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 41
+    },
+    {
+      "code": "NA-19",
+      "name": "Tương Dương",
+      "name_full": "Huyện Tương Dương",
+      "slug": "tuong-duong",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 18
+    },
+    {
+      "code": "NA-20",
+      "name": "Vinh",
+      "name_full": "Thành phố Vinh",
+      "slug": "vinh",
+      "division_type": "Thành phố",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 27
+    },
+    {
+      "code": "NA-21",
+      "name": "Yên Thành",
+      "name_full": "Huyện Yên Thành",
+      "slug": "yen-thanh",
+      "division_type": "Huyện",
+      "province_code": "NA",
+      "province_name": "Nghệ An",
+      "ward_count": 40
+    },
+    {
+      "code": "NB-01",
+      "name": "Gia Viễn",
+      "name_full": "Huyện Gia Viễn",
+      "slug": "gia-vien",
+      "division_type": "Huyện",
+      "province_code": "NB",
+      "province_name": "Ninh Bình",
+      "ward_count": 21
+    },
+    {
+      "code": "NB-02",
+      "name": "Hoa Lư",
+      "name_full": "Huyện Hoa Lư",
+      "slug": "hoa-lu",
+      "division_type": "Huyện",
+      "province_code": "NB",
+      "province_name": "Ninh Bình",
+      "ward_count": 11
+    },
+    {
+      "code": "NB-03",
+      "name": "Kim Sơn",
+      "name_full": "Huyện Kim Sơn",
+      "slug": "kim-son",
+      "division_type": "Huyện",
+      "province_code": "NB",
+      "province_name": "Ninh Bình",
+      "ward_count": 27
+    },
+    {
+      "code": "NB-04",
+      "name": "Nho Quan",
+      "name_full": "Huyện Nho Quan",
+      "slug": "nho-quan",
+      "division_type": "Huyện",
+      "province_code": "NB",
+      "province_name": "Ninh Bình",
+      "ward_count": 27
+    },
+    {
+      "code": "NB-05",
+      "name": "Ninh Bình",
+      "name_full": "Thành phố Ninh Bình",
+      "slug": "ninh-binh",
+      "division_type": "Thành phố",
+      "province_code": "NB",
+      "province_name": "Ninh Bình",
+      "ward_count": 14
+    },
+    {
+      "code": "NB-06",
+      "name": "Tam Điệp",
+      "name_full": "Thị xã Tam Điệp",
+      "slug": "tam-diep",
+      "division_type": "Thị xã",
+      "province_code": "NB",
+      "province_name": "Ninh Bình",
+      "ward_count": 9
+    },
+    {
+      "code": "NB-07",
+      "name": "Yên Khánh",
+      "name_full": "Huyện Yên Khánh",
+      "slug": "yen-khanh",
+      "division_type": "Huyện",
+      "province_code": "NB",
+      "province_name": "Ninh Bình",
+      "ward_count": 19
+    },
+    {
+      "code": "NB-08",
+      "name": "Yên Mô",
+      "name_full": "Huyện Yên Mô",
+      "slug": "yen-mo",
+      "division_type": "Huyện",
+      "province_code": "NB",
+      "province_name": "Ninh Bình",
+      "ward_count": 18
+    },
+    {
+      "code": "NDD-01",
+      "name": "Giao Thủy",
+      "name_full": "Huyện Giao Thủy",
+      "slug": "giao-thuy",
+      "division_type": "Huyện",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 23
+    },
+    {
+      "code": "NDD-02",
+      "name": "Hải Hậu",
+      "name_full": "Huyện Hải Hậu",
+      "slug": "hai-hau",
+      "division_type": "Huyện",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 35
+    },
+    {
+      "code": "NDD-03",
+      "name": "Mỹ Lộc",
+      "name_full": "Huyện Mỹ Lộc",
+      "slug": "my-loc",
+      "division_type": "Huyện",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 11
+    },
+    {
+      "code": "NDD-04",
+      "name": "Nam Định",
+      "name_full": "Thành phố Nam Định",
+      "slug": "nam-dinh",
+      "division_type": "Thành phố",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 25
+    },
+    {
+      "code": "NDD-05",
+      "name": "Nam Trực",
+      "name_full": "Huyện Nam Trực",
+      "slug": "nam-truc",
+      "division_type": "Huyện",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 20
+    },
+    {
+      "code": "NDD-06",
+      "name": "Nghĩa Hưng",
+      "name_full": "Huyện Nghĩa Hưng",
+      "slug": "nghia-hung",
+      "division_type": "Huyện",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 25
+    },
+    {
+      "code": "NDD-07",
+      "name": "Trực Ninh",
+      "name_full": "Huyện Trực Ninh",
+      "slug": "truc-ninh",
+      "division_type": "Huyện",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 21
+    },
+    {
+      "code": "NDD-08",
+      "name": "Vụ Bản",
+      "name_full": "Huyện Vụ Bản",
+      "slug": "vu-ban",
+      "division_type": "Huyện",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 18
+    },
+    {
+      "code": "NDD-09",
+      "name": "Xuân Trường",
+      "name_full": "Huyện Xuân Trường",
+      "slug": "xuan-truong",
+      "division_type": "Huyện",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 20
+    },
+    {
+      "code": "NDD-10",
+      "name": "Ý Yên",
+      "name_full": "Huyện Ý Yên",
+      "slug": "y-yen",
+      "division_type": "Huyện",
+      "province_code": "NDD",
+      "province_name": "Nam Định",
+      "ward_count": 32
+    },
+    {
+      "code": "NT-01",
+      "name": "Bác Ái",
+      "name_full": "Huyện Bác Ái",
+      "slug": "bac-ai",
+      "division_type": "Huyện",
+      "province_code": "NT",
+      "province_name": "Ninh Thuận",
+      "ward_count": 9
+    },
+    {
+      "code": "NT-02",
+      "name": "Ninh Hải",
+      "name_full": "Huyện Ninh Hải",
+      "slug": "ninh-hai",
+      "division_type": "Huyện",
+      "province_code": "NT",
+      "province_name": "Ninh Thuận",
+      "ward_count": 9
+    },
+    {
+      "code": "NT-03",
+      "name": "Ninh Phước",
+      "name_full": "Huyện Ninh Phước",
+      "slug": "ninh-phuoc",
+      "division_type": "Huyện",
+      "province_code": "NT",
+      "province_name": "Ninh Thuận",
+      "ward_count": 9
+    },
+    {
+      "code": "NT-04",
+      "name": "Ninh Sơn",
+      "name_full": "Huyện Ninh Sơn",
+      "slug": "ninh-son",
+      "division_type": "Huyện",
+      "province_code": "NT",
+      "province_name": "Ninh Thuận",
+      "ward_count": 8
+    },
+    {
+      "code": "NT-05",
+      "name": "Phan Rang - Tháp Chàm",
+      "name_full": "Thành phố Phan Rang - Tháp Chàm",
+      "slug": "phan-rang-thap-cham",
+      "division_type": "Thành phố",
+      "province_code": "NT",
+      "province_name": "Ninh Thuận",
+      "ward_count": 16
+    },
+    {
+      "code": "NT-06",
+      "name": "Thuận Bắc",
+      "name_full": "Huyện Thuận Bắc",
+      "slug": "thuan-bac",
+      "division_type": "Huyện",
+      "province_code": "NT",
+      "province_name": "Ninh Thuận",
+      "ward_count": 6
+    },
+    {
+      "code": "NT-07",
+      "name": "Thuận Nam",
+      "name_full": "Huyện Thuận Nam",
+      "slug": "thuan-nam",
+      "division_type": "Huyện",
+      "province_code": "NT",
+      "province_name": "Ninh Thuận",
+      "ward_count": 8
+    },
+    {
+      "code": "PT-01",
+      "name": "Cẩm Khê",
+      "name_full": "Huyện Cẩm Khê",
+      "slug": "cam-khe",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 31
+    },
+    {
+      "code": "PT-02",
+      "name": "Đoan Hùng",
+      "name_full": "Huyện Đoan Hùng",
+      "slug": "doan-hung",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 28
+    },
+    {
+      "code": "PT-03",
+      "name": "Hạ Hòa",
+      "name_full": "Huyện Hạ Hòa",
+      "slug": "ha-hoa",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 33
+    },
+    {
+      "code": "PT-04",
+      "name": "Lâm Thao",
+      "name_full": "Huyện Lâm Thao",
+      "slug": "lam-thao",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 14
+    },
+    {
+      "code": "PT-05",
+      "name": "Phù Ninh",
+      "name_full": "Huyện Phù Ninh",
+      "slug": "phu-ninh",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 19
+    },
+    {
+      "code": "PT-06",
+      "name": "Phú Thọ",
+      "name_full": "Thị xã Phú Thọ",
+      "slug": "phu-tho",
+      "division_type": "Thị xã",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 10
+    },
+    {
+      "code": "PT-07",
+      "name": "Tam Nông",
+      "name_full": "Huyện Tam Nông",
+      "slug": "tam-nong",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 20
+    },
+    {
+      "code": "PT-08",
+      "name": "Tân Sơn",
+      "name_full": "Huyện Tân Sơn",
+      "slug": "tan-son",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 17
+    },
+    {
+      "code": "PT-09",
+      "name": "Thanh Ba",
+      "name_full": "Huyện Thanh Ba",
+      "slug": "thanh-ba",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 27
+    },
+    {
+      "code": "PT-10",
+      "name": "Thanh Sơn",
+      "name_full": "Huyện Thanh Sơn",
+      "slug": "thanh-son",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 23
+    },
+    {
+      "code": "PT-11",
+      "name": "Thanh Thủy",
+      "name_full": "Huyện Thanh Thủy",
+      "slug": "thanh-thuy",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 15
+    },
+    {
+      "code": "PT-12",
+      "name": "Việt Trì",
+      "name_full": "Thành phố Việt Trì",
+      "slug": "viet-tri",
+      "division_type": "Thành phố",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 23
+    },
+    {
+      "code": "PT-13",
+      "name": "Yên Lập",
+      "name_full": "Huyện Yên Lập",
+      "slug": "yen-lap",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 17
+    },
+    {
+      "code": "PY-01",
+      "name": "Đông Hòa",
+      "name_full": "Huyện Đông Hòa",
+      "slug": "dong-hoa",
+      "division_type": "Huyện",
+      "province_code": "PY",
+      "province_name": "Phú Yên",
+      "ward_count": 10
+    },
+    {
+      "code": "PY-02",
+      "name": "Đồng Xuân",
+      "name_full": "Huyện Đồng Xuân",
+      "slug": "dong-xuan",
+      "division_type": "Huyện",
+      "province_code": "PY",
+      "province_name": "Phú Yên",
+      "ward_count": 11
+    },
+    {
+      "code": "PY-03",
+      "name": "Phú Hòa",
+      "name_full": "Huyện Phú Hòa",
+      "slug": "phu-hoa",
+      "division_type": "Huyện",
+      "province_code": "PY",
+      "province_name": "Phú Yên",
+      "ward_count": 9
+    },
+    {
+      "code": "PY-04",
+      "name": "Sơn Hòa",
+      "name_full": "Huyện Sơn Hòa",
+      "slug": "son-hoa",
+      "division_type": "Huyện",
+      "province_code": "PY",
+      "province_name": "Phú Yên",
+      "ward_count": 14
+    },
+    {
+      "code": "PY-05",
+      "name": "Sông Cầu",
+      "name_full": "Thị xã Sông Cầu",
+      "slug": "song-cau",
+      "division_type": "Thị xã",
+      "province_code": "PY",
+      "province_name": "Phú Yên",
+      "ward_count": 14
+    },
+    {
+      "code": "PY-06",
+      "name": "Sông Hinh",
+      "name_full": "Huyện Sông Hinh",
+      "slug": "song-hinh",
+      "division_type": "Huyện",
+      "province_code": "PY",
+      "province_name": "Phú Yên",
+      "ward_count": 11
+    },
+    {
+      "code": "PY-07",
+      "name": "Tây Hòa",
+      "name_full": "Huyện Tây Hòa",
+      "slug": "tay-hoa",
+      "division_type": "Huyện",
+      "province_code": "PY",
+      "province_name": "Phú Yên",
+      "ward_count": 11
+    },
+    {
+      "code": "PY-08",
+      "name": "Tuy An",
+      "name_full": "Huyện Tuy An",
+      "slug": "tuy-an",
+      "division_type": "Huyện",
+      "province_code": "PY",
+      "province_name": "Phú Yên",
+      "ward_count": 16
+    },
+    {
+      "code": "PY-09",
+      "name": "Tuy Hòa",
+      "name_full": "Thành phố Tuy Hòa",
+      "slug": "tuy-hoa",
+      "division_type": "Thành phố",
+      "province_code": "PY",
+      "province_name": "Phú Yên",
+      "ward_count": 17
+    },
+    {
+      "code": "QB-01",
+      "name": "Ba Đồn",
+      "name_full": "Thị xã Ba Đồn",
+      "slug": "ba-don",
+      "division_type": "Thị xã",
+      "province_code": "QB",
+      "province_name": "Quảng Bình",
+      "ward_count": 5
+    },
+    {
+      "code": "QB-02",
+      "name": "Bố Trạch",
+      "name_full": "Huyện Bố Trạch",
+      "slug": "bo-trach",
+      "division_type": "Huyện",
+      "province_code": "QB",
+      "province_name": "Quảng Bình",
+      "ward_count": 30
+    },
+    {
+      "code": "QB-03",
+      "name": "Đồng Hới",
+      "name_full": "Thành phố Đồng Hới",
+      "slug": "dong-hoi",
+      "division_type": "Thành phố",
+      "province_code": "QB",
+      "province_name": "Quảng Bình",
+      "ward_count": 16
+    },
+    {
+      "code": "QB-04",
+      "name": "Lệ Thủy",
+      "name_full": "Huyện Lệ Thủy",
+      "slug": "le-thuy",
+      "division_type": "Huyện",
+      "province_code": "QB",
+      "province_name": "Quảng Bình",
+      "ward_count": 28
+    },
+    {
+      "code": "QB-05",
+      "name": "Minh Hóa",
+      "name_full": "Huyện Minh Hóa",
+      "slug": "minh-hoa",
+      "division_type": "Huyện",
+      "province_code": "QB",
+      "province_name": "Quảng Bình",
+      "ward_count": 16
+    },
+    {
+      "code": "QB-06",
+      "name": "Quảng Ninh",
+      "name_full": "Huyện Quảng Ninh",
+      "slug": "quang-ninh",
+      "division_type": "Huyện",
+      "province_code": "QB",
+      "province_name": "Quảng Bình",
+      "ward_count": 15
+    },
+    {
+      "code": "QB-07",
+      "name": "Quảng Trạch",
+      "name_full": "Huyện Quảng Trạch",
+      "slug": "quang-trach",
+      "division_type": "Huyện",
+      "province_code": "QB",
+      "province_name": "Quảng Bình",
+      "ward_count": 33
+    },
+    {
+      "code": "QB-08",
+      "name": "Tuyên Hóa",
+      "name_full": "Huyện Tuyên Hóa",
+      "slug": "tuyen-hoa",
+      "division_type": "Huyện",
+      "province_code": "QB",
+      "province_name": "Quảng Bình",
+      "ward_count": 20
+    },
+    {
+      "code": "QNA-01",
+      "name": "Bắc Trà My",
+      "name_full": "Huyện Bắc Trà My",
+      "slug": "bac-tra-my",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 13
+    },
+    {
+      "code": "QNA-02",
+      "name": "Đại Lộc",
+      "name_full": "Huyện Đại Lộc",
+      "slug": "dai-loc",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 18
+    },
+    {
+      "code": "QNA-03",
+      "name": "Điện Bàn",
+      "name_full": "Huyện Điện Bàn",
+      "slug": "dien-ban",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 20
+    },
+    {
+      "code": "QNA-04",
+      "name": "Đông Giang",
+      "name_full": "Huyện Đông Giang",
+      "slug": "dong-giang",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 11
+    },
+    {
+      "code": "QNA-05",
+      "name": "Duy Xuyên",
+      "name_full": "Huyện Duy Xuyên",
+      "slug": "duy-xuyen",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 15
+    },
+    {
+      "code": "QNA-06",
+      "name": "Hiệp Đức",
+      "name_full": "Huyện Hiệp Đức",
+      "slug": "hiep-duc",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 12
+    },
+    {
+      "code": "QNA-07",
+      "name": "Hội An",
+      "name_full": "Thành phố Hội An",
+      "slug": "hoi-an",
+      "division_type": "Thành phố",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 13
+    },
+    {
+      "code": "QNA-08",
+      "name": "Nam Giang",
+      "name_full": "Huyện Nam Giang",
+      "slug": "nam-giang",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 12
+    },
+    {
+      "code": "QNA-09",
+      "name": "Nam Trà My",
+      "name_full": "Huyện Nam Trà My",
+      "slug": "nam-tra-my",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 10
+    },
+    {
+      "code": "QNA-10",
+      "name": "Nông Sơn",
+      "name_full": "Huyện Nông Sơn",
+      "slug": "nong-son",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 7
+    },
+    {
+      "code": "QNA-11",
+      "name": "Núi Thành",
+      "name_full": "Huyện Núi Thành",
+      "slug": "nui-thanh",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 17
+    },
+    {
+      "code": "QNA-12",
+      "name": "Phú Ninh",
+      "name_full": "Huyện Phú Ninh",
+      "slug": "phu-ninh",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 11
+    },
+    {
+      "code": "QNA-13",
+      "name": "Phước Sơn",
+      "name_full": "Huyện Phước Sơn",
+      "slug": "phuoc-son",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 12
+    },
+    {
+      "code": "QNA-14",
+      "name": "Quế Sơn",
+      "name_full": "Huyện Quế Sơn",
+      "slug": "que-son",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 15
+    },
+    {
+      "code": "QNA-15",
+      "name": "Tam Kỳ",
+      "name_full": "Thành phố Tam Kỳ",
+      "slug": "tam-ky",
+      "division_type": "Thành phố",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 13
+    },
+    {
+      "code": "QNA-16",
+      "name": "Tây Giang",
+      "name_full": "Huyện Tây Giang",
+      "slug": "tay-giang",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 10
+    },
+    {
+      "code": "QNA-17",
+      "name": "Thăng Bình",
+      "name_full": "Huyện Thăng Bình",
+      "slug": "thang-binh",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 22
+    },
+    {
+      "code": "QNA-18",
+      "name": "Tiên Phước",
+      "name_full": "Huyện Tiên Phước",
+      "slug": "tien-phuoc",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 15
+    },
+    {
+      "code": "QNG-01",
+      "name": "Ba Tơ",
+      "name_full": "Huyện Ba Tơ",
+      "slug": "ba-to",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 20
+    },
+    {
+      "code": "QNG-02",
+      "name": "Bình Sơn",
+      "name_full": "Huyện Bình Sơn",
+      "slug": "binh-son",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 25
+    },
+    {
+      "code": "QNG-03",
+      "name": "Đức Phổ",
+      "name_full": "Huyện Đức Phổ",
+      "slug": "duc-pho",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 15
+    },
+    {
+      "code": "QNG-04",
+      "name": "Lý Sơn",
+      "name_full": "Huyện Lý Sơn",
+      "slug": "ly-son",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 3
+    },
+    {
+      "code": "QNG-05",
+      "name": "Minh Long",
+      "name_full": "Huyện Minh Long",
+      "slug": "minh-long",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 5
+    },
+    {
+      "code": "QNG-06",
+      "name": "Mộ Đức",
+      "name_full": "Huyện Mộ Đức",
+      "slug": "mo-duc",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 13
+    },
+    {
+      "code": "QNG-07",
+      "name": "Nghĩa Hành",
+      "name_full": "Huyện Nghĩa Hành",
+      "slug": "nghia-hanh",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 12
+    },
+    {
+      "code": "QNG-08",
+      "name": "Quảng Ngãi",
+      "name_full": "Thành phố Quảng Ngãi",
+      "slug": "quang-ngai",
+      "division_type": "Thành phố",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 17
+    },
+    {
+      "code": "QNG-09",
+      "name": "Sơn Hà",
+      "name_full": "Huyện Sơn Hà",
+      "slug": "son-ha",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 14
+    },
+    {
+      "code": "QNG-10",
+      "name": "Sơn Tây",
+      "name_full": "Huyện Sơn Tây",
+      "slug": "son-tay",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 9
+    },
+    {
+      "code": "QNG-11",
+      "name": "Sơn Tịnh",
+      "name_full": "Huyện Sơn Tịnh",
+      "slug": "son-tinh",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 19
+    },
+    {
+      "code": "QNG-12",
+      "name": "Tây Trà",
+      "name_full": "Huyện Tây Trà",
+      "slug": "tay-tra",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 9
+    },
+    {
+      "code": "QNG-13",
+      "name": "Trà Bồng",
+      "name_full": "Huyện Trà Bồng",
+      "slug": "tra-bong",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 10
+    },
+    {
+      "code": "QNG-14",
+      "name": "Tư Nghĩa",
+      "name_full": "Huyện Tư Nghĩa",
+      "slug": "tu-nghia",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 16
+    },
+    {
+      "code": "QNI-01",
+      "name": "Ba Chẽ",
+      "name_full": "Huyện Ba Chẽ",
+      "slug": "ba-che",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 8
+    },
+    {
+      "code": "QNI-02",
+      "name": "Bình Liêu",
+      "name_full": "Huyện Bình Liêu",
+      "slug": "binh-lieu",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 8
+    },
+    {
+      "code": "QNI-03",
+      "name": "Cẩm Phả",
+      "name_full": "Thành phố Cẩm Phả",
+      "slug": "cam-pha",
+      "division_type": "Thành phố",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 16
+    },
+    {
+      "code": "QNI-04",
+      "name": "Cô Tô",
+      "name_full": "Huyện Cô Tô",
+      "slug": "co-to",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 4
+    },
+    {
+      "code": "QNI-05",
+      "name": "Đầm Hà",
+      "name_full": "Huyện Đầm Hà",
+      "slug": "dam-ha",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 10
+    },
+    {
+      "code": "QNI-06",
+      "name": "Đông Triều",
+      "name_full": "Huyện Đông Triều",
+      "slug": "dong-trieu",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 21
+    },
+    {
+      "code": "QNI-07",
+      "name": "Hạ Long",
+      "name_full": "Thành phố Hạ Long",
+      "slug": "ha-long",
+      "division_type": "Thành phố",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 20
+    },
+    {
+      "code": "QNI-08",
+      "name": "Hải Hà",
+      "name_full": "Huyện Hải Hà",
+      "slug": "hai-ha",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 17
+    },
+    {
+      "code": "QNI-09",
+      "name": "Hoành Bồ",
+      "name_full": "Huyện Hoành Bồ",
+      "slug": "hoanh-bo",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 13
+    },
+    {
+      "code": "QNI-10",
+      "name": "Móng Cái",
+      "name_full": "Thành phố Móng Cái",
+      "slug": "mong-cai",
+      "division_type": "Thành phố",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 17
+    },
+    {
+      "code": "QNI-11",
+      "name": "Quảng Yên",
+      "name_full": "Huyện Quảng Yên",
+      "slug": "quang-yen",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 19
+    },
+    {
+      "code": "QNI-12",
+      "name": "Tiên Yên",
+      "name_full": "Huyện Tiên Yên",
+      "slug": "tien-yen",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 12
+    },
+    {
+      "code": "QNI-13",
+      "name": "Uông Bí",
+      "name_full": "Thị xã Uông Bí",
+      "slug": "uong-bi",
+      "division_type": "Thị xã",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 11
+    },
+    {
+      "code": "QNI-14",
+      "name": "Vân Đồn",
+      "name_full": "Huyện Vân Đồn",
+      "slug": "van-don",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 12
+    },
+    {
+      "code": "QT-01",
+      "name": "Cam Lộ",
+      "name_full": "Huyện Cam Lộ",
+      "slug": "cam-lo",
+      "division_type": "Huyện",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 9
+    },
+    {
+      "code": "QT-02",
+      "name": "Đa Krông",
+      "name_full": "Huyện Đa Krông",
+      "slug": "da-krong",
+      "division_type": "Huyện",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 14
+    },
+    {
+      "code": "QT-03",
+      "name": "Đảo Cồn cỏ",
+      "name_full": "Huyện Đảo Cồn cỏ",
+      "slug": "dao-con-co",
+      "division_type": "Huyện",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 0
+    },
+    {
+      "code": "QT-04",
+      "name": "Đông Hà",
+      "name_full": "Thành phố Đông Hà",
+      "slug": "dong-ha",
+      "division_type": "Thành phố",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 9
+    },
+    {
+      "code": "QT-05",
+      "name": "Gio Linh",
+      "name_full": "Huyện Gio Linh",
+      "slug": "gio-linh",
+      "division_type": "Huyện",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 21
+    },
+    {
+      "code": "QT-06",
+      "name": "Hải Lăng",
+      "name_full": "Huyện Hải Lăng",
+      "slug": "hai-lang",
+      "division_type": "Huyện",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 20
+    },
+    {
+      "code": "QT-07",
+      "name": "Hướng Hóa",
+      "name_full": "Huyện Hướng Hóa",
+      "slug": "huong-hoa",
+      "division_type": "Huyện",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 22
+    },
+    {
+      "code": "QT-08",
+      "name": "Quảng Trị",
+      "name_full": "Thị xã Quảng Trị",
+      "slug": "quang-tri",
+      "division_type": "Thị xã",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 5
+    },
+    {
+      "code": "QT-09",
+      "name": "Triệu Phong",
+      "name_full": "Huyện Triệu Phong",
+      "slug": "trieu-phong",
+      "division_type": "Huyện",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 19
+    },
+    {
+      "code": "QT-10",
+      "name": "Vĩnh Linh",
+      "name_full": "Huyện Vĩnh Linh",
+      "slug": "vinh-linh",
+      "division_type": "Huyện",
+      "province_code": "QT",
+      "province_name": "Quảng Trị",
+      "ward_count": 22
+    },
+    {
+      "code": "SG-01",
+      "name": "Bình Chánh",
+      "name_full": "Huyện Bình Chánh",
+      "slug": "binh-chanh",
+      "division_type": "Huyện",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 16
+    },
+    {
+      "code": "SG-02",
+      "name": "Bình Tân",
+      "name_full": "Quận Bình Tân",
+      "slug": "binh-tan",
+      "division_type": "Quận",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 10
+    },
+    {
+      "code": "SG-03",
+      "name": "Bình Thạnh",
+      "name_full": "Quận Bình Thạnh",
+      "slug": "binh-thanh",
+      "division_type": "Quận",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 20
+    },
+    {
+      "code": "SG-04",
+      "name": "Cần Giờ",
+      "name_full": "Huyện Cần Giờ",
+      "slug": "can-gio",
+      "division_type": "Huyện",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 7
+    },
+    {
+      "code": "SG-05",
+      "name": "Củ Chi",
+      "name_full": "Huyện Củ Chi",
+      "slug": "cu-chi",
+      "division_type": "Huyện",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 23
+    },
+    {
+      "code": "SG-06",
+      "name": "Gò Vấp",
+      "name_full": "Quận Gò Vấp",
+      "slug": "go-vap",
+      "division_type": "Quận",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 16
+    },
+    {
+      "code": "SG-07",
+      "name": "Hóc Môn",
+      "name_full": "Huyện Hóc Môn",
+      "slug": "hoc-mon",
+      "division_type": "Huyện",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 12
+    },
+    {
+      "code": "SG-08",
+      "name": "Nhà Bè",
+      "name_full": "Huyện Nhà Bè",
+      "slug": "nha-be",
+      "division_type": "Huyện",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 7
+    },
+    {
+      "code": "SG-09",
+      "name": "Phú Nhuận",
+      "name_full": "Quận Phú Nhuận",
+      "slug": "phu-nhuan",
+      "division_type": "Quận",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 17
+    },
+    {
+      "code": "SG-10",
+      "name": "Quận 1",
+      "name_full": "Quận 1",
+      "slug": "quan-1",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 10
+    },
+    {
+      "code": "SG-11",
+      "name": "Quận 10",
+      "name_full": "Quận 10",
+      "slug": "quan-10",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 15
+    },
+    {
+      "code": "SG-12",
+      "name": "Quận 11",
+      "name_full": "Quận 11",
+      "slug": "quan-11",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 16
+    },
+    {
+      "code": "SG-13",
+      "name": "Quận 12",
+      "name_full": "Quận 12",
+      "slug": "quan-12",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 11
+    },
+    {
+      "code": "SG-14",
+      "name": "Quận 2",
+      "name_full": "Quận 2",
+      "slug": "quan-2",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 11
+    },
+    {
+      "code": "SG-15",
+      "name": "Quận 3",
+      "name_full": "Quận 3",
+      "slug": "quan-3",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 14
+    },
+    {
+      "code": "SG-16",
+      "name": "Quận 4",
+      "name_full": "Quận 4",
+      "slug": "quan-4",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 15
+    },
+    {
+      "code": "SG-17",
+      "name": "Quận 5",
+      "name_full": "Quận 5",
+      "slug": "quan-5",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 15
+    },
+    {
+      "code": "SG-18",
+      "name": "Quận 6",
+      "name_full": "Quận 6",
+      "slug": "quan-6",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 14
+    },
+    {
+      "code": "SG-19",
+      "name": "Quận 7",
+      "name_full": "Quận 7",
+      "slug": "quan-7",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 10
+    },
+    {
+      "code": "SG-20",
+      "name": "Quận 8",
+      "name_full": "Quận 8",
+      "slug": "quan-8",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 16
+    },
+    {
+      "code": "SG-21",
+      "name": "Quận 9",
+      "name_full": "Quận 9",
+      "slug": "quan-9",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 13
+    },
+    {
+      "code": "SG-22",
+      "name": "Tân Bình",
+      "name_full": "Quận Tân Bình",
+      "slug": "tan-binh",
+      "division_type": "Quận",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 15
+    },
+    {
+      "code": "SG-23",
+      "name": "Tân Phú",
+      "name_full": "Quận Tân Phú",
+      "slug": "tan-phu",
+      "division_type": "Quận",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 11
+    },
+    {
+      "code": "SG-24",
+      "name": "Thủ Đức",
+      "name_full": "Quận Thủ Đức",
+      "slug": "thu-duc",
+      "division_type": "Quận",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 12
+    },
+    {
+      "code": "SL-01",
+      "name": "Bắc Yên",
+      "name_full": "Huyện Bắc Yên",
+      "slug": "bac-yen",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 16
+    },
+    {
+      "code": "SL-02",
+      "name": "Mai Sơn",
+      "name_full": "Huyện Mai Sơn",
+      "slug": "mai-son",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 22
+    },
+    {
+      "code": "SL-03",
+      "name": "Mộc Châu",
+      "name_full": "Huyện Mộc Châu",
+      "slug": "moc-chau",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 15
+    },
+    {
+      "code": "SL-04",
+      "name": "Mường La",
+      "name_full": "Huyện Mường La",
+      "slug": "muong-la",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 16
+    },
+    {
+      "code": "SL-05",
+      "name": "Phù Yên",
+      "name_full": "Huyện Phù Yên",
+      "slug": "phu-yen",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 27
+    },
+    {
+      "code": "SL-06",
+      "name": "Quỳnh Nhai",
+      "name_full": "Huyện Quỳnh Nhai",
+      "slug": "quynh-nhai",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 11
+    },
+    {
+      "code": "SL-07",
+      "name": "Sơn La",
+      "name_full": "Thành phố Sơn La",
+      "slug": "son-la",
+      "division_type": "Thành phố",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 12
+    },
+    {
+      "code": "SL-08",
+      "name": "Sông Mã",
+      "name_full": "Huyện Sông Mã",
+      "slug": "song-ma",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 19
+    },
+    {
+      "code": "SL-09",
+      "name": "Sốp Cộp",
+      "name_full": "Huyện Sốp Cộp",
+      "slug": "sop-cop",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 8
+    },
+    {
+      "code": "SL-10",
+      "name": "Thuận Châu",
+      "name_full": "Huyện Thuận Châu",
+      "slug": "thuan-chau",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 29
+    },
+    {
+      "code": "SL-11",
+      "name": "Vân Hồ",
+      "name_full": "Huyện Vân Hồ",
+      "slug": "van-ho",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 14
+    },
+    {
+      "code": "SL-12",
+      "name": "Yên Châu",
+      "name_full": "Huyện Yên Châu",
+      "slug": "yen-chau",
+      "division_type": "Huyện",
+      "province_code": "SL",
+      "province_name": "Sơn La",
+      "ward_count": 15
+    },
+    {
+      "code": "ST-01",
+      "name": "Châu Thành",
+      "name_full": "Huyện Châu Thành",
+      "slug": "chau-thanh",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 8
+    },
+    {
+      "code": "ST-02",
+      "name": "Cù Lao Dung",
+      "name_full": "Huyện Cù Lao Dung",
+      "slug": "cu-lao-dung",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 8
+    },
+    {
+      "code": "ST-03",
+      "name": "Kế Sách",
+      "name_full": "Huyện Kế Sách",
+      "slug": "ke-sach",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 13
+    },
+    {
+      "code": "ST-04",
+      "name": "Long Phú",
+      "name_full": "Huyện Long Phú",
+      "slug": "long-phu",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 11
+    },
+    {
+      "code": "ST-05",
+      "name": "Mỹ Tú",
+      "name_full": "Huyện Mỹ Tú",
+      "slug": "my-tu",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 9
+    },
+    {
+      "code": "ST-06",
+      "name": "Mỹ Xuyên",
+      "name_full": "Huyện Mỹ Xuyên",
+      "slug": "my-xuyen",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 12
+    },
+    {
+      "code": "ST-07",
+      "name": "Ngã Năm",
+      "name_full": "Huyện Ngã Năm",
+      "slug": "nga-nam",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 8
+    },
+    {
+      "code": "ST-08",
+      "name": "Sóc Trăng",
+      "name_full": "Thành phố Sóc Trăng",
+      "slug": "soc-trang",
+      "division_type": "Thành phố",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 11
+    },
+    {
+      "code": "ST-09",
+      "name": "Thạnh Trị",
+      "name_full": "Huyện Thạnh Trị",
+      "slug": "thanh-tri",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 10
+    },
+    {
+      "code": "ST-10",
+      "name": "Trần Đề",
+      "name_full": "Huyện Trần Đề",
+      "slug": "tran-de",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 12
+    },
+    {
+      "code": "ST-11",
+      "name": "Vĩnh Châu",
+      "name_full": "Huyện Vĩnh Châu",
+      "slug": "vinh-chau",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 10
+    },
+    {
+      "code": "TB-01",
+      "name": "Đông Hưng",
+      "name_full": "Huyện Đông Hưng",
+      "slug": "dong-hung",
+      "division_type": "Huyện",
+      "province_code": "TB",
+      "province_name": "Thái Bình",
+      "ward_count": 44
+    },
+    {
+      "code": "TB-02",
+      "name": "Hưng Hà",
+      "name_full": "Huyện Hưng Hà",
+      "slug": "hung-ha",
+      "division_type": "Huyện",
+      "province_code": "TB",
+      "province_name": "Thái Bình",
+      "ward_count": 35
+    },
+    {
+      "code": "TB-03",
+      "name": "Kiến Xương",
+      "name_full": "Huyện Kiến Xương",
+      "slug": "kien-xuong",
+      "division_type": "Huyện",
+      "province_code": "TB",
+      "province_name": "Thái Bình",
+      "ward_count": 38
+    },
+    {
+      "code": "TB-04",
+      "name": "Quỳnh Phụ",
+      "name_full": "Huyện Quỳnh Phụ",
+      "slug": "quynh-phu",
+      "division_type": "Huyện",
+      "province_code": "TB",
+      "province_name": "Thái Bình",
+      "ward_count": 38
+    },
+    {
+      "code": "TB-05",
+      "name": "Thái Bình",
+      "name_full": "Thành phố Thái Bình",
+      "slug": "thai-binh",
+      "division_type": "Thành phố",
+      "province_code": "TB",
+      "province_name": "Thái Bình",
+      "ward_count": 19
+    },
+    {
+      "code": "TB-06",
+      "name": "Thái Thuỵ",
+      "name_full": "Huyện Thái Thuỵ",
+      "slug": "thai-thuy",
+      "division_type": "Huyện",
+      "province_code": "TB",
+      "province_name": "Thái Bình",
+      "ward_count": 48
+    },
+    {
+      "code": "TB-07",
+      "name": "Tiền Hải",
+      "name_full": "Huyện Tiền Hải",
+      "slug": "tien-hai",
+      "division_type": "Huyện",
+      "province_code": "TB",
+      "province_name": "Thái Bình",
+      "ward_count": 35
+    },
+    {
+      "code": "TB-08",
+      "name": "Vũ Thư",
+      "name_full": "Huyện Vũ Thư",
+      "slug": "vu-thu",
+      "division_type": "Huyện",
+      "province_code": "TB",
+      "province_name": "Thái Bình",
+      "ward_count": 30
+    },
+    {
+      "code": "TG-01",
+      "name": "Cái Bè",
+      "name_full": "Huyện Cái Bè",
+      "slug": "cai-be",
+      "division_type": "Huyện",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 25
+    },
+    {
+      "code": "TG-02",
+      "name": "Cai Lậy",
+      "name_full": "Thị xã Cai Lậy",
+      "slug": "cai-lay",
+      "division_type": "Thị xã",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 17
+    },
+    {
+      "code": "TG-03",
+      "name": "Châu Thành",
+      "name_full": "Huyện Châu Thành",
+      "slug": "chau-thanh",
+      "division_type": "Huyện",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 23
+    },
+    {
+      "code": "TG-04",
+      "name": "Chợ Gạo",
+      "name_full": "Huyện Chợ Gạo",
+      "slug": "cho-gao",
+      "division_type": "Huyện",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 19
+    },
+    {
+      "code": "TG-05",
+      "name": "Gò Công",
+      "name_full": "Thị xã Gò Công",
+      "slug": "go-cong",
+      "division_type": "Thị xã",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 13
+    },
+    {
+      "code": "TG-06",
+      "name": "Gò Công Đông",
+      "name_full": "Huyện Gò Công Đông",
+      "slug": "go-cong-dong",
+      "division_type": "Huyện",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 13
+    },
+    {
+      "code": "TG-07",
+      "name": "Gò Công Tây",
+      "name_full": "Huyện Gò Công Tây",
+      "slug": "go-cong-tay",
+      "division_type": "Huyện",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 13
+    },
+    {
+      "code": "TG-08",
+      "name": "Huyện Cai Lậy",
+      "name_full": "Huyện Huyện Cai Lậy",
+      "slug": "huyen-cai-lay",
+      "division_type": "Huyện",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 21
+    },
+    {
+      "code": "TG-09",
+      "name": "Mỹ Tho",
+      "name_full": "Thành phố Mỹ Tho",
+      "slug": "my-tho",
+      "division_type": "Thành phố",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 17
+    },
+    {
+      "code": "TG-10",
+      "name": "Tân Phú Đông",
+      "name_full": "Huyện Tân Phú Đông",
+      "slug": "tan-phu-dong",
+      "division_type": "Huyện",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 6
+    },
+    {
+      "code": "TG-11",
+      "name": "Tân Phước",
+      "name_full": "Huyện Tân Phước",
+      "slug": "tan-phuoc",
+      "division_type": "Huyện",
+      "province_code": "TG",
+      "province_name": "Tiền Giang",
+      "ward_count": 13
+    },
+    {
+      "code": "TH-01",
+      "name": "Bá Thước",
+      "name_full": "Huyện Bá Thước",
+      "slug": "ba-thuoc",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 23
+    },
+    {
+      "code": "TH-02",
+      "name": "Bỉm Sơn",
+      "name_full": "Thị xã Bỉm Sơn",
+      "slug": "bim-son",
+      "division_type": "Thị xã",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 8
+    },
+    {
+      "code": "TH-03",
+      "name": "Cẩm Thủy",
+      "name_full": "Huyện Cẩm Thủy",
+      "slug": "cam-thuy",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 20
+    },
+    {
+      "code": "TH-04",
+      "name": "Đông Sơn",
+      "name_full": "Huyện Đông Sơn",
+      "slug": "dong-son",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 16
+    },
+    {
+      "code": "TH-05",
+      "name": "Hà Trung",
+      "name_full": "Huyện Hà Trung",
+      "slug": "ha-trung",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 25
+    },
+    {
+      "code": "TH-06",
+      "name": "Hậu Lộc",
+      "name_full": "Huyện Hậu Lộc",
+      "slug": "hau-loc",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 27
+    },
+    {
+      "code": "TH-07",
+      "name": "Hoằng Hóa",
+      "name_full": "Huyện Hoằng Hóa",
+      "slug": "hoang-hoa",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 43
+    },
+    {
+      "code": "TH-08",
+      "name": "Lang Chánh",
+      "name_full": "Huyện Lang Chánh",
+      "slug": "lang-chanh",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 11
+    },
+    {
+      "code": "TH-09",
+      "name": "Mường Lát",
+      "name_full": "Huyện Mường Lát",
+      "slug": "muong-lat",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 9
+    },
+    {
+      "code": "TH-10",
+      "name": "Nga Sơn",
+      "name_full": "Huyện Nga Sơn",
+      "slug": "nga-son",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 27
+    },
+    {
+      "code": "TH-11",
+      "name": "Ngọc Lặc",
+      "name_full": "Huyện Ngọc Lặc",
+      "slug": "ngoc-lac",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 22
+    },
+    {
+      "code": "TH-12",
+      "name": "Như Thanh",
+      "name_full": "Huyện Như Thanh",
+      "slug": "nhu-thanh",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 17
+    },
+    {
+      "code": "TH-13",
+      "name": "Như Xuân",
+      "name_full": "Huyện Như Xuân",
+      "slug": "nhu-xuan",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 18
+    },
+    {
+      "code": "TH-14",
+      "name": "Nông Cống",
+      "name_full": "Huyện Nông Cống",
+      "slug": "nong-cong",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 33
+    },
+    {
+      "code": "TH-15",
+      "name": "Quan Hóa",
+      "name_full": "Huyện Quan Hóa",
+      "slug": "quan-hoa",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 18
+    },
+    {
+      "code": "TH-16",
+      "name": "Quan Sơn",
+      "name_full": "Huyện Quan Sơn",
+      "slug": "quan-son",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 13
+    },
+    {
+      "code": "TH-17",
+      "name": "Quảng Xương",
+      "name_full": "Huyện Quảng Xương",
+      "slug": "quang-xuong",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 30
+    },
+    {
+      "code": "TH-18",
+      "name": "Sầm Sơn",
+      "name_full": "Thị xã Sầm Sơn",
+      "slug": "sam-son",
+      "division_type": "Thị xã",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 11
+    },
+    {
+      "code": "TH-19",
+      "name": "Thạch Thành",
+      "name_full": "Huyện Thạch Thành",
+      "slug": "thach-thanh",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 28
+    },
+    {
+      "code": "TH-20",
+      "name": "Thanh Hóa",
+      "name_full": "Thành phố Thanh Hóa",
+      "slug": "thanh-hoa",
+      "division_type": "Thành phố",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 38
+    },
+    {
+      "code": "TH-21",
+      "name": "Thiệu Hóa",
+      "name_full": "Huyện Thiệu Hóa",
+      "slug": "thieu-hoa",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 28
+    },
+    {
+      "code": "TH-22",
+      "name": "Thọ Xuân",
+      "name_full": "Huyện Thọ Xuân",
+      "slug": "tho-xuan",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 41
+    },
+    {
+      "code": "TH-23",
+      "name": "Thường Xuân",
+      "name_full": "Huyện Thường Xuân",
+      "slug": "thuong-xuan",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 17
+    },
+    {
+      "code": "TH-24",
+      "name": "Tĩnh Gia",
+      "name_full": "Huyện Tĩnh Gia",
+      "slug": "tinh-gia",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 34
+    },
+    {
+      "code": "TH-25",
+      "name": "Triệu Sơn",
+      "name_full": "Huyện Triệu Sơn",
+      "slug": "trieu-son",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 36
+    },
+    {
+      "code": "TH-26",
+      "name": "Vĩnh Lộc",
+      "name_full": "Huyện Vĩnh Lộc",
+      "slug": "vinh-loc",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 16
+    },
+    {
+      "code": "TH-27",
+      "name": "Yên Định",
+      "name_full": "Huyện Yên Định",
+      "slug": "yen-dinh",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 30
+    },
+    {
+      "code": "TN-01",
+      "name": "Đại Từ",
+      "name_full": "Huyện Đại Từ",
+      "slug": "dai-tu",
+      "division_type": "Huyện",
+      "province_code": "TN",
+      "province_name": "Thái Nguyên",
+      "ward_count": 31
+    },
+    {
+      "code": "TN-02",
+      "name": "Định Hóa",
+      "name_full": "Huyện Định Hóa",
+      "slug": "dinh-hoa",
+      "division_type": "Huyện",
+      "province_code": "TN",
+      "province_name": "Thái Nguyên",
+      "ward_count": 24
+    },
+    {
+      "code": "TN-03",
+      "name": "Đồng Hỷ",
+      "name_full": "Huyện Đồng Hỷ",
+      "slug": "dong-hy",
+      "division_type": "Huyện",
+      "province_code": "TN",
+      "province_name": "Thái Nguyên",
+      "ward_count": 18
+    },
+    {
+      "code": "TN-04",
+      "name": "Phổ Yên",
+      "name_full": "Huyện Phổ Yên",
+      "slug": "pho-yen",
+      "division_type": "Huyện",
+      "province_code": "TN",
+      "province_name": "Thái Nguyên",
+      "ward_count": 18
+    },
+    {
+      "code": "TN-05",
+      "name": "Phú Bình",
+      "name_full": "Huyện Phú Bình",
+      "slug": "phu-binh",
+      "division_type": "Huyện",
+      "province_code": "TN",
+      "province_name": "Thái Nguyên",
+      "ward_count": 21
+    },
+    {
+      "code": "TN-06",
+      "name": "Phú Lương",
+      "name_full": "Huyện Phú Lương",
+      "slug": "phu-luong",
+      "division_type": "Huyện",
+      "province_code": "TN",
+      "province_name": "Thái Nguyên",
+      "ward_count": 16
+    },
+    {
+      "code": "TN-07",
+      "name": "Sông Công",
+      "name_full": "Thị xã Sông Công",
+      "slug": "song-cong",
+      "division_type": "Thị xã",
+      "province_code": "TN",
+      "province_name": "Thái Nguyên",
+      "ward_count": 10
+    },
+    {
+      "code": "TN-08",
+      "name": "Thái Nguyên",
+      "name_full": "Thành phố Thái Nguyên",
+      "slug": "thai-nguyen",
+      "division_type": "Thành phố",
+      "province_code": "TN",
+      "province_name": "Thái Nguyên",
+      "ward_count": 29
+    },
+    {
+      "code": "TN-09",
+      "name": "Võ Nhai",
+      "name_full": "Huyện Võ Nhai",
+      "slug": "vo-nhai",
+      "division_type": "Huyện",
+      "province_code": "TN",
+      "province_name": "Thái Nguyên",
+      "ward_count": 15
+    },
+    {
+      "code": "TNI-01",
+      "name": "Bến Cầu",
+      "name_full": "Huyện Bến Cầu",
+      "slug": "ben-cau",
+      "division_type": "Huyện",
+      "province_code": "TNI",
+      "province_name": "Tây Ninh",
+      "ward_count": 9
+    },
+    {
+      "code": "TNI-02",
+      "name": "Châu Thành",
+      "name_full": "Huyện Châu Thành",
+      "slug": "chau-thanh",
+      "division_type": "Huyện",
+      "province_code": "TNI",
+      "province_name": "Tây Ninh",
+      "ward_count": 15
+    },
+    {
+      "code": "TNI-03",
+      "name": "Dương Minh Châu",
+      "name_full": "Huyện Dương Minh Châu",
+      "slug": "duong-minh-chau",
+      "division_type": "Huyện",
+      "province_code": "TNI",
+      "province_name": "Tây Ninh",
+      "ward_count": 11
+    },
+    {
+      "code": "TNI-04",
+      "name": "Gò Dầu",
+      "name_full": "Huyện Gò Dầu",
+      "slug": "go-dau",
+      "division_type": "Huyện",
+      "province_code": "TNI",
+      "province_name": "Tây Ninh",
+      "ward_count": 9
+    },
+    {
+      "code": "TNI-05",
+      "name": "Hòa Thành",
+      "name_full": "Huyện Hòa Thành",
+      "slug": "hoa-thanh",
+      "division_type": "Huyện",
+      "province_code": "TNI",
+      "province_name": "Tây Ninh",
+      "ward_count": 8
+    },
+    {
+      "code": "TNI-06",
+      "name": "Tân Biên",
+      "name_full": "Huyện Tân Biên",
+      "slug": "tan-bien",
+      "division_type": "Huyện",
+      "province_code": "TNI",
+      "province_name": "Tây Ninh",
+      "ward_count": 10
+    },
+    {
+      "code": "TNI-07",
+      "name": "Tân Châu",
+      "name_full": "Huyện Tân Châu",
+      "slug": "tan-chau",
+      "division_type": "Huyện",
+      "province_code": "TNI",
+      "province_name": "Tây Ninh",
+      "ward_count": 12
+    },
+    {
+      "code": "TNI-08",
+      "name": "Tây Ninh",
+      "name_full": "Thị xã Tây Ninh",
+      "slug": "tay-ninh",
+      "division_type": "Thị xã",
+      "province_code": "TNI",
+      "province_name": "Tây Ninh",
+      "ward_count": 10
+    },
+    {
+      "code": "TNI-09",
+      "name": "Trảng Bàng",
+      "name_full": "Huyện Trảng Bàng",
+      "slug": "trang-bang",
+      "division_type": "Huyện",
+      "province_code": "TNI",
+      "province_name": "Tây Ninh",
+      "ward_count": 11
+    },
+    {
+      "code": "TQ-01",
+      "name": "Chiêm Hóa",
+      "name_full": "Huyện Chiêm Hóa",
+      "slug": "chiem-hoa",
+      "division_type": "Huyện",
+      "province_code": "TQ",
+      "province_name": "Tuyên Quang",
+      "ward_count": 26
+    },
+    {
+      "code": "TQ-02",
+      "name": "Hàm Yên",
+      "name_full": "Huyện Hàm Yên",
+      "slug": "ham-yen",
+      "division_type": "Huyện",
+      "province_code": "TQ",
+      "province_name": "Tuyên Quang",
+      "ward_count": 18
+    },
+    {
+      "code": "TQ-03",
+      "name": "Lâm Bình",
+      "name_full": "Huyện Lâm Bình",
+      "slug": "lam-binh",
+      "division_type": "Huyện",
+      "province_code": "TQ",
+      "province_name": "Tuyên Quang",
+      "ward_count": 8
+    },
+    {
+      "code": "TQ-04",
+      "name": "Na Hang",
+      "name_full": "Huyện Na Hang",
+      "slug": "na-hang",
+      "division_type": "Huyện",
+      "province_code": "TQ",
+      "province_name": "Tuyên Quang",
+      "ward_count": 12
+    },
+    {
+      "code": "TQ-05",
+      "name": "Sơn Dương",
+      "name_full": "Huyện Sơn Dương",
+      "slug": "son-duong",
+      "division_type": "Huyện",
+      "province_code": "TQ",
+      "province_name": "Tuyên Quang",
+      "ward_count": 33
+    },
+    {
+      "code": "TQ-06",
+      "name": "Tuyên Quang",
+      "name_full": "Thành phố Tuyên Quang",
+      "slug": "tuyen-quang",
+      "division_type": "Thành phố",
+      "province_code": "TQ",
+      "province_name": "Tuyên Quang",
+      "ward_count": 14
+    },
+    {
+      "code": "TQ-07",
+      "name": "Yên Sơn",
+      "name_full": "Huyện Yên Sơn",
+      "slug": "yen-son",
+      "division_type": "Huyện",
+      "province_code": "TQ",
+      "province_name": "Tuyên Quang",
+      "ward_count": 31
+    },
+    {
+      "code": "TTH-01",
+      "name": "A Lưới",
+      "name_full": "Huyện A Lưới",
+      "slug": "a-luoi",
+      "division_type": "Huyện",
+      "province_code": "TTH",
+      "province_name": "Thừa Thiên Huế",
+      "ward_count": 22
+    },
+    {
+      "code": "TTH-02",
+      "name": "Huế",
+      "name_full": "Thành phố Huế",
+      "slug": "hue",
+      "division_type": "Thành phố",
+      "province_code": "TTH",
+      "province_name": "Thừa Thiên Huế",
+      "ward_count": 29
+    },
+    {
+      "code": "TTH-03",
+      "name": "Hương Thủy",
+      "name_full": "Thị xã Hương Thủy",
+      "slug": "huong-thuy",
+      "division_type": "Thị xã",
+      "province_code": "TTH",
+      "province_name": "Thừa Thiên Huế",
+      "ward_count": 14
+    },
+    {
+      "code": "TTH-04",
+      "name": "Hương Trà",
+      "name_full": "Huyện Hương Trà",
+      "slug": "huong-tra",
+      "division_type": "Huyện",
+      "province_code": "TTH",
+      "province_name": "Thừa Thiên Huế",
+      "ward_count": 16
+    },
+    {
+      "code": "TTH-05",
+      "name": "Nam Đông",
+      "name_full": "Huyện Nam Đông",
+      "slug": "nam-dong",
+      "division_type": "Huyện",
+      "province_code": "TTH",
+      "province_name": "Thừa Thiên Huế",
+      "ward_count": 11
+    },
+    {
+      "code": "TTH-06",
+      "name": "Phong Điền",
+      "name_full": "Huyện Phong Điền",
+      "slug": "phong-dien",
+      "division_type": "Huyện",
+      "province_code": "TTH",
+      "province_name": "Thừa Thiên Huế",
+      "ward_count": 17
+    },
+    {
+      "code": "TTH-07",
+      "name": "Phú Lộc",
+      "name_full": "Huyện Phú Lộc",
+      "slug": "phu-loc",
+      "division_type": "Huyện",
+      "province_code": "TTH",
+      "province_name": "Thừa Thiên Huế",
+      "ward_count": 18
+    },
+    {
+      "code": "TTH-08",
+      "name": "Phú Vang",
+      "name_full": "Huyện Phú Vang",
+      "slug": "phu-vang",
+      "division_type": "Huyện",
+      "province_code": "TTH",
+      "province_name": "Thừa Thiên Huế",
+      "ward_count": 20
+    },
+    {
+      "code": "TTH-09",
+      "name": "Quảng Điền",
+      "name_full": "Huyện Quảng Điền",
+      "slug": "quang-dien",
+      "division_type": "Huyện",
+      "province_code": "TTH",
+      "province_name": "Thừa Thiên Huế",
+      "ward_count": 11
+    },
+    {
+      "code": "TV-01",
+      "name": "Càng Long",
+      "name_full": "Huyện Càng Long",
+      "slug": "cang-long",
+      "division_type": "Huyện",
+      "province_code": "TV",
+      "province_name": "Trà Vinh",
+      "ward_count": 14
+    },
+    {
+      "code": "TV-02",
+      "name": "Cầu Kè",
+      "name_full": "Huyện Cầu Kè",
+      "slug": "cau-ke",
+      "division_type": "Huyện",
+      "province_code": "TV",
+      "province_name": "Trà Vinh",
+      "ward_count": 11
+    },
+    {
+      "code": "TV-03",
+      "name": "Cầu Ngang",
+      "name_full": "Huyện Cầu Ngang",
+      "slug": "cau-ngang",
+      "division_type": "Huyện",
+      "province_code": "TV",
+      "province_name": "Trà Vinh",
+      "ward_count": 15
+    },
+    {
+      "code": "TV-04",
+      "name": "Châu Thành",
+      "name_full": "Huyện Châu Thành",
+      "slug": "chau-thanh",
+      "division_type": "Huyện",
+      "province_code": "TV",
+      "province_name": "Trà Vinh",
+      "ward_count": 14
+    },
+    {
+      "code": "TV-05",
+      "name": "Duyên Hải",
+      "name_full": "Huyện Duyên Hải",
+      "slug": "duyen-hai",
+      "division_type": "Huyện",
+      "province_code": "TV",
+      "province_name": "Trà Vinh",
+      "ward_count": 13
+    },
+    {
+      "code": "TV-06",
+      "name": "Tiểu Cần",
+      "name_full": "Huyện Tiểu Cần",
+      "slug": "tieu-can",
+      "division_type": "Huyện",
+      "province_code": "TV",
+      "province_name": "Trà Vinh",
+      "ward_count": 11
+    },
+    {
+      "code": "TV-07",
+      "name": "Trà Cú",
+      "name_full": "Huyện Trà Cú",
+      "slug": "tra-cu",
+      "division_type": "Huyện",
+      "province_code": "TV",
+      "province_name": "Trà Vinh",
+      "ward_count": 19
+    },
+    {
+      "code": "TV-08",
+      "name": "Trà Vinh",
+      "name_full": "Thành phố Trà Vinh",
+      "slug": "tra-vinh",
+      "division_type": "Thành phố",
+      "province_code": "TV",
+      "province_name": "Trà Vinh",
+      "ward_count": 17
+    },
+    {
+      "code": "VL-01",
+      "name": "Bình Minh",
+      "name_full": "Huyện Bình Minh",
+      "slug": "binh-minh",
+      "division_type": "Huyện",
+      "province_code": "VL",
+      "province_name": "Vĩnh Long",
+      "ward_count": 8
+    },
+    {
+      "code": "VL-02",
+      "name": "Bình Tân",
+      "name_full": "Quận Bình Tân",
+      "slug": "binh-tan",
+      "division_type": "Quận",
+      "province_code": "VL",
+      "province_name": "Vĩnh Long",
+      "ward_count": 11
+    },
+    {
+      "code": "VL-03",
+      "name": "Long Hồ",
+      "name_full": "Huyện Long Hồ",
+      "slug": "long-ho",
+      "division_type": "Huyện",
+      "province_code": "VL",
+      "province_name": "Vĩnh Long",
+      "ward_count": 15
+    },
+    {
+      "code": "VL-04",
+      "name": "Mang Thít",
+      "name_full": "Huyện Mang Thít",
+      "slug": "mang-thit",
+      "division_type": "Huyện",
+      "province_code": "VL",
+      "province_name": "Vĩnh Long",
+      "ward_count": 13
+    },
+    {
+      "code": "VL-05",
+      "name": "Tam Bình",
+      "name_full": "Huyện Tam Bình",
+      "slug": "tam-binh",
+      "division_type": "Huyện",
+      "province_code": "VL",
+      "province_name": "Vĩnh Long",
+      "ward_count": 17
+    },
+    {
+      "code": "VL-06",
+      "name": "Trà Ôn",
+      "name_full": "Huyện Trà Ôn",
+      "slug": "tra-on",
+      "division_type": "Huyện",
+      "province_code": "VL",
+      "province_name": "Vĩnh Long",
+      "ward_count": 14
+    },
+    {
+      "code": "VL-07",
+      "name": "Vĩnh Long",
+      "name_full": "Thành phố Vĩnh Long",
+      "slug": "vinh-long",
+      "division_type": "Thành phố",
+      "province_code": "VL",
+      "province_name": "Vĩnh Long",
+      "ward_count": 11
+    },
+    {
+      "code": "VL-08",
+      "name": "Vũng Liêm",
+      "name_full": "Huyện Vũng Liêm",
+      "slug": "vung-liem",
+      "division_type": "Huyện",
+      "province_code": "VL",
+      "province_name": "Vĩnh Long",
+      "ward_count": 20
+    },
+    {
+      "code": "VP-01",
+      "name": "Bình Xuyên",
+      "name_full": "Huyện Bình Xuyên",
+      "slug": "binh-xuyen",
+      "division_type": "Huyện",
+      "province_code": "VP",
+      "province_name": "Vĩnh Phúc",
+      "ward_count": 13
+    },
+    {
+      "code": "VP-02",
+      "name": "Lập Thạch",
+      "name_full": "Huyện Lập Thạch",
+      "slug": "lap-thach",
+      "division_type": "Huyện",
+      "province_code": "VP",
+      "province_name": "Vĩnh Phúc",
+      "ward_count": 20
+    },
+    {
+      "code": "VP-03",
+      "name": "Phúc Yên",
+      "name_full": "Thị xã Phúc Yên",
+      "slug": "phuc-yen",
+      "division_type": "Thị xã",
+      "province_code": "VP",
+      "province_name": "Vĩnh Phúc",
+      "ward_count": 10
+    },
+    {
+      "code": "VP-04",
+      "name": "Sông Lô",
+      "name_full": "Huyện Sông Lô",
+      "slug": "song-lo",
+      "division_type": "Huyện",
+      "province_code": "VP",
+      "province_name": "Vĩnh Phúc",
+      "ward_count": 17
+    },
+    {
+      "code": "VP-05",
+      "name": "Tam Đảo",
+      "name_full": "Huyện Tam Đảo",
+      "slug": "tam-dao",
+      "division_type": "Huyện",
+      "province_code": "VP",
+      "province_name": "Vĩnh Phúc",
+      "ward_count": 9
+    },
+    {
+      "code": "VP-06",
+      "name": "Tam Dương",
+      "name_full": "Huyện Tam Dương",
+      "slug": "tam-duong",
+      "division_type": "Huyện",
+      "province_code": "VP",
+      "province_name": "Vĩnh Phúc",
+      "ward_count": 13
+    },
+    {
+      "code": "VP-07",
+      "name": "Vĩnh Tường",
+      "name_full": "Huyện Vĩnh Tường",
+      "slug": "vinh-tuong",
+      "division_type": "Huyện",
+      "province_code": "VP",
+      "province_name": "Vĩnh Phúc",
+      "ward_count": 29
+    },
+    {
+      "code": "VP-08",
+      "name": "Vĩnh Yên",
+      "name_full": "Thành phố Vĩnh Yên",
+      "slug": "vinh-yen",
+      "division_type": "Thành phố",
+      "province_code": "VP",
+      "province_name": "Vĩnh Phúc",
+      "ward_count": 9
+    },
+    {
+      "code": "VP-09",
+      "name": "Yên Lạc",
+      "name_full": "Huyện Yên Lạc",
+      "slug": "yen-lac",
+      "division_type": "Huyện",
+      "province_code": "VP",
+      "province_name": "Vĩnh Phúc",
+      "ward_count": 17
+    },
+    {
+      "code": "VT-01",
+      "name": "Bà Rịa",
+      "name_full": "Thị xã Bà Rịa",
+      "slug": "ba-ria",
+      "division_type": "Thị xã",
+      "province_code": "VT",
+      "province_name": "Bà Rịa Vũng Tàu",
+      "ward_count": 11
+    },
+    {
+      "code": "VT-02",
+      "name": "Châu Đức",
+      "name_full": "Huyện Châu Đức",
+      "slug": "chau-duc",
+      "division_type": "Huyện",
+      "province_code": "VT",
+      "province_name": "Bà Rịa Vũng Tàu",
+      "ward_count": 16
+    },
+    {
+      "code": "VT-03",
+      "name": "Côn Đảo",
+      "name_full": "Huyện Côn Đảo",
+      "slug": "con-dao",
+      "division_type": "Huyện",
+      "province_code": "VT",
+      "province_name": "Bà Rịa Vũng Tàu",
+      "ward_count": 1
+    },
+    {
+      "code": "VT-04",
+      "name": "Đất Đỏ",
+      "name_full": "Huyện Đất Đỏ",
+      "slug": "dat-do",
+      "division_type": "Huyện",
+      "province_code": "VT",
+      "province_name": "Bà Rịa Vũng Tàu",
+      "ward_count": 8
+    },
+    {
+      "code": "VT-05",
+      "name": "Long Điền",
+      "name_full": "Huyện Long Điền",
+      "slug": "long-dien",
+      "division_type": "Huyện",
+      "province_code": "VT",
+      "province_name": "Bà Rịa Vũng Tàu",
+      "ward_count": 7
+    },
+    {
+      "code": "VT-06",
+      "name": "Phú Mỹ",
+      "name_full": "Thị xã Phú Mỹ",
+      "slug": "phu-my",
+      "division_type": "Thị xã",
+      "province_code": "VT",
+      "province_name": "Bà Rịa Vũng Tàu",
+      "ward_count": 11
+    },
+    {
+      "code": "VT-07",
+      "name": "Vũng Tàu",
+      "name_full": "Thành phố Vũng Tàu",
+      "slug": "vung-tau",
+      "division_type": "Thành phố",
+      "province_code": "VT",
+      "province_name": "Bà Rịa Vũng Tàu",
+      "ward_count": 18
+    },
+    {
+      "code": "VT-08",
+      "name": "Xuyên Mộc",
+      "name_full": "Huyện Xuyên Mộc",
+      "slug": "xuyen-moc",
+      "division_type": "Huyện",
+      "province_code": "VT",
+      "province_name": "Bà Rịa Vũng Tàu",
+      "ward_count": 13
+    },
+    {
+      "code": "YB-01",
+      "name": "Lục Yên",
+      "name_full": "Huyện Lục Yên",
+      "slug": "luc-yen",
+      "division_type": "Huyện",
+      "province_code": "YB",
+      "province_name": "Yên Bái",
+      "ward_count": 24
+    },
+    {
+      "code": "YB-02",
+      "name": "Mù Cang Chải",
+      "name_full": "Huyện Mù Cang Chải",
+      "slug": "mu-cang-chai",
+      "division_type": "Huyện",
+      "province_code": "YB",
+      "province_name": "Yên Bái",
+      "ward_count": 14
+    },
+    {
+      "code": "YB-03",
+      "name": "Nghĩa Lộ",
+      "name_full": "Thị xã Nghĩa Lộ",
+      "slug": "nghia-lo",
+      "division_type": "Thị xã",
+      "province_code": "YB",
+      "province_name": "Yên Bái",
+      "ward_count": 7
+    },
+    {
+      "code": "YB-04",
+      "name": "Trạm Tấu",
+      "name_full": "Huyện Trạm Tấu",
+      "slug": "tram-tau",
+      "division_type": "Huyện",
+      "province_code": "YB",
+      "province_name": "Yên Bái",
+      "ward_count": 12
+    },
+    {
+      "code": "YB-05",
+      "name": "Trấn Yên",
+      "name_full": "Huyện Trấn Yên",
+      "slug": "tran-yen",
+      "division_type": "Huyện",
+      "province_code": "YB",
+      "province_name": "Yên Bái",
+      "ward_count": 22
+    },
+    {
+      "code": "YB-06",
+      "name": "Văn Chấn",
+      "name_full": "Huyện Văn Chấn",
+      "slug": "van-chan",
+      "division_type": "Huyện",
+      "province_code": "YB",
+      "province_name": "Yên Bái",
+      "ward_count": 31
+    },
+    {
+      "code": "YB-07",
+      "name": "Văn Yên",
+      "name_full": "Huyện Văn Yên",
+      "slug": "van-yen",
+      "division_type": "Huyện",
+      "province_code": "YB",
+      "province_name": "Yên Bái",
+      "ward_count": 27
+    },
+    {
+      "code": "YB-08",
+      "name": "Yên Bái",
+      "name_full": "Thành phố Yên Bái",
+      "slug": "yen-bai",
+      "division_type": "Thành phố",
+      "province_code": "YB",
+      "province_name": "Yên Bái",
+      "ward_count": 17
+    },
+    {
+      "code": "YB-09",
+      "name": "Yên Bình",
+      "name_full": "Huyện Yên Bình",
+      "slug": "yen-binh",
+      "division_type": "Huyện",
+      "province_code": "YB",
+      "province_name": "Yên Bái",
+      "ward_count": 26
+    }
+  ],
+  "meta": {
+    "title": "Việt Nam — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 710 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) của Việt Nam theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Mỗi bản ghi gồm mã, tên đơn vị, phân loại (Quận / Huyện / Thị xã / Thành phố), số phường/xã trực thuộc và tỉnh chủ quản. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); bộ dữ liệu này là ảnh chụp lịch sử của cấp này. (710 Vietnamese district-level units — districts, urban districts, district-level cities — under the pre-2025-merger 3-tier hierarchy. The district tier was abolished in the July 2025 reform.) Chứa 710 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Việt Nam — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Việt Nam — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 710 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 710 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: https://github.com/thien0291/vietnam_dataset"
+    ]
+  }
+}

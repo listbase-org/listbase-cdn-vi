@@ -1,0 +1,192 @@
+{
+  "id": "vi-rap-chieu-phim",
+  "name": "Rạp chiếu phim ở Việt Nam",
+  "title": "Rạp chiếu phim ở Việt Nam",
+  "description": "Danh sách rạp chiếu phim (P31 = wd:Q41253) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-20. Mỗi thực thể bắt buộc có toạ độ WGS84 (P625) và ít nhất một nhãn tiếng Việt hoặc tiếng Anh (theo quy tắc name_vi-OR-name_en của dự án). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikidata. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 11/11 toạ độ, 3/11 nhãn tiếng Việt.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_vi",
+      "label": "Admin Area Vi",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q36176349",
+      "name_vi": "",
+      "name_en": "Catinat Cine",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.7759383,
+      "longitude": 106.7034992,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q36176349"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q36176236",
+      "name_vi": "",
+      "name_en": "Dan Chu Cinema",
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "latitude": 21.0190923,
+      "longitude": 105.8368732,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q36176236"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q36176365",
+      "name_vi": "",
+      "name_en": "Diamond Cinema",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.7806132,
+      "longitude": 106.6987681,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q36176365"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q36176277",
+      "name_vi": "",
+      "name_en": "Fansland Cinema",
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "latitude": 21.0237786,
+      "longitude": 105.8491944,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q36176277"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q36176294",
+      "name_vi": "",
+      "name_en": "MegaStar Cineplex Vincom City Towers",
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "latitude": 21.0169931,
+      "longitude": 105.849219,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q36176294"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q36176332",
+      "name_vi": "",
+      "name_en": "Ngoc Khanh Cinema",
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "latitude": 21.0292567,
+      "longitude": 105.8174136,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q36176332"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q36176210",
+      "name_vi": "Rạp Cinê Tháng Tám",
+      "name_en": "August Cinema",
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "latitude": 21.0321707,
+      "longitude": 105.8540493,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q36176210"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q10812086",
+      "name_vi": "Rạp Megastar Vincom",
+      "name_en": "",
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "latitude": 21.011776,
+      "longitude": 105.849752,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10812086"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q36176428",
+      "name_vi": "",
+      "name_en": "Tan Son Nhat Cinema",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.7994815,
+      "longitude": 106.6688769,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q36176428"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q36176450",
+      "name_vi": "",
+      "name_en": "Thang Long Cinema",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.7726521,
+      "longitude": 106.6790402,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q36176450"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q36176312",
+      "name_vi": "Trung tâm Chiếu phim Quốc gia",
+      "name_en": "National Cinema Center",
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "latitude": 21.016494444,
+      "longitude": 105.815383333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q36176312"
+    }
+  ],
+  "meta": {
+    "title": "Rạp chiếu phim ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách rạp chiếu phim (P31 = wd:Q41253) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-20. Mỗi thực thể bắt buộc có toạ độ WGS84 (P625) và ít nhất một nhãn tiếng Việt hoặc tiếng Anh (theo quy tắc name_vi-OR-name_en của dự án). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikidata. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 11/11 toạ độ, 3/11 nhãn tiếng Việt. Chứa 11 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Rạp chiếu phim ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Rạp chiếu phim ở Việt Nam — 11 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 11 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

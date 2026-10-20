@@ -1,0 +1,166 @@
+{
+  "id": "vi-dien-bien-quan-huyen-2019",
+  "name": "Điện Biên — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Điện Biên — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 10 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Điện Biên theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 1 Thành phố, 1 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/DDB.json). (10 district-level units of Điện Biên under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "DDB-01",
+      "name": "Điện Biên",
+      "name_full": "Huyện Điện Biên",
+      "slug": "dien-bien",
+      "division_type": "Huyện",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 26
+    },
+    {
+      "code": "DDB-02",
+      "name": "Điện Biên Đông",
+      "name_full": "Huyện Điện Biên Đông",
+      "slug": "dien-bien-dong",
+      "division_type": "Huyện",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 14
+    },
+    {
+      "code": "DDB-03",
+      "name": "Điện Biên Phủ",
+      "name_full": "Thành phố Điện Biên Phủ",
+      "slug": "dien-bien-phu",
+      "division_type": "Thành phố",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 9
+    },
+    {
+      "code": "DDB-04",
+      "name": "Mường Ảng",
+      "name_full": "Huyện Mường Ảng",
+      "slug": "muong-ang",
+      "division_type": "Huyện",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 10
+    },
+    {
+      "code": "DDB-05",
+      "name": "Mường Chà",
+      "name_full": "Huyện Mường Chà",
+      "slug": "muong-cha",
+      "division_type": "Huyện",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 14
+    },
+    {
+      "code": "DDB-06",
+      "name": "Mường Lay",
+      "name_full": "Thị xã Mường Lay",
+      "slug": "muong-lay",
+      "division_type": "Thị xã",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 3
+    },
+    {
+      "code": "DDB-07",
+      "name": "Mường Nhé",
+      "name_full": "Huyện Mường Nhé",
+      "slug": "muong-nhe",
+      "division_type": "Huyện",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 11
+    },
+    {
+      "code": "DDB-08",
+      "name": "Nậm Pồ",
+      "name_full": "Huyện Nậm Pồ",
+      "slug": "nam-po",
+      "division_type": "Huyện",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 14
+    },
+    {
+      "code": "DDB-09",
+      "name": "Tủa Chùa",
+      "name_full": "Huyện Tủa Chùa",
+      "slug": "tua-chua",
+      "division_type": "Huyện",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 12
+    },
+    {
+      "code": "DDB-10",
+      "name": "Tuần Giáo",
+      "name_full": "Huyện Tuần Giáo",
+      "slug": "tuan-giao",
+      "division_type": "Huyện",
+      "province_code": "DDB",
+      "province_name": "Điện Biên",
+      "ward_count": 19
+    }
+  ],
+  "meta": {
+    "title": "Điện Biên — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 10 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Điện Biên theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 1 Thành phố, 1 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/DDB.json). (10 district-level units of Điện Biên under the pre-2025-merger 3-tier hierarchy.) Chứa 10 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Điện Biên — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Điện Biên — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 10 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 10 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

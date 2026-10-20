@@ -1,0 +1,479 @@
+{
+  "id": "tech-mime-types",
+  "name": "Tập dữ liệu các loại MIME và phần mở rộng tệp phổ biến",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "mime_type",
+      "label": "MIME Type",
+      "type": "string"
+    },
+    {
+      "key": "extension",
+      "label": "Extension",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "mime_type": "text/plain",
+      "extension": ".txt",
+      "category": "Văn bản",
+      "description": "Văn bản thuần túy"
+    },
+    {
+      "mime_type": "text/html",
+      "extension": ".html, .htm",
+      "category": "Văn bản",
+      "description": "Tài liệu HTML"
+    },
+    {
+      "mime_type": "text/css",
+      "extension": ".css",
+      "category": "Văn bản",
+      "description": "Bảng định kiểu xếp tầng"
+    },
+    {
+      "mime_type": "text/javascript",
+      "extension": ".js",
+      "category": "Văn bản",
+      "description": "JavaScript"
+    },
+    {
+      "mime_type": "text/csv",
+      "extension": ".csv",
+      "category": "Văn bản",
+      "description": "Giá trị phân tách bằng dấu phẩy"
+    },
+    {
+      "mime_type": "text/xml",
+      "extension": ".xml",
+      "category": "Văn bản",
+      "description": "Tài liệu XML"
+    },
+    {
+      "mime_type": "text/markdown",
+      "extension": ".md",
+      "category": "Văn bản",
+      "description": "Tài liệu Markdown"
+    },
+    {
+      "mime_type": "text/calendar",
+      "extension": ".ics",
+      "category": "Văn bản",
+      "description": "Định dạng iCalendar"
+    },
+    {
+      "mime_type": "application/pdf",
+      "extension": ".pdf",
+      "category": "Tài liệu",
+      "description": "Adobe PDF"
+    },
+    {
+      "mime_type": "application/msword",
+      "extension": ".doc",
+      "category": "Tài liệu",
+      "description": "Microsoft Word"
+    },
+    {
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "extension": ".docx",
+      "category": "Tài liệu",
+      "description": "Microsoft Word (OpenXML)"
+    },
+    {
+      "mime_type": "application/vnd.ms-excel",
+      "extension": ".xls",
+      "category": "Tài liệu",
+      "description": "Microsoft Excel"
+    },
+    {
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "extension": ".xlsx",
+      "category": "Tài liệu",
+      "description": "Microsoft Excel (OpenXML)"
+    },
+    {
+      "mime_type": "application/vnd.ms-powerpoint",
+      "extension": ".ppt",
+      "category": "Tài liệu",
+      "description": "Microsoft PowerPoint"
+    },
+    {
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "extension": ".pptx",
+      "category": "Tài liệu",
+      "description": "Microsoft PowerPoint (OpenXML)"
+    },
+    {
+      "mime_type": "application/vnd.oasis.opendocument.text",
+      "extension": ".odt",
+      "category": "Tài liệu",
+      "description": "Văn bản OpenDocument"
+    },
+    {
+      "mime_type": "application/vnd.oasis.opendocument.spreadsheet",
+      "extension": ".ods",
+      "category": "Tài liệu",
+      "description": "Bảng tính OpenDocument"
+    },
+    {
+      "mime_type": "application/rtf",
+      "extension": ".rtf",
+      "category": "Tài liệu",
+      "description": "Định dạng Văn bản Đa dạng"
+    },
+    {
+      "mime_type": "application/epub+zip",
+      "extension": ".epub",
+      "category": "Tài liệu",
+      "description": "Ấn phẩm điện tử (EPUB)"
+    },
+    {
+      "mime_type": "application/json",
+      "extension": ".json",
+      "category": "Dữ liệu",
+      "description": "Định dạng JSON"
+    },
+    {
+      "mime_type": "application/xml",
+      "extension": ".xml",
+      "category": "Dữ liệu",
+      "description": "Dữ liệu XML"
+    },
+    {
+      "mime_type": "application/ld+json",
+      "extension": ".jsonld",
+      "category": "Dữ liệu",
+      "description": "Định dạng JSON-LD"
+    },
+    {
+      "mime_type": "application/x-yaml",
+      "extension": ".yaml, .yml",
+      "category": "Dữ liệu",
+      "description": "Định dạng YAML"
+    },
+    {
+      "mime_type": "application/sql",
+      "extension": ".sql",
+      "category": "Dữ liệu",
+      "description": "Tập lệnh SQL"
+    },
+    {
+      "mime_type": "application/zip",
+      "extension": ".zip",
+      "category": "Lưu trữ",
+      "description": "Lưu trữ ZIP"
+    },
+    {
+      "mime_type": "application/gzip",
+      "extension": ".gz",
+      "category": "Lưu trữ",
+      "description": "Lưu trữ GZIP"
+    },
+    {
+      "mime_type": "application/x-tar",
+      "extension": ".tar",
+      "category": "Lưu trữ",
+      "description": "Lưu trữ TAR"
+    },
+    {
+      "mime_type": "application/x-rar-compressed",
+      "extension": ".rar",
+      "category": "Lưu trữ",
+      "description": "Lưu trữ RAR"
+    },
+    {
+      "mime_type": "application/x-7z-compressed",
+      "extension": ".7z",
+      "category": "Lưu trữ",
+      "description": "Lưu trữ 7-Zip"
+    },
+    {
+      "mime_type": "application/x-bzip2",
+      "extension": ".bz2",
+      "category": "Lưu trữ",
+      "description": "Lưu trữ Bzip2"
+    },
+    {
+      "mime_type": "application/octet-stream",
+      "extension": ".bin",
+      "category": "Nhị phân",
+      "description": "Dữ liệu nhị phân"
+    },
+    {
+      "mime_type": "application/x-executable",
+      "extension": ".exe",
+      "category": "Nhị phân",
+      "description": "Tệp thực thi"
+    },
+    {
+      "mime_type": "application/x-msdownload",
+      "extension": ".exe, .dll",
+      "category": "Nhị phân",
+      "description": "Tệp thực thi Microsoft"
+    },
+    {
+      "mime_type": "application/x-shockwave-flash",
+      "extension": ".swf",
+      "category": "Nhị phân",
+      "description": "Adobe Flash"
+    },
+    {
+      "mime_type": "application/java-archive",
+      "extension": ".jar",
+      "category": "Nhị phân",
+      "description": "Lưu trữ Java"
+    },
+    {
+      "mime_type": "application/vnd.android.package-archive",
+      "extension": ".apk",
+      "category": "Nhị phân",
+      "description": "Gói Android"
+    },
+    {
+      "mime_type": "image/jpeg",
+      "extension": ".jpg, .jpeg",
+      "category": "Hình ảnh",
+      "description": "Hình ảnh JPEG"
+    },
+    {
+      "mime_type": "image/png",
+      "extension": ".png",
+      "category": "Hình ảnh",
+      "description": "Hình ảnh PNG"
+    },
+    {
+      "mime_type": "image/gif",
+      "extension": ".gif",
+      "category": "Hình ảnh",
+      "description": "Hình ảnh GIF"
+    },
+    {
+      "mime_type": "image/webp",
+      "extension": ".webp",
+      "category": "Hình ảnh",
+      "description": "Hình ảnh WebP"
+    },
+    {
+      "mime_type": "image/svg+xml",
+      "extension": ".svg",
+      "category": "Hình ảnh",
+      "description": "Hình ảnh SVG"
+    },
+    {
+      "mime_type": "image/bmp",
+      "extension": ".bmp",
+      "category": "Hình ảnh",
+      "description": "Hình ảnh Bitmap"
+    },
+    {
+      "mime_type": "image/tiff",
+      "extension": ".tiff, .tif",
+      "category": "Hình ảnh",
+      "description": "Hình ảnh TIFF"
+    },
+    {
+      "mime_type": "image/x-icon",
+      "extension": ".ico",
+      "category": "Hình ảnh",
+      "description": "Định dạng biểu tượng"
+    },
+    {
+      "mime_type": "image/avif",
+      "extension": ".avif",
+      "category": "Hình ảnh",
+      "description": "Hình ảnh AVIF"
+    },
+    {
+      "mime_type": "image/heic",
+      "extension": ".heic",
+      "category": "Hình ảnh",
+      "description": "Hình ảnh HEIC (Apple)"
+    },
+    {
+      "mime_type": "audio/mpeg",
+      "extension": ".mp3",
+      "category": "Âm thanh",
+      "description": "Âm thanh MP3"
+    },
+    {
+      "mime_type": "audio/wav",
+      "extension": ".wav",
+      "category": "Âm thanh",
+      "description": "Âm thanh WAV"
+    },
+    {
+      "mime_type": "audio/ogg",
+      "extension": ".ogg",
+      "category": "Âm thanh",
+      "description": "Âm thanh OGG"
+    },
+    {
+      "mime_type": "audio/webm",
+      "extension": ".weba",
+      "category": "Âm thanh",
+      "description": "Âm thanh WebM"
+    },
+    {
+      "mime_type": "audio/aac",
+      "extension": ".aac",
+      "category": "Âm thanh",
+      "description": "Âm thanh AAC"
+    },
+    {
+      "mime_type": "audio/flac",
+      "extension": ".flac",
+      "category": "Âm thanh",
+      "description": "Âm thanh FLAC"
+    },
+    {
+      "mime_type": "audio/midi",
+      "extension": ".mid, .midi",
+      "category": "Âm thanh",
+      "description": "Âm thanh MIDI"
+    },
+    {
+      "mime_type": "audio/x-m4a",
+      "extension": ".m4a",
+      "category": "Âm thanh",
+      "description": "Âm thanh M4A (Apple)"
+    },
+    {
+      "mime_type": "video/mp4",
+      "extension": ".mp4",
+      "category": "Video",
+      "description": "Video MP4"
+    },
+    {
+      "mime_type": "video/webm",
+      "extension": ".webm",
+      "category": "Video",
+      "description": "Video WebM"
+    },
+    {
+      "mime_type": "video/ogg",
+      "extension": ".ogv",
+      "category": "Video",
+      "description": "Video OGG"
+    },
+    {
+      "mime_type": "video/x-msvideo",
+      "extension": ".avi",
+      "category": "Video",
+      "description": "Video AVI"
+    },
+    {
+      "mime_type": "video/quicktime",
+      "extension": ".mov",
+      "category": "Video",
+      "description": "Video QuickTime"
+    },
+    {
+      "mime_type": "video/x-matroska",
+      "extension": ".mkv",
+      "category": "Video",
+      "description": "Video Matroska"
+    },
+    {
+      "mime_type": "video/x-flv",
+      "extension": ".flv",
+      "category": "Video",
+      "description": "Video Flash"
+    },
+    {
+      "mime_type": "video/mpeg",
+      "extension": ".mpeg, .mpg",
+      "category": "Video",
+      "description": "Video MPEG"
+    },
+    {
+      "mime_type": "video/3gpp",
+      "extension": ".3gp",
+      "category": "Video",
+      "description": "Video 3GPP"
+    },
+    {
+      "mime_type": "font/woff",
+      "extension": ".woff",
+      "category": "Phông chữ",
+      "description": "Định dạng Phông chữ Mở Web"
+    },
+    {
+      "mime_type": "font/woff2",
+      "extension": ".woff2",
+      "category": "Phông chữ",
+      "description": "Định dạng Phông chữ Mở Web 2"
+    },
+    {
+      "mime_type": "font/ttf",
+      "extension": ".ttf",
+      "category": "Phông chữ",
+      "description": "Phông chữ TrueType"
+    },
+    {
+      "mime_type": "font/otf",
+      "extension": ".otf",
+      "category": "Phông chữ",
+      "description": "Phông chữ OpenType"
+    },
+    {
+      "mime_type": "application/vnd.ms-fontobject",
+      "extension": ".eot",
+      "category": "Phông chữ",
+      "description": "OpenType nhúng"
+    },
+    {
+      "mime_type": "multipart/form-data",
+      "extension": "",
+      "category": "Đa phần",
+      "description": "Dữ liệu biểu mẫu kèm tải lên tệp"
+    },
+    {
+      "mime_type": "multipart/byteranges",
+      "extension": "",
+      "category": "Đa phần",
+      "description": "Phạm vi nội dung một phần"
+    }
+  ],
+  "meta": {
+    "seo_title": "Danh sách loại MIME - Tải xuống miễn phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống miễn phí 70 loại MIME, phần mở rộng và danh mục phổ biến. Lý tưởng cho nhà phát triển & nhà phân tích dữ liệu. Có sẵn định dạng Excel, CSV, PDF.",
+    "title": "Tập dữ liệu các loại MIME và phần mở rộng tệp phổ biến",
+    "description": "Tập dữ liệu này cung cấp danh sách toàn diện gồm 70 loại MIME phổ biến, các phần mở rộng tệp liên quan, danh mục và mô tả. Cần thiết cho phát triển web, xử lý dữ liệu và quản trị hệ thống.",
+    "key_takeaways": [
+      "Truy cập danh sách 70 loại MIME phổ biến và chi tiết của chúng được tuyển chọn.",
+      "Khám phá các phần mở rộng tệp, danh mục và mô tả cho các định dạng dữ liệu khác nhau.",
+      "Tải xuống thông tin loại MIME cần thiết cho phát triển web và xử lý dữ liệu.",
+      "Nhận dữ liệu chính xác để nhận dạng loại nội dung và cấu hình máy chủ."
+    ],
+    "keywords": [
+      "danh sách loại mime",
+      "tập dữ liệu phần mở rộng tệp",
+      "mime types csv",
+      "loại nội dung web excel",
+      "danh sách định dạng dữ liệu",
+      "tải mime types miễn phí"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào ứng dụng phụ trợ hoặc cơ sở dữ liệu của bạn để xác thực tải lên tệp và đặt loại nội dung theo chương trình.",
+      "Sử dụng tệp **Excel** để nhanh chóng lọc và tham chiếu chéo các loại MIME cho tài liệu, kiểm tra hệ thống hoặc chuẩn bị ánh xạ loại nội dung.",
+      "In phiên bản **PDF** làm hướng dẫn tham khảo nhanh cho các nhóm phát triển, quản trị viên hệ thống hoặc cho mục đích giáo dục trong các lớp khoa học máy tính.",
+      "Tận dụng tập dữ liệu này để nâng cao đàm phán nội dung, triển khai xử lý tệp mạnh mẽ hoặc cải thiện cấu hình máy chủ cho các ứng dụng web."
+    ]
+  },
+  "record_count": 70,
+  "title": "Tập dữ liệu các loại MIME và phần mở rộng tệp phổ biến"
+}

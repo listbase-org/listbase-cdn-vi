@@ -1,0 +1,176 @@
+{
+  "id": "vi-binh-phuoc-quan-huyen-2019",
+  "name": "Bình Phước — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Bình Phước — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 11 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Bình Phước theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 3 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/BP.json). (11 district-level units of Bình Phước under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "BP-01",
+      "name": "Bình Long",
+      "name_full": "Thị xã Bình Long",
+      "slug": "binh-long",
+      "division_type": "Thị xã",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 7
+    },
+    {
+      "code": "BP-02",
+      "name": "Bù Đăng",
+      "name_full": "Huyện Bù Đăng",
+      "slug": "bu-dang",
+      "division_type": "Huyện",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 16
+    },
+    {
+      "code": "BP-03",
+      "name": "Bù Đốp",
+      "name_full": "Huyện Bù Đốp",
+      "slug": "bu-dop",
+      "division_type": "Huyện",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 7
+    },
+    {
+      "code": "BP-04",
+      "name": "Bù Gia Mập",
+      "name_full": "Huyện Bù Gia Mập",
+      "slug": "bu-gia-map",
+      "division_type": "Huyện",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 10
+    },
+    {
+      "code": "BP-05",
+      "name": "Chơn Thành",
+      "name_full": "Huyện Chơn Thành",
+      "slug": "chon-thanh",
+      "division_type": "Huyện",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 9
+    },
+    {
+      "code": "BP-06",
+      "name": "Đồng Phú",
+      "name_full": "Huyện Đồng Phú",
+      "slug": "dong-phu",
+      "division_type": "Huyện",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 11
+    },
+    {
+      "code": "BP-07",
+      "name": "Đồng Xoài",
+      "name_full": "Thị xã Đồng Xoài",
+      "slug": "dong-xoai",
+      "division_type": "Thị xã",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 8
+    },
+    {
+      "code": "BP-08",
+      "name": "Hớn Quản",
+      "name_full": "Huyện Hớn Quản",
+      "slug": "hon-quan",
+      "division_type": "Huyện",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 13
+    },
+    {
+      "code": "BP-09",
+      "name": "Lộc Ninh",
+      "name_full": "Huyện Lộc Ninh",
+      "slug": "loc-ninh",
+      "division_type": "Huyện",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 16
+    },
+    {
+      "code": "BP-10",
+      "name": "Phú Riềng",
+      "name_full": "Huyện Phú Riềng",
+      "slug": "phu-rieng",
+      "division_type": "Huyện",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 10
+    },
+    {
+      "code": "BP-11",
+      "name": "Phước Long",
+      "name_full": "Thị xã Phước Long",
+      "slug": "phuoc-long",
+      "division_type": "Thị xã",
+      "province_code": "BP",
+      "province_name": "Bình Phước",
+      "ward_count": 7
+    }
+  ],
+  "meta": {
+    "title": "Bình Phước — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 11 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Bình Phước theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 3 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/BP.json). (11 district-level units of Bình Phước under the pre-2025-merger 3-tier hierarchy.) Chứa 11 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Bình Phước — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Bình Phước — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 11 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 11 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "id": "science-blood-types",
+  "name": "Bộ Dữ Liệu Biểu Đồ Tương Thích Nhóm Máu Toàn Diện",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "blood_type",
+      "label": "Blood Type",
+      "type": "string"
+    },
+    {
+      "key": "abo_group",
+      "label": "ABO Group",
+      "type": "string"
+    },
+    {
+      "key": "rh_factor",
+      "label": "Rh Factor",
+      "type": "string"
+    },
+    {
+      "key": "can_donate_to",
+      "label": "Can Donate To (EN)",
+      "type": "string"
+    },
+    {
+      "key": "can_receive_from",
+      "label": "Can Receive From (EN)",
+      "type": "string"
+    },
+    {
+      "key": "population_percent",
+      "label": "Population %",
+      "type": "number"
+    },
+    {
+      "key": "antigens",
+      "label": "Antigens",
+      "type": "string"
+    },
+    {
+      "key": "antibodies",
+      "label": "Antibodies",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "blood_type": "A+",
+      "abo_group": "A",
+      "rh_factor": "Positive",
+      "can_donate_to": "A+, AB+",
+      "can_receive_from": "A+, A-, O+, O-",
+      "population_percent": 35.7,
+      "antigens": "A, Rh",
+      "antibodies": "Anti-B",
+      "category": "Các nhóm phổ biến"
+    },
+    {
+      "blood_type": "A-",
+      "abo_group": "A",
+      "rh_factor": "Negative",
+      "can_donate_to": "A+, A-, AB+, AB-",
+      "can_receive_from": "A-, O-",
+      "population_percent": 6.3,
+      "antigens": "A",
+      "antibodies": "Anti-B",
+      "category": "Các nhóm phổ biến"
+    },
+    {
+      "blood_type": "B+",
+      "abo_group": "B",
+      "rh_factor": "Positive",
+      "can_donate_to": "B+, AB+",
+      "can_receive_from": "B+, B-, O+, O-",
+      "population_percent": 8.5,
+      "antigens": "B, Rh",
+      "antibodies": "Anti-A",
+      "category": "Các nhóm phổ biến"
+    },
+    {
+      "blood_type": "B-",
+      "abo_group": "B",
+      "rh_factor": "Negative",
+      "can_donate_to": "B+, B-, AB+, AB-",
+      "can_receive_from": "B-, O-",
+      "population_percent": 1.5,
+      "antigens": "B",
+      "antibodies": "Anti-A",
+      "category": "Các nhóm hiếm"
+    },
+    {
+      "blood_type": "AB+",
+      "abo_group": "AB",
+      "rh_factor": "Positive",
+      "can_donate_to": "AB+",
+      "can_receive_from": "Tất cả các nhóm (Người nhận phổ quát)",
+      "population_percent": 3.4,
+      "antigens": "A, B, Rh",
+      "antibodies": "None",
+      "category": "Các nhóm hiếm"
+    },
+    {
+      "blood_type": "AB-",
+      "abo_group": "AB",
+      "rh_factor": "Negative",
+      "can_donate_to": "AB+, AB-",
+      "can_receive_from": "A-, B-, AB-, O-",
+      "population_percent": 0.6,
+      "antigens": "A, B",
+      "antibodies": "None",
+      "category": "Các nhóm hiếm"
+    },
+    {
+      "blood_type": "O+",
+      "abo_group": "O",
+      "rh_factor": "Positive",
+      "can_donate_to": "A+, B+, AB+, O+",
+      "can_receive_from": "O+, O-",
+      "population_percent": 37.4,
+      "antigens": "Rh",
+      "antibodies": "Anti-A, Anti-B",
+      "category": "Các nhóm phổ biến"
+    },
+    {
+      "blood_type": "O-",
+      "abo_group": "O",
+      "rh_factor": "Negative",
+      "can_donate_to": "Tất cả các nhóm (Người cho phổ quát)",
+      "can_receive_from": "O-",
+      "population_percent": 6.6,
+      "antigens": "None",
+      "antibodies": "Anti-A, Anti-B",
+      "category": "Người cho phổ quát"
+    },
+    {
+      "blood_type": "AB Plasma",
+      "abo_group": "AB",
+      "rh_factor": "Any",
+      "can_donate_to": "Tất cả các nhóm (Người cho huyết tương phổ quát)",
+      "can_receive_from": "AB",
+      "population_percent": 4,
+      "antigens": "A, B (in cells)",
+      "antibodies": "None (in plasma)",
+      "category": "Huyết tương"
+    },
+    {
+      "blood_type": "Rh+ Summary",
+      "abo_group": "Any",
+      "rh_factor": "Positive",
+      "can_donate_to": "Chỉ người nhận Rh+",
+      "can_receive_from": "Cả Rh+ và Rh-",
+      "population_percent": 85,
+      "antigens": "Rh (D antigen)",
+      "antibodies": "May develop Anti-Rh if exposed",
+      "category": "Thông tin về yếu tố Rh"
+    },
+    {
+      "blood_type": "Rh- Summary",
+      "abo_group": "Any",
+      "rh_factor": "Negative",
+      "can_donate_to": "Cả Rh+ và Rh-",
+      "can_receive_from": "Chỉ Rh-",
+      "population_percent": 15,
+      "antigens": "None (no D antigen)",
+      "antibodies": "May develop Anti-Rh if exposed",
+      "category": "Thông tin về yếu tố Rh"
+    }
+  ],
+  "meta": {
+    "seo_title": "Biểu đồ Tương thích Nhóm Máu - Tải Xuống Miễn Phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống miễn phí bộ dữ liệu Biểu đồ Tương thích Nhóm Máu. Khám phá nhóm ABO, yếu tố Rh và quy tắc hiến tặng cho 11 loại máu. Có sẵn các định dạng Excel, CSV, PDF.",
+    "title": "Bộ Dữ Liệu Biểu Đồ Tương Thích Nhóm Máu Toàn Diện",
+    "description": "Bộ dữ liệu này cung cấp biểu đồ tương thích chi tiết cho tất cả các nhóm máu chính, bao gồm nhóm ABO, yếu tố Rh, quy tắc hiến/nhận, tỷ lệ phần trăm dân số, kháng nguyên và kháng thể. Nó bao gồm 11 mục nhập loại máu riêng biệt.",
+    "key_takeaways": [
+      "Truy cập thông tin quan trọng về hiến máu và khả năng tương thích truyền máu.",
+      "Khám phá tỷ lệ phần trăm dân số và chi tiết khoa học cho 11 loại máu.",
+      "Tải xuống dữ liệu toàn diện về kháng nguyên, kháng thể và phân loại ABO/Rh.",
+      "Sử dụng biểu đồ này cho mục đích giáo dục hoặc tham khảo y tế."
+    ],
+    "keywords": [
+      "biểu đồ nhóm máu",
+      "tương thích truyền máu",
+      "quy tắc hiến máu",
+      "ABO Rh factor",
+      "dữ liệu nhóm máu excel",
+      "tải biểu đồ máu pdf"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL hoặc các tập lệnh Python của bạn để nghiên cứu y tế hoặc phát triển ứng dụng sức khỏe.",
+      "Sử dụng tệp **Excel** để lọc các nhóm máu, tạo Pivot Tables và phân tích tỷ lệ phần trăm dân số cho báo cáo sức khỏe cộng đồng hoặc thuyết trình.",
+      "In phiên bản **PDF** để dễ dàng truy cập tại các phòng khám, lớp học hoặc làm tài liệu tham khảo nhanh để hiểu biết cá nhân.",
+      "Tận dụng bộ dữ liệu toàn diện này để giáo dục bệnh nhân, sinh viên hoặc nhân viên về sự phức tạp của truyền máu và khả năng tương thích."
+    ]
+  },
+  "record_count": 11,
+  "title": "Bộ Dữ Liệu Biểu Đồ Tương Thích Nhóm Máu Toàn Diện"
+}

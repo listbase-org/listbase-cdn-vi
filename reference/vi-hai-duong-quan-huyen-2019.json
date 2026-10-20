@@ -1,0 +1,186 @@
+{
+  "id": "vi-hai-duong-quan-huyen-2019",
+  "name": "Hải Dương — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Hải Dương — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 12 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Hải Dương theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 10 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/HD.json). (12 district-level units of Hải Dương under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "HD-01",
+      "name": "Bình Giang",
+      "name_full": "Huyện Bình Giang",
+      "slug": "binh-giang",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 18
+    },
+    {
+      "code": "HD-02",
+      "name": "Cẩm Giàng",
+      "name_full": "Huyện Cẩm Giàng",
+      "slug": "cam-giang",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 19
+    },
+    {
+      "code": "HD-03",
+      "name": "Chí Linh",
+      "name_full": "Thị xã Chí Linh",
+      "slug": "chi-linh",
+      "division_type": "Thị xã",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 20
+    },
+    {
+      "code": "HD-04",
+      "name": "Gia Lộc",
+      "name_full": "Huyện Gia Lộc",
+      "slug": "gia-loc",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 23
+    },
+    {
+      "code": "HD-05",
+      "name": "Hải Dương",
+      "name_full": "Thành phố Hải Dương",
+      "slug": "hai-duong",
+      "division_type": "Thành phố",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 21
+    },
+    {
+      "code": "HD-06",
+      "name": "Kim Thành",
+      "name_full": "Huyện Kim Thành",
+      "slug": "kim-thanh",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 21
+    },
+    {
+      "code": "HD-07",
+      "name": "Kinh Môn",
+      "name_full": "Huyện Kinh Môn",
+      "slug": "kinh-mon",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 27
+    },
+    {
+      "code": "HD-08",
+      "name": "Nam Sách",
+      "name_full": "Huyện Nam Sách",
+      "slug": "nam-sach",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 19
+    },
+    {
+      "code": "HD-09",
+      "name": "Ninh Giang",
+      "name_full": "Huyện Ninh Giang",
+      "slug": "ninh-giang",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 28
+    },
+    {
+      "code": "HD-10",
+      "name": "Thanh Hà",
+      "name_full": "Huyện Thanh Hà",
+      "slug": "thanh-ha",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 25
+    },
+    {
+      "code": "HD-11",
+      "name": "Thanh Miện",
+      "name_full": "Huyện Thanh Miện",
+      "slug": "thanh-mien",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 19
+    },
+    {
+      "code": "HD-12",
+      "name": "Tứ Kỳ",
+      "name_full": "Huyện Tứ Kỳ",
+      "slug": "tu-ky",
+      "division_type": "Huyện",
+      "province_code": "HD",
+      "province_name": "Hải Dương",
+      "ward_count": 27
+    }
+  ],
+  "meta": {
+    "title": "Hải Dương — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 12 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Hải Dương theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 10 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/HD.json). (12 district-level units of Hải Dương under the pre-2025-merger 3-tier hierarchy.) Chứa 12 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Hải Dương — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Hải Dương — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 12 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 12 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "vi-vinh-long-quan-huyen-2019",
+  "name": "Vĩnh Long — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Vĩnh Long — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 8 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Vĩnh Long theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 6 Huyện, 1 Quận, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/VL.json). (8 district-level units of Vĩnh Long under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "VL-01",
+      "name": "Bình Minh",
+      "name_full": "Huyện Bình Minh",
+      "slug": "binh-minh",
+      "division_type": "Huyện",
+      "province_code": "VL",
+      "province_name": "Vĩnh Long",
+      "ward_count": 8
+    },
+    {
+      "code": "VL-02",
+      "name": "Bình Tân",
+      "name_full": "Quận Bình Tân",
+      "slug": "binh-tan",
+      "division_type": "Quận",
+      "province_code": "VL",
+      "province_name": "Vĩnh Long",
+      "ward_count": 11
+    },
+    {
+      "code": "VL-03",
+      "name": "Long Hồ",
+      "name_full": "Huyện Long Hồ",
+      "slug": "long-ho",
+      "division_type": "Huyện",
+      "province_code": "VL",
+      "province_name": "Vĩnh Long",
+      "ward_count": 15
+    },
+    {
+      "code": "VL-04",
+      "name": "Mang Thít",
+      "name_full": "Huyện Mang Thít",
+      "slug": "mang-thit",
+      "division_type": "Huyện",
+      "province_code": "VL",
+      "province_name": "Vĩnh Long",
+      "ward_count": 13
+    },
+    {
+      "code": "VL-05",
+      "name": "Tam Bình",
+      "name_full": "Huyện Tam Bình",
+      "slug": "tam-binh",
+      "division_type": "Huyện",
+      "province_code": "VL",
+      "province_name": "Vĩnh Long",
+      "ward_count": 17
+    },
+    {
+      "code": "VL-06",
+      "name": "Trà Ôn",
+      "name_full": "Huyện Trà Ôn",
+      "slug": "tra-on",
+      "division_type": "Huyện",
+      "province_code": "VL",
+      "province_name": "Vĩnh Long",
+      "ward_count": 14
+    },
+    {
+      "code": "VL-07",
+      "name": "Vĩnh Long",
+      "name_full": "Thành phố Vĩnh Long",
+      "slug": "vinh-long",
+      "division_type": "Thành phố",
+      "province_code": "VL",
+      "province_name": "Vĩnh Long",
+      "ward_count": 11
+    },
+    {
+      "code": "VL-08",
+      "name": "Vũng Liêm",
+      "name_full": "Huyện Vũng Liêm",
+      "slug": "vung-liem",
+      "division_type": "Huyện",
+      "province_code": "VL",
+      "province_name": "Vĩnh Long",
+      "ward_count": 20
+    }
+  ],
+  "meta": {
+    "title": "Vĩnh Long — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 8 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Vĩnh Long theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 6 Huyện, 1 Quận, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/VL.json). (8 district-level units of Vĩnh Long under the pre-2025-merger 3-tier hierarchy.) Chứa 8 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Vĩnh Long — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Vĩnh Long — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 8 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 8 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

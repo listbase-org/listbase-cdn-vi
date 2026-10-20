@@ -1,0 +1,456 @@
+{
+  "id": "math-integral-formulas",
+  "name": "Bộ dữ liệu Công thức Tích phân Thông dụng",
+  "category": "math",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function f(x)",
+      "type": "string"
+    },
+    {
+      "key": "integral",
+      "label": "∫f(x)dx",
+      "type": "string"
+    },
+    {
+      "key": "condition",
+      "label": "Condition",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "Cơ bản",
+      "function": "k",
+      "integral": "kx + C",
+      "condition": "k is constant",
+      "notes": "Quy tắc hằng số"
+    },
+    {
+      "category": "Cơ bản",
+      "function": "x^n",
+      "integral": "x^(n+1)/(n+1) + C",
+      "condition": "n ≠ -1",
+      "notes": "Quy tắc lũy thừa"
+    },
+    {
+      "category": "Cơ bản",
+      "function": "1/x",
+      "integral": "ln|x| + C",
+      "condition": "x ≠ 0",
+      "notes": "Logarit tự nhiên"
+    },
+    {
+      "category": "Cơ bản",
+      "function": "e^x",
+      "integral": "e^x + C",
+      "condition": "-",
+      "notes": "Hàm số mũ"
+    },
+    {
+      "category": "Cơ bản",
+      "function": "a^x",
+      "integral": "a^x/ln(a) + C",
+      "condition": "a > 0, a ≠ 1",
+      "notes": "Hàm số mũ tổng quát"
+    },
+    {
+      "category": "Cơ bản",
+      "function": "x^(-1/2)",
+      "integral": "2√x + C",
+      "condition": "x > 0",
+      "notes": "Dạng căn bậc hai"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "sin(x)",
+      "integral": "-cos(x) + C",
+      "condition": "-",
+      "notes": "Hàm sin"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "cos(x)",
+      "integral": "sin(x) + C",
+      "condition": "-",
+      "notes": "Hàm cosin"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "tan(x)",
+      "integral": "-ln|cos(x)| + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Hàm tang"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "cot(x)",
+      "integral": "ln|sin(x)| + C",
+      "condition": "x ≠ nπ",
+      "notes": "Hàm cotang"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "sec(x)",
+      "integral": "ln|sec(x) + tan(x)| + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Hàm sec"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "csc(x)",
+      "integral": "ln|csc(x) - cot(x)| + C",
+      "condition": "x ≠ nπ",
+      "notes": "Hàm cosec"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "sec²(x)",
+      "integral": "tan(x) + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Sec bình phương"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "csc²(x)",
+      "integral": "-cot(x) + C",
+      "condition": "x ≠ nπ",
+      "notes": "Cosec bình phương"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "sec(x)tan(x)",
+      "integral": "sec(x) + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Dạng tích"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "csc(x)cot(x)",
+      "integral": "-csc(x) + C",
+      "condition": "x ≠ nπ",
+      "notes": "Dạng tích"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "sin²(x)",
+      "integral": "x/2 - sin(2x)/4 + C",
+      "condition": "-",
+      "notes": "Công thức nửa góc"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "cos²(x)",
+      "integral": "x/2 + sin(2x)/4 + C",
+      "condition": "-",
+      "notes": "Công thức nửa góc"
+    },
+    {
+      "category": "Lượng giác ngược",
+      "function": "1/√(1-x²)",
+      "integral": "arcsin(x) + C",
+      "condition": "|x| < 1",
+      "notes": "Dạng arcsin"
+    },
+    {
+      "category": "Lượng giác ngược",
+      "function": "-1/√(1-x²)",
+      "integral": "arccos(x) + C",
+      "condition": "|x| < 1",
+      "notes": "Dạng arccos"
+    },
+    {
+      "category": "Lượng giác ngược",
+      "function": "1/(1+x²)",
+      "integral": "arctan(x) + C",
+      "condition": "-",
+      "notes": "Dạng arctangent"
+    },
+    {
+      "category": "Lượng giác ngược",
+      "function": "-1/(1+x²)",
+      "integral": "arccot(x) + C",
+      "condition": "-",
+      "notes": "Dạng arccotangent"
+    },
+    {
+      "category": "Lượng giác ngược",
+      "function": "1/(|x|√(x²-1))",
+      "integral": "arcsec(x) + C",
+      "condition": "|x| > 1",
+      "notes": "Dạng arcsecant"
+    },
+    {
+      "category": "Lượng giác ngược",
+      "function": "-1/(|x|√(x²-1))",
+      "integral": "arccsc(x) + C",
+      "condition": "|x| > 1",
+      "notes": "Dạng arccosecant"
+    },
+    {
+      "category": "Lượng giác ngược",
+      "function": "1/√(a²-x²)",
+      "integral": "arcsin(x/a) + C",
+      "condition": "|x| < a",
+      "notes": "Arcsin tổng quát"
+    },
+    {
+      "category": "Lượng giác ngược",
+      "function": "1/(a²+x²)",
+      "integral": "(1/a)arctan(x/a) + C",
+      "condition": "a ≠ 0",
+      "notes": "Arctangent tổng quát"
+    },
+    {
+      "category": "Hyperbol",
+      "function": "sinh(x)",
+      "integral": "cosh(x) + C",
+      "condition": "-",
+      "notes": "Sin hyperbol"
+    },
+    {
+      "category": "Hyperbol",
+      "function": "cosh(x)",
+      "integral": "sinh(x) + C",
+      "condition": "-",
+      "notes": "Cosin hyperbol"
+    },
+    {
+      "category": "Hyperbol",
+      "function": "tanh(x)",
+      "integral": "ln(cosh(x)) + C",
+      "condition": "-",
+      "notes": "Tangent hyperbol"
+    },
+    {
+      "category": "Hyperbol",
+      "function": "coth(x)",
+      "integral": "ln|sinh(x)| + C",
+      "condition": "x ≠ 0",
+      "notes": "Cotangent hyperbol"
+    },
+    {
+      "category": "Hyperbol",
+      "function": "sech(x)",
+      "integral": "arctan(sinh(x)) + C",
+      "condition": "-",
+      "notes": "Secant hyperbol"
+    },
+    {
+      "category": "Hyperbol",
+      "function": "csch(x)",
+      "integral": "ln|tanh(x/2)| + C",
+      "condition": "x ≠ 0",
+      "notes": "Cosecant hyperbol"
+    },
+    {
+      "category": "Hyperbol",
+      "function": "sech²(x)",
+      "integral": "tanh(x) + C",
+      "condition": "-",
+      "notes": "Bình phương secant hyperbol"
+    },
+    {
+      "category": "Hyperbol",
+      "function": "csch²(x)",
+      "integral": "-coth(x) + C",
+      "condition": "x ≠ 0",
+      "notes": "Bình phương cosecant hyperbol"
+    },
+    {
+      "category": "Logarit",
+      "function": "ln(x)",
+      "integral": "x·ln(x) - x + C",
+      "condition": "x > 0",
+      "notes": "Tích phân từng phần"
+    },
+    {
+      "category": "Logarit",
+      "function": "log_a(x)",
+      "integral": "x·log_a(x) - x/ln(a) + C",
+      "condition": "x > 0, a > 0",
+      "notes": "Logarit tổng quát"
+    },
+    {
+      "category": "Logarit",
+      "function": "1/(x·ln(x))",
+      "integral": "ln|ln(x)| + C",
+      "condition": "x > 1",
+      "notes": "Logarit lồng nhau"
+    },
+    {
+      "category": "Hữu tỉ",
+      "function": "1/(x²-a²)",
+      "integral": "(1/2a)ln|(x-a)/(x+a)| + C",
+      "condition": "x ≠ ±a",
+      "notes": "Phân thức riêng phần"
+    },
+    {
+      "category": "Hữu tỉ",
+      "function": "1/(a²-x²)",
+      "integral": "(1/2a)ln|(a+x)/(a-x)| + C",
+      "condition": "|x| < a",
+      "notes": "Phân thức riêng phần"
+    },
+    {
+      "category": "Hữu tỉ",
+      "function": "1/√(x²+a²)",
+      "integral": "ln|x + √(x²+a²)| + C",
+      "condition": "-",
+      "notes": "Phép thế hyperbol"
+    },
+    {
+      "category": "Hữu tỉ",
+      "function": "1/√(x²-a²)",
+      "integral": "ln|x + √(x²-a²)| + C",
+      "condition": "|x| > a",
+      "notes": "Phép thế hyperbolic"
+    },
+    {
+      "category": "Hữu tỉ",
+      "function": "1/√(a²-x²)",
+      "integral": "arcsin(x/a) + C",
+      "condition": "|x| < a",
+      "notes": "Phép thế lượng giác"
+    },
+    {
+      "category": "Hữu tỉ",
+      "function": "√(a²-x²)",
+      "integral": "(x/2)√(a²-x²) + (a²/2)arcsin(x/a) + C",
+      "condition": "|x| ≤ a",
+      "notes": "Phép thế lượng giác"
+    },
+    {
+      "category": "Hữu tỉ",
+      "function": "√(x²+a²)",
+      "integral": "(x/2)√(x²+a²) + (a²/2)ln|x+√(x²+a²)| + C",
+      "condition": "-",
+      "notes": "Phép thế hyperbolic"
+    },
+    {
+      "category": "Hữu tỉ",
+      "function": "√(x²-a²)",
+      "integral": "(x/2)√(x²-a²) - (a²/2)ln|x+√(x²-a²)| + C",
+      "condition": "|x| > a",
+      "notes": "Phép thế hyperbolic"
+    },
+    {
+      "category": "Đặc biệt",
+      "function": "e^(ax)sin(bx)",
+      "integral": "e^(ax)(a·sin(bx)-b·cos(bx))/(a²+b²) + C",
+      "condition": "-",
+      "notes": "Tích phân từng phần hai lần"
+    },
+    {
+      "category": "Đặc biệt",
+      "function": "e^(ax)cos(bx)",
+      "integral": "e^(ax)(a·cos(bx)+b·sin(bx))/(a²+b²) + C",
+      "condition": "-",
+      "notes": "Tích phân từng phần hai lần"
+    },
+    {
+      "category": "Đặc biệt",
+      "function": "x·e^x",
+      "integral": "e^x(x-1) + C",
+      "condition": "-",
+      "notes": "Tích phân từng phần"
+    },
+    {
+      "category": "Đặc biệt",
+      "function": "x·sin(x)",
+      "integral": "sin(x) - x·cos(x) + C",
+      "condition": "-",
+      "notes": "Tích phân từng phần"
+    },
+    {
+      "category": "Đặc biệt",
+      "function": "x·cos(x)",
+      "integral": "cos(x) + x·sin(x) + C",
+      "condition": "-",
+      "notes": "Tích phân từng phần"
+    },
+    {
+      "category": "Đặc biệt",
+      "function": "x²·e^x",
+      "integral": "e^x(x²-2x+2) + C",
+      "condition": "-",
+      "notes": "Tích phân từng phần hai lần"
+    },
+    {
+      "category": "Đặc biệt",
+      "function": "x·ln(x)",
+      "integral": "(x²/2)ln(x) - x²/4 + C",
+      "condition": "x > 0",
+      "notes": "Tích phân từng phần"
+    },
+    {
+      "category": "Xác định",
+      "function": "∫₀^∞ e^(-x²) dx",
+      "integral": "√π/2",
+      "condition": "-",
+      "notes": "Tích phân Gauss"
+    },
+    {
+      "category": "Xác định",
+      "function": "∫₀^∞ x^n·e^(-x) dx",
+      "integral": "n! (Gamma function)",
+      "condition": "n ≥ 0 integer",
+      "notes": "Mối quan hệ hàm Gamma"
+    },
+    {
+      "category": "Xác định",
+      "function": "∫₀^π sin^n(x) dx",
+      "integral": "Wallis formula",
+      "condition": "n ≥ 0 integer",
+      "notes": "Công thức truy hồi"
+    },
+    {
+      "category": "Xác định",
+      "function": "∫₀^(π/2) sin^n(x)cos^m(x) dx",
+      "integral": "Beta function",
+      "condition": "n,m > -1",
+      "notes": "Mối quan hệ hàm Beta"
+    }
+  ],
+  "meta": {
+    "seo_title": "Công thức Tích phân Thông dụng - Tải xuống miễn phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống 56 công thức tích phân thông dụng bao gồm các hàm cơ bản, lượng giác và lũy thừa. Miễn phí dưới dạng Excel, CSV và PDF cho sinh viên & chuyên gia toán học.",
+    "title": "Bộ dữ liệu Công thức Tích phân Thông dụng",
+    "description": "Bộ dữ liệu này cung cấp danh sách toàn diện 56 công thức tích phân thông dụng, chi tiết các hàm, tích phân, điều kiện và ghi chú. Lý tưởng cho sinh viên, nhà giáo dục và chuyên gia toán học.",
+    "key_takeaways": [
+      "Truy cập 56 công thức tích phân thiết yếu cho giải tích.",
+      "Khám phá các danh mục như hàm cơ bản, lượng giác và lũy thừa.",
+      "Tải xuống các công thức sẵn sàng sử dụng với điều kiện và ghi chú.",
+      "Tận dụng các định nghĩa tích phân chính xác cho mục đích giáo dục hoặc chuyên nghiệp."
+    ],
+    "keywords": [
+      "công thức tích phân excel",
+      "tích phân giải tích csv",
+      "bảng công thức toán học pdf",
+      "quy tắc tích phân chung",
+      "bảng nguyên hàm",
+      "tải dữ liệu giải tích"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào tập lệnh Python hoặc cơ sở dữ liệu SQL để xây dựng các công cụ giải tích tùy chỉnh hoặc công cụ giáo dục.",
+      "Sử dụng tệp **Excel** để lọc công thức theo danh mục, tạo hướng dẫn học tập hoặc xác minh các phép tính cho các bài toán phức tạp.",
+      "In phiên bản **PDF** để có một hướng dẫn tham khảo nhanh trong lớp học, trong các kỳ thi hoặc cho các buổi học ngoại tuyến.",
+      "Tích hợp bộ dữ liệu này vào các nền tảng học trực tuyến để cung cấp một nguồn tài liệu có cấu trúc cho sinh viên học giải tích tích phân."
+    ]
+  },
+  "record_count": 56,
+  "title": "Bộ dữ liệu Công thức Tích phân Thông dụng"
+}

@@ -1,0 +1,496 @@
+{
+  "id": "vi-vuon-quoc-gia",
+  "name": "Vườn quốc gia ở Việt Nam",
+  "title": "Vườn quốc gia ở Việt Nam",
+  "description": "Danh sách các vườn quốc gia trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q46169 (lớp vườn quốc gia và mọi lớp con) kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Mỗi bản ghi gồm tên tiếng Việt (rdfs:label@vi), tên tiếng Anh, diện tích (km²), năm thành lập, đơn vị hành chính chứa, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự trên Wikidata. Sắp xếp giảm dần theo diện tích. Bao gồm các vườn quốc gia tiêu biểu như Phong Nha - Kẻ Bàng, Cát Tiên và Yok Đôn. Đây là tập dữ liệu vườn quốc gia đầu tiên trong nhóm tiếng Việt, bổ sung cho các tập đã có về sông, thác nước, vịnh/biển, hồ và núi. Lưu ý chất lượng nguồn: bản ghi Vườn quốc gia Bến En (Q770339) có giá trị diện tích 14.735 km² theo đúng dữ liệu Wikidata (P2046, đơn vị km²), nhưng đây gần như chắc chắn là lỗi đơn vị ở thượng nguồn (giá trị thực khoảng 147 km² / 14.735 ha). Giá trị được giữ nguyên theo quy tắc không bịa dữ liệu — mọi bản ghi truy nguyên chính xác tới Wikidata.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "established",
+      "label": "Established",
+      "type": "number"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q770339",
+      "name_vi": "Vườn quốc gia Bến En",
+      "name_en": "Vườn quốc gia Bến En",
+      "area_km2": 14735,
+      "established": 1992,
+      "located_in_at": "",
+      "latitude": 19.616667,
+      "longitude": 105.525,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_B%E1%BA%BFn_En"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q23513",
+      "name_vi": "Vườn quốc gia Phong Nha - Kẻ Bàng",
+      "name_en": "Vườn quốc gia Phong Nha - Kẻ Bàng",
+      "area_km2": 2200.55,
+      "established": 2001,
+      "located_in_at": "Minh Hóa",
+      "latitude": 17.533333,
+      "longitude": 106.15,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Phong_Nha_%E2%80%93_K%E1%BA%BB_B%C3%A0ng"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q1421202",
+      "name_vi": "Vườn quốc gia Cát Tiên",
+      "name_en": "Vườn quốc gia Cát Tiên",
+      "area_km2": 738.78,
+      "established": 1978,
+      "located_in_at": "Lâm Đồng",
+      "latitude": 11.347222,
+      "longitude": 107.151389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_C%C3%A1t_Ti%C3%AAn"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q3895701",
+      "name_vi": "Vườn quốc gia Bidoup Núi Bà",
+      "name_en": "Vườn quốc gia Bidoup Núi Bà",
+      "area_km2": 575.12,
+      "established": 2004,
+      "located_in_at": "Lạc Dương",
+      "latitude": 12.433333,
+      "longitude": 108.5,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Bidoup_%E2%80%93_N%C3%BAi_B%C3%A0"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q1749839",
+      "name_vi": "Vườn quốc gia Kon Ka Kinh",
+      "name_en": "Vườn quốc gia Kon Ka Kinh",
+      "area_km2": 420.57,
+      "established": 2002,
+      "located_in_at": "Gia Lai",
+      "latitude": 14.333333,
+      "longitude": 108.366667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Kon_Ka_Kinh"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q125333",
+      "name_vi": "Vườn quốc gia Mũi Cà Mau",
+      "name_en": "Vườn quốc gia Mũi Cà Mau",
+      "area_km2": 418.62,
+      "established": 2003,
+      "located_in_at": "Cà Mau",
+      "latitude": 8.675,
+      "longitude": 104.791667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_M%C5%A9i_C%C3%A0_Mau"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q1320113",
+      "name_vi": "Vườn quốc gia Núi Chúa",
+      "name_en": "Vườn quốc gia Núi Chúa",
+      "area_km2": 298.65,
+      "established": 2003,
+      "located_in_at": "Ninh Thuận",
+      "latitude": 11.700278,
+      "longitude": 109.152778,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_N%C3%BAi_Ch%C3%BAa"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q1537215",
+      "name_vi": "Vườn quốc gia Cát Bà",
+      "name_en": "Vườn quốc gia Cát Bà",
+      "area_km2": 262.41,
+      "established": 1986,
+      "located_in_at": "Hải Phòng",
+      "latitude": 20.795,
+      "longitude": 107.010556,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_C%C3%A1t_B%C3%A0"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q478280",
+      "name_vi": "Vườn quốc gia Cúc Phương",
+      "name_en": "Vườn quốc gia Cúc Phương",
+      "area_km2": 224.08,
+      "established": 1960,
+      "located_in_at": "Ninh Bình",
+      "latitude": 20.316667,
+      "longitude": 105.608333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_C%C3%BAc_Ph%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q649680",
+      "name_vi": "Vườn quốc gia Bạch Mã",
+      "name_en": "Vườn quốc gia Bạch Mã",
+      "area_km2": 220,
+      "established": 1986,
+      "located_in_at": "",
+      "latitude": 16.2,
+      "longitude": 107.866667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_B%E1%BA%A1ch_M%C3%A3"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q117835609",
+      "name_vi": "Khu bảo tồn thiên nhiên Tà Đung",
+      "name_en": "Khu bảo tồn thiên nhiên Tà Đung",
+      "area_km2": 209.377,
+      "established": 2018,
+      "located_in_at": "",
+      "latitude": 11.89,
+      "longitude": 107.916667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_T%C3%A0_%C4%90%C3%B9ng"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q377998",
+      "name_vi": "Vườn quốc gia Lò Gò-Xa Mát",
+      "name_en": "Vườn quốc gia Lò Gò-Xa Mát",
+      "area_km2": 191.56,
+      "established": 2002,
+      "located_in_at": "Tân Biên",
+      "latitude": 11.408333,
+      "longitude": 106.008333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_L%C3%B2_G%C3%B2_%E2%80%93_Xa_M%C3%A1t"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q1968747",
+      "name_vi": "Vườn quốc gia Ba Bể",
+      "name_en": "Vườn quốc gia Ba Bể",
+      "area_km2": 100.48,
+      "established": 1992,
+      "located_in_at": "Bắc Kạn",
+      "latitude": 22.405278,
+      "longitude": 105.615278,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Ba_B%E1%BB%83"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q1583627",
+      "name_vi": "Vườn quốc gia Xuân Thủy",
+      "name_en": "Vườn quốc gia Xuân Thủy",
+      "area_km2": 71,
+      "established": 2003,
+      "located_in_at": "Nam Định",
+      "latitude": 20.23,
+      "longitude": 106.517,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Xu%C3%A2n_Th%E1%BB%A7y"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q86008640",
+      "name_vi": "Khu bảo tồn thiên nhiên Sông Thanh",
+      "name_en": "Khu bảo tồn thiên nhiên Sông Thanh",
+      "area_km2": "",
+      "established": "",
+      "located_in_at": "Nam Giang",
+      "latitude": 15.670389,
+      "longitude": 107.715028,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_S%C3%B4ng_Thanh"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q30921003",
+      "name_vi": "Khu bảo tồn thiên nhiên Sơn Trà",
+      "name_en": "Khu bảo tồn thiên nhiên Sơn Trà",
+      "area_km2": "",
+      "established": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Khu_b%E1%BA%A3o_t%E1%BB%93n_thi%C3%AAn_nhi%C3%AAn_S%C6%A1n_Tr%C3%A0"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q1134517",
+      "name_vi": "Vườn quốc gia Ba Vì",
+      "name_en": "Vườn quốc gia Ba Vì",
+      "area_km2": "",
+      "established": 1991,
+      "located_in_at": "",
+      "latitude": 21.078056,
+      "longitude": 105.358333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Ba_V%C3%AC"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q3895700",
+      "name_vi": "Vườn quốc gia Bái Tử Long",
+      "name_en": "Vườn quốc gia Bái Tử Long",
+      "area_km2": "",
+      "established": 2001,
+      "located_in_at": "",
+      "latitude": 21.0797,
+      "longitude": 107.5665,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_B%C3%A1i_T%E1%BB%AD_Long"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q3895703",
+      "name_vi": "Vườn quốc gia Bù Gia Mập",
+      "name_en": "Vườn quốc gia Bù Gia Mập",
+      "area_km2": "",
+      "established": "",
+      "located_in_at": "Bình Phước",
+      "latitude": 12.176944,
+      "longitude": 107.190278,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_B%C3%B9_Gia_M%E1%BA%ADp"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q1934378",
+      "name_vi": "Vườn quốc gia Chư Mom Ray",
+      "name_en": "Vườn quốc gia Chư Mom Ray",
+      "area_km2": "",
+      "established": 2002,
+      "located_in_at": "",
+      "latitude": 14.466667,
+      "longitude": 107.633333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Ch%C6%B0_Mom_Ray"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q1320437",
+      "name_vi": "Vườn quốc gia Chư Yang Sin",
+      "name_en": "Vườn quốc gia Chư Yang Sin",
+      "area_km2": "",
+      "established": 2002,
+      "located_in_at": "",
+      "latitude": 12.876944,
+      "longitude": 108.438056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Ch%C6%B0_Yang_Sin"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q1258339",
+      "name_vi": "Vườn quốc gia Côn Đảo",
+      "name_en": "Vườn quốc gia Côn Đảo",
+      "area_km2": "",
+      "established": 1993,
+      "located_in_at": "",
+      "latitude": 8.691667,
+      "longitude": 106.633333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_C%C3%B4n_%C4%90%E1%BA%A3o"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q61133370",
+      "name_vi": "Vườn quốc gia Du Già",
+      "name_en": "Vườn quốc gia Du Già",
+      "area_km2": "",
+      "established": 2015,
+      "located_in_at": "Hà Giang",
+      "latitude": 22.95,
+      "longitude": 105.216667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Du_Gi%C3%A0"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q1137913",
+      "name_vi": "Vườn quốc gia Hoàng Liên",
+      "name_en": "Vườn quốc gia Hoàng Liên",
+      "area_km2": "",
+      "established": 2006,
+      "located_in_at": "",
+      "latitude": 22.303441,
+      "longitude": 103.775139,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Ho%C3%A0ng_Li%C3%AAn"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q61128002",
+      "name_vi": "Vườn quốc gia Phia Oắc - Phia Đén",
+      "name_en": "Vườn quốc gia Phia Oắc - Phia Đén",
+      "area_km2": "",
+      "established": "",
+      "located_in_at": "Cao Bằng",
+      "latitude": 22.583333,
+      "longitude": 105.883333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Phia_O%E1%BA%AFc_%E2%80%93_Phia_%C4%90%C3%A9n"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q1749599",
+      "name_vi": "Vườn quốc gia Phú Quốc",
+      "name_en": "Vườn quốc gia Phú Quốc",
+      "area_km2": "",
+      "established": 2001,
+      "located_in_at": "",
+      "latitude": 10.325,
+      "longitude": 103.95,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Ph%C3%BA_Qu%E1%BB%91c"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q692472",
+      "name_vi": "Vườn quốc gia Phước Bình",
+      "name_en": "Vườn quốc gia Phước Bình",
+      "area_km2": "",
+      "established": 2006,
+      "located_in_at": "",
+      "latitude": 12.071111,
+      "longitude": 108.750556,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Ph%C6%B0%E1%BB%9Bc_B%C3%ACnh"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q2610809",
+      "name_vi": "Vườn quốc gia Pù Mát",
+      "name_en": "Vườn quốc gia Pù Mát",
+      "area_km2": "",
+      "established": 2001,
+      "located_in_at": "",
+      "latitude": 18.983333,
+      "longitude": 104.666667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_P%C3%B9_M%C3%A1t"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q1749057",
+      "name_vi": "Vườn quốc gia Tam Đảo",
+      "name_en": "Vườn quốc gia Tam Đảo",
+      "area_km2": "",
+      "established": 1996,
+      "located_in_at": "",
+      "latitude": 21.5167,
+      "longitude": 105.55,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Tam_%C4%90%E1%BA%A3o"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q586985",
+      "name_vi": "Vườn quốc gia Tràm Chim",
+      "name_en": "Vườn quốc gia Tràm Chim",
+      "area_km2": "",
+      "established": 1998,
+      "located_in_at": "Đồng Tháp",
+      "latitude": 10.725,
+      "longitude": 105.517,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Tr%C3%A0m_Chim"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q3895714",
+      "name_vi": "Vườn quốc gia U Minh Hạ",
+      "name_en": "Vườn quốc gia U Minh Hạ",
+      "area_km2": "",
+      "established": 2006,
+      "located_in_at": "",
+      "latitude": 9.251389,
+      "longitude": 104.945278,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_U_Minh_H%E1%BA%A1"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q1536917",
+      "name_vi": "Vườn quốc gia U Minh Thượng",
+      "name_en": "Vườn quốc gia U Minh Thượng",
+      "area_km2": "",
+      "established": 2002,
+      "located_in_at": "",
+      "latitude": 9.58333,
+      "longitude": 105.083,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_U_Minh_Th%C6%B0%E1%BB%A3ng"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q11697940",
+      "name_vi": "Vườn quốc gia Vũ Quang",
+      "name_en": "Vườn quốc gia Vũ Quang",
+      "area_km2": "",
+      "established": 2002,
+      "located_in_at": "",
+      "latitude": 18.2917,
+      "longitude": 105.408,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_V%C5%A9_Quang"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q1749733",
+      "name_vi": "Vườn quốc gia Xuân Sơn",
+      "name_en": "Vườn quốc gia Xuân Sơn",
+      "area_km2": "",
+      "established": 1986,
+      "located_in_at": "",
+      "latitude": 21.15,
+      "longitude": 104.933,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Xu%C3%A2n_S%C6%A1n"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q286546",
+      "name_vi": "Vườn quốc gia Yok Đôn",
+      "name_en": "Vườn quốc gia Yok Đôn",
+      "area_km2": "",
+      "established": 1986,
+      "located_in_at": "",
+      "latitude": 12.8038,
+      "longitude": 107.671,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_qu%E1%BB%91c_gia_Yok_%C4%90%C3%B4n"
+    }
+  ],
+  "meta": {
+    "title": "Vườn quốc gia ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách các vườn quốc gia trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q46169 (lớp vườn quốc gia và mọi lớp con) kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Mỗi bản ghi gồm tên tiếng Việt (rdfs:label@vi), tên tiếng Anh, diện tích (km²), năm thành lập, đơn vị hành chính chứa, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự trên Wikidata. Sắp xếp giảm dần theo diện tích. Bao gồm các vườn quốc gia tiêu biểu như Phong Nha - Kẻ Bàng, Cát Tiên và Yok Đôn. Đây là tập dữ liệu vườn quốc gia đầu tiên trong nhóm tiếng Việt, bổ sung cho các tập đã có về sông, thác nước, vịnh/biển, hồ và núi. Lưu ý chất lượng nguồn: bản ghi Vườn quốc gia Bến En (Q770339) có giá trị diện tích 14.735 km² theo đúng dữ liệu Wikidata (P2046, đơn vị km²), nhưng đây gần như chắc chắn là lỗi đơn vị ở thượng nguồn (giá trị thực khoảng 147 km² / 14.735 ha). Giá trị được giữ nguyên theo quy tắc không bịa dữ liệu — mọi bản ghi truy nguyên chính xác tới Wikidata. Chứa 35 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Vườn quốc gia ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Vườn quốc gia ở Việt Nam — 35 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 35 bản ghi / 10 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

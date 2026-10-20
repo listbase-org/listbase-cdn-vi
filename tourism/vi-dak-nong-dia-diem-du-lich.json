@@ -1,0 +1,126 @@
+{
+  "id": "vi-dak-nong-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Đắk Nông",
+  "title": "Địa điểm du lịch Đắk Nông",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Đắk Nông (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "number"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 246,
+      "ten_dia_diem": "Công viên địa chất Đắk Nông",
+      "vi_tri": "Đắk Nông",
+      "tinh_truoc_sap_nhap_2025": "Đắk Nông",
+      "mo_ta": "Công viên Địa chất Đắk Nông nổi tiếng với hệ thống hang động núi lửa độc đáo, bao gồm gần 50 hang động với tổng chiều dài hơn 10.000 mét. Công viên Địa chất Đắk Nông không chỉ là nơi bảo tồn các giá trị địa chất, mà còn là nơi lưu giữ và giới thiệu văn hóa của các dân tộc bản địa như người Mạ, người Mnông và người Ê-đê",
+      "danh_gia": "4.3",
+      "danh_gia_diem": 4.3,
+      "anh": "https://vcdn1-dulich.vnecdn.net/2023/09/18/thac-lieng-nung-ha-the-bao-169-4064-1297-1695029127.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PEGSVxss36taUtg2gGqjxA",
+      "tu_khoa": "di sản, lịch sử, văn hóa"
+    },
+    {
+      "stt": 247,
+      "ten_dia_diem": "Thác Dray Sap",
+      "vi_tri": "Đắk Nông",
+      "tinh_truoc_sap_nhap_2025": "Đắk Nông",
+      "mo_ta": "Thác Dray Sap, còn được gọi là Thác Khói, là một trong những thác nước đẹp và hùng vĩ nhất của Tây Nguyên",
+      "danh_gia": "3.4",
+      "danh_gia_diem": 3.4,
+      "anh": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/10/dray-sap-1.jpg",
+      "tu_khoa": "địa phương, độc đáo, khám phá"
+    },
+    {
+      "stt": 248,
+      "ten_dia_diem": "Hang động Chư Bluk",
+      "vi_tri": "Đắk Nông",
+      "tinh_truoc_sap_nhap_2025": "Đắk Nông",
+      "mo_ta": "Hang động Chư Bluk, nằm ở huyện Krông Nô, tỉnh Đắk Nông, là hệ thống hang động núi lửa dài nhất Đông Nam Á. Hang động Chư Bluk nổi bật với vẻ đẹp hoang sơ và kỳ bí, với những cấu trúc đá bazan độc đáo và hệ sinh thái phong phú. Đây là điểm đến lý tưởng cho những ai yêu thích khám phá và mạo hiểm, bởi việc tiếp cận hang động không hề dễ dàng và đòi hỏi sự hướng dẫn của người dân địa phương",
+      "danh_gia": "4.8",
+      "danh_gia_diem": 4.8,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnfpJMgpfKMIvaekKmSaiDLqoAG1EkhGtEJg&s",
+      "tu_khoa": "thiên nhiên, du lịch, hòa bình"
+    },
+    {
+      "stt": 249,
+      "ten_dia_diem": "Hồ Ea Snô",
+      "vi_tri": "Đắk Nông",
+      "tinh_truoc_sap_nhap_2025": "Đắk Nông",
+      "mo_ta": "Hồ Ea Snô được bao quanh bởi hệ sinh thái thực vật đa dạng và phong phú, là nơi sinh sống của nhiều cộng đồng dân tộc bản địa. Khung cảnh nơi đây mang lại cảm giác bình yên và thư thá",
+      "danh_gia": "4.6",
+      "danh_gia_diem": 4.6,
+      "anh": "https://nqs.1cdn.vn/2023/06/11/dautu.kinhtechungkhoan.vn-stores-news_dataimages-2023-062023-11-11-_t1-222620230611115748.jpg",
+      "tu_khoa": "cảnh quan, địa danh, nổi bật"
+    },
+    {
+      "stt": 250,
+      "ten_dia_diem": "Khu bảo tồn thiên nhiên Nâm Nung",
+      "vi_tri": "Đắk Nông",
+      "tinh_truoc_sap_nhap_2025": "Đắk Nông",
+      "mo_ta": "Khu bảo tồn nằm ở tỉnh Đắk Nông, nổi tiếng với hệ sinh thái đa dạng gồm rừng nguyên sinh, thác nước hùng vĩ và nhiều loài động thực vật quý hiếm. Đây là địa điểm lý tưởng cho các hoạt động khám phá thiên nhiên, trekking, và nghiên cứu sinh thái.",
+      "danh_gia": "4.3",
+      "danh_gia_diem": 4.3,
+      "anh": "https://danviet.mediacdn.vn/296231569849192448/2022/7/7/d7d72db1fc3e3f60662f-16571735477191741026026.jpg",
+      "tu_khoa": "khám phá, thiên nhiên, thư giãn"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Đắk Nông - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Đắk Nông (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Đắk Nông | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Đắk Nông — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "vi-thua-thien-hue-quan-huyen-2019",
+  "name": "Thừa Thiên Huế — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Thừa Thiên Huế — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 9 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Thừa Thiên Huế theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 7 Huyện, 1 Thành phố, 1 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/TTH.json). (9 district-level units of Thừa Thiên Huế under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "TTH-01",
+      "name": "A Lưới",
+      "name_full": "Huyện A Lưới",
+      "slug": "a-luoi",
+      "division_type": "Huyện",
+      "province_code": "TTH",
+      "province_name": "Thừa Thiên Huế",
+      "ward_count": 22
+    },
+    {
+      "code": "TTH-02",
+      "name": "Huế",
+      "name_full": "Thành phố Huế",
+      "slug": "hue",
+      "division_type": "Thành phố",
+      "province_code": "TTH",
+      "province_name": "Thừa Thiên Huế",
+      "ward_count": 29
+    },
+    {
+      "code": "TTH-03",
+      "name": "Hương Thủy",
+      "name_full": "Thị xã Hương Thủy",
+      "slug": "huong-thuy",
+      "division_type": "Thị xã",
+      "province_code": "TTH",
+      "province_name": "Thừa Thiên Huế",
+      "ward_count": 14
+    },
+    {
+      "code": "TTH-04",
+      "name": "Hương Trà",
+      "name_full": "Huyện Hương Trà",
+      "slug": "huong-tra",
+      "division_type": "Huyện",
+      "province_code": "TTH",
+      "province_name": "Thừa Thiên Huế",
+      "ward_count": 16
+    },
+    {
+      "code": "TTH-05",
+      "name": "Nam Đông",
+      "name_full": "Huyện Nam Đông",
+      "slug": "nam-dong",
+      "division_type": "Huyện",
+      "province_code": "TTH",
+      "province_name": "Thừa Thiên Huế",
+      "ward_count": 11
+    },
+    {
+      "code": "TTH-06",
+      "name": "Phong Điền",
+      "name_full": "Huyện Phong Điền",
+      "slug": "phong-dien",
+      "division_type": "Huyện",
+      "province_code": "TTH",
+      "province_name": "Thừa Thiên Huế",
+      "ward_count": 17
+    },
+    {
+      "code": "TTH-07",
+      "name": "Phú Lộc",
+      "name_full": "Huyện Phú Lộc",
+      "slug": "phu-loc",
+      "division_type": "Huyện",
+      "province_code": "TTH",
+      "province_name": "Thừa Thiên Huế",
+      "ward_count": 18
+    },
+    {
+      "code": "TTH-08",
+      "name": "Phú Vang",
+      "name_full": "Huyện Phú Vang",
+      "slug": "phu-vang",
+      "division_type": "Huyện",
+      "province_code": "TTH",
+      "province_name": "Thừa Thiên Huế",
+      "ward_count": 20
+    },
+    {
+      "code": "TTH-09",
+      "name": "Quảng Điền",
+      "name_full": "Huyện Quảng Điền",
+      "slug": "quang-dien",
+      "division_type": "Huyện",
+      "province_code": "TTH",
+      "province_name": "Thừa Thiên Huế",
+      "ward_count": 11
+    }
+  ],
+  "meta": {
+    "title": "Thừa Thiên Huế — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 9 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Thừa Thiên Huế theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 7 Huyện, 1 Thành phố, 1 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/TTH.json). (9 district-level units of Thừa Thiên Huế under the pre-2025-merger 3-tier hierarchy.) Chứa 9 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Thừa Thiên Huế — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Thừa Thiên Huế — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 9 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 9 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

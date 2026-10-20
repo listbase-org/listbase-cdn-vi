@@ -1,0 +1,126 @@
+{
+  "id": "vi-lai-chau-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Lai Châu",
+  "title": "Địa điểm du lịch Lai Châu",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Lai Châu (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 16,
+      "ten_dia_diem": "Đèo Ô Quy Hồ",
+      "vi_tri": "Lai Châu",
+      "tinh_truoc_sap_nhap_2025": "Lai Châu",
+      "mo_ta": "Một trong \"Tứ đại đỉnh đèo\" của Tây Bắc, Đèo Ô Quy Hồ nối liền Lào Cai và Lai Châu, nổi tiếng với cảnh sắc tuyệt đẹp và độ cao hùng vĩ",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://www.kynghidongduong.vn/userfiles/images/Vietnam/Sapa/deo-o-quy-ho-sapa-kynghidongduong.vn%20(02).jpg",
+      "tu_khoa": "đèo, tham quan, chụp ảnh"
+    },
+    {
+      "stt": 17,
+      "ten_dia_diem": "Đỉnh Pu Ta Leng",
+      "vi_tri": "Lai Châu",
+      "tinh_truoc_sap_nhap_2025": "Lai Châu",
+      "mo_ta": "Đỉnh núi cao thứ hai Việt Nam (3.049m), thuộc dãy Hoàng Liên Sơn, được mệnh danh là \"nóc nhà thứ hai\" của Đông Dương.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://tse4.mm.bing.net/th?id=OIP.BiJgl7PpikStQvCnsbFBnQHaEc&pid=Api&P=0&h=220",
+      "tu_khoa": "núi, thám hiểm, chụp ảnh, khám phá"
+    },
+    {
+      "stt": 18,
+      "ten_dia_diem": "Cánh đồng Mường Than",
+      "vi_tri": "Lai Châu",
+      "tinh_truoc_sap_nhap_2025": "Lai Châu",
+      "mo_ta": "Vào mùa lúa chín, cánh đồng Mường Than rực rỡ sắc vàng, tạo nên một bức tranh thiên nhiên thơ mộng",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://tse2.mm.bing.net/th?id=OIP.9LboGnBOwneYQW4KMBKl9gHaEK&pid=Api&P=0&h=220",
+      "tu_khoa": "cánh đồng, chụp ảnh, tham quan"
+    },
+    {
+      "stt": 19,
+      "ten_dia_diem": "Hồ Thủy Điện Lai Châu",
+      "vi_tri": "Lai Châu",
+      "tinh_truoc_sap_nhap_2025": "Lai Châu",
+      "mo_ta": "Hồ nước nhân tạo khổng lồ được tạo nên từ công trình Thủy điện Lai Châu, nằm giữa khung cảnh núi non thơ mộng.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://tse2.mm.bing.net/th?id=OIP.l_QHXHqnrJUG2mNIawZdzAHaFj&pid=Api&P=0&h=220",
+      "tu_khoa": "hồ thủy điện, tham quan, chụp ảnh"
+    },
+    {
+      "stt": 20,
+      "ten_dia_diem": "Chợ phiên Sìn Hồ",
+      "vi_tri": "Lai Châu",
+      "tinh_truoc_sap_nhap_2025": "Lai Châu",
+      "mo_ta": "Nơi diễn ra các hoạt động mua bán nhộn nhịp của các dân tộc Thái, H’Mông, Dao, Lự...",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://tse3.mm.bing.net/th?id=OIP.DttHClSeqyAUJH2yDY5JVAHaE7&pid=Api&P=0&h=220",
+      "tu_khoa": "chợ, ăn uống, tham quan, văn hóa"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Lai Châu - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Lai Châu (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Lai Châu | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Lai Châu — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

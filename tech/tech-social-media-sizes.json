@@ -1,0 +1,452 @@
+{
+  "id": "tech-social-media-sizes",
+  "name": "Bộ Dữ Liệu Kích Thước & Định Dạng Ảnh Mạng Xã Hội",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "platform",
+      "label": "Platform",
+      "type": "string"
+    },
+    {
+      "key": "image_type",
+      "label": "Image Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "dimensions",
+      "label": "Dimensions (px)",
+      "type": "string"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "type": "number"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "type": "number"
+    },
+    {
+      "key": "aspect_ratio",
+      "label": "Aspect Ratio",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "platform": "Facebook",
+      "image_type": "Ảnh đại diện",
+      "dimensions": "180 × 180",
+      "width": 180,
+      "height": 180,
+      "aspect_ratio": "1:1",
+      "notes": "Hiển thị 170x170 trên máy tính"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Ảnh bìa",
+      "dimensions": "820 × 312",
+      "width": 820,
+      "height": 312,
+      "aspect_ratio": "2.63:1",
+      "notes": "Kích thước hiển thị trên máy tính"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Ảnh bìa (Di động)",
+      "dimensions": "640 × 360",
+      "width": 640,
+      "height": 360,
+      "aspect_ratio": "16:9",
+      "notes": "Hiển thị trên di động"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Ảnh chia sẻ",
+      "dimensions": "1200 × 630",
+      "width": 1200,
+      "height": 630,
+      "aspect_ratio": "1.91:1",
+      "notes": "Ảnh bài đăng trên bảng tin"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Ảnh bìa sự kiện",
+      "dimensions": "1920 × 1005",
+      "width": 1920,
+      "height": 1005,
+      "aspect_ratio": "1.91:1",
+      "notes": "Tiêu đề trang sự kiện"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Story",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Toàn màn hình dọc"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Ảnh đại diện",
+      "dimensions": "320 × 320",
+      "width": 320,
+      "height": 320,
+      "aspect_ratio": "1:1",
+      "notes": "Cắt hình tròn"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Bài đăng vuông",
+      "dimensions": "1080 × 1080",
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "1:1",
+      "notes": "Bài đăng tiêu chuẩn trên bảng tin"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Bài đăng dọc",
+      "dimensions": "1080 × 1350",
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": "4:5",
+      "notes": "Bài đăng dọc trên bảng tin"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Bài đăng ngang",
+      "dimensions": "1080 × 566",
+      "width": 1080,
+      "height": 566,
+      "aspect_ratio": "1.91:1",
+      "notes": "Bài đăng ngang trên bảng tin"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Story/Reels",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Toàn màn hình dọc"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Băng chuyền ảnh",
+      "dimensions": "1080 × 1080",
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "1:1",
+      "notes": "Bài đăng nhiều ảnh"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Ảnh đại diện",
+      "dimensions": "400 × 400",
+      "width": 400,
+      "height": 400,
+      "aspect_ratio": "1:1",
+      "notes": "Hiển thị 200x200"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Ảnh tiêu đề",
+      "dimensions": "1500 × 500",
+      "width": 1500,
+      "height": 500,
+      "aspect_ratio": "3:1",
+      "notes": "Ảnh biểu ngữ"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Ảnh trong luồng",
+      "dimensions": "1200 × 675",
+      "width": 1200,
+      "height": 675,
+      "aspect_ratio": "16:9",
+      "notes": "Ảnh tweet"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Ảnh thẻ",
+      "dimensions": "1200 × 628",
+      "width": 1200,
+      "height": 628,
+      "aspect_ratio": "1.91:1",
+      "notes": "Xem trước liên kết"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Ảnh đại diện",
+      "dimensions": "400 × 400",
+      "width": 400,
+      "height": 400,
+      "aspect_ratio": "1:1",
+      "notes": "Hồ sơ cá nhân"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Ảnh nền",
+      "dimensions": "1584 × 396",
+      "width": 1584,
+      "height": 396,
+      "aspect_ratio": "4:1",
+      "notes": "Biểu ngữ hồ sơ"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Logo công ty",
+      "dimensions": "300 × 300",
+      "width": 300,
+      "height": 300,
+      "aspect_ratio": "1:1",
+      "notes": "Trang công ty"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Ảnh bìa",
+      "dimensions": "1128 × 191",
+      "width": 1128,
+      "height": 191,
+      "aspect_ratio": "5.9:1",
+      "notes": "Biểu ngữ trang công ty"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Bài đăng được chia sẻ",
+      "dimensions": "1200 × 627",
+      "width": 1200,
+      "height": 627,
+      "aspect_ratio": "1.91:1",
+      "notes": "Bài đăng trên bảng tin"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Hồ sơ kênh",
+      "dimensions": "800 × 800",
+      "width": 800,
+      "height": 800,
+      "aspect_ratio": "1:1",
+      "notes": "Biểu tượng kênh"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Biểu ngữ kênh",
+      "dimensions": "2560 × 1440",
+      "width": 2560,
+      "height": 1440,
+      "aspect_ratio": "16:9",
+      "notes": "Biểu ngữ kích thước đầy đủ"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Hình thu nhỏ video",
+      "dimensions": "1280 × 720",
+      "width": 1280,
+      "height": 720,
+      "aspect_ratio": "16:9",
+      "notes": "Hình thu nhỏ tùy chỉnh"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Shorts",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Video ngắn dọc"
+    },
+    {
+      "platform": "TikTok",
+      "image_type": "Ảnh đại diện",
+      "dimensions": "200 × 200",
+      "width": 200,
+      "height": 200,
+      "aspect_ratio": "1:1",
+      "notes": "Ảnh đại diện"
+    },
+    {
+      "platform": "TikTok",
+      "image_type": "Video",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Video tiêu chuẩn"
+    },
+    {
+      "platform": "Pinterest",
+      "image_type": "Ảnh đại diện",
+      "dimensions": "165 × 165",
+      "width": 165,
+      "height": 165,
+      "aspect_ratio": "1:1",
+      "notes": "Ảnh đại diện"
+    },
+    {
+      "platform": "Pinterest",
+      "image_type": "Ảnh ghim",
+      "dimensions": "1000 × 1500",
+      "width": 1000,
+      "height": 1500,
+      "aspect_ratio": "2:3",
+      "notes": "Kích thước ghim tối ưu"
+    },
+    {
+      "platform": "Pinterest",
+      "image_type": "Ảnh bìa bảng",
+      "dimensions": "222 × 150",
+      "width": 222,
+      "height": 150,
+      "aspect_ratio": "3:2",
+      "notes": "Hình thu nhỏ bảng"
+    },
+    {
+      "platform": "Snapchat",
+      "image_type": "Snap/Story",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Nội dung toàn màn hình"
+    },
+    {
+      "platform": "Snapchat",
+      "image_type": "Geofilter",
+      "dimensions": "1080 × 2340",
+      "width": 1080,
+      "height": 2340,
+      "aspect_ratio": "9:19.5",
+      "notes": "Bộ lọc tùy chỉnh"
+    },
+    {
+      "platform": "WhatsApp",
+      "image_type": "Ảnh đại diện",
+      "dimensions": "500 × 500",
+      "width": 500,
+      "height": 500,
+      "aspect_ratio": "1:1",
+      "notes": "Ảnh đại diện"
+    },
+    {
+      "platform": "WhatsApp",
+      "image_type": "Trạng thái",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Ảnh trạng thái"
+    },
+    {
+      "platform": "Discord",
+      "image_type": "Biểu tượng máy chủ",
+      "dimensions": "512 × 512",
+      "width": 512,
+      "height": 512,
+      "aspect_ratio": "1:1",
+      "notes": "Ảnh đại diện máy chủ"
+    },
+    {
+      "platform": "Discord",
+      "image_type": "Biểu ngữ máy chủ",
+      "dimensions": "960 × 540",
+      "width": 960,
+      "height": 540,
+      "aspect_ratio": "16:9",
+      "notes": "Biểu ngữ máy chủ"
+    },
+    {
+      "platform": "Discord",
+      "image_type": "Ảnh đại diện người dùng",
+      "dimensions": "128 × 128",
+      "width": 128,
+      "height": 128,
+      "aspect_ratio": "1:1",
+      "notes": "Hồ sơ người dùng"
+    },
+    {
+      "platform": "Twitch",
+      "image_type": "Ảnh đại diện",
+      "dimensions": "256 × 256",
+      "width": 256,
+      "height": 256,
+      "aspect_ratio": "1:1",
+      "notes": "Ảnh đại diện kênh"
+    },
+    {
+      "platform": "Twitch",
+      "image_type": "Biểu ngữ hồ sơ",
+      "dimensions": "1200 × 480",
+      "width": 1200,
+      "height": 480,
+      "aspect_ratio": "2.5:1",
+      "notes": "Biểu ngữ kênh"
+    },
+    {
+      "platform": "Twitch",
+      "image_type": "Hình thu nhỏ video",
+      "dimensions": "1280 × 720",
+      "width": 1280,
+      "height": 720,
+      "aspect_ratio": "16:9",
+      "notes": "Hình thu nhỏ luồng trực tiếp"
+    },
+    {
+      "platform": "Threads",
+      "image_type": "Ảnh đại diện",
+      "dimensions": "320 × 320",
+      "width": 320,
+      "height": 320,
+      "aspect_ratio": "1:1",
+      "notes": "Giống như Instagram"
+    },
+    {
+      "platform": "Threads",
+      "image_type": "Ảnh bài đăng",
+      "dimensions": "1080 × 1080",
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "1:1",
+      "notes": "Bài đăng vuông"
+    }
+  ],
+  "meta": {
+    "seo_title": "Kích thước Ảnh Mạng Xã Hội - Tải Xuống Miễn Phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống miễn phí 42 kích thước và định dạng ảnh mạng xã hội cho các nền tảng hàng đầu. Nhận thông số kỹ thuật hiện tại cho bài đăng, hồ sơ, ảnh bìa. Có sẵn dưới dạng Excel, CSV, PDF.",
+    "title": "Bộ Dữ Liệu Kích Thước & Định Dạng Ảnh Mạng Xã Hội",
+    "description": "Bộ dữ liệu này cung cấp danh sách đầy đủ 42 kích thước, định dạng và tỷ lệ khung hình ảnh mạng xã hội trên nhiều nền tảng khác nhau. Nhận thông số kỹ thuật cập nhật cho ảnh hồ sơ, ảnh bìa và bài đăng được chia sẻ.",
+    "key_takeaways": [
+      "Truy cập các thông số kỹ thuật kích thước ảnh hiện tại cho các nền tảng mạng xã hội lớn.",
+      "Khám phá các kích thước (chiều rộng, chiều cao), tỷ lệ khung hình và ghi chú cho 42 loại ảnh.",
+      "Tải xuống dữ liệu sẵn sàng sử dụng để thiết kế hình ảnh mạng xã hội hiệu quả.",
+      "Nhận các hướng dẫn thiết yếu để tối ưu hóa nội dung mạng xã hội của bạn."
+    ],
+    "keywords": [
+      "kích thước ảnh mạng xã hội excel",
+      "định dạng ảnh facebook csv",
+      "kích thước bài đăng instagram pdf",
+      "kích thước ảnh bìa youtube",
+      "hướng dẫn thiết kế mạng xã hội",
+      "danh sách tỷ lệ khung hình"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào tập lệnh Python hoặc API của bạn để tự động xác thực ảnh tải lên dựa trên yêu cầu của nền tảng.",
+      "Sử dụng tệp **Excel** để tạo Bảng tổng hợp nhằm so sánh tỷ lệ khung hình giữa các nền tảng hoặc lọc theo loại ảnh để tham khảo nhanh trong các dự án thiết kế.",
+      "In phiên bản **PDF** để có hướng dẫn tham khảo ngoại tuyến nhanh chóng cho nhóm thiết kế của bạn hoặc làm tài liệu phát tay trong hội thảo tiếp thị mạng xã hội.",
+      "Tận dụng dữ liệu này để tối ưu hóa nội dung hình ảnh, đảm bảo ảnh luôn trông chuyên nghiệp và vừa vặn hoàn hảo trên mọi nền tảng mạng xã hội."
+    ]
+  },
+  "record_count": 42,
+  "title": "Bộ Dữ Liệu Kích Thước & Định Dạng Ảnh Mạng Xã Hội"
+}

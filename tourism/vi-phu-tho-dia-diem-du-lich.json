@@ -1,0 +1,126 @@
+{
+  "id": "vi-phu-tho-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Phú Thọ",
+  "title": "Địa điểm du lịch Phú Thọ",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Phú Thọ (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 61,
+      "ten_dia_diem": "Đền Hùng",
+      "vi_tri": "Phú Thọ",
+      "tinh_truoc_sap_nhap_2025": "Phú Thọ",
+      "mo_ta": "Là khu di tích lịch sử quốc gia đặc biệt, nơi thờ các vua Hùng – những người dựng nước đầu tiên của dân tộc Việt Nam.",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://tse4.mm.bing.net/th?id=OIP.14_huh2INyBfjWTu11d8hAHaDX&pid=Api&P=0&h=220",
+      "tu_khoa": "đền, tham quan, chụp ảnh, lịch sử"
+    },
+    {
+      "stt": 62,
+      "ten_dia_diem": "Làng cổ Hùng Lô",
+      "vi_tri": "Phú Thọ",
+      "tinh_truoc_sap_nhap_2025": "Phú Thọ",
+      "mo_ta": "Nổi tiếng với các ngôi nhà cổ hàng trăm năm tuổi, cùng các nghề truyền thống như làm bánh chưng, bánh giầy.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://tse1.mm.bing.net/th?id=OIP.PuN6PGPDxH26j32lV3PDNwHaFj&pid=Api&P=0&h=220",
+      "tu_khoa": "làng cổ, tham quan, lịch sử, chụp ảnh"
+    },
+    {
+      "stt": 63,
+      "ten_dia_diem": "Đảo Ngọc Xanh",
+      "vi_tri": "Phú Thọ",
+      "tinh_truoc_sap_nhap_2025": "Phú Thọ",
+      "mo_ta": "Là khu du lịch sinh thái kết hợp nghỉ dưỡng, với cảnh quan thiên nhiên trong lành, công viên nước, trò chơi cảm giác mạnh và khu suối nước nóng",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://tse1.mm.bing.net/th?id=OIP.7efND2yzFvvpeKQnvS52ygHaEb&pid=Api&P=0&h=220",
+      "tu_khoa": "tham quan, chụp ảnh, nghĩ dưỡng, vui chơi, ăn uống"
+    },
+    {
+      "stt": 64,
+      "ten_dia_diem": "Vườn quốc gia Xuân Sơn",
+      "vi_tri": "Phú Thọ",
+      "tinh_truoc_sap_nhap_2025": "Phú Thọ",
+      "mo_ta": "Là một trong những khu bảo tồn thiên nhiên lớn nhất miền Bắc, nổi bật với hệ sinh thái rừng nhiệt đới và các loài động, thực vật phong phú",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://tse2.mm.bing.net/th?id=OIP.P0f3XiQklTZTeh11_svtbwHaFt&pid=Api&P=0&h=220",
+      "tu_khoa": "rừng, tham quan, chụp ảnh"
+    },
+    {
+      "stt": 65,
+      "ten_dia_diem": "Suối nước nóng Thanh Thủy",
+      "vi_tri": "Phú Thọ",
+      "tinh_truoc_sap_nhap_2025": "Phú Thọ",
+      "mo_ta": "Là khu vực có các dịch vụ nghỉ dưỡng và trị liệu hiện đại.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://tuongtaccongdong.s3.amazonaws.com/a4c1ca5a-cbd3-4f89-a276-0a70527ffa7a/79554a07-25ed-475e-b814-d62ae7bd06ea.jpg",
+      "tu_khoa": "suối, chụp ảnh, vui chơi, nghĩ dưỡng"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Phú Thọ - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Phú Thọ (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Phú Thọ | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Phú Thọ — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

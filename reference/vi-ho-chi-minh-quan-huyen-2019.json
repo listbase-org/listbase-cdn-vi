@@ -1,0 +1,306 @@
+{
+  "id": "vi-ho-chi-minh-quan-huyen-2019",
+  "name": "Hồ Chí Minh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Hồ Chí Minh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 24 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Hồ Chí Minh theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 12 , 7 Quận, 5 Huyện. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/SG.json). (24 district-level units of Hồ Chí Minh under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "SG-01",
+      "name": "Bình Chánh",
+      "name_full": "Huyện Bình Chánh",
+      "slug": "binh-chanh",
+      "division_type": "Huyện",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 16
+    },
+    {
+      "code": "SG-02",
+      "name": "Bình Tân",
+      "name_full": "Quận Bình Tân",
+      "slug": "binh-tan",
+      "division_type": "Quận",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 10
+    },
+    {
+      "code": "SG-03",
+      "name": "Bình Thạnh",
+      "name_full": "Quận Bình Thạnh",
+      "slug": "binh-thanh",
+      "division_type": "Quận",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 20
+    },
+    {
+      "code": "SG-04",
+      "name": "Cần Giờ",
+      "name_full": "Huyện Cần Giờ",
+      "slug": "can-gio",
+      "division_type": "Huyện",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 7
+    },
+    {
+      "code": "SG-05",
+      "name": "Củ Chi",
+      "name_full": "Huyện Củ Chi",
+      "slug": "cu-chi",
+      "division_type": "Huyện",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 23
+    },
+    {
+      "code": "SG-06",
+      "name": "Gò Vấp",
+      "name_full": "Quận Gò Vấp",
+      "slug": "go-vap",
+      "division_type": "Quận",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 16
+    },
+    {
+      "code": "SG-07",
+      "name": "Hóc Môn",
+      "name_full": "Huyện Hóc Môn",
+      "slug": "hoc-mon",
+      "division_type": "Huyện",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 12
+    },
+    {
+      "code": "SG-08",
+      "name": "Nhà Bè",
+      "name_full": "Huyện Nhà Bè",
+      "slug": "nha-be",
+      "division_type": "Huyện",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 7
+    },
+    {
+      "code": "SG-09",
+      "name": "Phú Nhuận",
+      "name_full": "Quận Phú Nhuận",
+      "slug": "phu-nhuan",
+      "division_type": "Quận",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 17
+    },
+    {
+      "code": "SG-10",
+      "name": "Quận 1",
+      "name_full": "Quận 1",
+      "slug": "quan-1",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 10
+    },
+    {
+      "code": "SG-11",
+      "name": "Quận 10",
+      "name_full": "Quận 10",
+      "slug": "quan-10",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 15
+    },
+    {
+      "code": "SG-12",
+      "name": "Quận 11",
+      "name_full": "Quận 11",
+      "slug": "quan-11",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 16
+    },
+    {
+      "code": "SG-13",
+      "name": "Quận 12",
+      "name_full": "Quận 12",
+      "slug": "quan-12",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 11
+    },
+    {
+      "code": "SG-14",
+      "name": "Quận 2",
+      "name_full": "Quận 2",
+      "slug": "quan-2",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 11
+    },
+    {
+      "code": "SG-15",
+      "name": "Quận 3",
+      "name_full": "Quận 3",
+      "slug": "quan-3",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 14
+    },
+    {
+      "code": "SG-16",
+      "name": "Quận 4",
+      "name_full": "Quận 4",
+      "slug": "quan-4",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 15
+    },
+    {
+      "code": "SG-17",
+      "name": "Quận 5",
+      "name_full": "Quận 5",
+      "slug": "quan-5",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 15
+    },
+    {
+      "code": "SG-18",
+      "name": "Quận 6",
+      "name_full": "Quận 6",
+      "slug": "quan-6",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 14
+    },
+    {
+      "code": "SG-19",
+      "name": "Quận 7",
+      "name_full": "Quận 7",
+      "slug": "quan-7",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 10
+    },
+    {
+      "code": "SG-20",
+      "name": "Quận 8",
+      "name_full": "Quận 8",
+      "slug": "quan-8",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 16
+    },
+    {
+      "code": "SG-21",
+      "name": "Quận 9",
+      "name_full": "Quận 9",
+      "slug": "quan-9",
+      "division_type": "",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 13
+    },
+    {
+      "code": "SG-22",
+      "name": "Tân Bình",
+      "name_full": "Quận Tân Bình",
+      "slug": "tan-binh",
+      "division_type": "Quận",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 15
+    },
+    {
+      "code": "SG-23",
+      "name": "Tân Phú",
+      "name_full": "Quận Tân Phú",
+      "slug": "tan-phu",
+      "division_type": "Quận",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 11
+    },
+    {
+      "code": "SG-24",
+      "name": "Thủ Đức",
+      "name_full": "Quận Thủ Đức",
+      "slug": "thu-duc",
+      "division_type": "Quận",
+      "province_code": "SG",
+      "province_name": "Hồ Chí Minh",
+      "ward_count": 12
+    }
+  ],
+  "meta": {
+    "title": "Hồ Chí Minh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 24 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Hồ Chí Minh theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 12 , 7 Quận, 5 Huyện. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/SG.json). (24 district-level units of Hồ Chí Minh under the pre-2025-merger 3-tier hierarchy.) Chứa 24 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Hồ Chí Minh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Hồ Chí Minh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 24 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 24 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

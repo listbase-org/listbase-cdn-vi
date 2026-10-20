@@ -1,0 +1,106 @@
+{
+  "id": "vi-bac-giang-san-bay",
+  "name": "Sân bay — Bắc Giang",
+  "title": "Sân bay — Bắc Giang",
+  "description": "Danh sách các sân bay và phi trường tại Bắc Giang (Việt Nam / VN) — bao gồm mã ICAO/IATA, thành phố, tọa độ WGS84, độ cao (feet) và múi giờ. Tập hợp con của danh sách sân bay quốc gia, được lọc theo subdivision='Bắc-Giang' trong nguồn dữ liệu mborsetti/airportsdata. (Airports in Bac Giang, Vietnam — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list with subdivision='Bắc-Giang' in upstream source.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "VVKP",
+      "iata": "",
+      "name": "Kep Air Base",
+      "city": "Kep",
+      "subdivision": "Bắc-Giang",
+      "subdivision_native": "Bắc Giang",
+      "country": "VN",
+      "country_native": "Việt Nam",
+      "elevation_ft": 55,
+      "latitude": 21.3946,
+      "longitude": 106.261,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Sân bay — Bắc Giang - Tải miễn phí",
+    "description": "Danh sách các sân bay và phi trường tại Bắc Giang (Việt Nam / VN) — bao gồm mã ICAO/IATA, thành phố, tọa độ WGS84, độ cao (feet) và múi giờ. Tập hợp con của danh sách sân bay quốc gia, được lọc theo subdivision='Bắc-Giang' trong nguồn dữ liệu mborsetti/airportsdata. (Airports in Bac Giang, Vietnam — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list with subdivision='Bắc-Giang' in upstream source.) Chứa 1 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Sân bay — Bắc Giang | ListBase",
+    "seo_description": "Tải xuống Sân bay — Bắc Giang — 1 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 1 bản ghi / 13 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

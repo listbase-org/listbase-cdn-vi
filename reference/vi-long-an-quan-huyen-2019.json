@@ -1,0 +1,216 @@
+{
+  "id": "vi-long-an-quan-huyen-2019",
+  "name": "Long An — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Long An — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 15 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Long An theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 13 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/LA.json). (15 district-level units of Long An under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "LA-01",
+      "name": "Bến Lức",
+      "name_full": "Huyện Bến Lức",
+      "slug": "ben-luc",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 15
+    },
+    {
+      "code": "LA-02",
+      "name": "Cần Đước",
+      "name_full": "Huyện Cần Đước",
+      "slug": "can-duoc",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 18
+    },
+    {
+      "code": "LA-03",
+      "name": "Cần Giuộc",
+      "name_full": "Huyện Cần Giuộc",
+      "slug": "can-giuoc",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 17
+    },
+    {
+      "code": "LA-04",
+      "name": "Châu Thành",
+      "name_full": "Huyện Châu Thành",
+      "slug": "chau-thanh",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 13
+    },
+    {
+      "code": "LA-05",
+      "name": "Đức Hòa",
+      "name_full": "Huyện Đức Hòa",
+      "slug": "duc-hoa",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 20
+    },
+    {
+      "code": "LA-06",
+      "name": "Đức Huệ",
+      "name_full": "Huyện Đức Huệ",
+      "slug": "duc-hue",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 11
+    },
+    {
+      "code": "LA-07",
+      "name": "Kiến Tường",
+      "name_full": "Thị xã Kiến Tường",
+      "slug": "kien-tuong",
+      "division_type": "Thị xã",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 8
+    },
+    {
+      "code": "LA-08",
+      "name": "Mộc Hóa",
+      "name_full": "Huyện Mộc Hóa",
+      "slug": "moc-hoa",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 7
+    },
+    {
+      "code": "LA-09",
+      "name": "Tân An",
+      "name_full": "Thành phố Tân An",
+      "slug": "tan-an",
+      "division_type": "Thành phố",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 14
+    },
+    {
+      "code": "LA-10",
+      "name": "Tân Hưng",
+      "name_full": "Huyện Tân Hưng",
+      "slug": "tan-hung",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 13
+    },
+    {
+      "code": "LA-11",
+      "name": "Tân Thạnh",
+      "name_full": "Huyện Tân Thạnh",
+      "slug": "tan-thanh",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 13
+    },
+    {
+      "code": "LA-12",
+      "name": "Tân Trụ",
+      "name_full": "Huyện Tân Trụ",
+      "slug": "tan-tru",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 11
+    },
+    {
+      "code": "LA-13",
+      "name": "Thạnh Hóa",
+      "name_full": "Huyện Thạnh Hóa",
+      "slug": "thanh-hoa",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 11
+    },
+    {
+      "code": "LA-14",
+      "name": "Thủ Thừa",
+      "name_full": "Huyện Thủ Thừa",
+      "slug": "thu-thua",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 13
+    },
+    {
+      "code": "LA-15",
+      "name": "Vĩnh Hưng",
+      "name_full": "Huyện Vĩnh Hưng",
+      "slug": "vinh-hung",
+      "division_type": "Huyện",
+      "province_code": "LA",
+      "province_name": "Long An",
+      "ward_count": 10
+    }
+  ],
+  "meta": {
+    "title": "Long An — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 15 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Long An theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 13 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/LA.json). (15 district-level units of Long An under the pre-2025-merger 3-tier hierarchy.) Chứa 15 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Long An — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Long An — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 15 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 15 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

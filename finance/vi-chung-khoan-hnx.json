@@ -1,0 +1,2298 @@
+{
+  "id": "vi-chung-khoan-hnx",
+  "name": "Mã chứng khoán — Sàn HNX",
+  "title": "Mã chứng khoán — Sàn HNX",
+  "description": "Mã chứng khoán niêm yết trên Sở Giao dịch Chứng khoán Hà Nội (HNX).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 321,
+  "columns": [
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "exchange",
+      "label": "Exchange",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "organ_short_name",
+      "label": "Organ Short Name",
+      "type": "string"
+    },
+    {
+      "key": "organ_name",
+      "label": "Organ Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "symbol": "X20",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "May mặc X20",
+      "organ_name": "Công ty Cổ phần X20"
+    },
+    {
+      "symbol": "WSS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán Phố Wall",
+      "organ_name": "Công ty Cổ phần Chứng khoán Phố Wall"
+    },
+    {
+      "symbol": "WCS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bến xe Miền Tây",
+      "organ_name": "Công ty Cổ phần Bến xe Miền Tây"
+    },
+    {
+      "symbol": "VTZ",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Nhựa Việt Thành",
+      "organ_name": "Công ty Cổ phần Sản xuất và Thương mại Nhựa Việt Thành"
+    },
+    {
+      "symbol": "VTV",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Năng lượng và Môi trường VICEM",
+      "organ_name": "Công ty Cổ phần Năng lượng và Môi trường VICEM"
+    },
+    {
+      "symbol": "VTJ",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "TM và Đầu tư VINATABA",
+      "organ_name": "Công ty Cổ phần Thương mại và Đầu tư VI NA TA BA"
+    },
+    {
+      "symbol": "VTH",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Dây cáp điện Việt Thái",
+      "organ_name": "Công ty Cổ phần Dây cáp điện Việt Thái"
+    },
+    {
+      "symbol": "VTC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Viễn thông VTC",
+      "organ_name": "Công ty Cổ phần Viễn Thông VTC"
+    },
+    {
+      "symbol": "VSM",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Container Miền Trung",
+      "organ_name": "Công ty Cổ phần Container Miền Trung"
+    },
+    {
+      "symbol": "VSA",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đại lý Hàng hải VN",
+      "organ_name": "Công ty Cổ phần Đại lý Hàng hải Việt Nam"
+    },
+    {
+      "symbol": "VNT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải ngoại thương",
+      "organ_name": "Công ty Cổ phần Giao nhận Vận tải Ngoại Thương"
+    },
+    {
+      "symbol": "VNR",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tái bảo hiểm Quốc gia",
+      "organ_name": "Tổng Công ty Cổ phần Tái bảo hiểm Quốc gia Việt Nam"
+    },
+    {
+      "symbol": "VNF",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "VINAFREIGHT",
+      "organ_name": "Công ty Cổ phần Vinafreight"
+    },
+    {
+      "symbol": "VNC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "VINACONTROL",
+      "organ_name": "Công ty Cổ phần Tập đoàn Vinacontrol"
+    },
+    {
+      "symbol": "VN30F2509",
+      "exchange": "HNX",
+      "type": "FU",
+      "organ_short_name": "VN30F2509 - HĐTL",
+      "organ_name": "VN30F2509 - HĐTL"
+    },
+    {
+      "symbol": "VN30F2506",
+      "exchange": "HNX",
+      "type": "FU",
+      "organ_short_name": "VN30F2506 - HĐTL",
+      "organ_name": "VN30F2506 - HĐTL"
+    },
+    {
+      "symbol": "VN30F2505",
+      "exchange": "HNX",
+      "type": "FU",
+      "organ_short_name": "VN30F2505 - HĐTL",
+      "organ_name": "VN30F2505 - HĐTL"
+    },
+    {
+      "symbol": "VN30F2504",
+      "exchange": "HNX",
+      "type": "FU",
+      "organ_short_name": "VN30F2504 - HĐTL",
+      "organ_name": "VN30F2504 - HĐTL"
+    },
+    {
+      "symbol": "VMS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Phát triển Hàng Hải",
+      "organ_name": "Công ty Cổ phần Phát triển Hàng Hải"
+    },
+    {
+      "symbol": "VMC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "VIMECO",
+      "organ_name": "Công ty Cổ phần VIMECO"
+    },
+    {
+      "symbol": "VLA",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "PT Công nghệ Văn Lang",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển Công nghệ Văn Lang"
+    },
+    {
+      "symbol": "VIT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Viglacera Tiên Sơn",
+      "organ_name": "Công ty Cổ phần Viglacera Tiên Sơn"
+    },
+    {
+      "symbol": "VIG",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán Đầu tư Tài chính Việt Nam",
+      "organ_name": "Công ty Cổ phần Chứng khoán Đầu tư Tài chính Việt Nam"
+    },
+    {
+      "symbol": "VIF",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Lâm nghiệp Việt Nam",
+      "organ_name": "Tổng Công ty Lâm nghiệp Việt Nam - Công ty Cổ phần"
+    },
+    {
+      "symbol": "VHL",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Viglacera Hạ Long",
+      "organ_name": "Công ty Cổ phần Viglacera Hạ Long"
+    },
+    {
+      "symbol": "VHE",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Dược liệu và Thực phẩm VN",
+      "organ_name": "Công ty Cổ phần Dược liệu và Thực phẩm Việt Nam"
+    },
+    {
+      "symbol": "VGS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Ống thép Việt Đức",
+      "organ_name": "Công ty Cổ phần Ống thép Việt - Đức VG PIPE"
+    },
+    {
+      "symbol": "VGP",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Cảng Rau Quả",
+      "organ_name": "Công ty Cổ phần Cảng Rau Quả"
+    },
+    {
+      "symbol": "VFS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán Nhất Việt",
+      "organ_name": "Công ty Cổ phần Chứng khoán Nhất Việt"
+    },
+    {
+      "symbol": "VE8",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng Điện Vneco 8",
+      "organ_name": "Công ty Cổ phần Xây dựng Điện Vneco 8"
+    },
+    {
+      "symbol": "VE4",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng điện VNECO4",
+      "organ_name": "Công ty Cổ phần Xây dựng điện VNECO4"
+    },
+    {
+      "symbol": "VE3",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng điện VNECO 3",
+      "organ_name": "Công ty Cổ phần Xây dựng điện VNECO 3"
+    },
+    {
+      "symbol": "VE1",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "VNECO 1",
+      "organ_name": "Công ty Cổ phần Xây dựng điện VNECO 1"
+    },
+    {
+      "symbol": "VDL",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Thực phẩm Lâm Đồng",
+      "organ_name": "Công ty Cổ phần Thực phẩm Lâm Đồng"
+    },
+    {
+      "symbol": "VCS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "VICOSTONE",
+      "organ_name": "Công ty Cổ phần VICOSTONE"
+    },
+    {
+      "symbol": "VCM",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "BV Life",
+      "organ_name": "Công ty Cổ phần BV Life"
+    },
+    {
+      "symbol": "VCC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Vinaconex 25",
+      "organ_name": "Công ty Cổ phần Vinaconex 25"
+    },
+    {
+      "symbol": "VC9",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng số 9",
+      "organ_name": "Công ty Cổ phần Xây dựng số 9 - VC9"
+    },
+    {
+      "symbol": "VC7",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "BGI Group",
+      "organ_name": "Công ty Cổ phần Tập đoàn BGI"
+    },
+    {
+      "symbol": "VC6",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Visicons",
+      "organ_name": "Công ty cổ phần Xây dựng và Đầu tư Visicons"
+    },
+    {
+      "symbol": "VC3",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Nam Mê Kông",
+      "organ_name": "Công ty Cổ phần Tập đoàn Nam Mê Kông"
+    },
+    {
+      "symbol": "VC2",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư và Xây dựng VINA2",
+      "organ_name": "Công ty Cổ phần Đầu tư và Xây dựng VINA2"
+    },
+    {
+      "symbol": "VC1",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng số 1",
+      "organ_name": "Công ty Cổ phần Xây dựng số 1"
+    },
+    {
+      "symbol": "VBC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Nhựa - Bao bì Vinh",
+      "organ_name": "Công ty Cổ phần Nhựa, Bao bì Vinh"
+    },
+    {
+      "symbol": "V21",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Vinaconex 21",
+      "organ_name": "Công ty Cổ phần Vinaconex 21"
+    },
+    {
+      "symbol": "V12",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "VINACONEX 12",
+      "organ_name": "Công ty Cổ phần Xây dựng số 12"
+    },
+    {
+      "symbol": "UNI",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư và Phát triển Sao Mai Việt",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển Sao Mai Việt"
+    },
+    {
+      "symbol": "TXM",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Thạch cao Xi măng",
+      "organ_name": "Công ty Cổ phần VICEM Thạch cao Xi Măng"
+    },
+    {
+      "symbol": "TVD",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Than Vàng Danh",
+      "organ_name": "Công ty Cổ phần Than Vàng Danh - Vinacomin"
+    },
+    {
+      "symbol": "TVC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Trí Việt",
+      "organ_name": "Công ty Cổ phần Tập đoàn Quản lý Tài sản Trí Việt"
+    },
+    {
+      "symbol": "TV4",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tư vấn XD Điện 4",
+      "organ_name": "Công ty Cổ phần Tư vấn Xây dựng Điện 4"
+    },
+    {
+      "symbol": "TV3",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tư vấn XD điện 3",
+      "organ_name": "Công ty Cổ phần Tư vấn Xây dựng Điện 3"
+    },
+    {
+      "symbol": "TTT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Du lịch - Thương Mại Tây Ninh",
+      "organ_name": "Công ty Cổ phần Du Lịch - Thương Mại Tây Ninh"
+    },
+    {
+      "symbol": "TTL",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "TCT Thăng Long",
+      "organ_name": "Tổng Công ty Thăng Long - Công ty Cổ phần"
+    },
+    {
+      "symbol": "TTH",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "TM và DV Tiến Thành",
+      "organ_name": "Công ty Cổ phần Thương mại và Dịch vụ Tiến Thành"
+    },
+    {
+      "symbol": "TTC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Gạch men Thanh Thanh",
+      "organ_name": "Công ty Cổ phần Gạch men Thanh Thanh"
+    },
+    {
+      "symbol": "TSB",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Ắc quy Tia Sáng",
+      "organ_name": "Công ty Cổ phần Ắc quy Tia Sáng"
+    },
+    {
+      "symbol": "TPP",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Nhựa Tân Phú VN",
+      "organ_name": "Công ty Cổ phần Tân Phú Việt Nam"
+    },
+    {
+      "symbol": "TPH",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "In Sách giáo khoa TP.Hà Nội",
+      "organ_name": "Công ty Cổ phần In Sách giáo khoa tại Thành phố Hà Nội"
+    },
+    {
+      "symbol": "TOT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải Transimex",
+      "organ_name": "Công ty Cổ phần Transimex Logistics"
+    },
+    {
+      "symbol": "TNG",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư và Thương mại TNG",
+      "organ_name": "Công ty Cổ phần Đầu tư và Thương mại TNG"
+    },
+    {
+      "symbol": "TMX",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Thương mại Xi măng",
+      "organ_name": "Công ty Cổ phần VICEM Thương mại Xi măng"
+    },
+    {
+      "symbol": "TMC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "XNK Thủ Đức",
+      "organ_name": "Công ty Cổ phần Thương mại Xuất nhập khẩu Thủ Đức"
+    },
+    {
+      "symbol": "TMB",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Than Miền Bắc - Vinacomin",
+      "organ_name": "Công ty Cổ phần Kinh doanh Than Miền Bắc - Vinacomin"
+    },
+    {
+      "symbol": "TKU",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Công nghiệp Tung Kuang",
+      "organ_name": "Công ty Cổ phần Công nghiệp Tung Kuang"
+    },
+    {
+      "symbol": "TJC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Dịch vụ Vận tải và Thương mại",
+      "organ_name": "Công ty Cổ phần Dịch vụ Vận tải và Thương mại"
+    },
+    {
+      "symbol": "TIG",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Đầu tư Thăng Long",
+      "organ_name": "Công ty Cổ phần Tập đoàn Đầu tư Thăng Long"
+    },
+    {
+      "symbol": "THT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Than Hà Tu",
+      "organ_name": "Công ty Cổ phần Than Hà Tu - Vinacomin"
+    },
+    {
+      "symbol": "THS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Thanh Hoa Sông Đà",
+      "organ_name": "Công ty Cổ phần Thanh Hoa Sông Đà"
+    },
+    {
+      "symbol": "THD",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Công ty Thaiholdings",
+      "organ_name": "Công ty Cổ phần Thaiholdings"
+    },
+    {
+      "symbol": "THB",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bia Hà Nội - Thanh Hóa",
+      "organ_name": "Công ty Cổ phần Bia Hà Nội - Thanh Hóa"
+    },
+    {
+      "symbol": "TFC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "CTCP Trang",
+      "organ_name": "Công ty Cổ phần Trang"
+    },
+    {
+      "symbol": "TET",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "May mặc Miền Bắc",
+      "organ_name": "Công ty Cổ phần Vải sợi May mặc Miền Bắc"
+    },
+    {
+      "symbol": "TDT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư và Phát triển TDT",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển TDT"
+    },
+    {
+      "symbol": "TBX",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Xi măng Thái Bình",
+      "organ_name": "Công ty Cổ phần Xi măng Thái Bình"
+    },
+    {
+      "symbol": "TA9",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Xây lắp Thành An 96",
+      "organ_name": "Công ty Cổ phần Xây lắp Thành An 96"
+    },
+    {
+      "symbol": "SZB",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sonadezi Long Bình",
+      "organ_name": "Công ty Cổ phần Sonadezi Long Bình"
+    },
+    {
+      "symbol": "SVN",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Vexilla Việt Nam",
+      "organ_name": "Công ty Cổ phần Tập đoàn Vexilla Việt Nam"
+    },
+    {
+      "symbol": "STP",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "CN Thương Mại Sông Đà",
+      "organ_name": "Công ty Cổ phần Công nghiệp Thương mại Sông Đà"
+    },
+    {
+      "symbol": "STC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sách và TB Trường học TP HCM",
+      "organ_name": "Công ty Cổ phần Sách và Thiết bị trường học Thành phố Hồ Chí Minh"
+    },
+    {
+      "symbol": "SSM",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Kết cấu Thép VNECO",
+      "organ_name": "Công ty Cổ phần Chế tạo kết cấu thép VNECO.SSM"
+    },
+    {
+      "symbol": "SRA",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "SARA Việt Nam",
+      "organ_name": "Công ty Cổ phần SARA Việt Nam"
+    },
+    {
+      "symbol": "SPI",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Spiral Galaxy",
+      "organ_name": "Công ty Cổ phần Spiral Galaxy"
+    },
+    {
+      "symbol": "SPC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "BV Thực vật Sài Gòn",
+      "organ_name": "Công ty Cổ phần Bảo vệ Thực vật Sài Gòn"
+    },
+    {
+      "symbol": "SMT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "SAMETEL",
+      "organ_name": "Công ty Cổ phần SAMETEL"
+    },
+    {
+      "symbol": "SMN",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sách và thiết bị GD miền Nam",
+      "organ_name": "Công ty Cổ phần Sách và thiết bị giáo dục Miền Nam"
+    },
+    {
+      "symbol": "SLS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Mía đường Sơn La",
+      "organ_name": "Công ty Cổ phần Mía đường Sơn La"
+    },
+    {
+      "symbol": "SJE",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 11",
+      "organ_name": "Công ty Cổ phần Sông Đà 11"
+    },
+    {
+      "symbol": "SJ1",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Nông nghiệp Hùng Hậu",
+      "organ_name": "Công ty Cổ phần Nông nghiệp Hùng Hậu"
+    },
+    {
+      "symbol": "SHS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán SG - HN",
+      "organ_name": "Công ty Cổ phần Chứng khoán Sài Gòn - Hà Nội"
+    },
+    {
+      "symbol": "SHN",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Tổng hợp Hà Nội",
+      "organ_name": "Công ty Cổ phần Đầu tư Tổng hợp Hà Nội"
+    },
+    {
+      "symbol": "SHE",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "PT Năng Lượng Sơn Hà",
+      "organ_name": "Công ty Cổ phần Phát triển Năng Lượng Sơn Hà"
+    },
+    {
+      "symbol": "SGH",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Khách sạn Sài Gòn",
+      "organ_name": "Công ty Cổ phần Khách sạn Sài Gòn"
+    },
+    {
+      "symbol": "SGD",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sách GD TP.HCM",
+      "organ_name": "Công ty Cổ phần Sách Giáo dục tại Thành phố Hồ Chí Minh"
+    },
+    {
+      "symbol": "SGC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bánh phồng tôm Sa Giang",
+      "organ_name": "Công ty Cổ phần Xuất nhập khẩu Sa Giang"
+    },
+    {
+      "symbol": "SFN",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Dệt lưới Sài Gòn",
+      "organ_name": "Công ty Cổ phần Dệt lưới Sài Gòn"
+    },
+    {
+      "symbol": "SED",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Phát triển GD Phương Nam",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển Giáo dục Phương Nam"
+    },
+    {
+      "symbol": "SEB",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Điện miền Trung",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển Điện Miền Trung"
+    },
+    {
+      "symbol": "SDU",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đô thị Sông Đà",
+      "organ_name": "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Đô thị Sông Đà"
+    },
+    {
+      "symbol": "SDN",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sơn Đồng Nai",
+      "organ_name": "Công ty Cổ phần Sơn Đồng Nai"
+    },
+    {
+      "symbol": "SDG",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sadico Cần Thơ",
+      "organ_name": "Công ty Cổ phần Sadico Cần Thơ"
+    },
+    {
+      "symbol": "SDC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tư vấn Sông Đà",
+      "organ_name": "Công ty Cổ phần Tư vấn Sông Đà"
+    },
+    {
+      "symbol": "SDA",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "XKLĐ Sông Đà",
+      "organ_name": "Công ty Cổ phần SIMCO Sông Đà"
+    },
+    {
+      "symbol": "SD9",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 9",
+      "organ_name": "Công ty Cổ phần Sông Đà 9"
+    },
+    {
+      "symbol": "SD5",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 5",
+      "organ_name": "Công ty Cổ phần Sông Đà 5"
+    },
+    {
+      "symbol": "SCI",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "SCI E&C",
+      "organ_name": "Công ty Cổ phần SCI E&C"
+    },
+    {
+      "symbol": "SCG",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng SCG",
+      "organ_name": "Công ty Cổ phần Tập đoàn Xây dựng SCG"
+    },
+    {
+      "symbol": "SAF",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Thực Phẩm SAFOCO",
+      "organ_name": "Công ty Cổ phần Lương thực Thực phẩm SAFOCO"
+    },
+    {
+      "symbol": "S99",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 9.09 (SCI)",
+      "organ_name": "Công ty Cổ phần SCI"
+    },
+    {
+      "symbol": "S55",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 505",
+      "organ_name": "Công ty Cổ phần Sông Đà 505"
+    },
+    {
+      "symbol": "RCL",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Địa Ốc Chợ Lớn",
+      "organ_name": "Công ty Cổ phần Địa ốc Chợ Lớn"
+    },
+    {
+      "symbol": "QTC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "GTVT Quảng Nam",
+      "organ_name": "Công ty Cổ phần Công trình Giao thông Vận tải Quảng Nam"
+    },
+    {
+      "symbol": "QST",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sách Quảng Ninh",
+      "organ_name": "Công ty Cổ phần Sách và Thiết bị trường học Quảng Ninh"
+    },
+    {
+      "symbol": "QHD",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Que hàn Việt Đức",
+      "organ_name": "Công ty Cổ phần Que hàn điện Việt Đức"
+    },
+    {
+      "symbol": "PVS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "DVKT Dầu khí PTSC",
+      "organ_name": "Tổng Công ty Cổ phần Dịch vụ Kỹ thuật Dầu khí Việt Nam"
+    },
+    {
+      "symbol": "PVI",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bảo hiểm PVI",
+      "organ_name": "Công ty Cổ phần PVI"
+    },
+    {
+      "symbol": "PVG",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Kinh doanh LPG Việt Nam",
+      "organ_name": "Công ty Cổ phần Kinh doanh LPG Việt Nam"
+    },
+    {
+      "symbol": "PVC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Hóa chất và Dịch vụ Dầu khí",
+      "organ_name": "Tổng Công ty Hóa chất và Dịch vụ Dầu khí - Công ty Cổ phần"
+    },
+    {
+      "symbol": "PVB",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bọc ống Dầu khí Việt Nam",
+      "organ_name": "Công ty Cổ phần Bọc ống Dầu khí Việt Nam"
+    },
+    {
+      "symbol": "PV2",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư PV2",
+      "organ_name": "Công ty Cổ phần Đầu tư PV2"
+    },
+    {
+      "symbol": "PTX",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "VT Petrolimex Nghệ Tĩnh",
+      "organ_name": "Công ty Cổ phần Vận tải và Dịch vụ Petrolimex Nghệ Tĩnh"
+    },
+    {
+      "symbol": "PTS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải Petrolimex HP",
+      "organ_name": "Công ty Cổ phần Vận tải và Dịch vụ Petrolimex Hải Phòng"
+    },
+    {
+      "symbol": "PTI",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bảo hiểm Bưu điện",
+      "organ_name": "Tổng Công ty Cổ phần Bảo hiểm Bưu điện"
+    },
+    {
+      "symbol": "PTD",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Thiết kế-XD-TM Phúc Thịnh",
+      "organ_name": "Công ty Cổ phần Thiết kế - Xây dựng - Thương mại Phúc Thịnh"
+    },
+    {
+      "symbol": "PSW",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Phân bón hóa chất dầu khí Tây Nam Bộ",
+      "organ_name": "Công ty Cổ phần Phân bón và hóa chất dầu khí Tây Nam Bộ"
+    },
+    {
+      "symbol": "PSI",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán Dầu khí",
+      "organ_name": "Công ty Cổ phần Chứng khoán Dầu khí"
+    },
+    {
+      "symbol": "PSE",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Phân bón và hóa chất dầu khí Đông Nam Bộ",
+      "organ_name": "Công ty Cổ phần Phân bón và hóa chất dầu khí Đông Nam Bộ"
+    },
+    {
+      "symbol": "PSD",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Phân phối Tổng hợp Dầu khí",
+      "organ_name": "Công ty Cổ phần Dịch vụ Phân phối Tổng hợp Dầu khí"
+    },
+    {
+      "symbol": "PSC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải Petrolimex SG",
+      "organ_name": "Công ty Cổ phần Vận tải và Dịch vụ Petrolimex Sài Gòn"
+    },
+    {
+      "symbol": "PRE",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tái bảo hiểm PVI",
+      "organ_name": "Tổng Công ty Cổ phần Tái bảo hiểm Hà Nội"
+    },
+    {
+      "symbol": "PRC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải Portserco",
+      "organ_name": "Công ty Cổ phần Logistics Portserco"
+    },
+    {
+      "symbol": "PPY",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Xăng dầu dầu khí Phú Yên",
+      "organ_name": "Công ty Cổ phần Xăng dầu dầu khí Phú Yên"
+    },
+    {
+      "symbol": "PPT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Petro Times",
+      "organ_name": "Công ty cổ phần Petro Times"
+    },
+    {
+      "symbol": "PPS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "DVKT Điện lực Dầu khí",
+      "organ_name": "Công ty Cổ phần Dịch vụ Kỹ thuật Điện lực Dầu khí Việt Nam"
+    },
+    {
+      "symbol": "PPP",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "PP.Pharco",
+      "organ_name": "Công ty Cổ phần Dược phẩm Phong Phú"
+    },
+    {
+      "symbol": "PPE",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "PVPower Engineering",
+      "organ_name": "Công ty Cổ phần Tư vấn Đầu tư PP Enterprise"
+    },
+    {
+      "symbol": "POT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Thiết bị Bưu điện Postef",
+      "organ_name": "Công ty Cổ phần Thiết bị Bưu điện"
+    },
+    {
+      "symbol": "PMS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Cơ khí xăng dầu",
+      "organ_name": "Công ty Cổ phần Cơ khí Xăng dầu"
+    },
+    {
+      "symbol": "PMP",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bao bì Đạm Phú Mỹ",
+      "organ_name": "Công ty Cổ phần Bao bì Đạm Phú Mỹ"
+    },
+    {
+      "symbol": "PMC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Pharmedic",
+      "organ_name": "Công ty Cổ phần Dược phẩm Dược liệu Pharmedic"
+    },
+    {
+      "symbol": "PMB",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Phân bón và Hóa chất Dầu khí Miền Bắc",
+      "organ_name": "Công ty Cổ phần Phân bón và Hóa chất Dầu khí Miền Bắc"
+    },
+    {
+      "symbol": "PLC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Hóa dầu Petrolimex",
+      "organ_name": "Tổng Công ty Hóa dầu Petrolimex - Công ty Cổ phần"
+    },
+    {
+      "symbol": "PJC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "TM và Vận tải Petrolimex HN",
+      "organ_name": "Công ty Cổ phần Thương mại và Vận tải Petrolimex Hà Nội"
+    },
+    {
+      "symbol": "PIC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Điện lực 3",
+      "organ_name": "Công ty Cổ phần Đầu tư Điện lực 3"
+    },
+    {
+      "symbol": "PIA",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tin học Viễn thông Petrolimex",
+      "organ_name": "Công ty Cổ phần Tin học Viễn thông Petrolimex"
+    },
+    {
+      "symbol": "PHN",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Pin Hà Nội",
+      "organ_name": "Công ty Cổ phần Pin Hà Nội"
+    },
+    {
+      "symbol": "PGT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "PGT Holdings",
+      "organ_name": "Công ty Cổ phần PGT Holdings"
+    },
+    {
+      "symbol": "PGS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Khí Miền Nam",
+      "organ_name": "Công ty Cổ phần Kinh doanh Khí Miền Nam"
+    },
+    {
+      "symbol": "PGN",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Phụ Gia Nhựa",
+      "organ_name": "Công ty Cổ phần Phụ Gia Nhựa"
+    },
+    {
+      "symbol": "PEN",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Xây lắp III Petrolimex",
+      "organ_name": "Công ty Cổ phần Xây lắp III Petrolimex"
+    },
+    {
+      "symbol": "PDB",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "DIN Capital",
+      "organ_name": "Công ty Cổ phần Tập đoàn Đầu tư DIN Capital"
+    },
+    {
+      "symbol": "PCT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải Biển Global Pacific",
+      "organ_name": "Công ty Cổ phần Vận tải Biển Global Pacific"
+    },
+    {
+      "symbol": "PCH",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Nhựa Picomat",
+      "organ_name": "Công ty Cổ phần Nhựa Picomat"
+    },
+    {
+      "symbol": "PCG",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư PT Gas Đô thị",
+      "organ_name": "Công ty Cổ phần Đầu tư Phát triển Gas Đô thị"
+    },
+    {
+      "symbol": "PCE",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Phân bón và Hóa chất DK Miền Trung",
+      "organ_name": "Công ty Cổ phần Phân bón và hóa chất dầu khí Miền Trung"
+    },
+    {
+      "symbol": "PBP",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bao bì Dầu khí VN",
+      "organ_name": "Công ty Cổ phần Bao bì Dầu khí Việt Nam"
+    },
+    {
+      "symbol": "ONE",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Truyền thông Số 1",
+      "organ_name": "Công ty Cổ phần Công nghệ ONE"
+    },
+    {
+      "symbol": "OCH",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Khách sạn và Dịch vụ OCH",
+      "organ_name": "Công ty Cổ phần One Capital Hospitality"
+    },
+    {
+      "symbol": "NVB",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Ngân hàng Quốc Dân",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Quốc Dân"
+    },
+    {
+      "symbol": "NTP",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Nhựa Tiền Phong",
+      "organ_name": "Công ty Cổ phần Nhựa Thiếu niên Tiền Phong"
+    },
+    {
+      "symbol": "NTH",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Thủy điện Nước Trong",
+      "organ_name": "Công ty Cổ phần Thủy điện Nước Trong"
+    },
+    {
+      "symbol": "NST",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Thuốc lá Ngân Sơn",
+      "organ_name": "Công ty Cổ phần Ngân Sơn"
+    },
+    {
+      "symbol": "NSH",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Nhôm Sông Hồng",
+      "organ_name": "Công ty Cổ phần Tập đoàn Nhôm Sông Hồng Shalumi"
+    },
+    {
+      "symbol": "NRC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Danh Khôi",
+      "organ_name": "Công ty Cổ phần Tập đoàn Danh Khôi"
+    },
+    {
+      "symbol": "NHC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Gạch ngói Nhị Hiệp",
+      "organ_name": "Công ty Cổ phần Gạch ngói Nhị Hiệp"
+    },
+    {
+      "symbol": "NFC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Phân lân Ninh Bình",
+      "organ_name": "Công ty Cổ phần Phân lân Ninh Bình"
+    },
+    {
+      "symbol": "NET",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bột giặt Net",
+      "organ_name": "Công ty Cổ phần Bột giặt Net"
+    },
+    {
+      "symbol": "NDX",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Phát triển Nhà Đà Nẵng",
+      "organ_name": "Công ty Cổ phần Xây lắp Phát triển Nhà Đà Nẵng"
+    },
+    {
+      "symbol": "NDN",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "PT Nhà Đà Nẵng",
+      "organ_name": "Công ty Cổ phần Đầu tư Phát triển Nhà Đà Nẵng"
+    },
+    {
+      "symbol": "NBW",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Nhà Bè",
+      "organ_name": "Công ty Cổ phần Cấp nước Nhà Bè"
+    },
+    {
+      "symbol": "NBP",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Nhiệt điện Ninh Bình",
+      "organ_name": "Công ty Cổ phần Nhiệt Điện Ninh Bình"
+    },
+    {
+      "symbol": "NBC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Than Núi Béo",
+      "organ_name": "Công ty Cổ phần Than Núi Béo - Vinacomin"
+    },
+    {
+      "symbol": "NAP",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Cảng Nghệ Tĩnh",
+      "organ_name": "Công ty Cổ phần Cảng Nghệ Tĩnh"
+    },
+    {
+      "symbol": "NAG",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Nagakawa",
+      "organ_name": "Công ty Cổ phần Tập đoàn Nagakawa"
+    },
+    {
+      "symbol": "MVB",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Mỏ Việt Bắc - TKV",
+      "organ_name": "Tổng Công ty Công nghiệp mỏ Việt Bắc TKV - Công ty Cổ phần"
+    },
+    {
+      "symbol": "MST",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư MST",
+      "organ_name": "Công ty Cổ phần Đầu tư MST"
+    },
+    {
+      "symbol": "MKV",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Dược Thú Y Cai Lậy",
+      "organ_name": "Công ty Cổ phần Dược Thú Y Cai Lậy"
+    },
+    {
+      "symbol": "MIC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Khoáng sản Quảng Nam",
+      "organ_name": "Công ty Cổ phần Kỹ nghệ Khoáng sản Quảng Nam"
+    },
+    {
+      "symbol": "MEL",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Thép Mê Lin",
+      "organ_name": "Công ty Cổ phần Thép Mê Lin"
+    },
+    {
+      "symbol": "MED",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Dược Mediplantex",
+      "organ_name": "Công ty Cổ phần Dược Trung ương Mediplantex"
+    },
+    {
+      "symbol": "MDC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Than Mông Dương",
+      "organ_name": "Công ty Cổ phần Than Mông Dương - Vinacomin"
+    },
+    {
+      "symbol": "MCO",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "BDC Việt Nam",
+      "organ_name": "Công ty Cổ phần Đầu tư và Xây dựng BDC Việt Nam"
+    },
+    {
+      "symbol": "MCF",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Cơ khí và Lương thực Thực phẩm",
+      "organ_name": "Công ty Cổ phần Xây lắp Cơ khí và Lương thực Thực phẩm"
+    },
+    {
+      "symbol": "MCC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Gạch ngói cao cấp",
+      "organ_name": "Công ty Cổ phần Gạch ngói cao cấp"
+    },
+    {
+      "symbol": "MBS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán MB",
+      "organ_name": "Công ty Cổ phần Chứng khoán MB"
+    },
+    {
+      "symbol": "MBG",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn MBG",
+      "organ_name": "Công ty Cổ phần Tập đoàn MBG"
+    },
+    {
+      "symbol": "MAS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sân bay Đà Nẵng",
+      "organ_name": "Công ty cổ phần Dịch vụ Hàng Không Sân Bay Đà Nẵng"
+    },
+    {
+      "symbol": "MAC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Cung ứng & DVKT Hàng Hải",
+      "organ_name": "Công ty Cổ phần Cung ứng và Dịch vụ Kỹ thuật Hàng Hải"
+    },
+    {
+      "symbol": "LIG",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Licogi 13",
+      "organ_name": "Công ty Cổ phần Licogi 13"
+    },
+    {
+      "symbol": "LHC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "XD Thủy lợi Lâm Đồng",
+      "organ_name": "Công ty Cổ phần Đầu tư và Xây dựng Thủy lợi Lâm Đồng"
+    },
+    {
+      "symbol": "LDP",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Dược Lâm Đồng - Ladophar",
+      "organ_name": "Công ty Cổ phần Dược Lâm Đồng - Ladophar"
+    },
+    {
+      "symbol": "LCD",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Thí nghiệm cơ điện",
+      "organ_name": "Công ty Cổ phần Lắp máy - Thí nghiệm cơ điện"
+    },
+    {
+      "symbol": "LBE",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Thương mại và Dịch vụ LVA",
+      "organ_name": "Công ty Cổ phần Thương mại và Dịch vụ LVA"
+    },
+    {
+      "symbol": "LAS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Hóa chất Lâm Thao",
+      "organ_name": "Công ty Cổ phần Supe Phốt phát và Hóa chất Lâm Thao"
+    },
+    {
+      "symbol": "L40",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư và Xây dựng 40",
+      "organ_name": "Công ty Cổ phần Đầu tư và Xây dựng 40"
+    },
+    {
+      "symbol": "L18",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "LICOGI - 18",
+      "organ_name": "Công ty Cổ phần Đầu tư và Xây dựng số 18"
+    },
+    {
+      "symbol": "L14",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Licogi 14",
+      "organ_name": "Công ty Cổ phần Licogi 14"
+    },
+    {
+      "symbol": "KTS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đường Kon Tum",
+      "organ_name": "Công ty Cổ phần Đường Kon Tum"
+    },
+    {
+      "symbol": "KSV",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Khoáng sản TKV",
+      "organ_name": "Tổng Công ty Khoáng sản TKV - Công ty Cổ phần"
+    },
+    {
+      "symbol": "KST",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "KASATI",
+      "organ_name": "Công ty Cổ phần KASATI"
+    },
+    {
+      "symbol": "KSQ",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "CNC Capital Việt Nam",
+      "organ_name": "Công ty Cổ phần CNC Capital Việt Nam"
+    },
+    {
+      "symbol": "KSF",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Sunshine",
+      "organ_name": "Công ty Cổ phần Tập đoàn Sunshine"
+    },
+    {
+      "symbol": "KSD",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư DNA",
+      "organ_name": "Công ty Cổ phần Đầu tư DNA"
+    },
+    {
+      "symbol": "KMT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Kim khí Miền Trung",
+      "organ_name": "Công ty Cổ phần Kim khí Miền Trung"
+    },
+    {
+      "symbol": "KKC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Thành Thái",
+      "organ_name": "Công ty Cổ phần Tập đoàn Thành Thái"
+    },
+    {
+      "symbol": "KHS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Thủy sản Kiên Hùng",
+      "organ_name": "Công ty Cổ phần Kiên Hùng"
+    },
+    {
+      "symbol": "KDM",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn GCL",
+      "organ_name": "Công ty Cổ phần Tập đoàn GCL"
+    },
+    {
+      "symbol": "IVS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán Guotai Junan (Việt Nam)",
+      "organ_name": "Công ty Cổ phần Chứng khoán Guotai Junan (Việt Nam)"
+    },
+    {
+      "symbol": "ITQ",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Thiên Quang",
+      "organ_name": "Công ty Cổ phần Tập đoàn Thiên Quang"
+    },
+    {
+      "symbol": "IPA",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Đầu tư I.P.A",
+      "organ_name": "Công ty Cổ phần Tập đoàn Đầu tư I.P.A"
+    },
+    {
+      "symbol": "INN",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bao bì và In Nông Nghiệp",
+      "organ_name": "Công ty Cổ phần Bao bì và In Nông nghiệp"
+    },
+    {
+      "symbol": "INC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tư vấn Đầu tư IDICO",
+      "organ_name": "Công ty Cổ phần Tư vấn Đầu tư IDICO"
+    },
+    {
+      "symbol": "IDV",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "PT Hạ tầng Vĩnh Phúc",
+      "organ_name": "Công ty Cổ phần Phát triển Hạ tầng Vĩnh Phúc"
+    },
+    {
+      "symbol": "IDJ",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư IDJ Việt Nam",
+      "organ_name": "Công ty Cổ phần Đầu tư IDJ Việt Nam"
+    },
+    {
+      "symbol": "IDC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "IDICO",
+      "organ_name": "Tổng Công ty IDICO - CTCP"
+    },
+    {
+      "symbol": "ICG",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng Sông Hồng",
+      "organ_name": "Công ty Cổ phần Xây dựng Sông Hồng"
+    },
+    {
+      "symbol": "HVT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Hóa chất Việt trì",
+      "organ_name": "Công ty Cổ phần Hóa chất Việt Trì"
+    },
+    {
+      "symbol": "HUT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tasco",
+      "organ_name": "Công ty Cổ phần Tasco"
+    },
+    {
+      "symbol": "HTC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Thương mại Hóc Môn",
+      "organ_name": "Công ty Cổ phần Thương mại Hóc Môn"
+    },
+    {
+      "symbol": "HOM",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Xi măng VICEM Hoàng Mai",
+      "organ_name": "Công ty Cổ phần Xi măng VICEM Hoàng Mai"
+    },
+    {
+      "symbol": "HMR",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đá Hoàng Mai",
+      "organ_name": "Công ty cổ phần Đá Hoàng Mai"
+    },
+    {
+      "symbol": "HMH",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Hải Minh",
+      "organ_name": "Công ty Cổ phần Hải Minh"
+    },
+    {
+      "symbol": "HLD",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bất động sản HUDLAND",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển Bất động sản HUDLAND"
+    },
+    {
+      "symbol": "HLC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Than Hà Lầm",
+      "organ_name": "Công ty Cổ phần Than Hà Lầm - Vinacomin"
+    },
+    {
+      "symbol": "HKT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư QP Xanh",
+      "organ_name": "Công ty Cổ phần Đầu tư QP Xanh"
+    },
+    {
+      "symbol": "HJS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Thủy điện Nậm Mu",
+      "organ_name": "Công ty Cổ phần Thủy điện Nậm Mu"
+    },
+    {
+      "symbol": "HHC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bánh kẹo Hải Hà",
+      "organ_name": "Công ty Cổ phần Bánh kẹo Hải Hà"
+    },
+    {
+      "symbol": "HGM",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Khoáng sản Hà Giang",
+      "organ_name": "Công ty Cổ phần Cơ khí và Khoáng sản Hà Giang"
+    },
+    {
+      "symbol": "HEV",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sách Đại học - Dạy nghề",
+      "organ_name": "Công ty Cổ phần Sách Đại học - Dạy nghề"
+    },
+    {
+      "symbol": "HDA",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Hãng sơn Đông Á",
+      "organ_name": "Công ty Cổ phần Hãng sơn Đông Á"
+    },
+    {
+      "symbol": "HCT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "TM - DV - Vận tải Xi măng Hải Phòng",
+      "organ_name": "Công ty Cổ phần Thương mại - Dịch vụ - Vận tải Xi măng Hải Phòng"
+    },
+    {
+      "symbol": "HCC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bê tông Hòa Cầm",
+      "organ_name": "Công ty Cổ phần Bê tông Hòa Cầm - Intimex"
+    },
+    {
+      "symbol": "HBS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán Hòa Bình",
+      "organ_name": "Công ty Cổ phần Chứng khoán Hòa Bình"
+    },
+    {
+      "symbol": "HAT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "TM Bia Hà Nội",
+      "organ_name": "Công ty Cổ phần Thương mại Bia Hà Nội"
+    },
+    {
+      "symbol": "HAD",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bia Hà Nội - Hải Dương",
+      "organ_name": "Công ty Cổ phần Bia Hà Nội - Hải Dương"
+    },
+    {
+      "symbol": "GMX",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Gạch ngói Mỹ Xuân",
+      "organ_name": "Công ty Cổ phần Gạch ngói Gốm xây dựng Mỹ Xuân"
+    },
+    {
+      "symbol": "GMA",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "G-Automobile",
+      "organ_name": "Công ty Cổ phần G-Automobile"
+    },
+    {
+      "symbol": "GLT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "KT Điện Toàn Cầu",
+      "organ_name": "Công ty Cổ phần Kỹ thuật điện Toàn Cầu"
+    },
+    {
+      "symbol": "GKM",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Khang Minh Group",
+      "organ_name": "Công ty Cổ phần GKM Holdings"
+    },
+    {
+      "symbol": "GIC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "ĐT Dịch vụ và PT Xanh",
+      "organ_name": "Công ty Cổ phần VSC Green Logistics"
+    },
+    {
+      "symbol": "GDW",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Gia Định",
+      "organ_name": "Công ty Cổ phần Cấp nước Gia Định"
+    },
+    {
+      "symbol": "GB10F2512",
+      "exchange": "HNX",
+      "type": "FU",
+      "organ_short_name": "GB10F2512 - HĐTL",
+      "organ_name": "GB10F2512 - HĐTL"
+    },
+    {
+      "symbol": "GB10F2509",
+      "exchange": "HNX",
+      "type": "FU",
+      "organ_short_name": "GB10F2509 - HĐTL",
+      "organ_name": "GB10F2509 - HĐTL"
+    },
+    {
+      "symbol": "GB10F2506",
+      "exchange": "HNX",
+      "type": "FU",
+      "organ_short_name": "GB10F2506 - HĐTL",
+      "organ_name": "GB10F2506 - HĐTL"
+    },
+    {
+      "symbol": "GB05F2512",
+      "exchange": "HNX",
+      "type": "FU",
+      "organ_short_name": "GB05F2512 - HĐTL",
+      "organ_name": "GB05F2512 - HĐTL"
+    },
+    {
+      "symbol": "GB05F2509",
+      "exchange": "HNX",
+      "type": "FU",
+      "organ_short_name": "GB05F2509 - HĐTL",
+      "organ_name": "GB05F2509 - HĐTL"
+    },
+    {
+      "symbol": "GB05F2506",
+      "exchange": "HNX",
+      "type": "FU",
+      "organ_short_name": "GB05F2506 - HĐTL",
+      "organ_name": "GB05F2506 - HĐTL"
+    },
+    {
+      "symbol": "FID",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư và PT doanh nghiệp VN",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển Doanh nghiệp Việt Nam"
+    },
+    {
+      "symbol": "EVS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán Everest",
+      "organ_name": "Công ty Cổ phần Chứng khoán Everest"
+    },
+    {
+      "symbol": "EID",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Phát triển GD Hà Nội",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển Giáo dục Hà Nội"
+    },
+    {
+      "symbol": "ECI",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bản đồ và tranh ảnh GD",
+      "organ_name": "Công ty Cổ phần Tập đoàn ECI"
+    },
+    {
+      "symbol": "EBS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sách Giáo dục Hà Nội",
+      "organ_name": "Công ty Cổ phần Sách Giáo dục tại Thành phố Hà Nội"
+    },
+    {
+      "symbol": "DXP",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Cảng Đoạn Xá",
+      "organ_name": "Công ty Cổ phần Cảng Đoạn Xá"
+    },
+    {
+      "symbol": "DVM",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Dược liệu Việt Nam",
+      "organ_name": "Công ty Cổ phần Dược liệu Việt Nam"
+    },
+    {
+      "symbol": "DTK",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Vinacomin Power",
+      "organ_name": "Tổng Công ty Điện lực TKV - Công ty Cổ phần"
+    },
+    {
+      "symbol": "DTG",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Dược phẩm Tipharco",
+      "organ_name": "Công ty Cổ phần Dược phẩm Tipharco"
+    },
+    {
+      "symbol": "DTD",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Phát triển Thành Đạt",
+      "organ_name": "Công ty Cổ phần Đầu tư Phát triển Thành Đạt"
+    },
+    {
+      "symbol": "DST",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Sao Thăng Long",
+      "organ_name": "Công ty Cổ phần Đầu tư Sao Thăng Long"
+    },
+    {
+      "symbol": "DS3",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Quản lý Đường sông số 3",
+      "organ_name": "Công ty Cổ phần DS3"
+    },
+    {
+      "symbol": "DP3",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Dược Phẩm TW3",
+      "organ_name": "Công ty Cổ Phần Dược Phẩm Trung Ương 3"
+    },
+    {
+      "symbol": "DNP",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Nhựa Đồng Nai",
+      "organ_name": "Công ty Cổ phần DNP Holding"
+    },
+    {
+      "symbol": "DNC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Điện nước Hải Phòng",
+      "organ_name": "Công ty Cổ phần Điện nước Lắp máy Hải Phòng"
+    },
+    {
+      "symbol": "DL1",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Alpha 7",
+      "organ_name": "Công ty Cổ phần Tập đoàn Alpha Seven"
+    },
+    {
+      "symbol": "DIH",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "PT Xây dựng Hội An",
+      "organ_name": "Công ty Cổ phần Đầu tư Phát triển Xây dựng - Hội An"
+    },
+    {
+      "symbol": "DHT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Dược phẩm Hà Tây",
+      "organ_name": "Công ty Cổ phần Dược phẩm Hà Tây"
+    },
+    {
+      "symbol": "DHP",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Điện cơ Hải Phòng",
+      "organ_name": "Công ty Cổ phần Điện cơ Hải Phòng"
+    },
+    {
+      "symbol": "DDG",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư CN XNK Đông Dương",
+      "organ_name": "Công ty Cổ phần Đầu tư Công nghiệp Xuất nhập khẩu Đông Dương"
+    },
+    {
+      "symbol": "DC2",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "DIC Số 2",
+      "organ_name": "Công ty Cổ phần Đầu tư Phát triển - Xây dựng (DIC) số 2"
+    },
+    {
+      "symbol": "DAE",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sách Giáo dục Đà Nẵng",
+      "organ_name": "Công ty Cổ phần Sách Giáo dục tại Thành phố Đà Nẵng"
+    },
+    {
+      "symbol": "DAD",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Phát triển GD Đà Nẵng",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển Giáo dục Đà Nẵng"
+    },
+    {
+      "symbol": "D11",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Địa ốc 11",
+      "organ_name": "Công ty Cổ phần Địa ốc 11"
+    },
+    {
+      "symbol": "CX8",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Constrexim số 8",
+      "organ_name": "Công ty Cổ phần Đầu tư và Xây lắp Constrexim số 8"
+    },
+    {
+      "symbol": "CVN",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Vinam Group",
+      "organ_name": "Công ty Cổ phần Vinam"
+    },
+    {
+      "symbol": "CTT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Chế tạo máy Vinacomin",
+      "organ_name": "Công ty Cổ phần Chế tạo máy Vinacomin"
+    },
+    {
+      "symbol": "CTP",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Hoà Bình Takara",
+      "organ_name": "Công ty Cổ phần Hoà Bình Takara"
+    },
+    {
+      "symbol": "CTB",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bơm Hải Dương",
+      "organ_name": "Công ty Cổ phần Chế tạo Bơm Hải Dương"
+    },
+    {
+      "symbol": "CST",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Than Cao Sơn - TKV",
+      "organ_name": "Công ty Cổ phần Than Cao Sơn - TKV"
+    },
+    {
+      "symbol": "CSC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn COTANA",
+      "organ_name": "Công ty Cổ phần Tập đoàn COTANA"
+    },
+    {
+      "symbol": "CPC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Thuốc sát trùng Cần Thơ",
+      "organ_name": "Công ty Cổ phần Thuốc sát trùng Cần Thơ"
+    },
+    {
+      "symbol": "CMS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn CMH Việt Nam",
+      "organ_name": "Công ty Cổ phần Tập đoàn CMH Việt Nam"
+    },
+    {
+      "symbol": "CMC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư CMC",
+      "organ_name": "Công ty Cổ phần Đầu tư CMC"
+    },
+    {
+      "symbol": "CLM",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Xuất nhập khẩu Than - Vinacomin",
+      "organ_name": "Công ty Cổ phần Xuất nhập khẩu Than - Vinacomin"
+    },
+    {
+      "symbol": "CLH",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Xi măng La Hiên",
+      "organ_name": "Công ty Cổ phần Xi măng La Hiên VVMI"
+    },
+    {
+      "symbol": "CKV",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "CokyVina",
+      "organ_name": "Công ty Cổ phần CokyVina"
+    },
+    {
+      "symbol": "CJC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Cơ điện Miền Trung",
+      "organ_name": "Công ty Cổ phần Cơ điện Miền Trung"
+    },
+    {
+      "symbol": "CIA",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "DV Sân Bay Cam Ranh",
+      "organ_name": "Công ty Cổ Phần Dịch Vụ Sân Bay Quốc Tế Cam Ranh"
+    },
+    {
+      "symbol": "CET",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "HTC Holding",
+      "organ_name": "Công ty Cổ phần HTC Holding"
+    },
+    {
+      "symbol": "CEO",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn CEO",
+      "organ_name": "Công ty Cổ phần Tập đoàn C.E.O"
+    },
+    {
+      "symbol": "CDN",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Cảng Đà Nẵng",
+      "organ_name": "Công ty Cổ phần Cảng Đà Nẵng"
+    },
+    {
+      "symbol": "CCR",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Cảng Cam Ranh",
+      "organ_name": "Công ty Cổ phần Cảng Cam Ranh"
+    },
+    {
+      "symbol": "CAR",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Giáo dục Trí Việt",
+      "organ_name": "Công ty cổ phần Tập đoàn Giáo dục Trí Việt"
+    },
+    {
+      "symbol": "CAP",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Lâm nông sản Yên Bái",
+      "organ_name": "Công ty Cổ phần Lâm Nông sản Thực phẩm Yên Bái"
+    },
+    {
+      "symbol": "CAN",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đồ hộp Hạ Long",
+      "organ_name": "Công ty Cổ phần Đồ hộp Hạ Long"
+    },
+    {
+      "symbol": "CAG",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Cảng An Giang",
+      "organ_name": "Công ty Cổ phần Cảng An Giang"
+    },
+    {
+      "symbol": "C69",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng 1369",
+      "organ_name": "Công ty Cổ phần Xây dựng 1369"
+    },
+    {
+      "symbol": "BXH",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bao bì Xi măng HP",
+      "organ_name": "Công ty Cổ phần VICEM Bao bì Hải Phòng"
+    },
+    {
+      "symbol": "BVS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán Bảo Việt",
+      "organ_name": "Công ty Cổ phần Chứng khoán Bảo Việt"
+    },
+    {
+      "symbol": "BTW",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Bến Thành",
+      "organ_name": "Công ty Cổ phần Cấp nước Bến Thành"
+    },
+    {
+      "symbol": "BTS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Xi măng Bút Sơn",
+      "organ_name": "Công ty Cổ phần Xi măng VICEM Bút Sơn"
+    },
+    {
+      "symbol": "BST",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sách và Thiết bị Bình Thuận",
+      "organ_name": "Công ty Cổ phần Sách và Thiết bị Bình Thuận"
+    },
+    {
+      "symbol": "BSC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Dịch vụ Bến Thành",
+      "organ_name": "Công ty Cổ phần Dịch vụ Bến Thành"
+    },
+    {
+      "symbol": "BPC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bao bì Bỉm Sơn",
+      "organ_name": "Công ty Cổ phần Vicem Bao bì Bỉm Sơn"
+    },
+    {
+      "symbol": "BNA",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Đầu tư Bảo Ngọc",
+      "organ_name": "Công ty Cổ phần Tập đoàn Đầu tư Bảo Ngọc"
+    },
+    {
+      "symbol": "BKC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Khoáng sản Bắc Kạn",
+      "organ_name": "Công ty Cổ phần Khoáng sản Bắc Kạn"
+    },
+    {
+      "symbol": "BED",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sách Đà Nẵng",
+      "organ_name": "Công ty Cổ phần Sách và Thiết bị trường học Đà Nẵng"
+    },
+    {
+      "symbol": "BDB",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Sách Bình Định",
+      "organ_name": "Công ty Cổ phần Sách và Thiết bị Bình Định"
+    },
+    {
+      "symbol": "BCF",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Thực phẩm Bích Chi",
+      "organ_name": "Công ty Cổ phần Thực phẩm Bích Chi"
+    },
+    {
+      "symbol": "BCC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Xi măng Bỉm Sơn",
+      "organ_name": "Công ty Cổ phần Xi măng Bỉm Sơn"
+    },
+    {
+      "symbol": "BBS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Bao bì Xi măng Bút Sơn",
+      "organ_name": "Công ty Cổ phần VICEM Bao bì Bút Sơn"
+    },
+    {
+      "symbol": "BAX",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Công ty Thống Nhất",
+      "organ_name": "Công ty Cổ phần Thống Nhất"
+    },
+    {
+      "symbol": "BAB",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Ngân hàng Bắc Á",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Bắc Á"
+    },
+    {
+      "symbol": "ATS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Đầu tư ATS",
+      "organ_name": "Công ty Cổ phần Tập đoàn Đầu tư ATS"
+    },
+    {
+      "symbol": "ARM",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "XNK Hàng không",
+      "organ_name": "Công ty Cổ phần Xuất nhập khẩu Hàng không"
+    },
+    {
+      "symbol": "APS",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "CK Châu Á - TBD",
+      "organ_name": "Công ty Cổ phần Chứng khoán Châu Á - Thái Bình Dương"
+    },
+    {
+      "symbol": "API",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Châu Á - Thái Bình Dương",
+      "organ_name": "Công ty Cổ phần Đầu tư Châu Á - Thái Bình Dương"
+    },
+    {
+      "symbol": "AMV",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Dược-TB Y tế Việt Mỹ",
+      "organ_name": "Công ty Cổ phần Sản xuất Kinh doanh Dược và Trang thiết bị Y tế Việt Mỹ"
+    },
+    {
+      "symbol": "AME",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Cơ điện Alphanam",
+      "organ_name": "Công ty cổ phần Alphanam E&C"
+    },
+    {
+      "symbol": "AMC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Khoáng sản Á Châu",
+      "organ_name": "Công ty Cổ phần Khoáng sản Á Châu"
+    },
+    {
+      "symbol": "ALT",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Văn hóa Tân Bình",
+      "organ_name": "Công ty Cổ phần Văn hóa Tân Bình"
+    },
+    {
+      "symbol": "ADC",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Mĩ thuật và Truyền thông",
+      "organ_name": "Công ty Cổ phần Mĩ thuật và Truyền thông"
+    },
+    {
+      "symbol": "AAV",
+      "exchange": "HNX",
+      "type": "STOCK",
+      "organ_short_name": "Việt Tiên Sơn Địa ốc",
+      "organ_name": "Công ty Cổ phần AAV Group"
+    }
+  ],
+  "meta": {
+    "title": "Mã chứng khoán — Sàn HNX - Tải miễn phí",
+    "description": "Mã chứng khoán niêm yết trên Sở Giao dịch Chứng khoán Hà Nội (HNX). Chứa 321 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Mã chứng khoán — Sàn HNX | ListBase",
+    "seo_description": "Tải xuống Mã chứng khoán — Sàn HNX — 321 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 321 bản ghi / 5 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

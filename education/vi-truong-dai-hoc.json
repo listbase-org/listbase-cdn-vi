@@ -1,0 +1,646 @@
+{
+  "id": "vi-truong-dai-hoc",
+  "name": "Việt Nam — Các trường đại học",
+  "title": "Việt Nam — Các trường đại học",
+  "description": "Danh sách các trường đại học và cơ sở giáo dục đại học đã được công nhận tại Việt Nam. Mỗi bản ghi chứa tên trường (bằng tiếng Anh/Latinh), tên miền chính, danh sách tên miền, trang web chính, mã quốc gia (ISO-3166-1 alpha-2) và tỉnh/thành phố (nếu có trong nguồn). Trích xuất bằng cách lọc tập dữ liệu toàn cầu Hipo/university-domains-list (country == 'Viet Nam' hoặc 'Vietnam').",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Banking University of Ho Chi Minh City",
+      "slug": "banking-ho-chi-minh-city",
+      "domain": "buh.edu.vn",
+      "domains": "buh.edu.vn",
+      "web_page": "http://www.buh.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Binh Duong University",
+      "slug": "binh-duong",
+      "domain": "bdu.edu.vn",
+      "domains": "bdu.edu.vn",
+      "web_page": "http://www.bdu.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Can-Tho University",
+      "slug": "can-tho",
+      "domain": "ctu.edu.vn",
+      "domains": "ctu.edu.vn",
+      "web_page": "http://www.ctu.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Danang College Of Technology",
+      "slug": "danang-college-technology",
+      "domain": "dct.udn.vn",
+      "domains": "dct.udn.vn",
+      "web_page": "http://www.dct.udn.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Duy Tan University",
+      "slug": "duy-tan",
+      "domain": "duytan.edu.vn",
+      "domains": "duytan.edu.vn",
+      "web_page": "https://duytan.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Foreign Trade University",
+      "slug": "foreign-trade",
+      "domain": "ftu.edu.vn",
+      "domains": "ftu.edu.vn",
+      "web_page": "http://www.ftu.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "FPT University",
+      "slug": "fpt",
+      "domain": "fpt.edu.vn",
+      "domains": "fpt.edu.vn",
+      "web_page": "http://www.fpt.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Hai Duong University of Economics and Technology",
+      "slug": "hai-duong-economics-technology",
+      "domain": "ktkt-haiduong.edu.vn",
+      "domains": "ktkt-haiduong.edu.vn",
+      "web_page": "http://www.ktkt-haiduong.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Hanoi Medical University",
+      "slug": "hanoi-medical",
+      "domain": "hmu.edu.vn",
+      "domains": "hmu.edu.vn",
+      "web_page": "http://www.hmu.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Hanoi National Economics University",
+      "slug": "hanoi-national-economics",
+      "domain": "neu.edu.vn",
+      "domains": "neu.edu.vn",
+      "web_page": "http://www.neu.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Hanoi National University of Education",
+      "slug": "hanoi-national-education",
+      "domain": "hnue.edu.vn",
+      "domains": "hnue.edu.vn",
+      "web_page": "https://hnue.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": "Hanoi"
+    },
+    {
+      "name": "Hanoi Open University",
+      "slug": "hanoi-open",
+      "domain": "hou.edu.vn",
+      "domains": "hou.edu.vn",
+      "web_page": "http://www.hou.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Hanoi Univerisity of Transportation",
+      "slug": "hanoi-univerisity-transportation",
+      "domain": "uct.edu.vn",
+      "domains": "uct.edu.vn",
+      "web_page": "http://www.uct.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Hanoi University",
+      "slug": "hanoi",
+      "domain": "hanu.edu.vn",
+      "domains": "hanu.edu.vn, hanu.vn",
+      "web_page": "https://hanu.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": "Hanoi"
+    },
+    {
+      "name": "Hanoi University of Agriculture",
+      "slug": "hanoi-agriculture",
+      "domain": "hua.edu.vn",
+      "domains": "hua.edu.vn",
+      "web_page": "http://www.hua.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Hanoi University of Architecture",
+      "slug": "hanoi-architecture",
+      "domain": "hau.edu.vn",
+      "domains": "hau.edu.vn",
+      "web_page": "http://www.hau.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Hanoi University of Civil Engineering",
+      "slug": "hanoi-civil-engineering",
+      "domain": "dhxd.edu.vn",
+      "domains": "dhxd.edu.vn",
+      "web_page": "http://www.dhxd.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Hanoi University of Mining and Geology",
+      "slug": "hanoi-mining-geology",
+      "domain": "humg.edu.vn",
+      "domains": "humg.edu.vn",
+      "web_page": "http://www.humg.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Hanoi University of Science",
+      "slug": "hanoi-science",
+      "domain": "hus.edu.vn",
+      "domains": "hus.edu.vn",
+      "web_page": "http://www.hus.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Hanoi University of Science and Technology",
+      "slug": "hanoi-science-technology",
+      "domain": "hust.edu.vn",
+      "domains": "hust.edu.vn",
+      "web_page": "http://hust.edu.vn",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Hanoi University of Technology",
+      "slug": "hanoi-technology",
+      "domain": "hut.edu.vn",
+      "domains": "hut.edu.vn",
+      "web_page": "http://www.hut.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Ho Chi Minh City Open University",
+      "slug": "ho-chi-minh-city-open",
+      "domain": "ou.edu.vn",
+      "domains": "ou.edu.vn",
+      "web_page": "http://www.ou.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Ho Chi Minh City University of Agriculture and Forestry",
+      "slug": "ho-chi-minh-city-agriculture-forestry",
+      "domain": "hcmuaf.edu.vn",
+      "domains": "hcmuaf.edu.vn",
+      "web_page": "http://www.hcmuaf.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Ho Chi Minh City University of Architecture",
+      "slug": "ho-chi-minh-city-architecture",
+      "domain": "hcmuarc.edu.vn",
+      "domains": "hcmuarc.edu.vn",
+      "web_page": "http://www.hcmuarc.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Ho Chi Minh City University of Economics",
+      "slug": "ho-chi-minh-city-economics",
+      "domain": "ueh.edu.vn",
+      "domains": "ueh.edu.vn",
+      "web_page": "http://www.ueh.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Ho Chi Minh City University of Foreign Languages and Information Technology",
+      "slug": "ho-chi-minh-city-foreign-languages-infor",
+      "domain": "huflit.vnn.vn",
+      "domains": "huflit.vnn.vn",
+      "web_page": "http://www.huflit.vnn.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Ho Chi Minh City University of Law",
+      "slug": "ho-chi-minh-city-law",
+      "domain": "hcmulaw.edu.vn",
+      "domains": "hcmulaw.edu.vn",
+      "web_page": "http://www.hcmulaw.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Ho Chi Minh City University of Medicine and Pharmacy",
+      "slug": "ho-chi-minh-city-medicine-pharmacy",
+      "domain": "yds.edu.vn",
+      "domains": "yds.edu.vn",
+      "web_page": "http://www.yds.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Ho Chi Minh City University of Pedagogics",
+      "slug": "ho-chi-minh-city-pedagogics",
+      "domain": "hcmupeda.edu.vn",
+      "domains": "hcmupeda.edu.vn",
+      "web_page": "http://www.hcmupeda.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Ho Chi Minh City University of Science",
+      "slug": "ho-chi-minh-city-science",
+      "domain": "hcmus.edu.vn",
+      "domains": "hcmus.edu.vn",
+      "web_page": "http://www.hcmus.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Ho Chi Minh City University of Social Sciences and Humanities",
+      "slug": "ho-chi-minh-city-social-sciences-humanit",
+      "domain": "hcmussh.edu.vn",
+      "domains": "hcmussh.edu.vn",
+      "web_page": "http://www.hcmussh.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Ho Chi Minh City University of Technology",
+      "slug": "ho-chi-minh-city-technology",
+      "domain": "hcmut.edu.vn",
+      "domains": "hcmut.edu.vn",
+      "web_page": "http://www.hcmut.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Ho Chi Minh City University of Transport",
+      "slug": "ho-chi-minh-city-transport",
+      "domain": "hcmutrans.edu.vn",
+      "domains": "hcmutrans.edu.vn",
+      "web_page": "http://www.hcmutrans.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Hoa Sen University",
+      "slug": "hoa-sen",
+      "domain": "hoasen.edu.vn",
+      "domains": "hoasen.edu.vn",
+      "web_page": "https://www.hoasen.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": "Ho Chi Minh City"
+    },
+    {
+      "name": "Hue University",
+      "slug": "hue",
+      "domain": "hueuni.edu.vn",
+      "domains": "hueuni.edu.vn",
+      "web_page": "http://www.hueuni.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Hue University of Agriculture and Forestry",
+      "slug": "hue-agriculture-forestry",
+      "domain": "huaf.edu.vn",
+      "domains": "huaf.edu.vn",
+      "web_page": "http://www.huaf.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Finance",
+      "slug": "institute-finance",
+      "domain": "hvtc.edu.vn",
+      "domains": "hvtc.edu.vn",
+      "web_page": "http://www.hvtc.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Nha Trang University",
+      "slug": "nha-trang",
+      "domain": "ntu.edu.vn",
+      "domains": "ntu.edu.vn",
+      "web_page": "https://ntu.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": "Khanh Hoa"
+    },
+    {
+      "name": "Pham Ngoc Thach University of Medicine",
+      "slug": "pham-ngoc-thach-medicine",
+      "domain": "pnt.edu.vn",
+      "domains": "pnt.edu.vn",
+      "web_page": "http://www.pnt.edu.vn",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Phan Chau Trinh University",
+      "slug": "phan-chau-trinh",
+      "domain": "pctu.edu.vn",
+      "domains": "pctu.edu.vn",
+      "web_page": "https://pctu.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Posts & Telecommunications Institute of Technology",
+      "slug": "posts-telecommunications-institute-techn",
+      "domain": "ptit.edu.vn",
+      "domains": "ptit.edu.vn",
+      "web_page": "http://www.ptit.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "RMIT International University Vietnam",
+      "slug": "rmit-international-vietnam",
+      "domain": "rmit.edu.vn",
+      "domains": "rmit.edu.vn",
+      "web_page": "http://www.rmit.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Saigon University",
+      "slug": "saigon",
+      "domain": "sgu.edu.vn",
+      "domains": "sgu.edu.vn",
+      "web_page": "http://www.sgu.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Tay Nguyen University",
+      "slug": "tay-nguyen",
+      "domain": "taynguyenuni.edu.vn",
+      "domains": "taynguyenuni.edu.vn",
+      "web_page": "http://www.taynguyenuni.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Thai Nguyen University of Agriculture and Forestry",
+      "slug": "thai-nguyen-agriculture-forestry",
+      "domain": "tuaf.edu.vn",
+      "domains": "tuaf.edu.vn",
+      "web_page": "http://www.tuaf.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Ton Duc Thang University",
+      "slug": "ton-duc-thang",
+      "domain": "tdtu.edu.vn",
+      "domains": "tdtu.edu.vn",
+      "web_page": "https://tdtu.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": "Ho Chi Minh City"
+    },
+    {
+      "name": "University of Da Lat",
+      "slug": "da-lat",
+      "domain": "dlu.edu.vn",
+      "domains": "dlu.edu.vn",
+      "web_page": "http://www.dlu.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "University of Da Nang",
+      "slug": "da-nang",
+      "domain": "ud.edu.vn",
+      "domains": "ud.edu.vn",
+      "web_page": "http://www.ud.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "University of Da Nang",
+      "slug": "da-nang",
+      "domain": "udn.vn",
+      "domains": "udn.vn",
+      "web_page": "https://www.udn.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": "Da Nang"
+    },
+    {
+      "name": "University of Science and Technology Hanoi (USTH, Vietnam-France University)",
+      "slug": "science-technology-hanoi-usth-vietnam-fr",
+      "domain": "usth.edu.vn",
+      "domains": "usth.edu.vn",
+      "web_page": "https://usth.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "University of Technical Education Ho Chi Minh City",
+      "slug": "technical-education-ho-chi-minh-city",
+      "domain": "hcmute.edu.vn",
+      "domains": "hcmute.edu.vn",
+      "web_page": "http://www.hcmute.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Van Lang University",
+      "slug": "van-lang",
+      "domain": "vlu.edu.vn",
+      "domains": "vlu.edu.vn",
+      "web_page": "https://www.vlu.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": "Ho Chi Minh City"
+    },
+    {
+      "name": "Vietnam Maritime University",
+      "slug": "vietnam-maritime",
+      "domain": "vimaru.edu.vn",
+      "domains": "vimaru.edu.vn",
+      "web_page": "http://www.vimaru.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Vietnam National University Hanoi",
+      "slug": "vietnam-national-hanoi",
+      "domain": "vnu.edu.vn",
+      "domains": "vnu.edu.vn",
+      "web_page": "http://www.vnu.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Vietnam National University Ho Chi Minh City",
+      "slug": "vietnam-national-ho-chi-minh-city",
+      "domain": "vnuhcm.edu.vn",
+      "domains": "vnuhcm.edu.vn",
+      "web_page": "http://www.vnuhcm.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Vietnamese - German University",
+      "slug": "vietnamese-german",
+      "domain": "vgu.edu.vn",
+      "domains": "vgu.edu.vn",
+      "web_page": "http://www.vgu.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "VNU University of Engineering and Technology",
+      "slug": "vnu-engineering-technology",
+      "domain": "uet.vnu.edu.vn",
+      "domains": "uet.vnu.edu.vn",
+      "web_page": "https://uet.vnu.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    },
+    {
+      "name": "Water Resources University",
+      "slug": "water-resources",
+      "domain": "hwru.edu.vn",
+      "domains": "hwru.edu.vn",
+      "web_page": "http://www.hwru.edu.vn/",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Việt Nam — Các trường đại học - Tải miễn phí",
+    "description": "Danh sách các trường đại học và cơ sở giáo dục đại học đã được công nhận tại Việt Nam. Mỗi bản ghi chứa tên trường (bằng tiếng Anh/Latinh), tên miền chính, danh sách tên miền, trang web chính, mã quốc gia (ISO-3166-1 alpha-2) và tỉnh/thành phố (nếu có trong nguồn). Trích xuất bằng cách lọc tập dữ liệu toàn cầu Hipo/university-domains-list (country == 'Viet Nam' hoặc 'Vietnam'). Chứa 58 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Việt Nam — Các trường đại học | ListBase",
+    "seo_description": "Tải xuống Việt Nam — Các trường đại học — 58 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 58 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

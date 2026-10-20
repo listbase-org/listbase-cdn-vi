@@ -1,0 +1,126 @@
+{
+  "id": "vi-hai-phong-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Hải Phòng",
+  "title": "Địa điểm du lịch Hải Phòng",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Hải Phòng (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "number"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 296,
+      "ten_dia_diem": "Đồ Sơn",
+      "vi_tri": "Hải Phòng",
+      "tinh_truoc_sap_nhap_2025": "Hải Phòng",
+      "mo_ta": "Đồ Sơn (Hải Phòng) là một bãi biển đẹp nổi tiếng với những dãy núi và biển xanh. Đây là khu du lịch biển với các hoạt động thể thao nước và thư giãn dưới ánh nắng.",
+      "danh_gia": "3.5",
+      "danh_gia_diem": 3.5,
+      "anh": "https://vietrapro.com/wp-content/uploads/2017/05/bai-bien-do-son-hai-phong.jpg",
+      "tu_khoa": "di sản, lịch sử, văn hóa"
+    },
+    {
+      "stt": 297,
+      "ten_dia_diem": "Cát Bà",
+      "vi_tri": "Hải Phòng",
+      "tinh_truoc_sap_nhap_2025": "Hải Phòng",
+      "mo_ta": "Cát Bà (Hải Phòng) là hòn đảo nổi tiếng với bãi biển tuyệt đẹp và hệ sinh thái đa dạng. Nơi đây là một điểm đến lý tưởng cho những ai yêu thích du lịch sinh thái và biển.",
+      "danh_gia": "4.8",
+      "danh_gia_diem": 4.8,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3GEramqChIIWX08m0x2Cq_5N26odngXetIA&s",
+      "tu_khoa": "địa phương, độc đáo, khám phá"
+    },
+    {
+      "stt": 298,
+      "ten_dia_diem": "Bến Nghiêng - Bến K15",
+      "vi_tri": "Hải Phòng",
+      "tinh_truoc_sap_nhap_2025": "Hải Phòng",
+      "mo_ta": "Bến Nghiêng (Bến K15) (Quảng Ninh) là một bến cảng nổi tiếng, gắn liền với lịch sử chiến tranh. Đây là một trong những điểm di tích lịch sử quan trọng của miền Bắc.",
+      "danh_gia": "4.1",
+      "danh_gia_diem": 4.1,
+      "anh": "https://image.vietgoing.com/editor/image_czc1638431389.jpg",
+      "tu_khoa": "thiên nhiên, du lịch, hòa bình"
+    },
+    {
+      "stt": 299,
+      "ten_dia_diem": "Hải đăng Hòn Dấu",
+      "vi_tri": "Hải Phòng",
+      "tinh_truoc_sap_nhap_2025": "Hải Phòng",
+      "mo_ta": "Hải đăng Hòn Dấu (Hải Phòng) là ngọn hải đăng cổ kính, nằm trên đảo Hòn Dấu. Đây là một trong những ngọn hải đăng quan trọng ở khu vực vịnh Bắc Bộ.",
+      "danh_gia": "4",
+      "danh_gia_diem": 4,
+      "anh": "https://ticotravel.com.vn/wp-content/uploads/2022/05/Hai-dang-Hon-Dau-2.jpg",
+      "tu_khoa": "cảnh quan, địa danh, nổi bật"
+    },
+    {
+      "stt": 300,
+      "ten_dia_diem": "Cầu Hoàng Văn Thụ",
+      "vi_tri": "Hải Phòng",
+      "tinh_truoc_sap_nhap_2025": "Hải Phòng",
+      "mo_ta": "Cầu Hoàng Văn Thụ (Hải Phòng) là một cây cầu huyết mạch nối liền các khu vực trong thành phố. Cầu nổi bật với kiến trúc hiện đại và là điểm đến tham quan chính của du khách.",
+      "danh_gia": "3.3",
+      "danh_gia_diem": 3.3,
+      "anh": "https://imagev3.dantocmiennui.vn/w1000/Uploaded/2024/ngotzz/2022_08_25/cauhoangvanthu2.jpeg",
+      "tu_khoa": "khám phá, thiên nhiên, thư giãn"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Hải Phòng - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Hải Phòng (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Hải Phòng | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Hải Phòng — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

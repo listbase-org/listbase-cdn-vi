@@ -1,0 +1,366 @@
+{
+  "id": "vi-ha-noi-quan-huyen-2019",
+  "name": "Hà Nội — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Hà Nội — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 30 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Hà Nội theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 17 Huyện, 12 Quận, 1 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/HN.json). (30 district-level units of Hà Nội under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "HN-01",
+      "name": "Ba Đình",
+      "name_full": "Quận Ba Đình",
+      "slug": "ba-dinh",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 14
+    },
+    {
+      "code": "HN-02",
+      "name": "Ba Vì",
+      "name_full": "Huyện Ba Vì",
+      "slug": "ba-vi",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 31
+    },
+    {
+      "code": "HN-03",
+      "name": "Bắc Từ Liêm",
+      "name_full": "Quận Bắc Từ Liêm",
+      "slug": "bac-tu-liem",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 13
+    },
+    {
+      "code": "HN-04",
+      "name": "Cầu Giấy",
+      "name_full": "Quận Cầu Giấy",
+      "slug": "cau-giay",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 8
+    },
+    {
+      "code": "HN-05",
+      "name": "Chương Mỹ",
+      "name_full": "Huyện Chương Mỹ",
+      "slug": "chuong-my",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 32
+    },
+    {
+      "code": "HN-06",
+      "name": "Đan Phượng",
+      "name_full": "Huyện Đan Phượng",
+      "slug": "dan-phuong",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 16
+    },
+    {
+      "code": "HN-07",
+      "name": "Đông Anh",
+      "name_full": "Huyện Đông Anh",
+      "slug": "dong-anh",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 25
+    },
+    {
+      "code": "HN-08",
+      "name": "Đống Đa",
+      "name_full": "Quận Đống Đa",
+      "slug": "dong-da",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 21
+    },
+    {
+      "code": "HN-09",
+      "name": "Gia Lâm",
+      "name_full": "Huyện Gia Lâm",
+      "slug": "gia-lam",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 22
+    },
+    {
+      "code": "HN-10",
+      "name": "Hà Đông",
+      "name_full": "Quận Hà Đông",
+      "slug": "ha-dong",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 17
+    },
+    {
+      "code": "HN-11",
+      "name": "Hai Bà Trưng",
+      "name_full": "Quận Hai Bà Trưng",
+      "slug": "hai-ba-trung",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 20
+    },
+    {
+      "code": "HN-12",
+      "name": "Hoài Đức",
+      "name_full": "Huyện Hoài Đức",
+      "slug": "hoai-duc",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 20
+    },
+    {
+      "code": "HN-13",
+      "name": "Hoàn Kiếm",
+      "name_full": "Quận Hoàn Kiếm",
+      "slug": "hoan-kiem",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 18
+    },
+    {
+      "code": "HN-14",
+      "name": "Hoàng Mai",
+      "name_full": "Quận Hoàng Mai",
+      "slug": "hoang-mai",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 14
+    },
+    {
+      "code": "HN-15",
+      "name": "Long Biên",
+      "name_full": "Quận Long Biên",
+      "slug": "long-bien",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 14
+    },
+    {
+      "code": "HN-16",
+      "name": "Mê Linh",
+      "name_full": "Huyện Mê Linh",
+      "slug": "me-linh",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 18
+    },
+    {
+      "code": "HN-17",
+      "name": "Mỹ Đức",
+      "name_full": "Huyện Mỹ Đức",
+      "slug": "my-duc",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 22
+    },
+    {
+      "code": "HN-18",
+      "name": "Nam Từ Liêm",
+      "name_full": "Quận Nam Từ Liêm",
+      "slug": "nam-tu-liem",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 10
+    },
+    {
+      "code": "HN-19",
+      "name": "Phú Xuyên",
+      "name_full": "Huyện Phú Xuyên",
+      "slug": "phu-xuyen",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 28
+    },
+    {
+      "code": "HN-20",
+      "name": "Phúc Thọ",
+      "name_full": "Huyện Phúc Thọ",
+      "slug": "phuc-tho",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 24
+    },
+    {
+      "code": "HN-21",
+      "name": "Quốc Oai",
+      "name_full": "Huyện Quốc Oai",
+      "slug": "quoc-oai",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 21
+    },
+    {
+      "code": "HN-22",
+      "name": "Sóc Sơn",
+      "name_full": "Huyện Sóc Sơn",
+      "slug": "soc-son",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 26
+    },
+    {
+      "code": "HN-23",
+      "name": "Sơn Tây",
+      "name_full": "Thị xã Sơn Tây",
+      "slug": "son-tay",
+      "division_type": "Thị xã",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 15
+    },
+    {
+      "code": "HN-24",
+      "name": "Tây Hồ",
+      "name_full": "Quận Tây Hồ",
+      "slug": "tay-ho",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 8
+    },
+    {
+      "code": "HN-25",
+      "name": "Thạch Thất",
+      "name_full": "Huyện Thạch Thất",
+      "slug": "thach-that",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 23
+    },
+    {
+      "code": "HN-26",
+      "name": "Thanh Oai",
+      "name_full": "Huyện Thanh Oai",
+      "slug": "thanh-oai",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 21
+    },
+    {
+      "code": "HN-27",
+      "name": "Thanh Trì",
+      "name_full": "Huyện Thanh Trì",
+      "slug": "thanh-tri",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 16
+    },
+    {
+      "code": "HN-28",
+      "name": "Thanh Xuân",
+      "name_full": "Quận Thanh Xuân",
+      "slug": "thanh-xuan",
+      "division_type": "Quận",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 11
+    },
+    {
+      "code": "HN-29",
+      "name": "Thường Tín",
+      "name_full": "Huyện Thường Tín",
+      "slug": "thuong-tin",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 29
+    },
+    {
+      "code": "HN-30",
+      "name": "Ứng Hòa",
+      "name_full": "Huyện Ứng Hòa",
+      "slug": "ung-hoa",
+      "division_type": "Huyện",
+      "province_code": "HN",
+      "province_name": "Hà Nội",
+      "ward_count": 30
+    }
+  ],
+  "meta": {
+    "title": "Hà Nội — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 30 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Hà Nội theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 17 Huyện, 12 Quận, 1 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/HN.json). (30 district-level units of Hà Nội under the pre-2025-merger 3-tier hierarchy.) Chứa 30 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Hà Nội — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Hà Nội — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 30 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 30 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

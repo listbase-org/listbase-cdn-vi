@@ -1,0 +1,126 @@
+{
+  "id": "vi-soc-trang-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Sóc Trăng",
+  "title": "Địa điểm du lịch Sóc Trăng",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Sóc Trăng (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 96,
+      "ten_dia_diem": "Chợ nổi Ngã Năm",
+      "vi_tri": "Sóc Trăng",
+      "tinh_truoc_sap_nhap_2025": "Sóc Trăng",
+      "mo_ta": "bày bán đủ các loại mặt hàng từ thực phẩm cho đến nhu yếu phầm. Đặc biệt hơn hết, không thể không nhắc đến các ghe/ xuồng đầy ắp các loại trái cây nhiệt \nđới đặc trưng tùy mùa.",
+      "danh_gia": "4.0/5",
+      "danh_gia_diem": 4,
+      "anh": "http://surl.li/sgckjk",
+      "tu_khoa": "thực phẩm, mặt hàng, ghe, xuồng, mùa"
+    },
+    {
+      "stt": 97,
+      "ten_dia_diem": "Chùa Dơi",
+      "vi_tri": "Sóc Trăng",
+      "tinh_truoc_sap_nhap_2025": "Sóc Trăng",
+      "mo_ta": "Kiến trúc của ngôi chùa này được xem là tiêu biểu của Phật giáo Nam tông Khmer, chùa được xây dựng vào thế kỷ 16 nhưng cho đến nay toàn bộ công trình còn giữ được tình trạng tốt và vẫn là nơi sinh hoạt tôn giáo mang ý nghĩa quan trọng của người dân trong vùng. Điều Đặc biệt khi đi đây là du khách sẽ thấy hàng nghìn con dơi khá lớn treo mình trên cây trong khuôn viên chùa giống như chúng đã quen thuộc với nơi này vậy",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "http://surl.li/tkcaxe",
+      "tu_khoa": "chùa, Phật giáo, con dơi"
+    },
+    {
+      "stt": 98,
+      "ten_dia_diem": "Vườn cò Tân Long",
+      "vi_tri": "Sóc Trăng",
+      "tinh_truoc_sap_nhap_2025": "Sóc Trăng",
+      "mo_ta": "Với quang cảnh thiên nhiên hoang sơ và hệ sinh thái động thực vật đa dạng. Đặc biệt là các giống loài cò quý hiếm.",
+      "danh_gia": "4.2/5",
+      "danh_gia_diem": 4.2,
+      "anh": "http://surl.li/acmlvm",
+      "tu_khoa": "hoang sơ, cò, quý hiếm"
+    },
+    {
+      "stt": 99,
+      "ten_dia_diem": "Biển Hồ Bể",
+      "vi_tri": "Sóc Trăng",
+      "tinh_truoc_sap_nhap_2025": "Sóc Trăng",
+      "mo_ta": "Khu vực này được hình thành do sự bãi bồi và quá trình xâm lấn của nước biển, làm nên một vùng hồ trũng rộng lớn. Bãi biển\n hồ này còn được thiên nhiên ưu ái bằng một bờ cát trắng dài hàng cây số. Do chưa đưa vào khai thác du lịch mạnh, bãi biển vẫn giữ được nét hoang sơ, tự nhiên vốn có mang lại sự yên bình, tự do cho du khách",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "http://surl.li/urzgei",
+      "tu_khoa": "xâm lấn, hồ trũng, cát trắng, hoang sơ, bình yên"
+    },
+    {
+      "stt": 100,
+      "ten_dia_diem": "Chùa Som Rong",
+      "vi_tri": "Sóc Trăng",
+      "tinh_truoc_sap_nhap_2025": "Sóc Trăng",
+      "mo_ta": "Là một nơi đặc biệt quan trọng không chỉ do tín ngưỡng tôn giáo, mà còn do ngôi chùa này có một thư viện lớn với hơn 1500 đầu sách, phục vụ cho các bạn thiếu nhi, bà con tại nơi này. Ngôi bảo tháp được phủ một màu xám huyền bí thay vì màu vàng thường gặp; Pho tượng phật nằm dài hơn 63 mét, cao hơn mặt đất khoảng 28 mét, cộng thêm chiều cao 22 mét khiến cho pho tượng vô cùng uy nghi; chùa Som Rong thường được nhiều khách du lịch lựa chọn ghé thăm",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "http://surl.li/btdhtl",
+      "tu_khoa": "tín ngưỡng, tôn giáo, bảo tháp, tượng"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Sóc Trăng - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Sóc Trăng (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Sóc Trăng | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Sóc Trăng — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

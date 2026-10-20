@@ -1,0 +1,176 @@
+{
+  "id": "vi-ha-giang-quan-huyen-2019",
+  "name": "Hà Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Hà Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 11 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Hà Giang theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 10 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/HG.json). (11 district-level units of Hà Giang under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "HG-01",
+      "name": "Bắc Mê",
+      "name_full": "Huyện Bắc Mê",
+      "slug": "bac-me",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 13
+    },
+    {
+      "code": "HG-02",
+      "name": "Bắc Quang",
+      "name_full": "Huyện Bắc Quang",
+      "slug": "bac-quang",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 23
+    },
+    {
+      "code": "HG-03",
+      "name": "Đồng Văn",
+      "name_full": "Huyện Đồng Văn",
+      "slug": "dong-van",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 19
+    },
+    {
+      "code": "HG-04",
+      "name": "Hà Giang",
+      "name_full": "Thành phố Hà Giang",
+      "slug": "ha-giang",
+      "division_type": "Thành phố",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 8
+    },
+    {
+      "code": "HG-05",
+      "name": "Hoàng Su Phì",
+      "name_full": "Huyện Hoàng Su Phì",
+      "slug": "hoang-su-phi",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 25
+    },
+    {
+      "code": "HG-06",
+      "name": "Mèo Vạc",
+      "name_full": "Huyện Mèo Vạc",
+      "slug": "meo-vac",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 18
+    },
+    {
+      "code": "HG-07",
+      "name": "Quản Bạ",
+      "name_full": "Huyện Quản Bạ",
+      "slug": "quan-ba",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 13
+    },
+    {
+      "code": "HG-08",
+      "name": "Quang Bình",
+      "name_full": "Huyện Quang Bình",
+      "slug": "quang-binh",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 15
+    },
+    {
+      "code": "HG-09",
+      "name": "Vị Xuyên",
+      "name_full": "Huyện Vị Xuyên",
+      "slug": "vi-xuyen",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 24
+    },
+    {
+      "code": "HG-10",
+      "name": "Xín Mần",
+      "name_full": "Huyện Xín Mần",
+      "slug": "xin-man",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 19
+    },
+    {
+      "code": "HG-11",
+      "name": "Yên Minh",
+      "name_full": "Huyện Yên Minh",
+      "slug": "yen-minh",
+      "division_type": "Huyện",
+      "province_code": "HG",
+      "province_name": "Hà Giang",
+      "ward_count": 18
+    }
+  ],
+  "meta": {
+    "title": "Hà Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 11 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Hà Giang theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 10 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/HG.json). (11 district-level units of Hà Giang under the pre-2025-merger 3-tier hierarchy.) Chứa 11 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Hà Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Hà Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 11 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 11 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

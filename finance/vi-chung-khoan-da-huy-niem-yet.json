@@ -1,0 +1,6449 @@
+{
+  "id": "vi-chung-khoan-da-huy-niem-yet",
+  "name": "Mã chứng khoán đã hủy niêm yết",
+  "title": "Mã chứng khoán đã hủy niêm yết",
+  "description": "Danh sách mã chứng khoán đã từng niêm yết tại Việt Nam và hiện đã hủy niêm yết hoặc ngừng giao dịch.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 914,
+  "columns": [
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "exchange",
+      "label": "Exchange",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "organ_short_name",
+      "label": "Organ Short Name",
+      "type": "string"
+    },
+    {
+      "key": "organ_name",
+      "label": "Organ Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "symbol": "XDC",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng Công trình Tân Cảng",
+      "organ_name": "Công ty Cổ phần Xây dựng Công trình Tân Cảng"
+    },
+    {
+      "symbol": "VSP",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "ShinPetrol",
+      "organ_name": "Công ty Cổ phần Vận tải biển và Bất động sản Việt Hải"
+    },
+    {
+      "symbol": "VNT421032",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "VNT421032 - Trái phiếu",
+      "organ_name": "VNT421032 - Trái phiếu"
+    },
+    {
+      "symbol": "VNG122002",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "VNG122002 - Trái phiếu",
+      "organ_name": "VNG122002 - Trái phiếu"
+    },
+    {
+      "symbol": "VND122014",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "VND122014 - Trái phiếu",
+      "organ_name": "VND122014 - Trái phiếu"
+    },
+    {
+      "symbol": "VND122013",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "VND122013 - Trái phiếu",
+      "organ_name": "VND122013 - Trái phiếu"
+    },
+    {
+      "symbol": "VND122012",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "VND122012 - Trái phiếu",
+      "organ_name": "VND122012 - Trái phiếu"
+    },
+    {
+      "symbol": "VN30F2503",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "VN30F2503 - HĐTL",
+      "organ_name": "VN30F2503 - HĐTL"
+    },
+    {
+      "symbol": "VN30F2502",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "VN30F2502 - HĐTL",
+      "organ_name": "VN30F2502 - HĐTL"
+    },
+    {
+      "symbol": "VN30F2501",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "VN30F2501 - HĐTL",
+      "organ_name": "VN30F2501 - HĐTL"
+    },
+    {
+      "symbol": "VN30F2412",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "VN30F2412 - HĐTL",
+      "organ_name": "VN30F2412 - HĐTL"
+    },
+    {
+      "symbol": "VN30F2411",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "VN30F2411 - HĐTL",
+      "organ_name": "VN30F2411 - HĐTL"
+    },
+    {
+      "symbol": "VN30F2410",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "VN30F2410 - HĐTL",
+      "organ_name": "VN30F2410 - HĐTL"
+    },
+    {
+      "symbol": "VN30F2409",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "VN30F2409 - HĐTL",
+      "organ_name": "VN30F2409 - HĐTL"
+    },
+    {
+      "symbol": "VN30F2408",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "VN30F2408 - HĐTL",
+      "organ_name": "VN30F2408 - HĐTL"
+    },
+    {
+      "symbol": "VN30F2407",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "VN30F2407 - HĐTL",
+      "organ_name": "VN30F2407 - HĐTL"
+    },
+    {
+      "symbol": "VN30F2406",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "VN30F2406 - HĐTL",
+      "organ_name": "VN30F2406 - HĐTL"
+    },
+    {
+      "symbol": "VN30F2405",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "VN30F2405 - HĐTL",
+      "organ_name": "VN30F2405 - HĐTL"
+    },
+    {
+      "symbol": "VN30F2404",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "VN30F2404 - HĐTL",
+      "organ_name": "VN30F2404 - HĐTL"
+    },
+    {
+      "symbol": "VN30F2403",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "VN30F2403 - HĐTL",
+      "organ_name": "VN30F2403 - HĐTL"
+    },
+    {
+      "symbol": "VN30F2402",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "VN30F2402 - HĐTL",
+      "organ_name": "VN30F2402 - HĐTL"
+    },
+    {
+      "symbol": "VN30F2401",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "VN30F2401 - HĐTL",
+      "organ_name": "VN30F2401 - HĐTL"
+    },
+    {
+      "symbol": "VMI",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "KS và Đầu tư VISACO",
+      "organ_name": "Công ty Cổ phần Khoáng sản và Đầu tư VISACO"
+    },
+    {
+      "symbol": "VKD",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Nước khoáng Khánh Hòa",
+      "organ_name": "Công ty Cổ phần Nước khoáng Khánh Hòa"
+    },
+    {
+      "symbol": "VIS",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Thép Việt Ý",
+      "organ_name": "Công ty Cổ phần Thép Việt Ý"
+    },
+    {
+      "symbol": "VIC121005",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "VIC121005 - Trái phiếu",
+      "organ_name": "VIC121005 - Trái phiếu"
+    },
+    {
+      "symbol": "VIC121004",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "VIC121004 - Trái phiếu",
+      "organ_name": "VIC121004 - Trái phiếu"
+    },
+    {
+      "symbol": "VIC121003",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "VIC121003 - Trái phiếu",
+      "organ_name": "VIC121003 - Trái phiếu"
+    },
+    {
+      "symbol": "VHM121024",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "VHM121024 - Trái phiếu",
+      "organ_name": "VHM121024 - Trái phiếu"
+    },
+    {
+      "symbol": "VHI",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "VDM",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Viện Nghiên cứu Dệt may",
+      "organ_name": "Công ty Cổ phần - Viện Nghiên cứu Dệt may"
+    },
+    {
+      "symbol": "VBB122033",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "VBB122033 - Trái phiếu",
+      "organ_name": "VBB122033 - Trái phiếu"
+    },
+    {
+      "symbol": "VAT",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Viễn thông Vạn Xuân",
+      "organ_name": "Công ty Cổ phần VT Vạn Xuân"
+    },
+    {
+      "symbol": "TVW",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Cấp thoát nước Trà Vinh",
+      "organ_name": "Công ty Cổ phần Cấp thoát nước Trà Vinh"
+    },
+    {
+      "symbol": "TVP",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Dược phẩm TV.Pharm",
+      "organ_name": "Công ty Cổ phần Dược phẩm TV.Pharm"
+    },
+    {
+      "symbol": "TTP",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Bao bì nhựa Tân Tiến",
+      "organ_name": "Công ty Cổ phần Bao bì Tân Tiến"
+    },
+    {
+      "symbol": "TS5",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "TNG119007",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "TNG119007 - Trái phiếu",
+      "organ_name": "TNG119007 - Trái phiếu"
+    },
+    {
+      "symbol": "TN1122016",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "TN1122016 - Trái phiếu",
+      "organ_name": "TN1122016 - Trái phiếu"
+    },
+    {
+      "symbol": "THI",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Thiết bị điện",
+      "organ_name": "Công ty Cổ phần Thiết bị điện"
+    },
+    {
+      "symbol": "TEC",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Traenco",
+      "organ_name": "Công ty Cổ phần Traenco"
+    },
+    {
+      "symbol": "TDN",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Than Đèo Nai",
+      "organ_name": "Công ty Cổ phần Than Đèo Nai - Vinacomin"
+    },
+    {
+      "symbol": "TDI",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn TDI",
+      "organ_name": "Công ty Cổ phần Tập đoàn TDI"
+    },
+    {
+      "symbol": "TC6",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Than Cọc Sáu",
+      "organ_name": "Công ty Cổ phần Than Cọc Sáu - Vinacomin"
+    },
+    {
+      "symbol": "TAP",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Đô thị Tân An",
+      "organ_name": "Công ty Cổ phần Đô thị Tân An"
+    },
+    {
+      "symbol": "TAG",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Trần Anh Company",
+      "organ_name": "Công ty Cổ phần Thế giới số Trần Anh"
+    },
+    {
+      "symbol": "TAC",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Dầu Tường An",
+      "organ_name": "Công ty Cổ phần Dầu Thực vật Tường An"
+    },
+    {
+      "symbol": "TA3",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "ĐT và Xây lắp Thành An 386",
+      "organ_name": "Công ty cổ phần Đầu tư và Xây lắp Thành An 386"
+    },
+    {
+      "symbol": "T12",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "SVL",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "SSU",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường Đô thị Sóc Sơn",
+      "organ_name": "Công ty Cổ phần Môi trường Đô thị Sóc Sơn"
+    },
+    {
+      "symbol": "SRT",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải Đường sắt Sài Gòn",
+      "organ_name": "Công ty Cổ phần Vận tải Đường sắt Sài Gòn"
+    },
+    {
+      "symbol": "SPP",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Bao bì Nhựa SG",
+      "organ_name": "Công ty Cổ phần Bao bì Nhựa Sài Gòn"
+    },
+    {
+      "symbol": "SPA",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Bao bì Sài Gòn",
+      "organ_name": "Công ty Cổ phần Bao bì Sài Gòn"
+    },
+    {
+      "symbol": "SON",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "SIC",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Công ty Cổ phần ANI",
+      "organ_name": "Công ty Cổ phần ANI"
+    },
+    {
+      "symbol": "SHX",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Sài Gòn Hỏa xa",
+      "organ_name": "Công ty Cổ phần Sài Gòn Hỏa xa"
+    },
+    {
+      "symbol": "SGO",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Dầu thực vật Sài Gòn",
+      "organ_name": "Công ty Cổ phần Dầu thực vật Sài Gòn"
+    },
+    {
+      "symbol": "SDH",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Hạ tầng Sông Đà",
+      "organ_name": "Công ty Cổ phần Xây dựng hạ tầng Sông Đà"
+    },
+    {
+      "symbol": "SCV",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Visalco.,JSC",
+      "organ_name": "Công ty Cổ phần Muối Việt Nam"
+    },
+    {
+      "symbol": "SCA",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Nông nghiệp Sông Con",
+      "organ_name": "Công ty Cổ phần Nông nghiệp Sông Con"
+    },
+    {
+      "symbol": "SBT121002",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "SBT121002 - Trái phiếu",
+      "organ_name": "SBT121002 - Trái phiếu"
+    },
+    {
+      "symbol": "ROS",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng FLC FAROS",
+      "organ_name": "Công ty Cổ phần Xây dựng FLC FAROS"
+    },
+    {
+      "symbol": "RGC",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư PV-Inconess",
+      "organ_name": "Công ty Cổ phần Đầu tư PV-Inconess"
+    },
+    {
+      "symbol": "QLT",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Bảo trì đường thủy nội địa số 10",
+      "organ_name": "Công ty Cổ phần Quản lý Bảo trì Đường thủy Nội địa số 10"
+    },
+    {
+      "symbol": "QLD",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "QL và XD Giao thông Lạng Sơn",
+      "organ_name": "Công ty Cổ phần Quản lý và Xây dựng Giao thông Lạng Sơn"
+    },
+    {
+      "symbol": "PYU",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Công trình đô thị Phúc Yên",
+      "organ_name": "Công ty Cổ phần Môi trường và Công trình đô thị Phúc Yên"
+    },
+    {
+      "symbol": "PTN",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Phát triển Nhà Khánh Hòa",
+      "organ_name": "Công ty Cổ phần Phát triển Nhà Khánh Hòa"
+    },
+    {
+      "symbol": "PDT",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "PCN",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Dầu khí DMC-Miền Bắc",
+      "organ_name": "Công ty Cổ phần Hóa phẩm dầu khí DMC - Miền Bắc"
+    },
+    {
+      "symbol": "NS3",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Nước sạch số 3 Hà Nội",
+      "organ_name": "Công ty Cổ phần Sản xuất Kinh doanh Nước sạch số 3 Hà Nội"
+    },
+    {
+      "symbol": "NPM11911",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "NPM11911 - Trái phiếu",
+      "organ_name": "NPM11911 - Trái phiếu"
+    },
+    {
+      "symbol": "NPM11907",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "NPM11907 - Trái phiếu",
+      "organ_name": "NPM11907 - Trái phiếu"
+    },
+    {
+      "symbol": "NPM11805",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "NPM11805 - Trái phiếu",
+      "organ_name": "NPM11805 - Trái phiếu"
+    },
+    {
+      "symbol": "NNQ",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "NNG",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "CN - DV - TM Ngọc Nghĩa",
+      "organ_name": "Công ty Cổ phần Công nghiệp - Dịch vụ - Thương mại Ngọc Nghĩa"
+    },
+    {
+      "symbol": "MXC",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "MSR11808",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "MSR11808 - Trái phiếu",
+      "organ_name": "MSR11808 - Trái phiếu"
+    },
+    {
+      "symbol": "MSN121015",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "MSN121015 - Trái phiếu",
+      "organ_name": "MSN121015 - Trái phiếu"
+    },
+    {
+      "symbol": "MSN121014",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "MSN121014 - Trái phiếu",
+      "organ_name": "MSN121014 - Trái phiếu"
+    },
+    {
+      "symbol": "MSN121013",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "MSN121013 - Trái phiếu",
+      "organ_name": "MSN121013 - Trái phiếu"
+    },
+    {
+      "symbol": "MSN12005",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "MSN12005 - Trái phiếu",
+      "organ_name": "MSN12005 - Trái phiếu"
+    },
+    {
+      "symbol": "MSN12003",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "MSN12003 - Trái phiếu",
+      "organ_name": "MSN12003 - Trái phiếu"
+    },
+    {
+      "symbol": "MSN12002",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "MSN12002 - Trái phiếu",
+      "organ_name": "MSN12002 - Trái phiếu"
+    },
+    {
+      "symbol": "MSN120012",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "MSN120012 - Trái phiếu",
+      "organ_name": "MSN120012 - Trái phiếu"
+    },
+    {
+      "symbol": "MSN120011",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "MSN120011 - Trái phiếu",
+      "organ_name": "MSN120011 - Trái phiếu"
+    },
+    {
+      "symbol": "MSN120010",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "MSN120010 - Trái phiếu",
+      "organ_name": "MSN120010 - Trái phiếu"
+    },
+    {
+      "symbol": "MSN12001",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "MSN12001 - Trái phiếu",
+      "organ_name": "MSN12001 - Trái phiếu"
+    },
+    {
+      "symbol": "MSN120009",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "MSN120009 - Trái phiếu",
+      "organ_name": "MSN120009 - Trái phiếu"
+    },
+    {
+      "symbol": "MSN120008",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "MSN120008 - Trái phiếu",
+      "organ_name": "MSN120008 - Trái phiếu"
+    },
+    {
+      "symbol": "MSN120007",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "MSN120007 - Trái phiếu",
+      "organ_name": "MSN120007 - Trái phiếu"
+    },
+    {
+      "symbol": "MEG",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Công ty Megram",
+      "organ_name": "Công ty Cổ phần Megram"
+    },
+    {
+      "symbol": "MCI",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Xây dựng và Phát triển Vật liệu IDICO",
+      "organ_name": "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Vật liệu IDICO"
+    },
+    {
+      "symbol": "MCD",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường và Đô thị Đông Hà",
+      "organ_name": "Công ty Cổ phần Môi trường và Công trình Đô thị Đông Hà"
+    },
+    {
+      "symbol": "MC3",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Khoáng sản 3 - Vimico",
+      "organ_name": "Công ty Cổ phần Khoáng sản 3 - Vimico"
+    },
+    {
+      "symbol": "LYF",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Công ty Lương Thực Lương Yên",
+      "organ_name": "Công ty Cổ phần Lương Thực Lương Yên"
+    },
+    {
+      "symbol": "LWS",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Lào Cai",
+      "organ_name": "Công ty Cổ phần Cấp nước Tỉnh Lào Cai"
+    },
+    {
+      "symbol": "LPB122012",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "LPB122012 - Trái phiếu",
+      "organ_name": "LPB122012 - Trái phiếu"
+    },
+    {
+      "symbol": "LPB122010",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "LPB122010 - Trái phiếu",
+      "organ_name": "LPB122010 - Trái phiếu"
+    },
+    {
+      "symbol": "LPB121035",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "LPB121035 - Trái phiếu",
+      "organ_name": "LPB121035 - Trái phiếu"
+    },
+    {
+      "symbol": "LCW",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Nước sạch Lai Châu",
+      "organ_name": "Công ty Cổ phần Nước sạch Lai Châu"
+    },
+    {
+      "symbol": "LBC",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Thương mại - Đầu tư Long Biên",
+      "organ_name": "Công ty Cổ phần Thương mại - Đầu tư Long Biên"
+    },
+    {
+      "symbol": "KTW",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Kon Tum",
+      "organ_name": "Công ty Cổ phần Cấp nước Kon Tum"
+    },
+    {
+      "symbol": "KLM",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Kim loại màu Nghệ Tĩnh",
+      "organ_name": "Công ty Cổ phần Kim loại màu Nghệ Tĩnh"
+    },
+    {
+      "symbol": "KHB",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Khoáng sản Hòa Bình",
+      "organ_name": "Công ty Cổ phần Khoáng sản Hòa Bình"
+    },
+    {
+      "symbol": "KHA",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư và DV Khánh Hội",
+      "organ_name": "Công ty Cổ phần Đầu tư và Dịch vụ Khánh Hội"
+    },
+    {
+      "symbol": "KBC121020",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "KBC121020 - Trái phiếu",
+      "organ_name": "KBC121020 - Trái phiếu"
+    },
+    {
+      "symbol": "IPH",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "IBN",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "In báo Nghệ An",
+      "organ_name": "Công ty Cổ phần In báo Nghệ An"
+    },
+    {
+      "symbol": "HUX",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "HTW",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Hà Tĩnh",
+      "organ_name": "Công ty Cổ phần Cấp nước Hà Tĩnh"
+    },
+    {
+      "symbol": "HTR",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Đường sắt Hà Thái",
+      "organ_name": "Công ty Cổ phần Đường sắt Hà Thái"
+    },
+    {
+      "symbol": "HTK",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "HTH",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Hoa tiêu Hàng hải - TKV",
+      "organ_name": "Công ty Cổ phần Hoa tiêu Hàng hải - TKV"
+    },
+    {
+      "symbol": "HRT",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải đường sắt Hà Nội",
+      "organ_name": "Công ty Cổ phần Vận tải đường sắt Hà Nội"
+    },
+    {
+      "symbol": "HNT",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Xe điện Hà Nội",
+      "organ_name": "Công ty Cổ phần Xe điện Hà Nội"
+    },
+    {
+      "symbol": "HNE",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "HLR",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Đường sắt Hà Lạng",
+      "organ_name": "Công ty Cổ phần Đường sắt Hà Lạng"
+    },
+    {
+      "symbol": "HLG",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Hoàng Long",
+      "organ_name": "Công ty Cổ phần Tập đoàn Hoàng Long"
+    },
+    {
+      "symbol": "HLE",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Điện chiếu sáng Hải Phòng",
+      "organ_name": "Công ty Cổ phần Điện chiếu sáng Hải Phòng"
+    },
+    {
+      "symbol": "HKP",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Bao bì Hà Tiên",
+      "organ_name": "Công ty Cổ phần Bao bì Hà Tiên"
+    },
+    {
+      "symbol": "HHR",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Đường sắt Hà Hải",
+      "organ_name": "Công ty Cổ phần Đường sắt Hà Hải"
+    },
+    {
+      "symbol": "HGW",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Công trình đô thị Hậu Giang",
+      "organ_name": "Công ty Cổ phần Cấp thoát nước - Công trình Đô thị Hậu Giang"
+    },
+    {
+      "symbol": "HGR",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "HGC",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "HGA",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "HEM",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Chế tạo điện cơ Hà Nội",
+      "organ_name": "Công ty Cổ phần Chế tạo Điện cơ Hà Nội"
+    },
+    {
+      "symbol": "HDG121001",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "HDG121001 - Trái phiếu",
+      "organ_name": "HDG121001 - Trái phiếu"
+    },
+    {
+      "symbol": "HCMA0307",
+      "exchange": "DELISTED",
+      "type": "DEBENTURE",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "HAW",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "HAB",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "GTK",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "GTH",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "XD-GT Thừa Thiên Huế",
+      "organ_name": "Công ty Cổ phần Xây dựng Giao thông Thừa Thiên Huế"
+    },
+    {
+      "symbol": "GQN",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "GLH121026",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "GLH121026 - Trái phiếu",
+      "organ_name": "GLH121026 - Trái phiếu"
+    },
+    {
+      "symbol": "GLH121019",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "GLH121019 - Trái phiếu",
+      "organ_name": "GLH121019 - Trái phiếu"
+    },
+    {
+      "symbol": "GEG121022",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "GEG121022 - Trái phiếu",
+      "organ_name": "GEG121022 - Trái phiếu"
+    },
+    {
+      "symbol": "GE2",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Tổng Công ty Phát điện 2",
+      "organ_name": "Tổng Công ty Phát điện 2"
+    },
+    {
+      "symbol": "GB10F2503",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB10F2503 - HĐTL",
+      "organ_name": "GB10F2503 - HĐTL"
+    },
+    {
+      "symbol": "GB10F2412",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB10F2412 - HĐTL",
+      "organ_name": "GB10F2412 - HĐTL"
+    },
+    {
+      "symbol": "GB10F2409",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB10F2409 - HĐTL",
+      "organ_name": "GB10F2409 - HĐTL"
+    },
+    {
+      "symbol": "GB10F2406",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB10F2406 - HĐTL",
+      "organ_name": "GB10F2406 - HĐTL"
+    },
+    {
+      "symbol": "GB10F2403",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB10F2403 - HĐTL",
+      "organ_name": "GB10F2403 - HĐTL"
+    },
+    {
+      "symbol": "GB10F2312",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB10F2312 - HĐTL",
+      "organ_name": "GB10F2312 - HĐTL"
+    },
+    {
+      "symbol": "GB10F2309",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB10F2309 - HĐTL",
+      "organ_name": "GB10F2309 - HĐTL"
+    },
+    {
+      "symbol": "GB10F2306",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB10F2306 - HĐTL",
+      "organ_name": "GB10F2306 - HĐTL"
+    },
+    {
+      "symbol": "GB10F2303",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB10F2303 - HĐTL",
+      "organ_name": "GB10F2303 - HĐTL"
+    },
+    {
+      "symbol": "GB10F2212",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB10F2212 - HĐTL",
+      "organ_name": "GB10F2212 - HĐTL"
+    },
+    {
+      "symbol": "GB10F2209",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB10F2209 - HĐTL",
+      "organ_name": "GB10F2209 - HĐTL"
+    },
+    {
+      "symbol": "GB10F2206",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB10F2206 - HĐTL",
+      "organ_name": "GB10F2206 - HĐTL"
+    },
+    {
+      "symbol": "GB05F2503",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB05F2503 - HĐTL",
+      "organ_name": "GB05F2503 - HĐTL"
+    },
+    {
+      "symbol": "GB05F2412",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB05F2412 - HĐTL",
+      "organ_name": "GB05F2412 - HĐTL"
+    },
+    {
+      "symbol": "GB05F2409",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB05F2409 - HĐTL",
+      "organ_name": "GB05F2409 - HĐTL"
+    },
+    {
+      "symbol": "GB05F2406",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB05F2406 - HĐTL",
+      "organ_name": "GB05F2406 - HĐTL"
+    },
+    {
+      "symbol": "GB05F2403",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB05F2403 - HĐTL",
+      "organ_name": "GB05F2403 - HĐTL"
+    },
+    {
+      "symbol": "GB05F2312",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB05F2312 - HĐTL",
+      "organ_name": "GB05F2312 - HĐTL"
+    },
+    {
+      "symbol": "GB05F2309",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB05F2309 - HĐTL",
+      "organ_name": "GB05F2309 - HĐTL"
+    },
+    {
+      "symbol": "GB05F2306",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB05F2306 - HĐTL",
+      "organ_name": "GB05F2306 - HĐTL"
+    },
+    {
+      "symbol": "GB05F2303",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB05F2303 - HĐTL",
+      "organ_name": "GB05F2303 - HĐTL"
+    },
+    {
+      "symbol": "GB05F2212",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB05F2212 - HĐTL",
+      "organ_name": "GB05F2212 - HĐTL"
+    },
+    {
+      "symbol": "GB05F2209",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB05F2209 - HĐTL",
+      "organ_name": "GB05F2209 - HĐTL"
+    },
+    {
+      "symbol": "GB05F2206",
+      "exchange": "DELISTED",
+      "type": "FU",
+      "organ_short_name": "GB05F2206 - HĐTL",
+      "organ_name": "GB05F2206 - HĐTL"
+    },
+    {
+      "symbol": "FDG",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Thủy sản Docimexco",
+      "organ_name": "Công ty Cổ phần Docimexco"
+    },
+    {
+      "symbol": "EMC",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Cơ điện Thủ Đức",
+      "organ_name": "Công ty Cổ phần Cơ điện Thủ Đức"
+    },
+    {
+      "symbol": "EAD",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Điện lực Đắk Lắk",
+      "organ_name": "Công ty Cổ phần Thủy điện Điện lực Đắk Lắk"
+    },
+    {
+      "symbol": "DX2",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "DTV",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "PT điện Nông thôn Trà Vinh",
+      "organ_name": "Công ty Cổ phần Phát triển điện Trà Vinh"
+    },
+    {
+      "symbol": "DT4",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Bảo trì đường thủy nội địa số 4",
+      "organ_name": "Công ty Cổ phần Quản lý Đường sông số 4"
+    },
+    {
+      "symbol": "DSV",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Đường sắt Vĩnh Phú",
+      "organ_name": "Công ty Cổ phần Đường sắt Vĩnh Phú"
+    },
+    {
+      "symbol": "DPD",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Cao su Đồng Phú Đắk Nông",
+      "organ_name": "Công ty cổ phần Cao su Đồng Phú - Đắk Nông"
+    },
+    {
+      "symbol": "DNB",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "DLM",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Chiếu sáng công cộng Đà Nẵng",
+      "organ_name": "Công ty Cổ phần Chiếu sáng công cộng Đà Nẵng"
+    },
+    {
+      "symbol": "DKH",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "DBW",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Điện Biên",
+      "organ_name": "Công ty Cổ phần Cấp nước Điện Biên"
+    },
+    {
+      "symbol": "DBH",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Đường bộ Hải Phòng",
+      "organ_name": "Công ty Cổ phần Đường bộ Hải Phòng"
+    },
+    {
+      "symbol": "DAR",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Xe lửa Dĩ An",
+      "organ_name": "Công ty Cổ phần Xe lửa Dĩ An"
+    },
+    {
+      "symbol": "D17",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Khai thác mỏ Đồng Tân",
+      "organ_name": "Công ty Cổ Phần Đồng Tân"
+    },
+    {
+      "symbol": "CVT122008",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "CVT122008 - Trái phiếu",
+      "organ_name": "CVT122008 - Trái phiếu"
+    },
+    {
+      "symbol": "CVT122007",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "CVT122007 - Trái phiếu",
+      "organ_name": "CVT122007 - Trái phiếu"
+    },
+    {
+      "symbol": "CVRE2409",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2409 - Chứng quyền",
+      "organ_name": "CVRE2409 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2404",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2404 - Chứng quyền",
+      "organ_name": "CVRE2404 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2403",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2403 - Chứng quyền",
+      "organ_name": "CVRE2403 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2402",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2402 - Chứng quyền",
+      "organ_name": "CVRE2402 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2401",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2401 - Chứng quyền",
+      "organ_name": "CVRE2401 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2323",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2323 - Chứng quyền",
+      "organ_name": "CVRE2323 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2322",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2322 - Chứng quyền",
+      "organ_name": "CVRE2322 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2321",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2321 - Chứng quyền",
+      "organ_name": "CVRE2321 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2320",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2320 - Chứng quyền",
+      "organ_name": "CVRE2320 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2319",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2319 - Chứng quyền",
+      "organ_name": "CVRE2319 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2318",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2318 - Chứng quyền",
+      "organ_name": "CVRE2318 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2317",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2317 - Chứng quyền",
+      "organ_name": "CVRE2317 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2316",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2316 - Chứng quyền",
+      "organ_name": "CVRE2316 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2315",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2315 - Chứng quyền",
+      "organ_name": "CVRE2315 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2314",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2314 - Chứng quyền",
+      "organ_name": "CVRE2314 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2313",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2313 - Chứng quyền",
+      "organ_name": "CVRE2313 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2312",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2312 - Chứng quyền",
+      "organ_name": "CVRE2312 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2311",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2311 - Chứng quyền",
+      "organ_name": "CVRE2311 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2310",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2310 - Chứng quyền",
+      "organ_name": "CVRE2310 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2309",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2309 - Chứng quyền",
+      "organ_name": "CVRE2309 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2308",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2308 - Chứng quyền",
+      "organ_name": "CVRE2308 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2307",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2307 - Chứng quyền",
+      "organ_name": "CVRE2307 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2306",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2306 - Chứng quyền",
+      "organ_name": "CVRE2306 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2305 - Chứng quyền",
+      "organ_name": "CVRE2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2304 - Chứng quyền",
+      "organ_name": "CVRE2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2303 - Chứng quyền",
+      "organ_name": "CVRE2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2302 - Chứng quyền",
+      "organ_name": "CVRE2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2301 - Chứng quyền",
+      "organ_name": "CVRE2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2221",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2221 - Chứng quyền",
+      "organ_name": "CVRE2221 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2220",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2220 - Chứng quyền",
+      "organ_name": "CVRE2220 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2219",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2219 - Chứng quyền",
+      "organ_name": "CVRE2219 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2218",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2218 - Chứng quyền",
+      "organ_name": "CVRE2218 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2217",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2217 - Chứng quyền",
+      "organ_name": "CVRE2217 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2216",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2216 - Chứng quyền",
+      "organ_name": "CVRE2216 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2215",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2215 - Chứng quyền",
+      "organ_name": "CVRE2215 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2214",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2214 - Chứng quyền",
+      "organ_name": "CVRE2214 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2213",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2213 - Chứng quyền",
+      "organ_name": "CVRE2213 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2212",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2212 - Chứng quyền",
+      "organ_name": "CVRE2212 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2211",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2211 - Chứng quyền",
+      "organ_name": "CVRE2211 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2210",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2210 - Chứng quyền",
+      "organ_name": "CVRE2210 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2209",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2209 - Chứng quyền",
+      "organ_name": "CVRE2209 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2208",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2208 - Chứng quyền",
+      "organ_name": "CVRE2208 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2207",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2207 - Chứng quyền",
+      "organ_name": "CVRE2207 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2206 - Chứng quyền",
+      "organ_name": "CVRE2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2205 - Chứng quyền",
+      "organ_name": "CVRE2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2204 - Chứng quyền",
+      "organ_name": "CVRE2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2203 - Chứng quyền",
+      "organ_name": "CVRE2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2202 - Chứng quyền",
+      "organ_name": "CVRE2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2201 - Chứng quyền",
+      "organ_name": "CVRE2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2114",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2114 - Chứng quyền",
+      "organ_name": "CVRE2114 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2113",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2113 - Chứng quyền",
+      "organ_name": "CVRE2113 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2110",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2110 - Chứng quyền",
+      "organ_name": "CVRE2110 - Chứng quyền"
+    },
+    {
+      "symbol": "CVRE2105",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVRE2105 - Chứng quyền",
+      "organ_name": "CVRE2105 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2411",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2411 - Chứng quyền",
+      "organ_name": "CVPB2411 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2406",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2406 - Chứng quyền",
+      "organ_name": "CVPB2406 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2405",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2405 - Chứng quyền",
+      "organ_name": "CVPB2405 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2404",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2404 - Chứng quyền",
+      "organ_name": "CVPB2404 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2403",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2403 - Chứng quyền",
+      "organ_name": "CVPB2403 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2402",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2402 - Chứng quyền",
+      "organ_name": "CVPB2402 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2322",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2322 - Chứng quyền",
+      "organ_name": "CVPB2322 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2321",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2321 - Chứng quyền",
+      "organ_name": "CVPB2321 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2320",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2320 - Chứng quyền",
+      "organ_name": "CVPB2320 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2319",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2319 - Chứng quyền",
+      "organ_name": "CVPB2319 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2318",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2318 - Chứng quyền",
+      "organ_name": "CVPB2318 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2317",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2317 - Chứng quyền",
+      "organ_name": "CVPB2317 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2316",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2316 - Chứng quyền",
+      "organ_name": "CVPB2316 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2315",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2315 - Chứng quyền",
+      "organ_name": "CVPB2315 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2314",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2314 - Chứng quyền",
+      "organ_name": "CVPB2314 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2313",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2313 - Chứng quyền",
+      "organ_name": "CVPB2313 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2312",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2312 - Chứng quyền",
+      "organ_name": "CVPB2312 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2311",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2311 - Chứng quyền",
+      "organ_name": "CVPB2311 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2310",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2310 - Chứng quyền",
+      "organ_name": "CVPB2310 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2309",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2309 - Chứng quyền",
+      "organ_name": "CVPB2309 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2308",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2308 - Chứng quyền",
+      "organ_name": "CVPB2308 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2307",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2307 - Chứng quyền",
+      "organ_name": "CVPB2307 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2306",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2306 - Chứng quyền",
+      "organ_name": "CVPB2306 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2305 - Chứng quyền",
+      "organ_name": "CVPB2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2304 - Chứng quyền",
+      "organ_name": "CVPB2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2303 - Chứng quyền",
+      "organ_name": "CVPB2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2302 - Chứng quyền",
+      "organ_name": "CVPB2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2301 - Chứng quyền",
+      "organ_name": "CVPB2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2214",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2214 - Chứng quyền",
+      "organ_name": "CVPB2214 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2213",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2213 - Chứng quyền",
+      "organ_name": "CVPB2213 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2212",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2212 - Chứng quyền",
+      "organ_name": "CVPB2212 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2211",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2211 - Chứng quyền",
+      "organ_name": "CVPB2211 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2210",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2210 - Chứng quyền",
+      "organ_name": "CVPB2210 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2209",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2209 - Chứng quyền",
+      "organ_name": "CVPB2209 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2208",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2208 - Chứng quyền",
+      "organ_name": "CVPB2208 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2207",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2207 - Chứng quyền",
+      "organ_name": "CVPB2207 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2206 - Chứng quyền",
+      "organ_name": "CVPB2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2205 - Chứng quyền",
+      "organ_name": "CVPB2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2204 - Chứng quyền",
+      "organ_name": "CVPB2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2203 - Chứng quyền",
+      "organ_name": "CVPB2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2202 - Chứng quyền",
+      "organ_name": "CVPB2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2201 - Chứng quyền",
+      "organ_name": "CVPB2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CVPB2111",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVPB2111 - Chứng quyền",
+      "organ_name": "CVPB2111 - Chứng quyền"
+    },
+    {
+      "symbol": "CVP",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Cảng Cửa Việt",
+      "organ_name": "Công ty cổ phần Cảng Cửa Việt"
+    },
+    {
+      "symbol": "CVNM2408",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2408 - Chứng quyền",
+      "organ_name": "CVNM2408 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2404",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2404 - Chứng quyền",
+      "organ_name": "CVNM2404 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2403",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2403 - Chứng quyền",
+      "organ_name": "CVNM2403 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2402",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2402 - Chứng quyền",
+      "organ_name": "CVNM2402 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2316",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2316 - Chứng quyền",
+      "organ_name": "CVNM2316 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2315",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2315 - Chứng quyền",
+      "organ_name": "CVNM2315 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2314",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2314 - Chứng quyền",
+      "organ_name": "CVNM2314 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2313",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2313 - Chứng quyền",
+      "organ_name": "CVNM2313 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2312",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2312 - Chứng quyền",
+      "organ_name": "CVNM2312 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2311",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2311 - Chứng quyền",
+      "organ_name": "CVNM2311 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2310",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2310 - Chứng quyền",
+      "organ_name": "CVNM2310 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2309",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2309 - Chứng quyền",
+      "organ_name": "CVNM2309 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2308",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2308 - Chứng quyền",
+      "organ_name": "CVNM2308 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2307",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2307 - Chứng quyền",
+      "organ_name": "CVNM2307 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2306",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2306 - Chứng quyền",
+      "organ_name": "CVNM2306 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2305 - Chứng quyền",
+      "organ_name": "CVNM2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2304 - Chứng quyền",
+      "organ_name": "CVNM2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2303 - Chứng quyền",
+      "organ_name": "CVNM2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2302 - Chứng quyền",
+      "organ_name": "CVNM2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2301 - Chứng quyền",
+      "organ_name": "CVNM2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2212",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2212 - Chứng quyền",
+      "organ_name": "CVNM2212 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2211",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2211 - Chứng quyền",
+      "organ_name": "CVNM2211 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2210",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2210 - Chứng quyền",
+      "organ_name": "CVNM2210 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2209",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2209 - Chứng quyền",
+      "organ_name": "CVNM2209 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2208",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2208 - Chứng quyền",
+      "organ_name": "CVNM2208 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2207",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2207 - Chứng quyền",
+      "organ_name": "CVNM2207 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2206 - Chứng quyền",
+      "organ_name": "CVNM2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2205 - Chứng quyền",
+      "organ_name": "CVNM2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2204 - Chứng quyền",
+      "organ_name": "CVNM2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2203 - Chứng quyền",
+      "organ_name": "CVNM2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2202 - Chứng quyền",
+      "organ_name": "CVNM2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2201 - Chứng quyền",
+      "organ_name": "CVNM2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2114",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2114 - Chứng quyền",
+      "organ_name": "CVNM2114 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2113",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2113 - Chứng quyền",
+      "organ_name": "CVNM2113 - Chứng quyền"
+    },
+    {
+      "symbol": "CVNM2112",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "CVNM2111",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVNM2111 - Chứng quyền",
+      "organ_name": "CVNM2111 - Chứng quyền"
+    },
+    {
+      "symbol": "CVJC2401",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVJC2401 - Chứng quyền",
+      "organ_name": "CVJC2401 - Chứng quyền"
+    },
+    {
+      "symbol": "CVJC2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVJC2206 - Chứng quyền",
+      "organ_name": "CVJC2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CVJC2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVJC2205 - Chứng quyền",
+      "organ_name": "CVJC2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CVJC2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVJC2204 - Chứng quyền",
+      "organ_name": "CVJC2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CVJC2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVJC2203 - Chứng quyền",
+      "organ_name": "CVJC2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CVJC2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVJC2202 - Chứng quyền",
+      "organ_name": "CVJC2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CVJC2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVJC2201 - Chứng quyền",
+      "organ_name": "CVJC2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CVJC2103",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVJC2103 - Chứng quyền",
+      "organ_name": "CVJC2103 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2406",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2406 - Chứng quyền",
+      "organ_name": "CVIC2406 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2403",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2403 - Chứng quyền",
+      "organ_name": "CVIC2403 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2402",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2402 - Chứng quyền",
+      "organ_name": "CVIC2402 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2401",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2401 - Chứng quyền",
+      "organ_name": "CVIC2401 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2314",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2314 - Chứng quyền",
+      "organ_name": "CVIC2314 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2313",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2313 - Chứng quyền",
+      "organ_name": "CVIC2313 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2312",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2312 - Chứng quyền",
+      "organ_name": "CVIC2312 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2311",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2311 - Chứng quyền",
+      "organ_name": "CVIC2311 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2310",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2310 - Chứng quyền",
+      "organ_name": "CVIC2310 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2309",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2309 - Chứng quyền",
+      "organ_name": "CVIC2309 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2308",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2308 - Chứng quyền",
+      "organ_name": "CVIC2308 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2307",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2307 - Chứng quyền",
+      "organ_name": "CVIC2307 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2306",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2306 - Chứng quyền",
+      "organ_name": "CVIC2306 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2305 - Chứng quyền",
+      "organ_name": "CVIC2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2304 - Chứng quyền",
+      "organ_name": "CVIC2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2303 - Chứng quyền",
+      "organ_name": "CVIC2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2302 - Chứng quyền",
+      "organ_name": "CVIC2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2301 - Chứng quyền",
+      "organ_name": "CVIC2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2206 - Chứng quyền",
+      "organ_name": "CVIC2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2205 - Chứng quyền",
+      "organ_name": "CVIC2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2204 - Chứng quyền",
+      "organ_name": "CVIC2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2203 - Chứng quyền",
+      "organ_name": "CVIC2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2202 - Chứng quyền",
+      "organ_name": "CVIC2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2201 - Chứng quyền",
+      "organ_name": "CVIC2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2109",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2109 - Chứng quyền",
+      "organ_name": "CVIC2109 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2108",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2108 - Chứng quyền",
+      "organ_name": "CVIC2108 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIC2107",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "CVIC2106",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIC2106 - Chứng quyền",
+      "organ_name": "CVIC2106 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIB2404",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIB2404 - Chứng quyền",
+      "organ_name": "CVIB2404 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIB2403",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIB2403 - Chứng quyền",
+      "organ_name": "CVIB2403 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIB2401",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIB2401 - Chứng quyền",
+      "organ_name": "CVIB2401 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIB2307",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIB2307 - Chứng quyền",
+      "organ_name": "CVIB2307 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIB2306",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIB2306 - Chứng quyền",
+      "organ_name": "CVIB2306 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIB2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIB2305 - Chứng quyền",
+      "organ_name": "CVIB2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIB2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIB2304 - Chứng quyền",
+      "organ_name": "CVIB2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIB2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIB2303 - Chứng quyền",
+      "organ_name": "CVIB2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIB2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIB2302 - Chứng quyền",
+      "organ_name": "CVIB2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIB2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIB2301 - Chứng quyền",
+      "organ_name": "CVIB2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CVIB2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVIB2201 - Chứng quyền",
+      "organ_name": "CVIB2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2410",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2410 - Chứng quyền",
+      "organ_name": "CVHM2410 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2405",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2405 - Chứng quyền",
+      "organ_name": "CVHM2405 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2404",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2404 - Chứng quyền",
+      "organ_name": "CVHM2404 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2403",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2403 - Chứng quyền",
+      "organ_name": "CVHM2403 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2402",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2402 - Chứng quyền",
+      "organ_name": "CVHM2402 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2401",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2401 - Chứng quyền",
+      "organ_name": "CVHM2401 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2319",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2319 - Chứng quyền",
+      "organ_name": "CVHM2319 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2318",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2318 - Chứng quyền",
+      "organ_name": "CVHM2318 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2317",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2317 - Chứng quyền",
+      "organ_name": "CVHM2317 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2316",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2316 - Chứng quyền",
+      "organ_name": "CVHM2316 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2315",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2315 - Chứng quyền",
+      "organ_name": "CVHM2315 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2314",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2314 - Chứng quyền",
+      "organ_name": "CVHM2314 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2313",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2313 - Chứng quyền",
+      "organ_name": "CVHM2313 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2312",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2312 - Chứng quyền",
+      "organ_name": "CVHM2312 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2311",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2311 - Chứng quyền",
+      "organ_name": "CVHM2311 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2310",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2310 - Chứng quyền",
+      "organ_name": "CVHM2310 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2309",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2309 - Chứng quyền",
+      "organ_name": "CVHM2309 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2308",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2308 - Chứng quyền",
+      "organ_name": "CVHM2308 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2307",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2307 - Chứng quyền",
+      "organ_name": "CVHM2307 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2306",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2306 - Chứng quyền",
+      "organ_name": "CVHM2306 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2305 - Chứng quyền",
+      "organ_name": "CVHM2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2304 - Chứng quyền",
+      "organ_name": "CVHM2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2303 - Chứng quyền",
+      "organ_name": "CVHM2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2302 - Chứng quyền",
+      "organ_name": "CVHM2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2301 - Chứng quyền",
+      "organ_name": "CVHM2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2220",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2220 - Chứng quyền",
+      "organ_name": "CVHM2220 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2219",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2219 - Chứng quyền",
+      "organ_name": "CVHM2219 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2218",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2218 - Chứng quyền",
+      "organ_name": "CVHM2218 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2217",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2217 - Chứng quyền",
+      "organ_name": "CVHM2217 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2216",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2216 - Chứng quyền",
+      "organ_name": "CVHM2216 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2215",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2215 - Chứng quyền",
+      "organ_name": "CVHM2215 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2214",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2214 - Chứng quyền",
+      "organ_name": "CVHM2214 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2213",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2213 - Chứng quyền",
+      "organ_name": "CVHM2213 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2212",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2212 - Chứng quyền",
+      "organ_name": "CVHM2212 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2211",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2211 - Chứng quyền",
+      "organ_name": "CVHM2211 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2210",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2210 - Chứng quyền",
+      "organ_name": "CVHM2210 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2209",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2209 - Chứng quyền",
+      "organ_name": "CVHM2209 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2208",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2208 - Chứng quyền",
+      "organ_name": "CVHM2208 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2207",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2207 - Chứng quyền",
+      "organ_name": "CVHM2207 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2206 - Chứng quyền",
+      "organ_name": "CVHM2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2205 - Chứng quyền",
+      "organ_name": "CVHM2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2204 - Chứng quyền",
+      "organ_name": "CVHM2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2203 - Chứng quyền",
+      "organ_name": "CVHM2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2202 - Chứng quyền",
+      "organ_name": "CVHM2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2201 - Chứng quyền",
+      "organ_name": "CVHM2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2115",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2115 - Chứng quyền",
+      "organ_name": "CVHM2115 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2114",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2114 - Chứng quyền",
+      "organ_name": "CVHM2114 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2113",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2113 - Chứng quyền",
+      "organ_name": "CVHM2113 - Chứng quyền"
+    },
+    {
+      "symbol": "CVHM2111",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CVHM2111 - Chứng quyền",
+      "organ_name": "CVHM2111 - Chứng quyền"
+    },
+    {
+      "symbol": "CTPB2404",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTPB2404 - Chứng quyền",
+      "organ_name": "CTPB2404 - Chứng quyền"
+    },
+    {
+      "symbol": "CTPB2402",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTPB2402 - Chứng quyền",
+      "organ_name": "CTPB2402 - Chứng quyền"
+    },
+    {
+      "symbol": "CTPB2401",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTPB2401 - Chứng quyền",
+      "organ_name": "CTPB2401 - Chứng quyền"
+    },
+    {
+      "symbol": "CTPB2306",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTPB2306 - Chứng quyền",
+      "organ_name": "CTPB2306 - Chứng quyền"
+    },
+    {
+      "symbol": "CTPB2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTPB2305 - Chứng quyền",
+      "organ_name": "CTPB2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CTPB2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTPB2304 - Chứng quyền",
+      "organ_name": "CTPB2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CTPB2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTPB2303 - Chứng quyền",
+      "organ_name": "CTPB2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CTPB2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTPB2302 - Chứng quyền",
+      "organ_name": "CTPB2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CTPB2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTPB2301 - Chứng quyền",
+      "organ_name": "CTPB2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CTPB2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTPB2206 - Chứng quyền",
+      "organ_name": "CTPB2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CTPB2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTPB2205 - Chứng quyền",
+      "organ_name": "CTPB2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CTPB2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTPB2204 - Chứng quyền",
+      "organ_name": "CTPB2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CTPB2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTPB2203 - Chứng quyền",
+      "organ_name": "CTPB2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CTPB2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTPB2202 - Chứng quyền",
+      "organ_name": "CTPB2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CTPB2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTPB2201 - Chứng quyền",
+      "organ_name": "CTPB2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CTG121030",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "CTG121030 - Trái phiếu",
+      "organ_name": "CTG121030 - Trái phiếu"
+    },
+    {
+      "symbol": "CTD122015",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "CTD122015 - Trái phiếu",
+      "organ_name": "CTD122015 - Trái phiếu"
+    },
+    {
+      "symbol": "CTCB2405",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2405 - Chứng quyền",
+      "organ_name": "CTCB2405 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2402",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2402 - Chứng quyền",
+      "organ_name": "CTCB2402 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2401",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2401 - Chứng quyền",
+      "organ_name": "CTCB2401 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2312",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2312 - Chứng quyền",
+      "organ_name": "CTCB2312 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2311",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2311 - Chứng quyền",
+      "organ_name": "CTCB2311 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2310",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2310 - Chứng quyền",
+      "organ_name": "CTCB2310 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2309",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2309 - Chứng quyền",
+      "organ_name": "CTCB2309 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2308",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2308 - Chứng quyền",
+      "organ_name": "CTCB2308 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2307",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2307 - Chứng quyền",
+      "organ_name": "CTCB2307 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2306",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2306 - Chứng quyền",
+      "organ_name": "CTCB2306 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2305 - Chứng quyền",
+      "organ_name": "CTCB2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2304 - Chứng quyền",
+      "organ_name": "CTCB2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2303 - Chứng quyền",
+      "organ_name": "CTCB2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2302 - Chứng quyền",
+      "organ_name": "CTCB2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2301 - Chứng quyền",
+      "organ_name": "CTCB2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2216",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2216 - Chứng quyền",
+      "organ_name": "CTCB2216 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2215",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2215 - Chứng quyền",
+      "organ_name": "CTCB2215 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2214",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2214 - Chứng quyền",
+      "organ_name": "CTCB2214 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2213",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2213 - Chứng quyền",
+      "organ_name": "CTCB2213 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2212",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2212 - Chứng quyền",
+      "organ_name": "CTCB2212 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2211",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2211 - Chứng quyền",
+      "organ_name": "CTCB2211 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2210",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2210 - Chứng quyền",
+      "organ_name": "CTCB2210 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2209",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2209 - Chứng quyền",
+      "organ_name": "CTCB2209 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2208",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2208 - Chứng quyền",
+      "organ_name": "CTCB2208 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2207",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2207 - Chứng quyền",
+      "organ_name": "CTCB2207 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2206 - Chứng quyền",
+      "organ_name": "CTCB2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2205 - Chứng quyền",
+      "organ_name": "CTCB2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2204 - Chứng quyền",
+      "organ_name": "CTCB2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2203 - Chứng quyền",
+      "organ_name": "CTCB2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2202 - Chứng quyền",
+      "organ_name": "CTCB2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2201 - Chứng quyền",
+      "organ_name": "CTCB2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2112",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2112 - Chứng quyền",
+      "organ_name": "CTCB2112 - Chứng quyền"
+    },
+    {
+      "symbol": "CTCB2105",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CTCB2105 - Chứng quyền",
+      "organ_name": "CTCB2105 - Chứng quyền"
+    },
+    {
+      "symbol": "CTC",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Hoàng Kim Tây Nguyên",
+      "organ_name": "Công ty Cổ phần Tập đoàn Hoàng Kim Tây Nguyên"
+    },
+    {
+      "symbol": "CT5",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "CSTB2412",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2412 - Chứng quyền",
+      "organ_name": "CSTB2412 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2407",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2407 - Chứng quyền",
+      "organ_name": "CSTB2407 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2406",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2406 - Chứng quyền",
+      "organ_name": "CSTB2406 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2405",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2405 - Chứng quyền",
+      "organ_name": "CSTB2405 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2404",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2404 - Chứng quyền",
+      "organ_name": "CSTB2404 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2403",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2403 - Chứng quyền",
+      "organ_name": "CSTB2403 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2401",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2401 - Chứng quyền",
+      "organ_name": "CSTB2401 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2338",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2338 - Chứng quyền",
+      "organ_name": "CSTB2338 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2337",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2337 - Chứng quyền",
+      "organ_name": "CSTB2337 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2336",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2336 - Chứng quyền",
+      "organ_name": "CSTB2336 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2335",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2335 - Chứng quyền",
+      "organ_name": "CSTB2335 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2334",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2334 - Chứng quyền",
+      "organ_name": "CSTB2334 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2333",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2333 - Chứng quyền",
+      "organ_name": "CSTB2333 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2332",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2332 - Chứng quyền",
+      "organ_name": "CSTB2332 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2331",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2331 - Chứng quyền",
+      "organ_name": "CSTB2331 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2330",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2330 - Chứng quyền",
+      "organ_name": "CSTB2330 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2329",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2329 - Chứng quyền",
+      "organ_name": "CSTB2329 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2328",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2328 - Chứng quyền",
+      "organ_name": "CSTB2328 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2327",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2327 - Chứng quyền",
+      "organ_name": "CSTB2327 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2326",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2326 - Chứng quyền",
+      "organ_name": "CSTB2326 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2325",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2325 - Chứng quyền",
+      "organ_name": "CSTB2325 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2324",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2324 - Chứng quyền",
+      "organ_name": "CSTB2324 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2323",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2323 - Chứng quyền",
+      "organ_name": "CSTB2323 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2322",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2322 - Chứng quyền",
+      "organ_name": "CSTB2322 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2321",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2321 - Chứng quyền",
+      "organ_name": "CSTB2321 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2320",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2320 - Chứng quyền",
+      "organ_name": "CSTB2320 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2319",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2319 - Chứng quyền",
+      "organ_name": "CSTB2319 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2318",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2318 - Chứng quyền",
+      "organ_name": "CSTB2318 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2317",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2317 - Chứng quyền",
+      "organ_name": "CSTB2317 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2316",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2316 - Chứng quyền",
+      "organ_name": "CSTB2316 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2315",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2315 - Chứng quyền",
+      "organ_name": "CSTB2315 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2314",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2314 - Chứng quyền",
+      "organ_name": "CSTB2314 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2313",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2313 - Chứng quyền",
+      "organ_name": "CSTB2313 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2312",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2312 - Chứng quyền",
+      "organ_name": "CSTB2312 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2311",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2311 - Chứng quyền",
+      "organ_name": "CSTB2311 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2310",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2310 - Chứng quyền",
+      "organ_name": "CSTB2310 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2309",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2309 - Chứng quyền",
+      "organ_name": "CSTB2309 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2308",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2308 - Chứng quyền",
+      "organ_name": "CSTB2308 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2307",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2307 - Chứng quyền",
+      "organ_name": "CSTB2307 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2306",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2306 - Chứng quyền",
+      "organ_name": "CSTB2306 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2305 - Chứng quyền",
+      "organ_name": "CSTB2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2304 - Chứng quyền",
+      "organ_name": "CSTB2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2303 - Chứng quyền",
+      "organ_name": "CSTB2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2302 - Chứng quyền",
+      "organ_name": "CSTB2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2301 - Chứng quyền",
+      "organ_name": "CSTB2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2225",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2225 - Chứng quyền",
+      "organ_name": "CSTB2225 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2224",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2224 - Chứng quyền",
+      "organ_name": "CSTB2224 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2223",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2223 - Chứng quyền",
+      "organ_name": "CSTB2223 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2222",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2222 - Chứng quyền",
+      "organ_name": "CSTB2222 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2220",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2220 - Chứng quyền",
+      "organ_name": "CSTB2220 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2218",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2218 - Chứng quyền",
+      "organ_name": "CSTB2218 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2217",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2217 - Chứng quyền",
+      "organ_name": "CSTB2217 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2216",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2216 - Chứng quyền",
+      "organ_name": "CSTB2216 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2215",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2215 - Chứng quyền",
+      "organ_name": "CSTB2215 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2214",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2214 - Chứng quyền",
+      "organ_name": "CSTB2214 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2213",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2213 - Chứng quyền",
+      "organ_name": "CSTB2213 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2212",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2212 - Chứng quyền",
+      "organ_name": "CSTB2212 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2211",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2211 - Chứng quyền",
+      "organ_name": "CSTB2211 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2210",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2210 - Chứng quyền",
+      "organ_name": "CSTB2210 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2209",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2209 - Chứng quyền",
+      "organ_name": "CSTB2209 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2208",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2208 - Chứng quyền",
+      "organ_name": "CSTB2208 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2207",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2207 - Chứng quyền",
+      "organ_name": "CSTB2207 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2206 - Chứng quyền",
+      "organ_name": "CSTB2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2205 - Chứng quyền",
+      "organ_name": "CSTB2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2203 - Chứng quyền",
+      "organ_name": "CSTB2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2202 - Chứng quyền",
+      "organ_name": "CSTB2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2201 - Chứng quyền",
+      "organ_name": "CSTB2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2112",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2112 - Chứng quyền",
+      "organ_name": "CSTB2112 - Chứng quyền"
+    },
+    {
+      "symbol": "CSTB2110",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSTB2110 - Chứng quyền",
+      "organ_name": "CSTB2110 - Chứng quyền"
+    },
+    {
+      "symbol": "CSSB2401",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSSB2401 - Chứng quyền",
+      "organ_name": "CSSB2401 - Chứng quyền"
+    },
+    {
+      "symbol": "CSHB2402",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSHB2402 - Chứng quyền",
+      "organ_name": "CSHB2402 - Chứng quyền"
+    },
+    {
+      "symbol": "CSHB2306",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSHB2306 - Chứng quyền",
+      "organ_name": "CSHB2306 - Chứng quyền"
+    },
+    {
+      "symbol": "CSHB2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSHB2305 - Chứng quyền",
+      "organ_name": "CSHB2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CSHB2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSHB2304 - Chứng quyền",
+      "organ_name": "CSHB2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CSHB2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSHB2303 - Chứng quyền",
+      "organ_name": "CSHB2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CSHB2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSHB2302 - Chứng quyền",
+      "organ_name": "CSHB2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CSHB2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CSHB2301 - Chứng quyền",
+      "organ_name": "CSHB2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2315",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2315 - Chứng quyền",
+      "organ_name": "CPOW2315 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2314",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2314 - Chứng quyền",
+      "organ_name": "CPOW2314 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2313",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2313 - Chứng quyền",
+      "organ_name": "CPOW2313 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2312",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2312 - Chứng quyền",
+      "organ_name": "CPOW2312 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2311",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2311 - Chứng quyền",
+      "organ_name": "CPOW2311 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2310",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2310 - Chứng quyền",
+      "organ_name": "CPOW2310 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2309",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2309 - Chứng quyền",
+      "organ_name": "CPOW2309 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2308",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2308 - Chứng quyền",
+      "organ_name": "CPOW2308 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2307",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2307 - Chứng quyền",
+      "organ_name": "CPOW2307 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2306",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2306 - Chứng quyền",
+      "organ_name": "CPOW2306 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2305 - Chứng quyền",
+      "organ_name": "CPOW2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2304 - Chứng quyền",
+      "organ_name": "CPOW2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2303 - Chứng quyền",
+      "organ_name": "CPOW2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2302 - Chứng quyền",
+      "organ_name": "CPOW2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2301 - Chứng quyền",
+      "organ_name": "CPOW2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2210",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2210 - Chứng quyền",
+      "organ_name": "CPOW2210 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2209",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2209 - Chứng quyền",
+      "organ_name": "CPOW2209 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2208",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2208 - Chứng quyền",
+      "organ_name": "CPOW2208 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2207",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2207 - Chứng quyền",
+      "organ_name": "CPOW2207 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2206 - Chứng quyền",
+      "organ_name": "CPOW2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2205 - Chứng quyền",
+      "organ_name": "CPOW2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2204 - Chứng quyền",
+      "organ_name": "CPOW2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2203 - Chứng quyền",
+      "organ_name": "CPOW2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2202 - Chứng quyền",
+      "organ_name": "CPOW2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CPOW2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPOW2201 - Chứng quyền",
+      "organ_name": "CPOW2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CPNJ2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPNJ2205 - Chứng quyền",
+      "organ_name": "CPNJ2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CPNJ2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPNJ2204 - Chứng quyền",
+      "organ_name": "CPNJ2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CPNJ2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPNJ2203 - Chứng quyền",
+      "organ_name": "CPNJ2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CPNJ2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPNJ2202 - Chứng quyền",
+      "organ_name": "CPNJ2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CPNJ2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPNJ2201 - Chứng quyền",
+      "organ_name": "CPNJ2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CPNJ2110",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPNJ2110 - Chứng quyền",
+      "organ_name": "CPNJ2110 - Chứng quyền"
+    },
+    {
+      "symbol": "CPNJ2109",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPNJ2109 - Chứng quyền",
+      "organ_name": "CPNJ2109 - Chứng quyền"
+    },
+    {
+      "symbol": "CPDR2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPDR2305 - Chứng quyền",
+      "organ_name": "CPDR2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CPDR2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPDR2304 - Chứng quyền",
+      "organ_name": "CPDR2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CPDR2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPDR2303 - Chứng quyền",
+      "organ_name": "CPDR2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CPDR2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPDR2302 - Chứng quyền",
+      "organ_name": "CPDR2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CPDR2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPDR2301 - Chứng quyền",
+      "organ_name": "CPDR2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CPDR2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPDR2206 - Chứng quyền",
+      "organ_name": "CPDR2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CPDR2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPDR2205 - Chứng quyền",
+      "organ_name": "CPDR2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CPDR2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPDR2204 - Chứng quyền",
+      "organ_name": "CPDR2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CPDR2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPDR2203 - Chứng quyền",
+      "organ_name": "CPDR2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CPDR2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPDR2202 - Chứng quyền",
+      "organ_name": "CPDR2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CPDR2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPDR2201 - Chứng quyền",
+      "organ_name": "CPDR2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CPDR2103",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CPDR2103 - Chứng quyền",
+      "organ_name": "CPDR2103 - Chứng quyền"
+    },
+    {
+      "symbol": "CNVL2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CNVL2305 - Chứng quyền",
+      "organ_name": "CNVL2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CNVL2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CNVL2304 - Chứng quyền",
+      "organ_name": "CNVL2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CNVL2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CNVL2303 - Chứng quyền",
+      "organ_name": "CNVL2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CNVL2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CNVL2302 - Chứng quyền",
+      "organ_name": "CNVL2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CNVL2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CNVL2301 - Chứng quyền",
+      "organ_name": "CNVL2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CNVL2210",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CNVL2210 - Chứng quyền",
+      "organ_name": "CNVL2210 - Chứng quyền"
+    },
+    {
+      "symbol": "CNVL2209",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CNVL2209 - Chứng quyền",
+      "organ_name": "CNVL2209 - Chứng quyền"
+    },
+    {
+      "symbol": "CNVL2208",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CNVL2208 - Chứng quyền",
+      "organ_name": "CNVL2208 - Chứng quyền"
+    },
+    {
+      "symbol": "CNVL2207",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CNVL2207 - Chứng quyền",
+      "organ_name": "CNVL2207 - Chứng quyền"
+    },
+    {
+      "symbol": "CNVL2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CNVL2206 - Chứng quyền",
+      "organ_name": "CNVL2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CNVL2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CNVL2205 - Chứng quyền",
+      "organ_name": "CNVL2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CNVL2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CNVL2204 - Chứng quyền",
+      "organ_name": "CNVL2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CNVL2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CNVL2203 - Chứng quyền",
+      "organ_name": "CNVL2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CNVL2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CNVL2202 - Chứng quyền",
+      "organ_name": "CNVL2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CNVL2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CNVL2201 - Chứng quyền",
+      "organ_name": "CNVL2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CNVL2104",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CNVL2104 - Chứng quyền",
+      "organ_name": "CNVL2104 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2409",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2409 - Chứng quyền",
+      "organ_name": "CMWG2409 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2404",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2404 - Chứng quyền",
+      "organ_name": "CMWG2404 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2403",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2403 - Chứng quyền",
+      "organ_name": "CMWG2403 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2402",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2402 - Chứng quyền",
+      "organ_name": "CMWG2402 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2318",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2318 - Chứng quyền",
+      "organ_name": "CMWG2318 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2317",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2317 - Chứng quyền",
+      "organ_name": "CMWG2317 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2316",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2316 - Chứng quyền",
+      "organ_name": "CMWG2316 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2315",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2315 - Chứng quyền",
+      "organ_name": "CMWG2315 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2314",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2314 - Chứng quyền",
+      "organ_name": "CMWG2314 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2313",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2313 - Chứng quyền",
+      "organ_name": "CMWG2313 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2312",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2312 - Chứng quyền",
+      "organ_name": "CMWG2312 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2311",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2311 - Chứng quyền",
+      "organ_name": "CMWG2311 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2310",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2310 - Chứng quyền",
+      "organ_name": "CMWG2310 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2309",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2309 - Chứng quyền",
+      "organ_name": "CMWG2309 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2308",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2308 - Chứng quyền",
+      "organ_name": "CMWG2308 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2307",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2307 - Chứng quyền",
+      "organ_name": "CMWG2307 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2306",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2306 - Chứng quyền",
+      "organ_name": "CMWG2306 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2305 - Chứng quyền",
+      "organ_name": "CMWG2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2304 - Chứng quyền",
+      "organ_name": "CMWG2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2303 - Chứng quyền",
+      "organ_name": "CMWG2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2302 - Chứng quyền",
+      "organ_name": "CMWG2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2301 - Chứng quyền",
+      "organ_name": "CMWG2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2215",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2215 - Chứng quyền",
+      "organ_name": "CMWG2215 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2214",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2214 - Chứng quyền",
+      "organ_name": "CMWG2214 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2213",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2213 - Chứng quyền",
+      "organ_name": "CMWG2213 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2212",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2212 - Chứng quyền",
+      "organ_name": "CMWG2212 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2211",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2211 - Chứng quyền",
+      "organ_name": "CMWG2211 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2210",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2210 - Chứng quyền",
+      "organ_name": "CMWG2210 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2209",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2209 - Chứng quyền",
+      "organ_name": "CMWG2209 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2208",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2208 - Chứng quyền",
+      "organ_name": "CMWG2208 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2207",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2207 - Chứng quyền",
+      "organ_name": "CMWG2207 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2206 - Chứng quyền",
+      "organ_name": "CMWG2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2205 - Chứng quyền",
+      "organ_name": "CMWG2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2204 - Chứng quyền",
+      "organ_name": "CMWG2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2203 - Chứng quyền",
+      "organ_name": "CMWG2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2202 - Chứng quyền",
+      "organ_name": "CMWG2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2201 - Chứng quyền",
+      "organ_name": "CMWG2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2114",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2114 - Chứng quyền",
+      "organ_name": "CMWG2114 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2113",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMWG2113 - Chứng quyền",
+      "organ_name": "CMWG2113 - Chứng quyền"
+    },
+    {
+      "symbol": "CMWG2111",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "CMSN2407",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2407 - Chứng quyền",
+      "organ_name": "CMSN2407 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2403",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2403 - Chứng quyền",
+      "organ_name": "CMSN2403 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2402",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2402 - Chứng quyền",
+      "organ_name": "CMSN2402 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2401",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2401 - Chứng quyền",
+      "organ_name": "CMSN2401 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2317",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2317 - Chứng quyền",
+      "organ_name": "CMSN2317 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2316",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2316 - Chứng quyền",
+      "organ_name": "CMSN2316 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2315",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2315 - Chứng quyền",
+      "organ_name": "CMSN2315 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2314",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2314 - Chứng quyền",
+      "organ_name": "CMSN2314 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2313",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2313 - Chứng quyền",
+      "organ_name": "CMSN2313 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2312",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2312 - Chứng quyền",
+      "organ_name": "CMSN2312 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2311",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2311 - Chứng quyền",
+      "organ_name": "CMSN2311 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2310",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2310 - Chứng quyền",
+      "organ_name": "CMSN2310 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2309",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2309 - Chứng quyền",
+      "organ_name": "CMSN2309 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2308",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2308 - Chứng quyền",
+      "organ_name": "CMSN2308 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2307",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2307 - Chứng quyền",
+      "organ_name": "CMSN2307 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2306",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2306 - Chứng quyền",
+      "organ_name": "CMSN2306 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2305 - Chứng quyền",
+      "organ_name": "CMSN2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2304 - Chứng quyền",
+      "organ_name": "CMSN2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2303 - Chứng quyền",
+      "organ_name": "CMSN2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2302 - Chứng quyền",
+      "organ_name": "CMSN2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2301 - Chứng quyền",
+      "organ_name": "CMSN2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2215",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2215 - Chứng quyền",
+      "organ_name": "CMSN2215 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2214",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2214 - Chứng quyền",
+      "organ_name": "CMSN2214 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2213",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2213 - Chứng quyền",
+      "organ_name": "CMSN2213 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2212",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2212 - Chứng quyền",
+      "organ_name": "CMSN2212 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2211",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2211 - Chứng quyền",
+      "organ_name": "CMSN2211 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2210",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2210 - Chứng quyền",
+      "organ_name": "CMSN2210 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2209",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2209 - Chứng quyền",
+      "organ_name": "CMSN2209 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2208",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2208 - Chứng quyền",
+      "organ_name": "CMSN2208 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2207",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2207 - Chứng quyền",
+      "organ_name": "CMSN2207 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2206 - Chứng quyền",
+      "organ_name": "CMSN2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2205 - Chứng quyền",
+      "organ_name": "CMSN2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2204 - Chứng quyền",
+      "organ_name": "CMSN2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2203 - Chứng quyền",
+      "organ_name": "CMSN2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2202 - Chứng quyền",
+      "organ_name": "CMSN2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2201 - Chứng quyền",
+      "organ_name": "CMSN2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2111",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2111 - Chứng quyền",
+      "organ_name": "CMSN2111 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2110",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "CMSN2108",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2108 - Chứng quyền",
+      "organ_name": "CMSN2108 - Chứng quyền"
+    },
+    {
+      "symbol": "CMSN2104",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMSN2104 - Chứng quyền",
+      "organ_name": "CMSN2104 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2408",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2408 - Chứng quyền",
+      "organ_name": "CMBB2408 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2404",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2404 - Chứng quyền",
+      "organ_name": "CMBB2404 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2403",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2403 - Chứng quyền",
+      "organ_name": "CMBB2403 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2401",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2401 - Chứng quyền",
+      "organ_name": "CMBB2401 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2318",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2318 - Chứng quyền",
+      "organ_name": "CMBB2318 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2317",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2317 - Chứng quyền",
+      "organ_name": "CMBB2317 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2316",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2316 - Chứng quyền",
+      "organ_name": "CMBB2316 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2315",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2315 - Chứng quyền",
+      "organ_name": "CMBB2315 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2314",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2314 - Chứng quyền",
+      "organ_name": "CMBB2314 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2313",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2313 - Chứng quyền",
+      "organ_name": "CMBB2313 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2312",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2312 - Chứng quyền",
+      "organ_name": "CMBB2312 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2311",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2311 - Chứng quyền",
+      "organ_name": "CMBB2311 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2310",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2310 - Chứng quyền",
+      "organ_name": "CMBB2310 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2309",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2309 - Chứng quyền",
+      "organ_name": "CMBB2309 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2308",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2308 - Chứng quyền",
+      "organ_name": "CMBB2308 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2307",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2307 - Chứng quyền",
+      "organ_name": "CMBB2307 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2306",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2306 - Chứng quyền",
+      "organ_name": "CMBB2306 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2305 - Chứng quyền",
+      "organ_name": "CMBB2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2304 - Chứng quyền",
+      "organ_name": "CMBB2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2303 - Chứng quyền",
+      "organ_name": "CMBB2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2302 - Chứng quyền",
+      "organ_name": "CMBB2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2301 - Chứng quyền",
+      "organ_name": "CMBB2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2215",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2215 - Chứng quyền",
+      "organ_name": "CMBB2215 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2214",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2214 - Chứng quyền",
+      "organ_name": "CMBB2214 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2213",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2213 - Chứng quyền",
+      "organ_name": "CMBB2213 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2212",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2212 - Chứng quyền",
+      "organ_name": "CMBB2212 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2211",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2211 - Chứng quyền",
+      "organ_name": "CMBB2211 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2210",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2210 - Chứng quyền",
+      "organ_name": "CMBB2210 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2209",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2209 - Chứng quyền",
+      "organ_name": "CMBB2209 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2208",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2208 - Chứng quyền",
+      "organ_name": "CMBB2208 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2207",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2207 - Chứng quyền",
+      "organ_name": "CMBB2207 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2206 - Chứng quyền",
+      "organ_name": "CMBB2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2205 - Chứng quyền",
+      "organ_name": "CMBB2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2204 - Chứng quyền",
+      "organ_name": "CMBB2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2203 - Chứng quyền",
+      "organ_name": "CMBB2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2201 - Chứng quyền",
+      "organ_name": "CMBB2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2109",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CMBB2109 - Chứng quyền",
+      "organ_name": "CMBB2109 - Chứng quyền"
+    },
+    {
+      "symbol": "CMBB2107",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "CKDH2213",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CKDH2213 - Chứng quyền",
+      "organ_name": "CKDH2213 - Chứng quyền"
+    },
+    {
+      "symbol": "CKDH2212",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CKDH2212 - Chứng quyền",
+      "organ_name": "CKDH2212 - Chứng quyền"
+    },
+    {
+      "symbol": "CKDH2211",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CKDH2211 - Chứng quyền",
+      "organ_name": "CKDH2211 - Chứng quyền"
+    },
+    {
+      "symbol": "CKDH2210",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CKDH2210 - Chứng quyền",
+      "organ_name": "CKDH2210 - Chứng quyền"
+    },
+    {
+      "symbol": "CKDH2209",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CKDH2209 - Chứng quyền",
+      "organ_name": "CKDH2209 - Chứng quyền"
+    },
+    {
+      "symbol": "CKDH2208",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CKDH2208 - Chứng quyền",
+      "organ_name": "CKDH2208 - Chứng quyền"
+    },
+    {
+      "symbol": "CKDH2207",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CKDH2207 - Chứng quyền",
+      "organ_name": "CKDH2207 - Chứng quyền"
+    },
+    {
+      "symbol": "CKDH2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CKDH2206 - Chứng quyền",
+      "organ_name": "CKDH2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CKDH2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CKDH2205 - Chứng quyền",
+      "organ_name": "CKDH2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CKDH2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CKDH2204 - Chứng quyền",
+      "organ_name": "CKDH2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CKDH2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CKDH2203 - Chứng quyền",
+      "organ_name": "CKDH2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CKDH2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CKDH2202 - Chứng quyền",
+      "organ_name": "CKDH2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CKDH2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CKDH2201 - Chứng quyền",
+      "organ_name": "CKDH2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CKDH2107",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CKDH2107 - Chứng quyền",
+      "organ_name": "CKDH2107 - Chứng quyền"
+    },
+    {
+      "symbol": "CII121029",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "CII121029 - Trái phiếu",
+      "organ_name": "CII121029 - Trái phiếu"
+    },
+    {
+      "symbol": "CII121006",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "CII121006 - Trái phiếu",
+      "organ_name": "CII121006 - Trái phiếu"
+    },
+    {
+      "symbol": "CII120018",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "CII120018 - Trái phiếu",
+      "organ_name": "CII120018 - Trái phiếu"
+    },
+    {
+      "symbol": "CHPG2411",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2411 - Chứng quyền",
+      "organ_name": "CHPG2411 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2405",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2405 - Chứng quyền",
+      "organ_name": "CHPG2405 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2404",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2404 - Chứng quyền",
+      "organ_name": "CHPG2404 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2403",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2403 - Chứng quyền",
+      "organ_name": "CHPG2403 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2401",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2401 - Chứng quyền",
+      "organ_name": "CHPG2401 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2343",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2343 - Chứng quyền",
+      "organ_name": "CHPG2343 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2342",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2342 - Chứng quyền",
+      "organ_name": "CHPG2342 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2341",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2341 - Chứng quyền",
+      "organ_name": "CHPG2341 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2340",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2340 - Chứng quyền",
+      "organ_name": "CHPG2340 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2339",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2339 - Chứng quyền",
+      "organ_name": "CHPG2339 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2338",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2338 - Chứng quyền",
+      "organ_name": "CHPG2338 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2337",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2337 - Chứng quyền",
+      "organ_name": "CHPG2337 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2336",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2336 - Chứng quyền",
+      "organ_name": "CHPG2336 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2335",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2335 - Chứng quyền",
+      "organ_name": "CHPG2335 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2334",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2334 - Chứng quyền",
+      "organ_name": "CHPG2334 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2333",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2333 - Chứng quyền",
+      "organ_name": "CHPG2333 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2332",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2332 - Chứng quyền",
+      "organ_name": "CHPG2332 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2331",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2331 - Chứng quyền",
+      "organ_name": "CHPG2331 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2330",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2330 - Chứng quyền",
+      "organ_name": "CHPG2330 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2329",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2329 - Chứng quyền",
+      "organ_name": "CHPG2329 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2328",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2328 - Chứng quyền",
+      "organ_name": "CHPG2328 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2327",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2327 - Chứng quyền",
+      "organ_name": "CHPG2327 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2326",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2326 - Chứng quyền",
+      "organ_name": "CHPG2326 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2325",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2325 - Chứng quyền",
+      "organ_name": "CHPG2325 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2324",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2324 - Chứng quyền",
+      "organ_name": "CHPG2324 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2323",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2323 - Chứng quyền",
+      "organ_name": "CHPG2323 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2322",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2322 - Chứng quyền",
+      "organ_name": "CHPG2322 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2321",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2321 - Chứng quyền",
+      "organ_name": "CHPG2321 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2320",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2320 - Chứng quyền",
+      "organ_name": "CHPG2320 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2319",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2319 - Chứng quyền",
+      "organ_name": "CHPG2319 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2318",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2318 - Chứng quyền",
+      "organ_name": "CHPG2318 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2317",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2317 - Chứng quyền",
+      "organ_name": "CHPG2317 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2316",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2316 - Chứng quyền",
+      "organ_name": "CHPG2316 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2315",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2315 - Chứng quyền",
+      "organ_name": "CHPG2315 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2314",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2314 - Chứng quyền",
+      "organ_name": "CHPG2314 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2313",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2313 - Chứng quyền",
+      "organ_name": "CHPG2313 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2312",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2312 - Chứng quyền",
+      "organ_name": "CHPG2312 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2311",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2311 - Chứng quyền",
+      "organ_name": "CHPG2311 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2310",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2310 - Chứng quyền",
+      "organ_name": "CHPG2310 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2309",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2309 - Chứng quyền",
+      "organ_name": "CHPG2309 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2308",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2308 - Chứng quyền",
+      "organ_name": "CHPG2308 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2307",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2307 - Chứng quyền",
+      "organ_name": "CHPG2307 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2306",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2306 - Chứng quyền",
+      "organ_name": "CHPG2306 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2305 - Chứng quyền",
+      "organ_name": "CHPG2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2304 - Chứng quyền",
+      "organ_name": "CHPG2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2303 - Chứng quyền",
+      "organ_name": "CHPG2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2302 - Chứng quyền",
+      "organ_name": "CHPG2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2301 - Chứng quyền",
+      "organ_name": "CHPG2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2227",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2227 - Chứng quyền",
+      "organ_name": "CHPG2227 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2226",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2226 - Chứng quyền",
+      "organ_name": "CHPG2226 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2225",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2225 - Chứng quyền",
+      "organ_name": "CHPG2225 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2224",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2224 - Chứng quyền",
+      "organ_name": "CHPG2224 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2223",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2223 - Chứng quyền",
+      "organ_name": "CHPG2223 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2221",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2221 - Chứng quyền",
+      "organ_name": "CHPG2221 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2220",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2220 - Chứng quyền",
+      "organ_name": "CHPG2220 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2219",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2219 - Chứng quyền",
+      "organ_name": "CHPG2219 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2218",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2218 - Chứng quyền",
+      "organ_name": "CHPG2218 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2217",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2217 - Chứng quyền",
+      "organ_name": "CHPG2217 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2216",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2216 - Chứng quyền",
+      "organ_name": "CHPG2216 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2215",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2215 - Chứng quyền",
+      "organ_name": "CHPG2215 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2214",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2214 - Chứng quyền",
+      "organ_name": "CHPG2214 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2213",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2213 - Chứng quyền",
+      "organ_name": "CHPG2213 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2212",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2212 - Chứng quyền",
+      "organ_name": "CHPG2212 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2211",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2211 - Chứng quyền",
+      "organ_name": "CHPG2211 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2210",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2210 - Chứng quyền",
+      "organ_name": "CHPG2210 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2209",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2209 - Chứng quyền",
+      "organ_name": "CHPG2209 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2208",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2208 - Chứng quyền",
+      "organ_name": "CHPG2208 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2207",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2207 - Chứng quyền",
+      "organ_name": "CHPG2207 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2206 - Chứng quyền",
+      "organ_name": "CHPG2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2204 - Chứng quyền",
+      "organ_name": "CHPG2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2203 - Chứng quyền",
+      "organ_name": "CHPG2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2202 - Chứng quyền",
+      "organ_name": "CHPG2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2201 - Chứng quyền",
+      "organ_name": "CHPG2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2119",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2119 - Chứng quyền",
+      "organ_name": "CHPG2119 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2118",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2118 - Chứng quyền",
+      "organ_name": "CHPG2118 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2117",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2117 - Chứng quyền",
+      "organ_name": "CHPG2117 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2116",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2116 - Chứng quyền",
+      "organ_name": "CHPG2116 - Chứng quyền"
+    },
+    {
+      "symbol": "CHPG2114",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHPG2114 - Chứng quyền",
+      "organ_name": "CHPG2114 - Chứng quyền"
+    },
+    {
+      "symbol": "CHDB2401",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHDB2401 - Chứng quyền",
+      "organ_name": "CHDB2401 - Chứng quyền"
+    },
+    {
+      "symbol": "CHDB2306",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHDB2306 - Chứng quyền",
+      "organ_name": "CHDB2306 - Chứng quyền"
+    },
+    {
+      "symbol": "CHDB2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHDB2305 - Chứng quyền",
+      "organ_name": "CHDB2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CHDB2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHDB2304 - Chứng quyền",
+      "organ_name": "CHDB2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CHDB2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHDB2303 - Chứng quyền",
+      "organ_name": "CHDB2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CHDB2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHDB2302 - Chứng quyền",
+      "organ_name": "CHDB2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CHDB2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHDB2301 - Chứng quyền",
+      "organ_name": "CHDB2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CHDB2210",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHDB2210 - Chứng quyền",
+      "organ_name": "CHDB2210 - Chứng quyền"
+    },
+    {
+      "symbol": "CHDB2209",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHDB2209 - Chứng quyền",
+      "organ_name": "CHDB2209 - Chứng quyền"
+    },
+    {
+      "symbol": "CHDB2208",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHDB2208 - Chứng quyền",
+      "organ_name": "CHDB2208 - Chứng quyền"
+    },
+    {
+      "symbol": "CHDB2207",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHDB2207 - Chứng quyền",
+      "organ_name": "CHDB2207 - Chứng quyền"
+    },
+    {
+      "symbol": "CHDB2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHDB2206 - Chứng quyền",
+      "organ_name": "CHDB2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CHDB2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHDB2205 - Chứng quyền",
+      "organ_name": "CHDB2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CHDB2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHDB2204 - Chứng quyền",
+      "organ_name": "CHDB2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CHDB2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHDB2203 - Chứng quyền",
+      "organ_name": "CHDB2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CHDB2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHDB2202 - Chứng quyền",
+      "organ_name": "CHDB2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CHDB2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHDB2201 - Chứng quyền",
+      "organ_name": "CHDB2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CHDB2103",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CHDB2103 - Chứng quyền",
+      "organ_name": "CHDB2103 - Chứng quyền"
+    },
+    {
+      "symbol": "CGL",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Thương mại Gia Lai",
+      "organ_name": "Công ty Cổ phần Thương mại Gia Lai"
+    },
+    {
+      "symbol": "CFPT2406",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2406 - Chứng quyền",
+      "organ_name": "CFPT2406 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2401",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2401 - Chứng quyền",
+      "organ_name": "CFPT2401 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2318",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2318 - Chứng quyền",
+      "organ_name": "CFPT2318 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2317",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2317 - Chứng quyền",
+      "organ_name": "CFPT2317 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2316",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2316 - Chứng quyền",
+      "organ_name": "CFPT2316 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2315",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2315 - Chứng quyền",
+      "organ_name": "CFPT2315 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2314",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2314 - Chứng quyền",
+      "organ_name": "CFPT2314 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2313",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2313 - Chứng quyền",
+      "organ_name": "CFPT2313 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2312",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2312 - Chứng quyền",
+      "organ_name": "CFPT2312 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2311",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2311 - Chứng quyền",
+      "organ_name": "CFPT2311 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2310",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2310 - Chứng quyền",
+      "organ_name": "CFPT2310 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2309",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2309 - Chứng quyền",
+      "organ_name": "CFPT2309 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2308",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2308 - Chứng quyền",
+      "organ_name": "CFPT2308 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2307",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2307 - Chứng quyền",
+      "organ_name": "CFPT2307 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2306",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2306 - Chứng quyền",
+      "organ_name": "CFPT2306 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2305 - Chứng quyền",
+      "organ_name": "CFPT2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2304 - Chứng quyền",
+      "organ_name": "CFPT2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2303 - Chứng quyền",
+      "organ_name": "CFPT2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2302 - Chứng quyền",
+      "organ_name": "CFPT2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2301 - Chứng quyền",
+      "organ_name": "CFPT2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2214",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2214 - Chứng quyền",
+      "organ_name": "CFPT2214 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2213",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2213 - Chứng quyền",
+      "organ_name": "CFPT2213 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2212",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2212 - Chứng quyền",
+      "organ_name": "CFPT2212 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2211",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2211 - Chứng quyền",
+      "organ_name": "CFPT2211 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2210",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2210 - Chứng quyền",
+      "organ_name": "CFPT2210 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2209",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2209 - Chứng quyền",
+      "organ_name": "CFPT2209 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2208",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2208 - Chứng quyền",
+      "organ_name": "CFPT2208 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2207",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2207 - Chứng quyền",
+      "organ_name": "CFPT2207 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2206 - Chứng quyền",
+      "organ_name": "CFPT2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2205 - Chứng quyền",
+      "organ_name": "CFPT2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2204 - Chứng quyền",
+      "organ_name": "CFPT2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2203 - Chứng quyền",
+      "organ_name": "CFPT2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2202 - Chứng quyền",
+      "organ_name": "CFPT2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2201 - Chứng quyền",
+      "organ_name": "CFPT2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2111",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2111 - Chứng quyền",
+      "organ_name": "CFPT2111 - Chứng quyền"
+    },
+    {
+      "symbol": "CFPT2109",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "CFPT2108",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CFPT2108 - Chứng quyền",
+      "organ_name": "CFPT2108 - Chứng quyền"
+    },
+    {
+      "symbol": "CEG",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "XD và Thiết bị Công nghiệp",
+      "organ_name": "Công ty Cổ phần Tập đoàn Xây dựng và Thiết bị Công nghiệp"
+    },
+    {
+      "symbol": "CEE",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng Hạ tầng CII",
+      "organ_name": "Công ty Cổ phần Xây dựng Hạ tầng CII"
+    },
+    {
+      "symbol": "CE1",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Thiết bị Công nghiệp CIE1",
+      "organ_name": "Công ty Cổ phần Xây dựng và Thiết bị Công nghiệp CIE1"
+    },
+    {
+      "symbol": "CAV",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Dây cáp điện Việt Nam",
+      "organ_name": "Công ty Cổ Phần Dây cáp điện Việt Nam"
+    },
+    {
+      "symbol": "CACB2402",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2402 - Chứng quyền",
+      "organ_name": "CACB2402 - Chứng quyền"
+    },
+    {
+      "symbol": "CACB2401",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2401 - Chứng quyền",
+      "organ_name": "CACB2401 - Chứng quyền"
+    },
+    {
+      "symbol": "CACB2307",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2307 - Chứng quyền",
+      "organ_name": "CACB2307 - Chứng quyền"
+    },
+    {
+      "symbol": "CACB2306",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2306 - Chứng quyền",
+      "organ_name": "CACB2306 - Chứng quyền"
+    },
+    {
+      "symbol": "CACB2305",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2305 - Chứng quyền",
+      "organ_name": "CACB2305 - Chứng quyền"
+    },
+    {
+      "symbol": "CACB2304",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2304 - Chứng quyền",
+      "organ_name": "CACB2304 - Chứng quyền"
+    },
+    {
+      "symbol": "CACB2303",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2303 - Chứng quyền",
+      "organ_name": "CACB2303 - Chứng quyền"
+    },
+    {
+      "symbol": "CACB2302",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2302 - Chứng quyền",
+      "organ_name": "CACB2302 - Chứng quyền"
+    },
+    {
+      "symbol": "CACB2301",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2301 - Chứng quyền",
+      "organ_name": "CACB2301 - Chứng quyền"
+    },
+    {
+      "symbol": "CACB2208",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2208 - Chứng quyền",
+      "organ_name": "CACB2208 - Chứng quyền"
+    },
+    {
+      "symbol": "CACB2207",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2207 - Chứng quyền",
+      "organ_name": "CACB2207 - Chứng quyền"
+    },
+    {
+      "symbol": "CACB2206",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2206 - Chứng quyền",
+      "organ_name": "CACB2206 - Chứng quyền"
+    },
+    {
+      "symbol": "CACB2205",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2205 - Chứng quyền",
+      "organ_name": "CACB2205 - Chứng quyền"
+    },
+    {
+      "symbol": "CACB2204",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2204 - Chứng quyền",
+      "organ_name": "CACB2204 - Chứng quyền"
+    },
+    {
+      "symbol": "CACB2203",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2203 - Chứng quyền",
+      "organ_name": "CACB2203 - Chứng quyền"
+    },
+    {
+      "symbol": "CACB2202",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2202 - Chứng quyền",
+      "organ_name": "CACB2202 - Chứng quyền"
+    },
+    {
+      "symbol": "CACB2201",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2201 - Chứng quyền",
+      "organ_name": "CACB2201 - Chứng quyền"
+    },
+    {
+      "symbol": "CACB2103",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2103 - Chứng quyền",
+      "organ_name": "CACB2103 - Chứng quyền"
+    },
+    {
+      "symbol": "CACB2102",
+      "exchange": "DELISTED",
+      "type": "CW",
+      "organ_short_name": "CACB2102 - Chứng quyền",
+      "organ_name": "CACB2102 - Chứng quyền"
+    },
+    {
+      "symbol": "CAB",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Truyền hình Cáp Việt Nam",
+      "organ_name": "Công ty Cổ phần Tổng Công ty Truyền hình Cáp Việt Nam"
+    },
+    {
+      "symbol": "BXT",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "BVB123025",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "BVB123025 - Trái phiếu",
+      "organ_name": "BVB123025 - Trái phiếu"
+    },
+    {
+      "symbol": "BVB122028",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "BVB122028 - Trái phiếu",
+      "organ_name": "BVB122028 - Trái phiếu"
+    },
+    {
+      "symbol": "BVB121034",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "BVB121034 - Trái phiếu",
+      "organ_name": "BVB121034 - Trái phiếu"
+    },
+    {
+      "symbol": "BUD",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "BPW",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "BLW",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Bạc Liêu",
+      "organ_name": "Công ty Cổ phần Cấp nước Bạc Liêu"
+    },
+    {
+      "symbol": "BLU",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "",
+      "organ_name": ""
+    },
+    {
+      "symbol": "BKH",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Bánh mứt kẹo Hà Nội",
+      "organ_name": "Công ty Cổ phần Bánh mứt kẹo Hà Nội"
+    },
+    {
+      "symbol": "BID123002",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "BID123002 - Trái phiếu",
+      "organ_name": "BID123002 - Trái phiếu"
+    },
+    {
+      "symbol": "BID122004",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "BID122004 - Trái phiếu",
+      "organ_name": "BID122004 - Trái phiếu"
+    },
+    {
+      "symbol": "BID122003",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "BID122003 - Trái phiếu",
+      "organ_name": "BID122003 - Trái phiếu"
+    },
+    {
+      "symbol": "BID121028",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "BID121028 - Trái phiếu",
+      "organ_name": "BID121028 - Trái phiếu"
+    },
+    {
+      "symbol": "BID121027",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "BID121027 - Trái phiếu",
+      "organ_name": "BID121027 - Trái phiếu"
+    },
+    {
+      "symbol": "BHT",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư XD Bạch Đằng",
+      "organ_name": "Công ty Cổ phần Đầu tư Xây dựng Bạch Đằng TMC"
+    },
+    {
+      "symbol": "BCO",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng Bình Phước",
+      "organ_name": "Công ty Cổ phần Xây dựng Bình Phước"
+    },
+    {
+      "symbol": "BAB123030",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "BAB123030 - Trái phiếu",
+      "organ_name": "BAB123030 - Trái phiếu"
+    },
+    {
+      "symbol": "BAB123006",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "BAB123006 - Trái phiếu",
+      "organ_name": "BAB123006 - Trái phiếu"
+    },
+    {
+      "symbol": "BAB123005",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "BAB123005 - Trái phiếu",
+      "organ_name": "BAB123005 - Trái phiếu"
+    },
+    {
+      "symbol": "BAB122031",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "BAB122031 - Trái phiếu",
+      "organ_name": "BAB122031 - Trái phiếu"
+    },
+    {
+      "symbol": "BAB122030",
+      "exchange": "DELISTED",
+      "type": "BOND",
+      "organ_short_name": "BAB122030 - Trái phiếu",
+      "organ_name": "BAB122030 - Trái phiếu"
+    },
+    {
+      "symbol": "B82",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Công ty 482",
+      "organ_name": "Công ty Cổ phần 482"
+    },
+    {
+      "symbol": "AUM",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Vinacafe Sơn Thành",
+      "organ_name": "Công ty Cổ phần Vinacafe Sơn Thành"
+    },
+    {
+      "symbol": "AGE",
+      "exchange": "DELISTED",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường Đô thị An Giang",
+      "organ_name": "Công ty Cổ phần Môi trường Đô thị An Giang"
+    }
+  ],
+  "meta": {
+    "title": "Mã chứng khoán đã hủy niêm yết - Tải miễn phí",
+    "description": "Danh sách mã chứng khoán đã từng niêm yết tại Việt Nam và hiện đã hủy niêm yết hoặc ngừng giao dịch. Chứa 914 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Mã chứng khoán đã hủy niêm yết | ListBase",
+    "seo_description": "Tải xuống Mã chứng khoán đã hủy niêm yết — 914 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 914 bản ghi / 5 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

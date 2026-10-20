@@ -1,0 +1,189 @@
+{
+  "id": "finance-incoterms",
+  "name": "Bộ dữ liệu Quy tắc & Định nghĩa Incoterms 2020",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Transport Mode (EN)",
+      "type": "string"
+    },
+    {
+      "key": "seller_delivery",
+      "label": "Delivery Point",
+      "type": "string"
+    },
+    {
+      "key": "risk_transfer",
+      "label": "Risk Transfer",
+      "type": "string"
+    },
+    {
+      "key": "seller_pays",
+      "label": "Seller Pays (EN)",
+      "type": "string"
+    },
+    {
+      "key": "buyer_pays",
+      "label": "Buyer Pays (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "EXW",
+      "name": "Giao hàng tại xưởng (Ex Works)",
+      "category": "Mọi phương thức vận tải",
+      "seller_delivery": "Seller's premises",
+      "risk_transfer": "At seller's premises",
+      "seller_pays": "Không có (hàng hóa sẵn sàng tại cơ sở)",
+      "buyer_pays": "Toàn bộ chi phí vận chuyển, bảo hiểm, hải quan",
+      "description": "Người mua nhận hàng từ địa điểm của người bán"
+    },
+    {
+      "code": "FCA",
+      "name": "Giao cho người chuyên chở (Free Carrier)",
+      "category": "Mọi phương thức vận tải",
+      "seller_delivery": "Named place of delivery",
+      "risk_transfer": "When delivered to carrier",
+      "seller_pays": "Giao hàng cho người chuyên chở, chi phí hải quan xuất khẩu",
+      "buyer_pays": "Cước phí vận tải chính, bảo hiểm, chi phí hải quan nhập khẩu",
+      "description": "Người bán giao hàng cho người chuyên chở hoặc tại địa điểm được chỉ định"
+    },
+    {
+      "code": "CPT",
+      "name": "Cước phí trả tới (Carriage Paid To)",
+      "category": "Mọi phương thức vận tải",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "When delivered to first carrier",
+      "seller_pays": "Cước phí vận tải đến địa điểm đến, chi phí hải quan xuất khẩu",
+      "buyer_pays": "Bảo hiểm, chi phí hải quan nhập khẩu, dỡ hàng",
+      "description": "Người bán trả cước phí, rủi ro chuyển giao khi giao cho người chuyên chở"
+    },
+    {
+      "code": "CIP",
+      "name": "Cước phí và bảo hiểm trả tới (Carriage and Insurance Paid To)",
+      "category": "Mọi phương thức vận tải",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "When delivered to first carrier",
+      "seller_pays": "Cước phí, bảo hiểm đến địa điểm đến, chi phí hải quan xuất khẩu",
+      "buyer_pays": "Chi phí hải quan nhập khẩu, dỡ hàng",
+      "description": "Tương tự CPT nhưng người bán cũng trả bảo hiểm"
+    },
+    {
+      "code": "DAP",
+      "name": "Giao tại địa điểm (Delivered at Place)",
+      "category": "Mọi phương thức vận tải",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, before unloading",
+      "seller_pays": "Toàn bộ chi phí vận chuyển đến địa điểm đến, chi phí hải quan xuất khẩu",
+      "buyer_pays": "Dỡ hàng, chi phí hải quan nhập khẩu",
+      "description": "Người bán giao hàng sẵn sàng để dỡ"
+    },
+    {
+      "code": "DPU",
+      "name": "Giao tại địa điểm đã dỡ hàng (Delivered at Place Unloaded)",
+      "category": "Mọi phương thức vận tải",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, after unloading",
+      "seller_pays": "Toàn bộ chi phí vận chuyển, dỡ hàng, chi phí hải quan xuất khẩu",
+      "buyer_pays": "Chi phí hải quan nhập khẩu",
+      "description": "Người bán dỡ hàng tại địa điểm đến"
+    },
+    {
+      "code": "DDP",
+      "name": "Giao hàng đã nộp thuế (Delivered Duty Paid)",
+      "category": "Mọi phương thức vận tải",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, before unloading",
+      "seller_pays": "Tất cả mọi thứ bao gồm thuế nhập khẩu",
+      "buyer_pays": "Chỉ dỡ hàng",
+      "description": "Nghĩa vụ tối đa cho người bán"
+    },
+    {
+      "code": "FAS",
+      "name": "Giao dọc mạn tàu (Free Alongside Ship)",
+      "category": "Vận tải biển/đường thủy",
+      "seller_delivery": "Alongside ship at port",
+      "risk_transfer": "When placed alongside ship",
+      "seller_pays": "Vận chuyển đến cảng, chi phí hải quan xuất khẩu",
+      "buyer_pays": "Bốc hàng, cước phí, bảo hiểm, chi phí hải quan nhập khẩu",
+      "description": "Người bán giao hàng dọc mạn tàu"
+    },
+    {
+      "code": "FOB",
+      "name": "Giao lên tàu (Free on Board)",
+      "category": "Vận tải biển/đường thủy",
+      "seller_delivery": "On board vessel at port",
+      "risk_transfer": "When goods are on board",
+      "seller_pays": "Bốc hàng lên tàu, chi phí hải quan xuất khẩu",
+      "buyer_pays": "Cước phí, bảo hiểm, chi phí hải quan nhập khẩu",
+      "description": "Người bán bốc hàng lên tàu"
+    },
+    {
+      "code": "CFR",
+      "name": "Tiền hàng và cước phí (Cost and Freight)",
+      "category": "Vận tải biển/đường thủy",
+      "seller_delivery": "Named port of destination",
+      "risk_transfer": "When goods are on board at origin",
+      "seller_pays": "Cước phí đến địa điểm đến, chi phí hải quan xuất khẩu",
+      "buyer_pays": "Bảo hiểm, chi phí hải quan nhập khẩu, dỡ hàng",
+      "description": "Người bán trả cước phí, rủi ro chuyển giao tại thời điểm bốc hàng"
+    },
+    {
+      "code": "CIF",
+      "name": "Tiền hàng, bảo hiểm và cước phí (Cost, Insurance and Freight)",
+      "category": "Vận tải biển/đường thủy",
+      "seller_delivery": "Named port of destination",
+      "risk_transfer": "When goods are on board at origin",
+      "seller_pays": "Cước phí, bảo hiểm, chi phí hải quan xuất khẩu",
+      "buyer_pays": "Chi phí hải quan nhập khẩu, dỡ hàng",
+      "description": "Tương tự CFR nhưng người bán cũng trả bảo hiểm"
+    }
+  ],
+  "meta": {
+    "seo_title": "Quy tắc Incoterms 2020 - Tải xuống miễn phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống miễn phí các quy tắc Incoterms 2020 cho thương mại quốc tế. Có 11 điều khoản thiết yếu, bao gồm chuyển giao rủi ro và phân bổ chi phí. Có sẵn Excel, CSV, PDF.",
+    "title": "Bộ dữ liệu Quy tắc & Định nghĩa Incoterms 2020",
+    "description": "Bộ dữ liệu này cung cấp danh sách tóm tắt 11 quy tắc Incoterms 2020, nêu chi tiết trách nhiệm về giao hàng, chuyển giao rủi ro và phân bổ chi phí trong thương mại quốc tế. Nó bao gồm tất cả các khía cạnh chính cho người mua và người bán.",
+    "key_takeaways": [
+      "Truy cập 11 quy tắc Incoterms 2020 cho thương mại toàn cầu.",
+      "Khám phá các định nghĩa, phương thức vận tải và điểm chuyển giao rủi ro.",
+      "Hiểu rõ trách nhiệm về chi phí của người bán và người mua.",
+      "Đơn giản hóa các thỏa thuận vận chuyển quốc tế."
+    ],
+    "keywords": [
+      "incoterms 2020 danh sách",
+      "điều khoản thương mại quốc tế",
+      "quy tắc vận chuyển 2020",
+      "tải incoterms excel",
+      "điều khoản thương mại csv",
+      "định nghĩa logistics"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào hệ thống ERP hoặc logistics của bạn để tự động hóa việc tạo điều khoản hợp đồng và kiểm tra tuân thủ cho các lô hàng quốc tế.",
+      "Sử dụng tệp **Excel** để lọc các điều khoản theo phương thức vận tải, phân tích phân bổ chi phí và chuẩn bị tài liệu đào tạo cho đội ngũ bán hàng hoặc mua sắm của bạn.",
+      "In phiên bản **PDF** để có một hướng dẫn tham khảo nhanh, ngoại tuyến trong kho, lớp học hoặc trong quá trình đàm phán hợp đồng.",
+      "Tận dụng dữ liệu này cho mục đích giáo dục để dạy sinh viên về quản lý chuỗi cung ứng toàn cầu và các quy định thương mại."
+    ]
+  },
+  "record_count": 11,
+  "title": "Bộ dữ liệu Quy tắc & Định nghĩa Incoterms 2020"
+}

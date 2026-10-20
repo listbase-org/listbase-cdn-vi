@@ -1,0 +1,136 @@
+{
+  "id": "vi-ninh-thuan-quan-huyen-2019",
+  "name": "Ninh Thuận — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Ninh Thuận — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 7 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Ninh Thuận theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 6 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/NT.json). (7 district-level units of Ninh Thuận under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "NT-01",
+      "name": "Bác Ái",
+      "name_full": "Huyện Bác Ái",
+      "slug": "bac-ai",
+      "division_type": "Huyện",
+      "province_code": "NT",
+      "province_name": "Ninh Thuận",
+      "ward_count": 9
+    },
+    {
+      "code": "NT-02",
+      "name": "Ninh Hải",
+      "name_full": "Huyện Ninh Hải",
+      "slug": "ninh-hai",
+      "division_type": "Huyện",
+      "province_code": "NT",
+      "province_name": "Ninh Thuận",
+      "ward_count": 9
+    },
+    {
+      "code": "NT-03",
+      "name": "Ninh Phước",
+      "name_full": "Huyện Ninh Phước",
+      "slug": "ninh-phuoc",
+      "division_type": "Huyện",
+      "province_code": "NT",
+      "province_name": "Ninh Thuận",
+      "ward_count": 9
+    },
+    {
+      "code": "NT-04",
+      "name": "Ninh Sơn",
+      "name_full": "Huyện Ninh Sơn",
+      "slug": "ninh-son",
+      "division_type": "Huyện",
+      "province_code": "NT",
+      "province_name": "Ninh Thuận",
+      "ward_count": 8
+    },
+    {
+      "code": "NT-05",
+      "name": "Phan Rang - Tháp Chàm",
+      "name_full": "Thành phố Phan Rang - Tháp Chàm",
+      "slug": "phan-rang-thap-cham",
+      "division_type": "Thành phố",
+      "province_code": "NT",
+      "province_name": "Ninh Thuận",
+      "ward_count": 16
+    },
+    {
+      "code": "NT-06",
+      "name": "Thuận Bắc",
+      "name_full": "Huyện Thuận Bắc",
+      "slug": "thuan-bac",
+      "division_type": "Huyện",
+      "province_code": "NT",
+      "province_name": "Ninh Thuận",
+      "ward_count": 6
+    },
+    {
+      "code": "NT-07",
+      "name": "Thuận Nam",
+      "name_full": "Huyện Thuận Nam",
+      "slug": "thuan-nam",
+      "division_type": "Huyện",
+      "province_code": "NT",
+      "province_name": "Ninh Thuận",
+      "ward_count": 8
+    }
+  ],
+  "meta": {
+    "title": "Ninh Thuận — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 7 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Ninh Thuận theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 6 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/NT.json). (7 district-level units of Ninh Thuận under the pre-2025-merger 3-tier hierarchy.) Chứa 7 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Ninh Thuận — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Ninh Thuận — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 7 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 7 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "vi-quang-binh-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Quảng Bình",
+  "title": "Địa điểm du lịch Quảng Bình",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Quảng Bình (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 71,
+      "ten_dia_diem": "Động Phong Nha",
+      "vi_tri": "Quảng Bình",
+      "tinh_truoc_sap_nhap_2025": "Quảng Bình",
+      "mo_ta": "Phong Nha - Kẻ Bàng, được UNESCO công nhận là Di sản Thiên nhiên Thế giới.",
+      "danh_gia": "4.8/5",
+      "danh_gia_diem": 4.8,
+      "anh": "https://tse4.mm.bing.net/th?id=OIP.JdKfzuou2kznDok9wau7EQHaD8&pid=Api&P=0&h=220",
+      "tu_khoa": "động, tham quan, thám hiểm, chụp ảnh"
+    },
+    {
+      "stt": 72,
+      "ten_dia_diem": "Bãi Đá Nhảy",
+      "vi_tri": "Quảng Bình",
+      "tinh_truoc_sap_nhap_2025": "Quảng Bình",
+      "mo_ta": "Là nơi nổi bật với những khối đá có hình thù độc đáo bên bờ biển.",
+      "danh_gia": "4.4/5",
+      "danh_gia_diem": 4.4,
+      "anh": "https://cdn3.ivivu.com/2023/04/bai-da-nhay-ivivu-1.jpg",
+      "tu_khoa": "biển, tham quan, chụp ảnh"
+    },
+    {
+      "stt": 73,
+      "ten_dia_diem": "Đền Thánh Mẫu Liễu Hạnh",
+      "vi_tri": "Quảng Bình",
+      "tinh_truoc_sap_nhap_2025": "Quảng Bình",
+      "mo_ta": "Là nơi linh thiêng thờ vị thánh trong tín ngưỡng dân gian Việt Nam.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://tse2.mm.bing.net/th?id=OIP.lCVtkvtMPFPPCOoehvKPqgHaFj&pid=Api&P=0&h=220",
+      "tu_khoa": "đền, tham quan, chụp ảnh, lịch sử"
+    },
+    {
+      "stt": 74,
+      "ten_dia_diem": "Nhà lưu niệm Đại tướng Võ Nguyên Giáp",
+      "vi_tri": "Quảng Bình",
+      "tinh_truoc_sap_nhap_2025": "Quảng Bình",
+      "mo_ta": "Là nơi lưu giữ những kỷ vật gắn bó với tuổi thơ của Đại tướng Võ Nguyên Giáp.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://tse4.mm.bing.net/th?id=OIP.PCk93VVT5QVj78DW3MA54AHaE8&pid=Api&P=0&h=220",
+      "tu_khoa": "lịch sử, tham quan, di tích, văn hóa"
+    },
+    {
+      "stt": 75,
+      "ten_dia_diem": "Sông Chày",
+      "vi_tri": "Quảng Bình",
+      "tinh_truoc_sap_nhap_2025": "Quảng Bình",
+      "mo_ta": "Là điểm đến lý tưởng cho những người yêu thích phiêu lưu, Sông Chày kết hợp giữa vẻ đẹp sông nước và hang động.",
+      "danh_gia": "4.4/5",
+      "danh_gia_diem": 4.4,
+      "anh": "https://tse1.mm.bing.net/th?id=OIP.5-sP9bg-nnIa5GiTqFgWXQHaEK&pid=Api&P=0&h=220",
+      "tu_khoa": "tham quan, chụp ảnh, khám phá"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Quảng Bình - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Quảng Bình (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Quảng Bình | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Quảng Bình — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

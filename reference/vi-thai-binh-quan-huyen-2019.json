@@ -1,0 +1,146 @@
+{
+  "id": "vi-thai-binh-quan-huyen-2019",
+  "name": "Thái Bình — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Thái Bình — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 8 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Thái Bình theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 7 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/TB.json). (8 district-level units of Thái Bình under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "TB-01",
+      "name": "Đông Hưng",
+      "name_full": "Huyện Đông Hưng",
+      "slug": "dong-hung",
+      "division_type": "Huyện",
+      "province_code": "TB",
+      "province_name": "Thái Bình",
+      "ward_count": 44
+    },
+    {
+      "code": "TB-02",
+      "name": "Hưng Hà",
+      "name_full": "Huyện Hưng Hà",
+      "slug": "hung-ha",
+      "division_type": "Huyện",
+      "province_code": "TB",
+      "province_name": "Thái Bình",
+      "ward_count": 35
+    },
+    {
+      "code": "TB-03",
+      "name": "Kiến Xương",
+      "name_full": "Huyện Kiến Xương",
+      "slug": "kien-xuong",
+      "division_type": "Huyện",
+      "province_code": "TB",
+      "province_name": "Thái Bình",
+      "ward_count": 38
+    },
+    {
+      "code": "TB-04",
+      "name": "Quỳnh Phụ",
+      "name_full": "Huyện Quỳnh Phụ",
+      "slug": "quynh-phu",
+      "division_type": "Huyện",
+      "province_code": "TB",
+      "province_name": "Thái Bình",
+      "ward_count": 38
+    },
+    {
+      "code": "TB-05",
+      "name": "Thái Bình",
+      "name_full": "Thành phố Thái Bình",
+      "slug": "thai-binh",
+      "division_type": "Thành phố",
+      "province_code": "TB",
+      "province_name": "Thái Bình",
+      "ward_count": 19
+    },
+    {
+      "code": "TB-06",
+      "name": "Thái Thuỵ",
+      "name_full": "Huyện Thái Thuỵ",
+      "slug": "thai-thuy",
+      "division_type": "Huyện",
+      "province_code": "TB",
+      "province_name": "Thái Bình",
+      "ward_count": 48
+    },
+    {
+      "code": "TB-07",
+      "name": "Tiền Hải",
+      "name_full": "Huyện Tiền Hải",
+      "slug": "tien-hai",
+      "division_type": "Huyện",
+      "province_code": "TB",
+      "province_name": "Thái Bình",
+      "ward_count": 35
+    },
+    {
+      "code": "TB-08",
+      "name": "Vũ Thư",
+      "name_full": "Huyện Vũ Thư",
+      "slug": "vu-thu",
+      "division_type": "Huyện",
+      "province_code": "TB",
+      "province_name": "Thái Bình",
+      "ward_count": 30
+    }
+  ],
+  "meta": {
+    "title": "Thái Bình — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 8 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Thái Bình theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 7 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/TB.json). (8 district-level units of Thái Bình under the pre-2025-merger 3-tier hierarchy.) Chứa 8 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Thái Bình — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Thái Bình — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 8 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 8 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

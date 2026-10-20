@@ -1,0 +1,126 @@
+{
+  "id": "vi-thanh-hoa-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Thanh Hóa",
+  "title": "Địa điểm du lịch Thanh Hóa",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Thanh Hóa (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 121,
+      "ten_dia_diem": "Suối Hiêu",
+      "vi_tri": "Thanh Hóa",
+      "tinh_truoc_sap_nhap_2025": "Thanh Hóa",
+      "mo_ta": "Nằm giữa khu rừng xanh mướt và những cánh đồng lúa bình yên, suối Hiêu cứ như thế mà yên ả chảy ríu rít ngày ngày để mang đến một địa điểm check-in Thanh Hóa vô cùng thơ mộng. Như một đóa hồng có gai, suối mang vẻ đẹp quyến rũ đến nao lòng nhưng lại có khả năng hóa đá tạm thời những gì rơi xuống bởi hàm lượng vôi rất cao.",
+      "danh_gia": "4.0/5",
+      "danh_gia_diem": 4,
+      "anh": "http://surl.li/fpkeqm",
+      "tu_khoa": "ríu rít, thơ mộng, quyến rũ, đồng lúa"
+    },
+    {
+      "stt": 122,
+      "ten_dia_diem": "Ruộng bậc thang Pù Luông",
+      "vi_tri": "Thanh Hóa",
+      "tinh_truoc_sap_nhap_2025": "Thanh Hóa",
+      "mo_ta": "Đến Thanh Hóa mà không đặt chân đến các đến các ruộng bậc thang Pù Luông để check-in thì thật là một thiếu sót to lớn. Ruộng bậc thang Pù Luông vừa là niềm tự hào của nhân dân ta, vừa là địa điểm check-in Thanh Hóa siêu hot",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "http://surl.li/zkyyiq",
+      "tu_khoa": "ruộng bậc thang"
+    },
+    {
+      "stt": 123,
+      "ten_dia_diem": "Suối cá Thần Cẩm Thủy",
+      "vi_tri": "Thanh Hóa",
+      "tinh_truoc_sap_nhap_2025": "Thanh Hóa",
+      "mo_ta": "Suối cá Thần là địa điểm gắn liền với tín ngưỡng của người dân tộc Mường, bởi nơi đây có lượng sinh sống đặc biệt dày đặc. Hiện nay, suối cá cũng đã trở thành một trong những địa điểm check-in Thanh Hóa độc đáo và nổi tiếng mà bạn có thể thêm vào lịch trình của mình nhé.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "http://surl.li/bvriuv",
+      "tu_khoa": "tín ngưỡng, Mường, suối"
+    },
+    {
+      "stt": 124,
+      "ten_dia_diem": "Vường quốc gia Bến En",
+      "vi_tri": "Thanh Hóa",
+      "tinh_truoc_sap_nhap_2025": "Thanh Hóa",
+      "mo_ta": "là nơi sinh sống của nhiều loài động thực vật quý hiếm có thể kể đến lim xanh, bù hương, chò chỉ… gấu ngựa, phượng hoàng đất…Vườn Quốc gia Bến En được ví như lá phổi xanh xanh của Thanh Hóa bởi những cánh rừng xanh bất tận. Và xen lẫn vào màu xanh ấy là những hang động, dải núi đá cao gập ghềnh đã tạo nên những địa điểm check-in Thanh Hóa độc đáo và đĩnh đạc nhất.",
+      "danh_gia": "4.0/5",
+      "danh_gia_diem": 4,
+      "anh": "http://surl.li/jewolc",
+      "tu_khoa": "lá phổi xanh, bất tấn, hang động, núi đá"
+    },
+    {
+      "stt": 125,
+      "ten_dia_diem": "Động Từ Thức",
+      "vi_tri": "Thanh Hóa",
+      "tinh_truoc_sap_nhap_2025": "Thanh Hóa",
+      "mo_ta": "Đào và được tạo thành từ muôn vàn hình dạng nhũ đá. Sâu bên trong động còn có một hồ nước nhỏ tạo nên một bức tranh vô cùng thơ mộng.",
+      "danh_gia": "4.0/5",
+      "danh_gia_diem": 4,
+      "anh": "http://surl.li/wbpxdd",
+      "tu_khoa": "nhũ đá, hồ nước, thơ mộng"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Thanh Hóa - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Thanh Hóa (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Thanh Hóa | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Thanh Hóa — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

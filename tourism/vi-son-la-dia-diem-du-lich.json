@@ -1,0 +1,126 @@
+{
+  "id": "vi-son-la-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Sơn La",
+  "title": "Địa điểm du lịch Sơn La",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Sơn La (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 101,
+      "ten_dia_diem": "Mộc Châu",
+      "vi_tri": "Sơn La",
+      "tinh_truoc_sap_nhap_2025": "Sơn La",
+      "mo_ta": "với đặc sản là những mùa hoa ban, hoa anh đào, hoa mận, hoa cải vàng… tràn ngập hương sắc. Mộc Châu cũng là cái tên kinh điển nhất khi nhắc đến du lịch vùng Tây Bắc với cung đường phượt đẹp như tranh vẽ",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "http://surl.li/dzxuss",
+      "tu_khoa": "hoa đào, hoa mận, đường phượt"
+    },
+    {
+      "stt": 102,
+      "ten_dia_diem": "Ngũ động bản Ông",
+      "vi_tri": "Sơn La",
+      "tinh_truoc_sap_nhap_2025": "Sơn La",
+      "mo_ta": "Đây là hệ thống gồm 5 hang động được người dân địa phương phát hiện lần đầu tiên vào năm 2006. Vì tại đây chưa có nhiều dịch vụ du lịch nên những hang động vẫn giữ được vẻ đẹp hoang sơ, huyền bí. Bên trong hang được điểm xuyến bởi những khối đá nhũ thạch khổng lồ với hình thù độc đáo.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "http://surl.li/pdnwji",
+      "tu_khoa": "động, hoang sơ, huyền bí, đá nhũ hạch"
+    },
+    {
+      "stt": 103,
+      "ten_dia_diem": "Rừng thông bản Áng",
+      "vi_tri": "Sơn La",
+      "tinh_truoc_sap_nhap_2025": "Sơn La",
+      "mo_ta": "Khu rừng có tổng diện tích lên đến 43ha với bầu không khí trong lành và khung cảnh thông xanh trập trùng trông rất mát mắt. \nBạn có thể trải nghiệm cắm trại qua đêm tại rừng thông bản Áng để thỏa sức hít thở khí trời se lạnh và đón mình bình.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "http://surl.li/piwwef",
+      "tu_khoa": "rừng, thông, cắm trại, bản Áng"
+    },
+    {
+      "stt": 104,
+      "ten_dia_diem": "Thác Dải Yếm",
+      "vi_tri": "Sơn La",
+      "tinh_truoc_sap_nhap_2025": "Sơn La",
+      "mo_ta": "Thác cao hơn 100m, chia thành 2 tầng chính. Trong đó tầng thứ nhất có tổng cộng 9 bậc, tầng thứ hai có 5 bậc. Vào độ từ tháng 4 đến tháng 10 hàng năm, khi lượng nước đổ về nhiều sẽ tạo nên những dòng chạy mạnh mẽ, tung bọt trắng xóa rất đẹp mắt",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "http://surl.li/uvrsec",
+      "tu_khoa": "dòng chảy, thác"
+    },
+    {
+      "stt": 105,
+      "ten_dia_diem": "Đỉnh Tà Xua",
+      "vi_tri": "Sơn La",
+      "tinh_truoc_sap_nhap_2025": "Sơn La",
+      "mo_ta": "Từ trên đỉnh, bạn có thể phóng tầm mắt chiêm ngưỡng khung cảnh hùng vĩ xung quanh với những dải ruộng bậc thang xanh mướt, thấp thoáng xa xa là mái lá khói bếp, tay có thể chạm đến mây trời.",
+      "danh_gia": "4.8/5",
+      "danh_gia_diem": 4.8,
+      "anh": "http://surl.li/hpreeq",
+      "tu_khoa": "đỉnh, ruộng bậc thang, mây trời."
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Sơn La - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Sơn La (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Sơn La | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Sơn La — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

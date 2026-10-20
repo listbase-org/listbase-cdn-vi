@@ -1,0 +1,176 @@
+{
+  "id": "vi-binh-dinh-quan-huyen-2019",
+  "name": "Bình Định — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Bình Định — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 11 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Bình Định theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 10 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/BDD.json). (11 district-level units of Bình Định under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "BDD-01",
+      "name": "An Lão",
+      "name_full": "Huyện An Lão",
+      "slug": "an-lao",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 10
+    },
+    {
+      "code": "BDD-02",
+      "name": "An Nhơn",
+      "name_full": "Huyện An Nhơn",
+      "slug": "an-nhon",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 15
+    },
+    {
+      "code": "BDD-03",
+      "name": "Hoài Ân",
+      "name_full": "Huyện Hoài Ân",
+      "slug": "hoai-an",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 15
+    },
+    {
+      "code": "BDD-04",
+      "name": "Hoài Nhơn",
+      "name_full": "Huyện Hoài Nhơn",
+      "slug": "hoai-nhon",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 17
+    },
+    {
+      "code": "BDD-05",
+      "name": "Phù Cát",
+      "name_full": "Huyện Phù Cát",
+      "slug": "phu-cat",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 16
+    },
+    {
+      "code": "BDD-06",
+      "name": "Phù Mỹ",
+      "name_full": "Huyện Phù Mỹ",
+      "slug": "phu-my",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 22
+    },
+    {
+      "code": "BDD-07",
+      "name": "Quy Nhơn",
+      "name_full": "Thành phố Quy Nhơn",
+      "slug": "quy-nhon",
+      "division_type": "Thành phố",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 21
+    },
+    {
+      "code": "BDD-08",
+      "name": "Tây Sơn",
+      "name_full": "Huyện Tây Sơn",
+      "slug": "tay-son",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 15
+    },
+    {
+      "code": "BDD-09",
+      "name": "Tuy Phước",
+      "name_full": "Huyện Tuy Phước",
+      "slug": "tuy-phuoc",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 13
+    },
+    {
+      "code": "BDD-10",
+      "name": "Vân Canh",
+      "name_full": "Huyện Vân Canh",
+      "slug": "van-canh",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 7
+    },
+    {
+      "code": "BDD-11",
+      "name": "Vĩnh Thạnh",
+      "name_full": "Huyện Vĩnh Thạnh",
+      "slug": "vinh-thanh",
+      "division_type": "Huyện",
+      "province_code": "BDD",
+      "province_name": "Bình Định",
+      "ward_count": 9
+    }
+  ],
+  "meta": {
+    "title": "Bình Định — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 11 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Bình Định theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 10 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/BDD.json). (11 district-level units of Bình Định under the pre-2025-merger 3-tier hierarchy.) Chứa 11 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Bình Định — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Bình Định — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 11 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 11 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "vi-lao-cai-quan-huyen-2019",
+  "name": "Lào Cai — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Lào Cai — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 9 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Lào Cai theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/LCA.json). (9 district-level units of Lào Cai under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "LCA-01",
+      "name": "Bắc Hà",
+      "name_full": "Huyện Bắc Hà",
+      "slug": "bac-ha",
+      "division_type": "Huyện",
+      "province_code": "LCA",
+      "province_name": "Lào Cai",
+      "ward_count": 21
+    },
+    {
+      "code": "LCA-02",
+      "name": "Bảo Thắng",
+      "name_full": "Huyện Bảo Thắng",
+      "slug": "bao-thang",
+      "division_type": "Huyện",
+      "province_code": "LCA",
+      "province_name": "Lào Cai",
+      "ward_count": 15
+    },
+    {
+      "code": "LCA-03",
+      "name": "Bảo Yên",
+      "name_full": "Huyện Bảo Yên",
+      "slug": "bao-yen",
+      "division_type": "Huyện",
+      "province_code": "LCA",
+      "province_name": "Lào Cai",
+      "ward_count": 18
+    },
+    {
+      "code": "LCA-04",
+      "name": "Bát Xát",
+      "name_full": "Huyện Bát Xát",
+      "slug": "bat-xat",
+      "division_type": "Huyện",
+      "province_code": "LCA",
+      "province_name": "Lào Cai",
+      "ward_count": 23
+    },
+    {
+      "code": "LCA-05",
+      "name": "Lào Cai",
+      "name_full": "Thành phố Lào Cai",
+      "slug": "lao-cai",
+      "division_type": "Thành phố",
+      "province_code": "LCA",
+      "province_name": "Lào Cai",
+      "ward_count": 18
+    },
+    {
+      "code": "LCA-06",
+      "name": "Mường Khương",
+      "name_full": "Huyện Mường Khương",
+      "slug": "muong-khuong",
+      "division_type": "Huyện",
+      "province_code": "LCA",
+      "province_name": "Lào Cai",
+      "ward_count": 16
+    },
+    {
+      "code": "LCA-07",
+      "name": "Sa Pa",
+      "name_full": "Huyện Sa Pa",
+      "slug": "sa-pa",
+      "division_type": "Huyện",
+      "province_code": "LCA",
+      "province_name": "Lào Cai",
+      "ward_count": 18
+    },
+    {
+      "code": "LCA-08",
+      "name": "Văn Bàn",
+      "name_full": "Huyện Văn Bàn",
+      "slug": "van-ban",
+      "division_type": "Huyện",
+      "province_code": "LCA",
+      "province_name": "Lào Cai",
+      "ward_count": 23
+    },
+    {
+      "code": "LCA-09",
+      "name": "Xi Ma Cai",
+      "name_full": "Huyện Xi Ma Cai",
+      "slug": "xi-ma-cai",
+      "division_type": "Huyện",
+      "province_code": "LCA",
+      "province_name": "Lào Cai",
+      "ward_count": 13
+    }
+  ],
+  "meta": {
+    "title": "Lào Cai — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 9 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Lào Cai theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/LCA.json). (9 district-level units of Lào Cai under the pre-2025-merger 3-tier hierarchy.) Chứa 9 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Lào Cai — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Lào Cai — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 9 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 9 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

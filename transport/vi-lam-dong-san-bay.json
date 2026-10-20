@@ -1,0 +1,121 @@
+{
+  "id": "vi-lam-dong-san-bay",
+  "name": "Sân bay — Lâm Đồng",
+  "title": "Sân bay — Lâm Đồng",
+  "description": "Danh sách các sân bay và phi trường tại Lâm Đồng (Việt Nam / VN) — bao gồm mã ICAO/IATA, thành phố, tọa độ WGS84, độ cao (feet) và múi giờ. Tập hợp con của danh sách sân bay quốc gia, được lọc theo subdivision='Lam-Dồng' trong nguồn dữ liệu mborsetti/airportsdata. (Airports in Lam Dong, Vietnam — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list with subdivision='Lam-Dồng' in upstream source.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "VVCL",
+      "iata": "",
+      "name": "Cam Ly Airport",
+      "city": "",
+      "subdivision": "Lam-Dồng",
+      "subdivision_native": "Lâm Đồng",
+      "country": "VN",
+      "country_native": "Việt Nam",
+      "elevation_ft": 4937,
+      "latitude": 11.95028,
+      "longitude": 108.411,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "lid": ""
+    },
+    {
+      "icao": "VVDL",
+      "iata": "DLI",
+      "name": "Lien Khuong Airport",
+      "city": "Dalat",
+      "subdivision": "Lam-Dồng",
+      "subdivision_native": "Lâm Đồng",
+      "country": "VN",
+      "country_native": "Việt Nam",
+      "elevation_ft": 3156,
+      "latitude": 11.75,
+      "longitude": 108.367,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Sân bay — Lâm Đồng - Tải miễn phí",
+    "description": "Danh sách các sân bay và phi trường tại Lâm Đồng (Việt Nam / VN) — bao gồm mã ICAO/IATA, thành phố, tọa độ WGS84, độ cao (feet) và múi giờ. Tập hợp con của danh sách sân bay quốc gia, được lọc theo subdivision='Lam-Dồng' trong nguồn dữ liệu mborsetti/airportsdata. (Airports in Lam Dong, Vietnam — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list with subdivision='Lam-Dồng' in upstream source.) Chứa 2 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Sân bay — Lâm Đồng | ListBase",
+    "seo_description": "Tải xuống Sân bay — Lâm Đồng — 2 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 2 bản ghi / 13 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

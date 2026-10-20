@@ -1,0 +1,187 @@
+{
+  "id": "vi-quang-truong",
+  "name": "Quảng trường ở Việt Nam",
+  "title": "Quảng trường ở Việt Nam",
+  "description": "Danh sách quảng trường (không gian công cộng) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31 wd:Q174782 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu quảng trường (không gian công cộng) đầu tiên trong nhóm tiếng Việt — mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 14/14 toạ độ, 14/14 vi.wikipedia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q10748819",
+      "name_vi": "Chợ Đà Lạt",
+      "name_en": "Đà Lạt market",
+      "latitude": 11.942953,
+      "longitude": 108.436822,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_%C4%90%C3%A0_L%E1%BA%A1t"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q10752011",
+      "name_vi": "Công trường Công xã Paris",
+      "name_en": "Paris Commune Square",
+      "latitude": 10.779344,
+      "longitude": 106.699457,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%C3%B4ng_tr%C6%B0%E1%BB%9Dng_C%C3%B4ng_x%C3%A3_Paris"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q66280307",
+      "name_vi": "Công trường Dân Chủ",
+      "name_en": "Dân Chủ Square",
+      "latitude": 10.777,
+      "longitude": 106.682,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%C3%B4ng_tr%C6%B0%E1%BB%9Dng_D%C3%A2n_Ch%E1%BB%A7"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q66177958",
+      "name_vi": "Công trường Lam Sơn",
+      "name_en": "Lam Sơn Square",
+      "latitude": 10.776389,
+      "longitude": 106.703056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%C3%B4ng_tr%C6%B0%E1%BB%9Dng_Lam_S%C6%A1n"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q66188628",
+      "name_vi": "Công trường Mê Linh",
+      "name_en": "Mê Linh Square",
+      "latitude": 10.775278,
+      "longitude": 106.706389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%C3%B4ng_tr%C6%B0%E1%BB%9Dng_M%C3%AA_Linh"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q66587141",
+      "name_vi": "Công trường Quách Thị Trang",
+      "name_en": "Quách Thị Trang Square",
+      "latitude": 10.771389,
+      "longitude": 106.698333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%C3%B4ng_tr%C6%B0%E1%BB%9Dng_Qu%C3%A1ch_Th%E1%BB%8B_Trang"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q25418011",
+      "name_vi": "Hoa viên Chí Linh",
+      "name_en": "Chí Linh Park",
+      "latitude": 21.027476,
+      "longitude": 105.854363,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%E1%BB%9Dn_hoa_Ch%C3%AD_Linh"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q10771949",
+      "name_vi": "Hồ Con Rùa",
+      "name_en": "Hồ Con Rùa",
+      "latitude": 10.782722,
+      "longitude": 106.695944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Con_R%C3%B9a"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q66275626",
+      "name_vi": "Ngã sáu Cộng Hòa",
+      "name_en": "Cộng Hòa 6-way Roundabout",
+      "latitude": 10.765,
+      "longitude": 106.682,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ng%C3%A3_s%C3%A1u_C%E1%BB%99ng_H%C3%B2a"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q2027273",
+      "name_vi": "Quảng trường 1-5",
+      "name_en": "1-5 Square",
+      "latitude": 21.023056,
+      "longitude": 105.844444,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A3ng_tr%C6%B0%E1%BB%9Dng_1-5"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q2234574",
+      "name_vi": "Quảng trường Ba Đình",
+      "name_en": "Ba Ðình Square",
+      "latitude": 21.03667,
+      "longitude": 105.83583,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A3ng_tr%C6%B0%E1%BB%9Dng_Ba_%C4%90%C3%ACnh"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q2021087",
+      "name_vi": "Quảng trường Cách mạng tháng Tám",
+      "name_en": "Quảng trường Cách mạng tháng Tám",
+      "latitude": 21.02429,
+      "longitude": 105.85714,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A3ng_tr%C6%B0%E1%BB%9Dng_C%C3%A1ch_m%E1%BA%A1ng_Th%C3%A1ng_T%C3%A1m"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q56072444",
+      "name_vi": "Quảng trường Lâm Viên",
+      "name_en": "Lâm Viên square",
+      "latitude": 11.939083,
+      "longitude": 108.445056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A3ng_tr%C6%B0%E1%BB%9Dng_L%C3%A2m_Vi%C3%AAn"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q10810537",
+      "name_vi": "Quảng trường Đông Kinh Nghĩa Thục",
+      "name_en": "Đông Kinh Nghĩa Thục Square",
+      "latitude": 21.031843,
+      "longitude": 105.851463,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A3ng_tr%C6%B0%E1%BB%9Dng_%C4%90%C3%B4ng_Kinh_Ngh%C4%A9a_Th%E1%BB%A5c"
+    }
+  ],
+  "meta": {
+    "title": "Quảng trường ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách quảng trường (không gian công cộng) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31 wd:Q174782 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu quảng trường (không gian công cộng) đầu tiên trong nhóm tiếng Việt — mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 14/14 toạ độ, 14/14 vi.wikipedia. Chứa 14 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Quảng trường ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Quảng trường ở Việt Nam — 14 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 14 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

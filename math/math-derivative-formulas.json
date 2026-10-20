@@ -1,0 +1,463 @@
+{
+  "id": "math-derivative-formulas",
+  "name": "Bộ Dữ liệu Công thức Đạo hàm Phổ biến",
+  "category": "math",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function f(x)",
+      "type": "string"
+    },
+    {
+      "key": "derivative",
+      "label": "Derivative f'(x)",
+      "type": "string"
+    },
+    {
+      "key": "condition",
+      "label": "Condition",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "Quy tắc cơ bản",
+      "function": "c (constant)",
+      "derivative": "0",
+      "condition": "-",
+      "notes": "Quy tắc hằng số"
+    },
+    {
+      "category": "Quy tắc cơ bản",
+      "function": "x",
+      "derivative": "1",
+      "condition": "-",
+      "notes": "Hàm đồng nhất"
+    },
+    {
+      "category": "Quy tắc cơ bản",
+      "function": "c·f(x)",
+      "derivative": "c·f'(x)",
+      "condition": "c is constant",
+      "notes": "Quy tắc nhân với hằng số"
+    },
+    {
+      "category": "Quy tắc cơ bản",
+      "function": "f(x) + g(x)",
+      "derivative": "f'(x) + g'(x)",
+      "condition": "-",
+      "notes": "Quy tắc tổng"
+    },
+    {
+      "category": "Quy tắc cơ bản",
+      "function": "f(x) - g(x)",
+      "derivative": "f'(x) - g'(x)",
+      "condition": "-",
+      "notes": "Quy tắc hiệu"
+    },
+    {
+      "category": "Quy tắc cơ bản",
+      "function": "f(x)·g(x)",
+      "derivative": "f'(x)g(x) + f(x)g'(x)",
+      "condition": "-",
+      "notes": "Quy tắc tích"
+    },
+    {
+      "category": "Quy tắc cơ bản",
+      "function": "f(x)/g(x)",
+      "derivative": "[f'(x)g(x) - f(x)g'(x)]/[g(x)]²",
+      "condition": "g(x) ≠ 0",
+      "notes": "Quy tắc thương"
+    },
+    {
+      "category": "Quy tắc cơ bản",
+      "function": "f(g(x))",
+      "derivative": "f'(g(x))·g'(x)",
+      "condition": "-",
+      "notes": "Quy tắc chuỗi"
+    },
+    {
+      "category": "Lũy thừa",
+      "function": "x^n",
+      "derivative": "n·x^(n-1)",
+      "condition": "-",
+      "notes": "Quy tắc lũy thừa"
+    },
+    {
+      "category": "Lũy thừa",
+      "function": "1/x",
+      "derivative": "-1/x²",
+      "condition": "x ≠ 0",
+      "notes": "Giống như x^(-1)"
+    },
+    {
+      "category": "Lũy thừa",
+      "function": "1/x^n",
+      "derivative": "-n/x^(n+1)",
+      "condition": "x ≠ 0",
+      "notes": "Lũy thừa âm"
+    },
+    {
+      "category": "Lũy thừa",
+      "function": "√x",
+      "derivative": "1/(2√x)",
+      "condition": "x > 0",
+      "notes": "Căn bậc hai"
+    },
+    {
+      "category": "Lũy thừa",
+      "function": "∜x (x^(1/n))",
+      "derivative": "1/(n·x^((n-1)/n))",
+      "condition": "x > 0",
+      "notes": "Căn bậc n"
+    },
+    {
+      "category": "Lũy thừa",
+      "function": "x^x",
+      "derivative": "x^x(ln(x) + 1)",
+      "condition": "x > 0",
+      "notes": "Đạo hàm logarit"
+    },
+    {
+      "category": "Hàm mũ",
+      "function": "e^x",
+      "derivative": "e^x",
+      "condition": "-",
+      "notes": "Hàm mũ tự nhiên"
+    },
+    {
+      "category": "Hàm mũ",
+      "function": "a^x",
+      "derivative": "a^x·ln(a)",
+      "condition": "a > 0, a ≠ 1",
+      "notes": "Hàm mũ tổng quát"
+    },
+    {
+      "category": "Hàm mũ",
+      "function": "e^(f(x))",
+      "derivative": "e^(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Áp dụng quy tắc chuỗi"
+    },
+    {
+      "category": "Hàm mũ",
+      "function": "a^(f(x))",
+      "derivative": "a^(f(x))·ln(a)·f'(x)",
+      "condition": "a > 0",
+      "notes": "Dạng tổng quát với quy tắc chuỗi"
+    },
+    {
+      "category": "Logarit",
+      "function": "ln(x)",
+      "derivative": "1/x",
+      "condition": "x > 0",
+      "notes": "Logarit tự nhiên"
+    },
+    {
+      "category": "Logarit",
+      "function": "log_a(x)",
+      "derivative": "1/(x·ln(a))",
+      "condition": "x > 0, a > 0",
+      "notes": "Logarit tổng quát"
+    },
+    {
+      "category": "Logarit",
+      "function": "ln(f(x))",
+      "derivative": "f'(x)/f(x)",
+      "condition": "f(x) > 0",
+      "notes": "Áp dụng quy tắc chuỗi"
+    },
+    {
+      "category": "Logarit",
+      "function": "log_a(f(x))",
+      "derivative": "f'(x)/(f(x)·ln(a))",
+      "condition": "f(x) > 0",
+      "notes": "Dạng tổng quát với quy tắc chuỗi"
+    },
+    {
+      "category": "Logarit",
+      "function": "ln|x|",
+      "derivative": "1/x",
+      "condition": "x ≠ 0",
+      "notes": "Logarit giá trị tuyệt đối"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "sin(x)",
+      "derivative": "cos(x)",
+      "condition": "-",
+      "notes": "Hàm sin"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "cos(x)",
+      "derivative": "-sin(x)",
+      "condition": "-",
+      "notes": "Hàm cosin"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "tan(x)",
+      "derivative": "sec²(x)",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Hàm tang"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "cot(x)",
+      "derivative": "-csc²(x)",
+      "condition": "x ≠ nπ",
+      "notes": "Hàm cotang"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "sec(x)",
+      "derivative": "sec(x)tan(x)",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Hàm secant"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "csc(x)",
+      "derivative": "-csc(x)cot(x)",
+      "condition": "x ≠ nπ",
+      "notes": "Hàm cosecant"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "sin(f(x))",
+      "derivative": "cos(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Áp dụng quy tắc chuỗi"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "cos(f(x))",
+      "derivative": "-sin(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Áp dụng quy tắc chuỗi"
+    },
+    {
+      "category": "Lượng giác",
+      "function": "tan(f(x))",
+      "derivative": "sec²(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Áp dụng quy tắc chuỗi"
+    },
+    {
+      "category": "Lượng giác ngược",
+      "function": "arcsin(x)",
+      "derivative": "1/√(1-x²)",
+      "condition": "|x| < 1",
+      "notes": "Hàm arcsin"
+    },
+    {
+      "category": "Lượng giác ngược",
+      "function": "arccos(x)",
+      "derivative": "-1/√(1-x²)",
+      "condition": "|x| < 1",
+      "notes": "Hàm arccosin"
+    },
+    {
+      "category": "Lượng giác ngược",
+      "function": "arctan(x)",
+      "derivative": "1/(1+x²)",
+      "condition": "-",
+      "notes": "Hàm arctan"
+    },
+    {
+      "category": "Lượng giác ngược",
+      "function": "arccot(x)",
+      "derivative": "-1/(1+x²)",
+      "condition": "-",
+      "notes": "Hàm arccot"
+    },
+    {
+      "category": "Lượng giác ngược",
+      "function": "arcsec(x)",
+      "derivative": "1/(|x|√(x²-1))",
+      "condition": "|x| > 1",
+      "notes": "Hàm arcsec"
+    },
+    {
+      "category": "Lượng giác ngược",
+      "function": "arccsc(x)",
+      "derivative": "-1/(|x|√(x²-1))",
+      "condition": "|x| > 1",
+      "notes": "Hàm arccosec"
+    },
+    {
+      "category": "Lượng giác ngược",
+      "function": "arcsin(f(x))",
+      "derivative": "f'(x)/√(1-[f(x)]²)",
+      "condition": "|f(x)| < 1",
+      "notes": "Áp dụng quy tắc chuỗi"
+    },
+    {
+      "category": "Lượng giác ngược",
+      "function": "arctan(f(x))",
+      "derivative": "f'(x)/(1+[f(x)]²)",
+      "condition": "-",
+      "notes": "Áp dụng quy tắc chuỗi"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "sinh(x)",
+      "derivative": "cosh(x)",
+      "condition": "-",
+      "notes": "Sin hyperbolic"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "cosh(x)",
+      "derivative": "sinh(x)",
+      "condition": "-",
+      "notes": "Cosin hyperbolic"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "tanh(x)",
+      "derivative": "sech²(x)",
+      "condition": "-",
+      "notes": "Tangent hyperbolic"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "coth(x)",
+      "derivative": "-csch²(x)",
+      "condition": "x ≠ 0",
+      "notes": "Cotangent hyperbolic"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "sech(x)",
+      "derivative": "-sech(x)tanh(x)",
+      "condition": "-",
+      "notes": "Secant hyperbolic"
+    },
+    {
+      "category": "Hyperbolic",
+      "function": "csch(x)",
+      "derivative": "-csch(x)coth(x)",
+      "condition": "x ≠ 0",
+      "notes": "Cosecant hyperbolic"
+    },
+    {
+      "category": "Hyperbolic ngược",
+      "function": "arcsinh(x)",
+      "derivative": "1/√(x²+1)",
+      "condition": "-",
+      "notes": "Sin hyperbolic ngược"
+    },
+    {
+      "category": "Hyperbolic ngược",
+      "function": "arccosh(x)",
+      "derivative": "1/√(x²-1)",
+      "condition": "x > 1",
+      "notes": "Cosin hyperbolic ngược"
+    },
+    {
+      "category": "Hyperbolic ngược",
+      "function": "arctanh(x)",
+      "derivative": "1/(1-x²)",
+      "condition": "|x| < 1",
+      "notes": "Tangent hyperbolic ngược"
+    },
+    {
+      "category": "Hyperbolic ngược",
+      "function": "arccoth(x)",
+      "derivative": "1/(1-x²)",
+      "condition": "|x| > 1",
+      "notes": "Cotangent hyperbolic ngược"
+    },
+    {
+      "category": "Hyperbolic ngược",
+      "function": "arcsech(x)",
+      "derivative": "-1/(x√(1-x²))",
+      "condition": "0 < x < 1",
+      "notes": "Secant hyperbolic ngược"
+    },
+    {
+      "category": "Hyperbolic ngược",
+      "function": "arccsch(x)",
+      "derivative": "-1/(|x|√(1+x²))",
+      "condition": "x ≠ 0",
+      "notes": "Cosecant hyperbolic ngược"
+    },
+    {
+      "category": "Đặc biệt",
+      "function": "|x|",
+      "derivative": "x/|x| = sgn(x)",
+      "condition": "x ≠ 0",
+      "notes": "Giá trị tuyệt đối"
+    },
+    {
+      "category": "Đặc biệt",
+      "function": "[f(x)]^n",
+      "derivative": "n[f(x)]^(n-1)·f'(x)",
+      "condition": "-",
+      "notes": "Quy tắc lũy thừa tổng quát"
+    },
+    {
+      "category": "Đặc biệt",
+      "function": "[f(x)]^g(x)",
+      "derivative": "[f(x)]^g(x)·[g'(x)ln(f(x)) + g(x)f'(x)/f(x)]",
+      "condition": "f(x) > 0",
+      "notes": "Vi phân logarit"
+    },
+    {
+      "category": "Đặc biệt",
+      "function": "e^(x²)",
+      "derivative": "2x·e^(x²)",
+      "condition": "-",
+      "notes": "Dạng Gaussian"
+    },
+    {
+      "category": "Đặc biệt",
+      "function": "ln(ln(x))",
+      "derivative": "1/(x·ln(x))",
+      "condition": "x > 1",
+      "notes": "Logarit lồng nhau"
+    }
+  ],
+  "meta": {
+    "seo_title": "Công thức Đạo hàm - Tải miễn phí (Excel/CSV/PDF)",
+    "seo_description": "Tải miễn phí 57 công thức đạo hàm và quy tắc vi phân cho giải tích. Có sẵn định dạng Excel, CSV, PDF cho sinh viên & chuyên gia.",
+    "title": "Bộ Dữ liệu Công thức Đạo hàm Phổ biến",
+    "description": "Bộ dữ liệu này cung cấp bộ sưu tập toàn diện 57 công thức đạo hàm và quy tắc vi phân phổ biến, bao gồm quy tắc cơ bản, quy tắc lũy thừa, hàm lượng giác và hơn thế nữa. Mỗi mục liệt kê hàm số, đạo hàm, điều kiện và ghi chú.",
+    "key_takeaways": [
+      "Truy cập 57 công thức đạo hàm và quy tắc vi phân thiết yếu.",
+      "Khám phá các khái niệm giải tích với các hàm và đạo hàm được phân loại.",
+      "Tải xuống dữ liệu sẵn sàng sử dụng cho nghiên cứu học thuật hoặc tham khảo chuyên nghiệp.",
+      "Tận dụng các điều kiện và ghi chú chi tiết cho từng quy tắc đạo hàm."
+    ],
+    "keywords": [
+      "công thức đạo hàm excel",
+      "quy tắc vi phân csv",
+      "công thức giải tích pdf",
+      "đạo hàm toán học",
+      "bảng đạo hàm",
+      "tải miễn phí công thức giải tích"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào tập lệnh Python hoặc cơ sở dữ liệu SQL của bạn để xây dựng các ứng dụng học giải tích hoặc công cụ học tập tùy chỉnh.",
+      "Sử dụng tệp **Excel** để lọc công thức theo danh mục, phân tích điều kiện hoặc tạo hướng dẫn học tập dễ dàng.",
+      "In phiên bản **PDF** để tham khảo nhanh ngoại tuyến trong các kỳ thi, bài giảng trên lớp hoặc các buổi tự học.",
+      "Tham khảo bộ dữ liệu này để nhanh chóng xác minh đạo hàm cho các hàm phức tạp trong các phép tính kỹ thuật, vật lý hoặc khoa học dữ liệu."
+    ]
+  },
+  "record_count": 57,
+  "title": "Bộ Dữ liệu Công thức Đạo hàm Phổ biến"
+}

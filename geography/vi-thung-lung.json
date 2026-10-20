@@ -1,0 +1,133 @@
+{
+  "id": "vi-thung-lung",
+  "name": "Thung lũng ở Việt Nam",
+  "title": "Thung lũng ở Việt Nam",
+  "description": "Danh sách các thung lũng nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q39816 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Đây là tập dữ liệu thung lũng đầu tiên trong nhóm tiếng Việt.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q138258023",
+      "name_vi": "Hẻm Tu Sản",
+      "name_en": "Tu San Canyon",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q30919773",
+      "name_vi": "Kênh Tàu Hủ",
+      "name_en": "Tàu Hủ Canal",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/K%C3%AAnh_T%C3%A0u_H%E1%BB%A7"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q6937081",
+      "name_vi": "Mường Thanh",
+      "name_en": "Muong Thanh Valley",
+      "latitude": 21.365967,
+      "longitude": 103.008684,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/M%C6%B0%E1%BB%9Dng_Thanh"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q4073426",
+      "name_vi": "Thung lũng A Sầu",
+      "name_en": "A Shau Valley",
+      "latitude": 16.259306,
+      "longitude": 107.2125,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/A_S%E1%BA%A7u"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q137637126",
+      "name_vi": "Thung lũng An Lão",
+      "name_en": "Thung lũng An Lão",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Thung_l%C5%A9ng_An_L%C3%A3o"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q115897923",
+      "name_vi": "thung lũng Ma Thiên Lãnh",
+      "name_en": "thung lũng Ma Thiên Lãnh",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Thung_l%C5%A9ng_Ma_Thi%C3%AAn_L%C3%A3nh"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q10825388",
+      "name_vi": "Thung lũng Tình Yêu",
+      "name_en": "The Love Valley",
+      "latitude": 11.980847,
+      "longitude": 108.450389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Thung_l%C5%A9ng_T%C3%ACnh_Y%C3%AAu"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q16481443",
+      "name_vi": "Thung lũng vàng",
+      "name_en": "Golden Valley",
+      "latitude": 12.006306,
+      "longitude": 108.380944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Thung_l%C5%A9ng_v%C3%A0ng"
+    }
+  ],
+  "meta": {
+    "title": "Thung lũng ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách các thung lũng nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q39816 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Đây là tập dữ liệu thung lũng đầu tiên trong nhóm tiếng Việt. Chứa 8 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Thung lũng ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Thung lũng ở Việt Nam — 8 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 8 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

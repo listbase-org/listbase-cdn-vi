@@ -1,0 +1,216 @@
+{
+  "id": "vi-dak-lak-quan-huyen-2019",
+  "name": "Đắk Lắk — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Đắk Lắk — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 15 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Đắk Lắk theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 13 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/DDL.json). (15 district-level units of Đắk Lắk under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "DDL-01",
+      "name": "Buôn Đôn",
+      "name_full": "Huyện Buôn Đôn",
+      "slug": "buon-don",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 7
+    },
+    {
+      "code": "DDL-02",
+      "name": "Buôn Hồ",
+      "name_full": "Thị xã Buôn Hồ",
+      "slug": "buon-ho",
+      "division_type": "Thị xã",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 12
+    },
+    {
+      "code": "DDL-03",
+      "name": "Buôn Ma Thuột",
+      "name_full": "Thành phố Buôn Ma Thuột",
+      "slug": "buon-ma-thuot",
+      "division_type": "Thành phố",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 21
+    },
+    {
+      "code": "DDL-04",
+      "name": "Cư Kuin",
+      "name_full": "Huyện Cư Kuin",
+      "slug": "cu-kuin",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 8
+    },
+    {
+      "code": "DDL-05",
+      "name": "Cư M'gar",
+      "name_full": "Huyện Cư M'gar",
+      "slug": "cu-m-gar",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 17
+    },
+    {
+      "code": "DDL-06",
+      "name": "Ea H'Leo",
+      "name_full": "Huyện Ea H'Leo",
+      "slug": "ea-h-leo",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 12
+    },
+    {
+      "code": "DDL-07",
+      "name": "Ea Kar",
+      "name_full": "Huyện Ea Kar",
+      "slug": "ea-kar",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 16
+    },
+    {
+      "code": "DDL-08",
+      "name": "Ea Súp",
+      "name_full": "Huyện Ea Súp",
+      "slug": "ea-sup",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 10
+    },
+    {
+      "code": "DDL-09",
+      "name": "Krông Ana",
+      "name_full": "Huyện Krông Ana",
+      "slug": "krong-ana",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 8
+    },
+    {
+      "code": "DDL-10",
+      "name": "Krông Bông",
+      "name_full": "Huyện Krông Bông",
+      "slug": "krong-bong",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 14
+    },
+    {
+      "code": "DDL-11",
+      "name": "Krông Buk",
+      "name_full": "Huyện Krông Buk",
+      "slug": "krong-buk",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 8
+    },
+    {
+      "code": "DDL-12",
+      "name": "Krông Năng",
+      "name_full": "Huyện Krông Năng",
+      "slug": "krong-nang",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 12
+    },
+    {
+      "code": "DDL-13",
+      "name": "Krông Pắc",
+      "name_full": "Huyện Krông Pắc",
+      "slug": "krong-pac",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 16
+    },
+    {
+      "code": "DDL-14",
+      "name": "Lăk",
+      "name_full": "Huyện Lăk",
+      "slug": "lak",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 11
+    },
+    {
+      "code": "DDL-15",
+      "name": "M'Đrăk",
+      "name_full": "Huyện M'Đrăk",
+      "slug": "m-drak",
+      "division_type": "Huyện",
+      "province_code": "DDL",
+      "province_name": "Đắk Lắk",
+      "ward_count": 13
+    }
+  ],
+  "meta": {
+    "title": "Đắk Lắk — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 15 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Đắk Lắk theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 13 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/DDL.json). (15 district-level units of Đắk Lắk under the pre-2025-merger 3-tier hierarchy.) Chứa 15 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Đắk Lắk — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Đắk Lắk — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 15 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 15 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

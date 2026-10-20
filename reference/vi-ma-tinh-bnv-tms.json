@@ -1,0 +1,250 @@
+{
+  "id": "vi-ma-tinh-bnv-tms",
+  "name": "Vi Ma Tinh Bnv Tms",
+  "title": "Vi Ma Tinh Bnv Tms",
+  "description": "Bảng đối chiếu mã tỉnh Bộ Nội vụ (BNV) và mã tỉnh hệ thống TMS cho 34 tỉnh thành sau sáp nhập 2025, kèm số phường xã",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "ma_tinh_bnv",
+      "label": "Ma Tinh Bnv",
+      "type": "number"
+    },
+    {
+      "key": "ma_tinh_tms",
+      "label": "Ma Tinh Tms",
+      "type": "number"
+    },
+    {
+      "key": "ten_tinh",
+      "label": "Ten Tinh",
+      "type": "string"
+    },
+    {
+      "key": "so_phuong_xa",
+      "label": "So Phuong Xa",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ma_tinh_bnv": "01",
+      "ma_tinh_tms": "101",
+      "ten_tinh": "Thành phố Hà Nội",
+      "so_phuong_xa": 126
+    },
+    {
+      "ma_tinh_bnv": "02",
+      "ma_tinh_tms": "223",
+      "ten_tinh": "Tỉnh Bắc Ninh",
+      "so_phuong_xa": 99
+    },
+    {
+      "ma_tinh_bnv": "03",
+      "ma_tinh_tms": "225",
+      "ten_tinh": "Tỉnh Quảng Ninh",
+      "so_phuong_xa": 54
+    },
+    {
+      "ma_tinh_bnv": "04",
+      "ma_tinh_tms": "103",
+      "ten_tinh": "Tp Hải Phòng",
+      "so_phuong_xa": 114
+    },
+    {
+      "ma_tinh_bnv": "05",
+      "ma_tinh_tms": "109",
+      "ten_tinh": "Tỉnh Hưng Yên",
+      "so_phuong_xa": 104
+    },
+    {
+      "ma_tinh_bnv": "06",
+      "ma_tinh_tms": "117",
+      "ten_tinh": "Tỉnh Ninh Bình",
+      "so_phuong_xa": 129
+    },
+    {
+      "ma_tinh_bnv": "07",
+      "ma_tinh_tms": "203",
+      "ten_tinh": "Tỉnh Cao Bằng",
+      "so_phuong_xa": 56
+    },
+    {
+      "ma_tinh_bnv": "08",
+      "ma_tinh_tms": "211",
+      "ten_tinh": "Tỉnh Tuyên Quang",
+      "so_phuong_xa": 124
+    },
+    {
+      "ma_tinh_bnv": "09",
+      "ma_tinh_tms": "205",
+      "ten_tinh": "Tỉnh Lào Cai",
+      "so_phuong_xa": 99
+    },
+    {
+      "ma_tinh_bnv": 10,
+      "ma_tinh_tms": "215",
+      "ten_tinh": "Tỉnh Thái Nguyên",
+      "so_phuong_xa": 92
+    },
+    {
+      "ma_tinh_bnv": 11,
+      "ma_tinh_tms": "209",
+      "ten_tinh": "Tỉnh Lạng Sơn",
+      "so_phuong_xa": 65
+    },
+    {
+      "ma_tinh_bnv": 12,
+      "ma_tinh_tms": "217",
+      "ten_tinh": "Tỉnh Phú Thọ",
+      "so_phuong_xa": 148
+    },
+    {
+      "ma_tinh_bnv": 13,
+      "ma_tinh_tms": "301",
+      "ten_tinh": "Tỉnh Điện Biên",
+      "so_phuong_xa": 45
+    },
+    {
+      "ma_tinh_bnv": 14,
+      "ma_tinh_tms": "302",
+      "ten_tinh": "Tỉnh Lai Châu",
+      "so_phuong_xa": 38
+    },
+    {
+      "ma_tinh_bnv": 15,
+      "ma_tinh_tms": "303",
+      "ten_tinh": "Tỉnh Sơn La",
+      "so_phuong_xa": 75
+    },
+    {
+      "ma_tinh_bnv": 16,
+      "ma_tinh_tms": "401",
+      "ten_tinh": "Tỉnh Thanh Hóa",
+      "so_phuong_xa": 166
+    },
+    {
+      "ma_tinh_bnv": 17,
+      "ma_tinh_tms": "403",
+      "ten_tinh": "Tỉnh Nghệ An",
+      "so_phuong_xa": 130
+    },
+    {
+      "ma_tinh_bnv": 18,
+      "ma_tinh_tms": "405",
+      "ten_tinh": "Tỉnh Hà Tĩnh",
+      "so_phuong_xa": 69
+    },
+    {
+      "ma_tinh_bnv": 19,
+      "ma_tinh_tms": "409",
+      "ten_tinh": "Tỉnh Quảng Trị",
+      "so_phuong_xa": 78
+    },
+    {
+      "ma_tinh_bnv": 20,
+      "ma_tinh_tms": "411",
+      "ten_tinh": "Thành phố Huế",
+      "so_phuong_xa": 40
+    },
+    {
+      "ma_tinh_bnv": 21,
+      "ma_tinh_tms": "501",
+      "ten_tinh": "Tp Đà Nẵng",
+      "so_phuong_xa": 94
+    },
+    {
+      "ma_tinh_bnv": 22,
+      "ma_tinh_tms": "505",
+      "ten_tinh": "Tỉnh Quảng Ngãi",
+      "so_phuong_xa": 96
+    },
+    {
+      "ma_tinh_bnv": 23,
+      "ma_tinh_tms": 511,
+      "ten_tinh": "Tỉnh Khánh Hòa",
+      "so_phuong_xa": 65
+    },
+    {
+      "ma_tinh_bnv": 24,
+      "ma_tinh_tms": "603",
+      "ten_tinh": "Tỉnh Gia Lai",
+      "so_phuong_xa": 135
+    },
+    {
+      "ma_tinh_bnv": 25,
+      "ma_tinh_tms": "605",
+      "ten_tinh": "Tỉnh Đắk Lắk",
+      "so_phuong_xa": 102
+    },
+    {
+      "ma_tinh_bnv": 26,
+      "ma_tinh_tms": "703",
+      "ten_tinh": "Tỉnh Lâm Đồng",
+      "so_phuong_xa": 124
+    },
+    {
+      "ma_tinh_bnv": 27,
+      "ma_tinh_tms": "709",
+      "ten_tinh": "Tỉnh Tây Ninh",
+      "so_phuong_xa": 96
+    },
+    {
+      "ma_tinh_bnv": 28,
+      "ma_tinh_tms": "713",
+      "ten_tinh": "Tỉnh Đồng Nai",
+      "so_phuong_xa": 95
+    },
+    {
+      "ma_tinh_bnv": 29,
+      "ma_tinh_tms": "701",
+      "ten_tinh": "Tp Hồ Chí Minh",
+      "so_phuong_xa": 168
+    },
+    {
+      "ma_tinh_bnv": 30,
+      "ma_tinh_tms": "809",
+      "ten_tinh": "Tỉnh Vĩnh Long",
+      "so_phuong_xa": 124
+    },
+    {
+      "ma_tinh_bnv": 31,
+      "ma_tinh_tms": "803",
+      "ten_tinh": "Tỉnh Đồng Tháp",
+      "so_phuong_xa": 102
+    },
+    {
+      "ma_tinh_bnv": 32,
+      "ma_tinh_tms": "805",
+      "ten_tinh": "Tỉnh An Giang",
+      "so_phuong_xa": 102
+    },
+    {
+      "ma_tinh_bnv": 33,
+      "ma_tinh_tms": "815",
+      "ten_tinh": "Tp Cần Thơ",
+      "so_phuong_xa": 103
+    },
+    {
+      "ma_tinh_bnv": 34,
+      "ma_tinh_tms": "823",
+      "ten_tinh": "Tỉnh Cà Mau",
+      "so_phuong_xa": 64
+    }
+  ],
+  "meta": {
+    "title": "Vi Ma Tinh Bnv Tms - Tải miễn phí",
+    "description": "Bảng đối chiếu mã tỉnh Bộ Nội vụ (BNV) và mã tỉnh hệ thống TMS cho 34 tỉnh thành sau sáp nhập 2025, kèm số phường xã Chứa 34 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Vi Ma Tinh Bnv Tms | ListBase",
+    "seo_description": "Tải xuống Vi Ma Tinh Bnv Tms — 34 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 34 bản ghi / 4 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

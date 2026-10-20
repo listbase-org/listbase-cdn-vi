@@ -1,0 +1,148 @@
+{
+  "id": "vi-nha-hat",
+  "name": "Nhà hát ở Việt Nam",
+  "title": "Nhà hát ở Việt Nam",
+  "description": "Danh sách nhà hát ở việt nam (P31 = wd:Q24354) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-19. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi) kèm toạ độ WGS84 (P625). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikipedia tiếng Việt nếu có. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 6/6 toạ độ, 6/6 vi.wikipedia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "admin_area_vi",
+      "label": "Admin Area Vi",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q10800814",
+      "name_vi": "Nhà hát Bến Thành",
+      "name_en": "Bến Thành Theatre",
+      "latitude": 10.77699,
+      "longitude": 106.701292,
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_h%C3%A1t_B%E1%BA%BFn_Th%C3%A0nh",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10800814"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q1186043",
+      "name_vi": "Nhà hát Lớn Hà Nội",
+      "name_en": "Hanoi Opera House",
+      "latitude": 21.024167,
+      "longitude": 105.857778,
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Tràng Tiền",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_h%C3%A1t_L%E1%BB%9Bn_H%C3%A0_N%E1%BB%99i",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1186043"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q99472085",
+      "name_vi": "Nhà hát Sông Hương",
+      "name_en": "Huong River Opera House",
+      "latitude": 16.459193,
+      "longitude": 107.577328,
+      "admin_area_vi": "Vĩnh Ninh",
+      "admin_area_en": "Vĩnh Ninh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_h%C3%A1t_S%C3%B4ng_H%C6%B0%C6%A1ng",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99472085"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q1949129",
+      "name_vi": "Nhà hát Thành phố Hồ Chí Minh",
+      "name_en": "Ho Chi Minh City Opera House",
+      "latitude": 10.77639,
+      "longitude": 106.70278,
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Saigon",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_h%C3%A1t_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1949129"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q5639462",
+      "name_vi": "Nhà hát lớn Hải Phòng",
+      "name_en": "Haiphong Opera House",
+      "latitude": 20.85741,
+      "longitude": 106.6818,
+      "admin_area_vi": "Hải Phòng",
+      "admin_area_en": "Haiphong",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_h%C3%A1t_L%E1%BB%9Bn_H%E1%BA%A3i_Ph%C3%B2ng",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5639462"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q10812079",
+      "name_vi": "Rạp Công Nhân",
+      "name_en": "Rạp Công Nhân",
+      "latitude": 21.025273,
+      "longitude": 105.854781,
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/R%E1%BA%A1p_C%C3%B4ng_Nh%C3%A2n_(H%C3%A0_N%E1%BB%99i)",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10812079"
+    }
+  ],
+  "meta": {
+    "title": "Nhà hát ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách nhà hát ở việt nam (P31 = wd:Q24354) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-19. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi) kèm toạ độ WGS84 (P625). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikipedia tiếng Việt nếu có. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 6/6 toạ độ, 6/6 vi.wikipedia. Chứa 6 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Nhà hát ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Nhà hát ở Việt Nam — 6 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 6 bản ghi / 10 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

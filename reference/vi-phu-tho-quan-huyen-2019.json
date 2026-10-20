@@ -1,0 +1,196 @@
+{
+  "id": "vi-phu-tho-quan-huyen-2019",
+  "name": "Phú Thọ — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Phú Thọ — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 13 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Phú Thọ theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 11 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/PT.json). (13 district-level units of Phú Thọ under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "PT-01",
+      "name": "Cẩm Khê",
+      "name_full": "Huyện Cẩm Khê",
+      "slug": "cam-khe",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 31
+    },
+    {
+      "code": "PT-02",
+      "name": "Đoan Hùng",
+      "name_full": "Huyện Đoan Hùng",
+      "slug": "doan-hung",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 28
+    },
+    {
+      "code": "PT-03",
+      "name": "Hạ Hòa",
+      "name_full": "Huyện Hạ Hòa",
+      "slug": "ha-hoa",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 33
+    },
+    {
+      "code": "PT-04",
+      "name": "Lâm Thao",
+      "name_full": "Huyện Lâm Thao",
+      "slug": "lam-thao",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 14
+    },
+    {
+      "code": "PT-05",
+      "name": "Phù Ninh",
+      "name_full": "Huyện Phù Ninh",
+      "slug": "phu-ninh",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 19
+    },
+    {
+      "code": "PT-06",
+      "name": "Phú Thọ",
+      "name_full": "Thị xã Phú Thọ",
+      "slug": "phu-tho",
+      "division_type": "Thị xã",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 10
+    },
+    {
+      "code": "PT-07",
+      "name": "Tam Nông",
+      "name_full": "Huyện Tam Nông",
+      "slug": "tam-nong",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 20
+    },
+    {
+      "code": "PT-08",
+      "name": "Tân Sơn",
+      "name_full": "Huyện Tân Sơn",
+      "slug": "tan-son",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 17
+    },
+    {
+      "code": "PT-09",
+      "name": "Thanh Ba",
+      "name_full": "Huyện Thanh Ba",
+      "slug": "thanh-ba",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 27
+    },
+    {
+      "code": "PT-10",
+      "name": "Thanh Sơn",
+      "name_full": "Huyện Thanh Sơn",
+      "slug": "thanh-son",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 23
+    },
+    {
+      "code": "PT-11",
+      "name": "Thanh Thủy",
+      "name_full": "Huyện Thanh Thủy",
+      "slug": "thanh-thuy",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 15
+    },
+    {
+      "code": "PT-12",
+      "name": "Việt Trì",
+      "name_full": "Thành phố Việt Trì",
+      "slug": "viet-tri",
+      "division_type": "Thành phố",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 23
+    },
+    {
+      "code": "PT-13",
+      "name": "Yên Lập",
+      "name_full": "Huyện Yên Lập",
+      "slug": "yen-lap",
+      "division_type": "Huyện",
+      "province_code": "PT",
+      "province_name": "Phú Thọ",
+      "ward_count": 17
+    }
+  ],
+  "meta": {
+    "title": "Phú Thọ — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 13 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Phú Thọ theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 11 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/PT.json). (13 district-level units of Phú Thọ under the pre-2025-merger 3-tier hierarchy.) Chứa 13 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Phú Thọ — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Phú Thọ — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 13 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 13 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

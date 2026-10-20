@@ -1,0 +1,579 @@
+{
+  "id": "geo-us-states",
+  "name": "Bộ Dữ liệu Toàn diện các Bang Hoa Kỳ",
+  "category": "geography",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name",
+      "label": "State Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "abbreviation",
+      "label": "Abbreviation",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital City (EN)",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region (EN)",
+      "type": "string"
+    },
+    {
+      "key": "division",
+      "label": "Division (EN)",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_sq_mi",
+      "label": "Area (sq mi)",
+      "type": "number"
+    },
+    {
+      "key": "statehood_year",
+      "label": "Statehood Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alabama",
+      "abbreviation": "AL",
+      "capital": "Montgomery",
+      "region": "Miền Nam",
+      "division": "Đông Nam Trung tâm",
+      "population": 5024279,
+      "area_sq_mi": 52420,
+      "statehood_year": 1819
+    },
+    {
+      "name": "Alaska",
+      "abbreviation": "AK",
+      "capital": "Juneau",
+      "region": "Miền Tây",
+      "division": "Thái Bình Dương",
+      "population": 733391,
+      "area_sq_mi": 665384,
+      "statehood_year": 1959
+    },
+    {
+      "name": "Arizona",
+      "abbreviation": "AZ",
+      "capital": "Phoenix",
+      "region": "Miền Tây",
+      "division": "Miền núi",
+      "population": 7151502,
+      "area_sq_mi": 113990,
+      "statehood_year": 1912
+    },
+    {
+      "name": "Arkansas",
+      "abbreviation": "AR",
+      "capital": "Little Rock",
+      "region": "Miền Nam",
+      "division": "Tây Nam Trung tâm",
+      "population": 3011524,
+      "area_sq_mi": 53179,
+      "statehood_year": 1836
+    },
+    {
+      "name": "California",
+      "abbreviation": "CA",
+      "capital": "Sacramento",
+      "region": "Miền Tây",
+      "division": "Thái Bình Dương",
+      "population": 39538223,
+      "area_sq_mi": 163695,
+      "statehood_year": 1850
+    },
+    {
+      "name": "Colorado",
+      "abbreviation": "CO",
+      "capital": "Denver",
+      "region": "Miền Tây",
+      "division": "Miền núi",
+      "population": 5773714,
+      "area_sq_mi": 104094,
+      "statehood_year": 1876
+    },
+    {
+      "name": "Connecticut",
+      "abbreviation": "CT",
+      "capital": "Hartford",
+      "region": "Đông Bắc",
+      "division": "New England",
+      "population": 3605944,
+      "area_sq_mi": 5543,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Delaware",
+      "abbreviation": "DE",
+      "capital": "Dover",
+      "region": "Miền Nam",
+      "division": "Nam Đại Tây Dương",
+      "population": 989948,
+      "area_sq_mi": 2489,
+      "statehood_year": 1787
+    },
+    {
+      "name": "Florida",
+      "abbreviation": "FL",
+      "capital": "Tallahassee",
+      "region": "Miền Nam",
+      "division": "Nam Đại Tây Dương",
+      "population": 21538187,
+      "area_sq_mi": 65758,
+      "statehood_year": 1845
+    },
+    {
+      "name": "Georgia",
+      "abbreviation": "GA",
+      "capital": "Atlanta",
+      "region": "Miền Nam",
+      "division": "Nam Đại Tây Dương",
+      "population": 10711908,
+      "area_sq_mi": 59425,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Hawaii",
+      "abbreviation": "HI",
+      "capital": "Honolulu",
+      "region": "Miền Tây",
+      "division": "Thái Bình Dương",
+      "population": 1455271,
+      "area_sq_mi": 10932,
+      "statehood_year": 1959
+    },
+    {
+      "name": "Idaho",
+      "abbreviation": "ID",
+      "capital": "Boise",
+      "region": "Miền Tây",
+      "division": "Miền núi",
+      "population": 1839106,
+      "area_sq_mi": 83569,
+      "statehood_year": 1890
+    },
+    {
+      "name": "Illinois",
+      "abbreviation": "IL",
+      "capital": "Springfield",
+      "region": "Trung Tây",
+      "division": "Đông Bắc Trung tâm",
+      "population": 12812508,
+      "area_sq_mi": 57914,
+      "statehood_year": 1818
+    },
+    {
+      "name": "Indiana",
+      "abbreviation": "IN",
+      "capital": "Indianapolis",
+      "region": "Trung Tây",
+      "division": "Đông Bắc Trung tâm",
+      "population": 6785528,
+      "area_sq_mi": 36420,
+      "statehood_year": 1816
+    },
+    {
+      "name": "Iowa",
+      "abbreviation": "IA",
+      "capital": "Des Moines",
+      "region": "Trung Tây",
+      "division": "Tây Bắc Trung tâm",
+      "population": 3190369,
+      "area_sq_mi": 56273,
+      "statehood_year": 1846
+    },
+    {
+      "name": "Kansas",
+      "abbreviation": "KS",
+      "capital": "Topeka",
+      "region": "Trung Tây",
+      "division": "Tây Bắc Trung tâm",
+      "population": 2937880,
+      "area_sq_mi": 82278,
+      "statehood_year": 1861
+    },
+    {
+      "name": "Kentucky",
+      "abbreviation": "KY",
+      "capital": "Frankfort",
+      "region": "Miền Nam",
+      "division": "Đông Nam Trung tâm",
+      "population": 4505836,
+      "area_sq_mi": 40408,
+      "statehood_year": 1792
+    },
+    {
+      "name": "Louisiana",
+      "abbreviation": "LA",
+      "capital": "Baton Rouge",
+      "region": "Miền Nam",
+      "division": "Tây Nam Trung tâm",
+      "population": 4657757,
+      "area_sq_mi": 52378,
+      "statehood_year": 1812
+    },
+    {
+      "name": "Maine",
+      "abbreviation": "ME",
+      "capital": "Augusta",
+      "region": "Đông Bắc",
+      "division": "New England",
+      "population": 1362359,
+      "area_sq_mi": 35380,
+      "statehood_year": 1820
+    },
+    {
+      "name": "Maryland",
+      "abbreviation": "MD",
+      "capital": "Annapolis",
+      "region": "Miền Nam",
+      "division": "Nam Đại Tây Dương",
+      "population": 6177224,
+      "area_sq_mi": 12406,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Massachusetts",
+      "abbreviation": "MA",
+      "capital": "Boston",
+      "region": "Đông Bắc",
+      "division": "New England",
+      "population": 7029917,
+      "area_sq_mi": 10554,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Michigan",
+      "abbreviation": "MI",
+      "capital": "Lansing",
+      "region": "Trung Tây",
+      "division": "Đông Bắc Trung tâm",
+      "population": 10077331,
+      "area_sq_mi": 96714,
+      "statehood_year": 1837
+    },
+    {
+      "name": "Minnesota",
+      "abbreviation": "MN",
+      "capital": "Saint Paul",
+      "region": "Trung Tây",
+      "division": "Tây Bắc Trung tâm",
+      "population": 5706494,
+      "area_sq_mi": 86936,
+      "statehood_year": 1858
+    },
+    {
+      "name": "Mississippi",
+      "abbreviation": "MS",
+      "capital": "Jackson",
+      "region": "Miền Nam",
+      "division": "Đông Nam Trung tâm",
+      "population": 2961279,
+      "area_sq_mi": 48432,
+      "statehood_year": 1817
+    },
+    {
+      "name": "Missouri",
+      "abbreviation": "MO",
+      "capital": "Jefferson City",
+      "region": "Trung Tây",
+      "division": "Tây Bắc Trung tâm",
+      "population": 6154913,
+      "area_sq_mi": 69707,
+      "statehood_year": 1821
+    },
+    {
+      "name": "Montana",
+      "abbreviation": "MT",
+      "capital": "Helena",
+      "region": "Miền Tây",
+      "division": "Miền Núi",
+      "population": 1084225,
+      "area_sq_mi": 147040,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Nebraska",
+      "abbreviation": "NE",
+      "capital": "Lincoln",
+      "region": "Trung Tây",
+      "division": "Tây Bắc Trung tâm",
+      "population": 1961504,
+      "area_sq_mi": 77348,
+      "statehood_year": 1867
+    },
+    {
+      "name": "Nevada",
+      "abbreviation": "NV",
+      "capital": "Carson City",
+      "region": "Miền Tây",
+      "division": "Miền Núi",
+      "population": 3104614,
+      "area_sq_mi": 110572,
+      "statehood_year": 1864
+    },
+    {
+      "name": "New Hampshire",
+      "abbreviation": "NH",
+      "capital": "Concord",
+      "region": "Đông Bắc",
+      "division": "New England",
+      "population": 1377529,
+      "area_sq_mi": 9349,
+      "statehood_year": 1788
+    },
+    {
+      "name": "New Jersey",
+      "abbreviation": "NJ",
+      "capital": "Trenton",
+      "region": "Đông Bắc",
+      "division": "Trung Đại Tây Dương",
+      "population": 9288994,
+      "area_sq_mi": 8723,
+      "statehood_year": 1787
+    },
+    {
+      "name": "New Mexico",
+      "abbreviation": "NM",
+      "capital": "Santa Fe",
+      "region": "Miền Tây",
+      "division": "Miền Núi",
+      "population": 2117522,
+      "area_sq_mi": 121590,
+      "statehood_year": 1912
+    },
+    {
+      "name": "New York",
+      "abbreviation": "NY",
+      "capital": "Albany",
+      "region": "Đông Bắc",
+      "division": "Trung Đại Tây Dương",
+      "population": 20201249,
+      "area_sq_mi": 54555,
+      "statehood_year": 1788
+    },
+    {
+      "name": "North Carolina",
+      "abbreviation": "NC",
+      "capital": "Raleigh",
+      "region": "Miền Nam",
+      "division": "Nam Đại Tây Dương",
+      "population": 10439388,
+      "area_sq_mi": 53819,
+      "statehood_year": 1789
+    },
+    {
+      "name": "North Dakota",
+      "abbreviation": "ND",
+      "capital": "Bismarck",
+      "region": "Trung Tây",
+      "division": "Tây Bắc Trung tâm",
+      "population": 779094,
+      "area_sq_mi": 70698,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Ohio",
+      "abbreviation": "OH",
+      "capital": "Columbus",
+      "region": "Trung Tây",
+      "division": "Đông Bắc Trung tâm",
+      "population": 11799448,
+      "area_sq_mi": 44826,
+      "statehood_year": 1803
+    },
+    {
+      "name": "Oklahoma",
+      "abbreviation": "OK",
+      "capital": "Oklahoma City",
+      "region": "Miền Nam",
+      "division": "Tây Nam Trung tâm",
+      "population": 3959353,
+      "area_sq_mi": 69899,
+      "statehood_year": 1907
+    },
+    {
+      "name": "Oregon",
+      "abbreviation": "OR",
+      "capital": "Salem",
+      "region": "Miền Tây",
+      "division": "Thái Bình Dương",
+      "population": 4237256,
+      "area_sq_mi": 98379,
+      "statehood_year": 1859
+    },
+    {
+      "name": "Pennsylvania",
+      "abbreviation": "PA",
+      "capital": "Harrisburg",
+      "region": "Đông Bắc",
+      "division": "Trung Đại Tây Dương",
+      "population": 13002700,
+      "area_sq_mi": 46054,
+      "statehood_year": 1787
+    },
+    {
+      "name": "Rhode Island",
+      "abbreviation": "RI",
+      "capital": "Providence",
+      "region": "Đông Bắc",
+      "division": "New England",
+      "population": 1097379,
+      "area_sq_mi": 1545,
+      "statehood_year": 1790
+    },
+    {
+      "name": "South Carolina",
+      "abbreviation": "SC",
+      "capital": "Columbia",
+      "region": "Miền Nam",
+      "division": "Nam Đại Tây Dương",
+      "population": 5118425,
+      "area_sq_mi": 32020,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Nam Dakota",
+      "abbreviation": "SD",
+      "capital": "Pierre",
+      "region": "Trung Tây",
+      "division": "Tây Bắc Trung Bộ",
+      "population": 886667,
+      "area_sq_mi": 77116,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Tennessee",
+      "abbreviation": "TN",
+      "capital": "Nashville",
+      "region": "Nam",
+      "division": "Đông Nam Trung Bộ",
+      "population": 6910840,
+      "area_sq_mi": 42144,
+      "statehood_year": 1796
+    },
+    {
+      "name": "Texas",
+      "abbreviation": "TX",
+      "capital": "Austin",
+      "region": "Nam",
+      "division": "Tây Nam Trung Bộ",
+      "population": 29145505,
+      "area_sq_mi": 268596,
+      "statehood_year": 1845
+    },
+    {
+      "name": "Utah",
+      "abbreviation": "UT",
+      "capital": "Thành phố Salt Lake",
+      "region": "Tây",
+      "division": "Miền núi",
+      "population": 3271616,
+      "area_sq_mi": 84897,
+      "statehood_year": 1896
+    },
+    {
+      "name": "Vermont",
+      "abbreviation": "VT",
+      "capital": "Montpelier",
+      "region": "Đông Bắc",
+      "division": "New England",
+      "population": 643077,
+      "area_sq_mi": 9616,
+      "statehood_year": 1791
+    },
+    {
+      "name": "Virginia",
+      "abbreviation": "VA",
+      "capital": "Richmond",
+      "region": "Nam",
+      "division": "Nam Đại Tây Dương",
+      "population": 8631393,
+      "area_sq_mi": 42775,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Washington",
+      "abbreviation": "WA",
+      "capital": "Olympia",
+      "region": "Tây",
+      "division": "Thái Bình Dương",
+      "population": 7614893,
+      "area_sq_mi": 71298,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Tây Virginia",
+      "abbreviation": "WV",
+      "capital": "Charleston",
+      "region": "Nam",
+      "division": "Nam Đại Tây Dương",
+      "population": 1793716,
+      "area_sq_mi": 24230,
+      "statehood_year": 1863
+    },
+    {
+      "name": "Wisconsin",
+      "abbreviation": "WI",
+      "capital": "Madison",
+      "region": "Trung Tây",
+      "division": "Đông Bắc Trung Bộ",
+      "population": 5893718,
+      "area_sq_mi": 65496,
+      "statehood_year": 1848
+    },
+    {
+      "name": "Wyoming",
+      "abbreviation": "WY",
+      "capital": "Cheyenne",
+      "region": "Tây",
+      "division": "Miền núi",
+      "population": 576851,
+      "area_sq_mi": 97813,
+      "statehood_year": 1890
+    }
+  ],
+  "meta": {
+    "seo_title": "Dữ liệu Bang Hoa Kỳ - Tải xuống miễn phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống miễn phí dữ liệu 50 bang Hoa Kỳ: tên, thủ phủ, dân số, khu vực & hơn thế nữa. Có sẵn Excel, CSV, PDF cho phân tích, giáo dục & phát triển.",
+    "title": "Bộ Dữ liệu Toàn diện các Bang Hoa Kỳ",
+    "description": "Bộ dữ liệu này cung cấp thông tin chi tiết cho tất cả 50 Bang của Hoa Kỳ, bao gồm tên, viết tắt, thủ phủ, khu vực, phân khu, dân số, diện tích và năm thành lập. Đây là một nguồn tài nguyên giá trị cho phân tích địa lý và nhân khẩu học.",
+    "key_takeaways": [
+      "Truy cập dữ liệu nhân khẩu học và địa lý quan trọng cho tất cả 50 bang Hoa Kỳ.",
+      "Khám phá tên bang, thủ phủ, khu vực, dân số và diện tích đất.",
+      "Tải xuống dữ liệu toàn diện về các bang Hoa Kỳ sẵn sàng sử dụng ngay lập tức ở nhiều định dạng.",
+      "Tận dụng thông tin chính xác cho các dự án giáo dục, nghiên cứu và phát triển."
+    ],
+    "keywords": [
+      "dữ liệu bang hoa kỳ miễn phí",
+      "thông tin hoa kỳ excel",
+      "thủ phủ bang mỹ csv",
+      "dân số 50 bang",
+      "khu vực hoa kỳ pdf",
+      "tải dữ liệu bang mỹ"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL hoặc các tập lệnh Python của bạn để phân tích địa lý hoặc phát triển ứng dụng với dữ liệu cấp bang.",
+      "Sử dụng tệp **Excel** để tạo Bảng Pivot, lọc các bang theo khu vực hoặc dân số và tạo báo cáo về xu hướng nhân khẩu học và địa lý của Hoa Kỳ.",
+      "In phiên bản **PDF** để tham khảo trong lớp học, thuyết trình giáo dục hoặc truy cập nhanh các sự kiện và số liệu về các bang Hoa Kỳ ngoại tuyến.",
+      "Phân tích lịch sử thành lập bang, thay đổi dân số và nhân khẩu học khu vực của Hoa Kỳ cho các dự án nghiên cứu hoặc học thuật."
+    ]
+  },
+  "record_count": 50,
+  "title": "Bộ Dữ liệu Toàn diện các Bang Hoa Kỳ"
+}

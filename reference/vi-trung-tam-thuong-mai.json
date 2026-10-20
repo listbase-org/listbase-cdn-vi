@@ -1,0 +1,160 @@
+{
+  "id": "vi-trung-tam-thuong-mai",
+  "name": "Trung tâm thương mại ở Việt Nam",
+  "title": "Trung tâm thương mại ở Việt Nam",
+  "description": "Danh sách trung tâm thương mại ở việt nam (P31 = wd:Q11315) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-19. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi) kèm toạ độ WGS84 (P625). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikipedia tiếng Việt nếu có. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 7/7 toạ độ, 5/7 vi.wikipedia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "admin_area_vi",
+      "label": "Admin Area Vi",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q32032749",
+      "name_vi": "Chợ An Đông",
+      "name_en": "An Dong Market",
+      "latitude": 10.758101,
+      "longitude": 106.672179,
+      "admin_area_vi": "An Đông",
+      "admin_area_en": "An Đông",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A3_An_%C4%90%C3%B4ng",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32032749"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q56193221",
+      "name_vi": "Crescent Mall",
+      "name_en": "Crescent Mall",
+      "latitude": 10.728917,
+      "longitude": 106.718722,
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Crescent_Mall",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56193221"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q5270896",
+      "name_vi": "Diamond Plaza",
+      "name_en": "Diamond Plaza",
+      "latitude": 10.780833,
+      "longitude": 106.698333,
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Saigon",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Diamond_Plaza",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5270896"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q56193353",
+      "name_vi": "SC VivoCity",
+      "name_en": "",
+      "latitude": 10.730417,
+      "longitude": 106.703583,
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "wikipedia_vi": "",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56193353"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q7400082",
+      "name_vi": "Thương xá TAX",
+      "name_en": "Saigon Tax Trade Centre",
+      "latitude": 10.775167,
+      "longitude": 106.7025,
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%C6%B0%C6%A1ng_x%C3%A1_TAX",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7400082"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q7833421",
+      "name_vi": "Tràng Tiền Plaza",
+      "name_en": "Trang Tien Plaza",
+      "latitude": 21.0247,
+      "longitude": 105.853,
+      "admin_area_vi": "Tràng Tiền",
+      "admin_area_en": "Tràng Tiền",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Tr%C3%A0ng_Ti%E1%BB%81n_Plaza",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7833421"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q131228420",
+      "name_vi": "Vincom Mega Mall Smart City",
+      "name_en": "Vincom Mega Mall Smart City",
+      "latitude": 21.005676,
+      "longitude": 105.755156,
+      "admin_area_vi": "Tây Mỗ",
+      "admin_area_en": "Tây Mỗ",
+      "wikipedia_vi": "",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131228420"
+    }
+  ],
+  "meta": {
+    "title": "Trung tâm thương mại ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách trung tâm thương mại ở việt nam (P31 = wd:Q11315) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-19. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi) kèm toạ độ WGS84 (P625). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikipedia tiếng Việt nếu có. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 7/7 toạ độ, 5/7 vi.wikipedia. Chứa 7 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Trung tâm thương mại ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Trung tâm thương mại ở Việt Nam — 7 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 7 bản ghi / 10 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

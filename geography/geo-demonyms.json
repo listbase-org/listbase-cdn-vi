@@ -1,0 +1,1429 @@
+{
+  "id": "geo-demonyms",
+  "name": "Tập Dữ Liệu Quốc Tịch và Mã ISO Toàn Cầu",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "demonym_m",
+      "label": "Demonym (Male) (EN)",
+      "type": "string"
+    },
+    {
+      "key": "demonym_f",
+      "label": "Demonym (Female) (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "Afghanistan",
+      "demonym_m": "Afghanistan",
+      "demonym_f": "Afghanistan"
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "Albania",
+      "demonym_m": "Albania",
+      "demonym_f": "Albania"
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "Algérie",
+      "demonym_m": "Algérie",
+      "demonym_f": "Algérie"
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "Andorra",
+      "demonym_m": "Andorra",
+      "demonym_f": "Andorra"
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "Angola",
+      "demonym_m": "Angola",
+      "demonym_f": "Angola"
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "Antigua và Barbuda",
+      "demonym_m": "Antiguan, Barbudan",
+      "demonym_f": "Antiguan, Barbudan"
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "Argentina",
+      "demonym_m": "Argentina",
+      "demonym_f": "Argentina"
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "Armenia",
+      "demonym_m": "Armenia",
+      "demonym_f": "Armenia"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Úc",
+      "demonym_m": "Úc",
+      "demonym_f": "Úc"
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "Áo",
+      "demonym_m": "Áo",
+      "demonym_f": "Áo"
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "Azerbaijan",
+      "demonym_m": "Azerbaijan",
+      "demonym_f": "Azerbaijan"
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "Bahamas",
+      "demonym_m": "Bahamas",
+      "demonym_f": "Bahamas"
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "Bahrain",
+      "demonym_m": "Bahrain",
+      "demonym_f": "Bahrain"
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "Bangladesh",
+      "demonym_m": "Bangladesh",
+      "demonym_f": "Bangladesh"
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "Barbados",
+      "demonym_m": "Barbados",
+      "demonym_f": "Barbados"
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "Belarus",
+      "demonym_m": "Belarus",
+      "demonym_f": "Belarus"
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "Bỉ",
+      "demonym_m": "Bỉ",
+      "demonym_f": "Bỉ"
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "Belize",
+      "demonym_m": "Belize",
+      "demonym_f": "Belize"
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "Bénin",
+      "demonym_m": "Bénin",
+      "demonym_f": "Bénin"
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "Bhutan",
+      "demonym_m": "Bhutan",
+      "demonym_f": "Bhutan"
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "Bolivia",
+      "demonym_m": "người Bolivia",
+      "demonym_f": "người Bolivia"
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "Bosnia và Herzegovina",
+      "demonym_m": "người Bosnia, người Herzegovina",
+      "demonym_f": "người Bosnia, người Herzegovina"
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "Botswana",
+      "demonym_m": "người Motswana",
+      "demonym_f": "người Motswana"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "Brasil",
+      "demonym_m": "người Brasil",
+      "demonym_f": "người Brasil"
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "Brunei",
+      "demonym_m": "người Brunei",
+      "demonym_f": "người Brunei"
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "Bulgaria",
+      "demonym_m": "người Bulgaria",
+      "demonym_f": "người Bulgaria"
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "Burkina Faso",
+      "demonym_m": "người Burkinabé",
+      "demonym_f": "người Burkinabé"
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "Burundi",
+      "demonym_m": "người Burundi",
+      "demonym_f": "người Burundi"
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "Campuchia",
+      "demonym_m": "người Campuchia",
+      "demonym_f": "người Campuchia"
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "Cameroon",
+      "demonym_m": "người Cameroon",
+      "demonym_f": "người Cameroon"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Canada",
+      "demonym_m": "người Canada",
+      "demonym_f": "người Canada"
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "Cabo Verde",
+      "demonym_m": "người Cabo Verde",
+      "demonym_f": "người Cabo Verde"
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "Cộng hòa Trung Phi",
+      "demonym_m": "người Trung Phi",
+      "demonym_f": "người Trung Phi"
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "Chad",
+      "demonym_m": "người Chad",
+      "demonym_f": "người Chad"
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "Chile",
+      "demonym_m": "người Chile",
+      "demonym_f": "người Chile"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "Trung Quốc",
+      "demonym_m": "người Trung Quốc",
+      "demonym_f": "người Trung Quốc"
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "Colombia",
+      "demonym_m": "người Colombia",
+      "demonym_f": "người Colombia"
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "Comoros",
+      "demonym_m": "người Comoros",
+      "demonym_f": "người Comoros"
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "Costa Rica",
+      "demonym_m": "người Costa Rica",
+      "demonym_f": "người Costa Rica"
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "Croatia",
+      "demonym_m": "người Croatia",
+      "demonym_f": "người Croatia"
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "Cuba",
+      "demonym_m": "Người Cuba",
+      "demonym_f": "Người Cuba"
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "Síp",
+      "demonym_m": "Người Síp",
+      "demonym_f": "Người Síp"
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "Séc",
+      "demonym_m": "Người Séc",
+      "demonym_f": "Người Séc"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "Đan Mạch",
+      "demonym_m": "Người Đan Mạch",
+      "demonym_f": "Người Đan Mạch"
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "Djibouti",
+      "demonym_m": "Người Djibouti",
+      "demonym_f": "Người Djibouti"
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "Dominica",
+      "demonym_m": "Người Dominica",
+      "demonym_f": "Người Dominica"
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "Cộng hòa Dominica",
+      "demonym_m": "Người Dominica",
+      "demonym_f": "Người Dominica"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "CHDC Congo",
+      "demonym_m": "Người Congo",
+      "demonym_f": "Người Congo"
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "Ecuador",
+      "demonym_m": "Người Ecuador",
+      "demonym_f": "Người Ecuador"
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "Ai Cập",
+      "demonym_m": "Người Ai Cập",
+      "demonym_f": "Người Ai Cập"
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "El Salvador",
+      "demonym_m": "Người El Salvador",
+      "demonym_f": "Người El Salvador"
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "Guinea Xích Đạo",
+      "demonym_m": "Người Guinea Xích Đạo",
+      "demonym_f": "Người Guinea Xích Đạo"
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "Eritrea",
+      "demonym_m": "Người Eritrea",
+      "demonym_f": "Người Eritrea"
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "Estonia",
+      "demonym_m": "Người Estonia",
+      "demonym_f": "Người Estonia"
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "Eswatini",
+      "demonym_m": "Người Swazi",
+      "demonym_f": "Người Swazi"
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "Ethiopia",
+      "demonym_m": "Người Ethiopia",
+      "demonym_f": "Người Ethiopia"
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "Fiji",
+      "demonym_m": "Người Fiji",
+      "demonym_f": "Người Fiji"
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "Phần Lan",
+      "demonym_m": "Người Phần Lan",
+      "demonym_f": "Người Phần Lan"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "Pháp",
+      "demonym_m": "Người Pháp",
+      "demonym_f": "Người Pháp"
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "Gabon",
+      "demonym_m": "Người Gabon",
+      "demonym_f": "Người Gabon"
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "Gambia",
+      "demonym_m": "người Gambia",
+      "demonym_f": "người Gambia"
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "Gruzia",
+      "demonym_m": "người Gruzia",
+      "demonym_f": "người Gruzia"
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "Đức",
+      "demonym_m": "người Đức",
+      "demonym_f": "người Đức"
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "Ghana",
+      "demonym_m": "người Ghana",
+      "demonym_f": "người Ghana"
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "Hy Lạp",
+      "demonym_m": "người Hy Lạp",
+      "demonym_f": "người Hy Lạp"
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "Grenada",
+      "demonym_m": "người Grenada",
+      "demonym_f": "người Grenada"
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "Guatemala",
+      "demonym_m": "người Guatemala",
+      "demonym_f": "người Guatemala"
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "Guinea",
+      "demonym_m": "người Guinea",
+      "demonym_f": "người Guinea"
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "Guinea-Bissau",
+      "demonym_m": "người Guinea-Bissau",
+      "demonym_f": "người Guinea-Bissau"
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "Guyana",
+      "demonym_m": "người Guyana",
+      "demonym_f": "người Guyana"
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "Haiti",
+      "demonym_m": "người Haiti",
+      "demonym_f": "người Haiti"
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "Honduras",
+      "demonym_m": "người Honduras",
+      "demonym_f": "người Honduras"
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "Hungary",
+      "demonym_m": "người Hungary",
+      "demonym_f": "người Hungary"
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "Iceland",
+      "demonym_m": "người Iceland",
+      "demonym_f": "người Iceland"
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "Ấn Độ",
+      "demonym_m": "người Ấn Độ",
+      "demonym_f": "người Ấn Độ"
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "Indonesia",
+      "demonym_m": "người Indonesia",
+      "demonym_f": "người Indonesia"
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "Iran",
+      "demonym_m": "người Iran",
+      "demonym_f": "người Iran"
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "Iraq",
+      "demonym_m": "người Iraq",
+      "demonym_f": "người Iraq"
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "Ireland",
+      "demonym_m": "người Ireland",
+      "demonym_f": "người Ireland"
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "Israel",
+      "demonym_m": "người Israel",
+      "demonym_f": "người Israel"
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "Ý",
+      "demonym_m": "Người Ý",
+      "demonym_f": "Người Ý"
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "Bờ Biển Ngà",
+      "demonym_m": "Người Bờ Biển Ngà",
+      "demonym_f": "Người Bờ Biển Ngà"
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "Jamaica",
+      "demonym_m": "Người Jamaica",
+      "demonym_f": "Người Jamaica"
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "Nhật Bản",
+      "demonym_m": "Người Nhật",
+      "demonym_f": "Người Nhật"
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "Jordan",
+      "demonym_m": "Người Jordan",
+      "demonym_f": "Người Jordan"
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "Kazakhstan",
+      "demonym_m": "Người Kazakhstan",
+      "demonym_f": "Người Kazakhstan"
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "Kenya",
+      "demonym_m": "Người Kenya",
+      "demonym_f": "Người Kenya"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "Kiribati",
+      "demonym_m": "Người Kiribati",
+      "demonym_f": "Người Kiribati"
+    },
+    {
+      "iso_alpha2": "XK",
+      "iso_alpha3": "UNK",
+      "name": "Kosovo",
+      "demonym_m": "Người Kosovo",
+      "demonym_f": "Người Kosovo"
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "Kuwait",
+      "demonym_m": "Người Kuwait",
+      "demonym_f": "Người Kuwait"
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "Kyrgyzstan",
+      "demonym_m": "Người Kirghiz",
+      "demonym_f": "Người Kirghiz"
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "Lào",
+      "demonym_m": "Người Lào",
+      "demonym_f": "Người Lào"
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "Latvia",
+      "demonym_m": "Người Latvia",
+      "demonym_f": "Người Latvia"
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "Liban",
+      "demonym_m": "Người Liban",
+      "demonym_f": "Người Liban"
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "Lesotho",
+      "demonym_m": "Người Mosotho",
+      "demonym_f": "Người Mosotho"
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "Liberia",
+      "demonym_m": "Người Liberia",
+      "demonym_f": "Người Liberia"
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "Libya",
+      "demonym_m": "Người Libya",
+      "demonym_f": "Người Libya"
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "Liechtenstein",
+      "demonym_m": "Người Liechtenstein",
+      "demonym_f": "Người Liechtenstein"
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "Litva",
+      "demonym_m": "Người Litva",
+      "demonym_f": "Người Litva"
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "Luxembourg",
+      "demonym_m": "Người Luxembourg",
+      "demonym_f": "Người Luxembourg"
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "Madagascar",
+      "demonym_m": "Người Madagascar",
+      "demonym_f": "Người Madagascar"
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "Malawi",
+      "demonym_m": "Người Malawi",
+      "demonym_f": "Người Malawi"
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "Malaysia",
+      "demonym_m": "Người Malaysia",
+      "demonym_f": "Người Malaysia"
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "Maldives",
+      "demonym_m": "Người Maldivian",
+      "demonym_f": "Người Maldivian"
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "Mali",
+      "demonym_m": "Người Mali",
+      "demonym_f": "Người Mali"
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "Malta",
+      "demonym_m": "Người Malta",
+      "demonym_f": "Người Malta"
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "Quần đảo Marshall",
+      "demonym_m": "Người Marshall",
+      "demonym_f": "Người Marshall"
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "Mauritania",
+      "demonym_m": "Người Mauritania",
+      "demonym_f": "Người Mauritania"
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "Mauritius",
+      "demonym_m": "Người Mauritius",
+      "demonym_f": "Người Mauritius"
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "Mexico",
+      "demonym_m": "Người Mexico",
+      "demonym_f": "Người Mexico"
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "Micronesia",
+      "demonym_m": "Người Micronesia",
+      "demonym_f": "Người Micronesia"
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "Moldova",
+      "demonym_m": "Người Moldova",
+      "demonym_f": "Người Moldova"
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "Monaco",
+      "demonym_m": "Người Monaco",
+      "demonym_f": "Người Monaco"
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "Mông Cổ",
+      "demonym_m": "Người Mông Cổ",
+      "demonym_f": "Người Mông Cổ"
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "Montenegro",
+      "demonym_m": "Người Montenegro",
+      "demonym_f": "Người Montenegro"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "Maroc",
+      "demonym_m": "Người Maroc",
+      "demonym_f": "Người Maroc"
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "Mozambique",
+      "demonym_m": "Người Mozambique",
+      "demonym_f": "Người Mozambique"
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "Myanmar",
+      "demonym_m": "Người Miến Điện",
+      "demonym_f": "Người Miến Điện"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibia",
+      "demonym_m": "Người Namibia",
+      "demonym_f": "Người Namibia"
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "Nauru",
+      "demonym_m": "Người Nauru",
+      "demonym_f": "Người Nauru"
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "Nepal",
+      "demonym_m": "người Nepal",
+      "demonym_f": "người Nepal"
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "Hà Lan",
+      "demonym_m": "người Hà Lan",
+      "demonym_f": "người Hà Lan"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "New Zealand",
+      "demonym_m": "người New Zealand",
+      "demonym_f": "người New Zealand"
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "Nicaragua",
+      "demonym_m": "người Nicaragua",
+      "demonym_f": "người Nicaragua"
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "Niger",
+      "demonym_m": "người Niger",
+      "demonym_f": "người Niger"
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "Nigeria",
+      "demonym_m": "người Nigeria",
+      "demonym_f": "người Nigeria"
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "Triều Tiên",
+      "demonym_m": "người Triều Tiên",
+      "demonym_f": "người Triều Tiên"
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "Bắc Macedonia",
+      "demonym_m": "người Macedonia",
+      "demonym_f": "người Macedonia"
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "Na Uy",
+      "demonym_m": "người Na Uy",
+      "demonym_f": "người Na Uy"
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "Oman",
+      "demonym_m": "người Oman",
+      "demonym_f": "người Oman"
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "Pakistan",
+      "demonym_m": "người Pakistan",
+      "demonym_f": "người Pakistan"
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "Palau",
+      "demonym_m": "người Palau",
+      "demonym_f": "người Palau"
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "Panama",
+      "demonym_m": "người Panama",
+      "demonym_f": "người Panama"
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "Papua New Guinea",
+      "demonym_m": "người Papua New Guinea",
+      "demonym_f": "người Papua New Guinea"
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "Paraguay",
+      "demonym_m": "người Paraguay",
+      "demonym_f": "người Paraguay"
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "Peru",
+      "demonym_m": "người Peru",
+      "demonym_f": "người Peru"
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "Philippines",
+      "demonym_m": "người Philippines",
+      "demonym_f": "người Philippines"
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "Ba Lan",
+      "demonym_m": "người Ba Lan",
+      "demonym_f": "người Ba Lan"
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "Bồ Đào Nha",
+      "demonym_m": "người Bồ Đào Nha",
+      "demonym_f": "người Bồ Đào Nha"
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "Qatar",
+      "demonym_m": "người Qatar",
+      "demonym_f": "người Qatar"
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "Cộng hòa Congo",
+      "demonym_m": "Người Congo",
+      "demonym_f": "Người Congo"
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "Romania",
+      "demonym_m": "Người Romania",
+      "demonym_f": "Người Romania"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Nga",
+      "demonym_m": "Người Nga",
+      "demonym_f": "Người Nga"
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "Rwanda",
+      "demonym_m": "Người Rwanda",
+      "demonym_f": "Người Rwanda"
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "Saint Kitts và Nevis",
+      "demonym_m": "Người Kittitian hoặc Nevis",
+      "demonym_f": "Người Kittitian hoặc Nevis"
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "Saint Lucia",
+      "demonym_m": "Người Saint Lucia",
+      "demonym_f": "Người Saint Lucia"
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "Saint Vincent và Grenadines",
+      "demonym_m": "Người Saint Vincent",
+      "demonym_f": "Người Saint Vincent"
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "Samoa",
+      "demonym_m": "Người Samoa",
+      "demonym_f": "Người Samoa"
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "San Marino",
+      "demonym_m": "Người San Marino",
+      "demonym_f": "Người San Marino"
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "São Tomé và Príncipe",
+      "demonym_m": "Người São Tomé",
+      "demonym_f": "Người São Tomé"
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "Ả Rập Xê Út",
+      "demonym_m": "Người Ả Rập Xê Út",
+      "demonym_f": "Người Ả Rập Xê Út"
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "Senegal",
+      "demonym_m": "Người Senegal",
+      "demonym_f": "Người Senegal"
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "Serbia",
+      "demonym_m": "Người Serbia",
+      "demonym_f": "Người Serbia"
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "Seychelles",
+      "demonym_m": "Người Seychelles",
+      "demonym_f": "Người Seychelles"
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "Sierra Leone",
+      "demonym_m": "Người Sierra Leone",
+      "demonym_f": "Người Sierra Leone"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "Singapore",
+      "demonym_m": "Người Singapore",
+      "demonym_f": "Người Singapore"
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "Slovakia",
+      "demonym_m": "Người Slovakia",
+      "demonym_f": "Người Slovakia"
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "Slovenia",
+      "demonym_m": "Người Slovenia",
+      "demonym_f": "Người Slovenia"
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "Quần đảo Solomon",
+      "demonym_m": "Người Quần đảo Solomon",
+      "demonym_f": "Người Quần đảo Solomon"
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "Somalia",
+      "demonym_m": "Người Somalia",
+      "demonym_f": "Người Somalia"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Nam Phi",
+      "demonym_m": "Người Nam Phi",
+      "demonym_f": "Người Nam Phi"
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "Hàn Quốc",
+      "demonym_m": "Người Hàn Quốc",
+      "demonym_f": "Người Hàn Quốc"
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "Nam Sudan",
+      "demonym_m": "Người Nam Sudan",
+      "demonym_f": "Người Nam Sudan"
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "Tây Ban Nha",
+      "demonym_m": "Người Tây Ban Nha",
+      "demonym_f": "Người Tây Ban Nha"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "Sri Lanka",
+      "demonym_m": "Người Sri Lanka",
+      "demonym_f": "Người Sri Lanka"
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "Sudan",
+      "demonym_m": "Người Sudan",
+      "demonym_f": "Người Sudan"
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "Suriname",
+      "demonym_m": "Người Suriname",
+      "demonym_f": "Người Suriname"
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "Thụy Điển",
+      "demonym_m": "Người Thụy Điển",
+      "demonym_f": "Người Thụy Điển"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "Thụy Sĩ",
+      "demonym_m": "Người Thụy Sĩ",
+      "demonym_f": "Người Thụy Sĩ"
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "Syria",
+      "demonym_m": "Người Syria",
+      "demonym_f": "Người Syria"
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "Tajikistan",
+      "demonym_m": "Người Tajikistan",
+      "demonym_f": "Người Tajikistan"
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "Tanzania",
+      "demonym_m": "Người Tanzania",
+      "demonym_f": "Người Tanzania"
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "Thái Lan",
+      "demonym_m": "Người Thái Lan",
+      "demonym_f": "Người Thái Lan"
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "Timor-Leste",
+      "demonym_m": "Người Đông Timor",
+      "demonym_f": "Người Đông Timor"
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "Togo",
+      "demonym_m": "Người Togo",
+      "demonym_f": "Người Togo"
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "Tonga",
+      "demonym_m": "Người Tonga",
+      "demonym_f": "Người Tonga"
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "Trinidad và Tobago",
+      "demonym_m": "Người Trinidad",
+      "demonym_f": "Người Trinidad"
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "Tunisia",
+      "demonym_m": "Người Tunisia",
+      "demonym_f": "Người Tunisia"
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "Thổ Nhĩ Kỳ",
+      "demonym_m": "Người Thổ Nhĩ Kỳ",
+      "demonym_f": "Người Thổ Nhĩ Kỳ"
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "Turkmenistan",
+      "demonym_m": "Người Turkmenistan",
+      "demonym_f": "Người Turkmenistan"
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "Tuvalu",
+      "demonym_m": "Người Tuvalu",
+      "demonym_f": "Người Tuvalu"
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "Uganda",
+      "demonym_m": "Người Uganda",
+      "demonym_f": "Người Uganda"
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "Ukraina",
+      "demonym_m": "Người Ukraina",
+      "demonym_f": "Người Ukraina"
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "Các Tiểu vương quốc Ả Rập Thống nhất",
+      "demonym_m": "Người Emirati",
+      "demonym_f": "Người Emirati"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Vương quốc Anh",
+      "demonym_m": "Người Anh",
+      "demonym_f": "Người Anh"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Hoa Kỳ",
+      "demonym_m": "Người Mỹ",
+      "demonym_f": "Người Mỹ"
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "Uruguay",
+      "demonym_m": "Người Uruguay",
+      "demonym_f": "Người Uruguay"
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "Uzbekistan",
+      "demonym_m": "Người Uzbekistan",
+      "demonym_f": "Người Uzbekistan"
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "Vanuatu",
+      "demonym_m": "Người Vanuatu",
+      "demonym_f": "Người Vanuatu"
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "Thành phố Vatican",
+      "demonym_m": "Người Vatican",
+      "demonym_f": "Người Vatican"
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "Venezuela",
+      "demonym_m": "Người Venezuela",
+      "demonym_f": "Người Venezuela"
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "Việt Nam",
+      "demonym_m": "Người Việt Nam",
+      "demonym_f": "Người Việt Nam"
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "Yemen",
+      "demonym_m": "Người Yemen",
+      "demonym_f": "Người Yemen"
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "Zambia",
+      "demonym_m": "Người Zambia",
+      "demonym_f": "Người Zambia"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabwe",
+      "demonym_m": "Người Zimbabwe",
+      "demonym_f": "Người Zimbabwe"
+    }
+  ],
+  "meta": {
+    "seo_title": "Danh Sách Quốc Tịch - Tải Miễn Phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống danh sách đầy đủ 195 quốc tịch (nam/nữ) với mã ISO. Truy cập miễn phí định dạng Excel, CSV và PDF cho các dự án dữ liệu của bạn.",
+    "title": "Tập Dữ Liệu Quốc Tịch và Mã ISO Toàn Cầu",
+    "description": "Tập dữ liệu này cung cấp danh sách toàn diện 195 quốc gia độc lập, chi tiết các quốc tịch nam và nữ cùng với mã ISO Alpha-2 và Alpha-3.",
+    "key_takeaways": [
+      "Truy cập 195 bản ghi về quốc tịch các quốc gia, bao gồm dạng nam và nữ.",
+      "Khám phá các quốc gia với mã ISO Alpha-2 và Alpha-3 tương ứng.",
+      "Tải xuống dữ liệu sẵn sàng sử dụng cho nghiên cứu ngôn ngữ học hoặc ứng dụng địa lý.",
+      "Tận dụng thông tin quốc tịch chính xác cho nhiều nhu cầu nghiên cứu và phát triển đa dạng."
+    ],
+    "keywords": [
+      "danh sách quốc tịch",
+      "dữ liệu quốc tịch",
+      "mã iso quốc tịch",
+      "tải quốc tịch excel",
+      "dữ liệu quốc tịch csv",
+      "tính từ quốc gia"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL hoặc tập lệnh Python để xây dựng các ứng dụng yêu cầu thuật ngữ quốc gia cụ thể.",
+      "Sử dụng tệp **Excel** để lọc, sắp xếp và phân tích xu hướng quốc tịch cho nghiên cứu ngôn ngữ hoặc tạo nội dung giáo dục.",
+      "In phiên bản **PDF** để làm tài liệu tham khảo ngoại tuyến nhanh chóng trong lớp học, cơ quan dịch thuật hoặc lập kế hoạch du lịch.",
+      "Tích hợp dữ liệu này vào trang web hoặc ứng dụng di động để cung cấp các thuật ngữ chính xác về văn hóa cho việc nhận dạng người dùng hoặc bản địa hóa nội dung."
+    ]
+  },
+  "record_count": 195,
+  "title": "Tập Dữ Liệu Quốc Tịch và Mã ISO Toàn Cầu"
+}

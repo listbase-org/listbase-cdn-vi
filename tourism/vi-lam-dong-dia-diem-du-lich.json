@@ -1,0 +1,126 @@
+{
+  "id": "vi-lam-dong-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Lâm Đồng",
+  "title": "Địa điểm du lịch Lâm Đồng",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Lâm Đồng (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 21,
+      "ten_dia_diem": "Hồ Xuân Hương",
+      "vi_tri": "Lâm Đồng",
+      "tinh_truoc_sap_nhap_2025": "Lâm Đồng",
+      "mo_ta": "Biểu tượng của Đà Lạt, hồ nằm ngay trung tâm thành phố, bao quanh bởi rừng thông và những vườn hoa.",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://tse3.mm.bing.net/th?id=OIP.chmIO_bl-TWTEivpGFWdCAHaFj&pid=Api&P=0&h=220",
+      "tu_khoa": "Hồ, chụp ảnh, tham quan"
+    },
+    {
+      "stt": 22,
+      "ten_dia_diem": "Thiền Viện Trúc Lâm",
+      "vi_tri": "Lâm Đồng",
+      "tinh_truoc_sap_nhap_2025": "Lâm Đồng",
+      "mo_ta": "Một thiền viện nổi tiếng tọa lạc gần Hồ Tuyền Lâm, mang kiến trúc thanh tịnh và không gian yên bình.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://tse1.mm.bing.net/th?id=OIP.0pUp5Fpj3xerMHL6wzKj_QHaFj&pid=Api&P=0&h=220",
+      "tu_khoa": "chùa, tham quan, văn hóa"
+    },
+    {
+      "stt": 23,
+      "ten_dia_diem": "Chợ Đêm Đà Lạt",
+      "vi_tri": "Lâm Đồng",
+      "tinh_truoc_sap_nhap_2025": "Lâm Đồng",
+      "mo_ta": "Chợ đêm Đà Lạt là nơi bạn có thể thưởng thức đặc sản như bánh tráng nướng, sữa đậu nành và mua quà lưu niệm.",
+      "danh_gia": "4.8/5",
+      "danh_gia_diem": 4.8,
+      "anh": "https://tse3.mm.bing.net/th?id=OIP.nBiR1UiYs6NlbrXhm_FL5wHaE6&pid=Api&P=0&h=220",
+      "tu_khoa": "chợ, ăn uống, tham quan, văn hóa"
+    },
+    {
+      "stt": 24,
+      "ten_dia_diem": "Dinh Bảo Đại",
+      "vi_tri": "Lâm Đồng",
+      "tinh_truoc_sap_nhap_2025": "Lâm Đồng",
+      "mo_ta": "Một trong ba dinh thự của vua Bảo Đại tại Đà Lạt, mang phong cách kiến trúc Pháp tinh tế.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://tse3.mm.bing.net/th?id=OIP.FGJV3cBpn9MxjuFGoEEKZAHaE8&pid=Api&P=0&h=220",
+      "tu_khoa": "di tích, lịch sử, văn hóa, tham quan, chụp ảnh"
+    },
+    {
+      "stt": 25,
+      "ten_dia_diem": "Thác Voi",
+      "vi_tri": "Lâm Đồng",
+      "tinh_truoc_sap_nhap_2025": "Lâm Đồng",
+      "mo_ta": "Tọa lạc ở Nam Ban, thác Voi hùng vĩ và hoang sơ, là nơi lý tưởng cho những ai yêu thích khám phá thiên nhiên.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://agotourist.com/wp-content/uploads/2022/05/thac-voi-duoc-chung-nhan-la-thang-canh-quoc-gia.jpg",
+      "tu_khoa": "thác, suối, tham quan, chụp ảnh"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Lâm Đồng - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Lâm Đồng (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Lâm Đồng | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Lâm Đồng — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

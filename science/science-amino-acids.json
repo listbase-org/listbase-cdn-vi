@@ -1,0 +1,380 @@
+{
+  "id": "science-amino-acids",
+  "name": "Bộ dữ liệu thuộc tính Axit Amin toàn diện",
+  "category": "science",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "three_letter",
+      "label": "3-Letter Code",
+      "type": "string"
+    },
+    {
+      "key": "one_letter",
+      "label": "1-Letter Code",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "side_chain",
+      "label": "Side Chain (EN)",
+      "type": "string"
+    },
+    {
+      "key": "polarity",
+      "label": "Polarity (EN)",
+      "type": "string"
+    },
+    {
+      "key": "charge_ph7",
+      "label": "Charge at pH 7",
+      "type": "string"
+    },
+    {
+      "key": "molecular_weight",
+      "label": "Molecular Weight (Da)",
+      "type": "number"
+    },
+    {
+      "key": "codons",
+      "label": "Codons",
+      "type": "string"
+    },
+    {
+      "key": "pI",
+      "label": "Isoelectric Point (pI)",
+      "type": "number"
+    },
+    {
+      "key": "hydropathy",
+      "label": "Hydropathy Index",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Histidine",
+      "three_letter": "His",
+      "one_letter": "H",
+      "type": "Thiết yếu",
+      "side_chain": "Bazơ",
+      "polarity": "Phân cực",
+      "charge_ph7": "Positive",
+      "molecular_weight": 155.16,
+      "codons": "CAU, CAC",
+      "pI": 7.59,
+      "hydropathy": -3.2
+    },
+    {
+      "name": "Isoleucine",
+      "three_letter": "Ile",
+      "one_letter": "I",
+      "type": "Thiết yếu",
+      "side_chain": "Aliphatic",
+      "polarity": "Không phân cực",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 131.18,
+      "codons": "AUU, AUC, AUA",
+      "pI": 6.02,
+      "hydropathy": 4.5
+    },
+    {
+      "name": "Leucine",
+      "three_letter": "Leu",
+      "one_letter": "L",
+      "type": "Thiết yếu",
+      "side_chain": "Aliphatic",
+      "polarity": "Không phân cực",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 131.18,
+      "codons": "UUA, UUG, CUU, CUC, CUA, CUG",
+      "pI": 5.98,
+      "hydropathy": 3.8
+    },
+    {
+      "name": "Lysine",
+      "three_letter": "Lys",
+      "one_letter": "K",
+      "type": "Thiết yếu",
+      "side_chain": "Bazơ",
+      "polarity": "Phân cực",
+      "charge_ph7": "Positive",
+      "molecular_weight": 146.19,
+      "codons": "AAA, AAG",
+      "pI": 9.74,
+      "hydropathy": -3.9
+    },
+    {
+      "name": "Methionine",
+      "three_letter": "Met",
+      "one_letter": "M",
+      "type": "Thiết yếu",
+      "side_chain": "Chứa lưu huỳnh",
+      "polarity": "Không phân cực",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 149.21,
+      "codons": "AUG",
+      "pI": 5.74,
+      "hydropathy": 1.9
+    },
+    {
+      "name": "Phenylalanine",
+      "three_letter": "Phe",
+      "one_letter": "F",
+      "type": "Thiết yếu",
+      "side_chain": "Aromatic",
+      "polarity": "Không phân cực",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 165.19,
+      "codons": "UUU, UUC",
+      "pI": 5.48,
+      "hydropathy": 2.8
+    },
+    {
+      "name": "Threonine",
+      "three_letter": "Thr",
+      "one_letter": "T",
+      "type": "Thiết yếu",
+      "side_chain": "Hydroxyl",
+      "polarity": "Phân cực",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 119.12,
+      "codons": "ACU, ACC, ACA, ACG",
+      "pI": 5.6,
+      "hydropathy": -0.7
+    },
+    {
+      "name": "Tryptophan",
+      "three_letter": "Trp",
+      "one_letter": "W",
+      "type": "Thiết yếu",
+      "side_chain": "Aromatic",
+      "polarity": "Không phân cực",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 204.23,
+      "codons": "UGG",
+      "pI": 5.89,
+      "hydropathy": -0.9
+    },
+    {
+      "name": "Valine",
+      "three_letter": "Val",
+      "one_letter": "V",
+      "type": "Thiết yếu",
+      "side_chain": "Aliphatic",
+      "polarity": "Không phân cực",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 117.15,
+      "codons": "GUU, GUC, GUA, GUG",
+      "pI": 5.96,
+      "hydropathy": 4.2
+    },
+    {
+      "name": "Arginine",
+      "three_letter": "Arg",
+      "one_letter": "R",
+      "type": "Thiết yếu có điều kiện",
+      "side_chain": "Bazơ",
+      "polarity": "Phân cực",
+      "charge_ph7": "Positive",
+      "molecular_weight": 174.2,
+      "codons": "CGU, CGC, CGA, CGG, AGA, AGG",
+      "pI": 10.76,
+      "hydropathy": -4.5
+    },
+    {
+      "name": "Cysteine",
+      "three_letter": "Cys",
+      "one_letter": "C",
+      "type": "Thiết yếu có điều kiện",
+      "side_chain": "Chứa lưu huỳnh",
+      "polarity": "Phân cực",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 121.16,
+      "codons": "UGU, UGC",
+      "pI": 5.07,
+      "hydropathy": 2.5
+    },
+    {
+      "name": "Glutamine",
+      "three_letter": "Gln",
+      "one_letter": "Q",
+      "type": "Thiết yếu có điều kiện",
+      "side_chain": "Amide",
+      "polarity": "Phân cực",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 146.15,
+      "codons": "CAA, CAG",
+      "pI": 5.65,
+      "hydropathy": -3.5
+    },
+    {
+      "name": "Glycine",
+      "three_letter": "Gly",
+      "one_letter": "G",
+      "type": "Thiết yếu có điều kiện",
+      "side_chain": "Aliphatic",
+      "polarity": "Không phân cực",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 75.07,
+      "codons": "GGU, GGC, GGA, GGG",
+      "pI": 5.97,
+      "hydropathy": -0.4
+    },
+    {
+      "name": "Proline",
+      "three_letter": "Pro",
+      "one_letter": "P",
+      "type": "Thiết yếu có điều kiện",
+      "side_chain": "Cyclic",
+      "polarity": "Không phân cực",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 115.13,
+      "codons": "CCU, CCC, CCA, CCG",
+      "pI": 6.3,
+      "hydropathy": -1.6
+    },
+    {
+      "name": "Tyrosine",
+      "three_letter": "Tyr",
+      "one_letter": "Y",
+      "type": "Thiết yếu có điều kiện",
+      "side_chain": "Aromatic",
+      "polarity": "Phân cực",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 181.19,
+      "codons": "UAU, UAC",
+      "pI": 5.66,
+      "hydropathy": -1.3
+    },
+    {
+      "name": "Alanine",
+      "three_letter": "Ala",
+      "one_letter": "A",
+      "type": "Không thiết yếu",
+      "side_chain": "Aliphatic",
+      "polarity": "Không phân cực",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 89.09,
+      "codons": "GCU, GCC, GCA, GCG",
+      "pI": 6,
+      "hydropathy": 1.8
+    },
+    {
+      "name": "Asparagine",
+      "three_letter": "Asn",
+      "one_letter": "N",
+      "type": "Không thiết yếu",
+      "side_chain": "Amide",
+      "polarity": "Phân cực",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 132.12,
+      "codons": "AAU, AAC",
+      "pI": 5.41,
+      "hydropathy": -3.5
+    },
+    {
+      "name": "Axit Aspartic",
+      "three_letter": "Asp",
+      "one_letter": "D",
+      "type": "Không thiết yếu",
+      "side_chain": "Axit",
+      "polarity": "Phân cực",
+      "charge_ph7": "Negative",
+      "molecular_weight": 133.1,
+      "codons": "GAU, GAC",
+      "pI": 2.77,
+      "hydropathy": -3.5
+    },
+    {
+      "name": "Axit Glutamic",
+      "three_letter": "Glu",
+      "one_letter": "E",
+      "type": "Không thiết yếu",
+      "side_chain": "Axit",
+      "polarity": "Phân cực",
+      "charge_ph7": "Negative",
+      "molecular_weight": 147.13,
+      "codons": "GAA, GAG",
+      "pI": 3.22,
+      "hydropathy": -3.5
+    },
+    {
+      "name": "Serine",
+      "three_letter": "Ser",
+      "one_letter": "S",
+      "type": "Không thiết yếu",
+      "side_chain": "Hydroxyl",
+      "polarity": "Phân cực",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 105.09,
+      "codons": "UCU, UCC, UCA, UCG, AGU, AGC",
+      "pI": 5.68,
+      "hydropathy": -0.8
+    },
+    {
+      "name": "Selenocysteine",
+      "three_letter": "Sec",
+      "one_letter": "U",
+      "type": "Đặc biệt",
+      "side_chain": "Chứa selen",
+      "polarity": "Phân cực",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 168.05,
+      "codons": "UGA (context)",
+      "pI": 5.47,
+      "hydropathy": "-"
+    },
+    {
+      "name": "Pyrrolysine",
+      "three_letter": "Pyl",
+      "one_letter": "O",
+      "type": "Đặc biệt",
+      "side_chain": "Pyrrolysine",
+      "polarity": "Phân cực",
+      "charge_ph7": "Neutral",
+      "molecular_weight": 255.31,
+      "codons": "UAG (context)",
+      "pI": "-",
+      "hydropathy": "-"
+    }
+  ],
+  "meta": {
+    "seo_title": "Bảng Axit Amin & Thuộc tính - Tải xuống miễn phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống miễn phí bảng đầy đủ 22 axit amin gồm mã, loại, độ phân cực, khối lượng phân tử và codon. Có sẵn dạng Excel, CSV, PDF.",
+    "title": "Bộ dữ liệu thuộc tính Axit Amin toàn diện",
+    "description": "Bộ dữ liệu này cung cấp bảng chi tiết gồm 22 axit amin phổ biến, bao gồm mã một chữ cái, ba chữ cái, loại, thuộc tính chuỗi bên, độ phân cực, điện tích ở pH 7, khối lượng phân tử, codon, điểm đẳng điện (pI) và chỉ số kỵ nước.",
+    "key_takeaways": [
+      "Truy cập dữ liệu sinh hóa quan trọng cho tất cả 22 axit amin phổ biến.",
+      "Khám phá các thuộc tính thiết yếu như khối lượng phân tử, độ phân cực và pI cho các nghiên cứu về protein.",
+      "Tải xuống thông tin codon di truyền cho từng axit amin để phục vụ các dự án tin sinh học.",
+      "Sử dụng các điểm dữ liệu đa dạng để nâng cao nghiên cứu trong sinh học và hóa học."
+    ],
+    "keywords": [
+      "bảng axit amin",
+      "thuộc tính axit amin",
+      "danh sách codon di truyền",
+      "khối xây dựng protein",
+      "dữ liệu sinh hóa",
+      "tải dữ liệu axit amin csv"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL hoặc các tập स्क्रिप्ट Python của bạn cho các ứng dụng tin sinh học và phân tích trình tự di truyền.",
+      "Sử dụng tệp **Excel** để lọc, sắp xếp và phân tích các thuộc tính axit amin cho các bài tập giáo dục hoặc báo cáo nghiên cứu chi tiết.",
+      "In phiên bản **PDF** để làm tài liệu tham khảo nhanh, tiện dụng trong phòng thí nghiệm, lớp học hoặc để học ngoại tuyến.",
+      "Tận dụng bộ dữ liệu này để phát triển các công cụ giáo dục hoặc bảng điều khiển tương tác hiển thị các đặc điểm của axit amin và vai trò của chúng trong protein."
+    ]
+  },
+  "record_count": 22,
+  "title": "Bộ dữ liệu thuộc tính Axit Amin toàn diện"
+}

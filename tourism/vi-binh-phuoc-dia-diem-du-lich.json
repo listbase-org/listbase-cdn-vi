@@ -1,0 +1,126 @@
+{
+  "id": "vi-binh-phuoc-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Bình Phước",
+  "title": "Địa điểm du lịch Bình Phước",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Bình Phước (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 186,
+      "ten_dia_diem": "Núi Bà Rá",
+      "vi_tri": "Bình Phước",
+      "tinh_truoc_sap_nhap_2025": "Bình Phước",
+      "mo_ta": "Ngọn núi cao nhất Bình Phước, có cáp treo dẫn lên đỉnh",
+      "danh_gia": "4.2/5",
+      "danh_gia_diem": 4.2,
+      "anh": "https://media.baobinhphuoc.com.vn/upload/news/3_2021/b5_12320005032021.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 187,
+      "ten_dia_diem": "Trảng cỏ Bù Lạch",
+      "vi_tri": "Bình Phước",
+      "tinh_truoc_sap_nhap_2025": "Bình Phước",
+      "mo_ta": "Một cánh đồng cỏ rộng lớn, xanh mướt, được bao quanh bởi những khu rừng nguyên sinh và hồ nước",
+      "danh_gia": "4.4/5",
+      "danh_gia_diem": 4.4,
+      "anh": "https://www.sgtiepthi.vn/wp-content/uploads/2023/06/trang-co-bu-lach-132113.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 188,
+      "ten_dia_diem": "Khu di tích Tà Thiết",
+      "vi_tri": "Bình Phước",
+      "tinh_truoc_sap_nhap_2025": "Bình Phước",
+      "mo_ta": "Nơi lưu giữ nhiều dấu ấn lịch sử của chiến tranh Việt Nam, với các di tích như hầm chỉ huy và kho quân khí",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStyK1QxPdJT9j3sA8TKlv7bOSSKOkSNfsXXw&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 189,
+      "ten_dia_diem": "Hồ Thác Mơ",
+      "vi_tri": "Bình Phước",
+      "tinh_truoc_sap_nhap_2025": "Bình Phước",
+      "mo_ta": "Hồ nhân tạo lớn với cảnh quan thiên nhiên đẹp mắt",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://mia.vn/media/uploads/blog-du-lich/ho-thuy-dien-thac-mo-diem-du-lich-tu-tuc-cho-nhung-kham-pha-tuyet-voi-1656424836.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 190,
+      "ten_dia_diem": "Làng nghề điều Bình Phước",
+      "vi_tri": "Bình Phước",
+      "tinh_truoc_sap_nhap_2025": "Bình Phước",
+      "mo_ta": "Bình Phước nổi tiếng là thủ phủ của điều, nơi du khách có thể tham quan các làng nghề chế biến hạt điều truyền thống và tìm hiểu quy trình sản xuất.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://danviet.mediacdn.vn/zoom/600_315/296231569849192448/2022/4/20/vuon-dieu-2-16504549834621494202370-137-67-625-1000-crop-1650455485523479128526.jpg",
+      "tu_khoa": ""
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Bình Phước - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Bình Phước (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Bình Phước | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Bình Phước — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

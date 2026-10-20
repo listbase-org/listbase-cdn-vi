@@ -1,0 +1,216 @@
+{
+  "id": "vi-hai-phong-quan-huyen-2019",
+  "name": "Hải Phòng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Hải Phòng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 15 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Hải Phòng theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 7 Quận. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/HP.json). (15 district-level units of Hải Phòng under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "HP-01",
+      "name": "An Dương",
+      "name_full": "Huyện An Dương",
+      "slug": "an-duong",
+      "division_type": "Huyện",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 18
+    },
+    {
+      "code": "HP-02",
+      "name": "An Lão",
+      "name_full": "Huyện An Lão",
+      "slug": "an-lao",
+      "division_type": "Huyện",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 17
+    },
+    {
+      "code": "HP-03",
+      "name": "Bạch Long Vĩ",
+      "name_full": "Huyện Bạch Long Vĩ",
+      "slug": "bach-long-vi",
+      "division_type": "Huyện",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 0
+    },
+    {
+      "code": "HP-04",
+      "name": "Cát Hải",
+      "name_full": "Huyện Cát Hải",
+      "slug": "cat-hai",
+      "division_type": "Huyện",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 12
+    },
+    {
+      "code": "HP-05",
+      "name": "Đồ Sơn",
+      "name_full": "Quận Đồ Sơn",
+      "slug": "do-son",
+      "division_type": "Quận",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 7
+    },
+    {
+      "code": "HP-06",
+      "name": "Dương Kinh",
+      "name_full": "Quận Dương Kinh",
+      "slug": "duong-kinh",
+      "division_type": "Quận",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 6
+    },
+    {
+      "code": "HP-07",
+      "name": "Hải An",
+      "name_full": "Quận Hải An",
+      "slug": "hai-an",
+      "division_type": "Quận",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 9
+    },
+    {
+      "code": "HP-08",
+      "name": "Hồng Bàng",
+      "name_full": "Quận Hồng Bàng",
+      "slug": "hong-bang",
+      "division_type": "Quận",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 12
+    },
+    {
+      "code": "HP-09",
+      "name": "Kiến An",
+      "name_full": "Quận Kiến An",
+      "slug": "kien-an",
+      "division_type": "Quận",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 11
+    },
+    {
+      "code": "HP-10",
+      "name": "Kiến Thụy",
+      "name_full": "Huyện Kiến Thụy",
+      "slug": "kien-thuy",
+      "division_type": "Huyện",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 19
+    },
+    {
+      "code": "HP-11",
+      "name": "Lê Chân",
+      "name_full": "Quận Lê Chân",
+      "slug": "le-chan",
+      "division_type": "Quận",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 15
+    },
+    {
+      "code": "HP-12",
+      "name": "Ngô Quyền",
+      "name_full": "Quận Ngô Quyền",
+      "slug": "ngo-quyen",
+      "division_type": "Quận",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 13
+    },
+    {
+      "code": "HP-13",
+      "name": "Thủy Nguyên",
+      "name_full": "Huyện Thủy Nguyên",
+      "slug": "thuy-nguyen",
+      "division_type": "Huyện",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 37
+    },
+    {
+      "code": "HP-14",
+      "name": "Tiên Lãng",
+      "name_full": "Huyện Tiên Lãng",
+      "slug": "tien-lang",
+      "division_type": "Huyện",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 23
+    },
+    {
+      "code": "HP-15",
+      "name": "Vĩnh Bảo",
+      "name_full": "Huyện Vĩnh Bảo",
+      "slug": "vinh-bao",
+      "division_type": "Huyện",
+      "province_code": "HP",
+      "province_name": "Hải Phòng",
+      "ward_count": 30
+    }
+  ],
+  "meta": {
+    "title": "Hải Phòng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 15 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Hải Phòng theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 7 Quận. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/HP.json). (15 district-level units of Hải Phòng under the pre-2025-merger 3-tier hierarchy.) Chứa 15 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Hải Phòng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Hải Phòng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 15 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 15 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

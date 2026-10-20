@@ -1,0 +1,176 @@
+{
+  "id": "vi-soc-trang-quan-huyen-2019",
+  "name": "Sóc Trăng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Sóc Trăng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 11 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Sóc Trăng theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 10 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/ST.json). (11 district-level units of Sóc Trăng under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "ST-01",
+      "name": "Châu Thành",
+      "name_full": "Huyện Châu Thành",
+      "slug": "chau-thanh",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 8
+    },
+    {
+      "code": "ST-02",
+      "name": "Cù Lao Dung",
+      "name_full": "Huyện Cù Lao Dung",
+      "slug": "cu-lao-dung",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 8
+    },
+    {
+      "code": "ST-03",
+      "name": "Kế Sách",
+      "name_full": "Huyện Kế Sách",
+      "slug": "ke-sach",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 13
+    },
+    {
+      "code": "ST-04",
+      "name": "Long Phú",
+      "name_full": "Huyện Long Phú",
+      "slug": "long-phu",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 11
+    },
+    {
+      "code": "ST-05",
+      "name": "Mỹ Tú",
+      "name_full": "Huyện Mỹ Tú",
+      "slug": "my-tu",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 9
+    },
+    {
+      "code": "ST-06",
+      "name": "Mỹ Xuyên",
+      "name_full": "Huyện Mỹ Xuyên",
+      "slug": "my-xuyen",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 12
+    },
+    {
+      "code": "ST-07",
+      "name": "Ngã Năm",
+      "name_full": "Huyện Ngã Năm",
+      "slug": "nga-nam",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 8
+    },
+    {
+      "code": "ST-08",
+      "name": "Sóc Trăng",
+      "name_full": "Thành phố Sóc Trăng",
+      "slug": "soc-trang",
+      "division_type": "Thành phố",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 11
+    },
+    {
+      "code": "ST-09",
+      "name": "Thạnh Trị",
+      "name_full": "Huyện Thạnh Trị",
+      "slug": "thanh-tri",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 10
+    },
+    {
+      "code": "ST-10",
+      "name": "Trần Đề",
+      "name_full": "Huyện Trần Đề",
+      "slug": "tran-de",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 12
+    },
+    {
+      "code": "ST-11",
+      "name": "Vĩnh Châu",
+      "name_full": "Huyện Vĩnh Châu",
+      "slug": "vinh-chau",
+      "division_type": "Huyện",
+      "province_code": "ST",
+      "province_name": "Sóc Trăng",
+      "ward_count": 10
+    }
+  ],
+  "meta": {
+    "title": "Sóc Trăng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 11 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Sóc Trăng theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 10 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/ST.json). (11 district-level units of Sóc Trăng under the pre-2025-merger 3-tier hierarchy.) Chứa 11 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Sóc Trăng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Sóc Trăng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 11 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 11 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

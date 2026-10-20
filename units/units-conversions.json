@@ -1,0 +1,645 @@
+{
+  "id": "units-conversions",
+  "name": "Bộ Dữ liệu Yếu tố Chuyển đổi Đơn vị Toàn diện",
+  "category": "units",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "from_unit",
+      "label": "From Unit (EN)",
+      "type": "string"
+    },
+    {
+      "key": "to_unit",
+      "label": "To Unit (EN)",
+      "type": "string"
+    },
+    {
+      "key": "factor",
+      "label": "Conversion Factor",
+      "type": "number"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "formula",
+      "label": "Formula",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "from_unit": "Inch",
+      "to_unit": "Centimet",
+      "factor": 2.54,
+      "category": "Chiều dài",
+      "formula": "1 inch = 2.54 cm"
+    },
+    {
+      "from_unit": "Foot",
+      "to_unit": "Mét",
+      "factor": 0.3048,
+      "category": "Chiều dài",
+      "formula": "1 ft = 0.3048 m"
+    },
+    {
+      "from_unit": "Yard",
+      "to_unit": "Mét",
+      "factor": 0.9144,
+      "category": "Chiều dài",
+      "formula": "1 yd = 0.9144 m"
+    },
+    {
+      "from_unit": "Dặm",
+      "to_unit": "Kilomet",
+      "factor": 1.60934,
+      "category": "Chiều dài",
+      "formula": "1 mi = 1.60934 km"
+    },
+    {
+      "from_unit": "Hải lý",
+      "to_unit": "Kilomet",
+      "factor": 1.852,
+      "category": "Chiều dài",
+      "formula": "1 nmi = 1.852 km"
+    },
+    {
+      "from_unit": "Mét",
+      "to_unit": "Foot",
+      "factor": 3.28084,
+      "category": "Chiều dài",
+      "formula": "1 m = 3.28084 ft"
+    },
+    {
+      "from_unit": "Kilomet",
+      "to_unit": "Dặm",
+      "factor": 0.621371,
+      "category": "Chiều dài",
+      "formula": "1 km = 0.621371 mi"
+    },
+    {
+      "from_unit": "Centimet",
+      "to_unit": "Inch",
+      "factor": 0.393701,
+      "category": "Chiều dài",
+      "formula": "1 cm = 0.393701 in"
+    },
+    {
+      "from_unit": "Milimet",
+      "to_unit": "Inch",
+      "factor": 0.0393701,
+      "category": "Chiều dài",
+      "formula": "1 mm = 0.0393701 in"
+    },
+    {
+      "from_unit": "Micromet",
+      "to_unit": "Inch",
+      "factor": 0.0000393701,
+      "category": "Chiều dài",
+      "formula": "1 µm = 0.0000393701 in"
+    },
+    {
+      "from_unit": "Pound",
+      "to_unit": "Kilogram",
+      "factor": 0.453592,
+      "category": "Cân nặng",
+      "formula": "1 lb = 0.453592 kg"
+    },
+    {
+      "from_unit": "Ounce",
+      "to_unit": "Gram",
+      "factor": 28.3495,
+      "category": "Cân nặng",
+      "formula": "1 oz = 28.3495 g"
+    },
+    {
+      "from_unit": "Kilogram",
+      "to_unit": "Pound",
+      "factor": 2.20462,
+      "category": "Cân nặng",
+      "formula": "1 kg = 2.20462 lb"
+    },
+    {
+      "from_unit": "Gram",
+      "to_unit": "Ounce",
+      "factor": 0.035274,
+      "category": "Cân nặng",
+      "formula": "1 g = 0.035274 oz"
+    },
+    {
+      "from_unit": "Stone",
+      "to_unit": "Kilogram",
+      "factor": 6.35029,
+      "category": "Cân nặng",
+      "formula": "1 st = 6.35029 kg"
+    },
+    {
+      "from_unit": "Tấn (Mỹ)",
+      "to_unit": "Kilogram",
+      "factor": 907.185,
+      "category": "Cân nặng",
+      "formula": "1 US ton = 907.185 kg"
+    },
+    {
+      "from_unit": "Tấn (Anh)",
+      "to_unit": "Kilogram",
+      "factor": 1016.05,
+      "category": "Cân nặng",
+      "formula": "1 UK ton = 1016.05 kg"
+    },
+    {
+      "from_unit": "Tấn hệ mét",
+      "to_unit": "Kilogram",
+      "factor": 1000,
+      "category": "Cân nặng",
+      "formula": "1 t = 1000 kg"
+    },
+    {
+      "from_unit": "Carat",
+      "to_unit": "Gram",
+      "factor": 0.2,
+      "category": "Cân nặng",
+      "formula": "1 ct = 0.2 g"
+    },
+    {
+      "from_unit": "Ounce Troy",
+      "to_unit": "Gram",
+      "factor": 31.1035,
+      "category": "Cân nặng",
+      "formula": "1 oz t = 31.1035 g"
+    },
+    {
+      "from_unit": "Gallon (Mỹ)",
+      "to_unit": "Lít",
+      "factor": 3.78541,
+      "category": "Thể tích",
+      "formula": "1 US gal = 3.78541 L"
+    },
+    {
+      "from_unit": "Gallon (Anh)",
+      "to_unit": "Lít",
+      "factor": 4.54609,
+      "category": "Thể tích",
+      "formula": "1 UK gal = 4.54609 L"
+    },
+    {
+      "from_unit": "Quart (Mỹ)",
+      "to_unit": "Lít",
+      "factor": 0.946353,
+      "category": "Thể tích",
+      "formula": "1 US qt = 0.946353 L"
+    },
+    {
+      "from_unit": "Pint (Mỹ)",
+      "to_unit": "Lít",
+      "factor": 0.473176,
+      "category": "Thể tích",
+      "formula": "1 US pt = 0.473176 L"
+    },
+    {
+      "from_unit": "Cốc (Mỹ)",
+      "to_unit": "Mililit",
+      "factor": 236.588,
+      "category": "Thể tích",
+      "formula": "1 US cup = 236.588 mL"
+    },
+    {
+      "from_unit": "Ounce chất lỏng (Mỹ)",
+      "to_unit": "Mililit",
+      "factor": 29.5735,
+      "category": "Thể tích",
+      "formula": "1 US fl oz = 29.5735 mL"
+    },
+    {
+      "from_unit": "Thìa canh",
+      "to_unit": "Mililit",
+      "factor": 14.7868,
+      "category": "Thể tích",
+      "formula": "1 tbsp = 14.7868 mL"
+    },
+    {
+      "from_unit": "Thìa cà phê",
+      "to_unit": "Mililit",
+      "factor": 4.92892,
+      "category": "Thể tích",
+      "formula": "1 tsp = 4.92892 mL"
+    },
+    {
+      "from_unit": "Lít",
+      "to_unit": "Gallon (Mỹ)",
+      "factor": 0.264172,
+      "category": "Thể tích",
+      "formula": "1 L = 0.264172 US gal"
+    },
+    {
+      "from_unit": "Mét khối",
+      "to_unit": "Lít",
+      "factor": 1000,
+      "category": "Thể tích",
+      "formula": "1 m³ = 1000 L"
+    },
+    {
+      "from_unit": "Foot khối",
+      "to_unit": "Lít",
+      "factor": 28.3168,
+      "category": "Thể tích",
+      "formula": "1 ft³ = 28.3168 L"
+    },
+    {
+      "from_unit": "Inch khối",
+      "to_unit": "Mililit",
+      "factor": 16.3871,
+      "category": "Thể tích",
+      "formula": "1 in³ = 16.3871 mL"
+    },
+    {
+      "from_unit": "Thùng (dầu)",
+      "to_unit": "Lít",
+      "factor": 158.987,
+      "category": "Thể tích",
+      "formula": "1 bbl = 158.987 L"
+    },
+    {
+      "from_unit": "Foot vuông",
+      "to_unit": "Mét vuông",
+      "factor": 0.092903,
+      "category": "Diện tích",
+      "formula": "1 ft² = 0.092903 m²"
+    },
+    {
+      "from_unit": "Yard vuông",
+      "to_unit": "Mét vuông",
+      "factor": 0.836127,
+      "category": "Diện tích",
+      "formula": "1 yd² = 0.836127 m²"
+    },
+    {
+      "from_unit": "Dặm vuông",
+      "to_unit": "Kilômét vuông",
+      "factor": 2.58999,
+      "category": "Diện tích",
+      "formula": "1 mi² = 2.58999 km²"
+    },
+    {
+      "from_unit": "Mẫu Anh",
+      "to_unit": "Hecta",
+      "factor": 0.404686,
+      "category": "Diện tích",
+      "formula": "1 acre = 0.404686 ha"
+    },
+    {
+      "from_unit": "Mẫu Anh",
+      "to_unit": "Mét vuông",
+      "factor": 4046.86,
+      "category": "Diện tích",
+      "formula": "1 acre = 4046.86 m²"
+    },
+    {
+      "from_unit": "Hecta",
+      "to_unit": "Mẫu Anh",
+      "factor": 2.47105,
+      "category": "Diện tích",
+      "formula": "1 ha = 2.47105 acres"
+    },
+    {
+      "from_unit": "Mét vuông",
+      "to_unit": "Foot vuông",
+      "factor": 10.7639,
+      "category": "Diện tích",
+      "formula": "1 m² = 10.7639 ft²"
+    },
+    {
+      "from_unit": "Kilômét vuông",
+      "to_unit": "Dặm vuông",
+      "factor": 0.386102,
+      "category": "Diện tích",
+      "formula": "1 km² = 0.386102 mi²"
+    },
+    {
+      "from_unit": "Rai (Thái)",
+      "to_unit": "Mét vuông",
+      "factor": 1600,
+      "category": "Diện tích",
+      "formula": "1 rai = 1600 m²"
+    },
+    {
+      "from_unit": "Dặm trên giờ",
+      "to_unit": "Kilômét trên giờ",
+      "factor": 1.60934,
+      "category": "Tốc độ",
+      "formula": "1 mph = 1.60934 km/h"
+    },
+    {
+      "from_unit": "Kilômét trên giờ",
+      "to_unit": "Dặm trên giờ",
+      "factor": 0.621371,
+      "category": "Tốc độ",
+      "formula": "1 km/h = 0.621371 mph"
+    },
+    {
+      "from_unit": "Hải lý/giờ",
+      "to_unit": "Kilômét trên giờ",
+      "factor": 1.852,
+      "category": "Tốc độ",
+      "formula": "1 kn = 1.852 km/h"
+    },
+    {
+      "from_unit": "Mét trên giây",
+      "to_unit": "Kilômét trên giờ",
+      "factor": 3.6,
+      "category": "Tốc độ",
+      "formula": "1 m/s = 3.6 km/h"
+    },
+    {
+      "from_unit": "Feet trên giây",
+      "to_unit": "Mét trên giây",
+      "factor": 0.3048,
+      "category": "Tốc độ",
+      "formula": "1 ft/s = 0.3048 m/s"
+    },
+    {
+      "from_unit": "Mach",
+      "to_unit": "Kilômét trên giờ",
+      "factor": 1234.8,
+      "category": "Tốc độ",
+      "formula": "1 Mach ≈ 1234.8 km/h (at sea level)"
+    },
+    {
+      "from_unit": "Độ C sang độ F",
+      "to_unit": "Công thức",
+      "factor": 1.8,
+      "category": "Nhiệt độ",
+      "formula": "°F = (°C × 1.8) + 32"
+    },
+    {
+      "from_unit": "Độ F sang độ C",
+      "to_unit": "Công thức",
+      "factor": 0.5556,
+      "category": "Nhiệt độ",
+      "formula": "°C = (°F - 32) × 5/9"
+    },
+    {
+      "from_unit": "Độ C sang Kelvin",
+      "to_unit": "Công thức",
+      "factor": 1,
+      "category": "Nhiệt độ",
+      "formula": "K = °C + 273.15"
+    },
+    {
+      "from_unit": "Kelvin sang độ C",
+      "to_unit": "Công thức",
+      "factor": 1,
+      "category": "Nhiệt độ",
+      "formula": "°C = K - 273.15"
+    },
+    {
+      "from_unit": "Calo",
+      "to_unit": "Joule",
+      "factor": 4.184,
+      "category": "Năng lượng",
+      "formula": "1 cal = 4.184 J"
+    },
+    {
+      "from_unit": "Kilocalo",
+      "to_unit": "Kilojoule",
+      "factor": 4.184,
+      "category": "Năng lượng",
+      "formula": "1 kcal = 4.184 kJ"
+    },
+    {
+      "from_unit": "BTU",
+      "to_unit": "Joule",
+      "factor": 1055.06,
+      "category": "Năng lượng",
+      "formula": "1 BTU = 1055.06 J"
+    },
+    {
+      "from_unit": "Watt-giờ",
+      "to_unit": "Joule",
+      "factor": 3600,
+      "category": "Năng lượng",
+      "formula": "1 Wh = 3600 J"
+    },
+    {
+      "from_unit": "Kilowatt-giờ",
+      "to_unit": "Megajoule",
+      "factor": 3.6,
+      "category": "Năng lượng",
+      "formula": "1 kWh = 3.6 MJ"
+    },
+    {
+      "from_unit": "Electronvolt",
+      "to_unit": "Joule",
+      "factor": 1.60218e-19,
+      "category": "Năng lượng",
+      "formula": "1 eV = 1.60218×10⁻¹⁹ J"
+    },
+    {
+      "from_unit": "PSI",
+      "to_unit": "Bar",
+      "factor": 0.0689476,
+      "category": "Áp suất",
+      "formula": "1 psi = 0.0689476 bar"
+    },
+    {
+      "from_unit": "Bar",
+      "to_unit": "PSI",
+      "factor": 14.5038,
+      "category": "Áp suất",
+      "formula": "1 bar = 14.5038 psi"
+    },
+    {
+      "from_unit": "Át-mốt-phe",
+      "to_unit": "Bar",
+      "factor": 1.01325,
+      "category": "Áp suất",
+      "formula": "1 atm = 1.01325 bar"
+    },
+    {
+      "from_unit": "Pascal",
+      "to_unit": "Bar",
+      "factor": 0.00001,
+      "category": "Áp suất",
+      "formula": "1 Pa = 0.00001 bar"
+    },
+    {
+      "from_unit": "mmHg",
+      "to_unit": "Pascal",
+      "factor": 133.322,
+      "category": "Áp suất",
+      "formula": "1 mmHg = 133.322 Pa"
+    },
+    {
+      "from_unit": "Byte",
+      "to_unit": "Bit",
+      "factor": 8,
+      "category": "Kỹ thuật số",
+      "formula": "1 B = 8 bits"
+    },
+    {
+      "from_unit": "Kilobyte",
+      "to_unit": "Byte",
+      "factor": 1024,
+      "category": "Kỹ thuật số",
+      "formula": "1 KB = 1024 B"
+    },
+    {
+      "from_unit": "Megabyte",
+      "to_unit": "Kilobyte",
+      "factor": 1024,
+      "category": "Kỹ thuật số",
+      "formula": "1 MB = 1024 KB"
+    },
+    {
+      "from_unit": "Gigabyte",
+      "to_unit": "Megabyte",
+      "factor": 1024,
+      "category": "Kỹ thuật số",
+      "formula": "1 GB = 1024 MB"
+    },
+    {
+      "from_unit": "Terabyte",
+      "to_unit": "Gigabyte",
+      "factor": 1024,
+      "category": "Kỹ thuật số",
+      "formula": "1 TB = 1024 GB"
+    },
+    {
+      "from_unit": "Petabyte",
+      "to_unit": "Terabyte",
+      "factor": 1024,
+      "category": "Kỹ thuật số",
+      "formula": "1 PB = 1024 TB"
+    },
+    {
+      "from_unit": "Phút",
+      "to_unit": "Giây",
+      "factor": 60,
+      "category": "Thời gian",
+      "formula": "1 min = 60 s"
+    },
+    {
+      "from_unit": "Giờ",
+      "to_unit": "Phút",
+      "factor": 60,
+      "category": "Thời gian",
+      "formula": "1 h = 60 min"
+    },
+    {
+      "from_unit": "Ngày",
+      "to_unit": "Giờ",
+      "factor": 24,
+      "category": "Thời gian",
+      "formula": "1 day = 24 h"
+    },
+    {
+      "from_unit": "Tuần",
+      "to_unit": "Ngày",
+      "factor": 7,
+      "category": "Thời gian",
+      "formula": "1 week = 7 days"
+    },
+    {
+      "from_unit": "Năm",
+      "to_unit": "Ngày",
+      "factor": 365.25,
+      "category": "Thời gian",
+      "formula": "1 year ≈ 365.25 days"
+    },
+    {
+      "from_unit": "Thập kỷ",
+      "to_unit": "Năm",
+      "factor": 10,
+      "category": "Thời gian",
+      "formula": "1 decade = 10 years"
+    },
+    {
+      "from_unit": "Thế kỷ",
+      "to_unit": "Năm",
+      "factor": 100,
+      "category": "Thời gian",
+      "formula": "1 century = 100 years"
+    },
+    {
+      "from_unit": "Độ",
+      "to_unit": "Radian",
+      "factor": 0.0174533,
+      "category": "Góc",
+      "formula": "1° = π/180 rad"
+    },
+    {
+      "from_unit": "Radian",
+      "to_unit": "Độ",
+      "factor": 57.2958,
+      "category": "Góc",
+      "formula": "1 rad = 180/π °"
+    },
+    {
+      "from_unit": "Gradian",
+      "to_unit": "Độ",
+      "factor": 0.9,
+      "category": "Góc",
+      "formula": "1 gon = 0.9°"
+    },
+    {
+      "from_unit": "Vòng",
+      "to_unit": "Độ",
+      "factor": 360,
+      "category": "Góc",
+      "formula": "1 rev = 360°"
+    },
+    {
+      "from_unit": "MPG (US)",
+      "to_unit": "L/100km",
+      "factor": 235.215,
+      "category": "Fuel Economy",
+      "formula": "L/100km = 235.215 / MPG"
+    },
+    {
+      "from_unit": "MPG (UK)",
+      "to_unit": "L/100km",
+      "factor": 282.481,
+      "category": "Fuel Economy",
+      "formula": "L/100km = 282.481 / MPG"
+    },
+    {
+      "from_unit": "km/L",
+      "to_unit": "L/100km",
+      "factor": 100,
+      "category": "Fuel Economy",
+      "formula": "L/100km = 100 / km/L"
+    }
+  ],
+  "meta": {
+    "seo_title": "Yếu tố Chuyển đổi Đơn vị - Tải xuống miễn phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống miễn phí 83 yếu tố chuyển đổi đơn vị cho độ dài, trọng lượng, thể tích và hơn thế nữa. Có sẵn định dạng Excel, CSV, PDF cho nhiều ứng dụng.",
+    "title": "Bộ Dữ liệu Yếu tố Chuyển đổi Đơn vị Toàn diện",
+    "description": "Bộ dữ liệu này cung cấp 83 yếu tố chuyển đổi đơn vị thiết yếu trên nhiều danh mục khác nhau như độ dài, trọng lượng và thể tích. Mỗi mục bao gồm 'Đơn vị gốc', 'Đơn vị đích', 'Yếu tố chuyển đổi', 'Danh mục' và 'Công thức' để dễ tham khảo.",
+    "key_takeaways": [
+      "Truy cập 83 yếu tố chuyển đổi đơn vị quan trọng cho các danh mục đa dạng.",
+      "Khám phá ngay các mối quan hệ đơn vị phổ biến và khoa học.",
+      "Tải xuống dữ liệu sẵn sàng sử dụng cho kỹ thuật, khoa học và công việc hàng ngày.",
+      "Tận dụng các công thức chính xác để chuyển đổi chính xác trong dự án của bạn."
+    ],
+    "keywords": [
+      "yếu tố chuyển đổi đơn vị excel",
+      "tỷ lệ chuyển đổi csv",
+      "dữ liệu chuyển đổi hệ mét hệ đo lường",
+      "bộ dữ liệu chuyển đổi đơn vị",
+      "công thức chuyển đổi đơn vị",
+      "tải xuống yếu tố chuyển đổi"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL hoặc các tập lệnh Python của bạn để cung cấp năng lượng cho các công cụ chuyển đổi đơn vị tùy chỉnh hoặc ứng dụng xử lý dữ liệu.",
+      "Sử dụng tệp **Excel** để nhanh chóng lọc, sắp xếp và áp dụng các yếu tố chuyển đổi trong các mô hình tài chính hoặc tính toán khoa học của bạn.",
+      "In phiên bản **PDF** để có một hướng dẫn tham khảo ngoại tuyến tiện dụng trong các lớp học, hội thảo hoặc để tự học.",
+      "Tích hợp bộ dữ liệu này vào phần mềm giáo dục hoặc nền tảng nghiên cứu để cung cấp các chuyển đổi đơn vị chính xác và đáng tin cậy."
+    ]
+  },
+  "record_count": 83,
+  "title": "Bộ Dữ liệu Yếu tố Chuyển đổi Đơn vị Toàn diện"
+}

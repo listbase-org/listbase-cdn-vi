@@ -1,0 +1,126 @@
+{
+  "id": "vi-ha-noi-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Hà Nội",
+  "title": "Địa điểm du lịch Hà Nội",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Hà Nội (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "number"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 281,
+      "ten_dia_diem": "Lăng Chủ tịch Hồ Chí Minh",
+      "vi_tri": "Hà Nội",
+      "tinh_truoc_sap_nhap_2025": "Hà Nội",
+      "mo_ta": "Lăng Chủ tịch Hồ Chí Minh (Hà Nội) là nơi lưu giữ thi hài của Chủ tịch Hồ Chí Minh, trở thành biểu tượng của lòng tôn kính và biết ơn của nhân dân Việt Nam.",
+      "danh_gia": "4.2",
+      "danh_gia_diem": 4.2,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMHx0pkR_hUf4DaJq8ywbEqYONg2J014vbnw&s",
+      "tu_khoa": "du lịch, thiên nhiên, cảnh đẹp"
+    },
+    {
+      "stt": 282,
+      "ten_dia_diem": "Hồ Gươm",
+      "vi_tri": "Hà Nội",
+      "tinh_truoc_sap_nhap_2025": "Hà Nội",
+      "mo_ta": "Hồ Gươm (Hà Nội) là trung tâm của thủ đô, nổi bật với Tháp Rùa và cầu Thê Húc. Đây là điểm du lịch hấp dẫn, nơi người dân thư giãn và là biểu tượng của Hà Nội.",
+      "danh_gia": "3.2",
+      "danh_gia_diem": 3.2,
+      "anh": "https://images.vietnamtourism.gov.vn/vn/images/2021/ho_guom.jpg",
+      "tu_khoa": "lịch sử, văn hóa, khám phá"
+    },
+    {
+      "stt": 283,
+      "ten_dia_diem": "Văn Miếu - Quốc Tử Giám",
+      "vi_tri": "Hà Nội",
+      "tinh_truoc_sap_nhap_2025": "Hà Nội",
+      "mo_ta": "Văn Miếu - Quốc Tử Giám (Hà Nội) là một di tích lịch sử và văn hóa, nơi thờ Khổng Tử và là trường đại học đầu tiên của Việt Nam. Đây là điểm tham quan giáo dục và văn hóa.",
+      "danh_gia": "3.1",
+      "danh_gia_diem": 3.1,
+      "anh": "https://honglam.vn/pic/general/images/van-mieu-quoc-tu-giam%20(5).png",
+      "tu_khoa": "địa danh nổi tiếng, biểu tượng"
+    },
+    {
+      "stt": 284,
+      "ten_dia_diem": "Hoàng thành Thăng Long",
+      "vi_tri": "Hà Nội",
+      "tinh_truoc_sap_nhap_2025": "Hà Nội",
+      "mo_ta": "Hoàng Thành Thăng Long (Hà Nội) là di tích lịch sử quan trọng của Việt Nam, từng là trung tâm quyền lực của nhiều triều đại. Di tích này mang đậm dấu ấn lịch sử và văn hóa dân tộc.",
+      "danh_gia": "3.6",
+      "danh_gia_diem": 3.6,
+      "anh": "https://hoangthanhthanglong.vn/wp-content/uploads/2023/05/hoangthanh.jpg",
+      "tu_khoa": "thư giãn, yên bình, du lịch sinh thái"
+    },
+    {
+      "stt": 285,
+      "ten_dia_diem": "Cầu Long Biên",
+      "vi_tri": "Hà Nội",
+      "tinh_truoc_sap_nhap_2025": "Hà Nội",
+      "mo_ta": "Cầu Long Biên (Hà Nội) là một trong những cây cầu lâu đời nhất, mang đậm giá trị lịch sử. Cầu nối liền hai bờ sông Hồng và là biểu tượng của thủ đô.",
+      "danh_gia": "3.5",
+      "danh_gia_diem": 3.5,
+      "anh": "https://i2.ex-cdn.com/crystalbay.com/files/content/2024/09/12/cau-long-bien-1-1709.jpg",
+      "tu_khoa": "bảo tồn, động vật, thực vật"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Hà Nội - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Hà Nội (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Hà Nội | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Hà Nội — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "vi-ba-ria-vung-tau-san-bay",
+  "name": "Sân bay — Bà Rịa – Vũng Tàu",
+  "title": "Sân bay — Bà Rịa – Vũng Tàu",
+  "description": "Danh sách các sân bay và phi trường tại Bà Rịa – Vũng Tàu (Việt Nam / VN) — bao gồm mã ICAO/IATA, thành phố, tọa độ WGS84, độ cao (feet) và múi giờ. Tập hợp con của danh sách sân bay quốc gia, được lọc theo subdivision='Ba-Rịa-Vung-Tau' trong nguồn dữ liệu mborsetti/airportsdata. (Airports in Ba Ria – Vung Tau, Vietnam — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list with subdivision='Ba-Rịa-Vung-Tau' in upstream source.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "VVCS",
+      "iata": "VCS",
+      "name": "Co Ong Airport",
+      "city": "Con Ong",
+      "subdivision": "Ba-Rịa-Vung-Tau",
+      "subdivision_native": "Bà Rịa – Vũng Tàu",
+      "country": "VN",
+      "country_native": "Việt Nam",
+      "elevation_ft": 20,
+      "latitude": 8.73183,
+      "longitude": 106.633,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "lid": ""
+    },
+    {
+      "icao": "VVVT",
+      "iata": "VTG",
+      "name": "Vung Tau Airport",
+      "city": "Vung Tau",
+      "subdivision": "Ba-Rịa-Vung-Tau",
+      "subdivision_native": "Bà Rịa – Vũng Tàu",
+      "country": "VN",
+      "country_native": "Việt Nam",
+      "elevation_ft": 13,
+      "latitude": 10.3725,
+      "longitude": 107.095,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Sân bay — Bà Rịa – Vũng Tàu - Tải miễn phí",
+    "description": "Danh sách các sân bay và phi trường tại Bà Rịa – Vũng Tàu (Việt Nam / VN) — bao gồm mã ICAO/IATA, thành phố, tọa độ WGS84, độ cao (feet) và múi giờ. Tập hợp con của danh sách sân bay quốc gia, được lọc theo subdivision='Ba-Rịa-Vung-Tau' trong nguồn dữ liệu mborsetti/airportsdata. (Airports in Ba Ria – Vung Tau, Vietnam — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list with subdivision='Ba-Rịa-Vung-Tau' in upstream source.) Chứa 2 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Sân bay — Bà Rịa – Vũng Tàu | ListBase",
+    "seo_description": "Tải xuống Sân bay — Bà Rịa – Vũng Tàu — 2 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 2 bản ghi / 13 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

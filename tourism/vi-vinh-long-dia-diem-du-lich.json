@@ -1,0 +1,126 @@
+{
+  "id": "vi-vinh-long-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Vĩnh Long",
+  "title": "Địa điểm du lịch Vĩnh Long",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Vĩnh Long (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 226,
+      "ten_dia_diem": "Cù Lao An Bình",
+      "vi_tri": "Vĩnh Long",
+      "tinh_truoc_sap_nhap_2025": "Vĩnh Long",
+      "mo_ta": "Cù Lao An Bình là một khu vực miệt vườn đặc trưng của miền Tây Nam Bộ, nổi tiếng với vườn cây ăn trái như chôm chôm, sầu riêng, măng cụt. Du khách có thể tham gia chèo xuồng, tham quan các làng nghề truyền thống và thưởng thức ẩm thực dân dã.",
+      "danh_gia": "47/5",
+      "danh_gia_diem": "",
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo8bVAfvIhdi7Rohc1LwF3awMwhDQ6U-yUKw&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 227,
+      "ten_dia_diem": "Chùa Tiên Châu",
+      "vi_tri": "Vĩnh Long",
+      "tinh_truoc_sap_nhap_2025": "Vĩnh Long",
+      "mo_ta": "Chùa Tiên Châu nằm trên cù lao An Bình, là một ngôi chùa cổ kính mang đậm nét kiến trúc Phật giáo. Ngôi chùa có không gian yên tĩnh, thanh bình, thu hút nhiều Phật tử và du khách đến chiêm bái.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://dulichvn.org.vn/nhaptin/uploads/images/ditichchuatienchau.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 228,
+      "ten_dia_diem": "Cầu Mỹ Thuận",
+      "vi_tri": "Vĩnh Long",
+      "tinh_truoc_sap_nhap_2025": "Vĩnh Long",
+      "mo_ta": "Cầu Mỹ Thuận là biểu tượng nổi bật của miền Tây, nối liền Vĩnh Long và Tiền Giang. Cây cầu dây văng hiện đại này là điểm check-in lý tưởng, đặc biệt khi về đêm với ánh đèn rực rỡ.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/C%E1%BA%A7u_M%E1%BB%B9_Thu%E1%BA%ADn_1_v%C3%A0_2.jpg/800px-C%E1%BA%A7u_M%E1%BB%B9_Thu%E1%BA%ADn_1_v%C3%A0_2.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 229,
+      "ten_dia_diem": "Khu du lịch Vinh Sang",
+      "vi_tri": "Vĩnh Long",
+      "tinh_truoc_sap_nhap_2025": "Vĩnh Long",
+      "mo_ta": "Khu du lịch Vinh Sang nằm trên cù lao An Bình, là nơi lý tưởng để trải nghiệm các trò chơi dân gian, tham gia câu cá sấu, chèo xuồng, hoặc khám phá các vườn trái cây.",
+      "danh_gia": "3.9/5",
+      "danh_gia_diem": 3.9,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMYRHq7hfcxBWVme9fvXMBmb-FnXbEt40Cw&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 230,
+      "ten_dia_diem": "Văn Thánh Miếu",
+      "vi_tri": "Vĩnh Long",
+      "tinh_truoc_sap_nhap_2025": "Vĩnh Long",
+      "mo_ta": "Văn Thánh Miếu là một công trình cổ kính, mang ý nghĩa tôn vinh Nho học và các bậc hiền tài. Khuôn viên miếu có nhiều cây xanh, tạo không gian yên tĩnh, thanh bình.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ZLRmHxKAL8nQ6GEnc1avbYj_bDxiFvBKPg&s",
+      "tu_khoa": ""
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Vĩnh Long - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Vĩnh Long (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Vĩnh Long | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Vĩnh Long — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

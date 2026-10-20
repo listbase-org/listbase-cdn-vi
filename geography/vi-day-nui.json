@@ -1,0 +1,205 @@
+{
+  "id": "vi-day-nui",
+  "name": "Dãy núi ở Việt Nam",
+  "title": "Dãy núi ở Việt Nam",
+  "description": "Danh sách các dãy núi (rặng núi) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q46831 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Dãy núi khác với từng đỉnh núi riêng lẻ (xem tập vi-nui). Đây là tập dữ liệu dãy núi đầu tiên trong nhóm tiếng Việt.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q4837081",
+      "name_vi": "Dãy núi Ba Vì",
+      "name_en": "Ba Vì mountain range",
+      "latitude": 21.058333,
+      "longitude": 105.366389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/D%C3%A3y_n%C3%BAi_Ba_V%C3%AC"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q31615043",
+      "name_vi": "Dãy núi Chư Yang Sin",
+      "name_en": "Chư Yang Sin",
+      "latitude": 12.405,
+      "longitude": 108.425833,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/D%C3%A3y_n%C3%BAi_Ch%C6%B0_Yang_Sin"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q31640200",
+      "name_vi": "Dãy núi Con Voi",
+      "name_en": "Núi Con Voi",
+      "latitude": 22,
+      "longitude": 104.666667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/D%C3%A3y_n%C3%BAi_Con_Voi"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q3512306",
+      "name_vi": "Dãy núi Hoàng Liên Sơn",
+      "name_en": "Hoàng Liên Sơn mountain range",
+      "latitude": 22.33333,
+      "longitude": 103.75,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/D%C3%A3y_n%C3%BAi_Ho%C3%A0ng_Li%C3%AAn_S%C6%A1n"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q49054613",
+      "name_vi": "Dãy núi Pu Si Lung",
+      "name_en": "Dãy núi Pu Si Lung",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/D%C3%A3y_n%C3%BAi_Pu_Si_Lung"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q842139",
+      "name_vi": "Dãy Trường Sơn",
+      "name_en": "Annamite Range",
+      "latitude": 18.59,
+      "longitude": 103.8,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/D%C3%A3y_n%C3%BAi_Tr%C6%B0%E1%BB%9Dng_S%C6%A1n"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q5874482",
+      "name_vi": "Hoành Sơn (dãy núi)",
+      "name_en": "Hoanh Son Range",
+      "latitude": 17.9911,
+      "longitude": 106.3381,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/D%C3%A3y_n%C3%BAi_Ho%C3%A0nh_S%C6%A1n"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q10779772",
+      "name_vi": "Khối núi Bắc Sơn",
+      "name_en": "Khối núi Bắc Sơn",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%C3%A1nh_cung_B%E1%BA%AFc_S%C6%A1n"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q6922067",
+      "name_vi": "Mẫu Sơn",
+      "name_en": "Mount Mau Son",
+      "latitude": 21.877111,
+      "longitude": 107.004261,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/M%E1%BA%ABu_S%C6%A1n"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q6755207",
+      "name_vi": "Ngũ Hành Sơn",
+      "name_en": "Ngũ Hành Sơn",
+      "latitude": 16,
+      "longitude": 108.26,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ng%C5%A9_H%C3%A0nh_S%C6%A1n"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q893089",
+      "name_vi": "Núi Hồng Lĩnh",
+      "name_en": "Hồng Lĩnh mountain",
+      "latitude": 18.558056,
+      "longitude": 105.788889,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/D%C3%A3y_n%C3%BAi_H%E1%BB%93ng_L%C4%A9nh"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q139907477",
+      "name_vi": "Núi Minh Đạm",
+      "name_en": "Núi Minh Đạm",
+      "latitude": 10.41,
+      "longitude": 107.259167,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/N%C3%BAi_Minh_%C4%90%E1%BA%A1m"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q6949921",
+      "name_vi": "Núi Mây Tào",
+      "name_en": "Mây Tào Mountains",
+      "latitude": 10.771389,
+      "longitude": 107.505556,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/N%C3%BAi_M%C3%A2y_T%C3%A0o"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q10802059",
+      "name_vi": "Núi Yên Tử",
+      "name_en": "Yên Tử Mountain",
+      "latitude": 21.161667,
+      "longitude": 106.717222,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Y%C3%AAn_T%E1%BB%AD"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q116009528",
+      "name_vi": "Pu Ta Leng",
+      "name_en": "Pu Ta Leng",
+      "latitude": 22.422778,
+      "longitude": 103.603333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Pu_Ta_Leng"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q2391091",
+      "name_vi": "Tam Đảo",
+      "name_en": "Tam Đảo",
+      "latitude": 21.533333,
+      "longitude": 105.583333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Tam_%C4%90%E1%BA%A3o"
+    }
+  ],
+  "meta": {
+    "title": "Dãy núi ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách các dãy núi (rặng núi) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q46831 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Dãy núi khác với từng đỉnh núi riêng lẻ (xem tập vi-nui). Đây là tập dữ liệu dãy núi đầu tiên trong nhóm tiếng Việt. Chứa 16 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Dãy núi ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Dãy núi ở Việt Nam — 16 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 16 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

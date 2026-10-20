@@ -1,0 +1,367 @@
+{
+  "id": "vi-tinh-thanh-2025",
+  "name": "Vi Tinh Thanh 2025",
+  "title": "Vi Tinh Thanh 2025",
+  "description": "Danh sách 34 tỉnh thành Việt Nam sau sáp nhập 2025 với mã code, slug và số phường xã",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "full_name",
+      "label": "Full Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "is_central",
+      "label": "Is Central",
+      "type": "boolean"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "01",
+      "name": "Hà Nội",
+      "full_name": "Thành phố Hà Nội",
+      "slug": "ha-noi",
+      "type": "city",
+      "is_central": true,
+      "ward_count": 126
+    },
+    {
+      "code": "02",
+      "name": "Hưng Yên",
+      "full_name": "Tỉnh Hưng Yên",
+      "slug": "hung-yen",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 104
+    },
+    {
+      "code": "03",
+      "name": "Quảng Trị",
+      "full_name": "Tỉnh Quảng Trị",
+      "slug": "quang-tri",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 78
+    },
+    {
+      "code": "04",
+      "name": "Huế",
+      "full_name": "Thành phố Huế",
+      "slug": "hue",
+      "type": "city",
+      "is_central": true,
+      "ward_count": 40
+    },
+    {
+      "code": "05",
+      "name": "Hải Phòng",
+      "full_name": "Thành phố Hải Phòng",
+      "slug": "hai-phong",
+      "type": "city",
+      "is_central": true,
+      "ward_count": 114
+    },
+    {
+      "code": "06",
+      "name": "Phú Thọ",
+      "full_name": "Tỉnh Phú Thọ",
+      "slug": "phu-tho",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 148
+    },
+    {
+      "code": "07",
+      "name": "Thanh Hoá",
+      "full_name": "Tỉnh Thanh Hoá",
+      "slug": "thanh-hoa",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 166
+    },
+    {
+      "code": "08",
+      "name": "Quảng Ninh",
+      "full_name": "Tỉnh Quảng Ninh",
+      "slug": "quang-ninh",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 54
+    },
+    {
+      "code": "09",
+      "name": "Lào Cai",
+      "full_name": "Tỉnh Lào Cai",
+      "slug": "lao-cai",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 99
+    },
+    {
+      "code": "10",
+      "name": "Bắc Ninh",
+      "full_name": "Tỉnh Bắc Ninh",
+      "slug": "bac-ninh",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 99
+    },
+    {
+      "code": "11",
+      "name": "Nghệ An",
+      "full_name": "Tỉnh Nghệ An",
+      "slug": "nghe-an",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 130
+    },
+    {
+      "code": "12",
+      "name": "Đà Nẵng",
+      "full_name": "Thành phố Đà Nẵng",
+      "slug": "da-nang",
+      "type": "city",
+      "is_central": true,
+      "ward_count": 94
+    },
+    {
+      "code": "13",
+      "name": "Ninh Bình",
+      "full_name": "Tỉnh Ninh Bình",
+      "slug": "ninh-binh",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 129
+    },
+    {
+      "code": "14",
+      "name": "Khánh Hòa",
+      "full_name": "Tỉnh Khánh Hòa",
+      "slug": "khanh-hoa",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 65
+    },
+    {
+      "code": "15",
+      "name": "Tây Ninh",
+      "full_name": "Tỉnh Tây Ninh",
+      "slug": "tay-ninh",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 96
+    },
+    {
+      "code": "16",
+      "name": "Đồng Tháp",
+      "full_name": "Tỉnh Đồng Tháp",
+      "slug": "dong-thap",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 102
+    },
+    {
+      "code": "17",
+      "name": "Hà Tĩnh",
+      "full_name": "Tỉnh Hà Tĩnh",
+      "slug": "ha-tinh",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 68
+    },
+    {
+      "code": "18",
+      "name": "An Giang",
+      "full_name": "Tỉnh An Giang",
+      "slug": "an-giang",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 102
+    },
+    {
+      "code": "19",
+      "name": "Thái Nguyên",
+      "full_name": "Tỉnh Thái Nguyên",
+      "slug": "thai-nguyen",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 92
+    },
+    {
+      "code": "20",
+      "name": "Lạng Sơn",
+      "full_name": "Tỉnh Lạng Sơn",
+      "slug": "lang-son",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 65
+    },
+    {
+      "code": "21",
+      "name": "Điện Biên",
+      "full_name": "Tỉnh Điện Biên",
+      "slug": "dien-bien",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 45
+    },
+    {
+      "code": "22",
+      "name": "Đồng Nai",
+      "full_name": "Tỉnh Đồng Nai",
+      "slug": "dong-nai",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 95
+    },
+    {
+      "code": "23",
+      "name": "Quảng Ngãi",
+      "full_name": "Tỉnh Quảng Ngãi",
+      "slug": "quang-ngai",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 96
+    },
+    {
+      "code": "24",
+      "name": "Vĩnh Long",
+      "full_name": "Tỉnh Vĩnh Long",
+      "slug": "vinh-long",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 124
+    },
+    {
+      "code": "25",
+      "name": "Cao Bằng",
+      "full_name": "Tỉnh Cao Bằng",
+      "slug": "cao-bang",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 56
+    },
+    {
+      "code": "26",
+      "name": "Lai Châu",
+      "full_name": "Tỉnh Lai Châu",
+      "slug": "lai-chau",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 38
+    },
+    {
+      "code": "27",
+      "name": "Đắk Lắk",
+      "full_name": "Tỉnh Đắk Lắk",
+      "slug": "dak-lak",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 102
+    },
+    {
+      "code": "28",
+      "name": "Gia Lai",
+      "full_name": "Tỉnh Gia Lai",
+      "slug": "gia-lai",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 135
+    },
+    {
+      "code": "29",
+      "name": "Lâm Đồng",
+      "full_name": "Tỉnh Lâm Đồng",
+      "slug": "lam-dong",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 124
+    },
+    {
+      "code": "30",
+      "name": "Hồ Chí Minh",
+      "full_name": "Thành phố Hồ Chí Minh",
+      "slug": "ho-chi-minh",
+      "type": "city",
+      "is_central": true,
+      "ward_count": 168
+    },
+    {
+      "code": "31",
+      "name": "Sơn La",
+      "full_name": "Tỉnh Sơn La",
+      "slug": "son-la",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 75
+    },
+    {
+      "code": "32",
+      "name": "Cần Thơ",
+      "full_name": "Thành phố Cần Thơ",
+      "slug": "can-tho",
+      "type": "city",
+      "is_central": true,
+      "ward_count": 103
+    },
+    {
+      "code": "33",
+      "name": "Cà Mau",
+      "full_name": "Tỉnh Cà Mau",
+      "slug": "ca-mau",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 64
+    },
+    {
+      "code": "34",
+      "name": "Tuyên Quang",
+      "full_name": "Tỉnh Tuyên Quang",
+      "slug": "tuyen-quang",
+      "type": "province",
+      "is_central": false,
+      "ward_count": 124
+    }
+  ],
+  "meta": {
+    "title": "Vi Tinh Thanh 2025 - Tải miễn phí",
+    "description": "Danh sách 34 tỉnh thành Việt Nam sau sáp nhập 2025 với mã code, slug và số phường xã Chứa 34 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Vi Tinh Thanh 2025 | ListBase",
+    "seo_description": "Tải xuống Vi Tinh Thanh 2025 — 34 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 34 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

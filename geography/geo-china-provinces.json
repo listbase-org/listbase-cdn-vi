@@ -1,0 +1,497 @@
+{
+  "id": "geo-china-provinces",
+  "name": "Bộ dữ liệu Tỉnh và Đơn vị Hành chính Trung Quốc",
+  "category": "geography",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name_en",
+      "label": "Name (English) (EN)",
+      "type": "string"
+    },
+    {
+      "key": "name_cn",
+      "label": "Name (Chinese)",
+      "type": "string"
+    },
+    {
+      "key": "name_pinyin",
+      "label": "Pinyin",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital (English) (EN)",
+      "type": "string"
+    },
+    {
+      "key": "capital_cn",
+      "label": "Capital (Chinese)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region (EN)",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area (km²)",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_en": "An Huy",
+      "name_cn": "安徽",
+      "name_pinyin": "Ānhuī",
+      "capital": "Hợp Phì",
+      "capital_cn": "合肥",
+      "type": "Tỉnh",
+      "region": "Hoa Đông",
+      "iso_code": "CN-AH",
+      "population": 61027171,
+      "area_km2": 140100
+    },
+    {
+      "name_en": "Phúc Kiến",
+      "name_cn": "福建",
+      "name_pinyin": "Fújiàn",
+      "capital": "Phúc Châu",
+      "capital_cn": "福州",
+      "type": "Tỉnh",
+      "region": "Hoa Đông",
+      "iso_code": "CN-FJ",
+      "population": 41540086,
+      "area_km2": 124000
+    },
+    {
+      "name_en": "Cam Túc",
+      "name_cn": "甘肃",
+      "name_pinyin": "Gānsù",
+      "capital": "Lan Châu",
+      "capital_cn": "兰州",
+      "type": "Tỉnh",
+      "region": "Tây Bắc Trung Quốc",
+      "iso_code": "CN-GS",
+      "population": 25019831,
+      "area_km2": 425800
+    },
+    {
+      "name_en": "Quảng Đông",
+      "name_cn": "广东",
+      "name_pinyin": "Guǎngdōng",
+      "capital": "Quảng Châu",
+      "capital_cn": "广州",
+      "type": "Tỉnh",
+      "region": "Hoa Nam",
+      "iso_code": "CN-GD",
+      "population": 126012510,
+      "area_km2": 179800
+    },
+    {
+      "name_en": "Quý Châu",
+      "name_cn": "贵州",
+      "name_pinyin": "Guìzhōu",
+      "capital": "Quý Dương",
+      "capital_cn": "贵阳",
+      "type": "Tỉnh",
+      "region": "Tây Nam Trung Quốc",
+      "iso_code": "CN-GZ",
+      "population": 38562148,
+      "area_km2": 176100
+    },
+    {
+      "name_en": "Hải Nam",
+      "name_cn": "海南",
+      "name_pinyin": "Hǎinán",
+      "capital": "Hải Khẩu",
+      "capital_cn": "海口",
+      "type": "Tỉnh",
+      "region": "Hoa Nam",
+      "iso_code": "CN-HI",
+      "population": 10081232,
+      "area_km2": 35400
+    },
+    {
+      "name_en": "Hà Bắc",
+      "name_cn": "河北",
+      "name_pinyin": "Héběi",
+      "capital": "Thạch Gia Trang",
+      "capital_cn": "石家庄",
+      "type": "Tỉnh",
+      "region": "Hoa Bắc",
+      "iso_code": "CN-HE",
+      "population": 74610235,
+      "area_km2": 187700
+    },
+    {
+      "name_en": "Hắc Long Giang",
+      "name_cn": "黑龙江",
+      "name_pinyin": "Hēilóngjiāng",
+      "capital": "Cáp Nhĩ Tân",
+      "capital_cn": "哈尔滨",
+      "type": "Tỉnh",
+      "region": "Đông Bắc Trung Quốc",
+      "iso_code": "CN-HL",
+      "population": 31850088,
+      "area_km2": 454800
+    },
+    {
+      "name_en": "Hà Nam",
+      "name_cn": "河南",
+      "name_pinyin": "Hénán",
+      "capital": "Trịnh Châu",
+      "capital_cn": "郑州",
+      "type": "Tỉnh",
+      "region": "Hoa Trung",
+      "iso_code": "CN-HA",
+      "population": 99365519,
+      "area_km2": 167000
+    },
+    {
+      "name_en": "Hồ Bắc",
+      "name_cn": "湖北",
+      "name_pinyin": "Húběi",
+      "capital": "Vũ Hán",
+      "capital_cn": "武汉",
+      "type": "Tỉnh",
+      "region": "Hoa Trung",
+      "iso_code": "CN-HB",
+      "population": 57752557,
+      "area_km2": 185900
+    },
+    {
+      "name_en": "Hồ Nam",
+      "name_cn": "湖南",
+      "name_pinyin": "Húnán",
+      "capital": "Trường Sa",
+      "capital_cn": "长沙",
+      "type": "Tỉnh",
+      "region": "Hoa Trung",
+      "iso_code": "CN-HN",
+      "population": 66444864,
+      "area_km2": 211800
+    },
+    {
+      "name_en": "Giang Tô",
+      "name_cn": "江苏",
+      "name_pinyin": "Jiāngsū",
+      "capital": "Nam Kinh",
+      "capital_cn": "南京",
+      "type": "Tỉnh",
+      "region": "Hoa Đông",
+      "iso_code": "CN-JS",
+      "population": 84748016,
+      "area_km2": 102600
+    },
+    {
+      "name_en": "Giang Tây",
+      "name_cn": "江西",
+      "name_pinyin": "Jiāngxī",
+      "capital": "Nam Xương",
+      "capital_cn": "南昌",
+      "type": "Tỉnh",
+      "region": "Hoa Đông",
+      "iso_code": "CN-JX",
+      "population": 45188635,
+      "area_km2": 166900
+    },
+    {
+      "name_en": "Cát Lâm",
+      "name_cn": "吉林",
+      "name_pinyin": "Jílín",
+      "capital": "Trường Xuân",
+      "capital_cn": "长春",
+      "type": "Tỉnh",
+      "region": "Đông Bắc Trung Quốc",
+      "iso_code": "CN-JL",
+      "population": 24073453,
+      "area_km2": 187400
+    },
+    {
+      "name_en": "Liêu Ninh",
+      "name_cn": "辽宁",
+      "name_pinyin": "Liáoníng",
+      "capital": "Thẩm Dương",
+      "capital_cn": "沈阳",
+      "type": "Tỉnh",
+      "region": "Đông Bắc Trung Quốc",
+      "iso_code": "CN-LN",
+      "population": 42591407,
+      "area_km2": 148000
+    },
+    {
+      "name_en": "Thanh Hải",
+      "name_cn": "青海",
+      "name_pinyin": "Qīnghǎi",
+      "capital": "Tây Ninh",
+      "capital_cn": "西宁",
+      "type": "Tỉnh",
+      "region": "Tây Bắc Trung Quốc",
+      "iso_code": "CN-QH",
+      "population": 5923957,
+      "area_km2": 721200
+    },
+    {
+      "name_en": "Thiểm Tây",
+      "name_cn": "陕西",
+      "name_pinyin": "Shǎnxī",
+      "capital": "Tây An",
+      "capital_cn": "西安",
+      "type": "Tỉnh",
+      "region": "Tây Bắc Trung Quốc",
+      "iso_code": "CN-SN",
+      "population": 39528999,
+      "area_km2": 205600
+    },
+    {
+      "name_en": "Sơn Đông",
+      "name_cn": "山东",
+      "name_pinyin": "Shāndōng",
+      "capital": "Tế Nam",
+      "capital_cn": "济南",
+      "type": "Tỉnh",
+      "region": "Hoa Đông",
+      "iso_code": "CN-SD",
+      "population": 101527453,
+      "area_km2": 157100
+    },
+    {
+      "name_en": "Sơn Tây",
+      "name_cn": "山西",
+      "name_pinyin": "Shānxī",
+      "capital": "Thái Nguyên",
+      "capital_cn": "太原",
+      "type": "Tỉnh",
+      "region": "Hoa Bắc",
+      "iso_code": "CN-SX",
+      "population": 34915616,
+      "area_km2": 156300
+    },
+    {
+      "name_en": "Tứ Xuyên",
+      "name_cn": "四川",
+      "name_pinyin": "Sìchuān",
+      "capital": "Thành Đô",
+      "capital_cn": "成都",
+      "type": "Tỉnh",
+      "region": "Tây Nam Trung Quốc",
+      "iso_code": "CN-SC",
+      "population": 83674866,
+      "area_km2": 485000
+    },
+    {
+      "name_en": "Vân Nam",
+      "name_cn": "云南",
+      "name_pinyin": "Yúnnán",
+      "capital": "Côn Minh",
+      "capital_cn": "昆明",
+      "type": "Tỉnh",
+      "region": "Tây Nam Trung Quốc",
+      "iso_code": "CN-YN",
+      "population": 47209277,
+      "area_km2": 394100
+    },
+    {
+      "name_en": "Chiết Giang",
+      "name_cn": "浙江",
+      "name_pinyin": "Zhèjiāng",
+      "capital": "Hàng Châu",
+      "capital_cn": "杭州",
+      "type": "Tỉnh",
+      "region": "Hoa Đông",
+      "iso_code": "CN-ZJ",
+      "population": 64567588,
+      "area_km2": 101800
+    },
+    {
+      "name_en": "Đài Loan",
+      "name_cn": "台湾",
+      "name_pinyin": "Táiwān",
+      "capital": "Đài Bắc",
+      "capital_cn": "台北",
+      "type": "Tỉnh",
+      "region": "Hoa Đông",
+      "iso_code": "CN-TW",
+      "population": 23570000,
+      "area_km2": 36197
+    },
+    {
+      "name_en": "Quảng Tây",
+      "name_cn": "广西",
+      "name_pinyin": "Guǎngxī",
+      "capital": "Nam Ninh",
+      "capital_cn": "南宁",
+      "type": "Khu tự trị",
+      "region": "Hoa Nam",
+      "iso_code": "CN-GX",
+      "population": 50126804,
+      "area_km2": 237600
+    },
+    {
+      "name_en": "Nội Mông Cổ",
+      "name_cn": "内蒙古",
+      "name_pinyin": "Nèi Měnggǔ",
+      "capital": "Hohhot",
+      "capital_cn": "呼和浩特",
+      "type": "Khu tự trị",
+      "region": "Hoa Bắc",
+      "iso_code": "CN-NM",
+      "population": 24049155,
+      "area_km2": 1183000
+    },
+    {
+      "name_en": "Ninh Hạ",
+      "name_cn": "宁夏",
+      "name_pinyin": "Níngxià",
+      "capital": "Ngân Xuyên",
+      "capital_cn": "银川",
+      "type": "Khu tự trị",
+      "region": "Tây Bắc Trung Quốc",
+      "iso_code": "CN-NX",
+      "population": 7202654,
+      "area_km2": 66400
+    },
+    {
+      "name_en": "Tây Tạng",
+      "name_cn": "西藏",
+      "name_pinyin": "Xīzàng",
+      "capital": "Lhasa",
+      "capital_cn": "拉萨",
+      "type": "Khu tự trị",
+      "region": "Tây Nam Trung Quốc",
+      "iso_code": "CN-XZ",
+      "population": 3648100,
+      "area_km2": 1228400
+    },
+    {
+      "name_en": "Tân Cương",
+      "name_cn": "新疆",
+      "name_pinyin": "Xīnjiāng",
+      "capital": "Ürümqi",
+      "capital_cn": "乌鲁木齐",
+      "type": "Khu tự trị",
+      "region": "Tây Bắc Trung Quốc",
+      "iso_code": "CN-XJ",
+      "population": 25852345,
+      "area_km2": 1664900
+    },
+    {
+      "name_en": "Bắc Kinh",
+      "name_cn": "北京",
+      "name_pinyin": "Běijīng",
+      "capital": "Bắc Kinh",
+      "capital_cn": "北京",
+      "type": "Thành phố trực thuộc trung ương",
+      "region": "Hoa Bắc",
+      "iso_code": "CN-BJ",
+      "population": 21893095,
+      "area_km2": 16410
+    },
+    {
+      "name_en": "Trùng Khánh",
+      "name_cn": "重庆",
+      "name_pinyin": "Chóngqìng",
+      "capital": "Trùng Khánh",
+      "capital_cn": "重庆",
+      "type": "Thành phố trực thuộc trung ương",
+      "region": "Tây Nam Trung Quốc",
+      "iso_code": "CN-CQ",
+      "population": 32054159,
+      "area_km2": 82400
+    },
+    {
+      "name_en": "Thượng Hải",
+      "name_cn": "上海",
+      "name_pinyin": "Shànghǎi",
+      "capital": "Thượng Hải",
+      "capital_cn": "上海",
+      "type": "Thành phố trực thuộc trung ương",
+      "region": "Hoa Đông",
+      "iso_code": "CN-SH",
+      "population": 24870895,
+      "area_km2": 6341
+    },
+    {
+      "name_en": "Thiên Tân",
+      "name_cn": "天津",
+      "name_pinyin": "Tiānjīn",
+      "capital": "Thiên Tân",
+      "capital_cn": "天津",
+      "type": "Thành phố trực thuộc trung ương",
+      "region": "Hoa Bắc",
+      "iso_code": "CN-TJ",
+      "population": 13866009,
+      "area_km2": 11760
+    },
+    {
+      "name_en": "Hồng Kông",
+      "name_cn": "香港",
+      "name_pinyin": "Xiānggǎng",
+      "capital": "Hồng Kông",
+      "capital_cn": "香港",
+      "type": "Đặc khu hành chính",
+      "region": "Hoa Nam",
+      "iso_code": "CN-HK",
+      "population": 7474200,
+      "area_km2": 1106
+    },
+    {
+      "name_en": "Ma Cao",
+      "name_cn": "澳门",
+      "name_pinyin": "Àomén",
+      "capital": "Ma Cao",
+      "capital_cn": "澳门",
+      "type": "Đặc khu hành chính",
+      "region": "Hoa Nam",
+      "iso_code": "CN-MO",
+      "population": 683100,
+      "area_km2": 33
+    }
+  ],
+  "meta": {
+    "seo_title": "Dữ liệu Tỉnh & Khu HC Trung Quốc - Tải xuống miễn phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống miễn phí dữ liệu 34 tỉnh, thành phố trực thuộc trung ương và đơn vị hành chính của Trung Quốc. Bao gồm thủ đô, dân số, diện tích, mã ISO. Có sẵn Excel, CSV, PDF.",
+    "title": "Bộ dữ liệu Tỉnh và Đơn vị Hành chính Trung Quốc",
+    "description": "Bộ dữ liệu này cung cấp thông tin toàn diện về 34 tỉnh, khu tự trị, thành phố trực thuộc trung ương và đặc khu hành chính của Trung Quốc. Nó bao gồm tên tiếng Anh và tiếng Trung, bính âm, thủ đô, loại, khu vực, mã ISO, dân số và diện tích.",
+    "key_takeaways": [
+      "Truy cập dữ liệu nhân khẩu học và địa lý chi tiết cho tất cả 34 đơn vị hành chính của Trung Quốc.",
+      "Khám phá tên tiếng Anh chính thức, ký tự Trung Quốc, bính âm và thông tin thủ đô.",
+      "Tải xuống các thống kê chính như dân số, diện tích và mã ISO cho các dự án phân tích.",
+      "Hiểu rõ cấu trúc hành chính của Trung Quốc, bao gồm các tỉnh, thành phố và SAR."
+    ],
+    "keywords": [
+      "tỉnh trung quốc",
+      "đơn vị hành chính trung quốc",
+      "thủ đô tỉnh trung quốc excel",
+      "mã ISO trung quốc csv",
+      "dữ liệu dân số trung quốc",
+      "bản đồ khu vực trung quốc"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL hoặc tập lệnh Python của bạn để phân tích dữ liệu khu vực và phát triển ứng dụng.",
+      "Sử dụng tệp **Excel** để tạo Bảng tổng hợp, lọc các tỉnh theo khu vực và thực hiện so sánh thống kê về dân số và diện tích.",
+      "In phiên bản **PDF** để tham khảo trong lớp học, thuyết trình hoặc truy cập ngoại tuyến nhanh chóng cấu trúc hành chính của Trung Quốc.",
+      "Tích hợp dữ liệu này vào các ứng dụng GIS để trực quan hóa sự phân bố địa lý và nhân khẩu học của các tỉnh Trung Quốc."
+    ]
+  },
+  "record_count": 34,
+  "title": "Bộ dữ liệu Tỉnh và Đơn vị Hành chính Trung Quốc"
+}

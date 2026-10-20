@@ -1,0 +1,156 @@
+{
+  "id": "vi-phu-yen-quan-huyen-2019",
+  "name": "Phú Yên — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Phú Yên — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 9 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Phú Yên theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 7 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/PY.json). (9 district-level units of Phú Yên under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "PY-01",
+      "name": "Đông Hòa",
+      "name_full": "Huyện Đông Hòa",
+      "slug": "dong-hoa",
+      "division_type": "Huyện",
+      "province_code": "PY",
+      "province_name": "Phú Yên",
+      "ward_count": 10
+    },
+    {
+      "code": "PY-02",
+      "name": "Đồng Xuân",
+      "name_full": "Huyện Đồng Xuân",
+      "slug": "dong-xuan",
+      "division_type": "Huyện",
+      "province_code": "PY",
+      "province_name": "Phú Yên",
+      "ward_count": 11
+    },
+    {
+      "code": "PY-03",
+      "name": "Phú Hòa",
+      "name_full": "Huyện Phú Hòa",
+      "slug": "phu-hoa",
+      "division_type": "Huyện",
+      "province_code": "PY",
+      "province_name": "Phú Yên",
+      "ward_count": 9
+    },
+    {
+      "code": "PY-04",
+      "name": "Sơn Hòa",
+      "name_full": "Huyện Sơn Hòa",
+      "slug": "son-hoa",
+      "division_type": "Huyện",
+      "province_code": "PY",
+      "province_name": "Phú Yên",
+      "ward_count": 14
+    },
+    {
+      "code": "PY-05",
+      "name": "Sông Cầu",
+      "name_full": "Thị xã Sông Cầu",
+      "slug": "song-cau",
+      "division_type": "Thị xã",
+      "province_code": "PY",
+      "province_name": "Phú Yên",
+      "ward_count": 14
+    },
+    {
+      "code": "PY-06",
+      "name": "Sông Hinh",
+      "name_full": "Huyện Sông Hinh",
+      "slug": "song-hinh",
+      "division_type": "Huyện",
+      "province_code": "PY",
+      "province_name": "Phú Yên",
+      "ward_count": 11
+    },
+    {
+      "code": "PY-07",
+      "name": "Tây Hòa",
+      "name_full": "Huyện Tây Hòa",
+      "slug": "tay-hoa",
+      "division_type": "Huyện",
+      "province_code": "PY",
+      "province_name": "Phú Yên",
+      "ward_count": 11
+    },
+    {
+      "code": "PY-08",
+      "name": "Tuy An",
+      "name_full": "Huyện Tuy An",
+      "slug": "tuy-an",
+      "division_type": "Huyện",
+      "province_code": "PY",
+      "province_name": "Phú Yên",
+      "ward_count": 16
+    },
+    {
+      "code": "PY-09",
+      "name": "Tuy Hòa",
+      "name_full": "Thành phố Tuy Hòa",
+      "slug": "tuy-hoa",
+      "division_type": "Thành phố",
+      "province_code": "PY",
+      "province_name": "Phú Yên",
+      "ward_count": 17
+    }
+  ],
+  "meta": {
+    "title": "Phú Yên — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 9 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Phú Yên theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 7 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/PY.json). (9 district-level units of Phú Yên under the pre-2025-merger 3-tier hierarchy.) Chứa 9 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Phú Yên — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Phú Yên — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 9 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 9 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

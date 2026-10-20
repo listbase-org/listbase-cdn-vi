@@ -1,0 +1,376 @@
+{
+  "id": "vi-hue-wards",
+  "name": "Thành phố Huế — Phường, xã, đặc khu",
+  "title": "Thành phố Huế — Phường, xã, đặc khu",
+  "description": "Danh sách phường, xã, đặc khu thuộc Thành phố Huế (post-July-2025 rearrangement). Sau khi bỏ cấp huyện, Thành phố Huế còn 40 đơn vị hành chính cấp xã. Mỗi bản ghi gồm mã, tên, codename và phân loại đơn vị.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "codename",
+      "label": "Codename",
+      "type": "string"
+    },
+    {
+      "key": "short_codename",
+      "label": "Short Codename",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "division_type_en",
+      "label": "Division Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": 19753,
+      "name": "Phường Phú Xuân",
+      "codename": "phuong_phu_xuan",
+      "short_codename": "phu_xuan",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 19774,
+      "name": "Phường Kim Long",
+      "codename": "phuong_kim_long",
+      "short_codename": "kim_long",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 19777,
+      "name": "Phường Vỹ Dạ",
+      "codename": "phuong_vy_da",
+      "short_codename": "vy_da",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 19789,
+      "name": "Phường Thuận Hóa",
+      "codename": "phuong_thuan_hoa",
+      "short_codename": "thuan_hoa",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 19804,
+      "name": "Phường Hương An",
+      "codename": "phuong_huong_an",
+      "short_codename": "huong_an",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 19813,
+      "name": "Phường Thủy Xuân",
+      "codename": "phuong_thuy_xuan",
+      "short_codename": "thuy_xuan",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 19815,
+      "name": "Phường An Cựu",
+      "codename": "phuong_an_cuu",
+      "short_codename": "an_cuu",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 19819,
+      "name": "Phường Phong Điền",
+      "codename": "phuong_phong_dien",
+      "short_codename": "phong_dien",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 19828,
+      "name": "Phường Phong Phú",
+      "codename": "phuong_phong_phu",
+      "short_codename": "phong_phu",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 19831,
+      "name": "Phường Phong Dinh",
+      "codename": "phuong_phong_dinh",
+      "short_codename": "phong_dinh",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 19858,
+      "name": "Phường Phong Thái",
+      "codename": "phuong_phong_thai",
+      "short_codename": "phong_thai",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 19867,
+      "name": "Xã Quảng Điền",
+      "codename": "xa_quang_dien",
+      "short_codename": "quang_dien",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 19873,
+      "name": "Phường Phong Quảng",
+      "codename": "phuong_phong_quang",
+      "short_codename": "phong_quang",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 19885,
+      "name": "Xã Đan Điền",
+      "codename": "xa_dan_dien",
+      "short_codename": "dan_dien",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 19900,
+      "name": "Phường Thuận An",
+      "codename": "phuong_thuan_an",
+      "short_codename": "thuan_an",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 19909,
+      "name": "Phường Dương Nỗ",
+      "codename": "phuong_duong_no",
+      "short_codename": "duong_no",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 19918,
+      "name": "Xã Phú Hồ",
+      "codename": "xa_phu_ho",
+      "short_codename": "phu_ho",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 19930,
+      "name": "Phường Mỹ Thượng",
+      "codename": "phuong_my_thuong",
+      "short_codename": "my_thuong",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 19942,
+      "name": "Xã Phú Vang",
+      "codename": "xa_phu_vang",
+      "short_codename": "phu_vang",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 19945,
+      "name": "Xã Phú Vinh",
+      "codename": "xa_phu_vinh",
+      "short_codename": "phu_vinh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 19960,
+      "name": "Phường Phú Bài",
+      "codename": "phuong_phu_bai",
+      "short_codename": "phu_bai",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 19969,
+      "name": "Phường Thanh Thủy",
+      "codename": "phuong_thanh_thuy",
+      "short_codename": "thanh_thuy",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 19975,
+      "name": "Phường Hương Thủy",
+      "codename": "phuong_huong_thuy",
+      "short_codename": "huong_thuy",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 19996,
+      "name": "Phường Hương Trà",
+      "codename": "phuong_huong_tra",
+      "short_codename": "huong_tra",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 20014,
+      "name": "Phường Hóa Châu",
+      "codename": "phuong_hoa_chau",
+      "short_codename": "hoa_chau",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 20017,
+      "name": "Phường Kim Trà",
+      "codename": "phuong_kim_tra",
+      "short_codename": "kim_tra",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 20035,
+      "name": "Xã Bình Điền",
+      "codename": "xa_binh_dien",
+      "short_codename": "binh_dien",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 20044,
+      "name": "Xã A Lưới 2",
+      "codename": "xa_a_luoi_2",
+      "short_codename": "a_luoi_2",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 20050,
+      "name": "Xã A Lưới 5",
+      "codename": "xa_a_luoi_5",
+      "short_codename": "a_luoi_5",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 20056,
+      "name": "Xã A Lưới 1",
+      "codename": "xa_a_luoi_1",
+      "short_codename": "a_luoi_1",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 20071,
+      "name": "Xã A Lưới 3",
+      "codename": "xa_a_luoi_3",
+      "short_codename": "a_luoi_3",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 20101,
+      "name": "Xã A Lưới 4",
+      "codename": "xa_a_luoi_4",
+      "short_codename": "a_luoi_4",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 20107,
+      "name": "Xã Phú Lộc",
+      "codename": "xa_phu_loc",
+      "short_codename": "phu_loc",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 20122,
+      "name": "Xã Vinh Lộc",
+      "codename": "xa_vinh_loc",
+      "short_codename": "vinh_loc",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 20131,
+      "name": "Xã Hưng Lộc",
+      "codename": "xa_hung_loc",
+      "short_codename": "hung_loc",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 20137,
+      "name": "Xã Chân Mây - Lăng Cô",
+      "codename": "xa_chan_may_lang_co",
+      "short_codename": "chan_may_lang_co",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 20140,
+      "name": "Xã Lộc An",
+      "codename": "xa_loc_an",
+      "short_codename": "loc_an",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 20161,
+      "name": "Xã Khe Tre",
+      "codename": "xa_khe_tre",
+      "short_codename": "khe_tre",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 20179,
+      "name": "Xã Nam Đông",
+      "codename": "xa_nam_dong",
+      "short_codename": "nam_dong",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 20182,
+      "name": "Xã Long Quảng",
+      "codename": "xa_long_quang",
+      "short_codename": "long_quang",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    }
+  ],
+  "meta": {
+    "title": "Thành phố Huế — Phường, xã, đặc khu - Tải miễn phí",
+    "description": "Danh sách phường, xã, đặc khu thuộc Thành phố Huế (post-July-2025 rearrangement). Sau khi bỏ cấp huyện, Thành phố Huế còn 40 đơn vị hành chính cấp xã. Mỗi bản ghi gồm mã, tên, codename và phân loại đơn vị. Chứa 40 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Thành phố Huế — Phường, xã, đặc khu | ListBase",
+    "seo_description": "Tải xuống Thành phố Huế — Phường, xã, đặc khu — 40 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 40 bản ghi / 6 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

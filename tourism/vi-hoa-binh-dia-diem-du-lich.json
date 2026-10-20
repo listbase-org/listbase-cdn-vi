@@ -1,0 +1,126 @@
+{
+  "id": "vi-hoa-binh-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Hòa Bình",
+  "title": "Địa điểm du lịch Hòa Bình",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Hòa Bình (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "number"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 306,
+      "ten_dia_diem": "Thung Nai",
+      "vi_tri": "Hòa Bình",
+      "tinh_truoc_sap_nhap_2025": "Hòa Bình",
+      "mo_ta": "Thung Nai (Hòa Bình) là khu du lịch nổi tiếng với cảnh sắc thiên nhiên hùng vĩ, bao gồm hồ nước rộng lớn và các dãy núi bao quanh. Nơi đây là địa điểm lý tưởng cho du khách yêu thích du lịch sinh thái và tham gia các hoạt động ngoài trời như chèo thuyền.",
+      "danh_gia": "4.7",
+      "danh_gia_diem": 4.7,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYz1fmShZLDoqjX0N9o-8uDiP5fvlaUGP4Ow&s",
+      "tu_khoa": "di sản, lịch sử, văn hóa"
+    },
+    {
+      "stt": 307,
+      "ten_dia_diem": "Mai Châu",
+      "vi_tri": "Hòa Bình",
+      "tinh_truoc_sap_nhap_2025": "Hòa Bình",
+      "mo_ta": "Mai Châu (Hòa Bình) là một thung lũng xinh đẹp, nổi tiếng với những ngôi nhà sàn và cảnh sắc thiên nhiên hoang sơ. Mai Châu thu hút du khách bởi không khí trong lành, cộng với nền văn hóa đặc sắc của đồng bào dân tộc Thái.",
+      "danh_gia": "4.2",
+      "danh_gia_diem": 4.2,
+      "anh": "https://vcdn1-dulich.vnecdn.net/2022/04/12/du-lich-Mai-Chau-thang-07-mobi-5431-9625-1649760588.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=5cITecmks1K0MS75q6iQnQ",
+      "tu_khoa": "địa phương, độc đáo, khám phá"
+    },
+    {
+      "stt": 308,
+      "ten_dia_diem": "Động Đá Bạc",
+      "vi_tri": "Hòa Bình",
+      "tinh_truoc_sap_nhap_2025": "Hòa Bình",
+      "mo_ta": "Động Đá Bạc (Quảng Ninh) là một hang động tự nhiên nổi bật với những khối đá vôi kỳ lạ và vẻ đẹp huyền bí. Du khách có thể khám phá hệ thống thạch nhũ và các tạo hình đá độc đáo trong không gian yên tĩnh của động.",
+      "danh_gia": "3.9",
+      "danh_gia_diem": 3.9,
+      "anh": "https://tour.dulichvietnam.com.vn/uploads/image/a-dia-danh-du-lich/dong-da-bac-1.jpg",
+      "tu_khoa": "thiên nhiên, du lịch, hòa bình"
+    },
+    {
+      "stt": 309,
+      "ten_dia_diem": "Cửu thác Tú Sơn",
+      "vi_tri": "Hòa Bình",
+      "tinh_truoc_sap_nhap_2025": "Hòa Bình",
+      "mo_ta": "Cửu thác Tú Sơn (Hà Giang) là một hệ thống 9 thác nước lớn nhỏ nằm giữa thiên nhiên hoang sơ. Đây là điểm đến lý tưởng cho những ai yêu thích khám phá và tìm hiểu các thác nước giữa không gian núi rừng.",
+      "danh_gia": "3.2",
+      "danh_gia_diem": 3.2,
+      "anh": "https://dulichbennghe.cdn.vccloud.vn/wp-content/uploads/2020/03/du-lich-ben-nghe-cuu-thac-tu-son.jpg",
+      "tu_khoa": "cảnh quan, địa danh, nổi bật"
+    },
+    {
+      "stt": 310,
+      "ten_dia_diem": "Đền Thác Bờ",
+      "vi_tri": "Hòa Bình",
+      "tinh_truoc_sap_nhap_2025": "Hòa Bình",
+      "mo_ta": "Đền Thác Bờ (Hòa Bình) là một di tích lịch sử, thờ nữ tướng Cao Thị Lịch. Đền nằm gần thác Bờ, có khung cảnh huyền bí và là nơi linh thiêng, thu hút du khách đến tham quan và cầu nguyện.",
+      "danh_gia": "4.4",
+      "danh_gia_diem": 4.4,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxh5UJa4Rwa6DjOg-8EmOofNkwvzf9QuAQA&s",
+      "tu_khoa": "khám phá, thiên nhiên, thư giãn"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Hòa Bình - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Hòa Bình (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Hòa Bình | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Hòa Bình — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

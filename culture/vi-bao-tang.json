@@ -1,0 +1,1159 @@
+{
+  "id": "vi-bao-tang",
+  "name": "Bảo tàng tại Việt Nam (Museums in Vietnam)",
+  "title": "Bảo tàng tại Việt Nam (Museums in Vietnam)",
+  "description": "Danh sách 122 bảo tàng tại Việt Nam từ OpenStreetMap, kèm tên, thành phố, tọa độ và trang web.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 122,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bao Tang Phu Quoc",
+      "name_en": "",
+      "city": "Dương Đông",
+      "country": "Vietnam",
+      "latitude": 10.192853,
+      "longitude": 103.967414,
+      "website": ""
+    },
+    {
+      "name": "Bưu điện Kiên Lương",
+      "name_en": "",
+      "city": "Hà Tiên",
+      "country": "Vietnam",
+      "latitude": 10.282541,
+      "longitude": 104.637915,
+      "website": ""
+    },
+    {
+      "name": "Bảo tàng AG",
+      "name_en": "",
+      "city": "Long Xuyên",
+      "country": "Vietnam",
+      "latitude": 10.389616,
+      "longitude": 105.435593,
+      "website": ""
+    },
+    {
+      "name": "Bảo tàng Binh chủng Thông tin liên lạc",
+      "name_en": "",
+      "city": "Đống Đa",
+      "country": "Vietnam",
+      "latitude": 21.030396,
+      "longitude": 105.826632,
+      "website": ""
+    },
+    {
+      "name": "Bảo tàng Bình Thuận",
+      "name_en": "Binh Thuan Museum",
+      "city": "Phan Thiết",
+      "country": "Vietnam",
+      "latitude": 10.930257,
+      "longitude": 108.097973,
+      "website": ""
+    },
+    {
+      "name": "Bảo tàng chiến thắng Khe Sanh",
+      "name_en": "Khe Sanh Battlefield Victory Museum",
+      "city": "Khe Sanh",
+      "country": "Vietnam",
+      "latitude": 16.653823,
+      "longitude": 106.724119,
+      "website": ""
+    },
+    {
+      "name": "bảo tàng gò",
+      "name_en": "",
+      "city": "Núi Sập",
+      "country": "Vietnam",
+      "latitude": 10.254607,
+      "longitude": 105.154804,
+      "website": ""
+    },
+    {
+      "name": "bảo tàng Gò Thành",
+      "name_en": "",
+      "city": "Chợ Gạo",
+      "country": "Vietnam",
+      "latitude": 10.390464,
+      "longitude": 106.459628,
+      "website": ""
+    },
+    {
+      "name": "Bảo Tàng Hải Phòng",
+      "name_en": "Hai Phong Museum",
+      "city": "Haiphong",
+      "country": "Vietnam",
+      "latitude": 20.86193,
+      "longitude": 106.682986,
+      "website": ""
+    },
+    {
+      "name": "Bảo tàng Hồ Chí Minh",
+      "name_en": "Ho Chi Minh Museum",
+      "city": "Phan Thiết",
+      "country": "Vietnam",
+      "latitude": 10.928645,
+      "longitude": 108.095333,
+      "website": ""
+    },
+    {
+      "name": "bảo tàng Kiên Giang",
+      "name_en": "",
+      "city": "Rạch Giá",
+      "country": "Vietnam",
+      "latitude": 10.009461,
+      "longitude": 105.084907,
+      "website": ""
+    },
+    {
+      "name": "Bảo tàng Lào Cai",
+      "name_en": "",
+      "city": "Lào Cai",
+      "country": "Vietnam",
+      "latitude": 22.489586,
+      "longitude": 103.962958,
+      "website": ""
+    },
+    {
+      "name": "Bảo Tàng Lâm Đồng",
+      "name_en": "Lam Dong Museum",
+      "city": "Ðà Lạt",
+      "country": "Vietnam",
+      "latitude": 11.940179,
+      "longitude": 108.459716,
+      "website": ""
+    },
+    {
+      "name": "Bảo tàng lịch sử Cầu Hiền Lương",
+      "name_en": "Hien Luong historic bridge",
+      "city": "Hồ Xá",
+      "country": "Vietnam",
+      "latitude": 17.006028,
+      "longitude": 107.051366,
+      "website": ""
+    },
+    {
+      "name": "Bảo tàng Lịch sử Quân sự Việt Nam",
+      "name_en": "Vietnam Military History Museum",
+      "city": "Hanoi",
+      "country": "Vietnam",
+      "latitude": 21.032003,
+      "longitude": 105.840261,
+      "website": ""
+    },
+    {
+      "name": "Bảo tàng Lực lượng vũ trang nhân dân",
+      "name_en": "Military Museum",
+      "city": "Phan Thiết",
+      "country": "Vietnam",
+      "latitude": 10.929347,
+      "longitude": 108.100717,
+      "website": ""
+    },
+    {
+      "name": "Bảo tàng Mỹ thuật Việt Nam",
+      "name_en": "Vietnam Fine Arts Museum",
+      "city": "Hanoi",
+      "country": "Vietnam",
+      "latitude": 21.030613,
+      "longitude": 105.836953,
+      "website": "http://vnfam.vn/"
+    },
+    {
+      "name": "Bảo tàng Nghệ thuật Điêu khắc Chăm Đà Nẵng",
+      "name_en": "Museum of Cham Sculpture",
+      "city": "Da Nang",
+      "country": "Vietnam",
+      "latitude": 16.060307,
+      "longitude": 108.223269,
+      "website": ""
+    },
+    {
+      "name": "Bảo tàng Phú Yên",
+      "name_en": "",
+      "city": "Tuy Hòa",
+      "country": "Vietnam",
+      "latitude": 13.094885,
+      "longitude": 109.302312,
+      "website": ""
+    },
+    {
+      "name": "Bảo tàng Phụ nữ Nam Bộ",
+      "name_en": "",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "latitude": 10.784403,
+      "longitude": 106.688106,
+      "website": ""
+    },
+    {
+      "name": "Bảo tàng Phụ nữ Việt Nam",
+      "name_en": "Vietnamese Women's Museum",
+      "city": "Hoàn Kiếm",
+      "country": "Vietnam",
+      "latitude": 21.023161,
+      "longitude": 105.851998,
+      "website": ""
+    },
+    {
+      "name": "Bảo tàng Quân Khu 3",
+      "name_en": "",
+      "city": "An Dương",
+      "country": "Vietnam",
+      "latitude": 20.823129,
+      "longitude": 106.636683,
+      "website": ""
+    },
+    {
+      "name": "Bảo tàng Quân khu 5",
+      "name_en": "",
+      "city": "Sơn Trà",
+      "country": "Vietnam",
+      "latitude": 16.048057,
+      "longitude": 108.217794,
+      "website": ""
+    },
+    {
+      "name": "Bảo Tàng Thanh Nhà Hồ",
+      "name_en": "",
+      "city": "Thị Trấn Vĩnh Lộc",
+      "country": "Vietnam",
+      "latitude": 20.074751,
+      "longitude": 105.608073,
+      "website": ""
+    },
+    {
+      "name": "Bảo Tàng Tôn Đức Thắng",
+      "name_en": "Ton Duc Thang Museum",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "latitude": 10.777147,
+      "longitude": 106.706683,
+      "website": ""
+    },
+    {
+      "name": "BẢO TÀNG TƯ NHÂN GỐM CỔ GÒ SÀNH VIJAYA - CHAMPA - BÌNH ĐỊNH",
+      "name_en": "",
+      "city": "Qui Nhon",
+      "country": "Vietnam",
+      "latitude": 13.773405,
+      "longitude": 109.227334,
+      "website": ""
+    },
+    {
+      "name": "Bảo Tàng Địa Chất",
+      "name_en": "",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "latitude": 10.784996,
+      "longitude": 106.707675,
+      "website": ""
+    },
+    {
+      "name": "Bảo tằng Pắc Bó",
+      "name_en": "",
+      "city": "Thị Trấn Xuân Hoà",
+      "country": "Vietnam",
+      "latitude": 22.977641,
+      "longitude": 106.050979,
+      "website": ""
+    },
+    {
+      "name": "Carved Boulder Museum",
+      "name_en": "",
+      "city": "Sa Pá",
+      "country": "Vietnam",
+      "latitude": 22.304134,
+      "longitude": 103.898607,
+      "website": ""
+    },
+    {
+      "name": "chùa",
+      "name_en": "",
+      "city": "Tri Tôn",
+      "country": "Vietnam",
+      "latitude": 10.367348,
+      "longitude": 105.015954,
+      "website": ""
+    },
+    {
+      "name": "chùa khi me",
+      "name_en": "",
+      "city": "Tri Tôn",
+      "country": "Vietnam",
+      "latitude": 10.423886,
+      "longitude": 105.001168,
+      "website": ""
+    },
+    {
+      "name": "Chùa Phật Đà",
+      "name_en": "",
+      "city": "Hà Tiên",
+      "country": "Vietnam",
+      "latitude": 10.386779,
+      "longitude": 104.48359,
+      "website": ""
+    },
+    {
+      "name": "Chùa Tam Bảo",
+      "name_en": "",
+      "city": "Hà Tiên",
+      "country": "Vietnam",
+      "latitude": 10.385048,
+      "longitude": 104.48622,
+      "website": ""
+    },
+    {
+      "name": "Chùa Vạn Hòa",
+      "name_en": "",
+      "city": "Hà Tiên",
+      "country": "Vietnam",
+      "latitude": 10.292177,
+      "longitude": 104.534037,
+      "website": ""
+    },
+    {
+      "name": "chợ Cần Thơ",
+      "name_en": "",
+      "city": "Cần Thơ",
+      "country": "Vietnam",
+      "latitude": 10.030988,
+      "longitude": 105.787921,
+      "website": ""
+    },
+    {
+      "name": "chợ thủ dầu 1",
+      "name_en": "",
+      "city": "Thủ Dầu Một",
+      "country": "Vietnam",
+      "latitude": 10.978329,
+      "longitude": 106.651645,
+      "website": ""
+    },
+    {
+      "name": "Coconut Prison",
+      "name_en": "",
+      "city": "Dương Đông",
+      "country": "Vietnam",
+      "latitude": 10.044208,
+      "longitude": 104.018025,
+      "website": ""
+    },
+    {
+      "name": "Crazy House",
+      "name_en": "",
+      "city": "Ðà Lạt",
+      "country": "Vietnam",
+      "latitude": 11.934663,
+      "longitude": 108.430666,
+      "website": ""
+    },
+    {
+      "name": "Cuc Phuong Visitors Centre",
+      "name_en": "",
+      "city": "Thị Trấn Nho Quan",
+      "country": "Vietnam",
+      "latitude": 20.250031,
+      "longitude": 105.715277,
+      "website": ""
+    },
+    {
+      "name": "cầu cổ",
+      "name_en": "",
+      "city": "Lái Thiêu",
+      "country": "Vietnam",
+      "latitude": 10.898597,
+      "longitude": 106.694036,
+      "website": ""
+    },
+    {
+      "name": "cầu Rạch Miễu",
+      "name_en": "",
+      "city": "Mỹ Tho",
+      "country": "Vietnam",
+      "latitude": 10.340103,
+      "longitude": 106.34307,
+      "website": ""
+    },
+    {
+      "name": "cầu Sông Bé",
+      "name_en": "",
+      "city": "Uyen Hung",
+      "country": "Vietnam",
+      "latitude": 11.252919,
+      "longitude": 106.759843,
+      "website": ""
+    },
+    {
+      "name": "cầu Sông Bé mới",
+      "name_en": "",
+      "city": "Uyen Hung",
+      "country": "Vietnam",
+      "latitude": 11.252347,
+      "longitude": 106.758408,
+      "website": ""
+    },
+    {
+      "name": "Cầu Thủ Huồng",
+      "name_en": "",
+      "city": "Biên Hòa",
+      "country": "Vietnam",
+      "latitude": 10.926109,
+      "longitude": 106.823811,
+      "website": ""
+    },
+    {
+      "name": "Diep Dong Nguyen",
+      "name_en": "Diep Dong Nguyen House",
+      "city": "Hội An",
+      "country": "Vietnam",
+      "latitude": 15.876624,
+      "longitude": 108.328536,
+      "website": ""
+    },
+    {
+      "name": "dinh tỉnh trưởng",
+      "name_en": "",
+      "city": "Tân Hòa",
+      "country": "Vietnam",
+      "latitude": 10.364602,
+      "longitude": 106.675401,
+      "website": ""
+    },
+    {
+      "name": "Duc Minh Private Museum",
+      "name_en": "",
+      "city": "Dĩ An",
+      "country": "Vietnam",
+      "latitude": 10.84084,
+      "longitude": 106.765554,
+      "website": ""
+    },
+    {
+      "name": "Geologicl museum",
+      "name_en": "",
+      "city": "Hoàn Kiếm",
+      "country": "Vietnam",
+      "latitude": 21.023659,
+      "longitude": 105.859219,
+      "website": ""
+    },
+    {
+      "name": "Historical Objects Showroom",
+      "name_en": "",
+      "city": "Cát Bà",
+      "country": "Vietnam",
+      "latitude": 20.723417,
+      "longitude": 107.053902,
+      "website": ""
+    },
+    {
+      "name": "Hoi An Museum",
+      "name_en": "",
+      "city": "Hội An",
+      "country": "Vietnam",
+      "latitude": 15.880332,
+      "longitude": 108.329522,
+      "website": ""
+    },
+    {
+      "name": "Home",
+      "name_en": "",
+      "city": "Tây Ninh",
+      "country": "Vietnam",
+      "latitude": 11.337866,
+      "longitude": 106.123347,
+      "website": ""
+    },
+    {
+      "name": "Hoàng Thành",
+      "name_en": "Imperial City",
+      "city": "Huế",
+      "country": "Vietnam",
+      "latitude": 16.467708,
+      "longitude": 107.579037,
+      "website": ""
+    },
+    {
+      "name": "Hue Royal Antiquities Museum",
+      "name_en": "",
+      "city": "Huế",
+      "country": "Vietnam",
+      "latitude": 16.471111,
+      "longitude": 107.582095,
+      "website": ""
+    },
+    {
+      "name": "hội đồng Xuân",
+      "name_en": "",
+      "city": "Rạch Giá",
+      "country": "Vietnam",
+      "latitude": 9.978871,
+      "longitude": 105.104143,
+      "website": ""
+    },
+    {
+      "name": "khám lớn Cần Thơ",
+      "name_en": "",
+      "city": "Cần Thơ",
+      "country": "Vietnam",
+      "latitude": 10.036086,
+      "longitude": 105.788308,
+      "website": ""
+    },
+    {
+      "name": "Kon Tum Museum",
+      "name_en": "",
+      "city": "Kon Tum",
+      "country": "Vietnam",
+      "latitude": 14.347988,
+      "longitude": 107.999713,
+      "website": ""
+    },
+    {
+      "name": "Le Ba Dang Art Museum",
+      "name_en": "",
+      "city": "Huế",
+      "country": "Vietnam",
+      "latitude": 16.465791,
+      "longitude": 107.588068,
+      "website": ""
+    },
+    {
+      "name": "long thanh photo studio",
+      "name_en": "",
+      "city": "Nha Trang",
+      "country": "Vietnam",
+      "latitude": 12.250655,
+      "longitude": 109.187274,
+      "website": ""
+    },
+    {
+      "name": "làng cổ Đông Hòa Hiệp",
+      "name_en": "",
+      "city": "Vĩnh Long",
+      "country": "Vietnam",
+      "latitude": 10.34652,
+      "longitude": 106.007928,
+      "website": ""
+    },
+    {
+      "name": "Lâu đài Hoàng A Tưởng",
+      "name_en": "",
+      "city": "Thị Trấn Bắc Hà",
+      "country": "Vietnam",
+      "latitude": 22.541003,
+      "longitude": 104.295563,
+      "website": ""
+    },
+    {
+      "name": "lăng hoàng gia",
+      "name_en": "",
+      "city": "Tân Hòa",
+      "country": "Vietnam",
+      "latitude": 10.383401,
+      "longitude": 106.679943,
+      "website": ""
+    },
+    {
+      "name": "lăng Thoại Ngọc Hầu",
+      "name_en": "",
+      "city": "Cho Dok",
+      "country": "Vietnam",
+      "latitude": 10.682208,
+      "longitude": 105.07907,
+      "website": ""
+    },
+    {
+      "name": "Military Museum",
+      "name_en": "",
+      "city": "Huế",
+      "country": "Vietnam",
+      "latitude": 16.470146,
+      "longitude": 107.582732,
+      "website": ""
+    },
+    {
+      "name": "Miếu Thượng Thành",
+      "name_en": "",
+      "city": "Kim Bài",
+      "country": "Vietnam",
+      "latitude": 20.890767,
+      "longitude": 105.757901,
+      "website": ""
+    },
+    {
+      "name": "mua gạo",
+      "name_en": "",
+      "city": "Tân Hòa",
+      "country": "Vietnam",
+      "latitude": 10.362247,
+      "longitude": 106.676836,
+      "website": ""
+    },
+    {
+      "name": "Museum",
+      "name_en": "",
+      "city": "Nha Trang",
+      "country": "Vietnam",
+      "latitude": 12.218199,
+      "longitude": 109.191906,
+      "website": ""
+    },
+    {
+      "name": "Museum Dien Bien Phu",
+      "name_en": "",
+      "city": "Dien Bien Phu",
+      "country": "Vietnam",
+      "latitude": 21.380656,
+      "longitude": 103.015831,
+      "website": ""
+    },
+    {
+      "name": "Museum of Folklore",
+      "name_en": "",
+      "city": "Hội An",
+      "country": "Vietnam",
+      "latitude": 15.876235,
+      "longitude": 108.329937,
+      "website": ""
+    },
+    {
+      "name": "Museum of Traditional Vietnamese Medicine",
+      "name_en": "",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "latitude": 10.776283,
+      "longitude": 106.671968,
+      "website": ""
+    },
+    {
+      "name": "Museum of Yersin",
+      "name_en": "",
+      "city": "Nha Trang",
+      "country": "Vietnam",
+      "latitude": 12.250125,
+      "longitude": 109.196058,
+      "website": ""
+    },
+    {
+      "name": "My Son",
+      "name_en": "",
+      "city": "Sơn Tịnh",
+      "country": "Vietnam",
+      "latitude": 15.177211,
+      "longitude": 108.872022,
+      "website": ""
+    },
+    {
+      "name": "Nam Linh Sơn Tự",
+      "name_en": "",
+      "city": "Núi Sập",
+      "country": "Vietnam",
+      "latitude": 10.246073,
+      "longitude": 105.154392,
+      "website": ""
+    },
+    {
+      "name": "Nguyễn Huỳnh Đức",
+      "name_en": "",
+      "city": "Tân An",
+      "country": "Vietnam",
+      "latitude": 10.517621,
+      "longitude": 106.382743,
+      "website": ""
+    },
+    {
+      "name": "người tình nhà cổ Bình Thủy",
+      "name_en": "",
+      "city": "Cần Thơ",
+      "country": "Vietnam",
+      "latitude": 10.067241,
+      "longitude": 105.749529,
+      "website": ""
+    },
+    {
+      "name": "người tình nhà cổ huỳnh thị lê",
+      "name_en": "",
+      "city": "Sadek",
+      "country": "Vietnam",
+      "latitude": 10.293995,
+      "longitude": 105.76879,
+      "website": ""
+    },
+    {
+      "name": "người tình nhà cổ Huỳnh Thủy Lê",
+      "name_en": "",
+      "city": "Sadek",
+      "country": "Vietnam",
+      "latitude": 10.293957,
+      "longitude": 105.768453,
+      "website": ""
+    },
+    {
+      "name": "Nhà cổ",
+      "name_en": "",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "latitude": 10.778747,
+      "longitude": 106.652235,
+      "website": ""
+    },
+    {
+      "name": "nhà cổ bên kia cầu",
+      "name_en": "",
+      "city": "Bến Tre",
+      "country": "Vietnam",
+      "latitude": 10.234146,
+      "longitude": 106.370783,
+      "website": ""
+    },
+    {
+      "name": "nhà cổ bỏ hoang",
+      "name_en": "",
+      "city": "Chợ Gạo",
+      "country": "Vietnam",
+      "latitude": 10.359968,
+      "longitude": 106.486978,
+      "website": ""
+    },
+    {
+      "name": "Nhà cổ Phùng Hưng",
+      "name_en": "Phung Hung Old House",
+      "city": "Hội An",
+      "country": "Vietnam",
+      "latitude": 15.877217,
+      "longitude": 108.325825,
+      "website": ""
+    },
+    {
+      "name": "Nhà cổ Quân Thắng",
+      "name_en": "Old House of Quang Thang",
+      "city": "Hội An",
+      "country": "Vietnam",
+      "latitude": 15.877115,
+      "longitude": 108.329247,
+      "website": ""
+    },
+    {
+      "name": "Nhà cổ Trần Văn",
+      "name_en": "",
+      "city": "Thủ Dầu Một",
+      "country": "Vietnam",
+      "latitude": 10.97817,
+      "longitude": 106.651127,
+      "website": ""
+    },
+    {
+      "name": "nhà cổ Tấn Minh Nguyễn Minh Giác, làng cổ quận 9",
+      "name_en": "",
+      "city": "Dĩ An",
+      "country": "Vietnam",
+      "latitude": 10.836371,
+      "longitude": 106.796949,
+      "website": ""
+    },
+    {
+      "name": "Nhà cổ VA",
+      "name_en": "",
+      "city": "Thủ Dầu Một",
+      "country": "Vietnam",
+      "latitude": 10.97582,
+      "longitude": 106.653978,
+      "website": ""
+    },
+    {
+      "name": "nhà cổ ông Tòng",
+      "name_en": "",
+      "city": "Vĩnh Long",
+      "country": "Vietnam",
+      "latitude": 10.339417,
+      "longitude": 106.018473,
+      "website": ""
+    },
+    {
+      "name": "nhà cổ ông Xoát",
+      "name_en": "",
+      "city": "Vĩnh Long",
+      "country": "Vietnam",
+      "latitude": 10.3534,
+      "longitude": 106.014742,
+      "website": ""
+    },
+    {
+      "name": "Nhà cổ Đức An",
+      "name_en": "Duc An Ancient House",
+      "city": "Hội An",
+      "country": "Vietnam",
+      "latitude": 15.877052,
+      "longitude": 108.327343,
+      "website": ""
+    },
+    {
+      "name": "nhà mồ Ba Chúc",
+      "name_en": "",
+      "city": "Tri Tôn",
+      "country": "Vietnam",
+      "latitude": 10.499174,
+      "longitude": 104.907982,
+      "website": ""
+    },
+    {
+      "name": "Nhà Thiếu Nhi Quận 1",
+      "name_en": "",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "latitude": 10.784992,
+      "longitude": 106.698682,
+      "website": ""
+    },
+    {
+      "name": "nhà thờ Hòn Chông",
+      "name_en": "",
+      "city": "Hà Tiên",
+      "country": "Vietnam",
+      "latitude": 10.158366,
+      "longitude": 104.610989,
+      "website": ""
+    },
+    {
+      "name": "nhà thờ Thánh Tâm",
+      "name_en": "",
+      "city": "Tân Hòa",
+      "country": "Vietnam",
+      "latitude": 10.365391,
+      "longitude": 106.677481,
+      "website": ""
+    },
+    {
+      "name": "Oceanographic Institute of Nha Trang",
+      "name_en": "",
+      "city": "Nha Trang",
+      "country": "Vietnam",
+      "latitude": 12.207189,
+      "longitude": 109.214956,
+      "website": ""
+    },
+    {
+      "name": "Phòng Truyền thống Thành Đoàn",
+      "name_en": "HCMC Youth Museum",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "latitude": 10.782074,
+      "longitude": 106.697707,
+      "website": ""
+    },
+    {
+      "name": "phà An Sơn",
+      "name_en": "",
+      "city": "Lái Thiêu",
+      "country": "Vietnam",
+      "latitude": 10.920533,
+      "longitude": 106.666308,
+      "website": ""
+    },
+    {
+      "name": "phà Vàm Cống",
+      "name_en": "",
+      "city": "Long Xuyên",
+      "country": "Vietnam",
+      "latitude": 10.334527,
+      "longitude": 105.492764,
+      "website": ""
+    },
+    {
+      "name": "Phù Dung cổ tự",
+      "name_en": "",
+      "city": "Hà Tiên",
+      "country": "Vietnam",
+      "latitude": 10.388533,
+      "longitude": 104.482774,
+      "website": ""
+    },
+    {
+      "name": "quán cơm",
+      "name_en": "",
+      "city": "Vĩnh Long",
+      "country": "Vietnam",
+      "latitude": 10.236572,
+      "longitude": 105.962897,
+      "website": ""
+    },
+    {
+      "name": "Quảng trường Sao Đỏ",
+      "name_en": "",
+      "city": "Nam Sách",
+      "country": "Vietnam",
+      "latitude": 21.108153,
+      "longitude": 106.387864,
+      "website": ""
+    },
+    {
+      "name": "Sa Huynh",
+      "name_en": "",
+      "city": "Hội An",
+      "country": "Vietnam",
+      "latitude": 15.87707,
+      "longitude": 108.326452,
+      "website": ""
+    },
+    {
+      "name": "SaPa Museum",
+      "name_en": "",
+      "city": "Sa Pá",
+      "country": "Vietnam",
+      "latitude": 22.335457,
+      "longitude": 103.839988,
+      "website": ""
+    },
+    {
+      "name": "Tan Ky",
+      "name_en": "",
+      "city": "Hội An",
+      "country": "Vietnam",
+      "latitude": 15.876459,
+      "longitude": 108.327759,
+      "website": ""
+    },
+    {
+      "name": "Thai Museum",
+      "name_en": "",
+      "city": "Thị Trấn Mường Khến",
+      "country": "Vietnam",
+      "latitude": 20.649003,
+      "longitude": 105.076791,
+      "website": ""
+    },
+    {
+      "name": "thanh long",
+      "name_en": "",
+      "city": "Tầm Vu",
+      "country": "Vietnam",
+      "latitude": 10.397819,
+      "longitude": 106.48737,
+      "website": ""
+    },
+    {
+      "name": "The Museum of Trading Ceramics",
+      "name_en": "",
+      "city": "Hội An",
+      "country": "Vietnam",
+      "latitude": 15.877308,
+      "longitude": 108.329436,
+      "website": ""
+    },
+    {
+      "name": "The Old House Of Phun Hung",
+      "name_en": "",
+      "city": "Hội An",
+      "country": "Vietnam",
+      "latitude": 15.878503,
+      "longitude": 108.323312,
+      "website": ""
+    },
+    {
+      "name": "Thua Tien Hue Museum of History and Revolution",
+      "name_en": "",
+      "city": "Huế",
+      "country": "Vietnam",
+      "latitude": 16.451337,
+      "longitude": 107.582474,
+      "website": ""
+    },
+    {
+      "name": "TMA Museum",
+      "name_en": "",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "latitude": 10.855885,
+      "longitude": 106.631485,
+      "website": ""
+    },
+    {
+      "name": "Triệu Hoài An",
+      "name_en": "",
+      "city": "Biên Hòa",
+      "country": "Vietnam",
+      "latitude": 10.947136,
+      "longitude": 106.811567,
+      "website": ""
+    },
+    {
+      "name": "tuong dai liet sy (nga ba 5 do)",
+      "name_en": "",
+      "city": "Tây Ninh",
+      "country": "Vietnam",
+      "latitude": 11.336514,
+      "longitude": 106.111109,
+      "website": ""
+    },
+    {
+      "name": "từ đường ông Trần Quế Tử",
+      "name_en": "",
+      "city": "Bến Tre",
+      "country": "Vietnam",
+      "latitude": 10.230777,
+      "longitude": 106.363094,
+      "website": ""
+    },
+    {
+      "name": "Tử Cấm Thành",
+      "name_en": "Forbidden City",
+      "city": "Huế",
+      "country": "Vietnam",
+      "latitude": 16.469491,
+      "longitude": 107.577755,
+      "website": ""
+    },
+    {
+      "name": "UBND Giao Lạc",
+      "name_en": "",
+      "city": "Ngô Đồng",
+      "country": "Vietnam",
+      "latitude": 20.252512,
+      "longitude": 106.49369,
+      "website": ""
+    },
+    {
+      "name": "UBND xã Tiền Châu",
+      "name_en": "",
+      "city": "Phúc Yên",
+      "country": "Vietnam",
+      "latitude": 21.240943,
+      "longitude": 105.694438,
+      "website": ""
+    },
+    {
+      "name": "Vietnam War Museum",
+      "name_en": "",
+      "city": "Khe Sanh",
+      "country": "Vietnam",
+      "latitude": 16.634806,
+      "longitude": 106.428987,
+      "website": ""
+    },
+    {
+      "name": "võ hà thanh",
+      "name_en": "",
+      "city": "Biên Hòa",
+      "country": "Vietnam",
+      "latitude": 10.968578,
+      "longitude": 106.793048,
+      "website": ""
+    },
+    {
+      "name": "Văn Miếu",
+      "name_en": "Temple of Literature",
+      "city": "Hanoi",
+      "country": "Vietnam",
+      "latitude": 21.029142,
+      "longitude": 105.836115,
+      "website": ""
+    },
+    {
+      "name": "Vịnh Mốc tunnels museum",
+      "name_en": "",
+      "city": "Hồ Xá",
+      "country": "Vietnam",
+      "latitude": 17.07467,
+      "longitude": 107.112798,
+      "website": ""
+    },
+    {
+      "name": "Xã Bình Phú",
+      "name_en": "",
+      "city": "Hà Lam",
+      "country": "Vietnam",
+      "latitude": 15.645484,
+      "longitude": 108.334021,
+      "website": ""
+    },
+    {
+      "name": "Đi tích lịch sử tàu không số.",
+      "name_en": "",
+      "city": "Tuy Hòa",
+      "country": "Vietnam",
+      "latitude": 12.877397,
+      "longitude": 109.419396,
+      "website": ""
+    },
+    {
+      "name": "Điêm Phùng Thį",
+      "name_en": "Diem Phung Thi Art Exipition House",
+      "city": "Huế",
+      "country": "Vietnam",
+      "latitude": 16.457835,
+      "longitude": 107.584215,
+      "website": ""
+    },
+    {
+      "name": "đà lạt Milk",
+      "name_en": "",
+      "city": "Thạnh Mỹ",
+      "country": "Vietnam",
+      "latitude": 11.739259,
+      "longitude": 108.437953,
+      "website": ""
+    },
+    {
+      "name": "đường đẹp",
+      "name_en": "",
+      "city": "Tri Tôn",
+      "country": "Vietnam",
+      "latitude": 10.307858,
+      "longitude": 105.095537,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Bảo tàng tại Việt Nam (Museums in Vietnam) - Tải miễn phí",
+    "description": "Danh sách 122 bảo tàng tại Việt Nam từ OpenStreetMap, kèm tên, thành phố, tọa độ và trang web. Chứa 122 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Bảo tàng tại Việt Nam (Museums in Vietnam) | ListBase",
+    "seo_description": "Tải xuống Bảo tàng tại Việt Nam (Museums in Vietnam) — 122 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 122 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

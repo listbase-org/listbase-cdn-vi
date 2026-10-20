@@ -1,0 +1,126 @@
+{
+  "id": "vi-binh-thuan-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Bình Thuận",
+  "title": "Địa điểm du lịch Bình Thuận",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Bình Thuận (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 191,
+      "ten_dia_diem": "Tháp Chàm Poshanư",
+      "vi_tri": "Bình Thuận",
+      "tinh_truoc_sap_nhap_2025": "Bình Thuận",
+      "mo_ta": "Công trình kiến trúc cổ của người Chăm, mang giá trị lịch sử và văn hóa đặc sắc",
+      "danh_gia": "4.4/5",
+      "danh_gia_diem": 4.4,
+      "anh": "q",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 192,
+      "ten_dia_diem": "Hải đăng Kê Gà",
+      "vi_tri": "Bình Thuận",
+      "tinh_truoc_sap_nhap_2025": "Bình Thuận",
+      "mo_ta": "Một trong những ngọn hải đăng lâu đời nhất Việt Nam, nằm trên một hòn đảo nhỏ giữa biển",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxa7SzvqYuT8ZjhCcm7N3DyjfMyTL3BdJUuw&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 193,
+      "ten_dia_diem": "Bàu Trắng",
+      "vi_tri": "Bình Thuận",
+      "tinh_truoc_sap_nhap_2025": "Bình Thuận",
+      "mo_ta": "Hồ nước ngọt lớn giữa vùng cát trắng, còn gọi là \"tiểu sa mạc Sahara\" của Việt Nam.",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://ik.imagekit.io/tvlk/blog/2023/02/khu-du-lich-bao-trang-2.jpg?tr=dpr-2,w-675",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 194,
+      "ten_dia_diem": "Làng Chài Mũi Né",
+      "vi_tri": "Bình Thuận",
+      "tinh_truoc_sap_nhap_2025": "Bình Thuận",
+      "mo_ta": "Khu vực làng chài truyền thống ven biển, nơi bạn có thể ngắm cảnh thuyền ghe tấp nập và trải nghiệm mua hải sản tươi sống trực tiếp từ ngư dân.",
+      "danh_gia": "4.9/5",
+      "danh_gia_diem": 4.9,
+      "anh": "https://mia.vn/media/uploads/blog-du-lich/ghe-tham-lang-chai-mui-ne-binh-yen-va-day-tho-mong-1657634723.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 195,
+      "ten_dia_diem": "Hòn Rơm",
+      "vi_tri": "Bình Thuận",
+      "tinh_truoc_sap_nhap_2025": "Bình Thuận",
+      "mo_ta": "Bãi biển nổi tiếng với làn nước trong xanh, bờ cát dài mịn và không khí yên bình",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGLlkBsaPyFKARJzCxv_mll17BY3bsJcyS4w&s",
+      "tu_khoa": ""
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Bình Thuận - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Bình Thuận (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Bình Thuận | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Bình Thuận — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

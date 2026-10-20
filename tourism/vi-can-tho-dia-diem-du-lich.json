@@ -1,0 +1,126 @@
+{
+  "id": "vi-can-tho-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Cần Thơ",
+  "title": "Địa điểm du lịch Cần Thơ",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Cần Thơ (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 201,
+      "ten_dia_diem": "Chợ Nổi Cái Răng",
+      "vi_tri": "Cần Thơ",
+      "tinh_truoc_sap_nhap_2025": "Cần Thơ",
+      "mo_ta": "Chợ nổi lớn và nổi tiếng nhất ở miền Tây Nam Bộ, nơi buôn bán nhộn nhịp trên sông. Du khách có thể trải nghiệm văn hóa sông nước, mua sắm đặc sản và thưởng thức ẩm thực trên thuyền.",
+      "danh_gia": "4.2/5",
+      "danh_gia_diem": 4.2,
+      "anh": "https://vemekong.com/wp-content/uploads/2021/04/can-tho-bridge-vietnam-7a-1024x576.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 202,
+      "ten_dia_diem": "Cầu Cần Thơ",
+      "vi_tri": "Cần Thơ",
+      "tinh_truoc_sap_nhap_2025": "Cần Thơ",
+      "mo_ta": "Cây cầu dây văng lớn nhất Đông Nam Á, nối liền Cần Thơ và Vĩnh Long. Đây là điểm check-in nổi tiếng và mang tính biểu tượng của vùng đất Tây Nam Bộ.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxyvBpY5_eaRCVeve7UNtEdal3b-tXmfIj6g&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 203,
+      "ten_dia_diem": "Làng Du Lịch Sinh Thái Ông Đề",
+      "vi_tri": "Cần Thơ",
+      "tinh_truoc_sap_nhap_2025": "Cần Thơ",
+      "mo_ta": "Điểm đến hấp dẫn với cảnh quan xanh mát, các trò chơi dân gian, chèo thuyền, và thưởng thức các món ăn đặc sản miền Tây.",
+      "danh_gia": "3.9/5",
+      "danh_gia_diem": 3.9,
+      "anh": "https://thamhiemmekong.com/wp-content/uploads/2019/05/Ch%C3%B9a_%C3%94ng_C%E1%BA%A7n_Th%C6%A1.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 204,
+      "ten_dia_diem": "Chùa Ông",
+      "vi_tri": "Cần Thơ",
+      "tinh_truoc_sap_nhap_2025": "Cần Thơ",
+      "mo_ta": "Ngôi chùa cổ mang kiến trúc Trung Hoa, nổi tiếng linh thiêng và là nơi thờ Quan Công. Đây là địa điểm tham quan văn hóa độc đáo và check-in đẹp.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-X0nitGgMoDdl872gvoX7O36J24UYtatnQw&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 205,
+      "ten_dia_diem": "Cồn Sơn",
+      "vi_tri": "Cần Thơ",
+      "tinh_truoc_sap_nhap_2025": "Cần Thơ",
+      "mo_ta": "Khu sinh thái sông nước nổi tiếng, nơi du khách có thể tham quan làng cá bè, học làm bánh dân gian và trải nghiệm lối sống miệt vườn.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://dulichviet.com.vn/images/bandidau/review-tron-bo-kinh-nghiem-du-lich-con-son-can-tho-cuc-chi-tiet.jpg",
+      "tu_khoa": ""
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Cần Thơ - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Cần Thơ (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Cần Thơ | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Cần Thơ — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

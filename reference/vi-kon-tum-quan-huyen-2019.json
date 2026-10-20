@@ -1,0 +1,166 @@
+{
+  "id": "vi-kon-tum-quan-huyen-2019",
+  "name": "Kon Tum — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Kon Tum — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 10 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Kon Tum theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 9 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/KT.json). (10 district-level units of Kon Tum under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "KT-01",
+      "name": "Đăk Glei",
+      "name_full": "Huyện Đăk Glei",
+      "slug": "dak-glei",
+      "division_type": "Huyện",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 12
+    },
+    {
+      "code": "KT-02",
+      "name": "Đăk Hà",
+      "name_full": "Huyện Đăk Hà",
+      "slug": "dak-ha",
+      "division_type": "Huyện",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 11
+    },
+    {
+      "code": "KT-03",
+      "name": "Đăk Tô",
+      "name_full": "Huyện Đăk Tô",
+      "slug": "dak-to",
+      "division_type": "Huyện",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 9
+    },
+    {
+      "code": "KT-04",
+      "name": "Ia H'Drai",
+      "name_full": "Huyện Ia H'Drai",
+      "slug": "ia-h-drai",
+      "division_type": "Huyện",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 3
+    },
+    {
+      "code": "KT-05",
+      "name": "Kon Plông",
+      "name_full": "Huyện Kon Plông",
+      "slug": "kon-plong",
+      "division_type": "Huyện",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 9
+    },
+    {
+      "code": "KT-06",
+      "name": "Kon Rẫy",
+      "name_full": "Huyện Kon Rẫy",
+      "slug": "kon-ray",
+      "division_type": "Huyện",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 7
+    },
+    {
+      "code": "KT-07",
+      "name": "KonTum",
+      "name_full": "Thành phố KonTum",
+      "slug": "kontum",
+      "division_type": "Thành phố",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 21
+    },
+    {
+      "code": "KT-08",
+      "name": "Ngọc Hồi",
+      "name_full": "Huyện Ngọc Hồi",
+      "slug": "ngoc-hoi",
+      "division_type": "Huyện",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 8
+    },
+    {
+      "code": "KT-09",
+      "name": "Sa Thầy",
+      "name_full": "Huyện Sa Thầy",
+      "slug": "sa-thay",
+      "division_type": "Huyện",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 11
+    },
+    {
+      "code": "KT-10",
+      "name": "Tu Mơ Rông",
+      "name_full": "Huyện Tu Mơ Rông",
+      "slug": "tu-mo-rong",
+      "division_type": "Huyện",
+      "province_code": "KT",
+      "province_name": "Kon Tum",
+      "ward_count": 11
+    }
+  ],
+  "meta": {
+    "title": "Kon Tum — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 10 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Kon Tum theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 9 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/KT.json). (10 district-level units of Kon Tum under the pre-2025-merger 3-tier hierarchy.) Chứa 10 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Kon Tum — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Kon Tum — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 10 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 10 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

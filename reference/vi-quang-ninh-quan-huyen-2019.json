@@ -1,0 +1,206 @@
+{
+  "id": "vi-quang-ninh-quan-huyen-2019",
+  "name": "Quảng Ninh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Quảng Ninh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 14 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Quảng Ninh theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 10 Huyện, 3 Thành phố, 1 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/QNI.json). (14 district-level units of Quảng Ninh under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "QNI-01",
+      "name": "Ba Chẽ",
+      "name_full": "Huyện Ba Chẽ",
+      "slug": "ba-che",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 8
+    },
+    {
+      "code": "QNI-02",
+      "name": "Bình Liêu",
+      "name_full": "Huyện Bình Liêu",
+      "slug": "binh-lieu",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 8
+    },
+    {
+      "code": "QNI-03",
+      "name": "Cẩm Phả",
+      "name_full": "Thành phố Cẩm Phả",
+      "slug": "cam-pha",
+      "division_type": "Thành phố",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 16
+    },
+    {
+      "code": "QNI-04",
+      "name": "Cô Tô",
+      "name_full": "Huyện Cô Tô",
+      "slug": "co-to",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 4
+    },
+    {
+      "code": "QNI-05",
+      "name": "Đầm Hà",
+      "name_full": "Huyện Đầm Hà",
+      "slug": "dam-ha",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 10
+    },
+    {
+      "code": "QNI-06",
+      "name": "Đông Triều",
+      "name_full": "Huyện Đông Triều",
+      "slug": "dong-trieu",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 21
+    },
+    {
+      "code": "QNI-07",
+      "name": "Hạ Long",
+      "name_full": "Thành phố Hạ Long",
+      "slug": "ha-long",
+      "division_type": "Thành phố",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 20
+    },
+    {
+      "code": "QNI-08",
+      "name": "Hải Hà",
+      "name_full": "Huyện Hải Hà",
+      "slug": "hai-ha",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 17
+    },
+    {
+      "code": "QNI-09",
+      "name": "Hoành Bồ",
+      "name_full": "Huyện Hoành Bồ",
+      "slug": "hoanh-bo",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 13
+    },
+    {
+      "code": "QNI-10",
+      "name": "Móng Cái",
+      "name_full": "Thành phố Móng Cái",
+      "slug": "mong-cai",
+      "division_type": "Thành phố",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 17
+    },
+    {
+      "code": "QNI-11",
+      "name": "Quảng Yên",
+      "name_full": "Huyện Quảng Yên",
+      "slug": "quang-yen",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 19
+    },
+    {
+      "code": "QNI-12",
+      "name": "Tiên Yên",
+      "name_full": "Huyện Tiên Yên",
+      "slug": "tien-yen",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 12
+    },
+    {
+      "code": "QNI-13",
+      "name": "Uông Bí",
+      "name_full": "Thị xã Uông Bí",
+      "slug": "uong-bi",
+      "division_type": "Thị xã",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 11
+    },
+    {
+      "code": "QNI-14",
+      "name": "Vân Đồn",
+      "name_full": "Huyện Vân Đồn",
+      "slug": "van-don",
+      "division_type": "Huyện",
+      "province_code": "QNI",
+      "province_name": "Quảng Ninh",
+      "ward_count": 12
+    }
+  ],
+  "meta": {
+    "title": "Quảng Ninh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 14 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Quảng Ninh theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 10 Huyện, 3 Thành phố, 1 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/QNI.json). (14 district-level units of Quảng Ninh under the pre-2025-merger 3-tier hierarchy.) Chứa 14 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Quảng Ninh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Quảng Ninh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 14 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 14 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

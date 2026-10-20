@@ -1,0 +1,416 @@
+{
+  "id": "vi-dien-bien-wards",
+  "name": "Tỉnh Điện Biên — Phường, xã, đặc khu",
+  "title": "Tỉnh Điện Biên — Phường, xã, đặc khu",
+  "description": "Danh sách phường, xã, đặc khu thuộc Tỉnh Điện Biên (post-July-2025 rearrangement). Sau khi bỏ cấp huyện, Tỉnh Điện Biên còn 45 đơn vị hành chính cấp xã. Mỗi bản ghi gồm mã, tên, codename và phân loại đơn vị.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "codename",
+      "label": "Codename",
+      "type": "string"
+    },
+    {
+      "key": "short_codename",
+      "label": "Short Codename",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "division_type_en",
+      "label": "Division Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": 3127,
+      "name": "Phường Điện Biên Phủ",
+      "codename": "phuong_dien_bien_phu",
+      "short_codename": "dien_bien_phu",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 3151,
+      "name": "Phường Mường Lay",
+      "codename": "phuong_muong_lay",
+      "short_codename": "muong_lay",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 3158,
+      "name": "Xã Sín Thầu",
+      "codename": "xa_sin_thau",
+      "short_codename": "sin_thau",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3160,
+      "name": "Xã Mường Nhé",
+      "codename": "xa_muong_nhe",
+      "short_codename": "muong_nhe",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3162,
+      "name": "Xã Nậm Kè",
+      "codename": "xa_nam_ke",
+      "short_codename": "nam_ke",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3163,
+      "name": "Xã Mường Toong",
+      "codename": "xa_muong_toong",
+      "short_codename": "muong_toong",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3164,
+      "name": "Xã Quảng Lâm",
+      "codename": "xa_quang_lam",
+      "short_codename": "quang_lam",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3166,
+      "name": "Xã Mường Chà",
+      "codename": "xa_muong_cha",
+      "short_codename": "muong_cha",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3169,
+      "name": "Xã Nà Hỳ",
+      "codename": "xa_na_hy",
+      "short_codename": "na_hy",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3172,
+      "name": "Xã Na Sang",
+      "codename": "xa_na_sang",
+      "short_codename": "na_sang",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3175,
+      "name": "Xã Chà Tở",
+      "codename": "xa_cha_to",
+      "short_codename": "cha_to",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3176,
+      "name": "Xã Nà Bủng",
+      "codename": "xa_na_bung",
+      "short_codename": "na_bung",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3181,
+      "name": "Xã Mường Tùng",
+      "codename": "xa_muong_tung",
+      "short_codename": "muong_tung",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3193,
+      "name": "Xã Pa Ham",
+      "codename": "xa_pa_ham",
+      "short_codename": "pa_ham",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3194,
+      "name": "Xã Nậm Nèn",
+      "codename": "xa_nam_nen",
+      "short_codename": "nam_nen",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3199,
+      "name": "Xã Si Pa Phìn",
+      "codename": "xa_si_pa_phin",
+      "short_codename": "si_pa_phin",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3202,
+      "name": "Xã Mường Pồn",
+      "codename": "xa_muong_pon",
+      "short_codename": "muong_pon",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3203,
+      "name": "Xã Na Son",
+      "codename": "xa_na_son",
+      "short_codename": "na_son",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3208,
+      "name": "Xã Xa Dung",
+      "codename": "xa_xa_dung",
+      "short_codename": "xa_dung",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3214,
+      "name": "Xã Mường Luân",
+      "codename": "xa_muong_luan",
+      "short_codename": "muong_luan",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3217,
+      "name": "Xã Tủa Chùa",
+      "codename": "xa_tua_chua",
+      "short_codename": "tua_chua",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3220,
+      "name": "Xã Tủa Thàng",
+      "codename": "xa_tua_thang",
+      "short_codename": "tua_thang",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3226,
+      "name": "Xã Sín Chải",
+      "codename": "xa_sin_chai",
+      "short_codename": "sin_chai",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3241,
+      "name": "Xã Sính Phình",
+      "codename": "xa_sinh_phinh",
+      "short_codename": "sinh_phinh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3244,
+      "name": "Xã Sáng Nhè",
+      "codename": "xa_sang_nhe",
+      "short_codename": "sang_nhe",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3253,
+      "name": "Xã Tuần Giáo",
+      "codename": "xa_tuan_giao",
+      "short_codename": "tuan_giao",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3256,
+      "name": "Xã Mường Ảng",
+      "codename": "xa_muong_ang",
+      "short_codename": "muong_ang",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3260,
+      "name": "Xã Pú Nhung",
+      "codename": "xa_pu_nhung",
+      "short_codename": "pu_nhung",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3268,
+      "name": "Xã Mường Mùn",
+      "codename": "xa_muong_mun",
+      "short_codename": "muong_mun",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3283,
+      "name": "Xã Chiềng Sinh",
+      "codename": "xa_chieng_sinh",
+      "short_codename": "chieng_sinh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3295,
+      "name": "Xã Quài Tở",
+      "codename": "xa_quai_to",
+      "short_codename": "quai_to",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3301,
+      "name": "Xã Búng Lao",
+      "codename": "xa_bung_lao",
+      "short_codename": "bung_lao",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3313,
+      "name": "Xã Mường Lạn",
+      "codename": "xa_muong_lan",
+      "short_codename": "muong_lan",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3316,
+      "name": "Xã Nà Tấu",
+      "codename": "xa_na_tau",
+      "short_codename": "na_tau",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3325,
+      "name": "Xã Mường Phăng",
+      "codename": "xa_muong_phang",
+      "short_codename": "muong_phang",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3328,
+      "name": "Xã Thanh Nưa",
+      "codename": "xa_thanh_nua",
+      "short_codename": "thanh_nua",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3334,
+      "name": "Phường Mường Thanh",
+      "codename": "phuong_muong_thanh",
+      "short_codename": "muong_thanh",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 3349,
+      "name": "Xã Thanh Yên",
+      "codename": "xa_thanh_yen",
+      "short_codename": "thanh_yen",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3352,
+      "name": "Xã Thanh An",
+      "codename": "xa_thanh_an",
+      "short_codename": "thanh_an",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3356,
+      "name": "Xã Sam Mứn",
+      "codename": "xa_sam_mun",
+      "short_codename": "sam_mun",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3358,
+      "name": "Xã Núa Ngam",
+      "codename": "xa_nua_ngam",
+      "short_codename": "nua_ngam",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3368,
+      "name": "Xã Mường Nhà",
+      "codename": "xa_muong_nha",
+      "short_codename": "muong_nha",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3370,
+      "name": "Xã Pu Nhi",
+      "codename": "xa_pu_nhi",
+      "short_codename": "pu_nhi",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3382,
+      "name": "Xã Phình Giàng",
+      "codename": "xa_phinh_giang",
+      "short_codename": "phinh_giang",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 3385,
+      "name": "Xã Tìa Dình",
+      "codename": "xa_tia_dinh",
+      "short_codename": "tia_dinh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    }
+  ],
+  "meta": {
+    "title": "Tỉnh Điện Biên — Phường, xã, đặc khu - Tải miễn phí",
+    "description": "Danh sách phường, xã, đặc khu thuộc Tỉnh Điện Biên (post-July-2025 rearrangement). Sau khi bỏ cấp huyện, Tỉnh Điện Biên còn 45 đơn vị hành chính cấp xã. Mỗi bản ghi gồm mã, tên, codename và phân loại đơn vị. Chứa 45 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Tỉnh Điện Biên — Phường, xã, đặc khu | ListBase",
+    "seo_description": "Tải xuống Tỉnh Điện Biên — Phường, xã, đặc khu — 45 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 45 bản ghi / 6 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

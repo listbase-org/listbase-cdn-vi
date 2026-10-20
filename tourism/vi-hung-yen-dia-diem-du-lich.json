@@ -1,0 +1,126 @@
+{
+  "id": "vi-hung-yen-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Hưng Yên",
+  "title": "Địa điểm du lịch Hưng Yên",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Hưng Yên (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "number"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 311,
+      "ten_dia_diem": "Phố Hiến",
+      "vi_tri": "Hưng Yên",
+      "tinh_truoc_sap_nhap_2025": "Hưng Yên",
+      "mo_ta": "Phố Hiến (Hưng Yên) là một khu phố cổ nổi tiếng với những công trình kiến trúc mang đậm dấu ấn lịch sử. Đây là một điểm đến hấp dẫn cho du khách muốn tìm hiểu về lịch sử, văn hóa và thưởng thức ẩm thực địa phương.",
+      "danh_gia": "4",
+      "danh_gia_diem": 4,
+      "anh": "https://media.thanhtra.com.vn/public/data/images/0/2022/02/19/travan/pho%CC%82%CC%81-hie%CC%82%CC%81n-1.jpeg",
+      "tu_khoa": "du lịch, thiên nhiên, cảnh đẹp"
+    },
+    {
+      "stt": 312,
+      "ten_dia_diem": "Chùa Chuông",
+      "vi_tri": "Hưng Yên",
+      "tinh_truoc_sap_nhap_2025": "Hưng Yên",
+      "mo_ta": "Chùa Chuông (Hà Nội) là một ngôi chùa cổ có kiến trúc độc đáo, nằm trong khuôn viên rộng rãi, thanh tịnh. Đây là một địa điểm hành hương nổi tiếng, thu hút đông đảo phật tử và du khách đến tham quan.",
+      "danh_gia": "4.3",
+      "danh_gia_diem": 4.3,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN_eID3pJlJkMN1b66P0GMq8yYTTUBj05Y6w&s",
+      "tu_khoa": "lịch sử, văn hóa, khám phá"
+    },
+    {
+      "stt": 313,
+      "ten_dia_diem": "Làng nghề đúc đồng Lộng Thượng",
+      "vi_tri": "Hưng Yên",
+      "tinh_truoc_sap_nhap_2025": "Hưng Yên",
+      "mo_ta": "Làng nghề đúc đồng Lộng Thượng (Hà Nội) nổi tiếng với nghề đúc đồng truyền thống từ lâu đời. Du khách có thể tham quan quy trình sản xuất các sản phẩm đồng thủ công mỹ nghệ và tìm hiểu về lịch sử làng nghề.",
+      "danh_gia": "4.7",
+      "danh_gia_diem": 4.7,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZBAnp--Ji_JlUPtWDWROIXwNRBCdT5cjONQ&s",
+      "tu_khoa": "địa danh nổi tiếng, biểu tượng"
+    },
+    {
+      "stt": 314,
+      "ten_dia_diem": "Đền Phù Ủng",
+      "vi_tri": "Hưng Yên",
+      "tinh_truoc_sap_nhap_2025": "Hưng Yên",
+      "mo_ta": "Đền Phù Ủng (Hưng Yên) là di tích lịch sử, thờ Đức thánh Phù Ủng, người có công giúp vua Hùng trong các cuộc chiến. Đền nằm trong khuôn viên rộng lớn, với không gian thanh tịnh và linh thiêng.",
+      "danh_gia": "4.6",
+      "danh_gia_diem": 4.6,
+      "anh": "https://s-aicmscdn.vietnamhoinhap.vn/vnhn-media/20/1/26/img_2020-01-26_1580004165.jpg",
+      "tu_khoa": "thư giãn, yên bình, du lịch sinh thái"
+    },
+    {
+      "stt": 315,
+      "ten_dia_diem": "Đình làng Nôm",
+      "vi_tri": "Hưng Yên",
+      "tinh_truoc_sap_nhap_2025": "Hưng Yên",
+      "mo_ta": "Đình làng Nôm (Hưng Yên) là một di tích văn hóa đặc sắc, nổi bật với kiến trúc cổ truyền và các hoạt động lễ hội dân gian. Đây là điểm đến thu hút du khách khám phá những giá trị văn hóa truyền thống.",
+      "danh_gia": "3.9",
+      "danh_gia_diem": 3.9,
+      "anh": "https://imagev3.vietnamplus.vn/w1000/Uploaded/2024/qfsqy/2022_11_04/dinh_lang_nom.JPG.webp",
+      "tu_khoa": "bảo tồn, động vật, thực vật"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Hưng Yên - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Hưng Yên (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Hưng Yên | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Hưng Yên — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

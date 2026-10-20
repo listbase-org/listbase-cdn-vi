@@ -1,0 +1,126 @@
+{
+  "id": "vi-yen-bai-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Yên Bái",
+  "title": "Địa điểm du lịch Yên Bái",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Yên Bái (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 236,
+      "ten_dia_diem": "Ruộng bậc thang Mù Cang Chải",
+      "vi_tri": "Yên Bái",
+      "tinh_truoc_sap_nhap_2025": "Yên Bái",
+      "mo_ta": "bậc thang Mù Cang Chải là kiệt tác thiên nhiên và lao động của đồng bào dân tộc H'Mông, nổi tiếng với vẻ đẹp hùng vĩ, đặc biệt vào mùa lúa chín (tháng 9 - tháng 10). Đây là Di sản Quốc gia và một trong những điểm đến hấp dẫn nhất Việt Nam.",
+      "danh_gia": "4.8/5",
+      "danh_gia_diem": 4.8,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK66m6GnUSJ7OdjdD2BIgcEkNxillIq3zJeg&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 237,
+      "ten_dia_diem": "Hồ Thác Bà",
+      "vi_tri": "Yên Bái",
+      "tinh_truoc_sap_nhap_2025": "Yên Bái",
+      "mo_ta": "Hồ Thác Bà là một trong những hồ nước nhân tạo lớn nhất Việt Nam, được bao quanh bởi hàng trăm hòn đảo nhỏ và cảnh quan núi non tuyệt đẹp. Du khách có thể tham gia các hoạt động như chèo thuyền, cắm trại, hoặc khám phá hang động quanh hồ.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1L7AB6L_cA8vq4sI3Yy17tMYk2yx4jmV_2Q&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 238,
+      "ten_dia_diem": "Suối Giàng",
+      "vi_tri": "Yên Bái",
+      "tinh_truoc_sap_nhap_2025": "Yên Bái",
+      "mo_ta": "Suối Giàng nổi tiếng với những cây chè Shan tuyết cổ thụ hàng trăm năm tuổi và khí hậu mát mẻ quanh năm. Đây là nơi lý tưởng để thưởng trà, tận hưởng không khí trong lành và tìm hiểu văn hóa của đồng bào người Mông.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://motogo.vn/wp-content/uploads/2020/02/du-lich-yen-bai-mu-cang-chai-7.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 239,
+      "ten_dia_diem": "Bản Lìm Mông",
+      "vi_tri": "Yên Bái",
+      "tinh_truoc_sap_nhap_2025": "Yên Bái",
+      "mo_ta": "Bản Lìm Mông là một ngôi làng nhỏ nằm giữa những ngọn núi và ruộng bậc thang tuyệt đẹp. Đây là nơi du khách có thể trải nghiệm cuộc sống của người H'Mông, tận hưởng sự yên bình và không khí trong lành.",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxk3hjozJUo0JtAfDF67UVi5NiofujgEHYw&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 240,
+      "ten_dia_diem": "Động Thiên Cung",
+      "vi_tri": "Yên Bái",
+      "tinh_truoc_sap_nhap_2025": "Yên Bái",
+      "mo_ta": "Động Thiên Cung nằm trong khu vực hồ Thác Bà, nổi tiếng với hệ thống nhũ đá lung linh và phong cảnh huyền ảo bên trong hang động. Đây là điểm tham quan hấp dẫn cho những ai yêu thích khám phá hang động.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://ik.imagekit.io/tvlk/blog/2023/06/dong-thien-cung-19-1024x684.jpg?tr=dpr-2,w-675",
+      "tu_khoa": ""
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Yên Bái - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Yên Bái (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Yên Bái | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Yên Bái — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

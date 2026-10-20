@@ -1,0 +1,1286 @@
+{
+  "id": "vi-cac-quoc-gia-the-gioi",
+  "name": "Các quốc gia và vùng lãnh thổ trên thế giới",
+  "title": "Các quốc gia và vùng lãnh thổ trên thế giới",
+  "description": "Danh sách quốc gia và vùng lãnh thổ trên thế giới — mã ISO 3166-1 alpha-2 kèm tên gọi bằng tiếng Việt, 249 bản ghi. Ví dụ: Việt Nam (VN), Hoa Kỳ (US), Nhật Bản (JP), Trung Quốc (CN), Hàn Quốc (KR), Thái Lan (TH), Pháp (FR), Đức (DE), Vương quốc Anh (GB), Ả Rập Xê-út (SA), Ai Cập (EG). Sắp xếp theo mã quốc gia. Bổ sung cho bộ mã điện thoại quốc gia hiện có (vi-ma-quoc-gia-dien-thoai) bằng danh sách TÊN quốc gia. Nguồn: dữ liệu CLDR (Unicode) qua kho umpirsky/country-list.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 249,
+  "columns": [
+    {
+      "key": "ma",
+      "label": "Ma",
+      "type": "string"
+    },
+    {
+      "key": "ten",
+      "label": "Ten",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ma": "AD",
+      "ten": "Andorra",
+      "name_en": "Andorra"
+    },
+    {
+      "ma": "AE",
+      "ten": "Các Tiểu Vương quốc Ả Rập Thống nhất",
+      "name_en": "United Arab Emirates"
+    },
+    {
+      "ma": "AF",
+      "ten": "Afghanistan",
+      "name_en": "Afghanistan"
+    },
+    {
+      "ma": "AG",
+      "ten": "Antigua và Barbuda",
+      "name_en": "Antigua & Barbuda"
+    },
+    {
+      "ma": "AI",
+      "ten": "Anguilla",
+      "name_en": "Anguilla"
+    },
+    {
+      "ma": "AL",
+      "ten": "Albania",
+      "name_en": "Albania"
+    },
+    {
+      "ma": "AM",
+      "ten": "Armenia",
+      "name_en": "Armenia"
+    },
+    {
+      "ma": "AO",
+      "ten": "Angola",
+      "name_en": "Angola"
+    },
+    {
+      "ma": "AQ",
+      "ten": "Nam Cực",
+      "name_en": "Antarctica"
+    },
+    {
+      "ma": "AR",
+      "ten": "Argentina",
+      "name_en": "Argentina"
+    },
+    {
+      "ma": "AS",
+      "ten": "Samoa thuộc Mỹ",
+      "name_en": "American Samoa"
+    },
+    {
+      "ma": "AT",
+      "ten": "Áo",
+      "name_en": "Austria"
+    },
+    {
+      "ma": "AU",
+      "ten": "Australia",
+      "name_en": "Australia"
+    },
+    {
+      "ma": "AW",
+      "ten": "Aruba",
+      "name_en": "Aruba"
+    },
+    {
+      "ma": "AX",
+      "ten": "Quần đảo Åland",
+      "name_en": "Åland Islands"
+    },
+    {
+      "ma": "AZ",
+      "ten": "Azerbaijan",
+      "name_en": "Azerbaijan"
+    },
+    {
+      "ma": "BA",
+      "ten": "Bosnia và Herzegovina",
+      "name_en": "Bosnia & Herzegovina"
+    },
+    {
+      "ma": "BB",
+      "ten": "Barbados",
+      "name_en": "Barbados"
+    },
+    {
+      "ma": "BD",
+      "ten": "Bangladesh",
+      "name_en": "Bangladesh"
+    },
+    {
+      "ma": "BE",
+      "ten": "Bỉ",
+      "name_en": "Belgium"
+    },
+    {
+      "ma": "BF",
+      "ten": "Burkina Faso",
+      "name_en": "Burkina Faso"
+    },
+    {
+      "ma": "BG",
+      "ten": "Bulgaria",
+      "name_en": "Bulgaria"
+    },
+    {
+      "ma": "BH",
+      "ten": "Bahrain",
+      "name_en": "Bahrain"
+    },
+    {
+      "ma": "BI",
+      "ten": "Burundi",
+      "name_en": "Burundi"
+    },
+    {
+      "ma": "BJ",
+      "ten": "Benin",
+      "name_en": "Benin"
+    },
+    {
+      "ma": "BL",
+      "ten": "St. Barthélemy",
+      "name_en": "St. Barthélemy"
+    },
+    {
+      "ma": "BM",
+      "ten": "Bermuda",
+      "name_en": "Bermuda"
+    },
+    {
+      "ma": "BN",
+      "ten": "Brunei",
+      "name_en": "Brunei"
+    },
+    {
+      "ma": "BO",
+      "ten": "Bolivia",
+      "name_en": "Bolivia"
+    },
+    {
+      "ma": "BQ",
+      "ten": "Ca-ri-bê Hà Lan",
+      "name_en": "Caribbean Netherlands"
+    },
+    {
+      "ma": "BR",
+      "ten": "Brazil",
+      "name_en": "Brazil"
+    },
+    {
+      "ma": "BS",
+      "ten": "Bahamas",
+      "name_en": "Bahamas"
+    },
+    {
+      "ma": "BT",
+      "ten": "Bhutan",
+      "name_en": "Bhutan"
+    },
+    {
+      "ma": "BV",
+      "ten": "Đảo Bouvet",
+      "name_en": "Bouvet Island"
+    },
+    {
+      "ma": "BW",
+      "ten": "Botswana",
+      "name_en": "Botswana"
+    },
+    {
+      "ma": "BY",
+      "ten": "Belarus",
+      "name_en": "Belarus"
+    },
+    {
+      "ma": "BZ",
+      "ten": "Belize",
+      "name_en": "Belize"
+    },
+    {
+      "ma": "CA",
+      "ten": "Canada",
+      "name_en": "Canada"
+    },
+    {
+      "ma": "CC",
+      "ten": "Quần đảo Cocos (Keeling)",
+      "name_en": "Cocos (Keeling) Islands"
+    },
+    {
+      "ma": "CD",
+      "ten": "Congo - Kinshasa",
+      "name_en": "Congo - Kinshasa"
+    },
+    {
+      "ma": "CF",
+      "ten": "Cộng hòa Trung Phi",
+      "name_en": "Central African Republic"
+    },
+    {
+      "ma": "CG",
+      "ten": "Congo - Brazzaville",
+      "name_en": "Congo - Brazzaville"
+    },
+    {
+      "ma": "CH",
+      "ten": "Thụy Sĩ",
+      "name_en": "Switzerland"
+    },
+    {
+      "ma": "CI",
+      "ten": "Côte d’Ivoire",
+      "name_en": "Côte d’Ivoire"
+    },
+    {
+      "ma": "CK",
+      "ten": "Quần đảo Cook",
+      "name_en": "Cook Islands"
+    },
+    {
+      "ma": "CL",
+      "ten": "Chile",
+      "name_en": "Chile"
+    },
+    {
+      "ma": "CM",
+      "ten": "Cameroon",
+      "name_en": "Cameroon"
+    },
+    {
+      "ma": "CN",
+      "ten": "Trung Quốc",
+      "name_en": "China"
+    },
+    {
+      "ma": "CO",
+      "ten": "Colombia",
+      "name_en": "Colombia"
+    },
+    {
+      "ma": "CR",
+      "ten": "Costa Rica",
+      "name_en": "Costa Rica"
+    },
+    {
+      "ma": "CU",
+      "ten": "Cuba",
+      "name_en": "Cuba"
+    },
+    {
+      "ma": "CV",
+      "ten": "Cape Verde",
+      "name_en": "Cape Verde"
+    },
+    {
+      "ma": "CW",
+      "ten": "Curaçao",
+      "name_en": "Curaçao"
+    },
+    {
+      "ma": "CX",
+      "ten": "Đảo Giáng Sinh",
+      "name_en": "Christmas Island"
+    },
+    {
+      "ma": "CY",
+      "ten": "Síp",
+      "name_en": "Cyprus"
+    },
+    {
+      "ma": "CZ",
+      "ten": "Séc",
+      "name_en": "Czechia"
+    },
+    {
+      "ma": "DE",
+      "ten": "Đức",
+      "name_en": "Germany"
+    },
+    {
+      "ma": "DJ",
+      "ten": "Djibouti",
+      "name_en": "Djibouti"
+    },
+    {
+      "ma": "DK",
+      "ten": "Đan Mạch",
+      "name_en": "Denmark"
+    },
+    {
+      "ma": "DM",
+      "ten": "Dominica",
+      "name_en": "Dominica"
+    },
+    {
+      "ma": "DO",
+      "ten": "Cộng hòa Dominica",
+      "name_en": "Dominican Republic"
+    },
+    {
+      "ma": "DZ",
+      "ten": "Algeria",
+      "name_en": "Algeria"
+    },
+    {
+      "ma": "EC",
+      "ten": "Ecuador",
+      "name_en": "Ecuador"
+    },
+    {
+      "ma": "EE",
+      "ten": "Estonia",
+      "name_en": "Estonia"
+    },
+    {
+      "ma": "EG",
+      "ten": "Ai Cập",
+      "name_en": "Egypt"
+    },
+    {
+      "ma": "EH",
+      "ten": "Tây Sahara",
+      "name_en": "Western Sahara"
+    },
+    {
+      "ma": "ER",
+      "ten": "Eritrea",
+      "name_en": "Eritrea"
+    },
+    {
+      "ma": "ES",
+      "ten": "Tây Ban Nha",
+      "name_en": "Spain"
+    },
+    {
+      "ma": "ET",
+      "ten": "Ethiopia",
+      "name_en": "Ethiopia"
+    },
+    {
+      "ma": "FI",
+      "ten": "Phần Lan",
+      "name_en": "Finland"
+    },
+    {
+      "ma": "FJ",
+      "ten": "Fiji",
+      "name_en": "Fiji"
+    },
+    {
+      "ma": "FK",
+      "ten": "Quần đảo Falkland",
+      "name_en": "Falkland Islands"
+    },
+    {
+      "ma": "FM",
+      "ten": "Micronesia",
+      "name_en": "Micronesia"
+    },
+    {
+      "ma": "FO",
+      "ten": "Quần đảo Faroe",
+      "name_en": "Faroe Islands"
+    },
+    {
+      "ma": "FR",
+      "ten": "Pháp",
+      "name_en": "France"
+    },
+    {
+      "ma": "GA",
+      "ten": "Gabon",
+      "name_en": "Gabon"
+    },
+    {
+      "ma": "GB",
+      "ten": "Vương quốc Anh",
+      "name_en": "United Kingdom"
+    },
+    {
+      "ma": "GD",
+      "ten": "Grenada",
+      "name_en": "Grenada"
+    },
+    {
+      "ma": "GE",
+      "ten": "Georgia",
+      "name_en": "Georgia"
+    },
+    {
+      "ma": "GF",
+      "ten": "Guiana thuộc Pháp",
+      "name_en": "French Guiana"
+    },
+    {
+      "ma": "GG",
+      "ten": "Guernsey",
+      "name_en": "Guernsey"
+    },
+    {
+      "ma": "GH",
+      "ten": "Ghana",
+      "name_en": "Ghana"
+    },
+    {
+      "ma": "GI",
+      "ten": "Gibraltar",
+      "name_en": "Gibraltar"
+    },
+    {
+      "ma": "GL",
+      "ten": "Greenland",
+      "name_en": "Greenland"
+    },
+    {
+      "ma": "GM",
+      "ten": "Gambia",
+      "name_en": "Gambia"
+    },
+    {
+      "ma": "GN",
+      "ten": "Guinea",
+      "name_en": "Guinea"
+    },
+    {
+      "ma": "GP",
+      "ten": "Guadeloupe",
+      "name_en": "Guadeloupe"
+    },
+    {
+      "ma": "GQ",
+      "ten": "Guinea Xích Đạo",
+      "name_en": "Equatorial Guinea"
+    },
+    {
+      "ma": "GR",
+      "ten": "Hy Lạp",
+      "name_en": "Greece"
+    },
+    {
+      "ma": "GS",
+      "ten": "Nam Georgia & Quần đảo Nam Sandwich",
+      "name_en": "South Georgia & South Sandwich Islands"
+    },
+    {
+      "ma": "GT",
+      "ten": "Guatemala",
+      "name_en": "Guatemala"
+    },
+    {
+      "ma": "GU",
+      "ten": "Guam",
+      "name_en": "Guam"
+    },
+    {
+      "ma": "GW",
+      "ten": "Guinea-Bissau",
+      "name_en": "Guinea-Bissau"
+    },
+    {
+      "ma": "GY",
+      "ten": "Guyana",
+      "name_en": "Guyana"
+    },
+    {
+      "ma": "HK",
+      "ten": "Hồng Kông, Trung Quốc",
+      "name_en": "Hong Kong SAR China"
+    },
+    {
+      "ma": "HM",
+      "ten": "Quần đảo Heard và McDonald",
+      "name_en": "Heard & McDonald Islands"
+    },
+    {
+      "ma": "HN",
+      "ten": "Honduras",
+      "name_en": "Honduras"
+    },
+    {
+      "ma": "HR",
+      "ten": "Croatia",
+      "name_en": "Croatia"
+    },
+    {
+      "ma": "HT",
+      "ten": "Haiti",
+      "name_en": "Haiti"
+    },
+    {
+      "ma": "HU",
+      "ten": "Hungary",
+      "name_en": "Hungary"
+    },
+    {
+      "ma": "ID",
+      "ten": "Indonesia",
+      "name_en": "Indonesia"
+    },
+    {
+      "ma": "IE",
+      "ten": "Ireland",
+      "name_en": "Ireland"
+    },
+    {
+      "ma": "IL",
+      "ten": "Israel",
+      "name_en": "Israel"
+    },
+    {
+      "ma": "IM",
+      "ten": "Đảo Man",
+      "name_en": "Isle of Man"
+    },
+    {
+      "ma": "IN",
+      "ten": "Ấn Độ",
+      "name_en": "India"
+    },
+    {
+      "ma": "IO",
+      "ten": "Lãnh thổ Ấn Độ Dương thuộc Anh",
+      "name_en": "British Indian Ocean Territory"
+    },
+    {
+      "ma": "IQ",
+      "ten": "Iraq",
+      "name_en": "Iraq"
+    },
+    {
+      "ma": "IR",
+      "ten": "Iran",
+      "name_en": "Iran"
+    },
+    {
+      "ma": "IS",
+      "ten": "Iceland",
+      "name_en": "Iceland"
+    },
+    {
+      "ma": "IT",
+      "ten": "Italy",
+      "name_en": "Italy"
+    },
+    {
+      "ma": "JE",
+      "ten": "Jersey",
+      "name_en": "Jersey"
+    },
+    {
+      "ma": "JM",
+      "ten": "Jamaica",
+      "name_en": "Jamaica"
+    },
+    {
+      "ma": "JO",
+      "ten": "Jordan",
+      "name_en": "Jordan"
+    },
+    {
+      "ma": "JP",
+      "ten": "Nhật Bản",
+      "name_en": "Japan"
+    },
+    {
+      "ma": "KE",
+      "ten": "Kenya",
+      "name_en": "Kenya"
+    },
+    {
+      "ma": "KG",
+      "ten": "Kyrgyzstan",
+      "name_en": "Kyrgyzstan"
+    },
+    {
+      "ma": "KH",
+      "ten": "Campuchia",
+      "name_en": "Cambodia"
+    },
+    {
+      "ma": "KI",
+      "ten": "Kiribati",
+      "name_en": "Kiribati"
+    },
+    {
+      "ma": "KM",
+      "ten": "Comoros",
+      "name_en": "Comoros"
+    },
+    {
+      "ma": "KN",
+      "ten": "St. Kitts và Nevis",
+      "name_en": "St. Kitts & Nevis"
+    },
+    {
+      "ma": "KP",
+      "ten": "Triều Tiên",
+      "name_en": "North Korea"
+    },
+    {
+      "ma": "KR",
+      "ten": "Hàn Quốc",
+      "name_en": "South Korea"
+    },
+    {
+      "ma": "KW",
+      "ten": "Kuwait",
+      "name_en": "Kuwait"
+    },
+    {
+      "ma": "KY",
+      "ten": "Quần đảo Cayman",
+      "name_en": "Cayman Islands"
+    },
+    {
+      "ma": "KZ",
+      "ten": "Kazakhstan",
+      "name_en": "Kazakhstan"
+    },
+    {
+      "ma": "LA",
+      "ten": "Lào",
+      "name_en": "Laos"
+    },
+    {
+      "ma": "LB",
+      "ten": "Li-băng",
+      "name_en": "Lebanon"
+    },
+    {
+      "ma": "LC",
+      "ten": "St. Lucia",
+      "name_en": "St. Lucia"
+    },
+    {
+      "ma": "LI",
+      "ten": "Liechtenstein",
+      "name_en": "Liechtenstein"
+    },
+    {
+      "ma": "LK",
+      "ten": "Sri Lanka",
+      "name_en": "Sri Lanka"
+    },
+    {
+      "ma": "LR",
+      "ten": "Liberia",
+      "name_en": "Liberia"
+    },
+    {
+      "ma": "LS",
+      "ten": "Lesotho",
+      "name_en": "Lesotho"
+    },
+    {
+      "ma": "LT",
+      "ten": "Litva",
+      "name_en": "Lithuania"
+    },
+    {
+      "ma": "LU",
+      "ten": "Luxembourg",
+      "name_en": "Luxembourg"
+    },
+    {
+      "ma": "LV",
+      "ten": "Latvia",
+      "name_en": "Latvia"
+    },
+    {
+      "ma": "LY",
+      "ten": "Libya",
+      "name_en": "Libya"
+    },
+    {
+      "ma": "MA",
+      "ten": "Ma-rốc",
+      "name_en": "Morocco"
+    },
+    {
+      "ma": "MC",
+      "ten": "Monaco",
+      "name_en": "Monaco"
+    },
+    {
+      "ma": "MD",
+      "ten": "Moldova",
+      "name_en": "Moldova"
+    },
+    {
+      "ma": "ME",
+      "ten": "Montenegro",
+      "name_en": "Montenegro"
+    },
+    {
+      "ma": "MF",
+      "ten": "St. Martin",
+      "name_en": "St. Martin"
+    },
+    {
+      "ma": "MG",
+      "ten": "Madagascar",
+      "name_en": "Madagascar"
+    },
+    {
+      "ma": "MH",
+      "ten": "Quần đảo Marshall",
+      "name_en": "Marshall Islands"
+    },
+    {
+      "ma": "MK",
+      "ten": "Bắc Macedonia",
+      "name_en": "North Macedonia"
+    },
+    {
+      "ma": "ML",
+      "ten": "Mali",
+      "name_en": "Mali"
+    },
+    {
+      "ma": "MM",
+      "ten": "Myanmar (Miến Điện)",
+      "name_en": "Myanmar (Burma)"
+    },
+    {
+      "ma": "MN",
+      "ten": "Mông Cổ",
+      "name_en": "Mongolia"
+    },
+    {
+      "ma": "MO",
+      "ten": "Macao, Trung Quốc",
+      "name_en": "Macao SAR China"
+    },
+    {
+      "ma": "MP",
+      "ten": "Quần đảo Bắc Mariana",
+      "name_en": "Northern Mariana Islands"
+    },
+    {
+      "ma": "MQ",
+      "ten": "Martinique",
+      "name_en": "Martinique"
+    },
+    {
+      "ma": "MR",
+      "ten": "Mauritania",
+      "name_en": "Mauritania"
+    },
+    {
+      "ma": "MS",
+      "ten": "Montserrat",
+      "name_en": "Montserrat"
+    },
+    {
+      "ma": "MT",
+      "ten": "Malta",
+      "name_en": "Malta"
+    },
+    {
+      "ma": "MU",
+      "ten": "Mauritius",
+      "name_en": "Mauritius"
+    },
+    {
+      "ma": "MV",
+      "ten": "Maldives",
+      "name_en": "Maldives"
+    },
+    {
+      "ma": "MW",
+      "ten": "Malawi",
+      "name_en": "Malawi"
+    },
+    {
+      "ma": "MX",
+      "ten": "Mexico",
+      "name_en": "Mexico"
+    },
+    {
+      "ma": "MY",
+      "ten": "Malaysia",
+      "name_en": "Malaysia"
+    },
+    {
+      "ma": "MZ",
+      "ten": "Mozambique",
+      "name_en": "Mozambique"
+    },
+    {
+      "ma": "NA",
+      "ten": "Namibia",
+      "name_en": "Namibia"
+    },
+    {
+      "ma": "NC",
+      "ten": "New Caledonia",
+      "name_en": "New Caledonia"
+    },
+    {
+      "ma": "NE",
+      "ten": "Niger",
+      "name_en": "Niger"
+    },
+    {
+      "ma": "NF",
+      "ten": "Đảo Norfolk",
+      "name_en": "Norfolk Island"
+    },
+    {
+      "ma": "NG",
+      "ten": "Nigeria",
+      "name_en": "Nigeria"
+    },
+    {
+      "ma": "NI",
+      "ten": "Nicaragua",
+      "name_en": "Nicaragua"
+    },
+    {
+      "ma": "NL",
+      "ten": "Hà Lan",
+      "name_en": "Netherlands"
+    },
+    {
+      "ma": "NO",
+      "ten": "Na Uy",
+      "name_en": "Norway"
+    },
+    {
+      "ma": "NP",
+      "ten": "Nepal",
+      "name_en": "Nepal"
+    },
+    {
+      "ma": "NR",
+      "ten": "Nauru",
+      "name_en": "Nauru"
+    },
+    {
+      "ma": "NU",
+      "ten": "Niue",
+      "name_en": "Niue"
+    },
+    {
+      "ma": "NZ",
+      "ten": "New Zealand",
+      "name_en": "New Zealand"
+    },
+    {
+      "ma": "OM",
+      "ten": "Oman",
+      "name_en": "Oman"
+    },
+    {
+      "ma": "PA",
+      "ten": "Panama",
+      "name_en": "Panama"
+    },
+    {
+      "ma": "PE",
+      "ten": "Peru",
+      "name_en": "Peru"
+    },
+    {
+      "ma": "PF",
+      "ten": "Polynesia thuộc Pháp",
+      "name_en": "French Polynesia"
+    },
+    {
+      "ma": "PG",
+      "ten": "Papua New Guinea",
+      "name_en": "Papua New Guinea"
+    },
+    {
+      "ma": "PH",
+      "ten": "Philippines",
+      "name_en": "Philippines"
+    },
+    {
+      "ma": "PK",
+      "ten": "Pakistan",
+      "name_en": "Pakistan"
+    },
+    {
+      "ma": "PL",
+      "ten": "Ba Lan",
+      "name_en": "Poland"
+    },
+    {
+      "ma": "PM",
+      "ten": "Saint Pierre và Miquelon",
+      "name_en": "St. Pierre & Miquelon"
+    },
+    {
+      "ma": "PN",
+      "ten": "Quần đảo Pitcairn",
+      "name_en": "Pitcairn Islands"
+    },
+    {
+      "ma": "PR",
+      "ten": "Puerto Rico",
+      "name_en": "Puerto Rico"
+    },
+    {
+      "ma": "PS",
+      "ten": "Lãnh thổ Palestine",
+      "name_en": "Palestinian Territories"
+    },
+    {
+      "ma": "PT",
+      "ten": "Bồ Đào Nha",
+      "name_en": "Portugal"
+    },
+    {
+      "ma": "PW",
+      "ten": "Palau",
+      "name_en": "Palau"
+    },
+    {
+      "ma": "PY",
+      "ten": "Paraguay",
+      "name_en": "Paraguay"
+    },
+    {
+      "ma": "QA",
+      "ten": "Qatar",
+      "name_en": "Qatar"
+    },
+    {
+      "ma": "RE",
+      "ten": "Réunion",
+      "name_en": "Réunion"
+    },
+    {
+      "ma": "RO",
+      "ten": "Romania",
+      "name_en": "Romania"
+    },
+    {
+      "ma": "RS",
+      "ten": "Serbia",
+      "name_en": "Serbia"
+    },
+    {
+      "ma": "RU",
+      "ten": "Nga",
+      "name_en": "Russia"
+    },
+    {
+      "ma": "RW",
+      "ten": "Rwanda",
+      "name_en": "Rwanda"
+    },
+    {
+      "ma": "SA",
+      "ten": "Ả Rập Xê-út",
+      "name_en": "Saudi Arabia"
+    },
+    {
+      "ma": "SB",
+      "ten": "Quần đảo Solomon",
+      "name_en": "Solomon Islands"
+    },
+    {
+      "ma": "SC",
+      "ten": "Seychelles",
+      "name_en": "Seychelles"
+    },
+    {
+      "ma": "SD",
+      "ten": "Sudan",
+      "name_en": "Sudan"
+    },
+    {
+      "ma": "SE",
+      "ten": "Thụy Điển",
+      "name_en": "Sweden"
+    },
+    {
+      "ma": "SG",
+      "ten": "Singapore",
+      "name_en": "Singapore"
+    },
+    {
+      "ma": "SH",
+      "ten": "St. Helena",
+      "name_en": "St. Helena"
+    },
+    {
+      "ma": "SI",
+      "ten": "Slovenia",
+      "name_en": "Slovenia"
+    },
+    {
+      "ma": "SJ",
+      "ten": "Svalbard và Jan Mayen",
+      "name_en": "Svalbard & Jan Mayen"
+    },
+    {
+      "ma": "SK",
+      "ten": "Slovakia",
+      "name_en": "Slovakia"
+    },
+    {
+      "ma": "SL",
+      "ten": "Sierra Leone",
+      "name_en": "Sierra Leone"
+    },
+    {
+      "ma": "SM",
+      "ten": "San Marino",
+      "name_en": "San Marino"
+    },
+    {
+      "ma": "SN",
+      "ten": "Senegal",
+      "name_en": "Senegal"
+    },
+    {
+      "ma": "SO",
+      "ten": "Somalia",
+      "name_en": "Somalia"
+    },
+    {
+      "ma": "SR",
+      "ten": "Suriname",
+      "name_en": "Suriname"
+    },
+    {
+      "ma": "SS",
+      "ten": "Nam Sudan",
+      "name_en": "South Sudan"
+    },
+    {
+      "ma": "ST",
+      "ten": "São Tomé và Príncipe",
+      "name_en": "São Tomé & Príncipe"
+    },
+    {
+      "ma": "SV",
+      "ten": "El Salvador",
+      "name_en": "El Salvador"
+    },
+    {
+      "ma": "SX",
+      "ten": "Sint Maarten",
+      "name_en": "Sint Maarten"
+    },
+    {
+      "ma": "SY",
+      "ten": "Syria",
+      "name_en": "Syria"
+    },
+    {
+      "ma": "SZ",
+      "ten": "Swaziland",
+      "name_en": "Eswatini"
+    },
+    {
+      "ma": "TC",
+      "ten": "Quần đảo Turks và Caicos",
+      "name_en": "Turks & Caicos Islands"
+    },
+    {
+      "ma": "TD",
+      "ten": "Chad",
+      "name_en": "Chad"
+    },
+    {
+      "ma": "TF",
+      "ten": "Lãnh thổ phía Nam Thuộc Pháp",
+      "name_en": "French Southern Territories"
+    },
+    {
+      "ma": "TG",
+      "ten": "Togo",
+      "name_en": "Togo"
+    },
+    {
+      "ma": "TH",
+      "ten": "Thái Lan",
+      "name_en": "Thailand"
+    },
+    {
+      "ma": "TJ",
+      "ten": "Tajikistan",
+      "name_en": "Tajikistan"
+    },
+    {
+      "ma": "TK",
+      "ten": "Tokelau",
+      "name_en": "Tokelau"
+    },
+    {
+      "ma": "TL",
+      "ten": "Timor-Leste",
+      "name_en": "Timor-Leste"
+    },
+    {
+      "ma": "TM",
+      "ten": "Turkmenistan",
+      "name_en": "Turkmenistan"
+    },
+    {
+      "ma": "TN",
+      "ten": "Tunisia",
+      "name_en": "Tunisia"
+    },
+    {
+      "ma": "TO",
+      "ten": "Tonga",
+      "name_en": "Tonga"
+    },
+    {
+      "ma": "TR",
+      "ten": "Thổ Nhĩ Kỳ",
+      "name_en": "Turkey"
+    },
+    {
+      "ma": "TT",
+      "ten": "Trinidad và Tobago",
+      "name_en": "Trinidad & Tobago"
+    },
+    {
+      "ma": "TV",
+      "ten": "Tuvalu",
+      "name_en": "Tuvalu"
+    },
+    {
+      "ma": "TW",
+      "ten": "Đài Loan",
+      "name_en": "Taiwan"
+    },
+    {
+      "ma": "TZ",
+      "ten": "Tanzania",
+      "name_en": "Tanzania"
+    },
+    {
+      "ma": "UA",
+      "ten": "Ukraina",
+      "name_en": "Ukraine"
+    },
+    {
+      "ma": "UG",
+      "ten": "Uganda",
+      "name_en": "Uganda"
+    },
+    {
+      "ma": "UM",
+      "ten": "Các tiểu đảo xa của Hoa Kỳ",
+      "name_en": "U.S. Outlying Islands"
+    },
+    {
+      "ma": "US",
+      "ten": "Hoa Kỳ",
+      "name_en": "United States"
+    },
+    {
+      "ma": "UY",
+      "ten": "Uruguay",
+      "name_en": "Uruguay"
+    },
+    {
+      "ma": "UZ",
+      "ten": "Uzbekistan",
+      "name_en": "Uzbekistan"
+    },
+    {
+      "ma": "VA",
+      "ten": "Thành Vatican",
+      "name_en": "Vatican City"
+    },
+    {
+      "ma": "VC",
+      "ten": "St. Vincent và Grenadines",
+      "name_en": "St. Vincent & Grenadines"
+    },
+    {
+      "ma": "VE",
+      "ten": "Venezuela",
+      "name_en": "Venezuela"
+    },
+    {
+      "ma": "VG",
+      "ten": "Quần đảo Virgin thuộc Anh",
+      "name_en": "British Virgin Islands"
+    },
+    {
+      "ma": "VI",
+      "ten": "Quần đảo Virgin thuộc Mỹ",
+      "name_en": "U.S. Virgin Islands"
+    },
+    {
+      "ma": "VN",
+      "ten": "Việt Nam",
+      "name_en": "Vietnam"
+    },
+    {
+      "ma": "VU",
+      "ten": "Vanuatu",
+      "name_en": "Vanuatu"
+    },
+    {
+      "ma": "WF",
+      "ten": "Wallis và Futuna",
+      "name_en": "Wallis & Futuna"
+    },
+    {
+      "ma": "WS",
+      "ten": "Samoa",
+      "name_en": "Samoa"
+    },
+    {
+      "ma": "YE",
+      "ten": "Yemen",
+      "name_en": "Yemen"
+    },
+    {
+      "ma": "YT",
+      "ten": "Mayotte",
+      "name_en": "Mayotte"
+    },
+    {
+      "ma": "ZA",
+      "ten": "Nam Phi",
+      "name_en": "South Africa"
+    },
+    {
+      "ma": "ZM",
+      "ten": "Zambia",
+      "name_en": "Zambia"
+    },
+    {
+      "ma": "ZW",
+      "ten": "Zimbabwe",
+      "name_en": "Zimbabwe"
+    }
+  ],
+  "meta": {
+    "title": "Các quốc gia và vùng lãnh thổ trên thế giới - Tải miễn phí",
+    "description": "Danh sách quốc gia và vùng lãnh thổ trên thế giới — mã ISO 3166-1 alpha-2 kèm tên gọi bằng tiếng Việt, 249 bản ghi. Ví dụ: Việt Nam (VN), Hoa Kỳ (US), Nhật Bản (JP), Trung Quốc (CN), Hàn Quốc (KR), Thái Lan (TH), Pháp (FR), Đức (DE), Vương quốc Anh (GB), Ả Rập Xê-út (SA), Ai Cập (EG). Sắp xếp theo mã quốc gia. Bổ sung cho bộ mã điện thoại quốc gia hiện có (vi-ma-quoc-gia-dien-thoai) bằng danh sách TÊN quốc gia. Nguồn: dữ liệu CLDR (Unicode) qua kho umpirsky/country-list. Chứa 249 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Các quốc gia và vùng lãnh thổ trên thế giới | ListBase",
+    "seo_description": "Tải xuống Các quốc gia và vùng lãnh thổ trên thế giới — 249 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 249 bản ghi / 3 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

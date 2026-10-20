@@ -1,0 +1,926 @@
+{
+  "id": "vi-nha-may-dien-thi-truong",
+  "name": "Nhà máy điện tham gia thị trường điện (2018)",
+  "title": "Nhà máy điện tham gia thị trường điện (2018)",
+  "description": "Danh sách 125 nhà máy điện được cấp phép tham gia thị trường điện Việt Nam đến cuối năm 2018, theo Báo cáo thị trường điện 2018 (trích từ repo Vietnam-Power-Plants). Tên nhà máy, loại hình và chủ sở hữu nguyên văn tiếng Việt có dấu.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 125,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fuel",
+      "label": "Fuel",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A Lưới",
+      "fuel": "Thủy điện",
+      "capacity_mw": 170,
+      "owner": "Công ty CP Thủy điện Miền Trung",
+      "note": ""
+    },
+    {
+      "name": "A Vương",
+      "fuel": "Thủy điện",
+      "capacity_mw": 210,
+      "owner": "Công ty CP Thủy điện A Vương",
+      "note": ""
+    },
+    {
+      "name": "An Khánh",
+      "fuel": "NĐ Than",
+      "capacity_mw": 120,
+      "owner": "Công ty CP Nhiệt điện An Khánh",
+      "note": ""
+    },
+    {
+      "name": "An Khê",
+      "fuel": "Thủy điện",
+      "capacity_mw": 160,
+      "owner": "Công ty Thủy điện An Khê – Kanak",
+      "note": ""
+    },
+    {
+      "name": "Bá Thước 1",
+      "fuel": "Thủy điện",
+      "capacity_mw": 60,
+      "owner": "Công ty CP Thủy điện Hoàng Anh Thanh Hóa",
+      "note": ""
+    },
+    {
+      "name": "Bá Thước 2",
+      "fuel": "Thủy điện",
+      "capacity_mw": 80,
+      "owner": "Công ty CP Thủy điện Hoàng Anh Thanh Hóa",
+      "note": ""
+    },
+    {
+      "name": "Bắc Bình",
+      "fuel": "Thủy điện",
+      "capacity_mw": 34,
+      "owner": "Công ty CP Phát triển Điện lực Việt Nam",
+      "note": ""
+    },
+    {
+      "name": "Bắc Hà",
+      "fuel": "Thủy điện",
+      "capacity_mw": 90,
+      "owner": "Công ty CP Thủy điện Bắc Hà",
+      "note": ""
+    },
+    {
+      "name": "Bắc Mê",
+      "fuel": "Thủy điện",
+      "capacity_mw": 45.5,
+      "owner": "Tổng công ty CP Thương mại Xây dựng",
+      "note": ""
+    },
+    {
+      "name": "Bản Chát",
+      "fuel": "Thủy điện",
+      "capacity_mw": 220,
+      "owner": "Công ty Thủy điện Huội Quảng - Bản Chát",
+      "note": "Strategic importance (SMHP)"
+    },
+    {
+      "name": "Bản Vẽ",
+      "fuel": "Thủy điện",
+      "capacity_mw": 320,
+      "owner": "Công ty Thủy điện Bản Vẽ",
+      "note": ""
+    },
+    {
+      "name": "Bình Điền",
+      "fuel": "Thủy điện",
+      "capacity_mw": 44,
+      "owner": "Công ty CP Thủy điện Bình Điền",
+      "note": ""
+    },
+    {
+      "name": "Buôn Kuôp",
+      "fuel": "Thủy điện",
+      "capacity_mw": 280,
+      "owner": "Công ty Thủy điện Buôn Kuôp",
+      "note": ""
+    },
+    {
+      "name": "BuônTua Srah",
+      "fuel": "Thủy điện",
+      "capacity_mw": 86,
+      "owner": "Công ty Thủy điện Buôn Kuôp",
+      "note": ""
+    },
+    {
+      "name": "Cà Mau 1",
+      "fuel": "Tuabin khí",
+      "capacity_mw": 750,
+      "owner": "Công ty Điện lực Dầu khí Cà Mau",
+      "note": "Nhận khí PM3 tối đa"
+    },
+    {
+      "name": "Cà Mau 2",
+      "fuel": "Tuabin khí",
+      "capacity_mw": 750,
+      "owner": "Công ty Điện lực Dầu khí Cà Mau",
+      "note": "Nhận khí PM3 tối đa"
+    },
+    {
+      "name": "Cẩm Phả",
+      "fuel": "NĐ Than",
+      "capacity_mw": 670,
+      "owner": "Công ty CP Nhiệt điện Cẩm Phả",
+      "note": ""
+    },
+    {
+      "name": "Cần Đơn",
+      "fuel": "Thủy điện",
+      "capacity_mw": 78,
+      "owner": "Công ty CP Thủy điện Cần Đơn",
+      "note": "BOT"
+    },
+    {
+      "name": "Cao Ngạn",
+      "fuel": "NĐ Than",
+      "capacity_mw": 115,
+      "owner": "Công ty Nhiệt điện Cao Ngạn",
+      "note": ""
+    },
+    {
+      "name": "Chi Khê",
+      "fuel": "Thủy điện",
+      "capacity_mw": 41,
+      "owner": "Công ty Cổ phần Năng lượng Agrita – Nghệ Tĩnh",
+      "note": "Expected to enter market in 2019"
+    },
+    {
+      "name": "Chiêm Hóa",
+      "fuel": "Thủy điện",
+      "capacity_mw": 48,
+      "owner": "Công ty CP Đầu tư XD và TM quốc tế",
+      "note": "Same level SMHP and supporting SMHP"
+    },
+    {
+      "name": "Cửa Đạt",
+      "fuel": "Thủy điện",
+      "capacity_mw": 97,
+      "owner": "Công ty CP Thủy điện Cửa Đạt",
+      "note": ""
+    },
+    {
+      "name": "Đa Dâng 2",
+      "fuel": "Thủy điện",
+      "capacity_mw": 34,
+      "owner": "Công ty CP Thủy điện miền Nam",
+      "note": ""
+    },
+    {
+      "name": "Đa Mi",
+      "fuel": "Thủy điện",
+      "capacity_mw": 175,
+      "owner": "Công ty CP Thủy điện Đa Nhim – Hàm Thuận – Đa Mi",
+      "note": ""
+    },
+    {
+      "name": "Đa Nhim",
+      "fuel": "Thủy điện",
+      "capacity_mw": 160,
+      "owner": "Công ty CP Thủy điện Đa Nhim – Hàm Thuận – Đa Mi",
+      "note": ""
+    },
+    {
+      "name": "Đa Nhim MR",
+      "fuel": "Thủy điện",
+      "capacity_mw": 45,
+      "owner": "Công ty CP Thủy điện Đa Nhim – Hàm Thuận – Đa Mi",
+      "note": "Expected to enter market in 2020"
+    },
+    {
+      "name": "Đại Ninh",
+      "fuel": "Thủy điện",
+      "capacity_mw": 300,
+      "owner": "Công ty Thủy điện Đại Ninh",
+      "note": ""
+    },
+    {
+      "name": "Đăk Mi 3",
+      "fuel": "Thủy điện",
+      "capacity_mw": 63,
+      "owner": "Công ty CP Thủy điện Đăk Mi",
+      "note": ""
+    },
+    {
+      "name": "Đak Mi 4 (4A, 4B và 4C)",
+      "fuel": "Thủy điện",
+      "capacity_mw": 208,
+      "owner": "Công ty CP Thủy điện Đăk Mi",
+      "note": ""
+    },
+    {
+      "name": "Đakđrinh",
+      "fuel": "Thủy điện",
+      "capacity_mw": 125,
+      "owner": "Công ty CP Thủy điện Đakđrinh",
+      "note": ""
+    },
+    {
+      "name": "Đakr’tih",
+      "fuel": "Thủy điện",
+      "capacity_mw": 144,
+      "owner": "Công ty CP Thủy điện Đakr’tih",
+      "note": ""
+    },
+    {
+      "name": "Đam'Bri",
+      "fuel": "Thủy điện",
+      "capacity_mw": 75,
+      "owner": "Công ty CP Thủy điện miền Nam",
+      "note": ""
+    },
+    {
+      "name": "Đồng Nai 2",
+      "fuel": "Thủy điện",
+      "capacity_mw": 70,
+      "owner": "Công ty CP Thủy điện Trung Nam",
+      "note": ""
+    },
+    {
+      "name": "Đồng Nai 3",
+      "fuel": "Thủy điện",
+      "capacity_mw": 180,
+      "owner": "Công ty Thủy điện Đồng Nai",
+      "note": ""
+    },
+    {
+      "name": "Đồng Nai 4",
+      "fuel": "Thủy điện",
+      "capacity_mw": 340,
+      "owner": "Công ty Thủy điện Đồng Nai",
+      "note": ""
+    },
+    {
+      "name": "Đồng Nai 5",
+      "fuel": "Thủy điện",
+      "capacity_mw": 150,
+      "owner": "Công ty CP Thủy điện Đồng Nai 5",
+      "note": ""
+    },
+    {
+      "name": "Duyên Hải 1",
+      "fuel": "NĐ Than",
+      "capacity_mw": 1245,
+      "owner": "Công ty Nhiệt điện Duyên Hải",
+      "note": ""
+    },
+    {
+      "name": "Duyên Hải 3",
+      "fuel": "NĐ Than",
+      "capacity_mw": 1245,
+      "owner": "Công ty Nhiệt điện Duyên Hải",
+      "note": ""
+    },
+    {
+      "name": "Duyên Hải 3 MR",
+      "fuel": "NĐ Than",
+      "capacity_mw": 688,
+      "owner": "Ban QLDA Nhiệt điện 3",
+      "note": "Expected to enter market in 2021"
+    },
+    {
+      "name": "Formosa Đồng Nai",
+      "fuel": "NĐ Than",
+      "capacity_mw": 450,
+      "owner": "Công ty TNHH Hưng Nghiệp Formosa",
+      "note": "NHÀ MÁY ĐIỆN THUỘC KHU CÔNG NGHIỆP BÁN ĐIỆN NĂNG DƯ"
+    },
+    {
+      "name": "Formosa Hà Tĩnh",
+      "fuel": "NĐ Than",
+      "capacity_mw": 676,
+      "owner": "Công ty TNHH gang thép Hưng Nghiệp Formosa Hà Tĩnh",
+      "note": "NHÀ MÁY ĐIỆN THUỘC KHU CÔNG NGHIỆP BÁN ĐIỆN NĂNG DƯ"
+    },
+    {
+      "name": "Hải Phòng",
+      "fuel": "NĐ Than",
+      "capacity_mw": 1200,
+      "owner": "Công ty CP Nhiệt điện Hải Phòng",
+      "note": ""
+    },
+    {
+      "name": "Hàm Thuận",
+      "fuel": "Thủy điện",
+      "capacity_mw": 300,
+      "owner": "Công ty CP Thủy điện Đa Nhim – Hàm Thuận – Đa Mi",
+      "note": ""
+    },
+    {
+      "name": "Hoà Bình",
+      "fuel": "Thủy điện",
+      "capacity_mw": 1920,
+      "owner": "Công ty Thuỷ điện Hoà Bình",
+      "note": "Strategic importance (SMHP)"
+    },
+    {
+      "name": "Hồi Xuân",
+      "fuel": "Thủy điện",
+      "capacity_mw": 102,
+      "owner": "Công ty CP Đầu tư và Xây dựng điện Hồi Xuân",
+      "note": "Expected to enter market in 2022"
+    },
+    {
+      "name": "Hủa Na",
+      "fuel": "Thủy điện",
+      "capacity_mw": 180,
+      "owner": "Công ty CP Thủy điện Hủa Na",
+      "note": ""
+    },
+    {
+      "name": "Huội Quảng",
+      "fuel": "Thủy điện",
+      "capacity_mw": 520,
+      "owner": "Công ty Thủy điện Huội Quảng - Bản Chát",
+      "note": "Supporting SMHP"
+    },
+    {
+      "name": "Hương Điền",
+      "fuel": "Thủy điện",
+      "capacity_mw": 81,
+      "owner": "Công ty CP Đầu tư Hương Điền",
+      "note": ""
+    },
+    {
+      "name": "Hương Sơn",
+      "fuel": "Thủy điện",
+      "capacity_mw": 33,
+      "owner": "Công ty CP Thủy điện Hương Sơn",
+      "note": ""
+    },
+    {
+      "name": "Ialy",
+      "fuel": "Thủy điện",
+      "capacity_mw": 720,
+      "owner": "Công ty Thuỷ điện Ialy",
+      "note": "Strategic importance (SMHP)"
+    },
+    {
+      "name": "Kanak",
+      "fuel": "Thủy điện",
+      "capacity_mw": 13,
+      "owner": "Công ty Thủy điện An Khê – Kanak",
+      "note": ""
+    },
+    {
+      "name": "Khe Bố",
+      "fuel": "Thủy điện",
+      "capacity_mw": 100,
+      "owner": "Công ty CP Phát triển Điện lực Việt Nam",
+      "note": ""
+    },
+    {
+      "name": "Krông H’năng",
+      "fuel": "Thủy điện",
+      "capacity_mw": 64,
+      "owner": "Công ty CP Sông Ba",
+      "note": ""
+    },
+    {
+      "name": "Lai Châu",
+      "fuel": "Thủy điện",
+      "capacity_mw": 1200,
+      "owner": "Ban QLDA Thủy điện Sơn La – Lai Châu",
+      "note": "Strategic importance (SMHP)"
+    },
+    {
+      "name": "Mạo Khê",
+      "fuel": "NĐ Than",
+      "capacity_mw": 440,
+      "owner": "Công ty Nhiệt điện Đông Triều",
+      "note": ""
+    },
+    {
+      "name": "Mông Dương",
+      "fuel": "NĐ Than",
+      "capacity_mw": 1080,
+      "owner": "Công ty Nhiệt điện Mông Dương",
+      "note": ""
+    },
+    {
+      "name": "Mông Dương 2",
+      "fuel": "NĐ Than",
+      "capacity_mw": 1200,
+      "owner": "Công ty TNHH Điện lực AES – TKV",
+      "note": "BOT"
+    },
+    {
+      "name": "Mường Hum",
+      "fuel": "Thủy điện",
+      "capacity_mw": 32,
+      "owner": "Công ty TNHH MTV Thủy điện Mường Hum",
+      "note": ""
+    },
+    {
+      "name": "Na Dương",
+      "fuel": "NĐ Than",
+      "capacity_mw": 111.2,
+      "owner": "Công ty Nhiệt điện Na Dương",
+      "note": ""
+    },
+    {
+      "name": "Nậm Chiến 1",
+      "fuel": "Thủy điện",
+      "capacity_mw": 200,
+      "owner": "Công ty CP Thủy điện Nậm Chiến",
+      "note": ""
+    },
+    {
+      "name": "Nậm Chiến 2",
+      "fuel": "Thủy điện",
+      "capacity_mw": 32,
+      "owner": "Công ty CP Đầu tư và Phát triển Điện Tây Bắc",
+      "note": ""
+    },
+    {
+      "name": "Nậm Mức",
+      "fuel": "Thủy điện",
+      "capacity_mw": 44,
+      "owner": "Công ty CP Thủy điện Nậm Mức",
+      "note": ""
+    },
+    {
+      "name": "Nậm Na 2",
+      "fuel": "Thủy điện",
+      "capacity_mw": 66,
+      "owner": "Công ty TNHH Xây dựng Hưng Hải",
+      "note": ""
+    },
+    {
+      "name": "Nậm Na 3",
+      "fuel": "Thủy điện",
+      "capacity_mw": 84,
+      "owner": "Công ty TNHH Xây dựng Hưng Hải",
+      "note": ""
+    },
+    {
+      "name": "Nậm Phàng",
+      "fuel": "Thủy điện",
+      "capacity_mw": 36,
+      "owner": "Công ty CP Năng lượng Bắc Hà",
+      "note": ""
+    },
+    {
+      "name": "Nậm Toóng",
+      "fuel": "Thủy điện",
+      "capacity_mw": 34,
+      "owner": "Công ty TNHH MTV Thủy điện Sa Pa",
+      "note": ""
+    },
+    {
+      "name": "Nghi Sơn 1",
+      "fuel": "NĐ Than",
+      "capacity_mw": 600,
+      "owner": "Công ty Nhiệt điện Nghi Sơn",
+      "note": "Expected to enter market in 2023"
+    },
+    {
+      "name": "Ngòi Phát",
+      "fuel": "Thủy điện",
+      "capacity_mw": 72,
+      "owner": "Công ty CP Đầu tư và Phát triển Điện miền Bắc 2",
+      "note": ""
+    },
+    {
+      "name": "Nho Quế 1",
+      "fuel": "Thủy điện",
+      "capacity_mw": 32,
+      "owner": "Công ty CP Thủy điện Nho Quế 1",
+      "note": ""
+    },
+    {
+      "name": "Nho Quế 2",
+      "fuel": "Thủy điện",
+      "capacity_mw": 48,
+      "owner": "Công ty CP Đầu tư và Phát triển Điện Nho Quế",
+      "note": ""
+    },
+    {
+      "name": "Nho Quế 3",
+      "fuel": "Thủy điện",
+      "capacity_mw": 110,
+      "owner": "Công ty CP Thủy điện Nho Quế 3",
+      "note": ""
+    },
+    {
+      "name": "Nhơn Trạch 1",
+      "fuel": "Tuabin khí",
+      "capacity_mw": 450,
+      "owner": "Công ty Điện lực Dầu khí Nhơn Trạch",
+      "note": ""
+    },
+    {
+      "name": "Nhơn Trạch 2",
+      "fuel": "Tuabin khí",
+      "capacity_mw": 750,
+      "owner": "Công ty CP Điện lực Dầu khí Nhơn Trạch 2",
+      "note": ""
+    },
+    {
+      "name": "Phả Lại 1",
+      "fuel": "NĐ Than",
+      "capacity_mw": 440,
+      "owner": "Công ty CP Nhiệt điện Phả Lại",
+      "note": ""
+    },
+    {
+      "name": "Phả Lại 2",
+      "fuel": "NĐ Than",
+      "capacity_mw": 600,
+      "owner": "Công ty CP Nhiệt điện Phả Lại",
+      "note": ""
+    },
+    {
+      "name": "Phú Mỹ 1",
+      "fuel": "Tuabin khí",
+      "capacity_mw": 1059,
+      "owner": "Công ty Nhiệt điện Phú Mỹ",
+      "note": ""
+    },
+    {
+      "name": "Phú Mỹ 2.1",
+      "fuel": "Tuabin khí",
+      "capacity_mw": 860,
+      "owner": "Công ty Nhiệt điện Phú Mỹ",
+      "note": ""
+    },
+    {
+      "name": "Phú Mỹ 2.2",
+      "fuel": "Tuabin khí",
+      "capacity_mw": 720,
+      "owner": "Công ty TNHH Năng Lượng Mê Kông",
+      "note": "BOT"
+    },
+    {
+      "name": "Phú Mỹ 3",
+      "fuel": "Tuabin khí",
+      "capacity_mw": 720,
+      "owner": "Công ty TNHH BOT Phú Mỹ 3",
+      "note": "BOT"
+    },
+    {
+      "name": "Phú Mỹ 4",
+      "fuel": "Tuabin khí",
+      "capacity_mw": 440,
+      "owner": "Công ty Nhiệt điện Phú Mỹ",
+      "note": ""
+    },
+    {
+      "name": "Pleikrông",
+      "fuel": "Thủy điện",
+      "capacity_mw": 100,
+      "owner": "Công ty Thuỷ điện Ialy",
+      "note": "Supporting SMHP"
+    },
+    {
+      "name": "Quảng Ninh",
+      "fuel": "NĐ Than",
+      "capacity_mw": 1200,
+      "owner": "Công ty CP Nhiệt điện Quảng Ninh",
+      "note": ""
+    },
+    {
+      "name": "Quảng Trị",
+      "fuel": "Thủy điện",
+      "capacity_mw": 64,
+      "owner": "Công ty Thủy điện Quảng Trị",
+      "note": ""
+    },
+    {
+      "name": "Sê San 3",
+      "fuel": "Thủy điện",
+      "capacity_mw": 260,
+      "owner": "Công ty Thuỷ điện Ialy",
+      "note": "Supporting SMHP"
+    },
+    {
+      "name": "Sê San 3A",
+      "fuel": "Thủy điện",
+      "capacity_mw": 108,
+      "owner": "Công ty CP ĐT và PT điện SêSan 3A",
+      "note": "Same level SMHP and supporting SMHP"
+    },
+    {
+      "name": "Sê San 4",
+      "fuel": "Thủy điện",
+      "capacity_mw": 360,
+      "owner": "Công ty Phát triển Thuỷ điện Sê San",
+      "note": "Supporting SMHP"
+    },
+    {
+      "name": "Sê San 4A",
+      "fuel": "Thủy điện",
+      "capacity_mw": 63,
+      "owner": "Công ty CP Thủy điện Sê San 4A",
+      "note": "Same level SMHP and supporting SMHP"
+    },
+    {
+      "name": "Sơn Động",
+      "fuel": "NĐ Than",
+      "capacity_mw": 220,
+      "owner": "Công ty Nhiệt điện Sơn Động",
+      "note": ""
+    },
+    {
+      "name": "Sơn La",
+      "fuel": "Thủy điện",
+      "capacity_mw": 2400,
+      "owner": "Công ty Thuỷ điện Sơn La",
+      "note": "Strategic importance (SMHP)"
+    },
+    {
+      "name": "Sông Ba Hạ",
+      "fuel": "Thủy điện",
+      "capacity_mw": 220,
+      "owner": "Công ty CP Thủy điện Sông Ba Hạ",
+      "note": ""
+    },
+    {
+      "name": "Sông Bạc",
+      "fuel": "Thủy điện",
+      "capacity_mw": 42,
+      "owner": "Công ty CP Thủy điện Sông Bạc",
+      "note": ""
+    },
+    {
+      "name": "Sông Bung 2",
+      "fuel": "Thủy điện",
+      "capacity_mw": 100,
+      "owner": "Công ty CP Thủy điện Sông Bung",
+      "note": ""
+    },
+    {
+      "name": "Sông Bung 4",
+      "fuel": "Thủy điện",
+      "capacity_mw": 156,
+      "owner": "Công ty CP Thủy điện Sông Bung",
+      "note": ""
+    },
+    {
+      "name": "Sông Bung 4A",
+      "fuel": "Thủy điện",
+      "capacity_mw": 49,
+      "owner": "Công ty CP Phú Thạnh Mỹ",
+      "note": ""
+    },
+    {
+      "name": "Sông Bung 5",
+      "fuel": "Thủy điện",
+      "capacity_mw": 57,
+      "owner": "Công ty CP Tư vấn Xây dựng Điện 1",
+      "note": ""
+    },
+    {
+      "name": "Sông Côn 2",
+      "fuel": "Thủy điện",
+      "capacity_mw": 63,
+      "owner": "Công ty CP Thủy điện Geruco Sông Côn",
+      "note": ""
+    },
+    {
+      "name": "Sông Giang 2",
+      "fuel": "Thủy điện",
+      "capacity_mw": 37,
+      "owner": "Công ty CP khai thác thủy điện Sông Giang",
+      "note": "Expected to enter market in 2024"
+    },
+    {
+      "name": "Sông Hinh",
+      "fuel": "Thủy điện",
+      "capacity_mw": 70,
+      "owner": "Công ty CP Thủy điện Vĩnh Sơn – Sông Hinh",
+      "note": ""
+    },
+    {
+      "name": "Sông Tranh 2",
+      "fuel": "Thủy điện",
+      "capacity_mw": 190,
+      "owner": "Công ty Thủy điện Sông Tranh",
+      "note": ""
+    },
+    {
+      "name": "Sông Tranh 3",
+      "fuel": "Thủy điện",
+      "capacity_mw": 62,
+      "owner": "Công ty CP Thủy điện Sông Tranh 3",
+      "note": ""
+    },
+    {
+      "name": "Srêpok 3",
+      "fuel": "Thủy điện",
+      "capacity_mw": 220,
+      "owner": "Công ty Thủy điện Buôn Kuôp",
+      "note": ""
+    },
+    {
+      "name": "Srêpok 4",
+      "fuel": "Thủy điện",
+      "capacity_mw": 80,
+      "owner": "Công ty CP Đầu tư và Phát triển điện Đại Hải",
+      "note": ""
+    },
+    {
+      "name": "Srêpok 4A",
+      "fuel": "Thủy điện",
+      "capacity_mw": 64,
+      "owner": "Công ty CP Thủy điện Buôn Đôn",
+      "note": ""
+    },
+    {
+      "name": "Srok Phu Miêng",
+      "fuel": "Thủy điện",
+      "capacity_mw": 51,
+      "owner": "Công ty CP Thủy điện Srok Phu Miêng IDICO",
+      "note": ""
+    },
+    {
+      "name": "Sử Pán 2",
+      "fuel": "Thủy điện",
+      "capacity_mw": 34,
+      "owner": "Công ty CP Thủy điện Sông Đà – Hoàng Liên",
+      "note": ""
+    },
+    {
+      "name": "Tà Thàng",
+      "fuel": "Thủy điện",
+      "capacity_mw": 60,
+      "owner": "Công ty CP Điện Vietracimex Lào Cai",
+      "note": "NHÀ MÁY ĐIỆN DỰ KIẾN CHUYỂN NỐI LƯỚI MUA ĐIỆN NƯỚC NGOÀI"
+    },
+    {
+      "name": "Thác Bà",
+      "fuel": "Thủy điện",
+      "capacity_mw": 120,
+      "owner": "Công ty CP Thủy điện Thác Bà",
+      "note": ""
+    },
+    {
+      "name": "Thác Mơ",
+      "fuel": "Thủy điện",
+      "capacity_mw": 150,
+      "owner": "Công ty CP Thủy điện Thác Mơ",
+      "note": ""
+    },
+    {
+      "name": "Thác Mơ MR",
+      "fuel": "Thủy điện",
+      "capacity_mw": 75,
+      "owner": "Tập đoàn Điện lực Việt Nam",
+      "note": "Expected to enter market in 2025"
+    },
+    {
+      "name": "Thái An",
+      "fuel": "Thủy điện",
+      "capacity_mw": 82,
+      "owner": "Công ty CP Thủy điện Thái An",
+      "note": ""
+    },
+    {
+      "name": "Thái Bình 1",
+      "fuel": "NĐ Than",
+      "capacity_mw": 600,
+      "owner": "Công ty Nhiệt điện Thái Bình",
+      "note": ""
+    },
+    {
+      "name": "Thăng Long",
+      "fuel": "NĐ Than",
+      "capacity_mw": 620,
+      "owner": "Công ty CP Nhiệt điện Thăng Long",
+      "note": "Expected to enter market in 2026"
+    },
+    {
+      "name": "Thuận Hòa",
+      "fuel": "Thủy điện",
+      "capacity_mw": 42,
+      "owner": "Công ty CP Thủy điện Thuận Hòa Hà Giang",
+      "note": ""
+    },
+    {
+      "name": "Thượng KonTum",
+      "fuel": "Thủy điện",
+      "capacity_mw": 220,
+      "owner": "Công ty CP Thủy điện Vĩnh Sơn – Sông Hinh",
+      "note": "Expected to enter market in 2027"
+    },
+    {
+      "name": "Trị An",
+      "fuel": "Thủy điện",
+      "capacity_mw": 400,
+      "owner": "Công ty Thuỷ điện Trị An",
+      "note": "Strategic importance (SMHP)"
+    },
+    {
+      "name": "Trung Sơn",
+      "fuel": "Thủy điện",
+      "capacity_mw": 260,
+      "owner": "Công ty Thủy điện Trung",
+      "note": ""
+    },
+    {
+      "name": "Tuyên Quang",
+      "fuel": "Thủy điện",
+      "capacity_mw": 342,
+      "owner": "Công ty Thuỷ điện Tuyên Quang",
+      "note": "Strategic importance (SMHP)"
+    },
+    {
+      "name": "Uông Bí MR",
+      "fuel": "NĐ Than",
+      "capacity_mw": 630,
+      "owner": "Công ty Nhiệt điện Uông Bí",
+      "note": ""
+    },
+    {
+      "name": "Văn Chấn",
+      "fuel": "Thủy điện",
+      "capacity_mw": 57,
+      "owner": "Công ty CP Thủy điện Văn Chấn",
+      "note": ""
+    },
+    {
+      "name": "Vĩnh Sơn",
+      "fuel": "Thủy điện",
+      "capacity_mw": 66,
+      "owner": "Công ty CP Thủy điện Vĩnh Sơn – Sông Hinh",
+      "note": ""
+    },
+    {
+      "name": "Vĩnh Tân 1",
+      "fuel": "NĐ Than",
+      "capacity_mw": 1200,
+      "owner": "Công ty TNHH Điện lực Vĩnh Tân 1",
+      "note": "BOT"
+    },
+    {
+      "name": "Vĩnh Tân 2",
+      "fuel": "NĐ Than",
+      "capacity_mw": 1245.6,
+      "owner": "Công ty Nhiệt điện Vĩnh Tân",
+      "note": ""
+    },
+    {
+      "name": "Vĩnh Tân 4",
+      "fuel": "NĐ Than",
+      "capacity_mw": 1200,
+      "owner": "Công ty Nhiệt điện Vĩnh Tân",
+      "note": ""
+    },
+    {
+      "name": "Vĩnh Tân 4 MR",
+      "fuel": "NĐ Than",
+      "capacity_mw": 600,
+      "owner": "Ban QLDA Nhiệt điện Vĩnh Tân",
+      "note": "Expected to enter market in 2028"
+    },
+    {
+      "name": "Vũng Áng 1",
+      "fuel": "NĐ Than",
+      "capacity_mw": 1200,
+      "owner": "Công ty Điện lực Dầu khí Hà Tĩnh",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Nhà máy điện tham gia thị trường điện (2018) - Tải miễn phí",
+    "description": "Danh sách 125 nhà máy điện được cấp phép tham gia thị trường điện Việt Nam đến cuối năm 2018, theo Báo cáo thị trường điện 2018 (trích từ repo Vietnam-Power-Plants). Tên nhà máy, loại hình và chủ sở hữu nguyên văn tiếng Việt có dấu. Chứa 125 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Nhà máy điện tham gia thị trường điện (2018) | ListBase",
+    "seo_description": "Tải xuống Nhà máy điện tham gia thị trường điện (2018) — 125 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 125 bản ghi / 5 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

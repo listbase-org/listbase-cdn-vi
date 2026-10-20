@@ -1,0 +1,126 @@
+{
+  "id": "vi-bac-kan-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Bắc Kạn",
+  "title": "Địa điểm du lịch Bắc Kạn",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Bắc Kạn (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 156,
+      "ten_dia_diem": "Hồ Ba Bể",
+      "vi_tri": "Bắc Kạn",
+      "tinh_truoc_sap_nhap_2025": "Bắc Kạn",
+      "mo_ta": "Hồ Ba Bể là hồ nước ngọt lớn nhất Việt Nam",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrQ6YAFJJdX2oBI1bRf6xLlQoBezJNbvWUyw&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 157,
+      "ten_dia_diem": "Động Puông",
+      "vi_tri": "Bắc Kạn",
+      "tinh_truoc_sap_nhap_2025": "Bắc Kạn",
+      "mo_ta": "Là một hang động đẹp với những thạch nhũ kỳ vĩ",
+      "danh_gia": "4.9/5",
+      "danh_gia_diem": 4.9,
+      "anh": "https://backan.gov.vn/SiteCollectionDocuments/Dong-Puong--3B7-34c8aefd0a9f.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 158,
+      "ten_dia_diem": "Thác Đầu Đẳng",
+      "vi_tri": "Bắc Kạn",
+      "tinh_truoc_sap_nhap_2025": "Bắc Kạn",
+      "mo_ta": "Đây là địa điểm du lịch sinh thái lý tưởng.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://ik.imagekit.io/tvlk/blog/2022/10/thac-dau-dang-1.jpg?tr=dpr-2,w-675",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 159,
+      "ten_dia_diem": "Bản Pác Ngòi",
+      "vi_tri": "Bắc Kạn",
+      "tinh_truoc_sap_nhap_2025": "Bắc Kạn",
+      "mo_ta": "Đây là một bản làng của người Tày, nổi bật với nét văn hóa truyền thống",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://ik.imagekit.io/tvlk/blog/2023/11/ban-pac-ngoi-2.jpg?tr=dpr-2,w-675",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 160,
+      "ten_dia_diem": "Động Nàng Tiên",
+      "vi_tri": "Bắc Kạn",
+      "tinh_truoc_sap_nhap_2025": "Bắc Kạn",
+      "mo_ta": "Đây là một hang động kỳ vĩ với thạch nhũ hình dạng đa dạng, gắn liền với truyền thuyết về nàng tiên xinh đẹp.",
+      "danh_gia": "4.2/5",
+      "danh_gia_diem": 4.2,
+      "anh": "https://ik.imagekit.io/tvlk/blog/2023/11/dong-nang-tien-4.png?tr=dpr-2,w-675",
+      "tu_khoa": ""
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Bắc Kạn - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Bắc Kạn (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Bắc Kạn | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Bắc Kạn — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

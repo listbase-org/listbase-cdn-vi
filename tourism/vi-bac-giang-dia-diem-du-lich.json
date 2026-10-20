@@ -1,0 +1,126 @@
+{
+  "id": "vi-bac-giang-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Bắc Giang",
+  "title": "Địa điểm du lịch Bắc Giang",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Bắc Giang (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 151,
+      "ten_dia_diem": "Chùa cổ Bồ Đà",
+      "vi_tri": "Bắc Giang",
+      "tinh_truoc_sap_nhap_2025": "Bắc Giang",
+      "mo_ta": "Là một trong những ngôi chùa cổ nổi tiếng và đặc sắc nhất vùng Kinh Bắc",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS1BhO9oORxURb02dkvJIwVfm1Fy4TQFzJdg&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 152,
+      "ten_dia_diem": "Thác Thùm Thùm",
+      "vi_tri": "Bắc Giang",
+      "tinh_truoc_sap_nhap_2025": "Bắc Giang",
+      "mo_ta": "Là một điểm đến hoang sơ và tuyệt đẹp giữa lòng thiên nhiên",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://nld.mediacdn.vn/S5KKUQrkCvT6Eb8lVn0QdkQXCW1U7p/Image/2012/11/thacThumthum_38879.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 153,
+      "ten_dia_diem": "Hồ Cấm Sơn",
+      "vi_tri": "Bắc Giang",
+      "tinh_truoc_sap_nhap_2025": "Bắc Giang",
+      "mo_ta": "Là một trong những hồ nước ngọt lớn nhất miền Bắc Việt Nam",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://ik.imagekit.io/tvlk/blog/2023/09/Ho-Cam-Son-2.png?tr=c-at_max?tr=c-at_max",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 154,
+      "ten_dia_diem": "Đền Trung",
+      "vi_tri": "Bắc Giang",
+      "tinh_truoc_sap_nhap_2025": "Bắc Giang",
+      "mo_ta": "Đây là một trong ba ngôi đền chính thờ các vua Hùng và gắn liền với truyền thuyết dựng nước của dân tộc Việt Nam",
+      "danh_gia": "4.2/5",
+      "danh_gia_diem": 4.2,
+      "anh": "https://static.vinwonders.com/production/den-trung-ba-vi-6.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 155,
+      "ten_dia_diem": "Hồ Khuôn Thần",
+      "vi_tri": "Bắc Giang",
+      "tinh_truoc_sap_nhap_2025": "Bắc Giang",
+      "mo_ta": "Là một điểm đến lý tưởng với vẻ đẹp thiên nhiên thơ mộng và không khí trong lành",
+      "danh_gia": "4.8/5",
+      "danh_gia_diem": 4.8,
+      "anh": "https://media.mybacgiang.vn/resources/portal//Images/BGG/annn.bgg/%C4%90%E1%BB%8Ba%20%C4%91i%E1%BB%83m/H%E1%BB%93%20Khu%C3%B4n%20Th%E1%BA%A7n/136958118051a2267c8942b_636828172277177207.jpg",
+      "tu_khoa": ""
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Bắc Giang - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Bắc Giang (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Bắc Giang | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Bắc Giang — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

@@ -1,0 +1,749 @@
+{
+  "id": "finance-hs-codes",
+  "name": "Tập dữ liệu Chương Mã HS (Hệ thống hài hòa)",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "chapter",
+      "label": "Chapter",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Description (EN)",
+      "type": "string"
+    },
+    {
+      "key": "section",
+      "label": "Section",
+      "type": "string"
+    },
+    {
+      "key": "section_name",
+      "label": "Section Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "examples",
+      "label": "Examples (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chapter": "01",
+      "name": "Động vật sống",
+      "section": "I",
+      "section_name": "Động vật sống; Sản phẩm động vật",
+      "examples": "Ngựa, gia súc, cừu, gia cầm"
+    },
+    {
+      "chapter": "02",
+      "name": "Thịt và phụ phẩm ăn được sau giết mổ",
+      "section": "I",
+      "section_name": "Động vật sống; Sản phẩm động vật",
+      "examples": "Thịt bò, thịt heo, thịt cừu, thịt gia cầm"
+    },
+    {
+      "chapter": "03",
+      "name": "Cá và động vật giáp xác",
+      "section": "I",
+      "section_name": "Động vật sống; Sản phẩm động vật",
+      "examples": "Cá, tôm, tôm hùm, mực"
+    },
+    {
+      "chapter": "04",
+      "name": "Sản phẩm sữa; trứng; mật ong",
+      "section": "I",
+      "section_name": "Động vật sống; Sản phẩm động vật",
+      "examples": "Sữa, phô mai, trứng, mật ong"
+    },
+    {
+      "chapter": "05",
+      "name": "Sản phẩm gốc động vật khác",
+      "section": "I",
+      "section_name": "Động vật sống; Sản phẩm động vật",
+      "examples": "Xương, sừng, ngà voi, lông vũ"
+    },
+    {
+      "chapter": "06",
+      "name": "Cây sống và các sản phẩm thực vật khác",
+      "section": "II",
+      "section_name": "Sản phẩm thực vật",
+      "examples": "Cây, củ, hoa cắt cành"
+    },
+    {
+      "chapter": "07",
+      "name": "Rau ăn được",
+      "section": "II",
+      "section_name": "Sản phẩm thực vật",
+      "examples": "Khoai tây, cà chua, hành tây"
+    },
+    {
+      "chapter": "08",
+      "name": "Quả và hạt ăn được",
+      "section": "II",
+      "section_name": "Sản phẩm thực vật",
+      "examples": "Táo, cam, chuối, hạnh nhân"
+    },
+    {
+      "chapter": "09",
+      "name": "Cà phê, chè, gia vị",
+      "section": "II",
+      "section_name": "Sản phẩm thực vật",
+      "examples": "Cà phê, chè, tiêu, vani"
+    },
+    {
+      "chapter": "10",
+      "name": "Ngũ cốc",
+      "section": "II",
+      "section_name": "Sản phẩm thực vật",
+      "examples": "Lúa mì, gạo, ngô, lúa mạch"
+    },
+    {
+      "chapter": "11",
+      "name": "Sản phẩm công nghiệp xay xát",
+      "section": "II",
+      "section_name": "Sản phẩm thực vật",
+      "examples": "Bột mì, tinh bột, mạch nha"
+    },
+    {
+      "chapter": "12",
+      "name": "Hạt dầu và quả có dầu",
+      "section": "II",
+      "section_name": "Sản phẩm thực vật",
+      "examples": "Đậu nành, lạc, hạt hướng dương"
+    },
+    {
+      "chapter": "13",
+      "name": "Sơn ta, gôm, nhựa cây",
+      "section": "II",
+      "section_name": "Sản phẩm thực vật",
+      "examples": "Gôm tự nhiên, nhựa cây, nhựa mủ thực vật"
+    },
+    {
+      "chapter": "14",
+      "name": "Vật liệu thực vật dùng để tết, bện",
+      "section": "II",
+      "section_name": "Sản phẩm thực vật",
+      "examples": "Tre, mây, sậy"
+    },
+    {
+      "chapter": "15",
+      "name": "Mỡ và dầu động vật hoặc thực vật",
+      "section": "III",
+      "section_name": "Mỡ và dầu động vật hoặc thực vật",
+      "examples": "Dầu ô liu, dầu cọ, bơ, bơ thực vật"
+    },
+    {
+      "chapter": "16",
+      "name": "Chế phẩm từ thịt hoặc cá",
+      "section": "IV",
+      "section_name": "Thực phẩm chế biến",
+      "examples": "Xúc xích, cá hộp, cao thịt"
+    },
+    {
+      "chapter": "17",
+      "name": "Đường và kẹo đường",
+      "section": "IV",
+      "section_name": "Thực phẩm chế biến",
+      "examples": "Đường, kẹo, sô cô la"
+    },
+    {
+      "chapter": "18",
+      "name": "Ca cao và các chế phẩm từ ca cao",
+      "section": "IV",
+      "section_name": "Thực phẩm chế biến",
+      "examples": "Hạt ca cao, bột ca cao, sô cô la"
+    },
+    {
+      "chapter": "19",
+      "name": "Chế phẩm từ ngũ cốc, bột mì",
+      "section": "IV",
+      "section_name": "Thực phẩm chế biến",
+      "examples": "Bánh mì, mì ống, bánh quy, bánh ngọt"
+    },
+    {
+      "chapter": "20",
+      "name": "Chế phẩm từ rau, quả",
+      "section": "IV",
+      "section_name": "Thực phẩm chế biến",
+      "examples": "Rau đóng hộp, nước ép trái cây, mứt"
+    },
+    {
+      "chapter": "21",
+      "name": "Các chế phẩm ăn được khác",
+      "section": "IV",
+      "section_name": "Thực phẩm chế biến",
+      "examples": "Nước sốt, súp, kem, men"
+    },
+    {
+      "chapter": "22",
+      "name": "Đồ uống, rượu mạnh và giấm",
+      "section": "IV",
+      "section_name": "Thực phẩm chế biến",
+      "examples": "Nước, rượu, bia, whisky, giấm"
+    },
+    {
+      "chapter": "23",
+      "name": "Cặn bã từ các ngành công nghiệp thực phẩm",
+      "section": "IV",
+      "section_name": "Thực phẩm chế biến",
+      "examples": "Thức ăn chăn nuôi, cám, khô dầu"
+    },
+    {
+      "chapter": "24",
+      "name": "Thuốc lá và các sản phẩm thay thế đã sản xuất",
+      "section": "IV",
+      "section_name": "Thực phẩm chế biến",
+      "examples": "Thuốc lá điếu, xì gà, thuốc lá"
+    },
+    {
+      "chapter": "25",
+      "name": "Muối; lưu huỳnh; đất và đá",
+      "section": "V",
+      "section_name": "Sản phẩm khoáng chất",
+      "examples": "Muối, cát, sỏi, đá cẩm thạch, thạch cao"
+    },
+    {
+      "chapter": "26",
+      "name": "Quặng, xỉ và tro",
+      "section": "V",
+      "section_name": "Sản phẩm khoáng chất",
+      "examples": "Quặng sắt, quặng đồng, tro"
+    },
+    {
+      "chapter": "27",
+      "name": "Nhiên liệu khoáng và dầu khoáng",
+      "section": "V",
+      "section_name": "Sản phẩm khoáng chất",
+      "examples": "Than đá, dầu mỏ, khí tự nhiên"
+    },
+    {
+      "chapter": "28",
+      "name": "Hóa chất vô cơ",
+      "section": "VI",
+      "section_name": "Sản phẩm hóa chất",
+      "examples": "Axit, oxit, muối, khí hiếm"
+    },
+    {
+      "chapter": "29",
+      "name": "Hóa chất hữu cơ",
+      "section": "VI",
+      "section_name": "Sản phẩm hóa chất",
+      "examples": "Hydrocarbon, cồn, axit"
+    },
+    {
+      "chapter": "30",
+      "name": "Sản phẩm dược phẩm",
+      "section": "VI",
+      "section_name": "Sản phẩm hóa chất",
+      "examples": "Thuốc, vắc-xin, băng gạc"
+    },
+    {
+      "chapter": "31",
+      "name": "Phân bón",
+      "section": "VI",
+      "section_name": "Sản phẩm hóa chất",
+      "examples": "Phân đạm, phân lân, phân kali"
+    },
+    {
+      "chapter": "32",
+      "name": "Chiết xuất thuộc da hoặc thuốc nhuộm",
+      "section": "VI",
+      "section_name": "Sản phẩm hóa chất",
+      "examples": "Thuốc nhuộm, sơn, mực, bột trét"
+    },
+    {
+      "chapter": "33",
+      "name": "Tinh dầu và mỹ phẩm",
+      "section": "VI",
+      "section_name": "Sản phẩm hóa chất",
+      "examples": "Nước hoa, trang điểm, dầu gội, xà phòng"
+    },
+    {
+      "chapter": "34",
+      "name": "Xà phòng, sáp, nến",
+      "section": "VI",
+      "section_name": "Sản phẩm hóa chất",
+      "examples": "Xà phòng, chất tẩy rửa, nến, chất đánh bóng"
+    },
+    {
+      "chapter": "35",
+      "name": "Các chất albuminoid; keo",
+      "section": "VI",
+      "section_name": "Sản phẩm hóa chất",
+      "examples": "Gelatin, keo, enzyme"
+    },
+    {
+      "chapter": "36",
+      "name": "Thuốc nổ; diêm; pháo hoa",
+      "section": "VI",
+      "section_name": "Sản phẩm hóa chất",
+      "examples": "Thuốc nổ, diêm, pháo hoa"
+    },
+    {
+      "chapter": "37",
+      "name": "Hàng hóa nhiếp ảnh",
+      "section": "VI",
+      "section_name": "Sản phẩm hóa chất",
+      "examples": "Phim ảnh, tấm ảnh, hóa chất"
+    },
+    {
+      "chapter": "38",
+      "name": "Các sản phẩm hóa chất khác",
+      "section": "VI",
+      "section_name": "Sản phẩm hóa chất",
+      "examples": "Thuốc diệt côn trùng, thuốc diệt cỏ, chất chống đông"
+    },
+    {
+      "chapter": "39",
+      "name": "Nhựa và các sản phẩm bằng nhựa",
+      "section": "VII",
+      "section_name": "Nhựa và cao su",
+      "examples": "Tấm nhựa, ống, thùng chứa"
+    },
+    {
+      "chapter": "40",
+      "name": "Cao su và các sản phẩm bằng cao su",
+      "section": "VII",
+      "section_name": "Nhựa và cao su",
+      "examples": "Lốp xe, ống cao su, găng tay"
+    },
+    {
+      "chapter": "41",
+      "name": "Da sống và da thuộc, da",
+      "section": "VIII",
+      "section_name": "Đồ da và Hàng du lịch",
+      "examples": "Da, da sống, da thuộc"
+    },
+    {
+      "chapter": "42",
+      "name": "Sản phẩm da; hàng du lịch",
+      "section": "VIII",
+      "section_name": "Đồ da và Hàng du lịch",
+      "examples": "Túi xách, ví, thắt lưng, vali"
+    },
+    {
+      "chapter": "43",
+      "name": "Da lông và lông nhân tạo",
+      "section": "VIII",
+      "section_name": "Đồ da và Hàng du lịch",
+      "examples": "Áo khoác lông, đồ trang trí lông"
+    },
+    {
+      "chapter": "44",
+      "name": "Gỗ và các sản phẩm bằng gỗ",
+      "section": "IX",
+      "section_name": "Gỗ và Sản phẩm gỗ",
+      "examples": "Gỗ xẻ, ván ép, linh kiện đồ nội thất"
+    },
+    {
+      "chapter": "45",
+      "name": "Nút bần và các sản phẩm bằng nút bần",
+      "section": "IX",
+      "section_name": "Gỗ và Sản phẩm gỗ",
+      "examples": "Nút chai bần, tấm nút bần"
+    },
+    {
+      "chapter": "46",
+      "name": "Đồ làm từ rơm, đồ đan lát",
+      "section": "IX",
+      "section_name": "Gỗ và Sản phẩm gỗ",
+      "examples": "Giỏ, chiếu, đồ đan mây tre"
+    },
+    {
+      "chapter": "47",
+      "name": "Bột gỗ hoặc vật liệu sợi",
+      "section": "X",
+      "section_name": "Bột giấy và Giấy",
+      "examples": "Bột gỗ, bột giấy"
+    },
+    {
+      "chapter": "48",
+      "name": "Giấy và bìa cứng",
+      "section": "X",
+      "section_name": "Bột giấy và Giấy",
+      "examples": "Giấy, bìa cứng, hộp"
+    },
+    {
+      "chapter": "49",
+      "name": "Sách in, báo chí",
+      "section": "X",
+      "section_name": "Bột giấy và Giấy",
+      "examples": "Sách, tạp chí, bản đồ, tem"
+    },
+    {
+      "chapter": "50",
+      "name": "Lụa",
+      "section": "XI",
+      "section_name": "Dệt may",
+      "examples": "Sợi tơ tằm, vải lụa"
+    },
+    {
+      "chapter": "51",
+      "name": "Len và lông động vật",
+      "section": "XI",
+      "section_name": "Dệt may",
+      "examples": "Sợi len, vải len"
+    },
+    {
+      "chapter": "52",
+      "name": "Bông",
+      "section": "XI",
+      "section_name": "Dệt may",
+      "examples": "Sợi bông, vải bông"
+    },
+    {
+      "chapter": "53",
+      "name": "Các loại sợi dệt thực vật khác",
+      "section": "XI",
+      "section_name": "Dệt may",
+      "examples": "Vải lanh, vải gai dầu, vải đay"
+    },
+    {
+      "chapter": "54",
+      "name": "Sợi nhân tạo dạng sợi dài",
+      "section": "XI",
+      "section_name": "Dệt may",
+      "examples": "Sợi nylon, sợi polyester"
+    },
+    {
+      "chapter": "55",
+      "name": "Sợi nhân tạo dạng sợi ngắn",
+      "section": "XI",
+      "section_name": "Dệt may",
+      "examples": "Sợi tổng hợp dạng ngắn, sợi"
+    },
+    {
+      "chapter": "56",
+      "name": "Bông chần, nỉ, vải không dệt",
+      "section": "XI",
+      "section_name": "Dệt may",
+      "examples": "Bông chần, nỉ, dây thừng, dây bện"
+    },
+    {
+      "chapter": "57",
+      "name": "Thảm và vật liệu trải sàn dệt",
+      "section": "XI",
+      "section_name": "Dệt may",
+      "examples": "Thảm, thảm nhỏ, chiếu"
+    },
+    {
+      "chapter": "58",
+      "name": "Vải dệt đặc biệt",
+      "section": "XI",
+      "section_name": "Dệt may",
+      "examples": "Thảm trang trí, ren, thêu"
+    },
+    {
+      "chapter": "59",
+      "name": "Vải dệt được tẩm hoặc phủ",
+      "section": "XI",
+      "section_name": "Dệt may",
+      "examples": "Vải tráng phủ, sợi lốp xe"
+    },
+    {
+      "chapter": "60",
+      "name": "Vải dệt kim hoặc đan móc",
+      "section": "XI",
+      "section_name": "Dệt may",
+      "examples": "Vải dệt kim"
+    },
+    {
+      "chapter": "61",
+      "name": "Hàng may mặc và phụ kiện dệt kim",
+      "section": "XI",
+      "section_name": "Dệt may",
+      "examples": "Áo len, Áo phông, vớ"
+    },
+    {
+      "chapter": "62",
+      "name": "Hàng may mặc và phụ kiện dệt thoi",
+      "section": "XI",
+      "section_name": "Dệt may",
+      "examples": "Bộ com lê, áo sơ mi, váy, áo khoác"
+    },
+    {
+      "chapter": "63",
+      "name": "Các mặt hàng dệt may thành phẩm khác",
+      "section": "XI",
+      "section_name": "Dệt may",
+      "examples": "Chăn, rèm, túi xách, lều"
+    },
+    {
+      "chapter": "64",
+      "name": "Giày dép",
+      "section": "XII",
+      "section_name": "Giày dép và Mũ nón",
+      "examples": "Giày, bốt, dép sandal, dép đi trong nhà"
+    },
+    {
+      "chapter": "65",
+      "name": "Mũ nón",
+      "section": "XII",
+      "section_name": "Giày dép và Mũ nón",
+      "examples": "Mũ, mũ lưỡi trai, mũ bảo hiểm"
+    },
+    {
+      "chapter": "66",
+      "name": "Ô (dù), gậy chống",
+      "section": "XII",
+      "section_name": "Giày dép và Mũ nón",
+      "examples": "Ô (dù), gậy, roi"
+    },
+    {
+      "chapter": "67",
+      "name": "Lông vũ đã chế biến; hoa nhân tạo",
+      "section": "XII",
+      "section_name": "Giày dép và Mũ nón",
+      "examples": "Hoa nhân tạo, tóc giả"
+    },
+    {
+      "chapter": "68",
+      "name": "Sản phẩm bằng đá, xi măng",
+      "section": "XIII",
+      "section_name": "Đá, Gốm sứ, Thủy tinh",
+      "examples": "Gạch đá, sản phẩm xi măng"
+    },
+    {
+      "chapter": "69",
+      "name": "Sản phẩm gốm sứ",
+      "section": "XIII",
+      "section_name": "Đá, Gốm sứ, Thủy tinh",
+      "examples": "Gạch, ngói, đồ gốm, sứ"
+    },
+    {
+      "chapter": "70",
+      "name": "Thủy tinh và đồ thủy tinh",
+      "section": "XIII",
+      "section_name": "Đá, Gốm sứ, Thủy tinh",
+      "examples": "Chai thủy tinh, gương, đồ thủy tinh"
+    },
+    {
+      "chapter": "71",
+      "name": "Ngọc trai, đá quý, kim loại quý",
+      "section": "XIV",
+      "section_name": "Kim loại quý và Đá quý",
+      "examples": "Kim cương, vàng, bạc, đồ trang sức"
+    },
+    {
+      "chapter": "72",
+      "name": "Sắt và thép",
+      "section": "XV",
+      "section_name": "Kim loại cơ bản",
+      "examples": "Sắt, thép, hợp kim sắt"
+    },
+    {
+      "chapter": "73",
+      "name": "Sản phẩm bằng sắt hoặc thép",
+      "section": "XV",
+      "section_name": "Kim loại cơ bản",
+      "examples": "Ống thép, thùng chứa, dây thép"
+    },
+    {
+      "chapter": "74",
+      "name": "Đồng và sản phẩm bằng đồng",
+      "section": "XV",
+      "section_name": "Kim loại cơ bản",
+      "examples": "Dây đồng, ống đồng, tấm đồng"
+    },
+    {
+      "chapter": "75",
+      "name": "Niken và sản phẩm bằng niken",
+      "section": "XV",
+      "section_name": "Kim loại cơ bản",
+      "examples": "Thanh niken, tấm niken, dây niken"
+    },
+    {
+      "chapter": "76",
+      "name": "Nhôm và sản phẩm bằng nhôm",
+      "section": "XV",
+      "section_name": "Kim loại cơ bản",
+      "examples": "Tấm nhôm, lá nhôm, lon nhôm"
+    },
+    {
+      "chapter": "78",
+      "name": "Chì và sản phẩm bằng chì",
+      "section": "XV",
+      "section_name": "Kim loại cơ bản",
+      "examples": "Tấm chì, lá chì, ống chì"
+    },
+    {
+      "chapter": "79",
+      "name": "Kẽm và sản phẩm bằng kẽm",
+      "section": "XV",
+      "section_name": "Kim loại cơ bản",
+      "examples": "Tấm kẽm, thanh kẽm, bột kẽm"
+    },
+    {
+      "chapter": "80",
+      "name": "Thiếc và sản phẩm bằng thiếc",
+      "section": "XV",
+      "section_name": "Kim loại cơ bản",
+      "examples": "Thanh thiếc, tấm thiếc, lá thiếc"
+    },
+    {
+      "chapter": "81",
+      "name": "Các kim loại cơ bản khác",
+      "section": "XV",
+      "section_name": "Kim loại cơ bản",
+      "examples": "Vonfram, titan, molypden"
+    },
+    {
+      "chapter": "82",
+      "name": "Dụng cụ bằng kim loại cơ bản",
+      "section": "XV",
+      "section_name": "Kim loại cơ bản",
+      "examples": "Dao, kéo, dụng cụ cầm tay"
+    },
+    {
+      "chapter": "83",
+      "name": "Các sản phẩm khác bằng kim loại cơ bản",
+      "section": "XV",
+      "section_name": "Kim loại cơ bản",
+      "examples": "Khóa, phụ kiện, két sắt, chuông"
+    },
+    {
+      "chapter": "84",
+      "name": "Lò phản ứng hạt nhân, nồi hơi, máy móc",
+      "section": "XVI",
+      "section_name": "Máy móc",
+      "examples": "Động cơ, máy bơm, máy tính, máy điều hòa"
+    },
+    {
+      "chapter": "85",
+      "name": "Máy móc và thiết bị điện",
+      "section": "XVI",
+      "section_name": "Máy móc",
+      "examples": "Điện thoại, TV, động cơ, pin"
+    },
+    {
+      "chapter": "86",
+      "name": "Đầu máy xe lửa, toa xe",
+      "section": "XVII",
+      "section_name": "Phương tiện giao thông",
+      "examples": "Tàu hỏa, xe điện, toa xe lửa"
+    },
+    {
+      "chapter": "87",
+      "name": "Phương tiện giao thông khác ngoài đường sắt",
+      "section": "XVII",
+      "section_name": "Phương tiện giao thông",
+      "examples": "Ô tô, xe tải, xe máy, xe đạp"
+    },
+    {
+      "chapter": "88",
+      "name": "Máy bay, tàu vũ trụ",
+      "section": "XVII",
+      "section_name": "Phương tiện giao thông",
+      "examples": "Máy bay, trực thăng, máy bay không người lái"
+    },
+    {
+      "chapter": "89",
+      "name": "Tàu thủy, thuyền",
+      "section": "XVII",
+      "section_name": "Phương tiện giao thông",
+      "examples": "Tàu thủy, du thuyền, thuyền"
+    },
+    {
+      "chapter": "90",
+      "name": "Dụng cụ quang học, y tế, đo lường",
+      "section": "XVIII",
+      "section_name": "Dụng cụ",
+      "examples": "Máy ảnh, thiết bị y tế, cảm biến"
+    },
+    {
+      "chapter": "91",
+      "name": "Đồng hồ và đồng hồ đeo tay",
+      "section": "XVIII",
+      "section_name": "Dụng cụ",
+      "examples": "Đồng hồ đeo tay, đồng hồ, bộ phận đồng hồ"
+    },
+    {
+      "chapter": "92",
+      "name": "Nhạc cụ",
+      "section": "XVIII",
+      "section_name": "Dụng cụ",
+      "examples": "Đàn piano, đàn guitar, trống"
+    },
+    {
+      "chapter": "93",
+      "name": "Vũ khí và đạn dược",
+      "section": "XIX",
+      "section_name": "Vũ khí và Đạn dược",
+      "examples": "Vũ khí, đạn dược, phụ tùng"
+    },
+    {
+      "chapter": "94",
+      "name": "Đồ nội thất; đồ dùng giường ngủ; đèn",
+      "section": "XX",
+      "section_name": "Các sản phẩm linh tinh",
+      "examples": "Ghế, giường, đèn, nhà tiền chế"
+    },
+    {
+      "chapter": "95",
+      "name": "Đồ chơi, trò chơi, thiết bị thể thao",
+      "section": "XX",
+      "section_name": "Các sản phẩm linh tinh",
+      "examples": "Đồ chơi, trò chơi điện tử, dụng cụ thể thao"
+    },
+    {
+      "chapter": "96",
+      "name": "Các mặt hàng sản xuất linh tinh khác",
+      "section": "XX",
+      "section_name": "Các sản phẩm linh tinh",
+      "examples": "Bút, cúc áo, bật lửa, chổi"
+    },
+    {
+      "chapter": "97",
+      "name": "Tác phẩm nghệ thuật, đồ cổ",
+      "section": "XXI",
+      "section_name": "Tác phẩm nghệ thuật",
+      "examples": "Tranh vẽ, tượng điêu khắc, đồ cổ"
+    },
+    {
+      "chapter": "98",
+      "name": "Các quy định phân loại đặc biệt",
+      "section": "XXII",
+      "section_name": "Đặc biệt",
+      "examples": "Các quy định đặc biệt của quốc gia"
+    },
+    {
+      "chapter": "99",
+      "name": "Các quy định nhập khẩu đặc biệt",
+      "section": "XXII",
+      "section_name": "Đặc biệt",
+      "examples": "Nhập khẩu tạm thời, tái nhập khẩu"
+    }
+  ],
+  "meta": {
+    "seo_title": "Danh sách Chương Mã HS - Tải xuống miễn phí (Excel/CSV/PDF)",
+    "seo_description": "Tải miễn phí toàn bộ 98 Chương Mã HS với mô tả chi tiết, phần và ví dụ. Có sẵn ở định dạng Excel, CSV và PDF.",
+    "title": "Tập dữ liệu Chương Mã HS (Hệ thống hài hòa)",
+    "description": "Tập dữ liệu toàn diện này cung cấp tất cả 98 chương của Mã Hệ thống hài hòa (HS), rất quan trọng cho thương mại quốc tế và phân loại hải quan. Mỗi bản ghi bao gồm số chương, mô tả, chi tiết phần và các ví dụ minh họa.",
+    "key_takeaways": [
+      "Truy cập tất cả 98 Chương Mã HS chính thức, không thể thiếu cho thương mại toàn cầu.",
+      "Khám phá các mô tả chi tiết, phân loại phần và ví dụ thực tế cho mỗi chương.",
+      "Tải xuống toàn bộ danh sách Chương Hệ thống hài hòa ngay lập tức ở nhiều định dạng.",
+      "Tận dụng dữ liệu có cấu trúc cho tờ khai hải quan, tra cứu thuế quan và phân tích thị trường."
+    ],
+    "keywords": [
+      "danh sách chương mã hs excel",
+      "dữ liệu hệ thống hài hòa",
+      "phân loại thương mại quốc tế csv",
+      "mã hải quan tải miễn phí",
+      "dữ liệu thuế quan thương mại"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL hoặc tập lệnh Python của bạn để tự động phân loại sản phẩm và phân tích dữ liệu thương mại.",
+      "Sử dụng tệp **Excel** để lọc, sắp xếp và tạo Bảng tổng hợp (Pivot Tables) cho nghiên cứu thuế quan, báo cáo tuân thủ hoặc thông tin thị trường.",
+      "In phiên bản **PDF** để tham khảo nhanh ngoại tuyến, giảng dạy trong lớp học hoặc làm hướng dẫn tiện dụng trên bàn làm việc cho các nhà môi giới hải quan.",
+      "Tích hợp tập dữ liệu này vào nền tảng ERP hoặc thương mại điện tử của bạn để phân loại sản phẩm chính xác và hợp lý hóa vận chuyển quốc tế."
+    ]
+  },
+  "record_count": 98,
+  "title": "Tập dữ liệu Chương Mã HS (Hệ thống hài hòa)"
+}

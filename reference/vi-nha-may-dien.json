@@ -1,0 +1,2736 @@
+{
+  "id": "vi-nha-may-dien",
+  "name": "Nhà máy điện tại Việt Nam",
+  "title": "Nhà máy điện tại Việt Nam",
+  "description": "Danh sách tổng hợp 335 nhà máy điện tại Việt Nam (tính đến 08/2020), hợp nhất từ WRI Global Power Plant Database, Báo cáo thị trường điện 2018 và Quy hoạch điện VII điều chỉnh — dự án nghiên cứu của sinh viên UIT. Gồm tên (đã chuẩn hóa ASCII bởi nguồn), loại nhiên liệu, công suất (MW), tọa độ và năm vận hành. Lưu ý: tên không có dấu tiếng Việt trong file nguồn này (xem vi-nha-may-dien-thi-truong cho tên nguyên bản); không có khóa định danh duy nhất — một số tên xuất hiện nhiều lần (các tổ máy/giai đoạn riêng).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 335,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fuel",
+      "label": "Fuel",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "commissioning_year",
+      "label": "Commissioning Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A Lin",
+      "fuel": "Hydro",
+      "capacity_mw": 62,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2018
+    },
+    {
+      "name": "A Luoi",
+      "fuel": "Hydro",
+      "capacity_mw": 170,
+      "latitude": 16.2839,
+      "longitude": 107.3589,
+      "commissioning_year": 2012
+    },
+    {
+      "name": "A Roang",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 16.12,
+      "longitude": 107.38,
+      "commissioning_year": ""
+    },
+    {
+      "name": "A Vuong",
+      "fuel": "Hydro",
+      "capacity_mw": 210,
+      "latitude": 15.7998,
+      "longitude": 107.6171,
+      "commissioning_year": 2008
+    },
+    {
+      "name": "Alin B1",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 16.4042,
+      "longitude": 107.1914,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Alternative energy sources",
+      "fuel": "Renewable",
+      "capacity_mw": 470,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2020
+    },
+    {
+      "name": "Alternative energy sources",
+      "fuel": "Renewable",
+      "capacity_mw": 790,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2021
+    },
+    {
+      "name": "Alternative energy sources",
+      "fuel": "Renewable",
+      "capacity_mw": 1200,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2022
+    },
+    {
+      "name": "Alternative energy sources",
+      "fuel": "Renewable",
+      "capacity_mw": 450,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2019
+    },
+    {
+      "name": "Alternative energy sources",
+      "fuel": "Renewable",
+      "capacity_mw": 260,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Alternative energy sources",
+      "fuel": "Renewable",
+      "capacity_mw": 360,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2017
+    },
+    {
+      "name": "Alternative energy sources",
+      "fuel": "Renewable",
+      "capacity_mw": 520,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2018
+    },
+    {
+      "name": "Alternative energy sources",
+      "fuel": "Renewable",
+      "capacity_mw": 1000,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2023
+    },
+    {
+      "name": "Alternative energy sources",
+      "fuel": "Renewable",
+      "capacity_mw": 3240,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2028
+    },
+    {
+      "name": "Alternative energy sources",
+      "fuel": "Renewable",
+      "capacity_mw": 3350,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2029
+    },
+    {
+      "name": "Alternative energy sources",
+      "fuel": "Renewable",
+      "capacity_mw": 3530,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2030
+    },
+    {
+      "name": "Alternative energy sources",
+      "fuel": "Renewable",
+      "capacity_mw": 2910,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2027
+    },
+    {
+      "name": "Alternative energy sources",
+      "fuel": "Renewable",
+      "capacity_mw": 1200,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2024
+    },
+    {
+      "name": "Alternative energy sources",
+      "fuel": "Renewable",
+      "capacity_mw": 1800,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2025
+    },
+    {
+      "name": "Alternative energy sources",
+      "fuel": "Renewable",
+      "capacity_mw": 2160,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2026
+    },
+    {
+      "name": "Amata",
+      "fuel": "Oil",
+      "capacity_mw": "",
+      "latitude": 10.9471,
+      "longitude": 106.9,
+      "commissioning_year": ""
+    },
+    {
+      "name": "An Diem 2",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "An Khanh",
+      "fuel": "Coal",
+      "capacity_mw": 120,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "An Khanh I",
+      "fuel": "Coal",
+      "capacity_mw": "",
+      "latitude": 21.5969,
+      "longitude": 105.767,
+      "commissioning_year": 2015
+    },
+    {
+      "name": "An Khe",
+      "fuel": "Biomass",
+      "capacity_mw": 55,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2018
+    },
+    {
+      "name": "An Khe",
+      "fuel": "Hydro",
+      "capacity_mw": 160,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "An Khe - Kanak",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 14.0148,
+      "longitude": 108.6796,
+      "commissioning_year": 2009
+    },
+    {
+      "name": "Ayun Ha",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 13.5809,
+      "longitude": 108.2592,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Ayun Pa Sugar-Cane",
+      "fuel": "Biomass",
+      "capacity_mw": "",
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Ayun Thuong 1A",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 13.9181,
+      "longitude": 108.2333,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Ba Ria",
+      "fuel": "Gas",
+      "capacity_mw": "",
+      "latitude": 10.4891,
+      "longitude": 107.17,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Ba Thuoc 1",
+      "fuel": "Hydro",
+      "capacity_mw": 60,
+      "latitude": 20.3122,
+      "longitude": 105.1619,
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Ba Thuoc 2",
+      "fuel": "Hydro",
+      "capacity_mw": 80,
+      "latitude": 20.3222,
+      "longitude": 105.3217,
+      "commissioning_year": 2012
+    },
+    {
+      "name": "Bac Ai",
+      "fuel": "Hydro",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2025
+    },
+    {
+      "name": "Bac Binh",
+      "fuel": "Hydro",
+      "capacity_mw": 34,
+      "latitude": 11.3711,
+      "longitude": 108.33,
+      "commissioning_year": 2009
+    },
+    {
+      "name": "Bac Ha",
+      "fuel": "Hydro",
+      "capacity_mw": 90,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Bac Lieu",
+      "fuel": "Wind",
+      "capacity_mw": 142,
+      "latitude": 9.1207,
+      "longitude": 105.4445,
+      "commissioning_year": 2018
+    },
+    {
+      "name": "Bac Lieu 1",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2030
+    },
+    {
+      "name": "Bac Me",
+      "fuel": "Hydro",
+      "capacity_mw": 45.5,
+      "latitude": 22.7369,
+      "longitude": 105.3844,
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Ban Chat",
+      "fuel": "Hydro",
+      "capacity_mw": 220,
+      "latitude": 21.8612,
+      "longitude": 103.8286,
+      "commissioning_year": 2013
+    },
+    {
+      "name": "Ban Coc",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 19.5894,
+      "longitude": 104.8749,
+      "commissioning_year": 2009
+    },
+    {
+      "name": "Ban Mong (Song Hieu)",
+      "fuel": "Hydro",
+      "capacity_mw": 60,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2022
+    },
+    {
+      "name": "Ban Nhung Small",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 22.0028,
+      "longitude": 106.5875,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Ban Ra",
+      "fuel": "Hydro",
+      "capacity_mw": 320,
+      "latitude": 22.8439,
+      "longitude": 106.6917,
+      "commissioning_year": 2012
+    },
+    {
+      "name": "Ban Ve",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 19.3404,
+      "longitude": 104.4873,
+      "commissioning_year": 2010
+    },
+    {
+      "name": "Bao Lam 3",
+      "fuel": "Hydro",
+      "capacity_mw": 46,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2019
+    },
+    {
+      "name": "Bao Nhai",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 22.4435,
+      "longitude": 104.2517,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Bau Can",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Bauxit Aluminum Factory",
+      "fuel": "Oil",
+      "capacity_mw": "",
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Bien Ho",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Binh Dien",
+      "fuel": "Hydro",
+      "capacity_mw": 44,
+      "latitude": 16.3172,
+      "longitude": 107.5028,
+      "commissioning_year": 2009
+    },
+    {
+      "name": "Binh Thuan",
+      "fuel": "Wind",
+      "capacity_mw": "",
+      "latitude": 11.12,
+      "longitude": 108.4,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Bourbon",
+      "fuel": "Oil",
+      "capacity_mw": "",
+      "latitude": 10.613,
+      "longitude": 106.49,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Bu Ca Mau",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 11.8713,
+      "longitude": 106.9768,
+      "commissioning_year": 2009
+    },
+    {
+      "name": "Buon Kuop",
+      "fuel": "Hydro",
+      "capacity_mw": 280,
+      "latitude": 12.5305,
+      "longitude": 107.9243,
+      "commissioning_year": 2011
+    },
+    {
+      "name": "Buon Tua Srah",
+      "fuel": "Hydro",
+      "capacity_mw": 86,
+      "latitude": 12.2852,
+      "longitude": 108.0383,
+      "commissioning_year": 2009
+    },
+    {
+      "name": "Ca Du",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 15.2714,
+      "longitude": 108.5186,
+      "commissioning_year": 2005
+    },
+    {
+      "name": "Ca Mau 1",
+      "fuel": "Gas",
+      "capacity_mw": 750,
+      "latitude": 9.242,
+      "longitude": 105.06,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Ca Mau 2",
+      "fuel": "Gas",
+      "capacity_mw": 750,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Cai Lan",
+      "fuel": "Oil",
+      "capacity_mw": "",
+      "latitude": 20.9861,
+      "longitude": 107.03,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Cam Pha",
+      "fuel": "Coal",
+      "capacity_mw": 670,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Cam Pha 3",
+      "fuel": "Coal",
+      "capacity_mw": 440,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2020
+    },
+    {
+      "name": "Cam Pha I",
+      "fuel": "Coal",
+      "capacity_mw": "",
+      "latitude": 21.0063,
+      "longitude": 107.36,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Cam Ranh Baggasse",
+      "fuel": "Biomass",
+      "capacity_mw": "",
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Cam Son",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 21.5438,
+      "longitude": 106.5105,
+      "commissioning_year": 1973
+    },
+    {
+      "name": "Can Don",
+      "fuel": "Hydro",
+      "capacity_mw": 78,
+      "latitude": 11.9689,
+      "longitude": 106.8435,
+      "commissioning_year": 2004
+    },
+    {
+      "name": "Can Tho",
+      "fuel": "Oil",
+      "capacity_mw": "",
+      "latitude": 10.1,
+      "longitude": 105.72,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Cao Ngan",
+      "fuel": "Coal",
+      "capacity_mw": 115,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Chau Thon",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 19.36,
+      "longitude": 104.47,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Chi Khe",
+      "fuel": "Hydro",
+      "capacity_mw": 41,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2017
+    },
+    {
+      "name": "Chi Khe",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 104.8,
+      "longitude": 19.083,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Chiem Hoa",
+      "fuel": "Hydro",
+      "capacity_mw": 48,
+      "latitude": 22.2056,
+      "longitude": 105.3294,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Chieng Cong",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Chieng Cong 1",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 21.4707,
+      "longitude": 104.1852,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Chieng Cong 2",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 21.4572,
+      "longitude": 104.2104,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Chieng Ngam Thuong",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 21.475,
+      "longitude": 103.7778,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Chu Linh And Coc San",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 22.4119,
+      "longitude": 103.8974,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Coc Dam",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 22.4431,
+      "longitude": 104.3175,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Coc Ly",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 22.2985,
+      "longitude": 103.1613,
+      "commissioning_year": 2012
+    },
+    {
+      "name": "Coc San",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 22.4144,
+      "longitude": 103.9066,
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Cong Thanh",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2020
+    },
+    {
+      "name": "Cua Dat",
+      "fuel": "Hydro",
+      "capacity_mw": 97,
+      "latitude": 19.8782,
+      "longitude": 105.2731,
+      "commissioning_year": 2010
+    },
+    {
+      "name": "Da Dang 2",
+      "fuel": "Hydro",
+      "capacity_mw": 34,
+      "latitude": 11.6952,
+      "longitude": 108.2442,
+      "commissioning_year": 2010
+    },
+    {
+      "name": "Da Dang-Dachomo",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Da Den",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 12.9183,
+      "longitude": 109.1453,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Da Kai",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 12.0838,
+      "longitude": 108.5953,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Da M'Bri",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 11.5272,
+      "longitude": 107.6467,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Da Mi",
+      "fuel": "Hydro",
+      "capacity_mw": 175,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Da Nhim",
+      "fuel": "Hydro",
+      "capacity_mw": 160,
+      "latitude": 11.8529,
+      "longitude": 108.6058,
+      "commissioning_year": 1964
+    },
+    {
+      "name": "Da Nhim Extension",
+      "fuel": "Hydro",
+      "capacity_mw": 100,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2018
+    },
+    {
+      "name": "Da Nhim Thuong 2",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 12.1161,
+      "longitude": 108.5852,
+      "commissioning_year": 2010
+    },
+    {
+      "name": "Dac Me",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 12.1333,
+      "longitude": 108.313,
+      "commissioning_year": 2011
+    },
+    {
+      "name": "Dai Nga",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 11.4219,
+      "longitude": 107.8754,
+      "commissioning_year": 2015
+    },
+    {
+      "name": "Dai Ninh",
+      "fuel": "Hydro",
+      "capacity_mw": 300,
+      "latitude": 11.6499,
+      "longitude": 108.3202,
+      "commissioning_year": 2008
+    },
+    {
+      "name": "Dak Doa",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 14.1958,
+      "longitude": 108.105,
+      "commissioning_year": 2010
+    },
+    {
+      "name": "Dak Glun",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 12.0225,
+      "longitude": 107.1783,
+      "commissioning_year": 2011
+    },
+    {
+      "name": "Dak Glun 2 And 3",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 12.0925,
+      "longitude": 107.3464,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dak Gret",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2015
+    },
+    {
+      "name": "Dak Hnol",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 13.9375,
+      "longitude": 108.2139,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dak Lay",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 14.7979,
+      "longitude": 108.0074,
+      "commissioning_year": 2015
+    },
+    {
+      "name": "Dak Lo",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 14.7306,
+      "longitude": 108.3319,
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Dak Me 1",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 12.1375,
+      "longitude": 108.3222,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dak Mek 3",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dak Mi 1",
+      "fuel": "Hydro",
+      "capacity_mw": 54,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2018
+    },
+    {
+      "name": "Dak Mi 1-1A",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 15.215,
+      "longitude": 107.8192,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dak Mi 2",
+      "fuel": "Hydro",
+      "capacity_mw": 98,
+      "latitude": 15.2961,
+      "longitude": 107.8161,
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Dak Mi 3",
+      "fuel": "Hydro",
+      "capacity_mw": 63,
+      "latitude": 15.3375,
+      "longitude": 107.8326,
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Dak Mi 4",
+      "fuel": "Hydro",
+      "capacity_mw": 208,
+      "latitude": 15.4575,
+      "longitude": 107.9155,
+      "commissioning_year": 2012
+    },
+    {
+      "name": "Dak Mi 4C",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 15.4639,
+      "longitude": 107.9289,
+      "commissioning_year": 2012
+    },
+    {
+      "name": "Dak N'Teng",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 12.2167,
+      "longitude": 107.9792,
+      "commissioning_year": 2011
+    },
+    {
+      "name": "Dak Ne",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 14.6164,
+      "longitude": 108.154,
+      "commissioning_year": 2010
+    },
+    {
+      "name": "Dak Nong 1",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dak Nong 2",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 11.9433,
+      "longitude": 107.6667,
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Dak Pi Hao 4",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dak Pia",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 14.6651,
+      "longitude": 108.1593,
+      "commissioning_year": 2012
+    },
+    {
+      "name": "Dak Po Ne",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 14.5759,
+      "longitude": 108.3049,
+      "commissioning_year": 2009
+    },
+    {
+      "name": "Dak Po Ne 2",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 14.526,
+      "longitude": 108.2992,
+      "commissioning_year": 2008
+    },
+    {
+      "name": "Dak Pone",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dak Pring",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 15.6181,
+      "longitude": 107.5528,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dak Psi 3",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 14.6613,
+      "longitude": 107.9367,
+      "commissioning_year": 2012
+    },
+    {
+      "name": "Dak Psi 3 And 4",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 14.775,
+      "longitude": 107.9972,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dak Psi 4",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 14.7684,
+      "longitude": 108.0027,
+      "commissioning_year": 2010
+    },
+    {
+      "name": "Dak Psi 5",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 14.6592,
+      "longitude": 107.9347,
+      "commissioning_year": 2014
+    },
+    {
+      "name": "Dak Re",
+      "fuel": "Hydro",
+      "capacity_mw": 60,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2022
+    },
+    {
+      "name": "Dak Ro Sa",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 14.7473,
+      "longitude": 107.8358,
+      "commissioning_year": 2007
+    },
+    {
+      "name": "Dak Rong 4",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 16.363,
+      "longitude": 106.521,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dak Ru",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 11.9522,
+      "longitude": 107.4042,
+      "commissioning_year": 2008
+    },
+    {
+      "name": "Dak Rung",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 12.1538,
+      "longitude": 107.6237,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dak Rung 1",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 12.125,
+      "longitude": 107.6333,
+      "commissioning_year": 2010
+    },
+    {
+      "name": "Dak Sin 1",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 11.8186,
+      "longitude": 107.459,
+      "commissioning_year": 2015
+    },
+    {
+      "name": "Dak Srong",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 13.7659,
+      "longitude": 108.5236,
+      "commissioning_year": 2010
+    },
+    {
+      "name": "Dak Srong 2",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 13.6958,
+      "longitude": 108.5583,
+      "commissioning_year": 2010
+    },
+    {
+      "name": "Dak Srong 2A",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 13.6944,
+      "longitude": 108.565,
+      "commissioning_year": 2011
+    },
+    {
+      "name": "Dak Srong 3A",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 13.3508,
+      "longitude": 108.5306,
+      "commissioning_year": 2014
+    },
+    {
+      "name": "Dak Srong 3B",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 13.3222,
+      "longitude": 108.5167,
+      "commissioning_year": 2012
+    },
+    {
+      "name": "Dak Ter 1",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2015
+    },
+    {
+      "name": "Dak U",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2009
+    },
+    {
+      "name": "Dakdrinh",
+      "fuel": "Hydro",
+      "capacity_mw": 125,
+      "latitude": 15.0156,
+      "longitude": 108.3953,
+      "commissioning_year": 2014
+    },
+    {
+      "name": "Dakr'tih",
+      "fuel": "Hydro",
+      "capacity_mw": 144,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dakrong 2",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dakrong 3",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 16.5306,
+      "longitude": 106.9611,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dakrosa2",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 14.7178,
+      "longitude": 107.8194,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dakrtih",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 11.9131,
+      "longitude": 107.6717,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dam B'Ri 1",
+      "fuel": "Hydro",
+      "capacity_mw": "",
+      "latitude": 11.6083,
+      "longitude": 107.72,
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dam'Bri",
+      "fuel": "Hydro",
+      "capacity_mw": 75,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Don Duong",
+      "fuel": "Hydro",
+      "capacity_mw": 300,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2030
+    },
+    {
+      "name": "Dong Nai 2",
+      "fuel": "Hydro",
+      "capacity_mw": 70,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dong Nai 3",
+      "fuel": "Hydro",
+      "capacity_mw": 180,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dong Nai 4",
+      "fuel": "Hydro",
+      "capacity_mw": 340,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dong Nai 5",
+      "fuel": "Hydro",
+      "capacity_mw": 150,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Dong Phu Yen",
+      "fuel": "Hydro",
+      "capacity_mw": 300,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2030
+    },
+    {
+      "name": "Dung Quat 1",
+      "fuel": "Gas",
+      "capacity_mw": 750,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2023
+    },
+    {
+      "name": "Dung Quat 2",
+      "fuel": "Gas",
+      "capacity_mw": 750,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2024
+    },
+    {
+      "name": "Duyen Hai 1",
+      "fuel": "Coal",
+      "capacity_mw": 1245,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Duyen Hai 2",
+      "fuel": "Coal",
+      "capacity_mw": 1200,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2021
+    },
+    {
+      "name": "Duyen Hai 3",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2017
+    },
+    {
+      "name": "Duyen Hai 3 Extension",
+      "fuel": "Coal",
+      "capacity_mw": 660,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2019
+    },
+    {
+      "name": "Formosa Dong Nai",
+      "fuel": "Coal",
+      "capacity_mw": 450,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Formosa Ha Tinh",
+      "fuel": "Coal",
+      "capacity_mw": 676,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2020
+    },
+    {
+      "name": "Hai Duong",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2020
+    },
+    {
+      "name": "Hai Duong",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2021
+    },
+    {
+      "name": "Hai Ha 1",
+      "fuel": "Coal",
+      "capacity_mw": 150,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2019
+    },
+    {
+      "name": "Hai Ha 2",
+      "fuel": "Coal",
+      "capacity_mw": 750,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2022
+    },
+    {
+      "name": "Hai Ha 3",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2025
+    },
+    {
+      "name": "Hai Ha 4",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2028
+    },
+    {
+      "name": "Hai Phong",
+      "fuel": "Coal",
+      "capacity_mw": 1200,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Hai Phong 3",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2026
+    },
+    {
+      "name": "Ham Thuan",
+      "fuel": "Hydro",
+      "capacity_mw": 300,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Hanbaram",
+      "fuel": "Wind",
+      "capacity_mw": 117,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2020
+    },
+    {
+      "name": "Hoa Binh",
+      "fuel": "Hydro",
+      "capacity_mw": 1920,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Hoa Binh Extension",
+      "fuel": "Hydro",
+      "capacity_mw": 240,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2022
+    },
+    {
+      "name": "Hoi Xuan",
+      "fuel": "Hydro",
+      "capacity_mw": 102,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2018
+    },
+    {
+      "name": "Hua Na",
+      "fuel": "Hydro",
+      "capacity_mw": 180,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Huoi Quang",
+      "fuel": "Hydro",
+      "capacity_mw": 260,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Huoi Tao",
+      "fuel": "Hydro",
+      "capacity_mw": 180,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2030
+    },
+    {
+      "name": "Huong Dien",
+      "fuel": "Hydro",
+      "capacity_mw": 81,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Huong Son",
+      "fuel": "Hydro",
+      "capacity_mw": 33,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Ialy",
+      "fuel": "Hydro",
+      "capacity_mw": 720,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Ialy Extenstion",
+      "fuel": "Hydro",
+      "capacity_mw": 360,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2020
+    },
+    {
+      "name": "KCP",
+      "fuel": "Biomass",
+      "capacity_mw": 30,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2018
+    },
+    {
+      "name": "Kanak",
+      "fuel": "Hydro",
+      "capacity_mw": 13,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Khai Long (Ca Mau)",
+      "fuel": "Wind",
+      "capacity_mw": 100,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2018
+    },
+    {
+      "name": "Khe Bo",
+      "fuel": "Hydro",
+      "capacity_mw": 100,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Kien Giang 1",
+      "fuel": "Gas",
+      "capacity_mw": 750,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2021
+    },
+    {
+      "name": "Kien Giang 2",
+      "fuel": "Gas",
+      "capacity_mw": 750,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2022
+    },
+    {
+      "name": "Krong H'nang",
+      "fuel": "Hydro",
+      "capacity_mw": 64,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "La Ngau",
+      "fuel": "Hydro",
+      "capacity_mw": 36,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2018
+    },
+    {
+      "name": "Lai Chau",
+      "fuel": "Hydro",
+      "capacity_mw": 1200,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Lai Chau",
+      "fuel": "Hydro",
+      "capacity_mw": 800,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Lee and Man",
+      "fuel": "Biomass",
+      "capacity_mw": 125,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2018
+    },
+    {
+      "name": "Long An 1",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2025
+    },
+    {
+      "name": "Long An 2",
+      "fuel": "Coal",
+      "capacity_mw": 800,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2026
+    },
+    {
+      "name": "Long An 2",
+      "fuel": "Coal",
+      "capacity_mw": 800,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2027
+    },
+    {
+      "name": "Long Phu 1",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2019
+    },
+    {
+      "name": "Long Phu 2",
+      "fuel": "Coal",
+      "capacity_mw": 660,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2022
+    },
+    {
+      "name": "Long Phu 3",
+      "fuel": "Coal",
+      "capacity_mw": 1200,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2022
+    },
+    {
+      "name": "Long Son",
+      "fuel": "Gas",
+      "capacity_mw": 150,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2018
+    },
+    {
+      "name": "Long Tao",
+      "fuel": "Hydro",
+      "capacity_mw": 42,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2017
+    },
+    {
+      "name": "Luc Nam",
+      "fuel": "Coal",
+      "capacity_mw": 50,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2023
+    },
+    {
+      "name": "Luc Nam 1",
+      "fuel": "Coal",
+      "capacity_mw": 50,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2022
+    },
+    {
+      "name": "Mao Khe",
+      "fuel": "Coal",
+      "capacity_mw": 440,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Mien Trung 1",
+      "fuel": "Gas",
+      "capacity_mw": 750,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2023
+    },
+    {
+      "name": "Mien Trung 2",
+      "fuel": "Gas",
+      "capacity_mw": 750,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2024
+    },
+    {
+      "name": "Mien Trung 3",
+      "fuel": "Gas",
+      "capacity_mw": 750,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2026
+    },
+    {
+      "name": "Mong Duong",
+      "fuel": "Coal",
+      "capacity_mw": 1080,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Mong Duong 2",
+      "fuel": "Coal",
+      "capacity_mw": 1200,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Muong Hum",
+      "fuel": "Hydro",
+      "capacity_mw": 32,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "My Ly",
+      "fuel": "Hydro",
+      "capacity_mw": 250,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2021
+    },
+    {
+      "name": "Na Duong",
+      "fuel": "Coal",
+      "capacity_mw": 111.2,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Na Duong 2",
+      "fuel": "Coal",
+      "capacity_mw": 110,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2019
+    },
+    {
+      "name": "Nam Chien 1",
+      "fuel": "Hydro",
+      "capacity_mw": 200,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Nam Chien 2",
+      "fuel": "Hydro",
+      "capacity_mw": 32,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Nam Cum 1, 4, 5",
+      "fuel": "Hydro",
+      "capacity_mw": 65,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2019
+    },
+    {
+      "name": "Nam Cum 2, 3, 6",
+      "fuel": "Hydro",
+      "capacity_mw": 54,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2020
+    },
+    {
+      "name": "Nam Dinh 1",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2022
+    },
+    {
+      "name": "Nam Mo",
+      "fuel": "Hydro",
+      "capacity_mw": 72,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2026
+    },
+    {
+      "name": "Nam Muc",
+      "fuel": "Hydro",
+      "capacity_mw": 44,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Nam Na 2",
+      "fuel": "Hydro",
+      "capacity_mw": 66,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Nam Na 3",
+      "fuel": "Hydro",
+      "capacity_mw": 84,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Nam Na 3",
+      "fuel": "Hydro",
+      "capacity_mw": 84,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Nam Pha 5",
+      "fuel": "Hydro",
+      "capacity_mw": 35,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2020
+    },
+    {
+      "name": "Nam Phang",
+      "fuel": "Hydro",
+      "capacity_mw": 36,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Nam Toong",
+      "fuel": "Hydro",
+      "capacity_mw": 34,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Nghi Son 1",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Nghi Son 2",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2022
+    },
+    {
+      "name": "Ngoi Phat",
+      "fuel": "Hydro",
+      "capacity_mw": 72,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Nhan Hac",
+      "fuel": "Hydro",
+      "capacity_mw": 59,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Nho Que 1",
+      "fuel": "Hydro",
+      "capacity_mw": 32,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Nho Que 2",
+      "fuel": "Hydro",
+      "capacity_mw": 48,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Nho Que 2",
+      "fuel": "Hydro",
+      "capacity_mw": 48,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Nho Que 3",
+      "fuel": "Hydro",
+      "capacity_mw": 110,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Nhon Trach 1",
+      "fuel": "Gas",
+      "capacity_mw": 450,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Nhon Trach 2",
+      "fuel": "Gas",
+      "capacity_mw": 750,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Ninh Thuan 1",
+      "fuel": "Nuclear",
+      "capacity_mw": 1200,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2029
+    },
+    {
+      "name": "Ninh Thuan 2",
+      "fuel": "Nuclear",
+      "capacity_mw": 1100,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2030
+    },
+    {
+      "name": "O Mon 2",
+      "fuel": "Gas",
+      "capacity_mw": 750,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2026
+    },
+    {
+      "name": "O Mon 3",
+      "fuel": "Gas",
+      "capacity_mw": 750,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2020
+    },
+    {
+      "name": "O Mon 4",
+      "fuel": "Gas",
+      "capacity_mw": 750,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2021
+    },
+    {
+      "name": "Pac Ma",
+      "fuel": "Hydro",
+      "capacity_mw": 140,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2019
+    },
+    {
+      "name": "Pha Lai 1",
+      "fuel": "Coal",
+      "capacity_mw": 440,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Pha Lai 2",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Phu My 1",
+      "fuel": "Gas",
+      "capacity_mw": 1059,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Phu My 2.1",
+      "fuel": "Gas",
+      "capacity_mw": 860,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Phu My 2.2",
+      "fuel": "Gas",
+      "capacity_mw": 720,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Phu My 3",
+      "fuel": "Gas",
+      "capacity_mw": 720,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Phu My 4",
+      "fuel": "Gas",
+      "capacity_mw": 440,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Phu Tho",
+      "fuel": "Hydro",
+      "capacity_mw": 105,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2023
+    },
+    {
+      "name": "Pleikrong",
+      "fuel": "Hydro",
+      "capacity_mw": 100,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Quang Ninh",
+      "fuel": "Coal",
+      "capacity_mw": 1200,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Quang Ninh 3",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2029
+    },
+    {
+      "name": "Quang Ninh 3",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2030
+    },
+    {
+      "name": "Quang Trach 1",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2022
+    },
+    {
+      "name": "Quang Trach 1",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2021
+    },
+    {
+      "name": "Quang Trach 2",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2028
+    },
+    {
+      "name": "Quang Trach 2",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2029
+    },
+    {
+      "name": "Quang Tri",
+      "fuel": "Hydro",
+      "capacity_mw": 64,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Quang Tri",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2024
+    },
+    {
+      "name": "Quynh Lap 1",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2023
+    },
+    {
+      "name": "Quynh Lap 2",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2027
+    },
+    {
+      "name": "Quynh Lap 2",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2026
+    },
+    {
+      "name": "Rang Dong",
+      "fuel": "Coal",
+      "capacity_mw": 100,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2025
+    },
+    {
+      "name": "Se San 3",
+      "fuel": "Hydro",
+      "capacity_mw": 260,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Se San 3A",
+      "fuel": "Hydro",
+      "capacity_mw": 108,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Se San 4",
+      "fuel": "Hydro",
+      "capacity_mw": 360,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Se San 4A",
+      "fuel": "Hydro",
+      "capacity_mw": 63,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Sekaman 1",
+      "fuel": "Hydro",
+      "capacity_mw": 290,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Sekaman 4",
+      "fuel": "Hydro",
+      "capacity_mw": 80,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2018
+    },
+    {
+      "name": "Sekaman Xanxay",
+      "fuel": "Hydro",
+      "capacity_mw": 32,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2017
+    },
+    {
+      "name": "Soc Trang",
+      "fuel": "Wind",
+      "capacity_mw": 99,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2019
+    },
+    {
+      "name": "Son Dong",
+      "fuel": "Coal",
+      "capacity_mw": 220,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Son La",
+      "fuel": "Hydro",
+      "capacity_mw": 2400,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Son My 1",
+      "fuel": "Gas",
+      "capacity_mw": 750,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2027
+    },
+    {
+      "name": "Son My 2",
+      "fuel": "Gas",
+      "capacity_mw": 750,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2025
+    },
+    {
+      "name": "Song Ba Ha",
+      "fuel": "Hydro",
+      "capacity_mw": 220,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Song Bac",
+      "fuel": "Hydro",
+      "capacity_mw": 42,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Song Bung 2",
+      "fuel": "Hydro",
+      "capacity_mw": 100,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Song Bung 4",
+      "fuel": "Hydro",
+      "capacity_mw": 156,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Song Bung 4A",
+      "fuel": "Hydro",
+      "capacity_mw": 49,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Song Bung 5",
+      "fuel": "Hydro",
+      "capacity_mw": 57,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Song Con 2",
+      "fuel": "Hydro",
+      "capacity_mw": 63,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Song Giang 2",
+      "fuel": "Hydro",
+      "capacity_mw": 37,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Song Hau 2",
+      "fuel": "Coal",
+      "capacity_mw": 1000,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2022
+    },
+    {
+      "name": "Song Hau 2",
+      "fuel": "Coal",
+      "capacity_mw": 1000,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2021
+    },
+    {
+      "name": "Song Hinh",
+      "fuel": "Hydro",
+      "capacity_mw": 70,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Song Lo 6",
+      "fuel": "Hydro",
+      "capacity_mw": 44,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2018
+    },
+    {
+      "name": "Song Mien 4",
+      "fuel": "Hydro",
+      "capacity_mw": 38,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2018
+    },
+    {
+      "name": "Song Tranh 2",
+      "fuel": "Hydro",
+      "capacity_mw": 190,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Song Tranh 3",
+      "fuel": "Hydro",
+      "capacity_mw": 62,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Song Tranh 4",
+      "fuel": "Hydro",
+      "capacity_mw": 48,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Srepok 3",
+      "fuel": "Hydro",
+      "capacity_mw": 220,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Srepok 4",
+      "fuel": "Hydro",
+      "capacity_mw": 80,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Srepok 4A",
+      "fuel": "Hydro",
+      "capacity_mw": 64,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Srok Phu Mieng",
+      "fuel": "Hydro",
+      "capacity_mw": 51,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Su Pan 2",
+      "fuel": "Hydro",
+      "capacity_mw": 34,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Ta Thang",
+      "fuel": "Hydro",
+      "capacity_mw": 60,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Tan Phuoc 1",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2028
+    },
+    {
+      "name": "Tan Phuoc 2",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2029
+    },
+    {
+      "name": "Tan Phuoc 2",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2028
+    },
+    {
+      "name": "Thac Ba",
+      "fuel": "Hydro",
+      "capacity_mw": 120,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Thac Mo",
+      "fuel": "Hydro",
+      "capacity_mw": 150,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Thac Mo Extension",
+      "fuel": "Hydro",
+      "capacity_mw": 75,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2017
+    },
+    {
+      "name": "Thai An",
+      "fuel": "Hydro",
+      "capacity_mw": 82,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Thai Binh 1",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2017
+    },
+    {
+      "name": "Thai Binh 2",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2017
+    },
+    {
+      "name": "Thai Binh 2",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2018
+    },
+    {
+      "name": "Thang Long",
+      "fuel": "Coal",
+      "capacity_mw": 300,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2018
+    },
+    {
+      "name": "Thang Long",
+      "fuel": "Coal",
+      "capacity_mw": 300,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2019
+    },
+    {
+      "name": "Thien Tan 1",
+      "fuel": "Solar",
+      "capacity_mw": 300,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2019
+    },
+    {
+      "name": "Thien Tan 2",
+      "fuel": "Solar",
+      "capacity_mw": 400,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2020
+    },
+    {
+      "name": "Thien Tan 3",
+      "fuel": "Solar",
+      "capacity_mw": 300,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2021
+    },
+    {
+      "name": "Thuan Hoa",
+      "fuel": "Hydro",
+      "capacity_mw": 42,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Thuong KonTum",
+      "fuel": "Hydro",
+      "capacity_mw": 220,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2019
+    },
+    {
+      "name": "Tra Khuc 1",
+      "fuel": "Hydro",
+      "capacity_mw": 36,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2017
+    },
+    {
+      "name": "Tri An",
+      "fuel": "Hydro",
+      "capacity_mw": 400,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Tri An Extension",
+      "fuel": "Hydro",
+      "capacity_mw": 200,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2025
+    },
+    {
+      "name": "Trung - Nam",
+      "fuel": "Wind",
+      "capacity_mw": 90,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2019
+    },
+    {
+      "name": "Trung Son",
+      "fuel": "Hydro",
+      "capacity_mw": 130,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Trung Son",
+      "fuel": "Hydro",
+      "capacity_mw": 130,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2017
+    },
+    {
+      "name": "Tuyen Quang",
+      "fuel": "Hydro",
+      "capacity_mw": 342,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Uong Bi",
+      "fuel": "Coal",
+      "capacity_mw": 105,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2021
+    },
+    {
+      "name": "Uong Bi Extension",
+      "fuel": "Coal",
+      "capacity_mw": 630,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Van Chan",
+      "fuel": "Hydro",
+      "capacity_mw": 57,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Van Phong 1",
+      "fuel": "Coal",
+      "capacity_mw": 660,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2023
+    },
+    {
+      "name": "Ve Dan",
+      "fuel": "Coal",
+      "capacity_mw": 60,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2016
+    },
+    {
+      "name": "Vinh Son",
+      "fuel": "Hydro",
+      "capacity_mw": 66,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Vinh Tan 1",
+      "fuel": "Coal",
+      "capacity_mw": 1200,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2019
+    },
+    {
+      "name": "Vinh Tan 2",
+      "fuel": "Coal",
+      "capacity_mw": 1245.6,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Vinh Tan 3",
+      "fuel": "Coal",
+      "capacity_mw": 1320,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2023
+    },
+    {
+      "name": "Vinh Tan 3",
+      "fuel": "Coal",
+      "capacity_mw": 660,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2022
+    },
+    {
+      "name": "Vinh Tan 4",
+      "fuel": "Coal",
+      "capacity_mw": 1200,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2018
+    },
+    {
+      "name": "Vinh Tan 4 Extension",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2019
+    },
+    {
+      "name": "Vung Ang 1",
+      "fuel": "Coal",
+      "capacity_mw": 1200,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": ""
+    },
+    {
+      "name": "Vung Ang 2",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2022
+    },
+    {
+      "name": "Vung Ang 3",
+      "fuel": "Coal",
+      "capacity_mw": 600,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2030
+    },
+    {
+      "name": "Yen Son",
+      "fuel": "Hydro",
+      "capacity_mw": 70,
+      "latitude": "",
+      "longitude": "",
+      "commissioning_year": 2017
+    }
+  ],
+  "meta": {
+    "title": "Nhà máy điện tại Việt Nam - Tải miễn phí",
+    "description": "Danh sách tổng hợp 335 nhà máy điện tại Việt Nam (tính đến 08/2020), hợp nhất từ WRI Global Power Plant Database, Báo cáo thị trường điện 2018 và Quy hoạch điện VII điều chỉnh — dự án nghiên cứu của sinh viên UIT. Gồm tên (đã chuẩn hóa ASCII bởi nguồn), loại nhiên liệu, công suất (MW), tọa độ và năm vận hành. Lưu ý: tên không có dấu tiếng Việt trong file nguồn này (xem vi-nha-may-dien-thi-truong cho tên nguyên bản); không có khóa định danh duy nhất — một số tên xuất hiện nhiều lần (các tổ máy/giai đoạn riêng). Chứa 335 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Nhà máy điện tại Việt Nam | ListBase",
+    "seo_description": "Tải xuống Nhà máy điện tại Việt Nam — 335 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 335 bản ghi / 6 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

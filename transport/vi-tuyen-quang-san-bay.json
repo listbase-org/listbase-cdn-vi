@@ -1,0 +1,106 @@
+{
+  "id": "vi-tuyen-quang-san-bay",
+  "name": "Sân bay — Tuyên Quang",
+  "title": "Sân bay — Tuyên Quang",
+  "description": "Danh sách các sân bay và phi trường tại Tuyên Quang (Việt Nam / VN) — bao gồm mã ICAO/IATA, thành phố, tọa độ WGS84, độ cao (feet) và múi giờ. Tập hợp con của danh sách sân bay quốc gia, được lọc theo subdivision='Tuyen-Quang' trong nguồn dữ liệu mborsetti/airportsdata. (Airports in Tuyen Quang, Vietnam — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list with subdivision='Tuyen-Quang' in upstream source.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "VVPR",
+      "iata": "PHA",
+      "name": "Phan Rang Airport",
+      "city": "Phan Rang",
+      "subdivision": "Tuyen-Quang",
+      "subdivision_native": "Tuyên Quang",
+      "country": "VN",
+      "country_native": "Việt Nam",
+      "elevation_ft": 101,
+      "latitude": 11.6335,
+      "longitude": 108.952,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Sân bay — Tuyên Quang - Tải miễn phí",
+    "description": "Danh sách các sân bay và phi trường tại Tuyên Quang (Việt Nam / VN) — bao gồm mã ICAO/IATA, thành phố, tọa độ WGS84, độ cao (feet) và múi giờ. Tập hợp con của danh sách sân bay quốc gia, được lọc theo subdivision='Tuyen-Quang' trong nguồn dữ liệu mborsetti/airportsdata. (Airports in Tuyen Quang, Vietnam — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list with subdivision='Tuyen-Quang' in upstream source.) Chứa 1 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Sân bay — Tuyên Quang | ListBase",
+    "seo_description": "Tải xuống Sân bay — Tuyên Quang — 1 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 1 bản ghi / 13 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

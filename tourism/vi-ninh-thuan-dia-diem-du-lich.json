@@ -1,0 +1,126 @@
+{
+  "id": "vi-ninh-thuan-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Ninh Thuận",
+  "title": "Địa điểm du lịch Ninh Thuận",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Ninh Thuận (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 56,
+      "ten_dia_diem": "Vịnh Vĩnh Hy",
+      "vi_tri": "Ninh Thuận",
+      "tinh_truoc_sap_nhap_2025": "Ninh Thuận",
+      "mo_ta": "Một trong bốn vịnh đẹp nhất Việt Nam, Vĩnh Hy gây ấn tượng bởi nước biển trong xanh, bãi cát trắng mịn, và các rạn san hô rực rỡ.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://tse1.mm.bing.net/th?id=OIP.1gJ08quIQVapIDmYLV1GRgHaE7&pid=Api&P=0&h=220",
+      "tu_khoa": "vịnh, tham quan, chụp ảnh, nghĩ dưỡng, vui chơi"
+    },
+    {
+      "stt": 57,
+      "ten_dia_diem": "Vườn quốc gia Núi Chúa",
+      "vi_tri": "Ninh Thuận",
+      "tinh_truoc_sap_nhap_2025": "Ninh Thuận",
+      "mo_ta": "Là khu bảo tồn thiên nhiên với hệ sinh thái rừng khô hạn độc đáo, được UNESCO công nhận là Khu dự trữ sinh quyển thế giới.",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://media.mia.vn/uploads/blog-du-lich/vuon-quoc-gia-nui-chua-khu-du-tru-sinh-quyen-moi-cua-the-gioi-1-1658800083.jpg",
+      "tu_khoa": "rừng, tham quan, chụp ảnh"
+    },
+    {
+      "stt": 58,
+      "ten_dia_diem": "Tháp Po Klong Garai",
+      "vi_tri": "Ninh Thuận",
+      "tinh_truoc_sap_nhap_2025": "Ninh Thuận",
+      "mo_ta": "Đây là nơi thờ vua Po Klong Garai, thể hiện kiến trúc và nghệ thuật điêu khắc tinh xảo của người Chăm.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://tse3.mm.bing.net/th?id=OIP.LO2tIYILI_ngw7Kxfq0L7AHaE5&pid=Api&P=0&h=220",
+      "tu_khoa": "tháp, tham quan, chụp ảnh, di tích"
+    },
+    {
+      "stt": 59,
+      "ten_dia_diem": "Vườn nho Ninh Thuận",
+      "vi_tri": "Ninh Thuận",
+      "tinh_truoc_sap_nhap_2025": "Ninh Thuận",
+      "mo_ta": "Là các vườn nho nổi tiếng với nhiều sản phầm nho được sản xuất tại đây",
+      "danh_gia": "4.2/5",
+      "danh_gia_diem": 4.2,
+      "anh": "https://tse2.mm.bing.net/th?id=OIP.6FjDfpDUcJ0jZrJAVJKVGQHaEK&pid=Api&P=0&h=220",
+      "tu_khoa": "tham quan, ăn uống"
+    },
+    {
+      "stt": 60,
+      "ten_dia_diem": "Hồ Ba Bể",
+      "vi_tri": "Ninh Thuận",
+      "tinh_truoc_sap_nhap_2025": "Ninh Thuận",
+      "mo_ta": "Là hồ nước mặn lớn ở Ninh Thuận, nơi sinh sống của nhiều loài thủy sản quý hiếm",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://tse2.mm.bing.net/th?id=OIP.tZEynIwFJnKOPgKiAntpigHaEK&pid=Api&P=0&h=220",
+      "tu_khoa": "Hồ, chụp ảnh, tham quan"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Ninh Thuận - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Ninh Thuận (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Ninh Thuận | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Ninh Thuận — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

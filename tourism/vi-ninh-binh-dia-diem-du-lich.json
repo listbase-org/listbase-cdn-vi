@@ -1,0 +1,126 @@
+{
+  "id": "vi-ninh-binh-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Ninh Bình",
+  "title": "Địa điểm du lịch Ninh Bình",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Ninh Bình (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 51,
+      "ten_dia_diem": "Tràng An",
+      "vi_tri": "Ninh Bình",
+      "tinh_truoc_sap_nhap_2025": "Ninh Bình",
+      "mo_ta": "Là Di sản Văn hóa và Thiên nhiên thế giới, Tràng An nổi bật với cảnh núi non hùng vĩ và hệ thống hang động độc đáo.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://dulichninhbinh.com.vn/mypicture/images/2020/10/Trang-An-2.jpg",
+      "tu_khoa": "tham quan, chụp ảnh, văn hóa, di tích"
+    },
+    {
+      "stt": 52,
+      "ten_dia_diem": "Tam Cốc",
+      "vi_tri": "Ninh Bình",
+      "tinh_truoc_sap_nhap_2025": "Ninh Bình",
+      "mo_ta": "Được mệnh danh là \"vịnh Hạ Long trên cạn\", với cảnh sắc thiên nhiên tuyệt đẹp của núi đá vôi, cánh đồng lúa, và dòng sông Ngô Đồng.",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://tse2.mm.bing.net/th?id=OIP.e1wQWQ7OBNItnMauRi6uwgHaEo&pid=Api&P=0&h=220",
+      "tu_khoa": "tham quan, chụp ảnh, văn hóa, di tích"
+    },
+    {
+      "stt": 53,
+      "ten_dia_diem": "Cố đô Hoa Lư",
+      "vi_tri": "Ninh Bình",
+      "tinh_truoc_sap_nhap_2025": "Ninh Bình",
+      "mo_ta": "Là kinh đô của nước Đại Cồ Việt dưới triều Đinh và Tiền Lê, Hoa Lư lưu giữ nhiều di tích lịch sử quan trọng",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://tse3.mm.bing.net/th?id=OIP.HKYPnw54Dsgh0XZTqKPKyQHaE7&pid=Api&P=0&h=220",
+      "tu_khoa": "lịch sử, tham quan, di tích, văn hóa"
+    },
+    {
+      "stt": 54,
+      "ten_dia_diem": "Vườn quốc gia Cúc Phương",
+      "vi_tri": "Ninh Bình",
+      "tinh_truoc_sap_nhap_2025": "Ninh Bình",
+      "mo_ta": "Là vườn quốc gia đầu tiên của Việt Nam với hệ động thực vật phong phú, những cây cổ thụ nghìn năm tuổi và các hang động tiền sử.",
+      "danh_gia": "4.8/5",
+      "danh_gia_diem": 4.8,
+      "anh": "https://tse2.mm.bing.net/th?id=OIP.V7YRaVEqqQndhpDcL0tNSQHaD8&pid=Api&P=0&h=220",
+      "tu_khoa": "rừng, tham quan, chụp ảnh"
+    },
+    {
+      "stt": 55,
+      "ten_dia_diem": "Hồ Đồng Chương",
+      "vi_tri": "Ninh Bình",
+      "tinh_truoc_sap_nhap_2025": "Ninh Bình",
+      "mo_ta": "Hồ Đồng Chương là một hồ nước tự nhiên nằm giữa rừng thông, rất yên bình và thơ mộng.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://dulichdiaphuong.com/imgs/tinh-ninh-binh/ho-dong-chuong.jpg",
+      "tu_khoa": "Hồ, chụp ảnh, tham quan"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Ninh Bình - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Ninh Bình (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Ninh Bình | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Ninh Bình — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

@@ -1,0 +1,716 @@
+{
+  "id": "vi-benh-vien",
+  "name": "Bệnh viện ở Việt Nam",
+  "title": "Bệnh viện ở Việt Nam",
+  "description": "Danh sách các bệnh viện và cơ sở y tế (lớp con của bệnh viện) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q16917 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Đây là tập dữ liệu bệnh viện đầu tiên trong nhóm tiếng Việt.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 65,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "located_in_vi",
+      "label": "Located In Vi",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q123513528",
+      "name_vi": "BỆNH VIỆN LÊ VĂN VIỆT",
+      "name_en": "Le Van Viet Hospital",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q10743483",
+      "name_vi": "Bệnh viện 354",
+      "name_en": "Bệnh viện 354",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Qu%C3%A2n_y_354_(T%E1%BB%95ng_c%E1%BB%A5c_H%E1%BA%ADu_c%E1%BA%A7n)"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q97167745",
+      "name_vi": "Bệnh viện An Bình",
+      "name_en": "An Binh Hospital",
+      "latitude": 10.754272,
+      "longitude": 106.671725,
+      "located_in_vi": "Quận 5",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_An_B%C3%ACnh"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q31652818",
+      "name_vi": "Bệnh viện Bình Dân",
+      "name_en": "Binh Dan Hospital",
+      "latitude": 10.77436,
+      "longitude": 106.68147,
+      "located_in_vi": "Quận 3",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_B%C3%ACnh_D%C3%A2n_(Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh)"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q133894990",
+      "name_vi": "Bệnh viện Bưu điện",
+      "name_en": "Bệnh viện Bưu điện",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_B%C6%B0u_%C4%91i%E1%BB%87n"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q1074095",
+      "name_vi": "Bệnh viện Bạch Mai",
+      "name_en": "Bach Mai Hospital",
+      "latitude": 21.001196,
+      "longitude": 105.839789,
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_B%E1%BA%A1ch_Mai"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q61130729",
+      "name_vi": "Bệnh viện Bệnh Nhiệt đới",
+      "name_en": "Hospital of Tropical Diseases",
+      "latitude": 10.752973,
+      "longitude": 106.678499,
+      "located_in_vi": "Quận 5",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_B%E1%BB%87nh_Nhi%E1%BB%87t_%C4%91%E1%BB%9Bi_(Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh)"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q61132632",
+      "name_vi": "Bệnh viện Bệnh nhiệt đới Trung ương",
+      "name_en": "National Hospital of Tropical Diseases",
+      "latitude": 21.002109,
+      "longitude": 105.838878,
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_B%E1%BB%87nh_nhi%E1%BB%87t_%C4%91%E1%BB%9Bi_Trung_%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q61132644",
+      "name_vi": "Bệnh viện Châm cứu Trung ương",
+      "name_en": "National Hospital of Acupuncture",
+      "latitude": 21.016141,
+      "longitude": 105.810556,
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Ch%C3%A2m_c%E1%BB%A9u_Trung_%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q115103480",
+      "name_vi": "Bệnh viện Chấn thương Chỉnh hình",
+      "name_en": "Ho Chi Minh City Orthopedic Hospital",
+      "latitude": 10.754305,
+      "longitude": 106.67828,
+      "located_in_vi": "Quận 5",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Ch%E1%BA%A5n_th%C6%B0%C6%A1ng_Ch%E1%BB%89nh_h%C3%ACnh_(Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh)"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q5103381",
+      "name_vi": "Bệnh viện Chợ Rẫy",
+      "name_en": "Cho Ray Hospital",
+      "latitude": 10.7572,
+      "longitude": 106.6598,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Ch%E1%BB%A3_R%E1%BA%ABy"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q7400069",
+      "name_vi": "Bệnh viện Cơ Đốc Phục Lâm Sài Gòn",
+      "name_en": "Saigon Adventist Hospital",
+      "latitude": 10.799889,
+      "longitude": 106.667215,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_C%C6%A1_%C4%90%E1%BB%91c_Ph%E1%BB%A5c_L%C3%A2m_S%C3%A0i_G%C3%B2n"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q30293457",
+      "name_vi": "Bệnh viện Da liễu",
+      "name_en": "Ho Chi Minh City Dermatology Hospital",
+      "latitude": 10.776663,
+      "longitude": 106.686727,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Da_li%E1%BB%85u_(Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh)"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q61132638",
+      "name_vi": "Bệnh viện Da liễu Trung ương",
+      "name_en": "Bệnh viện Da liễu Trung ương",
+      "latitude": 21.003829,
+      "longitude": 105.839041,
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Da_li%E1%BB%85u_Trung_%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q20025282",
+      "name_vi": "Bệnh viện Grall",
+      "name_en": "Grall Hospital",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Grall"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q10743486",
+      "name_vi": "Bệnh viện Hoàn Mỹ Sài Gòn",
+      "name_en": "Bệnh viện Hoàn Mỹ Sài Gòn",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_%C4%90a_khoa_Ho%C3%A0n_M%E1%BB%B9_S%C3%A0i_G%C3%B2n"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q30293462",
+      "name_vi": "Bệnh viện Hùng Vương",
+      "name_en": "Hung Vuong Hospital",
+      "latitude": 10.755866,
+      "longitude": 106.661747,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_H%C3%B9ng_V%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q49055113",
+      "name_vi": "Bệnh viện Hữu Nghị",
+      "name_en": "Viet Xo Friendship Hospital",
+      "latitude": 21.015876,
+      "longitude": 105.862062,
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_H%E1%BB%AFu_Ngh%E1%BB%8B"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q49055374",
+      "name_vi": "Bệnh viện K Trung Ương",
+      "name_en": "Bệnh viện K Trung Ương",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_K"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q32246077",
+      "name_vi": "Bệnh viện Mắt",
+      "name_en": "Ho Chi Minh City Eye Hospital",
+      "latitude": 10.778542,
+      "longitude": 106.685117,
+      "located_in_vi": "Quận 3",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_M%E1%BA%AFt_(Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh)"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q109430536",
+      "name_vi": "Bệnh viện Mắt Trung ương",
+      "name_en": "Central Eye Hospital",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_M%E1%BA%AFt_Trung_%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q10743494",
+      "name_vi": "Bệnh viện Nam Thăng Long",
+      "name_en": "Bệnh viện Nam Thăng Long",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q49056322",
+      "name_vi": "Bệnh viện Nguyễn Tri Phương",
+      "name_en": "Nguyen Tri Phuong Hospital",
+      "latitude": 10.755163,
+      "longitude": 106.670209,
+      "located_in_vi": "Quận 5",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Nguy%E1%BB%85n_Tri_Ph%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q32248824",
+      "name_vi": "Bệnh viện Nguyễn Trãi",
+      "name_en": "Nguyen Trai Hospital",
+      "latitude": 10.756645,
+      "longitude": 106.674925,
+      "located_in_vi": "Quận 5",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Nguy%E1%BB%85n_Tr%C3%A3i"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q7928527",
+      "name_vi": "Bệnh viện Nhi Trung Ương",
+      "name_en": "Vietnam National Children's Hospital",
+      "latitude": 21.024729,
+      "longitude": 105.808618,
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Nhi_Trung_%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q30293452",
+      "name_vi": "Bệnh viện Nhi đồng 1",
+      "name_en": "Children's Hospital 1",
+      "latitude": 10.76916,
+      "longitude": 106.67071,
+      "located_in_vi": "Quận 10",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Nhi_%C4%91%E1%BB%93ng_1"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q30293454",
+      "name_vi": "Bệnh viện Nhi đồng 2",
+      "name_en": "Children's Hospital 2",
+      "latitude": 10.780955,
+      "longitude": 106.702614,
+      "located_in_vi": "Sài Gòn",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Nhi_%C4%91%E1%BB%93ng_2"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q10743501",
+      "name_vi": "Bệnh viện Nhân dân 115",
+      "name_en": "People's Hospital 115",
+      "latitude": 10.77476,
+      "longitude": 106.66722,
+      "located_in_vi": "Quận 10",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Nh%C3%A2n_d%C3%A2n_115"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q115150671",
+      "name_vi": "Bệnh viện Nhân dân Gia Định",
+      "name_en": "Gia Dinh People's Hospital",
+      "latitude": 10.803833,
+      "longitude": 106.694284,
+      "located_in_vi": "Bình Thạnh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Nh%C3%A2n_d%C3%A2n_Gia_%C4%90%E1%BB%8Bnh"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q30293465",
+      "name_vi": "Bệnh viện Phạm Ngọc Thạch",
+      "name_en": "Pham Ngoc Thach Hospital",
+      "latitude": 10.757023,
+      "longitude": 106.665047,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Ph%E1%BA%A1m_Ng%E1%BB%8Dc_Th%E1%BA%A1ch_(Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh)"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q30265189",
+      "name_vi": "Bệnh viện Phổi Hà Nội",
+      "name_en": "Hanoi Lung Hospital",
+      "latitude": 21.006261,
+      "longitude": 105.856443,
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q10743502",
+      "name_vi": "Bệnh viện Phụ Sản Trung ương",
+      "name_en": "National hospital of obstetrics and gynecology",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Ph%E1%BB%A5_s%E1%BA%A3n_Trung_%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q10743503",
+      "name_vi": "Bệnh viện Phụ nữ thành phố Đà Nẵng",
+      "name_en": "Bệnh viện Phụ nữ thành phố Đà Nẵng",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Đà Nẵng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Ph%E1%BB%A5_n%E1%BB%AF_th%C3%A0nh_ph%E1%BB%91_%C4%90%C3%A0_N%E1%BA%B5ng"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q10743504",
+      "name_vi": "Bệnh viện Quân y 5",
+      "name_en": "Bệnh viện Quân y 5",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Qu%C3%A2n_y_5"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q10743507",
+      "name_vi": "Bệnh viện Răng Hàm Mặt Trung ương Hà Nội",
+      "name_en": "Bệnh viện Răng Hàm Mặt Trung ương Hà Nội",
+      "latitude": 21.027673,
+      "longitude": 105.846709,
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_R%C4%83ng_H%C3%A0m_M%E1%BA%B7t_Trung_%C6%B0%C6%A1ng_H%C3%A0_N%E1%BB%99i"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q20026145",
+      "name_vi": "Bệnh viện Sản Nhi Quảng Ninh",
+      "name_en": "Bệnh viện Sản Nhi Quảng Ninh",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Quảng Ninh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_S%E1%BA%A3n_Nhi_Qu%E1%BA%A3ng_Ninh"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q61132633",
+      "name_vi": "Bệnh viện Tai Mũi Họng Trung ương",
+      "name_en": "Bệnh viện Tai Mũi Họng Trung ương",
+      "latitude": 20.999667,
+      "longitude": 105.839882,
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Tai_M%C5%A9i_H%E1%BB%8Dng_Trung_%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q10743508",
+      "name_vi": "Bệnh viện Thể thao Việt Nam",
+      "name_en": "Bệnh viện Thể thao Việt Nam",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Th%E1%BB%83_thao_Vi%E1%BB%87t_Nam"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q18456128",
+      "name_vi": "Bệnh viện Thống Nhất",
+      "name_en": "Thong Nhat Hospital",
+      "latitude": 10.791515,
+      "longitude": 106.653454,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Th%E1%BB%91ng_Nh%E1%BA%A5t"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q5929137",
+      "name_vi": "Bệnh viện Trung ương Huế",
+      "name_en": "Hue Central Hospital",
+      "latitude": 16.4625,
+      "longitude": 107.586111,
+      "located_in_vi": "Huế",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Trung_%C6%B0%C6%A1ng_Hu%E1%BA%BF"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q4546769",
+      "name_vi": "Bệnh viện Trung ương Quân đội 108",
+      "name_en": "108 Military Central Hospital",
+      "latitude": 21.018106,
+      "longitude": 105.861614,
+      "located_in_vi": "Hai Bà Trưng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Trung_%C6%B0%C6%A1ng_Qu%C3%A2n_%C4%91%E1%BB%99i_108"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q18456130",
+      "name_vi": "Bệnh viện Trung ương Quân đội 175",
+      "name_en": "175 Hospital",
+      "latitude": 10.818833,
+      "longitude": 106.680111,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Qu%C3%A2n_y_175"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q18415657",
+      "name_vi": "Bệnh viện Tâm thần Hà Nội",
+      "name_en": "Bệnh viện Tâm thần Hà Nội",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_T%C3%A2m_th%E1%BA%A7n_H%C3%A0_N%E1%BB%99i"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q10743511",
+      "name_vi": "Bệnh viện Từ Dũ",
+      "name_en": "Tu Du Hospital",
+      "latitude": 10.76888,
+      "longitude": 106.6857,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_T%E1%BB%AB_D%C5%A9"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q7928473",
+      "name_vi": "Bệnh viện Việt Nam-Thụy Điển",
+      "name_en": "Vietnam-Sweden hospital",
+      "latitude": 21.041667,
+      "longitude": 106.751944,
+      "located_in_vi": "Uông Bí",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Vi%E1%BB%87t_Nam_%E2%80%93_Th%E1%BB%A5y_%C4%90i%E1%BB%83n_U%C3%B4ng_B%C3%AD"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q5964492",
+      "name_vi": "Bệnh viện Việt Pháp (Hà Nội)",
+      "name_en": "Hanoi French Hospital",
+      "latitude": 21.003611,
+      "longitude": 105.840833,
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Vi%E1%BB%87t_Ph%C3%A1p_(H%C3%A0_N%E1%BB%99i)"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q4456887",
+      "name_vi": "Bệnh viện Việt Đức",
+      "name_en": "Vietnam - Germany Hospital",
+      "latitude": 21.0284,
+      "longitude": 105.847,
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Vi%E1%BB%87t_%C4%90%E1%BB%A9c"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q10743516",
+      "name_vi": "Bệnh viện Y học cổ truyền Trung ương",
+      "name_en": "Bệnh viện Y học cổ truyền Trung ương",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Y_h%E1%BB%8Dc_c%E1%BB%95_truy%E1%BB%81n_Trung_%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q10743526",
+      "name_vi": "Bệnh viện chuyên khoa tư nhân tim Tâm Đức",
+      "name_en": "Bệnh viện chuyên khoa tư nhân tim Tâm Đức",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Tim_T%C3%A2m_%C4%90%E1%BB%A9c"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q61128915",
+      "name_vi": "Bệnh viện quốc tế City",
+      "name_en": "City International Hospital",
+      "latitude": 10.7412,
+      "longitude": 106.6093,
+      "located_in_vi": "Bình Tân",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_qu%E1%BB%91c_t%E1%BA%BF_City"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q139945910",
+      "name_vi": "Bệnh viện thẩm mỹ SIAM Thailand",
+      "name_en": "SIAM Thailand Cosmetic Hospital",
+      "latitude": 10.760592,
+      "longitude": 106.685565,
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q125762406",
+      "name_vi": "Bệnh viện Đa khoa Mộc Châu",
+      "name_en": "Bệnh viện Đa khoa Mộc Châu",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_%C4%90a_khoa_M%E1%BB%99c_Ch%C3%A2u"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q10743499",
+      "name_vi": "Bệnh viện Đa khoa Sài Gòn",
+      "name_en": "Saigon General Hospital",
+      "latitude": 10.772138,
+      "longitude": 106.69943,
+      "located_in_vi": "Quận 1",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_%C4%90a_khoa_S%C3%A0i_G%C3%B2n"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q7709134",
+      "name_vi": "Bệnh viện Đa khoa Trung ương Thái Nguyên",
+      "name_en": "Thai Nguyen Central General Hospital",
+      "latitude": 21.589133,
+      "longitude": 105.830757,
+      "located_in_vi": "Thái Nguyên",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Trung_%C6%B0%C6%A1ng_Th%C3%A1i_Nguy%C3%AAn"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q5207272",
+      "name_vi": "Bệnh viện Đà Nẵng",
+      "name_en": "Da Nang Hospital",
+      "latitude": 16.072717,
+      "longitude": 108.215678,
+      "located_in_vi": "Đà Nẵng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_%C4%90%C3%A0_N%E1%BA%B5ng"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q43896606",
+      "name_vi": "Bệnh viện Đại học Y Dược Thành phố Hồ Chí Minh",
+      "name_en": "Ho Chi Minh City Medical and Pharmaceutical University Hospital",
+      "latitude": 10.755337,
+      "longitude": 106.664388,
+      "located_in_vi": "Quận 5",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Y_D%C6%B0%E1%BB%A3c,_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q10743543",
+      "name_vi": "Bệnh viện đa khoa Ninh Bình",
+      "name_en": "Bệnh viện đa khoa Ninh Bình",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_%C4%90a_khoa_Ninh_B%C3%ACnh"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q125124075",
+      "name_vi": "Bệnh viện đa khoa Thảo Nguyên",
+      "name_en": "Thao Nguyen General Hospital",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Nông trường Mộc Châu",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_%C4%90a_khoa_Th%E1%BA%A3o_Nguy%C3%AAn"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q7402043",
+      "name_vi": "Bệnh viện đa khoa Xanh Pôn",
+      "name_en": "Saint Paul Hospital",
+      "latitude": 21.031603,
+      "longitude": 105.835127,
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_%C4%90a_khoa_Xanh_P%C3%B4n"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q10743556",
+      "name_vi": "Bệnh viện đa khoa tư nhân Bình Dân, Đà Nẵng",
+      "name_en": "Bệnh viện đa khoa tư nhân Bình Dân, Đà Nẵng",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Đà Nẵng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_%C4%90a_khoa_B%C3%ACnh_D%C3%A2n_(%C4%90%C3%A0_N%E1%BA%B5ng)"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q10743564",
+      "name_vi": "Bệnh viện đa khoa tư nhân Hoàn Mỹ, Đà Nẵng",
+      "name_en": "Bệnh viện đa khoa tư nhân Hoàn Mỹ, Đà Nẵng",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_%C4%90a_khoa_Ho%C3%A0n_M%E1%BB%B9_%C4%90%C3%A0_N%E1%BA%B5ng"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q10743597",
+      "name_vi": "Bệnh viện đa khoa y học cổ truyền Hà Nội",
+      "name_en": "Bệnh viện đa khoa y học cổ truyền Hà Nội",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Hà Nội",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_%C4%90a_khoa_Y_h%E1%BB%8Dc_c%E1%BB%95_truy%E1%BB%81n_H%C3%A0_N%E1%BB%99i"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q10832774",
+      "name_vi": "Viện Quân y 103",
+      "name_en": "Viện Quân y 103",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Qu%C3%A2n_y_103_(H%E1%BB%8Dc_vi%E1%BB%87n_Qu%C3%A2n_y)"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q32249199",
+      "name_vi": "Viện Tim",
+      "name_en": "Heart Institute",
+      "latitude": 10.773375,
+      "longitude": 106.666828,
+      "located_in_vi": "Quận 10",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Vi%E1%BB%87n_Tim_(Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh)"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q30919813",
+      "name_vi": "Viện Y dược học dân tộc",
+      "name_en": "Traditional Medicine Institute",
+      "latitude": 10.797358,
+      "longitude": 106.671325,
+      "located_in_vi": "Phú Nhuận",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Vi%E1%BB%87n_Y_d%C6%B0%E1%BB%A3c_h%E1%BB%8Dc_d%C3%A2n_t%E1%BB%99c_(Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh)"
+    }
+  ],
+  "meta": {
+    "title": "Bệnh viện ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách các bệnh viện và cơ sở y tế (lớp con của bệnh viện) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q16917 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Đây là tập dữ liệu bệnh viện đầu tiên trong nhóm tiếng Việt. Chứa 65 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Bệnh viện ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Bệnh viện ở Việt Nam — 65 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 65 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

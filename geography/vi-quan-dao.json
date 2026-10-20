@@ -1,0 +1,88 @@
+{
+  "id": "vi-quan-dao",
+  "name": "Quần đảo ở Việt Nam",
+  "title": "Quần đảo ở Việt Nam",
+  "description": "Danh sách quần đảo (nhóm đảo) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31 wd:Q33837 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu quần đảo (nhóm đảo) đầu tiên trong nhóm tiếng Việt — mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 3/3 toạ độ, 3/3 vi.wikipedia.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q13575214",
+      "name_vi": "An Thới",
+      "name_en": "Quần Đảo An Thới",
+      "latitude": 9.895833,
+      "longitude": 104.019444,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_%C4%91%E1%BA%A3o_An_Th%E1%BB%9Bi"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q11353806",
+      "name_vi": "Bãi Tư Chính",
+      "name_en": "Vanguard Bank",
+      "latitude": 7.516667,
+      "longitude": 109.766667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%C3%A3i_T%C6%B0_Ch%C3%ADnh"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q1592071",
+      "name_vi": "Quần đảo Hà Tiên",
+      "name_en": "Hà Tiên Islands",
+      "latitude": 10.295278,
+      "longitude": 104.326389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_%C4%91%E1%BA%A3o_H%C3%A0_Ti%C3%AAn"
+    }
+  ],
+  "meta": {
+    "title": "Quần đảo ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách quần đảo (nhóm đảo) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31 wd:Q33837 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu quần đảo (nhóm đảo) đầu tiên trong nhóm tiếng Việt — mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 3/3 toạ độ, 3/3 vi.wikipedia. Chứa 3 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Quần đảo ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Quần đảo ở Việt Nam — 3 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 3 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

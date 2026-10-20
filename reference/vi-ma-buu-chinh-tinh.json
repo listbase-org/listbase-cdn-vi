@@ -1,0 +1,628 @@
+{
+  "id": "vi-ma-buu-chinh-tinh",
+  "name": "Việt Nam — Mã bưu chính 63 tỉnh thành (trước sáp nhập 2025)",
+  "title": "Việt Nam — Mã bưu chính 63 tỉnh thành (trước sáp nhập 2025)",
+  "description": "Mã bưu chính (postal code) cấp tỉnh cho 63 tỉnh/thành phố Việt Nam theo cấu trúc hành chính trước sáp nhập 2025, kèm tên đầy đủ, loại đơn vị và số quận/huyện trực thuộc. Trích xuất từ dvhcvn.json (navuitag/dvhcvn).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "postcode",
+      "label": "Postcode",
+      "type": "number"
+    },
+    {
+      "key": "district_count",
+      "label": "District Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Hà Nội",
+      "name_full": "Thành phố Hà Nội",
+      "slug": "ha-noi",
+      "type": "Thành phố",
+      "postcode": "100000",
+      "district_count": 30
+    },
+    {
+      "id": 2,
+      "name": "Hà Giang",
+      "name_full": "Tỉnh Hà Giang",
+      "slug": "ha-giang",
+      "type": "Tỉnh",
+      "postcode": "310000",
+      "district_count": 11
+    },
+    {
+      "id": 4,
+      "name": "Cao Bằng",
+      "name_full": "Tỉnh Cao Bằng",
+      "slug": "cao-bang",
+      "type": "Tỉnh",
+      "postcode": "900000",
+      "district_count": 13
+    },
+    {
+      "id": 6,
+      "name": "Bắc Kạn",
+      "name_full": "Tỉnh Bắc Kạn",
+      "slug": "bac-kan",
+      "type": "Tỉnh",
+      "postcode": "960000",
+      "district_count": 8
+    },
+    {
+      "id": 8,
+      "name": "Tuyên Quang",
+      "name_full": "Tỉnh Tuyên Quang",
+      "slug": "tuyen-quang",
+      "type": "Tỉnh",
+      "postcode": "300000",
+      "district_count": 7
+    },
+    {
+      "id": 10,
+      "name": "Lào Cai",
+      "name_full": "Tỉnh Lào Cai",
+      "slug": "lao-cai",
+      "type": "Tỉnh",
+      "postcode": "330000",
+      "district_count": 9
+    },
+    {
+      "id": 11,
+      "name": "Điện Biên",
+      "name_full": "Tỉnh Điện Biên",
+      "slug": "dien-bien",
+      "type": "Tỉnh",
+      "postcode": "390000",
+      "district_count": 10
+    },
+    {
+      "id": 12,
+      "name": "Lai Châu",
+      "name_full": "Tỉnh Lai Châu",
+      "slug": "lai-chau",
+      "type": "Tỉnh",
+      "postcode": "390000",
+      "district_count": 8
+    },
+    {
+      "id": 14,
+      "name": "Sơn La",
+      "name_full": "Tỉnh Sơn La",
+      "slug": "son-la",
+      "type": "Tỉnh",
+      "postcode": "360000",
+      "district_count": 12
+    },
+    {
+      "id": 15,
+      "name": "Yên Bái",
+      "name_full": "Tỉnh Yên Bái",
+      "slug": "yen-bai",
+      "type": "Tỉnh",
+      "postcode": "320000",
+      "district_count": 9
+    },
+    {
+      "id": 17,
+      "name": "Hoà Bình",
+      "name_full": "Tỉnh Hoà Bình",
+      "slug": "hoa-binh",
+      "type": "Tỉnh",
+      "postcode": "350000",
+      "district_count": 11
+    },
+    {
+      "id": 19,
+      "name": "Thái Nguyên",
+      "name_full": "Tỉnh Thái Nguyên",
+      "slug": "thai-nguyen",
+      "type": "Tỉnh",
+      "postcode": "250000",
+      "district_count": 9
+    },
+    {
+      "id": 20,
+      "name": "Lạng Sơn",
+      "name_full": "Tỉnh Lạng Sơn",
+      "slug": "lang-son",
+      "type": "Tỉnh",
+      "postcode": "240000",
+      "district_count": 11
+    },
+    {
+      "id": 22,
+      "name": "Quảng Ninh",
+      "name_full": "Tỉnh Quảng Ninh",
+      "slug": "quang-ninh",
+      "type": "Tỉnh",
+      "postcode": "200000",
+      "district_count": 14
+    },
+    {
+      "id": 24,
+      "name": "Bắc Giang",
+      "name_full": "Tỉnh Bắc Giang",
+      "slug": "bac-giang",
+      "type": "Tỉnh",
+      "postcode": "220000",
+      "district_count": 10
+    },
+    {
+      "id": 25,
+      "name": "Phú Thọ",
+      "name_full": "Tỉnh Phú Thọ",
+      "slug": "phu-tho",
+      "type": "Tỉnh",
+      "postcode": "290000",
+      "district_count": 13
+    },
+    {
+      "id": 26,
+      "name": "Vĩnh Phúc",
+      "name_full": "Tỉnh Vĩnh Phúc",
+      "slug": "vinh-phuc",
+      "type": "Tỉnh",
+      "postcode": "280000",
+      "district_count": 9
+    },
+    {
+      "id": 27,
+      "name": "Bắc Ninh",
+      "name_full": "Tỉnh Bắc Ninh",
+      "slug": "bac-ninh",
+      "type": "Tỉnh",
+      "postcode": "790000",
+      "district_count": 8
+    },
+    {
+      "id": 30,
+      "name": "Hải Dương",
+      "name_full": "Tỉnh Hải Dương",
+      "slug": "hai-duong",
+      "type": "Tỉnh",
+      "postcode": "170000",
+      "district_count": 12
+    },
+    {
+      "id": 31,
+      "name": "Hải Phòng",
+      "name_full": "Thành phố Hải Phòng",
+      "slug": "hai-phong",
+      "type": "Thành phố",
+      "postcode": "180000",
+      "district_count": 14
+    },
+    {
+      "id": 33,
+      "name": "Hưng Yên",
+      "name_full": "Tỉnh Hưng Yên",
+      "slug": "hung-yen",
+      "type": "Tỉnh",
+      "postcode": "160000",
+      "district_count": 10
+    },
+    {
+      "id": 34,
+      "name": "Thái Bình",
+      "name_full": "Tỉnh Thái Bình",
+      "slug": "thai-binh",
+      "type": "Tỉnh",
+      "postcode": "410000",
+      "district_count": 8
+    },
+    {
+      "id": 35,
+      "name": "Hà Nam",
+      "name_full": "Tỉnh Hà Nam",
+      "slug": "ha-nam",
+      "type": "Tỉnh",
+      "postcode": "400000",
+      "district_count": 6
+    },
+    {
+      "id": 36,
+      "name": "Nam Định",
+      "name_full": "Tỉnh Nam Định",
+      "slug": "nam-dinh",
+      "type": "Tỉnh",
+      "postcode": "420000",
+      "district_count": 10
+    },
+    {
+      "id": 37,
+      "name": "Ninh Bình",
+      "name_full": "Tỉnh Ninh Bình",
+      "slug": "ninh-binh",
+      "type": "Tỉnh",
+      "postcode": "430000",
+      "district_count": 8
+    },
+    {
+      "id": 38,
+      "name": "Thanh Hóa",
+      "name_full": "Tỉnh Thanh Hóa",
+      "slug": "thanh-hoa",
+      "type": "Tỉnh",
+      "postcode": "440000",
+      "district_count": 27
+    },
+    {
+      "id": 40,
+      "name": "Nghệ An",
+      "name_full": "Tỉnh Nghệ An",
+      "slug": "nghe-an",
+      "type": "Tỉnh",
+      "postcode": "460000",
+      "district_count": 21
+    },
+    {
+      "id": 42,
+      "name": "Hà Tĩnh",
+      "name_full": "Tỉnh Hà Tĩnh",
+      "slug": "ha-tinh",
+      "type": "Tỉnh",
+      "postcode": "480000",
+      "district_count": 13
+    },
+    {
+      "id": 44,
+      "name": "Quảng Bình",
+      "name_full": "Tỉnh Quảng Bình",
+      "slug": "quang-binh",
+      "type": "Tỉnh",
+      "postcode": "510000",
+      "district_count": 8
+    },
+    {
+      "id": 45,
+      "name": "Quảng Trị",
+      "name_full": "Tỉnh Quảng Trị",
+      "slug": "quang-tri",
+      "type": "Tỉnh",
+      "postcode": "520000",
+      "district_count": 9
+    },
+    {
+      "id": 46,
+      "name": "Thừa Thiên Huế",
+      "name_full": "Tỉnh Thừa Thiên Huế",
+      "slug": "thua-thien-hue",
+      "type": "Tỉnh",
+      "postcode": "530000",
+      "district_count": 9
+    },
+    {
+      "id": 48,
+      "name": "Đà Nẵng",
+      "name_full": "Thành phố Đà Nẵng",
+      "slug": "da-nang",
+      "type": "Thành phố",
+      "postcode": "550000",
+      "district_count": 7
+    },
+    {
+      "id": 49,
+      "name": "Quảng Nam",
+      "name_full": "Tỉnh Quảng Nam",
+      "slug": "quang-nam",
+      "type": "Tỉnh",
+      "postcode": "560000",
+      "district_count": 18
+    },
+    {
+      "id": 51,
+      "name": "Quảng Ngãi",
+      "name_full": "Tỉnh Quảng Ngãi",
+      "slug": "quang-ngai",
+      "type": "Tỉnh",
+      "postcode": "570000",
+      "district_count": 14
+    },
+    {
+      "id": 52,
+      "name": "Bình Định",
+      "name_full": "Tỉnh Bình Định",
+      "slug": "binh-dinh",
+      "type": "Tỉnh",
+      "postcode": "820000",
+      "district_count": 11
+    },
+    {
+      "id": 54,
+      "name": "Phú Yên",
+      "name_full": "Tỉnh Phú Yên",
+      "slug": "phu-yen",
+      "type": "Tỉnh",
+      "postcode": "620000",
+      "district_count": 9
+    },
+    {
+      "id": 56,
+      "name": "Khánh Hòa",
+      "name_full": "Tỉnh Khánh Hòa",
+      "slug": "khanh-hoa",
+      "type": "Tỉnh",
+      "postcode": "650000",
+      "district_count": 9
+    },
+    {
+      "id": 58,
+      "name": "Ninh Thuận",
+      "name_full": "Tỉnh Ninh Thuận",
+      "slug": "ninh-thuan",
+      "type": "Tỉnh",
+      "postcode": "660000",
+      "district_count": 7
+    },
+    {
+      "id": 60,
+      "name": "Bình Thuận",
+      "name_full": "Tỉnh Bình Thuận",
+      "slug": "binh-thuan",
+      "type": "Tỉnh",
+      "postcode": "800000",
+      "district_count": 10
+    },
+    {
+      "id": 62,
+      "name": "Kon Tum",
+      "name_full": "Tỉnh Kon Tum",
+      "slug": "kon-tum",
+      "type": "Tỉnh",
+      "postcode": "580000",
+      "district_count": 10
+    },
+    {
+      "id": 64,
+      "name": "Gia Lai",
+      "name_full": "Tỉnh Gia Lai",
+      "slug": "gia-lai",
+      "type": "Tỉnh",
+      "postcode": "600000",
+      "district_count": 17
+    },
+    {
+      "id": 66,
+      "name": "Đắk Lắk",
+      "name_full": "Tỉnh Đắk Lắk",
+      "slug": "dak-lak",
+      "type": "Tỉnh",
+      "postcode": "630000",
+      "district_count": 15
+    },
+    {
+      "id": 67,
+      "name": "Đắk Nông",
+      "name_full": "Tỉnh Đắk Nông",
+      "slug": "dak-nong",
+      "type": "Tỉnh",
+      "postcode": "640000",
+      "district_count": 8
+    },
+    {
+      "id": 68,
+      "name": "Lâm Đồng",
+      "name_full": "Tỉnh Lâm Đồng",
+      "slug": "lam-dong",
+      "type": "Tỉnh",
+      "postcode": "670000",
+      "district_count": 12
+    },
+    {
+      "id": 70,
+      "name": "Bình Phước",
+      "name_full": "Tỉnh Bình Phước",
+      "slug": "binh-phuoc",
+      "type": "Tỉnh",
+      "postcode": "830000",
+      "district_count": 11
+    },
+    {
+      "id": 72,
+      "name": "Tây Ninh",
+      "name_full": "Tỉnh Tây Ninh",
+      "slug": "tay-ninh",
+      "type": "Tỉnh",
+      "postcode": "840000",
+      "district_count": 9
+    },
+    {
+      "id": 74,
+      "name": "Bình Dương",
+      "name_full": "Tỉnh Bình Dương",
+      "slug": "binh-duong",
+      "type": "Tỉnh",
+      "postcode": "590000",
+      "district_count": 9
+    },
+    {
+      "id": 75,
+      "name": "Đồng Nai",
+      "name_full": "Tỉnh Đồng Nai",
+      "slug": "dong-nai",
+      "type": "Tỉnh",
+      "postcode": "810000",
+      "district_count": 11
+    },
+    {
+      "id": 77,
+      "name": "Bà Rịa - Vũng Tàu",
+      "name_full": "Tỉnh Bà Rịa - Vũng Tàu",
+      "slug": "ba-ria-vung-tau",
+      "type": "Tỉnh",
+      "postcode": "790000",
+      "district_count": 7
+    },
+    {
+      "id": 79,
+      "name": "Hồ Chí Minh",
+      "name_full": "Thành phố Hồ Chí Minh",
+      "slug": "ho-chi-minh",
+      "type": "Thành phố",
+      "postcode": "700000",
+      "district_count": 24
+    },
+    {
+      "id": 80,
+      "name": "Long An",
+      "name_full": "Tỉnh Long An",
+      "slug": "long-an",
+      "type": "Tỉnh",
+      "postcode": "850000",
+      "district_count": 15
+    },
+    {
+      "id": 82,
+      "name": "Tiền Giang",
+      "name_full": "Tỉnh Tiền Giang",
+      "slug": "tien-giang",
+      "type": "Tỉnh",
+      "postcode": "860000",
+      "district_count": 11
+    },
+    {
+      "id": 83,
+      "name": "Bến Tre",
+      "name_full": "Tỉnh Bến Tre",
+      "slug": "ben-tre",
+      "type": "Tỉnh",
+      "postcode": "930000",
+      "district_count": 9
+    },
+    {
+      "id": 84,
+      "name": "Trà Vinh",
+      "name_full": "Tỉnh Trà Vinh",
+      "slug": "tra-vinh",
+      "type": "Tỉnh",
+      "postcode": "940000",
+      "district_count": 9
+    },
+    {
+      "id": 86,
+      "name": "Vĩnh Long",
+      "name_full": "Tỉnh Vĩnh Long",
+      "slug": "vinh-long",
+      "type": "Tỉnh",
+      "postcode": "890000",
+      "district_count": 8
+    },
+    {
+      "id": 87,
+      "name": "Đồng Tháp",
+      "name_full": "Tỉnh Đồng Tháp",
+      "slug": "dong-thap",
+      "type": "Tỉnh",
+      "postcode": "870000",
+      "district_count": 12
+    },
+    {
+      "id": 89,
+      "name": "An Giang",
+      "name_full": "Tỉnh An Giang",
+      "slug": "an-giang",
+      "type": "Tỉnh",
+      "postcode": "880000",
+      "district_count": 11
+    },
+    {
+      "id": 91,
+      "name": "Kiên Giang",
+      "name_full": "Tỉnh Kiên Giang",
+      "slug": "kien-giang",
+      "type": "Tỉnh",
+      "postcode": "920000",
+      "district_count": 15
+    },
+    {
+      "id": 92,
+      "name": "Cần Thơ",
+      "name_full": "Thành phố Cần Thơ",
+      "slug": "can-tho",
+      "type": "Thành phố",
+      "postcode": "270000",
+      "district_count": 9
+    },
+    {
+      "id": 93,
+      "name": "Hậu Giang",
+      "name_full": "Tỉnh Hậu Giang",
+      "slug": "hau-giang",
+      "type": "Tỉnh",
+      "postcode": "910000",
+      "district_count": 8
+    },
+    {
+      "id": 94,
+      "name": "Sóc Trăng",
+      "name_full": "Tỉnh Sóc Trăng",
+      "slug": "soc-trang",
+      "type": "Tỉnh",
+      "postcode": "950000",
+      "district_count": 11
+    },
+    {
+      "id": 95,
+      "name": "Bạc Liêu",
+      "name_full": "Tỉnh Bạc Liêu",
+      "slug": "bac-lieu",
+      "type": "Tỉnh",
+      "postcode": "260000",
+      "district_count": 7
+    },
+    {
+      "id": 96,
+      "name": "Cà Mau",
+      "name_full": "Tỉnh Cà Mau",
+      "slug": "ca-mau",
+      "type": "Tỉnh",
+      "postcode": "970000",
+      "district_count": 9
+    }
+  ],
+  "meta": {
+    "title": "Việt Nam — Mã bưu chính 63 tỉnh thành (trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Mã bưu chính (postal code) cấp tỉnh cho 63 tỉnh/thành phố Việt Nam theo cấu trúc hành chính trước sáp nhập 2025, kèm tên đầy đủ, loại đơn vị và số quận/huyện trực thuộc. Trích xuất từ dvhcvn.json (navuitag/dvhcvn). Chứa 63 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Việt Nam — Mã bưu chính 63 tỉnh thành (trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Việt Nam — Mã bưu chính 63 tỉnh thành (trước sáp nhập 2025) — 63 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 63 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

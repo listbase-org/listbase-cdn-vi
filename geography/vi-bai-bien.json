@@ -1,0 +1,187 @@
+{
+  "id": "vi-bai-bien",
+  "name": "Bãi biển ở Việt Nam",
+  "title": "Bãi biển ở Việt Nam",
+  "description": "Danh sách các bãi biển nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q40080 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu bãi biển đầu tiên trong nhóm tiếng Việt.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q24957113",
+      "name_vi": "Biển Ba Động",
+      "name_en": "Khu Du Lịch Bãi Tắm Ba Động",
+      "latitude": 9.632778,
+      "longitude": 106.568889,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Bi%E1%BB%83n_Ba_%C4%90%E1%BB%99ng"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q5965378",
+      "name_vi": "Bãi biển Hải Hòa",
+      "name_en": "Hải Hòa Beach",
+      "latitude": 19.457,
+      "longitude": 105.809,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%C3%A3i_bi%E1%BB%83n_H%E1%BA%A3i_H%C3%B2a"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q1960947",
+      "name_vi": "Bãi biển Nhật Lệ",
+      "name_en": "Nhat Le Beach",
+      "latitude": 17.467,
+      "longitude": 106.583,
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q16480040",
+      "name_vi": "Bãi biển Non Nước",
+      "name_en": "Non Nuoc Beach",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%C3%A3i_bi%E1%BB%83n_Non_N%C6%B0%E1%BB%9Bc"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q1322460",
+      "name_vi": "Bãi biển Sầm Sơn",
+      "name_en": "Sam Son Beach",
+      "latitude": 19.734537,
+      "longitude": 105.901937,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%C3%A3i_bi%E1%BB%83n_S%E1%BA%A7m_S%C6%A1n"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q16481254",
+      "name_vi": "Bãi Khem",
+      "name_en": "Bãi Khem",
+      "latitude": 10.033333,
+      "longitude": 104.033333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%C3%A3i_Khem"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q86012180",
+      "name_vi": "Bãi Kỳ Co",
+      "name_en": "Ky Co Beach",
+      "latitude": 13.850027,
+      "longitude": 109.29264,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%C3%A3i_K%E1%BB%B3_Co"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q32199900",
+      "name_vi": "Bãi Sao",
+      "name_en": "Bãi Sao",
+      "latitude": 10.057298,
+      "longitude": 104.036392,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%C3%A3i_Sao"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q10742297",
+      "name_vi": "Bãi Sau (Vũng Tàu)",
+      "name_en": "Bãi Sau (Vũng Tàu)",
+      "latitude": 10.3275,
+      "longitude": 107.088056,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%C3%A3i_Sau"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q10742301",
+      "name_vi": "Bãi Trước (Vũng Tàu)",
+      "name_en": "Bãi Trước",
+      "latitude": 10.343889,
+      "longitude": 107.074167,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%C3%A3i_Tr%C6%B0%E1%BB%9Bc"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q21647933",
+      "name_vi": "Cổ Thạch",
+      "name_en": "Cổ Thạch",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BB%95_Th%E1%BA%A1ch"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q10796763",
+      "name_vi": "Mỹ Khê",
+      "name_en": "My Khe Beach",
+      "latitude": 16.070278,
+      "longitude": 108.246389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%C3%A3i_bi%E1%BB%83n_M%E1%BB%B9_Kh%C3%AA"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q10812144",
+      "name_vi": "Sa Huỳnh",
+      "name_en": "Sa Huỳnh",
+      "latitude": 14.668033,
+      "longitude": 109.069782,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Sa_Hu%E1%BB%B3nh"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q1320876",
+      "name_vi": "Đá Nhảy",
+      "name_en": "Da Nhay Beach",
+      "latitude": 17.467,
+      "longitude": 106.583,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%C3%A1_Nh%E1%BA%A3y"
+    }
+  ],
+  "meta": {
+    "title": "Bãi biển ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách các bãi biển nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q40080 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu bãi biển đầu tiên trong nhóm tiếng Việt. Chứa 14 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Bãi biển ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Bãi biển ở Việt Nam — 14 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 14 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

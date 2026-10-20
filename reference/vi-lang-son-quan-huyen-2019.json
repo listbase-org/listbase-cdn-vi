@@ -1,0 +1,176 @@
+{
+  "id": "vi-lang-son-quan-huyen-2019",
+  "name": "Lạng Sơn — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Lạng Sơn — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 11 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Lạng Sơn theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 10 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/LS.json). (11 district-level units of Lạng Sơn under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "LS-01",
+      "name": "Bắc Sơn",
+      "name_full": "Huyện Bắc Sơn",
+      "slug": "bac-son",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 20
+    },
+    {
+      "code": "LS-02",
+      "name": "Bình Gia",
+      "name_full": "Huyện Bình Gia",
+      "slug": "binh-gia",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 20
+    },
+    {
+      "code": "LS-03",
+      "name": "Cao Lộc",
+      "name_full": "Huyện Cao Lộc",
+      "slug": "cao-loc",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 23
+    },
+    {
+      "code": "LS-04",
+      "name": "Chi Lăng",
+      "name_full": "Huyện Chi Lăng",
+      "slug": "chi-lang",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 22
+    },
+    {
+      "code": "LS-05",
+      "name": "Đình Lập",
+      "name_full": "Huyện Đình Lập",
+      "slug": "dinh-lap",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 12
+    },
+    {
+      "code": "LS-06",
+      "name": "Hữu Lũng",
+      "name_full": "Huyện Hữu Lũng",
+      "slug": "huu-lung",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 26
+    },
+    {
+      "code": "LS-07",
+      "name": "Lạng Sơn",
+      "name_full": "Thành phố Lạng Sơn",
+      "slug": "lang-son",
+      "division_type": "Thành phố",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 11
+    },
+    {
+      "code": "LS-08",
+      "name": "Lộc Bình",
+      "name_full": "Huyện Lộc Bình",
+      "slug": "loc-binh",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 29
+    },
+    {
+      "code": "LS-09",
+      "name": "Tràng Định",
+      "name_full": "Huyện Tràng Định",
+      "slug": "trang-dinh",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 23
+    },
+    {
+      "code": "LS-10",
+      "name": "Văn Lãng",
+      "name_full": "Huyện Văn Lãng",
+      "slug": "van-lang",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 20
+    },
+    {
+      "code": "LS-11",
+      "name": "Văn Quan",
+      "name_full": "Huyện Văn Quan",
+      "slug": "van-quan",
+      "division_type": "Huyện",
+      "province_code": "LS",
+      "province_name": "Lạng Sơn",
+      "ward_count": 27
+    }
+  ],
+  "meta": {
+    "title": "Lạng Sơn — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 11 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Lạng Sơn theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 10 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/LS.json). (11 district-level units of Lạng Sơn under the pre-2025-merger 3-tier hierarchy.) Chứa 11 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Lạng Sơn — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Lạng Sơn — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 11 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 11 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "id": "vi-ha-tinh-quan-huyen-2019",
+  "name": "Hà Tĩnh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Hà Tĩnh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 12 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Hà Tĩnh theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 10 Huyện, 1 Thành phố, 1 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/HT.json). (12 district-level units of Hà Tĩnh under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "HT-01",
+      "name": "Cẩm Xuyên",
+      "name_full": "Huyện Cẩm Xuyên",
+      "slug": "cam-xuyen",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 27
+    },
+    {
+      "code": "HT-02",
+      "name": "Can Lộc",
+      "name_full": "Huyện Can Lộc",
+      "slug": "can-loc",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 23
+    },
+    {
+      "code": "HT-03",
+      "name": "Đức Thọ",
+      "name_full": "Huyện Đức Thọ",
+      "slug": "duc-tho",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 28
+    },
+    {
+      "code": "HT-04",
+      "name": "Hà Tĩnh",
+      "name_full": "Thành phố Hà Tĩnh",
+      "slug": "ha-tinh",
+      "division_type": "Thành phố",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 16
+    },
+    {
+      "code": "HT-05",
+      "name": "Hồng Lĩnh",
+      "name_full": "Thị xã Hồng Lĩnh",
+      "slug": "hong-linh",
+      "division_type": "Thị xã",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 6
+    },
+    {
+      "code": "HT-06",
+      "name": "Hương Khê",
+      "name_full": "Huyện Hương Khê",
+      "slug": "huong-khe",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 22
+    },
+    {
+      "code": "HT-07",
+      "name": "Hương Sơn",
+      "name_full": "Huyện Hương Sơn",
+      "slug": "huong-son",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 32
+    },
+    {
+      "code": "HT-08",
+      "name": "Kỳ Anh",
+      "name_full": "Huyện Kỳ Anh",
+      "slug": "ky-anh",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 34
+    },
+    {
+      "code": "HT-09",
+      "name": "Lộc Hà",
+      "name_full": "Huyện Lộc Hà",
+      "slug": "loc-ha",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 13
+    },
+    {
+      "code": "HT-10",
+      "name": "Nghi Xuân",
+      "name_full": "Huyện Nghi Xuân",
+      "slug": "nghi-xuan",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 21
+    },
+    {
+      "code": "HT-11",
+      "name": "Thạch Hà",
+      "name_full": "Huyện Thạch Hà",
+      "slug": "thach-ha",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 31
+    },
+    {
+      "code": "HT-12",
+      "name": "Vũ Quang",
+      "name_full": "Huyện Vũ Quang",
+      "slug": "vu-quang",
+      "division_type": "Huyện",
+      "province_code": "HT",
+      "province_name": "Hà Tĩnh",
+      "ward_count": 12
+    }
+  ],
+  "meta": {
+    "title": "Hà Tĩnh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 12 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Hà Tĩnh theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 10 Huyện, 1 Thành phố, 1 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/HT.json). (12 district-level units of Hà Tĩnh under the pre-2025-merger 3-tier hierarchy.) Chứa 12 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Hà Tĩnh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Hà Tĩnh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 12 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 12 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

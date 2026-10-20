@@ -1,0 +1,2996 @@
+{
+  "id": "vi-ngon-ngu-the-gioi",
+  "name": "Ngôn ngữ thế giới",
+  "title": "Ngôn ngữ thế giới",
+  "description": "Danh sách ngôn ngữ trên thế giới — mã ISO 639 / BCP-47 (đã loại 18 biến thể theo vùng như en_AU, pt_BR để giữ ý nghĩa “ngôn ngữ”) kèm tên gọi bằng tiếng Việt, 591 bản ghi. Ví dụ: Tiếng Việt (vi), Tiếng Anh (en), Tiếng Pháp (fr), Tiếng Nhật (ja), Tiếng Trung (zh), Tiếng Hàn (ko), Tiếng Đức (de). Sắp xếp theo mã ngôn ngữ. Một số ngôn ngữ hiếm giữ nguyên tên tiếng Anh từ CLDR (được bảo toàn, không bịa). Nguồn: dữ liệu CLDR (Unicode) qua kho umpirsky/language-list. Bộ ngôn ngữ thế giới ĐẦU TIÊN trong nhóm VI.",
+  "category": "language",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 591,
+  "columns": [
+    {
+      "key": "ma",
+      "label": "Ma",
+      "type": "string"
+    },
+    {
+      "key": "ten",
+      "label": "Ten",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ma": "aa",
+      "ten": "Tiếng Afar",
+      "name_en": "Afar"
+    },
+    {
+      "ma": "ab",
+      "ten": "Tiếng Abkhazia",
+      "name_en": "Abkhazian"
+    },
+    {
+      "ma": "ace",
+      "ten": "Tiếng Achinese",
+      "name_en": "Achinese"
+    },
+    {
+      "ma": "ach",
+      "ten": "Tiếng Acoli",
+      "name_en": "Acoli"
+    },
+    {
+      "ma": "ada",
+      "ten": "Tiếng Adangme",
+      "name_en": "Adangme"
+    },
+    {
+      "ma": "ady",
+      "ten": "Tiếng Adyghe",
+      "name_en": "Adyghe"
+    },
+    {
+      "ma": "ae",
+      "ten": "Tiếng Avestan",
+      "name_en": "Avestan"
+    },
+    {
+      "ma": "aeb",
+      "ten": "Tunisian Arabic",
+      "name_en": "Tunisian Arabic"
+    },
+    {
+      "ma": "af",
+      "ten": "Tiếng Nam Phi",
+      "name_en": "Afrikaans"
+    },
+    {
+      "ma": "afh",
+      "ten": "Tiếng Afrihili",
+      "name_en": "Afrihili"
+    },
+    {
+      "ma": "agq",
+      "ten": "Tiếng Aghem",
+      "name_en": "Aghem"
+    },
+    {
+      "ma": "ain",
+      "ten": "Tiếng Ainu",
+      "name_en": "Ainu"
+    },
+    {
+      "ma": "ak",
+      "ten": "Tiếng Akan",
+      "name_en": "Akan"
+    },
+    {
+      "ma": "akk",
+      "ten": "Tiếng Akkadia",
+      "name_en": "Akkadian"
+    },
+    {
+      "ma": "akz",
+      "ten": "Alabama",
+      "name_en": "Alabama"
+    },
+    {
+      "ma": "ale",
+      "ten": "Tiếng Aleut",
+      "name_en": "Aleut"
+    },
+    {
+      "ma": "aln",
+      "ten": "Gheg Albanian",
+      "name_en": "Gheg Albanian"
+    },
+    {
+      "ma": "alt",
+      "ten": "Tiếng Altai Miền Nam",
+      "name_en": "Southern Altai"
+    },
+    {
+      "ma": "am",
+      "ten": "Tiếng Amharic",
+      "name_en": "Amharic"
+    },
+    {
+      "ma": "an",
+      "ten": "Tiếng Aragon",
+      "name_en": "Aragonese"
+    },
+    {
+      "ma": "ang",
+      "ten": "Tiếng Anh cổ",
+      "name_en": "Old English"
+    },
+    {
+      "ma": "anp",
+      "ten": "Tiếng Angika",
+      "name_en": "Angika"
+    },
+    {
+      "ma": "ar",
+      "ten": "Tiếng Ả Rập",
+      "name_en": "Arabic"
+    },
+    {
+      "ma": "arc",
+      "ten": "Tiếng Aramaic",
+      "name_en": "Aramaic"
+    },
+    {
+      "ma": "arn",
+      "ten": "Tiếng Araucanian",
+      "name_en": "Mapuche"
+    },
+    {
+      "ma": "aro",
+      "ten": "Araona",
+      "name_en": "Araona"
+    },
+    {
+      "ma": "arp",
+      "ten": "Tiếng Arapaho",
+      "name_en": "Arapaho"
+    },
+    {
+      "ma": "arq",
+      "ten": "Algerian Arabic",
+      "name_en": "Algerian Arabic"
+    },
+    {
+      "ma": "arw",
+      "ten": "Tiếng Arawak",
+      "name_en": "Arawak"
+    },
+    {
+      "ma": "ary",
+      "ten": "Moroccan Arabic",
+      "name_en": "Moroccan Arabic"
+    },
+    {
+      "ma": "arz",
+      "ten": "Egyptian Arabic",
+      "name_en": "Egyptian Arabic"
+    },
+    {
+      "ma": "as",
+      "ten": "Tiếng Assam",
+      "name_en": "Assamese"
+    },
+    {
+      "ma": "asa",
+      "ten": "Tiếng Asu",
+      "name_en": "Asu"
+    },
+    {
+      "ma": "ase",
+      "ten": "American Sign Language",
+      "name_en": "American Sign Language"
+    },
+    {
+      "ma": "ast",
+      "ten": "Tiếng Asturias",
+      "name_en": "Asturian"
+    },
+    {
+      "ma": "av",
+      "ten": "Tiếng Avaric",
+      "name_en": "Avaric"
+    },
+    {
+      "ma": "avk",
+      "ten": "Kotava",
+      "name_en": "Kotava"
+    },
+    {
+      "ma": "awa",
+      "ten": "Tiếng Awadhi",
+      "name_en": "Awadhi"
+    },
+    {
+      "ma": "ay",
+      "ten": "Tiếng Aymara",
+      "name_en": "Aymara"
+    },
+    {
+      "ma": "az",
+      "ten": "Tiếng Azerbaijan",
+      "name_en": "Azerbaijani"
+    },
+    {
+      "ma": "azb",
+      "ten": "South Azerbaijani",
+      "name_en": "South Azerbaijani"
+    },
+    {
+      "ma": "ba",
+      "ten": "Tiếng Bashkir",
+      "name_en": "Bashkir"
+    },
+    {
+      "ma": "bal",
+      "ten": "Tiếng Baluchi",
+      "name_en": "Baluchi"
+    },
+    {
+      "ma": "ban",
+      "ten": "Tiếng Bali",
+      "name_en": "Balinese"
+    },
+    {
+      "ma": "bar",
+      "ten": "Bavarian",
+      "name_en": "Bavarian"
+    },
+    {
+      "ma": "bas",
+      "ten": "Tiếng Basaa",
+      "name_en": "Basaa"
+    },
+    {
+      "ma": "bax",
+      "ten": "Tiếng Bamun",
+      "name_en": "Bamun"
+    },
+    {
+      "ma": "bbc",
+      "ten": "Batak Toba",
+      "name_en": "Batak Toba"
+    },
+    {
+      "ma": "bbj",
+      "ten": "Tiếng Ghomala",
+      "name_en": "Ghomala"
+    },
+    {
+      "ma": "be",
+      "ten": "Tiếng Belarus",
+      "name_en": "Belarusian"
+    },
+    {
+      "ma": "bej",
+      "ten": "Tiếng Beja",
+      "name_en": "Beja"
+    },
+    {
+      "ma": "bem",
+      "ten": "Tiếng Bemba",
+      "name_en": "Bemba"
+    },
+    {
+      "ma": "bew",
+      "ten": "Betawi",
+      "name_en": "Betawi"
+    },
+    {
+      "ma": "bez",
+      "ten": "Tiếng Bena",
+      "name_en": "Bena"
+    },
+    {
+      "ma": "bfd",
+      "ten": "Tiếng Bafut",
+      "name_en": "Bafut"
+    },
+    {
+      "ma": "bfq",
+      "ten": "Badaga",
+      "name_en": "Badaga"
+    },
+    {
+      "ma": "bg",
+      "ten": "Tiếng Bulgaria",
+      "name_en": "Bulgarian"
+    },
+    {
+      "ma": "bho",
+      "ten": "Tiếng Bhojpuri",
+      "name_en": "Bhojpuri"
+    },
+    {
+      "ma": "bi",
+      "ten": "Tiếng Bislama",
+      "name_en": "Bislama"
+    },
+    {
+      "ma": "bik",
+      "ten": "Tiếng Bikol",
+      "name_en": "Bikol"
+    },
+    {
+      "ma": "bin",
+      "ten": "Tiếng Bini",
+      "name_en": "Bini"
+    },
+    {
+      "ma": "bjn",
+      "ten": "Banjar",
+      "name_en": "Banjar"
+    },
+    {
+      "ma": "bkm",
+      "ten": "Tiếng Kom",
+      "name_en": "Kom"
+    },
+    {
+      "ma": "bla",
+      "ten": "Tiếng Siksika",
+      "name_en": "Siksika"
+    },
+    {
+      "ma": "bm",
+      "ten": "Tiếng Bambara",
+      "name_en": "Bambara"
+    },
+    {
+      "ma": "bn",
+      "ten": "Tiếng Bengali",
+      "name_en": "Bengali"
+    },
+    {
+      "ma": "bo",
+      "ten": "Tiếng Tây Tạng",
+      "name_en": "Tibetan"
+    },
+    {
+      "ma": "bpy",
+      "ten": "Bishnupriya",
+      "name_en": "Bishnupriya"
+    },
+    {
+      "ma": "bqi",
+      "ten": "Bakhtiari",
+      "name_en": "Bakhtiari"
+    },
+    {
+      "ma": "br",
+      "ten": "Tiếng Breton",
+      "name_en": "Breton"
+    },
+    {
+      "ma": "bra",
+      "ten": "Tiếng Braj",
+      "name_en": "Braj"
+    },
+    {
+      "ma": "brh",
+      "ten": "Brahui",
+      "name_en": "Brahui"
+    },
+    {
+      "ma": "brx",
+      "ten": "Tiếng Bodo",
+      "name_en": "Bodo"
+    },
+    {
+      "ma": "bs",
+      "ten": "Tiếng Nam Tư",
+      "name_en": "Bosnian"
+    },
+    {
+      "ma": "bss",
+      "ten": "Tiếng Akoose",
+      "name_en": "Akoose"
+    },
+    {
+      "ma": "bua",
+      "ten": "Tiếng Buriat",
+      "name_en": "Buriat"
+    },
+    {
+      "ma": "bug",
+      "ten": "Tiếng Bugin",
+      "name_en": "Buginese"
+    },
+    {
+      "ma": "bum",
+      "ten": "Tiếng Bulu",
+      "name_en": "Bulu"
+    },
+    {
+      "ma": "byn",
+      "ten": "Tiếng Blin",
+      "name_en": "Blin"
+    },
+    {
+      "ma": "byv",
+      "ten": "Tiếng Medumba",
+      "name_en": "Medumba"
+    },
+    {
+      "ma": "ca",
+      "ten": "Tiếng Catalan",
+      "name_en": "Catalan"
+    },
+    {
+      "ma": "cad",
+      "ten": "Tiếng Caddo",
+      "name_en": "Caddo"
+    },
+    {
+      "ma": "car",
+      "ten": "Tiếng Carib",
+      "name_en": "Carib"
+    },
+    {
+      "ma": "cay",
+      "ten": "Tiếng Cayuga",
+      "name_en": "Cayuga"
+    },
+    {
+      "ma": "cch",
+      "ten": "Tiếng Atsam",
+      "name_en": "Atsam"
+    },
+    {
+      "ma": "ce",
+      "ten": "Tiếng Chechen",
+      "name_en": "Chechen"
+    },
+    {
+      "ma": "ceb",
+      "ten": "Tiếng Cebuano",
+      "name_en": "Cebuano"
+    },
+    {
+      "ma": "cgg",
+      "ten": "Tiếng Chiga",
+      "name_en": "Chiga"
+    },
+    {
+      "ma": "ch",
+      "ten": "Tiếng Chamorro",
+      "name_en": "Chamorro"
+    },
+    {
+      "ma": "chb",
+      "ten": "Tiếng Chibcha",
+      "name_en": "Chibcha"
+    },
+    {
+      "ma": "chg",
+      "ten": "Tiếng Chagatai",
+      "name_en": "Chagatai"
+    },
+    {
+      "ma": "chk",
+      "ten": "Tiếng Chuuk",
+      "name_en": "Chuukese"
+    },
+    {
+      "ma": "chm",
+      "ten": "Tiếng Mari",
+      "name_en": "Mari"
+    },
+    {
+      "ma": "chn",
+      "ten": "Biệt ngữ Chinook",
+      "name_en": "Chinook Jargon"
+    },
+    {
+      "ma": "cho",
+      "ten": "Tiếng Choctaw",
+      "name_en": "Choctaw"
+    },
+    {
+      "ma": "chp",
+      "ten": "Tiếng Chipewyan",
+      "name_en": "Chipewyan"
+    },
+    {
+      "ma": "chr",
+      "ten": "Tiếng Cherokee",
+      "name_en": "Cherokee"
+    },
+    {
+      "ma": "chy",
+      "ten": "Tiếng Cheyenne",
+      "name_en": "Cheyenne"
+    },
+    {
+      "ma": "ckb",
+      "ten": "Tiếng Kurd Sorani",
+      "name_en": "Central Kurdish"
+    },
+    {
+      "ma": "co",
+      "ten": "Tiếng Corsica",
+      "name_en": "Corsican"
+    },
+    {
+      "ma": "cop",
+      "ten": "Tiếng Coptic",
+      "name_en": "Coptic"
+    },
+    {
+      "ma": "cps",
+      "ten": "Capiznon",
+      "name_en": "Capiznon"
+    },
+    {
+      "ma": "cr",
+      "ten": "Tiếng Cree",
+      "name_en": "Cree"
+    },
+    {
+      "ma": "crh",
+      "ten": "Tiếng Thổ Nhĩ Kỳ Crimean",
+      "name_en": "Crimean Turkish"
+    },
+    {
+      "ma": "cs",
+      "ten": "Tiếng Séc",
+      "name_en": "Czech"
+    },
+    {
+      "ma": "csb",
+      "ten": "Tiếng Kashubia",
+      "name_en": "Kashubian"
+    },
+    {
+      "ma": "cu",
+      "ten": "Tiếng Slavơ Nhà thờ",
+      "name_en": "Church Slavic"
+    },
+    {
+      "ma": "cv",
+      "ten": "Tiếng Chuvash",
+      "name_en": "Chuvash"
+    },
+    {
+      "ma": "cy",
+      "ten": "Tiếng Wales",
+      "name_en": "Welsh"
+    },
+    {
+      "ma": "da",
+      "ten": "Tiếng Đan Mạch",
+      "name_en": "Danish"
+    },
+    {
+      "ma": "dak",
+      "ten": "Tiếng Dakota",
+      "name_en": "Dakota"
+    },
+    {
+      "ma": "dar",
+      "ten": "Tiếng Dargwa",
+      "name_en": "Dargwa"
+    },
+    {
+      "ma": "dav",
+      "ten": "Tiếng Taita",
+      "name_en": "Taita"
+    },
+    {
+      "ma": "de",
+      "ten": "Tiếng Đức",
+      "name_en": "German"
+    },
+    {
+      "ma": "del",
+      "ten": "Tiếng Delaware",
+      "name_en": "Delaware"
+    },
+    {
+      "ma": "den",
+      "ten": "Tiếng Slave",
+      "name_en": "Slave"
+    },
+    {
+      "ma": "dgr",
+      "ten": "Tiếng Dogrib",
+      "name_en": "Dogrib"
+    },
+    {
+      "ma": "din",
+      "ten": "Tiếng Dinka",
+      "name_en": "Dinka"
+    },
+    {
+      "ma": "dje",
+      "ten": "Tiếng Zarma",
+      "name_en": "Zarma"
+    },
+    {
+      "ma": "doi",
+      "ten": "Tiếng Dogri",
+      "name_en": "Dogri"
+    },
+    {
+      "ma": "dsb",
+      "ten": "Tiếng Hạ Sorbia",
+      "name_en": "Lower Sorbian"
+    },
+    {
+      "ma": "dtp",
+      "ten": "Central Dusun",
+      "name_en": "Central Dusun"
+    },
+    {
+      "ma": "dua",
+      "ten": "Tiếng Duala",
+      "name_en": "Duala"
+    },
+    {
+      "ma": "dum",
+      "ten": "Tiếng Hà Lan Trung cổ",
+      "name_en": "Middle Dutch"
+    },
+    {
+      "ma": "dv",
+      "ten": "Tiếng Divehi",
+      "name_en": "Divehi"
+    },
+    {
+      "ma": "dyo",
+      "ten": "Tiếng Jola-Fonyi",
+      "name_en": "Jola-Fonyi"
+    },
+    {
+      "ma": "dyu",
+      "ten": "Tiếng Dyula",
+      "name_en": "Dyula"
+    },
+    {
+      "ma": "dz",
+      "ten": "Tiếng Dzongkha",
+      "name_en": "Dzongkha"
+    },
+    {
+      "ma": "dzg",
+      "ten": "Tiếng Dazaga",
+      "name_en": "Dazaga"
+    },
+    {
+      "ma": "ebu",
+      "ten": "Tiếng Embu",
+      "name_en": "Embu"
+    },
+    {
+      "ma": "ee",
+      "ten": "Tiếng Ewe",
+      "name_en": "Ewe"
+    },
+    {
+      "ma": "efi",
+      "ten": "Tiếng Efik",
+      "name_en": "Efik"
+    },
+    {
+      "ma": "egl",
+      "ten": "Emilian",
+      "name_en": "Emilian"
+    },
+    {
+      "ma": "egy",
+      "ten": "Tiếng Ai Cập cổ",
+      "name_en": "Ancient Egyptian"
+    },
+    {
+      "ma": "eka",
+      "ten": "Tiếng Ekajuk",
+      "name_en": "Ekajuk"
+    },
+    {
+      "ma": "el",
+      "ten": "Tiếng Hy Lạp",
+      "name_en": "Greek"
+    },
+    {
+      "ma": "elx",
+      "ten": "Tiếng Elamite",
+      "name_en": "Elamite"
+    },
+    {
+      "ma": "en",
+      "ten": "Tiếng Anh",
+      "name_en": "English"
+    },
+    {
+      "ma": "enm",
+      "ten": "Tiếng Anh Trung cổ",
+      "name_en": "Middle English"
+    },
+    {
+      "ma": "eo",
+      "ten": "Tiếng Quốc Tế Ngữ",
+      "name_en": "Esperanto"
+    },
+    {
+      "ma": "es",
+      "ten": "Tiếng Tây Ban Nha",
+      "name_en": "Spanish"
+    },
+    {
+      "ma": "esu",
+      "ten": "Central Yupik",
+      "name_en": "Central Yupik"
+    },
+    {
+      "ma": "et",
+      "ten": "Tiếng Estonia",
+      "name_en": "Estonian"
+    },
+    {
+      "ma": "eu",
+      "ten": "Tiếng Basque",
+      "name_en": "Basque"
+    },
+    {
+      "ma": "ewo",
+      "ten": "Tiếng Ewondo",
+      "name_en": "Ewondo"
+    },
+    {
+      "ma": "ext",
+      "ten": "Extremaduran",
+      "name_en": "Extremaduran"
+    },
+    {
+      "ma": "fa",
+      "ten": "Tiếng Ba Tư",
+      "name_en": "Persian"
+    },
+    {
+      "ma": "fan",
+      "ten": "Tiếng Fang",
+      "name_en": "Fang"
+    },
+    {
+      "ma": "fat",
+      "ten": "Tiếng Fanti",
+      "name_en": "Fanti"
+    },
+    {
+      "ma": "ff",
+      "ten": "Tiếng Fulah",
+      "name_en": "Fulah"
+    },
+    {
+      "ma": "fi",
+      "ten": "Tiếng Phần Lan",
+      "name_en": "Finnish"
+    },
+    {
+      "ma": "fil",
+      "ten": "Tiếng Philipin",
+      "name_en": "Filipino"
+    },
+    {
+      "ma": "fit",
+      "ten": "Tornedalen Finnish",
+      "name_en": "Tornedalen Finnish"
+    },
+    {
+      "ma": "fj",
+      "ten": "Tiếng Fiji",
+      "name_en": "Fijian"
+    },
+    {
+      "ma": "fo",
+      "ten": "Tiếng Faore",
+      "name_en": "Faroese"
+    },
+    {
+      "ma": "fon",
+      "ten": "Tiếng Fon",
+      "name_en": "Fon"
+    },
+    {
+      "ma": "fr",
+      "ten": "Tiếng Pháp",
+      "name_en": "French"
+    },
+    {
+      "ma": "frc",
+      "ten": "Cajun French",
+      "name_en": "Cajun French"
+    },
+    {
+      "ma": "frm",
+      "ten": "Tiếng Pháp Trung cổ",
+      "name_en": "Middle French"
+    },
+    {
+      "ma": "fro",
+      "ten": "Tiếng Pháp cổ",
+      "name_en": "Old French"
+    },
+    {
+      "ma": "frp",
+      "ten": "Arpitan",
+      "name_en": "Arpitan"
+    },
+    {
+      "ma": "frr",
+      "ten": "Tiếng Frisian Miền Bắc",
+      "name_en": "Northern Frisian"
+    },
+    {
+      "ma": "frs",
+      "ten": "Tiếng Frisian Miền Đông",
+      "name_en": "Eastern Frisian"
+    },
+    {
+      "ma": "fur",
+      "ten": "Tiếng Friulian",
+      "name_en": "Friulian"
+    },
+    {
+      "ma": "fy",
+      "ten": "Tiếng Frisia",
+      "name_en": "Western Frisian"
+    },
+    {
+      "ma": "ga",
+      "ten": "Tiếng Ai-len",
+      "name_en": "Irish"
+    },
+    {
+      "ma": "gaa",
+      "ten": "Tiếng Ga",
+      "name_en": "Ga"
+    },
+    {
+      "ma": "gag",
+      "ten": "Tiếng Gagauz",
+      "name_en": "Gagauz"
+    },
+    {
+      "ma": "gan",
+      "ten": "Gan Chinese",
+      "name_en": "Gan Chinese"
+    },
+    {
+      "ma": "gay",
+      "ten": "Tiếng Gayo",
+      "name_en": "Gayo"
+    },
+    {
+      "ma": "gba",
+      "ten": "Tiếng Gbaya",
+      "name_en": "Gbaya"
+    },
+    {
+      "ma": "gbz",
+      "ten": "Zoroastrian Dari",
+      "name_en": "Zoroastrian Dari"
+    },
+    {
+      "ma": "gd",
+      "ten": "Tiếng Xentơ (Xcốt len)",
+      "name_en": "Scottish Gaelic"
+    },
+    {
+      "ma": "gez",
+      "ten": "Tiếng Geez",
+      "name_en": "Geez"
+    },
+    {
+      "ma": "gil",
+      "ten": "Tiếng Gilbert",
+      "name_en": "Gilbertese"
+    },
+    {
+      "ma": "gl",
+      "ten": "Tiếng Galician",
+      "name_en": "Galician"
+    },
+    {
+      "ma": "glk",
+      "ten": "Gilaki",
+      "name_en": "Gilaki"
+    },
+    {
+      "ma": "gmh",
+      "ten": "Tiếng Thượng Giéc-man Trung cổ",
+      "name_en": "Middle High German"
+    },
+    {
+      "ma": "gn",
+      "ten": "Tiếng Guarani",
+      "name_en": "Guarani"
+    },
+    {
+      "ma": "goh",
+      "ten": "Tiếng Thượng Giéc-man cổ",
+      "name_en": "Old High German"
+    },
+    {
+      "ma": "gom",
+      "ten": "Goan Konkani",
+      "name_en": "Goan Konkani"
+    },
+    {
+      "ma": "gon",
+      "ten": "Tiếng Gondi",
+      "name_en": "Gondi"
+    },
+    {
+      "ma": "gor",
+      "ten": "Tiếng Gorontalo",
+      "name_en": "Gorontalo"
+    },
+    {
+      "ma": "got",
+      "ten": "Tiếng Gô-tích",
+      "name_en": "Gothic"
+    },
+    {
+      "ma": "grb",
+      "ten": "Tiếng Grebo",
+      "name_en": "Grebo"
+    },
+    {
+      "ma": "grc",
+      "ten": "Tiếng Hy Lạp cổ",
+      "name_en": "Ancient Greek"
+    },
+    {
+      "ma": "gsw",
+      "ten": "Tiếng Đức (Thụy Sĩ)",
+      "name_en": "Swiss German"
+    },
+    {
+      "ma": "gu",
+      "ten": "Tiếng Gujarati",
+      "name_en": "Gujarati"
+    },
+    {
+      "ma": "guc",
+      "ten": "Wayuu",
+      "name_en": "Wayuu"
+    },
+    {
+      "ma": "gur",
+      "ten": "Frafra",
+      "name_en": "Frafra"
+    },
+    {
+      "ma": "guz",
+      "ten": "Tiếng Gusii",
+      "name_en": "Gusii"
+    },
+    {
+      "ma": "gv",
+      "ten": "Tiếng Manx",
+      "name_en": "Manx"
+    },
+    {
+      "ma": "gwi",
+      "ten": "Tiếng Gwichʼin",
+      "name_en": "Gwichʼin"
+    },
+    {
+      "ma": "ha",
+      "ten": "Tiếng Hausa",
+      "name_en": "Hausa"
+    },
+    {
+      "ma": "hai",
+      "ten": "Tiếng Haida",
+      "name_en": "Haida"
+    },
+    {
+      "ma": "hak",
+      "ten": "Hakka Chinese",
+      "name_en": "Hakka Chinese"
+    },
+    {
+      "ma": "haw",
+      "ten": "Tiếng Hawaii",
+      "name_en": "Hawaiian"
+    },
+    {
+      "ma": "he",
+      "ten": "Tiếng Do Thái",
+      "name_en": "Hebrew"
+    },
+    {
+      "ma": "hi",
+      "ten": "Tiếng Hindi",
+      "name_en": "Hindi"
+    },
+    {
+      "ma": "hif",
+      "ten": "Fiji Hindi",
+      "name_en": "Fiji Hindi"
+    },
+    {
+      "ma": "hil",
+      "ten": "Tiếng Hiligaynon",
+      "name_en": "Hiligaynon"
+    },
+    {
+      "ma": "hit",
+      "ten": "Tiếng Hittite",
+      "name_en": "Hittite"
+    },
+    {
+      "ma": "hmn",
+      "ten": "Tiếng Hmông",
+      "name_en": "Hmong"
+    },
+    {
+      "ma": "ho",
+      "ten": "Tiếng Hiri Motu",
+      "name_en": "Hiri Motu"
+    },
+    {
+      "ma": "hr",
+      "ten": "Tiếng Croatia",
+      "name_en": "Croatian"
+    },
+    {
+      "ma": "hsb",
+      "ten": "Tiếng Thượng Sorbia",
+      "name_en": "Upper Sorbian"
+    },
+    {
+      "ma": "hsn",
+      "ten": "Xiang Chinese",
+      "name_en": "Xiang Chinese"
+    },
+    {
+      "ma": "ht",
+      "ten": "Tiếng Haiti",
+      "name_en": "Haitian"
+    },
+    {
+      "ma": "hu",
+      "ten": "Tiếng Hungary",
+      "name_en": "Hungarian"
+    },
+    {
+      "ma": "hup",
+      "ten": "Tiếng Hupa",
+      "name_en": "Hupa"
+    },
+    {
+      "ma": "hy",
+      "ten": "Tiếng Armenia",
+      "name_en": "Armenian"
+    },
+    {
+      "ma": "hz",
+      "ten": "Tiếng Herero",
+      "name_en": "Herero"
+    },
+    {
+      "ma": "ia",
+      "ten": "Tiếng Khoa Học Quốc Tế",
+      "name_en": "Interlingua"
+    },
+    {
+      "ma": "iba",
+      "ten": "Tiếng Iban",
+      "name_en": "Iban"
+    },
+    {
+      "ma": "ibb",
+      "ten": "Tiếng Ibibio",
+      "name_en": "Ibibio"
+    },
+    {
+      "ma": "id",
+      "ten": "Tiếng Indonesia",
+      "name_en": "Indonesian"
+    },
+    {
+      "ma": "ie",
+      "ten": "Tiếng Interlingue",
+      "name_en": "Interlingue"
+    },
+    {
+      "ma": "ig",
+      "ten": "Tiếng Igbo",
+      "name_en": "Igbo"
+    },
+    {
+      "ma": "ii",
+      "ten": "Tiếng Di Tứ Xuyên",
+      "name_en": "Sichuan Yi"
+    },
+    {
+      "ma": "ik",
+      "ten": "Tiếng Inupiaq",
+      "name_en": "Inupiaq"
+    },
+    {
+      "ma": "ilo",
+      "ten": "Tiếng Iloko",
+      "name_en": "Iloko"
+    },
+    {
+      "ma": "inh",
+      "ten": "Tiếng Ingush",
+      "name_en": "Ingush"
+    },
+    {
+      "ma": "io",
+      "ten": "Tiếng Ido",
+      "name_en": "Ido"
+    },
+    {
+      "ma": "is",
+      "ten": "Tiếng Iceland",
+      "name_en": "Icelandic"
+    },
+    {
+      "ma": "it",
+      "ten": "Tiếng Ý",
+      "name_en": "Italian"
+    },
+    {
+      "ma": "iu",
+      "ten": "Tiếng Inuktitut",
+      "name_en": "Inuktitut"
+    },
+    {
+      "ma": "izh",
+      "ten": "Ingrian",
+      "name_en": "Ingrian"
+    },
+    {
+      "ma": "ja",
+      "ten": "Tiếng Nhật",
+      "name_en": "Japanese"
+    },
+    {
+      "ma": "jam",
+      "ten": "Jamaican Creole English",
+      "name_en": "Jamaican Creole English"
+    },
+    {
+      "ma": "jbo",
+      "ten": "Tiếng Lojban",
+      "name_en": "Lojban"
+    },
+    {
+      "ma": "jgo",
+      "ten": "Tiếng Ngomba",
+      "name_en": "Ngomba"
+    },
+    {
+      "ma": "jmc",
+      "ten": "Tiếng Machame",
+      "name_en": "Machame"
+    },
+    {
+      "ma": "jpr",
+      "ten": "Tiếng Judeo-Ba Tư",
+      "name_en": "Judeo-Persian"
+    },
+    {
+      "ma": "jrb",
+      "ten": "Tiếng Judeo-Ả Rập",
+      "name_en": "Judeo-Arabic"
+    },
+    {
+      "ma": "jut",
+      "ten": "Jutish",
+      "name_en": "Jutish"
+    },
+    {
+      "ma": "jv",
+      "ten": "Tiếng Java",
+      "name_en": "Javanese"
+    },
+    {
+      "ma": "ka",
+      "ten": "Tiếng Gruzia",
+      "name_en": "Georgian"
+    },
+    {
+      "ma": "kaa",
+      "ten": "Tiếng Kara-Kalpak",
+      "name_en": "Kara-Kalpak"
+    },
+    {
+      "ma": "kab",
+      "ten": "Tiếng Kabyle",
+      "name_en": "Kabyle"
+    },
+    {
+      "ma": "kac",
+      "ten": "Tiếng Kachin",
+      "name_en": "Kachin"
+    },
+    {
+      "ma": "kaj",
+      "ten": "Tiếng Jju",
+      "name_en": "Jju"
+    },
+    {
+      "ma": "kam",
+      "ten": "Tiếng Kamba",
+      "name_en": "Kamba"
+    },
+    {
+      "ma": "kaw",
+      "ten": "Tiếng Kawi",
+      "name_en": "Kawi"
+    },
+    {
+      "ma": "kbd",
+      "ten": "Tiếng Kabardian",
+      "name_en": "Kabardian"
+    },
+    {
+      "ma": "kbl",
+      "ten": "Tiếng Kanembu",
+      "name_en": "Kanembu"
+    },
+    {
+      "ma": "kcg",
+      "ten": "Tiếng Tyap",
+      "name_en": "Tyap"
+    },
+    {
+      "ma": "kde",
+      "ten": "Tiếng Makonde",
+      "name_en": "Makonde"
+    },
+    {
+      "ma": "kea",
+      "ten": "Tiếng Kabuverdianu",
+      "name_en": "Kabuverdianu"
+    },
+    {
+      "ma": "ken",
+      "ten": "Kenyang",
+      "name_en": "Kenyang"
+    },
+    {
+      "ma": "kfo",
+      "ten": "Tiếng Koro",
+      "name_en": "Koro"
+    },
+    {
+      "ma": "kg",
+      "ten": "Tiếng Kongo",
+      "name_en": "Kongo"
+    },
+    {
+      "ma": "kgp",
+      "ten": "Kaingang",
+      "name_en": "Kaingang"
+    },
+    {
+      "ma": "kha",
+      "ten": "Tiếng Khasi",
+      "name_en": "Khasi"
+    },
+    {
+      "ma": "kho",
+      "ten": "Tiếng Khotan",
+      "name_en": "Khotanese"
+    },
+    {
+      "ma": "khq",
+      "ten": "Tiếng Koyra Chiini",
+      "name_en": "Koyra Chiini"
+    },
+    {
+      "ma": "khw",
+      "ten": "Khowar",
+      "name_en": "Khowar"
+    },
+    {
+      "ma": "ki",
+      "ten": "Tiếng Kikuyu",
+      "name_en": "Kikuyu"
+    },
+    {
+      "ma": "kiu",
+      "ten": "Kirmanjki",
+      "name_en": "Kirmanjki"
+    },
+    {
+      "ma": "kj",
+      "ten": "Tiếng Kuanyama",
+      "name_en": "Kuanyama"
+    },
+    {
+      "ma": "kk",
+      "ten": "Tiếng Kazakh",
+      "name_en": "Kazakh"
+    },
+    {
+      "ma": "kkj",
+      "ten": "Tiếng Kako",
+      "name_en": "Kako"
+    },
+    {
+      "ma": "kl",
+      "ten": "Tiếng Kalaallisut",
+      "name_en": "Kalaallisut"
+    },
+    {
+      "ma": "kln",
+      "ten": "Tiếng Kalenjin",
+      "name_en": "Kalenjin"
+    },
+    {
+      "ma": "km",
+      "ten": "Tiếng Khơ-me",
+      "name_en": "Khmer"
+    },
+    {
+      "ma": "kmb",
+      "ten": "Tiếng Kimbundu",
+      "name_en": "Kimbundu"
+    },
+    {
+      "ma": "kn",
+      "ten": "Tiếng Kannada",
+      "name_en": "Kannada"
+    },
+    {
+      "ma": "ko",
+      "ten": "Tiếng Hàn",
+      "name_en": "Korean"
+    },
+    {
+      "ma": "koi",
+      "ten": "Tiếng Komi-Permyak",
+      "name_en": "Komi-Permyak"
+    },
+    {
+      "ma": "kok",
+      "ten": "Tiếng Konkani",
+      "name_en": "Konkani"
+    },
+    {
+      "ma": "kos",
+      "ten": "Tiếng Kosrae",
+      "name_en": "Kosraean"
+    },
+    {
+      "ma": "kpe",
+      "ten": "Tiếng Kpelle",
+      "name_en": "Kpelle"
+    },
+    {
+      "ma": "kr",
+      "ten": "Tiếng Kanuri",
+      "name_en": "Kanuri"
+    },
+    {
+      "ma": "krc",
+      "ten": "Tiếng Karachay-Balkar",
+      "name_en": "Karachay-Balkar"
+    },
+    {
+      "ma": "kri",
+      "ten": "Krio",
+      "name_en": "Krio"
+    },
+    {
+      "ma": "krj",
+      "ten": "Kinaray-a",
+      "name_en": "Kinaray-a"
+    },
+    {
+      "ma": "krl",
+      "ten": "Tiếng Karelian",
+      "name_en": "Karelian"
+    },
+    {
+      "ma": "kru",
+      "ten": "Tiếng Kurukh",
+      "name_en": "Kurukh"
+    },
+    {
+      "ma": "ks",
+      "ten": "Tiếng Kashmiri",
+      "name_en": "Kashmiri"
+    },
+    {
+      "ma": "ksb",
+      "ten": "Tiếng Shambala",
+      "name_en": "Shambala"
+    },
+    {
+      "ma": "ksf",
+      "ten": "Tiếng Bafia",
+      "name_en": "Bafia"
+    },
+    {
+      "ma": "ksh",
+      "ten": "Tiếng Cologne",
+      "name_en": "Colognian"
+    },
+    {
+      "ma": "ku",
+      "ten": "Tiếng Kurd",
+      "name_en": "Kurdish"
+    },
+    {
+      "ma": "kum",
+      "ten": "Tiếng Kumyk",
+      "name_en": "Kumyk"
+    },
+    {
+      "ma": "kut",
+      "ten": "Tiếng Kutenai",
+      "name_en": "Kutenai"
+    },
+    {
+      "ma": "kv",
+      "ten": "Tiếng Komi",
+      "name_en": "Komi"
+    },
+    {
+      "ma": "kw",
+      "ten": "Tiếng Cornwall",
+      "name_en": "Cornish"
+    },
+    {
+      "ma": "ky",
+      "ten": "Tiếng Kyrgyz",
+      "name_en": "Kyrgyz"
+    },
+    {
+      "ma": "la",
+      "ten": "Tiếng La-tinh",
+      "name_en": "Latin"
+    },
+    {
+      "ma": "lad",
+      "ten": "Tiếng Ladino",
+      "name_en": "Ladino"
+    },
+    {
+      "ma": "lag",
+      "ten": "Tiếng Langi",
+      "name_en": "Langi"
+    },
+    {
+      "ma": "lah",
+      "ten": "Tiếng Lahnda",
+      "name_en": "Lahnda"
+    },
+    {
+      "ma": "lam",
+      "ten": "Tiếng Lamba",
+      "name_en": "Lamba"
+    },
+    {
+      "ma": "lb",
+      "ten": "Tiếng Luxembourg",
+      "name_en": "Luxembourgish"
+    },
+    {
+      "ma": "lez",
+      "ten": "Tiếng Lezghian",
+      "name_en": "Lezghian"
+    },
+    {
+      "ma": "lfn",
+      "ten": "Lingua Franca Nova",
+      "name_en": "Lingua Franca Nova"
+    },
+    {
+      "ma": "lg",
+      "ten": "Tiếng Ganda",
+      "name_en": "Ganda"
+    },
+    {
+      "ma": "li",
+      "ten": "Tiếng Limburg",
+      "name_en": "Limburgish"
+    },
+    {
+      "ma": "lij",
+      "ten": "Ligurian",
+      "name_en": "Ligurian"
+    },
+    {
+      "ma": "liv",
+      "ten": "Livonian",
+      "name_en": "Livonian"
+    },
+    {
+      "ma": "lkt",
+      "ten": "Tiếng Lakota",
+      "name_en": "Lakota"
+    },
+    {
+      "ma": "lmo",
+      "ten": "Lombard",
+      "name_en": "Lombard"
+    },
+    {
+      "ma": "ln",
+      "ten": "Tiếng Lingala",
+      "name_en": "Lingala"
+    },
+    {
+      "ma": "lo",
+      "ten": "Tiếng Lào",
+      "name_en": "Lao"
+    },
+    {
+      "ma": "lol",
+      "ten": "Tiếng Mongo",
+      "name_en": "Mongo"
+    },
+    {
+      "ma": "loz",
+      "ten": "Tiếng Lozi",
+      "name_en": "Lozi"
+    },
+    {
+      "ma": "lt",
+      "ten": "Tiếng Lít-va",
+      "name_en": "Lithuanian"
+    },
+    {
+      "ma": "ltg",
+      "ten": "Latgalian",
+      "name_en": "Latgalian"
+    },
+    {
+      "ma": "lu",
+      "ten": "Tiếng Luba-Katanga",
+      "name_en": "Luba-Katanga"
+    },
+    {
+      "ma": "lua",
+      "ten": "Tiếng Luba-Lulua",
+      "name_en": "Luba-Lulua"
+    },
+    {
+      "ma": "lui",
+      "ten": "Tiếng Luiseno",
+      "name_en": "Luiseno"
+    },
+    {
+      "ma": "lun",
+      "ten": "Tiếng Lunda",
+      "name_en": "Lunda"
+    },
+    {
+      "ma": "luo",
+      "ten": "Tiếng Luo",
+      "name_en": "Luo"
+    },
+    {
+      "ma": "lus",
+      "ten": "Tiếng Lushai",
+      "name_en": "Mizo"
+    },
+    {
+      "ma": "luy",
+      "ten": "Tiếng Luyia",
+      "name_en": "Luyia"
+    },
+    {
+      "ma": "lv",
+      "ten": "Tiếng Latvia",
+      "name_en": "Latvian"
+    },
+    {
+      "ma": "lzh",
+      "ten": "Literary Chinese",
+      "name_en": "Literary Chinese"
+    },
+    {
+      "ma": "lzz",
+      "ten": "Laz",
+      "name_en": "Laz"
+    },
+    {
+      "ma": "mad",
+      "ten": "Tiếng Madura",
+      "name_en": "Madurese"
+    },
+    {
+      "ma": "maf",
+      "ten": "Tiếng Mafa",
+      "name_en": "Mafa"
+    },
+    {
+      "ma": "mag",
+      "ten": "Tiếng Magahi",
+      "name_en": "Magahi"
+    },
+    {
+      "ma": "mai",
+      "ten": "Tiếng Maithili",
+      "name_en": "Maithili"
+    },
+    {
+      "ma": "mak",
+      "ten": "Tiếng Makasar",
+      "name_en": "Makasar"
+    },
+    {
+      "ma": "man",
+      "ten": "Tiếng Mandingo",
+      "name_en": "Mandingo"
+    },
+    {
+      "ma": "mas",
+      "ten": "Tiếng Masai",
+      "name_en": "Masai"
+    },
+    {
+      "ma": "mde",
+      "ten": "Tiếng Maba",
+      "name_en": "Maba"
+    },
+    {
+      "ma": "mdf",
+      "ten": "Tiếng Moksha",
+      "name_en": "Moksha"
+    },
+    {
+      "ma": "mdr",
+      "ten": "Tiếng Mandar",
+      "name_en": "Mandar"
+    },
+    {
+      "ma": "men",
+      "ten": "Tiếng Mende",
+      "name_en": "Mende"
+    },
+    {
+      "ma": "mer",
+      "ten": "Tiếng Meru",
+      "name_en": "Meru"
+    },
+    {
+      "ma": "mfe",
+      "ten": "Tiếng Morisyen",
+      "name_en": "Morisyen"
+    },
+    {
+      "ma": "mg",
+      "ten": "Tiếng Malagasy",
+      "name_en": "Malagasy"
+    },
+    {
+      "ma": "mga",
+      "ten": "Tiếng Ai-len Trung cổ",
+      "name_en": "Middle Irish"
+    },
+    {
+      "ma": "mgh",
+      "ten": "Tiếng Makhuwa-Meetto",
+      "name_en": "Makhuwa-Meetto"
+    },
+    {
+      "ma": "mgo",
+      "ten": "Tiếng Meta’",
+      "name_en": "Metaʼ"
+    },
+    {
+      "ma": "mh",
+      "ten": "Tiếng Marshall",
+      "name_en": "Marshallese"
+    },
+    {
+      "ma": "mi",
+      "ten": "Tiếng Maori",
+      "name_en": "Maori"
+    },
+    {
+      "ma": "mic",
+      "ten": "Tiếng Micmac",
+      "name_en": "Micmac"
+    },
+    {
+      "ma": "min",
+      "ten": "Tiếng Minangkabau",
+      "name_en": "Minangkabau"
+    },
+    {
+      "ma": "mk",
+      "ten": "Tiếng Macedonia",
+      "name_en": "Macedonian"
+    },
+    {
+      "ma": "ml",
+      "ten": "Tiếng Malayalam",
+      "name_en": "Malayalam"
+    },
+    {
+      "ma": "mn",
+      "ten": "Tiếng Mông Cổ",
+      "name_en": "Mongolian"
+    },
+    {
+      "ma": "mnc",
+      "ten": "Tiếng Manchu",
+      "name_en": "Manchu"
+    },
+    {
+      "ma": "mni",
+      "ten": "Tiếng Manipuri",
+      "name_en": "Manipuri"
+    },
+    {
+      "ma": "moh",
+      "ten": "Tiếng Mohawk",
+      "name_en": "Mohawk"
+    },
+    {
+      "ma": "mos",
+      "ten": "Tiếng Mossi",
+      "name_en": "Mossi"
+    },
+    {
+      "ma": "mr",
+      "ten": "Tiếng Marathi",
+      "name_en": "Marathi"
+    },
+    {
+      "ma": "mrj",
+      "ten": "Western Mari",
+      "name_en": "Western Mari"
+    },
+    {
+      "ma": "ms",
+      "ten": "Tiếng Malaysia",
+      "name_en": "Malay"
+    },
+    {
+      "ma": "mt",
+      "ten": "Tiếng Malt",
+      "name_en": "Maltese"
+    },
+    {
+      "ma": "mua",
+      "ten": "Tiếng Mundang",
+      "name_en": "Mundang"
+    },
+    {
+      "ma": "mul",
+      "ten": "Nhiều Ngôn ngữ",
+      "name_en": "Multiple Languages"
+    },
+    {
+      "ma": "mus",
+      "ten": "Tiếng Creek",
+      "name_en": "Creek"
+    },
+    {
+      "ma": "mwl",
+      "ten": "Tiếng Miranda",
+      "name_en": "Mirandese"
+    },
+    {
+      "ma": "mwr",
+      "ten": "Tiếng Marwari",
+      "name_en": "Marwari"
+    },
+    {
+      "ma": "mwv",
+      "ten": "Mentawai",
+      "name_en": "Mentawai"
+    },
+    {
+      "ma": "my",
+      "ten": "Tiếng Miến Điện",
+      "name_en": "Burmese"
+    },
+    {
+      "ma": "mye",
+      "ten": "Tiếng Myene",
+      "name_en": "Myene"
+    },
+    {
+      "ma": "myv",
+      "ten": "Tiếng Erzya",
+      "name_en": "Erzya"
+    },
+    {
+      "ma": "mzn",
+      "ten": "Mazanderani",
+      "name_en": "Mazanderani"
+    },
+    {
+      "ma": "na",
+      "ten": "Tiếng Nauru",
+      "name_en": "Nauru"
+    },
+    {
+      "ma": "nan",
+      "ten": "Min Nan Chinese",
+      "name_en": "Min Nan Chinese"
+    },
+    {
+      "ma": "nap",
+      "ten": "Tiếng Napoli",
+      "name_en": "Neapolitan"
+    },
+    {
+      "ma": "naq",
+      "ten": "Tiếng Nama",
+      "name_en": "Nama"
+    },
+    {
+      "ma": "nb",
+      "ten": "Tiếng Na Uy (Bokmål)",
+      "name_en": "Norwegian Bokmål"
+    },
+    {
+      "ma": "nd",
+      "ten": "Tiếng Ndebele Miền Bắc",
+      "name_en": "North Ndebele"
+    },
+    {
+      "ma": "nds",
+      "ten": "Tiếng Hạ Giéc-man",
+      "name_en": "Low German"
+    },
+    {
+      "ma": "ne",
+      "ten": "Tiếng Nepal",
+      "name_en": "Nepali"
+    },
+    {
+      "ma": "new",
+      "ten": "Tiếng Newari",
+      "name_en": "Newari"
+    },
+    {
+      "ma": "ng",
+      "ten": "Tiếng Ndonga",
+      "name_en": "Ndonga"
+    },
+    {
+      "ma": "nia",
+      "ten": "Tiếng Nias",
+      "name_en": "Nias"
+    },
+    {
+      "ma": "niu",
+      "ten": "Tiếng Niuean",
+      "name_en": "Niuean"
+    },
+    {
+      "ma": "njo",
+      "ten": "Ao Naga",
+      "name_en": "Ao Naga"
+    },
+    {
+      "ma": "nl",
+      "ten": "Tiếng Hà Lan",
+      "name_en": "Dutch"
+    },
+    {
+      "ma": "nmg",
+      "ten": "Tiếng Kwasio",
+      "name_en": "Kwasio"
+    },
+    {
+      "ma": "nn",
+      "ten": "Tiếng Na Uy (Nynorsk)",
+      "name_en": "Norwegian Nynorsk"
+    },
+    {
+      "ma": "nnh",
+      "ten": "Tiếng Ngiemboon",
+      "name_en": "Ngiemboon"
+    },
+    {
+      "ma": "no",
+      "ten": "Tiếng Na Uy",
+      "name_en": "Norwegian"
+    },
+    {
+      "ma": "nog",
+      "ten": "Tiếng Nogai",
+      "name_en": "Nogai"
+    },
+    {
+      "ma": "non",
+      "ten": "Tiếng Na Uy cổ",
+      "name_en": "Old Norse"
+    },
+    {
+      "ma": "nov",
+      "ten": "Novial",
+      "name_en": "Novial"
+    },
+    {
+      "ma": "nqo",
+      "ten": "Tiếng N’Ko",
+      "name_en": "NʼKo"
+    },
+    {
+      "ma": "nr",
+      "ten": "Tiếng Ndebele Miền Nam",
+      "name_en": "South Ndebele"
+    },
+    {
+      "ma": "nso",
+      "ten": "Bắc Sotho",
+      "name_en": "Northern Sotho"
+    },
+    {
+      "ma": "nus",
+      "ten": "Tiếng Nuer",
+      "name_en": "Nuer"
+    },
+    {
+      "ma": "nv",
+      "ten": "Tiếng Navajo",
+      "name_en": "Navajo"
+    },
+    {
+      "ma": "nwc",
+      "ten": "Tiếng Newari Cổ điển",
+      "name_en": "Classical Newari"
+    },
+    {
+      "ma": "ny",
+      "ten": "Tiếng Nyanja",
+      "name_en": "Nyanja"
+    },
+    {
+      "ma": "nym",
+      "ten": "Tiếng Nyamwezi",
+      "name_en": "Nyamwezi"
+    },
+    {
+      "ma": "nyn",
+      "ten": "Tiếng Nyankole",
+      "name_en": "Nyankole"
+    },
+    {
+      "ma": "nyo",
+      "ten": "Tiếng Nyoro",
+      "name_en": "Nyoro"
+    },
+    {
+      "ma": "nzi",
+      "ten": "Tiếng Nzima",
+      "name_en": "Nzima"
+    },
+    {
+      "ma": "oc",
+      "ten": "Tiếng Occitan",
+      "name_en": "Occitan"
+    },
+    {
+      "ma": "oj",
+      "ten": "Tiếng Ojibwa",
+      "name_en": "Ojibwa"
+    },
+    {
+      "ma": "om",
+      "ten": "Tiếng Oromo",
+      "name_en": "Oromo"
+    },
+    {
+      "ma": "or",
+      "ten": "Tiếng Oriya",
+      "name_en": "Oriya"
+    },
+    {
+      "ma": "os",
+      "ten": "Tiếng Ossetic",
+      "name_en": "Ossetic"
+    },
+    {
+      "ma": "osa",
+      "ten": "Tiếng Osage",
+      "name_en": "Osage"
+    },
+    {
+      "ma": "ota",
+      "ten": "Tiếng Thổ Nhĩ Kỳ Ottoman",
+      "name_en": "Ottoman Turkish"
+    },
+    {
+      "ma": "pa",
+      "ten": "Tiếng Punjab",
+      "name_en": "Punjabi"
+    },
+    {
+      "ma": "pag",
+      "ten": "Tiếng Pangasinan",
+      "name_en": "Pangasinan"
+    },
+    {
+      "ma": "pal",
+      "ten": "Tiếng Pahlavi",
+      "name_en": "Pahlavi"
+    },
+    {
+      "ma": "pam",
+      "ten": "Tiếng Pampanga",
+      "name_en": "Pampanga"
+    },
+    {
+      "ma": "pap",
+      "ten": "Tiếng Papiamento",
+      "name_en": "Papiamento"
+    },
+    {
+      "ma": "pau",
+      "ten": "Tiếng Palauan",
+      "name_en": "Palauan"
+    },
+    {
+      "ma": "pcd",
+      "ten": "Picard",
+      "name_en": "Picard"
+    },
+    {
+      "ma": "pdc",
+      "ten": "Pennsylvania German",
+      "name_en": "Pennsylvania German"
+    },
+    {
+      "ma": "pdt",
+      "ten": "Plautdietsch",
+      "name_en": "Plautdietsch"
+    },
+    {
+      "ma": "peo",
+      "ten": "Tiếng Ba Tư cổ",
+      "name_en": "Old Persian"
+    },
+    {
+      "ma": "pfl",
+      "ten": "Palatine German",
+      "name_en": "Palatine German"
+    },
+    {
+      "ma": "phn",
+      "ten": "Tiếng Phoenicia",
+      "name_en": "Phoenician"
+    },
+    {
+      "ma": "pi",
+      "ten": "Tiếng Pali",
+      "name_en": "Pali"
+    },
+    {
+      "ma": "pl",
+      "ten": "Tiếng Ba Lan",
+      "name_en": "Polish"
+    },
+    {
+      "ma": "pms",
+      "ten": "Piedmontese",
+      "name_en": "Piedmontese"
+    },
+    {
+      "ma": "pnt",
+      "ten": "Pontic",
+      "name_en": "Pontic"
+    },
+    {
+      "ma": "pon",
+      "ten": "Tiếng Pohnpeian",
+      "name_en": "Pohnpeian"
+    },
+    {
+      "ma": "prg",
+      "ten": "Prussian",
+      "name_en": "Prussian"
+    },
+    {
+      "ma": "pro",
+      "ten": "Tiếng Provençal cổ",
+      "name_en": "Old Provençal"
+    },
+    {
+      "ma": "ps",
+      "ten": "Tiếng Pashto",
+      "name_en": "Pashto"
+    },
+    {
+      "ma": "pt",
+      "ten": "Tiếng Bồ Đào Nha",
+      "name_en": "Portuguese"
+    },
+    {
+      "ma": "qu",
+      "ten": "Tiếng Quechua",
+      "name_en": "Quechua"
+    },
+    {
+      "ma": "quc",
+      "ten": "Tiếng Kʼicheʼ",
+      "name_en": "Kʼicheʼ"
+    },
+    {
+      "ma": "qug",
+      "ten": "Chimborazo Highland Quichua",
+      "name_en": "Chimborazo Highland Quichua"
+    },
+    {
+      "ma": "raj",
+      "ten": "Tiếng Rajasthani",
+      "name_en": "Rajasthani"
+    },
+    {
+      "ma": "rap",
+      "ten": "Tiếng Rapanui",
+      "name_en": "Rapanui"
+    },
+    {
+      "ma": "rar",
+      "ten": "Tiếng Rarotongan",
+      "name_en": "Rarotongan"
+    },
+    {
+      "ma": "rgn",
+      "ten": "Romagnol",
+      "name_en": "Romagnol"
+    },
+    {
+      "ma": "rif",
+      "ten": "Riffian",
+      "name_en": "Riffian"
+    },
+    {
+      "ma": "rm",
+      "ten": "Tiếng Romansh",
+      "name_en": "Romansh"
+    },
+    {
+      "ma": "rn",
+      "ten": "Tiếng Rundi",
+      "name_en": "Rundi"
+    },
+    {
+      "ma": "ro",
+      "ten": "Tiếng Rumani",
+      "name_en": "Romanian"
+    },
+    {
+      "ma": "rof",
+      "ten": "Tiếng Rombo",
+      "name_en": "Rombo"
+    },
+    {
+      "ma": "rom",
+      "ten": "Tiếng Romany",
+      "name_en": "Romany"
+    },
+    {
+      "ma": "root",
+      "ten": "Tiếng Root",
+      "name_en": "Root"
+    },
+    {
+      "ma": "rtm",
+      "ten": "Rotuman",
+      "name_en": "Rotuman"
+    },
+    {
+      "ma": "ru",
+      "ten": "Tiếng Nga",
+      "name_en": "Russian"
+    },
+    {
+      "ma": "rue",
+      "ten": "Rusyn",
+      "name_en": "Rusyn"
+    },
+    {
+      "ma": "rug",
+      "ten": "Roviana",
+      "name_en": "Roviana"
+    },
+    {
+      "ma": "rup",
+      "ten": "Tiếng Aromania",
+      "name_en": "Aromanian"
+    },
+    {
+      "ma": "rw",
+      "ten": "Tiếng Kinyarwanda",
+      "name_en": "Kinyarwanda"
+    },
+    {
+      "ma": "rwk",
+      "ten": "Tiếng Rwa",
+      "name_en": "Rwa"
+    },
+    {
+      "ma": "sa",
+      "ten": "Tiếng Phạn",
+      "name_en": "Sanskrit"
+    },
+    {
+      "ma": "sad",
+      "ten": "Tiếng Sandawe",
+      "name_en": "Sandawe"
+    },
+    {
+      "ma": "sah",
+      "ten": "Tiếng Sakha",
+      "name_en": "Sakha"
+    },
+    {
+      "ma": "sam",
+      "ten": "Tiếng Samaritan Aramaic",
+      "name_en": "Samaritan Aramaic"
+    },
+    {
+      "ma": "saq",
+      "ten": "Tiếng Samburu",
+      "name_en": "Samburu"
+    },
+    {
+      "ma": "sas",
+      "ten": "Tiếng Sasak",
+      "name_en": "Sasak"
+    },
+    {
+      "ma": "sat",
+      "ten": "Tiếng Santali",
+      "name_en": "Santali"
+    },
+    {
+      "ma": "saz",
+      "ten": "Saurashtra",
+      "name_en": "Saurashtra"
+    },
+    {
+      "ma": "sba",
+      "ten": "Tiếng Ngambay",
+      "name_en": "Ngambay"
+    },
+    {
+      "ma": "sbp",
+      "ten": "Tiếng Sangu",
+      "name_en": "Sangu"
+    },
+    {
+      "ma": "sc",
+      "ten": "Tiếng Sardinia",
+      "name_en": "Sardinian"
+    },
+    {
+      "ma": "scn",
+      "ten": "Tiếng Sicilia",
+      "name_en": "Sicilian"
+    },
+    {
+      "ma": "sco",
+      "ten": "Tiếng Scots",
+      "name_en": "Scots"
+    },
+    {
+      "ma": "sd",
+      "ten": "Tiếng Sindhi",
+      "name_en": "Sindhi"
+    },
+    {
+      "ma": "sdc",
+      "ten": "Sassarese Sardinian",
+      "name_en": "Sassarese Sardinian"
+    },
+    {
+      "ma": "se",
+      "ten": "Tiếng Sami Miền Bắc",
+      "name_en": "Northern Sami"
+    },
+    {
+      "ma": "see",
+      "ten": "Tiếng Seneca",
+      "name_en": "Seneca"
+    },
+    {
+      "ma": "seh",
+      "ten": "Tiếng Sena",
+      "name_en": "Sena"
+    },
+    {
+      "ma": "sei",
+      "ten": "Seri",
+      "name_en": "Seri"
+    },
+    {
+      "ma": "sel",
+      "ten": "Tiếng Selkup",
+      "name_en": "Selkup"
+    },
+    {
+      "ma": "ses",
+      "ten": "Tiếng Koyraboro Senni",
+      "name_en": "Koyraboro Senni"
+    },
+    {
+      "ma": "sg",
+      "ten": "Tiếng Sango",
+      "name_en": "Sango"
+    },
+    {
+      "ma": "sga",
+      "ten": "Tiếng Ai-len cổ",
+      "name_en": "Old Irish"
+    },
+    {
+      "ma": "sgs",
+      "ten": "Samogitian",
+      "name_en": "Samogitian"
+    },
+    {
+      "ma": "sh",
+      "ten": "Tiếng Xéc bi - Croatia",
+      "name_en": "Serbo-Croatian"
+    },
+    {
+      "ma": "shi",
+      "ten": "Tiếng Tachelhit",
+      "name_en": "Tachelhit"
+    },
+    {
+      "ma": "shn",
+      "ten": "Tiếng Shan",
+      "name_en": "Shan"
+    },
+    {
+      "ma": "shu",
+      "ten": "Tiếng Ả-Rập Chad",
+      "name_en": "Chadian Arabic"
+    },
+    {
+      "ma": "si",
+      "ten": "Tiếng Sinhala",
+      "name_en": "Sinhala"
+    },
+    {
+      "ma": "sid",
+      "ten": "Tiếng Sidamo",
+      "name_en": "Sidamo"
+    },
+    {
+      "ma": "sk",
+      "ten": "Tiếng Slovak",
+      "name_en": "Slovak"
+    },
+    {
+      "ma": "sl",
+      "ten": "Tiếng Slovenia",
+      "name_en": "Slovenian"
+    },
+    {
+      "ma": "sli",
+      "ten": "Lower Silesian",
+      "name_en": "Lower Silesian"
+    },
+    {
+      "ma": "sly",
+      "ten": "Selayar",
+      "name_en": "Selayar"
+    },
+    {
+      "ma": "sm",
+      "ten": "Tiếng Samoa",
+      "name_en": "Samoan"
+    },
+    {
+      "ma": "sma",
+      "ten": "TIếng Sami Miền Nam",
+      "name_en": "Southern Sami"
+    },
+    {
+      "ma": "smj",
+      "ten": "Tiếng Lule Sami",
+      "name_en": "Lule Sami"
+    },
+    {
+      "ma": "smn",
+      "ten": "Tiếng Inari Sami",
+      "name_en": "Inari Sami"
+    },
+    {
+      "ma": "sms",
+      "ten": "Tiếng Skolt Sami",
+      "name_en": "Skolt Sami"
+    },
+    {
+      "ma": "sn",
+      "ten": "Tiếng Shona",
+      "name_en": "Shona"
+    },
+    {
+      "ma": "snk",
+      "ten": "Tiếng Soninke",
+      "name_en": "Soninke"
+    },
+    {
+      "ma": "so",
+      "ten": "Tiếng Somali",
+      "name_en": "Somali"
+    },
+    {
+      "ma": "sog",
+      "ten": "Tiếng Sogdien",
+      "name_en": "Sogdien"
+    },
+    {
+      "ma": "sq",
+      "ten": "Tiếng An-ba-ni",
+      "name_en": "Albanian"
+    },
+    {
+      "ma": "sr",
+      "ten": "Tiếng Serbia",
+      "name_en": "Serbian"
+    },
+    {
+      "ma": "srn",
+      "ten": "Tiếng Sranan Tongo",
+      "name_en": "Sranan Tongo"
+    },
+    {
+      "ma": "srr",
+      "ten": "Tiếng Serer",
+      "name_en": "Serer"
+    },
+    {
+      "ma": "ss",
+      "ten": "Tiếng Swati",
+      "name_en": "Swati"
+    },
+    {
+      "ma": "ssy",
+      "ten": "Tiếng Saho",
+      "name_en": "Saho"
+    },
+    {
+      "ma": "st",
+      "ten": "Tiếng Sesotho",
+      "name_en": "Southern Sotho"
+    },
+    {
+      "ma": "stq",
+      "ten": "Saterland Frisian",
+      "name_en": "Saterland Frisian"
+    },
+    {
+      "ma": "su",
+      "ten": "Tiếng Sudan",
+      "name_en": "Sundanese"
+    },
+    {
+      "ma": "suk",
+      "ten": "Tiếng Sukuma",
+      "name_en": "Sukuma"
+    },
+    {
+      "ma": "sus",
+      "ten": "Tiếng Susu",
+      "name_en": "Susu"
+    },
+    {
+      "ma": "sux",
+      "ten": "Tiếng Sumeria",
+      "name_en": "Sumerian"
+    },
+    {
+      "ma": "sv",
+      "ten": "Tiếng Thụy Điển",
+      "name_en": "Swedish"
+    },
+    {
+      "ma": "sw",
+      "ten": "Tiếng Swahili",
+      "name_en": "Swahili"
+    },
+    {
+      "ma": "swb",
+      "ten": "Tiếng Cômo",
+      "name_en": "Comorian"
+    },
+    {
+      "ma": "swc",
+      "ten": "Tiếng Swahili Congo",
+      "name_en": "Congo Swahili"
+    },
+    {
+      "ma": "syc",
+      "ten": "Tiếng Syria Cổ điển",
+      "name_en": "Classical Syriac"
+    },
+    {
+      "ma": "syr",
+      "ten": "Tiếng Syriac",
+      "name_en": "Syriac"
+    },
+    {
+      "ma": "szl",
+      "ten": "Silesian",
+      "name_en": "Silesian"
+    },
+    {
+      "ma": "ta",
+      "ten": "Tiếng Tamil",
+      "name_en": "Tamil"
+    },
+    {
+      "ma": "tcy",
+      "ten": "Tulu",
+      "name_en": "Tulu"
+    },
+    {
+      "ma": "te",
+      "ten": "Tiếng Telugu",
+      "name_en": "Telugu"
+    },
+    {
+      "ma": "tem",
+      "ten": "Tiếng Timne",
+      "name_en": "Timne"
+    },
+    {
+      "ma": "teo",
+      "ten": "Tiếng Teso",
+      "name_en": "Teso"
+    },
+    {
+      "ma": "ter",
+      "ten": "Tiếng Tereno",
+      "name_en": "Tereno"
+    },
+    {
+      "ma": "tet",
+      "ten": "Tetum",
+      "name_en": "Tetum"
+    },
+    {
+      "ma": "tg",
+      "ten": "Tiếng Tajik",
+      "name_en": "Tajik"
+    },
+    {
+      "ma": "th",
+      "ten": "Tiếng Thái",
+      "name_en": "Thai"
+    },
+    {
+      "ma": "ti",
+      "ten": "Tiếng Tigrigya",
+      "name_en": "Tigrinya"
+    },
+    {
+      "ma": "tig",
+      "ten": "Tiếng Tigre",
+      "name_en": "Tigre"
+    },
+    {
+      "ma": "tiv",
+      "ten": "Tiếng Tiv",
+      "name_en": "Tiv"
+    },
+    {
+      "ma": "tk",
+      "ten": "Tiếng Turk",
+      "name_en": "Turkmen"
+    },
+    {
+      "ma": "tkl",
+      "ten": "Tiếng Tokelau",
+      "name_en": "Tokelau"
+    },
+    {
+      "ma": "tkr",
+      "ten": "Tsakhur",
+      "name_en": "Tsakhur"
+    },
+    {
+      "ma": "tl",
+      "ten": "Tiếng Tagalog",
+      "name_en": "Tagalog"
+    },
+    {
+      "ma": "tlh",
+      "ten": "Tiếng Klingon",
+      "name_en": "Klingon"
+    },
+    {
+      "ma": "tli",
+      "ten": "Tiếng Tlingit",
+      "name_en": "Tlingit"
+    },
+    {
+      "ma": "tly",
+      "ten": "Talysh",
+      "name_en": "Talysh"
+    },
+    {
+      "ma": "tmh",
+      "ten": "Tiếng Tamashek",
+      "name_en": "Tamashek"
+    },
+    {
+      "ma": "tn",
+      "ten": "Tiếng Tswana",
+      "name_en": "Tswana"
+    },
+    {
+      "ma": "to",
+      "ten": "Tiếng Tonga",
+      "name_en": "Tongan"
+    },
+    {
+      "ma": "tog",
+      "ten": "Tiếng Nyasa Tonga",
+      "name_en": "Nyasa Tonga"
+    },
+    {
+      "ma": "tpi",
+      "ten": "Tiếng Tok Pisin",
+      "name_en": "Tok Pisin"
+    },
+    {
+      "ma": "tr",
+      "ten": "Tiếng Thổ Nhĩ Kỳ",
+      "name_en": "Turkish"
+    },
+    {
+      "ma": "tru",
+      "ten": "Turoyo",
+      "name_en": "Turoyo"
+    },
+    {
+      "ma": "trv",
+      "ten": "Tiếng Taroko",
+      "name_en": "Taroko"
+    },
+    {
+      "ma": "ts",
+      "ten": "Tiếng Tsonga",
+      "name_en": "Tsonga"
+    },
+    {
+      "ma": "tsd",
+      "ten": "Tsakonian",
+      "name_en": "Tsakonian"
+    },
+    {
+      "ma": "tsi",
+      "ten": "Tiếng Tsimshian",
+      "name_en": "Tsimshian"
+    },
+    {
+      "ma": "tt",
+      "ten": "Tiếng Tatar",
+      "name_en": "Tatar"
+    },
+    {
+      "ma": "ttt",
+      "ten": "Muslim Tat",
+      "name_en": "Muslim Tat"
+    },
+    {
+      "ma": "tum",
+      "ten": "Tiếng Tumbuka",
+      "name_en": "Tumbuka"
+    },
+    {
+      "ma": "tvl",
+      "ten": "Tiếng Tuvalu",
+      "name_en": "Tuvalu"
+    },
+    {
+      "ma": "tw",
+      "ten": "Tiếng Twi",
+      "name_en": "Twi"
+    },
+    {
+      "ma": "twq",
+      "ten": "Tiếng Tasawaq",
+      "name_en": "Tasawaq"
+    },
+    {
+      "ma": "ty",
+      "ten": "Tiếng Tahiti",
+      "name_en": "Tahitian"
+    },
+    {
+      "ma": "tyv",
+      "ten": "Tiếng Tuvinian",
+      "name_en": "Tuvinian"
+    },
+    {
+      "ma": "tzm",
+      "ten": "Tiếng Tamazight Miền Trung Ma-rốc",
+      "name_en": "Central Atlas Tamazight"
+    },
+    {
+      "ma": "udm",
+      "ten": "Tiếng Udmurt",
+      "name_en": "Udmurt"
+    },
+    {
+      "ma": "ug",
+      "ten": "Tiếng Uyghur",
+      "name_en": "Uyghur"
+    },
+    {
+      "ma": "uga",
+      "ten": "Tiếng Ugaritic",
+      "name_en": "Ugaritic"
+    },
+    {
+      "ma": "uk",
+      "ten": "Tiếng Ucraina",
+      "name_en": "Ukrainian"
+    },
+    {
+      "ma": "umb",
+      "ten": "Tiếng Umbundu",
+      "name_en": "Umbundu"
+    },
+    {
+      "ma": "und",
+      "ten": "Ngôn ngữ không xác định",
+      "name_en": "Unknown Language"
+    },
+    {
+      "ma": "ur",
+      "ten": "Tiếng Uđu",
+      "name_en": "Urdu"
+    },
+    {
+      "ma": "uz",
+      "ten": "Tiếng Uzbek",
+      "name_en": "Uzbek"
+    },
+    {
+      "ma": "vai",
+      "ten": "Tiếng Vai",
+      "name_en": "Vai"
+    },
+    {
+      "ma": "ve",
+      "ten": "Tiếng Venda",
+      "name_en": "Venda"
+    },
+    {
+      "ma": "vec",
+      "ten": "Venetian",
+      "name_en": "Venetian"
+    },
+    {
+      "ma": "vep",
+      "ten": "Veps",
+      "name_en": "Veps"
+    },
+    {
+      "ma": "vi",
+      "ten": "Tiếng Việt",
+      "name_en": "Vietnamese"
+    },
+    {
+      "ma": "vls",
+      "ten": "West Flemish",
+      "name_en": "West Flemish"
+    },
+    {
+      "ma": "vmf",
+      "ten": "Main-Franconian",
+      "name_en": "Main-Franconian"
+    },
+    {
+      "ma": "vo",
+      "ten": "Tiếng Volapük",
+      "name_en": "Volapük"
+    },
+    {
+      "ma": "vot",
+      "ten": "Tiếng Votic",
+      "name_en": "Votic"
+    },
+    {
+      "ma": "vro",
+      "ten": "Võro",
+      "name_en": "Võro"
+    },
+    {
+      "ma": "vun",
+      "ten": "Tiếng Vunjo",
+      "name_en": "Vunjo"
+    },
+    {
+      "ma": "wa",
+      "ten": "Tiếng Walloon",
+      "name_en": "Walloon"
+    },
+    {
+      "ma": "wae",
+      "ten": "Tiếng Walser",
+      "name_en": "Walser"
+    },
+    {
+      "ma": "wal",
+      "ten": "Tiếng Walamo",
+      "name_en": "Wolaytta"
+    },
+    {
+      "ma": "war",
+      "ten": "Tiếng Waray",
+      "name_en": "Waray"
+    },
+    {
+      "ma": "was",
+      "ten": "Tiếng Washo",
+      "name_en": "Washo"
+    },
+    {
+      "ma": "wbp",
+      "ten": "Warlpiri",
+      "name_en": "Warlpiri"
+    },
+    {
+      "ma": "wo",
+      "ten": "Tiếng Wolof",
+      "name_en": "Wolof"
+    },
+    {
+      "ma": "wuu",
+      "ten": "Wu Chinese",
+      "name_en": "Wu Chinese"
+    },
+    {
+      "ma": "xal",
+      "ten": "Tiếng Kalmyk",
+      "name_en": "Kalmyk"
+    },
+    {
+      "ma": "xh",
+      "ten": "Tiếng Xhosa",
+      "name_en": "Xhosa"
+    },
+    {
+      "ma": "xmf",
+      "ten": "Mingrelian",
+      "name_en": "Mingrelian"
+    },
+    {
+      "ma": "xog",
+      "ten": "Tiếng Soga",
+      "name_en": "Soga"
+    },
+    {
+      "ma": "yao",
+      "ten": "Tiếng Yao",
+      "name_en": "Yao"
+    },
+    {
+      "ma": "yap",
+      "ten": "Tiếng Yap",
+      "name_en": "Yapese"
+    },
+    {
+      "ma": "yav",
+      "ten": "Tiếng Yangben",
+      "name_en": "Yangben"
+    },
+    {
+      "ma": "ybb",
+      "ten": "Tiếng Yemba",
+      "name_en": "Yemba"
+    },
+    {
+      "ma": "yi",
+      "ten": "Tiếng Y-đit",
+      "name_en": "Yiddish"
+    },
+    {
+      "ma": "yo",
+      "ten": "Tiếng Yoruba",
+      "name_en": "Yoruba"
+    },
+    {
+      "ma": "yrl",
+      "ten": "Nheengatu",
+      "name_en": "Nheengatu"
+    },
+    {
+      "ma": "yue",
+      "ten": "Tiếng Quảng Đông",
+      "name_en": "Cantonese"
+    },
+    {
+      "ma": "za",
+      "ten": "Tiếng Zhuang",
+      "name_en": "Zhuang"
+    },
+    {
+      "ma": "zap",
+      "ten": "Tiếng Zapotec",
+      "name_en": "Zapotec"
+    },
+    {
+      "ma": "zbl",
+      "ten": "Ký hiệu Blissymbols",
+      "name_en": "Blissymbols"
+    },
+    {
+      "ma": "zea",
+      "ten": "Zeelandic",
+      "name_en": "Zeelandic"
+    },
+    {
+      "ma": "zen",
+      "ten": "Tiếng Zenaga",
+      "name_en": "Zenaga"
+    },
+    {
+      "ma": "zgh",
+      "ten": "Tiếng Tamazight Chuẩn của Ma-rốc",
+      "name_en": "Standard Moroccan Tamazight"
+    },
+    {
+      "ma": "zh",
+      "ten": "Tiếng Trung",
+      "name_en": "Chinese"
+    },
+    {
+      "ma": "zu",
+      "ten": "Tiếng Zulu",
+      "name_en": "Zulu"
+    },
+    {
+      "ma": "zun",
+      "ten": "Tiếng Zuni",
+      "name_en": "Zuni"
+    },
+    {
+      "ma": "zxx",
+      "ten": "Không có nội dung ngôn ngữ",
+      "name_en": "No linguistic content"
+    },
+    {
+      "ma": "zza",
+      "ten": "Tiếng Zaza",
+      "name_en": "Zaza"
+    }
+  ],
+  "meta": {
+    "title": "Ngôn ngữ thế giới - Tải miễn phí",
+    "description": "Danh sách ngôn ngữ trên thế giới — mã ISO 639 / BCP-47 (đã loại 18 biến thể theo vùng như en_AU, pt_BR để giữ ý nghĩa “ngôn ngữ”) kèm tên gọi bằng tiếng Việt, 591 bản ghi. Ví dụ: Tiếng Việt (vi), Tiếng Anh (en), Tiếng Pháp (fr), Tiếng Nhật (ja), Tiếng Trung (zh), Tiếng Hàn (ko), Tiếng Đức (de). Sắp xếp theo mã ngôn ngữ. Một số ngôn ngữ hiếm giữ nguyên tên tiếng Anh từ CLDR (được bảo toàn, không bịa). Nguồn: dữ liệu CLDR (Unicode) qua kho umpirsky/language-list. Bộ ngôn ngữ thế giới ĐẦU TIÊN trong nhóm VI. Chứa 591 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Ngôn ngữ thế giới | ListBase",
+    "seo_description": "Tải xuống Ngôn ngữ thế giới — 591 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 591 bản ghi / 3 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

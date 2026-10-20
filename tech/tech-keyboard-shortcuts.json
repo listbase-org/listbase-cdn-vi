@@ -1,0 +1,603 @@
+{
+  "id": "tech-keyboard-shortcuts",
+  "name": "Tập Dữ Liệu Phím Tắt Phổ Biến cho Windows và macOS",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "action",
+      "label": "Action (EN)",
+      "type": "string"
+    },
+    {
+      "key": "shortcut_win",
+      "label": "Windows",
+      "type": "string"
+    },
+    {
+      "key": "shortcut_mac",
+      "label": "macOS",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "application",
+      "label": "Application",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "action": "Sao chép",
+      "shortcut_win": "Ctrl+C",
+      "shortcut_mac": "Cmd+C",
+      "category": "Phổ quát",
+      "application": "All"
+    },
+    {
+      "action": "Cắt",
+      "shortcut_win": "Ctrl+X",
+      "shortcut_mac": "Cmd+X",
+      "category": "Phổ quát",
+      "application": "All"
+    },
+    {
+      "action": "Dán",
+      "shortcut_win": "Ctrl+V",
+      "shortcut_mac": "Cmd+V",
+      "category": "Phổ quát",
+      "application": "All"
+    },
+    {
+      "action": "Hoàn tác",
+      "shortcut_win": "Ctrl+Z",
+      "shortcut_mac": "Cmd+Z",
+      "category": "Phổ quát",
+      "application": "All"
+    },
+    {
+      "action": "Làm lại",
+      "shortcut_win": "Ctrl+Y",
+      "shortcut_mac": "Cmd+Shift+Z",
+      "category": "Phổ quát",
+      "application": "All"
+    },
+    {
+      "action": "Chọn tất cả",
+      "shortcut_win": "Ctrl+A",
+      "shortcut_mac": "Cmd+A",
+      "category": "Phổ quát",
+      "application": "All"
+    },
+    {
+      "action": "Lưu",
+      "shortcut_win": "Ctrl+S",
+      "shortcut_mac": "Cmd+S",
+      "category": "Phổ quát",
+      "application": "All"
+    },
+    {
+      "action": "Tìm",
+      "shortcut_win": "Ctrl+F",
+      "shortcut_mac": "Cmd+F",
+      "category": "Phổ quát",
+      "application": "All"
+    },
+    {
+      "action": "Tìm và thay thế",
+      "shortcut_win": "Ctrl+H",
+      "shortcut_mac": "Cmd+H",
+      "category": "Phổ quát",
+      "application": "All"
+    },
+    {
+      "action": "In",
+      "shortcut_win": "Ctrl+P",
+      "shortcut_mac": "Cmd+P",
+      "category": "Phổ quát",
+      "application": "All"
+    },
+    {
+      "action": "Mới",
+      "shortcut_win": "Ctrl+N",
+      "shortcut_mac": "Cmd+N",
+      "category": "Phổ quát",
+      "application": "All"
+    },
+    {
+      "action": "Mở",
+      "shortcut_win": "Ctrl+O",
+      "shortcut_mac": "Cmd+O",
+      "category": "Phổ quát",
+      "application": "All"
+    },
+    {
+      "action": "Đóng cửa sổ/thẻ",
+      "shortcut_win": "Ctrl+W",
+      "shortcut_mac": "Cmd+W",
+      "category": "Phổ quát",
+      "application": "All"
+    },
+    {
+      "action": "Thoát ứng dụng",
+      "shortcut_win": "Alt+F4",
+      "shortcut_mac": "Cmd+Q",
+      "category": "Phổ quát",
+      "application": "All"
+    },
+    {
+      "action": "Trợ giúp",
+      "shortcut_win": "F1",
+      "shortcut_mac": "Cmd+Shift+?",
+      "category": "Phổ quát",
+      "application": "All"
+    },
+    {
+      "action": "Hiển thị màn hình nền",
+      "shortcut_win": "Win+D",
+      "shortcut_mac": "F11",
+      "category": "Hệ thống",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Mở File Explorer/Máy tính",
+      "shortcut_win": "Win+E",
+      "shortcut_mac": "Cmd+Shift+C",
+      "category": "Hệ thống",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Khóa màn hình",
+      "shortcut_win": "Win+L",
+      "shortcut_mac": "Ctrl+Cmd+Q",
+      "category": "Hệ thống",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Chế độ xem tác vụ/Mission Control",
+      "shortcut_win": "Win+Tab",
+      "shortcut_mac": "Ctrl+Up",
+      "category": "Hệ thống",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Chuyển đổi ứng dụng",
+      "shortcut_win": "Alt+Tab",
+      "shortcut_mac": "Cmd+Tab",
+      "category": "Hệ thống",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Chụp màn hình vùng chọn",
+      "shortcut_win": "Win+Shift+S",
+      "shortcut_mac": "Cmd+Shift+4",
+      "category": "Hệ thống",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Chụp màn hình toàn bộ",
+      "shortcut_win": "PrtScn",
+      "shortcut_mac": "Cmd+Shift+3",
+      "category": "Hệ thống",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Trình quản lý tác vụ/Buộc thoát",
+      "shortcut_win": "Ctrl+Shift+Esc",
+      "shortcut_mac": "Cmd+Opt+Esc",
+      "category": "Hệ thống",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Chạy/Spotlight",
+      "shortcut_win": "Win+R",
+      "shortcut_mac": "Cmd+Space",
+      "category": "Hệ thống",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Cài đặt/Tùy chọn",
+      "shortcut_win": "Win+I",
+      "shortcut_mac": "Cmd+,",
+      "category": "Hệ thống",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Tab mới",
+      "shortcut_win": "Ctrl+T",
+      "shortcut_mac": "Cmd+T",
+      "category": "Trình duyệt",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Mở lại tab đã đóng",
+      "shortcut_win": "Ctrl+Shift+T",
+      "shortcut_mac": "Cmd+Shift+T",
+      "category": "Trình duyệt",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Tab tiếp theo",
+      "shortcut_win": "Ctrl+Tab",
+      "shortcut_mac": "Ctrl+Tab",
+      "category": "Trình duyệt",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Tab trước",
+      "shortcut_win": "Ctrl+Shift+Tab",
+      "shortcut_mac": "Ctrl+Shift+Tab",
+      "category": "Trình duyệt",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Tập trung vào thanh địa chỉ",
+      "shortcut_win": "Ctrl+L",
+      "shortcut_mac": "Cmd+L",
+      "category": "Trình duyệt",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Tải lại trang",
+      "shortcut_win": "Ctrl+R",
+      "shortcut_mac": "Cmd+R",
+      "category": "Trình duyệt",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Tải lại mạnh (Xóa bộ nhớ đệm)",
+      "shortcut_win": "Ctrl+Shift+R",
+      "shortcut_mac": "Cmd+Shift+R",
+      "category": "Trình duyệt",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Đánh dấu trang",
+      "shortcut_win": "Ctrl+D",
+      "shortcut_mac": "Cmd+D",
+      "category": "Trình duyệt",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Bật/tắt thanh dấu trang",
+      "shortcut_win": "Ctrl+Shift+B",
+      "shortcut_mac": "Cmd+Shift+B",
+      "category": "Trình duyệt",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Tải xuống",
+      "shortcut_win": "Ctrl+J",
+      "shortcut_mac": "Cmd+Shift+J",
+      "category": "Trình duyệt",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Lịch sử",
+      "shortcut_win": "Ctrl+H",
+      "shortcut_mac": "Cmd+Y",
+      "category": "Trình duyệt",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Cửa sổ ẩn danh mới",
+      "shortcut_win": "Ctrl+Shift+N",
+      "shortcut_mac": "Cmd+Shift+N",
+      "category": "Trình duyệt",
+      "application": "Chrome/Edge"
+    },
+    {
+      "action": "Cửa sổ riêng tư mới",
+      "shortcut_win": "Ctrl+Shift+P",
+      "shortcut_mac": "Cmd+Shift+P",
+      "category": "Trình duyệt",
+      "application": "Firefox"
+    },
+    {
+      "action": "Công cụ dành cho nhà phát triển",
+      "shortcut_win": "F12",
+      "shortcut_mac": "Cmd+Opt+I",
+      "category": "Trình duyệt",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Xem mã nguồn trang",
+      "shortcut_win": "Ctrl+U",
+      "shortcut_mac": "Cmd+Opt+U",
+      "category": "Trình duyệt",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Bảng lệnh",
+      "shortcut_win": "Ctrl+Shift+P",
+      "shortcut_mac": "Cmd+Shift+P",
+      "category": "Trình soạn thảo",
+      "application": "VS Code"
+    },
+    {
+      "action": "Mở nhanh tệp",
+      "shortcut_win": "Ctrl+P",
+      "shortcut_mac": "Cmd+P",
+      "category": "Trình soạn thảo",
+      "application": "VS Code"
+    },
+    {
+      "action": "Bật/Tắt Terminal",
+      "shortcut_win": "Ctrl+`",
+      "shortcut_mac": "Ctrl+`",
+      "category": "Trình soạn thảo",
+      "application": "VS Code"
+    },
+    {
+      "action": "Bật/Tắt Thanh bên",
+      "shortcut_win": "Ctrl+B",
+      "shortcut_mac": "Cmd+B",
+      "category": "Trình soạn thảo",
+      "application": "VS Code"
+    },
+    {
+      "action": "Bật/Tắt bình luận dòng",
+      "shortcut_win": "Ctrl+/",
+      "shortcut_mac": "Cmd+/",
+      "category": "Trình soạn thảo",
+      "application": "VS Code"
+    },
+    {
+      "action": "Xóa dòng",
+      "shortcut_win": "Ctrl+Shift+K",
+      "shortcut_mac": "Cmd+Shift+K",
+      "category": "Trình soạn thảo",
+      "application": "VS Code"
+    },
+    {
+      "action": "Di chuyển dòng lên/xuống",
+      "shortcut_win": "Alt+Up/Down",
+      "shortcut_mac": "Opt+Up/Down",
+      "category": "Trình soạn thảo",
+      "application": "VS Code"
+    },
+    {
+      "action": "Chọn lần xuất hiện tiếp theo",
+      "shortcut_win": "Ctrl+D",
+      "shortcut_mac": "Cmd+D",
+      "category": "Trình soạn thảo",
+      "application": "VS Code"
+    },
+    {
+      "action": "Chọn tất cả các lần xuất hiện",
+      "shortcut_win": "Ctrl+Shift+L",
+      "shortcut_mac": "Cmd+Shift+L",
+      "category": "Trình soạn thảo",
+      "application": "VS Code"
+    },
+    {
+      "action": "Đi tới dòng",
+      "shortcut_win": "Ctrl+G",
+      "shortcut_mac": "Ctrl+G",
+      "category": "Trình soạn thảo",
+      "application": "VS Code"
+    },
+    {
+      "action": "Đổi tên biểu tượng",
+      "shortcut_win": "F2",
+      "shortcut_mac": "F2",
+      "category": "Trình soạn thảo",
+      "application": "VS Code"
+    },
+    {
+      "action": "Đi tới định nghĩa",
+      "shortcut_win": "F12",
+      "shortcut_mac": "F12",
+      "category": "Trình soạn thảo",
+      "application": "VS Code"
+    },
+    {
+      "action": "Tìm kiếm trong tệp",
+      "shortcut_win": "Ctrl+Shift+F",
+      "shortcut_mac": "Cmd+Shift+F",
+      "category": "Trình soạn thảo",
+      "application": "VS Code"
+    },
+    {
+      "action": "Thêm bình luận dòng",
+      "shortcut_win": "Ctrl+K Ctrl+C",
+      "shortcut_mac": "Cmd+K Cmd+C",
+      "category": "Trình soạn thảo",
+      "application": "VS Code"
+    },
+    {
+      "action": "Xóa bình luận dòng",
+      "shortcut_win": "Ctrl+K Ctrl+U",
+      "shortcut_mac": "Cmd+K Cmd+U",
+      "category": "Trình soạn thảo",
+      "application": "VS Code"
+    },
+    {
+      "action": "Di chuyển theo từ",
+      "shortcut_win": "Ctrl+Left/Right",
+      "shortcut_mac": "Opt+Left/Right",
+      "category": "Văn bản",
+      "application": "All"
+    },
+    {
+      "action": "Chọn theo từ",
+      "shortcut_win": "Ctrl+Shift+Left/Right",
+      "shortcut_mac": "Opt+Shift+Left/Right",
+      "category": "Văn bản",
+      "application": "All"
+    },
+    {
+      "action": "Đi tới đầu/cuối dòng",
+      "shortcut_win": "Home/End",
+      "shortcut_mac": "Cmd+Left/Right",
+      "category": "Văn bản",
+      "application": "All"
+    },
+    {
+      "action": "Đi tới đầu/cuối tài liệu",
+      "shortcut_win": "Ctrl+Home/End",
+      "shortcut_mac": "Cmd+Up/Down",
+      "category": "Văn bản",
+      "application": "All"
+    },
+    {
+      "action": "Xóa từ phía trước",
+      "shortcut_win": "Ctrl+Backspace",
+      "shortcut_mac": "Opt+Backspace",
+      "category": "Văn bản",
+      "application": "All"
+    },
+    {
+      "action": "Xóa từ sau",
+      "shortcut_win": "Ctrl+Delete",
+      "shortcut_mac": "Opt+Delete",
+      "category": "Văn bản",
+      "application": "All"
+    },
+    {
+      "action": "In đậm",
+      "shortcut_win": "Ctrl+B",
+      "shortcut_mac": "Cmd+B",
+      "category": "Văn bản",
+      "application": "Word Processors"
+    },
+    {
+      "action": "In nghiêng",
+      "shortcut_win": "Ctrl+I",
+      "shortcut_mac": "Cmd+I",
+      "category": "Văn bản",
+      "application": "Word Processors"
+    },
+    {
+      "action": "Gạch chân",
+      "shortcut_win": "Ctrl+U",
+      "shortcut_mac": "Cmd+U",
+      "category": "Văn bản",
+      "application": "Word Processors"
+    },
+    {
+      "action": "Chèn ngày hiện tại",
+      "shortcut_win": "Ctrl+;",
+      "shortcut_mac": "Ctrl+;",
+      "category": "Bảng tính",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Chèn giờ hiện tại",
+      "shortcut_win": "Ctrl+Shift+;",
+      "shortcut_mac": "Cmd+;",
+      "category": "Bảng tính",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Chọn cột",
+      "shortcut_win": "Ctrl+Space",
+      "shortcut_mac": "Ctrl+Space",
+      "category": "Bảng tính",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Chọn hàng",
+      "shortcut_win": "Shift+Space",
+      "shortcut_mac": "Shift+Space",
+      "category": "Bảng tính",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Chèn ô",
+      "shortcut_win": "Ctrl+Shift++",
+      "shortcut_mac": "Cmd+Shift++",
+      "category": "Bảng tính",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Xóa ô",
+      "shortcut_win": "Ctrl+-",
+      "shortcut_mac": "Cmd+-",
+      "category": "Bảng tính",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Bật/tắt tham chiếu tuyệt đối",
+      "shortcut_win": "F4",
+      "shortcut_mac": "Cmd+T",
+      "category": "Bảng tính",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Hiển thị công thức",
+      "shortcut_win": "Ctrl+`",
+      "shortcut_mac": "Ctrl+`",
+      "category": "Bảng tính",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Hủy/Ngắt",
+      "shortcut_win": "Ctrl+C",
+      "shortcut_mac": "Ctrl+C",
+      "category": "Thiết bị đầu cuối",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Xóa màn hình",
+      "shortcut_win": "Ctrl+L",
+      "shortcut_mac": "Cmd+K",
+      "category": "Thiết bị đầu cuối",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Tự động hoàn thành",
+      "shortcut_win": "Tab",
+      "shortcut_mac": "Tab",
+      "category": "Thiết bị đầu cuối",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Lịch sử lệnh",
+      "shortcut_win": "Up/Down",
+      "shortcut_mac": "Up/Down",
+      "category": "Thiết bị đầu cuối",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Tìm kiếm lịch sử lệnh",
+      "shortcut_win": "Ctrl+R",
+      "shortcut_mac": "Ctrl+R",
+      "category": "Thiết bị đầu cuối",
+      "application": "Terminal/Bash"
+    }
+  ],
+  "meta": {
+    "seo_title": "Phím Tắt Phổ Biến - Tải Xuống Miễn Phí (Excel/CSV/PDF)",
+    "seo_description": "Tải miễn phí 77 phím tắt phổ biến cho Windows & macOS. Có sẵn định dạng Excel, CSV, PDF để tăng năng suất làm việc của bạn.",
+    "title": "Tập Dữ Liệu Phím Tắt Phổ Biến cho Windows và macOS",
+    "description": "Tập dữ liệu này cung cấp danh sách đầy đủ 77 phím tắt phổ biến cho cả Windows và macOS, được phân loại theo hành động và ứng dụng. Nâng cao năng suất của bạn với quyền truy cập nhanh vào các lệnh thiết yếu.",
+    "key_takeaways": [
+      "Truy cập 77 phím tắt thiết yếu cho Windows và macOS.",
+      "Khám phá các lệnh chung và lệnh dành riêng cho ứng dụng để nâng cao năng suất.",
+      "Tải xuống danh sách phím tắt toàn diện ở nhiều định dạng tiện lợi.",
+      "Cải thiện hiệu quả quy trình làm việc bằng cách nắm vững các thao tác máy tính thông thường."
+    ],
+    "keywords": [
+      "phím tắt excel",
+      "phím tắt windows csv",
+      "phím tắt macOS pdf",
+      "danh sách phím tắt",
+      "tải phím tắt năng suất",
+      "hotkeys máy tính"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào ứng dụng tùy chỉnh hoặc nền tảng học tập của bạn để tích hợp các tham chiếu phím tắt cho nhà phát triển.",
+      "Sử dụng tệp **Excel** để lọc và sắp xếp các phím tắt theo danh mục, ứng dụng hoặc nền tảng để tạo bảng gian lận và tài liệu đào tạo cá nhân hóa.",
+      "In phiên bản **PDF** để làm hướng dẫn tham khảo tiện dụng trên máy tính để bàn hoặc để phân phát trong các buổi hội thảo giáo dục về kiến thức máy tính.",
+      "Tận dụng dữ liệu này để xây dựng các câu đố tương tác hoặc công cụ trợ giúp dạy người dùng điều hướng và thực thi lệnh hiệu quả."
+    ]
+  },
+  "record_count": 77,
+  "title": "Tập Dữ Liệu Phím Tắt Phổ Biến cho Windows và macOS"
+}

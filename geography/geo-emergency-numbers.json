@@ -1,0 +1,731 @@
+{
+  "id": "geo-emergency-numbers",
+  "name": "Bộ Dữ Liệu Số Điện Thoại Khẩn Cấp Theo Quốc Gia Toàn Cầu",
+  "category": "geography",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "police",
+      "label": "Police",
+      "type": "string"
+    },
+    {
+      "key": "fire",
+      "label": "Fire",
+      "type": "string"
+    },
+    {
+      "key": "ambulance",
+      "label": "Ambulance",
+      "type": "string"
+    },
+    {
+      "key": "general",
+      "label": "General Emergency",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "country": "Argentina",
+      "iso_code": "AR",
+      "police": "101",
+      "fire": "100",
+      "ambulance": "107",
+      "general": "911",
+      "notes": "SAME cho y tế"
+    },
+    {
+      "country": "Úc",
+      "iso_code": "AU",
+      "police": "000",
+      "fire": "000",
+      "ambulance": "000",
+      "general": "000",
+      "notes": "112 từ điện thoại di động"
+    },
+    {
+      "country": "Áo",
+      "iso_code": "AT",
+      "police": "133",
+      "fire": "122",
+      "ambulance": "144",
+      "general": "112",
+      "notes": "Tiêu chuẩn EU 112 cũng hoạt động"
+    },
+    {
+      "country": "Bangladesh",
+      "iso_code": "BD",
+      "police": "999",
+      "fire": "999",
+      "ambulance": "999",
+      "general": "999",
+      "notes": "Khẩn cấp quốc gia"
+    },
+    {
+      "country": "Bỉ",
+      "iso_code": "BE",
+      "police": "101",
+      "fire": "100",
+      "ambulance": "100",
+      "general": "112",
+      "notes": "Tiêu chuẩn EU 112"
+    },
+    {
+      "country": "Brazil",
+      "iso_code": "BR",
+      "police": "190",
+      "fire": "193",
+      "ambulance": "192",
+      "general": "190",
+      "notes": "SAMU: 192"
+    },
+    {
+      "country": "Bulgaria",
+      "iso_code": "BG",
+      "police": "166",
+      "fire": "160",
+      "ambulance": "150",
+      "general": "112",
+      "notes": "Tiêu chuẩn EU 112"
+    },
+    {
+      "country": "Canada",
+      "iso_code": "CA",
+      "police": "911",
+      "fire": "911",
+      "ambulance": "911",
+      "general": "911",
+      "notes": "Khẩn cấp toàn cầu"
+    },
+    {
+      "country": "Chile",
+      "iso_code": "CL",
+      "police": "133",
+      "fire": "132",
+      "ambulance": "131",
+      "general": "131",
+      "notes": "Carabineros: 133"
+    },
+    {
+      "country": "Trung Quốc",
+      "iso_code": "CN",
+      "police": "110",
+      "fire": "119",
+      "ambulance": "120",
+      "general": "110",
+      "notes": "Giao thông: 122"
+    },
+    {
+      "country": "Colombia",
+      "iso_code": "CO",
+      "police": "123",
+      "fire": "119",
+      "ambulance": "123",
+      "general": "123",
+      "notes": "NUSE thống nhất"
+    },
+    {
+      "country": "Croatia",
+      "iso_code": "HR",
+      "police": "192",
+      "fire": "193",
+      "ambulance": "194",
+      "general": "112",
+      "notes": "Tiêu chuẩn EU 112"
+    },
+    {
+      "country": "Síp",
+      "iso_code": "CY",
+      "police": "199",
+      "fire": "199",
+      "ambulance": "199",
+      "general": "112",
+      "notes": "Tiêu chuẩn EU 112"
+    },
+    {
+      "country": "Cộng hòa Séc",
+      "iso_code": "CZ",
+      "police": "158",
+      "fire": "150",
+      "ambulance": "155",
+      "general": "112",
+      "notes": "Tiêu chuẩn EU 112"
+    },
+    {
+      "country": "Đan Mạch",
+      "iso_code": "DK",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Một số duy nhất cho tất cả"
+    },
+    {
+      "country": "Ai Cập",
+      "iso_code": "EG",
+      "police": "122",
+      "fire": "180",
+      "ambulance": "123",
+      "general": "122",
+      "notes": "Cảnh sát du lịch: 126"
+    },
+    {
+      "country": "Estonia",
+      "iso_code": "EE",
+      "police": "110",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Tiêu chuẩn EU 112"
+    },
+    {
+      "country": "Ethiopia",
+      "iso_code": "ET",
+      "police": "991",
+      "fire": "939",
+      "ambulance": "907",
+      "general": "991",
+      "notes": "Hội Chữ thập đỏ: 907"
+    },
+    {
+      "country": "Phần Lan",
+      "iso_code": "FI",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Một số duy nhất cho tất cả"
+    },
+    {
+      "country": "Pháp",
+      "iso_code": "FR",
+      "police": "17",
+      "fire": "18",
+      "ambulance": "15",
+      "general": "112",
+      "notes": "SAMU cho y tế"
+    },
+    {
+      "country": "Đức",
+      "iso_code": "DE",
+      "police": "110",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Tiêu chuẩn EU 112"
+    },
+    {
+      "country": "Ghana",
+      "iso_code": "GH",
+      "police": "191",
+      "fire": "192",
+      "ambulance": "193",
+      "general": "112",
+      "notes": "112 thống nhất"
+    },
+    {
+      "country": "Hy Lạp",
+      "iso_code": "GR",
+      "police": "100",
+      "fire": "199",
+      "ambulance": "166",
+      "general": "112",
+      "notes": "Tiêu chuẩn EU 112"
+    },
+    {
+      "country": "Hồng Kông",
+      "iso_code": "HK",
+      "police": "999",
+      "fire": "999",
+      "ambulance": "999",
+      "general": "999",
+      "notes": "Số duy nhất"
+    },
+    {
+      "country": "Hungary",
+      "iso_code": "HU",
+      "police": "107",
+      "fire": "105",
+      "ambulance": "104",
+      "general": "112",
+      "notes": "Tiêu chuẩn EU 112"
+    },
+    {
+      "country": "Ấn Độ",
+      "iso_code": "IN",
+      "police": "100",
+      "fire": "101",
+      "ambulance": "102",
+      "general": "112",
+      "notes": "112 thống nhất (ERSS)"
+    },
+    {
+      "country": "Indonesia",
+      "iso_code": "ID",
+      "police": "110",
+      "fire": "113",
+      "ambulance": "118",
+      "general": "112",
+      "notes": "112 thống nhất"
+    },
+    {
+      "country": "Ireland",
+      "iso_code": "IE",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "999 cũng hoạt động"
+    },
+    {
+      "country": "Israel",
+      "iso_code": "IL",
+      "police": "100",
+      "fire": "102",
+      "ambulance": "101",
+      "general": "100",
+      "notes": "Xe cấp cứu MDA"
+    },
+    {
+      "country": "Ý",
+      "iso_code": "IT",
+      "police": "113",
+      "fire": "115",
+      "ambulance": "118",
+      "general": "112",
+      "notes": "Carabinieri: 112"
+    },
+    {
+      "country": "Nhật Bản",
+      "iso_code": "JP",
+      "police": "110",
+      "fire": "119",
+      "ambulance": "119",
+      "general": "110",
+      "notes": "Cứu hỏa & cấp cứu cùng số"
+    },
+    {
+      "country": "Jordan",
+      "iso_code": "JO",
+      "police": "911",
+      "fire": "911",
+      "ambulance": "911",
+      "general": "911",
+      "notes": "Hệ thống thống nhất"
+    },
+    {
+      "country": "Kenya",
+      "iso_code": "KE",
+      "police": "999",
+      "fire": "999",
+      "ambulance": "999",
+      "general": "999",
+      "notes": "Số duy nhất"
+    },
+    {
+      "country": "Kuwait",
+      "iso_code": "KW",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Số duy nhất"
+    },
+    {
+      "country": "Latvia",
+      "iso_code": "LV",
+      "police": "110",
+      "fire": "112",
+      "ambulance": "113",
+      "general": "112",
+      "notes": "Tiêu chuẩn EU 112"
+    },
+    {
+      "country": "Li-băng",
+      "iso_code": "LB",
+      "police": "112",
+      "fire": "175",
+      "ambulance": "140",
+      "general": "112",
+      "notes": "Hội Chữ thập đỏ: 140"
+    },
+    {
+      "country": "Litva",
+      "iso_code": "LT",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Một số duy nhất cho tất cả"
+    },
+    {
+      "country": "Luxembourg",
+      "iso_code": "LU",
+      "police": "113",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Tiêu chuẩn EU 112"
+    },
+    {
+      "country": "Malaysia",
+      "iso_code": "MY",
+      "police": "999",
+      "fire": "994",
+      "ambulance": "999",
+      "general": "999",
+      "notes": "Số duy nhất"
+    },
+    {
+      "country": "Malta",
+      "iso_code": "MT",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Một số duy nhất cho tất cả"
+    },
+    {
+      "country": "México",
+      "iso_code": "MX",
+      "police": "911",
+      "fire": "911",
+      "ambulance": "911",
+      "general": "911",
+      "notes": "Thống nhất từ năm 2017"
+    },
+    {
+      "country": "Ma-rốc",
+      "iso_code": "MA",
+      "police": "19",
+      "fire": "15",
+      "ambulance": "15",
+      "general": "19",
+      "notes": "SAMU: 141"
+    },
+    {
+      "country": "Hà Lan",
+      "iso_code": "NL",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Một số duy nhất cho tất cả"
+    },
+    {
+      "country": "New Zealand",
+      "iso_code": "NZ",
+      "police": "111",
+      "fire": "111",
+      "ambulance": "111",
+      "general": "111",
+      "notes": "Một số duy nhất"
+    },
+    {
+      "country": "Nigeria",
+      "iso_code": "NG",
+      "police": "199",
+      "fire": "199",
+      "ambulance": "199",
+      "general": "112",
+      "notes": "112 thống nhất"
+    },
+    {
+      "country": "Na Uy",
+      "iso_code": "NO",
+      "police": "112",
+      "fire": "110",
+      "ambulance": "113",
+      "general": "112",
+      "notes": "Tiêu chuẩn EU 112"
+    },
+    {
+      "country": "Pakistan",
+      "iso_code": "PK",
+      "police": "15",
+      "fire": "16",
+      "ambulance": "115",
+      "general": "15",
+      "notes": "Cứu hộ 1122 ở Punjab"
+    },
+    {
+      "country": "Peru",
+      "iso_code": "PE",
+      "police": "105",
+      "fire": "116",
+      "ambulance": "117",
+      "general": "105",
+      "notes": "Cảnh sát PNP"
+    },
+    {
+      "country": "Philippines",
+      "iso_code": "PH",
+      "police": "117",
+      "fire": "160",
+      "ambulance": "161",
+      "general": "911",
+      "notes": "911 từ năm 2016"
+    },
+    {
+      "country": "Ba Lan",
+      "iso_code": "PL",
+      "police": "997",
+      "fire": "998",
+      "ambulance": "999",
+      "general": "112",
+      "notes": "Tiêu chuẩn EU 112"
+    },
+    {
+      "country": "Bồ Đào Nha",
+      "iso_code": "PT",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Một số duy nhất cho tất cả"
+    },
+    {
+      "country": "Qatar",
+      "iso_code": "QA",
+      "police": "999",
+      "fire": "999",
+      "ambulance": "999",
+      "general": "999",
+      "notes": "Một số duy nhất"
+    },
+    {
+      "country": "Romania",
+      "iso_code": "RO",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Một số duy nhất cho tất cả"
+    },
+    {
+      "country": "Nga",
+      "iso_code": "RU",
+      "police": "102",
+      "fire": "101",
+      "ambulance": "103",
+      "general": "112",
+      "notes": "112 thống nhất"
+    },
+    {
+      "country": "Ả Rập Xê Út",
+      "iso_code": "SA",
+      "police": "999",
+      "fire": "998",
+      "ambulance": "997",
+      "general": "911",
+      "notes": "911 thống nhất"
+    },
+    {
+      "country": "Singapore",
+      "iso_code": "SG",
+      "police": "999",
+      "fire": "995",
+      "ambulance": "995",
+      "general": "999",
+      "notes": "Cứu hỏa & cấp cứu cùng số"
+    },
+    {
+      "country": "Slovakia",
+      "iso_code": "SK",
+      "police": "158",
+      "fire": "150",
+      "ambulance": "155",
+      "general": "112",
+      "notes": "Tiêu chuẩn EU 112"
+    },
+    {
+      "country": "Slovenia",
+      "iso_code": "SI",
+      "police": "113",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Tiêu chuẩn EU 112"
+    },
+    {
+      "country": "Nam Phi",
+      "iso_code": "ZA",
+      "police": "10111",
+      "fire": "10177",
+      "ambulance": "10177",
+      "general": "112",
+      "notes": "112 từ điện thoại di động"
+    },
+    {
+      "country": "Hàn Quốc",
+      "iso_code": "KR",
+      "police": "112",
+      "fire": "119",
+      "ambulance": "119",
+      "general": "112",
+      "notes": "Cứu hỏa & cấp cứu cùng số"
+    },
+    {
+      "country": "Tây Ban Nha",
+      "iso_code": "ES",
+      "police": "091",
+      "fire": "080",
+      "ambulance": "061",
+      "general": "112",
+      "notes": "Tiêu chuẩn EU 112"
+    },
+    {
+      "country": "Sri Lanka",
+      "iso_code": "LK",
+      "police": "119",
+      "fire": "110",
+      "ambulance": "110",
+      "general": "119",
+      "notes": "Suwa Seriya: 1990"
+    },
+    {
+      "country": "Thụy Điển",
+      "iso_code": "SE",
+      "police": "112",
+      "fire": "112",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "Số duy nhất cho tất cả các trường hợp"
+    },
+    {
+      "country": "Thụy Sĩ",
+      "iso_code": "CH",
+      "police": "117",
+      "fire": "118",
+      "ambulance": "144",
+      "general": "112",
+      "notes": "112 chuyển hướng đến 117"
+    },
+    {
+      "country": "Đài Loan",
+      "iso_code": "TW",
+      "police": "110",
+      "fire": "119",
+      "ambulance": "119",
+      "general": "110",
+      "notes": "Cứu hỏa & cứu thương cùng số"
+    },
+    {
+      "country": "Thái Lan",
+      "iso_code": "TH",
+      "police": "191",
+      "fire": "199",
+      "ambulance": "1669",
+      "general": "191",
+      "notes": "Cảnh sát du lịch: 1155"
+    },
+    {
+      "country": "Thổ Nhĩ Kỳ",
+      "iso_code": "TR",
+      "police": "155",
+      "fire": "110",
+      "ambulance": "112",
+      "general": "112",
+      "notes": "112 thống nhất"
+    },
+    {
+      "country": "Ukraina",
+      "iso_code": "UA",
+      "police": "102",
+      "fire": "101",
+      "ambulance": "103",
+      "general": "112",
+      "notes": "112 thống nhất"
+    },
+    {
+      "country": "Các Tiểu vương quốc Ả Rập Thống nhất",
+      "iso_code": "AE",
+      "police": "999",
+      "fire": "997",
+      "ambulance": "998",
+      "general": "999",
+      "notes": "Dubai: 901"
+    },
+    {
+      "country": "Vương quốc Anh",
+      "iso_code": "GB",
+      "police": "999",
+      "fire": "999",
+      "ambulance": "999",
+      "general": "999",
+      "notes": "112 cũng hoạt động"
+    },
+    {
+      "country": "Hợp chủng quốc Hoa Kỳ",
+      "iso_code": "US",
+      "police": "911",
+      "fire": "911",
+      "ambulance": "911",
+      "general": "911",
+      "notes": "Khẩn cấp toàn cầu"
+    },
+    {
+      "country": "Venezuela",
+      "iso_code": "VE",
+      "police": "171",
+      "fire": "171",
+      "ambulance": "171",
+      "general": "171",
+      "notes": "Hệ thống thống nhất"
+    },
+    {
+      "country": "Việt Nam",
+      "iso_code": "VN",
+      "police": "113",
+      "fire": "114",
+      "ambulance": "115",
+      "general": "113",
+      "notes": "Các số riêng biệt"
+    }
+  ],
+  "meta": {
+    "seo_title": "Số Điện Thoại Khẩn Cấp Quốc Gia - Tải Miễn Phí (Excel/CSV/PDF)",
+    "seo_description": "Tải miễn phí số điện thoại khẩn cấp thiết yếu cho 73 quốc gia. Bao gồm số cảnh sát, cứu hỏa, cứu thương. Có sẵn định dạng Excel, CSV, và PDF.",
+    "title": "Bộ Dữ Liệu Số Điện Thoại Khẩn Cấp Theo Quốc Gia Toàn Cầu",
+    "description": "Bộ dữ liệu này cung cấp danh sách đầy đủ các số điện thoại khẩn cấp (Cảnh sát, Cứu hỏa, Cứu thương, Khẩn cấp chung) cho 73 quốc gia trên toàn cầu, cùng với mã ISO và ghi chú cụ thể. Đây là tài nguyên vô giá cho du khách, nhà phát triển và nhà nghiên cứu.",
+    "key_takeaways": [
+      "Truy cập danh sách toàn diện các số dịch vụ khẩn cấp cho 73 quốc gia.",
+      "Khám phá các số liên hệ trực tiếp cho Cảnh sát, Cứu hỏa, Cứu thương và các đường dây khẩn cấp chung.",
+      "Tải xuống dữ liệu khẩn cấp quan trọng theo quốc gia ở nhiều định dạng tiện lợi.",
+      "Nhận mã ISO và các ghi chú quan trọng cho các dịch vụ khẩn cấp của mỗi quốc gia."
+    ],
+    "keywords": [
+      "số điện thoại khẩn cấp quốc gia",
+      "liên hệ khẩn cấp toàn cầu",
+      "số cảnh sát cứu hỏa cứu thương",
+      "dịch vụ khẩn cấp quốc tế csv",
+      "số khẩn cấp theo nước excel",
+      "tải số khẩn cấp pdf"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL hoặc ứng dụng của bạn để tích hợp tra cứu liên hệ khẩn cấp theo thời gian thực cho người dùng quốc tế hoặc ứng dụng du lịch.",
+      "Sử dụng tệp **Excel** để lọc, phân tích và báo cáo nhanh chóng về các mẫu số khẩn cấp, tạo một bảng tham chiếu súc tích cho các đội quản lý khủng hoảng.",
+      "In phiên bản **PDF** để có hướng dẫn tham khảo hữu hình, ngoại tuyến, lý tưởng cho khách du lịch, nhà giáo dục hoặc trong các bộ chuẩn bị khẩn cấp nơi truy cập internet có thể bị hạn chế.",
+      "Tận dụng bộ dữ liệu này để nâng cao các ứng dụng an toàn công cộng, phát triển hướng dẫn du lịch hoặc hỗ trợ nghiên cứu về hệ thống và khả năng tiếp cận phản ứng khẩn cấp toàn cầu."
+    ]
+  },
+  "record_count": 73,
+  "title": "Bộ Dữ Liệu Số Điện Thoại Khẩn Cấp Theo Quốc Gia Toàn Cầu"
+}

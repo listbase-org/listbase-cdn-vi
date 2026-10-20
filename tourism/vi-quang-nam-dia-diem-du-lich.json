@@ -1,0 +1,126 @@
+{
+  "id": "vi-quang-nam-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Quảng Nam",
+  "title": "Địa điểm du lịch Quảng Nam",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Quảng Nam (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 76,
+      "ten_dia_diem": "Phố cổ Hội An",
+      "vi_tri": "Quảng Nam",
+      "tinh_truoc_sap_nhap_2025": "Quảng Nam",
+      "mo_ta": "Những ngôi nhà cổ kính và có kiến trúc độc đáo như: những ngôi nhà lợp ngối đá, nhưng bức tường vàng mang lại vẻ đẹp\nyên bình. Đặt biệt bạn có thể thư dãn dạo bước với những đường nhỏ hẹp quanh sông Hoài",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "http://surl.li/tocerf",
+      "tu_khoa": "cổ kính, ngối đá, tường vàng, đường nhỏ hẹp, sông Hoài"
+    },
+    {
+      "stt": 77,
+      "ten_dia_diem": "Bãi biển An Bàng",
+      "vi_tri": "Quảng Nam",
+      "tinh_truoc_sap_nhap_2025": "Quảng Nam",
+      "mo_ta": "Sở hữu vẻ đẹp yên bình, hoang sơ với những bãi các vàng, biển xanh, khí hậu vô cùng mát mẻ và trong lành.",
+      "danh_gia": "4.0/5",
+      "danh_gia_diem": 4,
+      "anh": "http://surl.li/hdwlva",
+      "tu_khoa": "biển, cát vàng, mát mẻ, yên bình, hoang sơ"
+    },
+    {
+      "stt": 78,
+      "ten_dia_diem": "Tháp Chiên Đàn",
+      "vi_tri": "Quảng Nam",
+      "tinh_truoc_sap_nhap_2025": "Quảng Nam",
+      "mo_ta": "Hiểu hơn về văn hóa Champa, sở hữu một nhà trưng bày nhưng tác phẩm điêu khắc tiêu biểu, vô vàn những món đồ quý hiếm",
+      "danh_gia": "3.5/5",
+      "danh_gia_diem": 3.5,
+      "anh": "http://surl.li/sdynak",
+      "tu_khoa": "Champa, điêu khắc, quý hiếm"
+    },
+    {
+      "stt": 79,
+      "ten_dia_diem": "Đỉnh Quế",
+      "vi_tri": "Quảng Nam",
+      "tinh_truoc_sap_nhap_2025": "Quảng Nam",
+      "mo_ta": "Với độ cao 1400km, được coi là ngọn núi đẹp nhất của Trường Sơn hùng vĩ, bạn có thể đắm chìm vào không gian cảnh sắt\nthiên nhiên tươi đẹp. Bạn như lạc vào chốn bồng lai tiên cảnh, yên bình và lãng mạn vô cùng. Đặt biệt dọc để lên được Đỉnh Quế, bạn sẽ lần lượt sở hữu những bức tranh đẹp tại cổng trời Azứt, thác Ra-ai hay cộng đồng Cơ Tu.",
+      "danh_gia": "4.0/5",
+      "danh_gia_diem": 4,
+      "anh": "http://surl.li/ympldh",
+      "tu_khoa": "núi, thiên nhiên, hùng vĩ, tiên cảnh, yên bình, Trường Sơn, Azứt, Ra-ai, Cơ Tu, lãng mạn"
+    },
+    {
+      "stt": 80,
+      "ten_dia_diem": "Thánh Địa Mỹ Sơn",
+      "vi_tri": "Quảng Nam",
+      "tinh_truoc_sap_nhap_2025": "Quảng Nam",
+      "mo_ta": "Một thung lũng có đường kính 2km, Nơi đây bao quanh là núi đồi, vô cùng ẩn mình. Địa điểm này từng là nơi tổ chức cúng tế \nvương triều Champa. Khám quá nhiều di sản quý báu khi đến nới đây.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "http://surl.li/qntmjh",
+      "tu_khoa": "thung lũng, 2km, núi đồi, ẩn mình, cúng tế, Champa, di sản"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Quảng Nam - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Quảng Nam (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Quảng Nam | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Quảng Nam — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

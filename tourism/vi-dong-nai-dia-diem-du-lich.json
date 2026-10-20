@@ -1,0 +1,126 @@
+{
+  "id": "vi-dong-nai-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Đồng Nai",
+  "title": "Địa điểm du lịch Đồng Nai",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Đồng Nai (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "number"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 256,
+      "ten_dia_diem": "Vườn quốc gia Cát Tiên",
+      "vi_tri": "Đồng Nai",
+      "tinh_truoc_sap_nhap_2025": "Đồng Nai",
+      "mo_ta": "Một trong những vườn quốc gia nổi tiếng nhất Việt Nam, nằm ở tỉnh Đồng Nai. Nơi đây sở hữu hệ sinh thái phong phú với nhiều loài động thực vật quý hiếm, cùng các hoạt động như khám phá rừng, ngắm chim và dã ngoại.",
+      "danh_gia": "4.9",
+      "danh_gia_diem": 4.9,
+      "anh": "https://cattiennationalpark.com.vn/wp-content/uploads/2023/03/word-image-6772-3-768x512.jpeg",
+      "tu_khoa": "di sản, lịch sử, văn hóa"
+    },
+    {
+      "stt": 257,
+      "ten_dia_diem": "Khu du lịch Bửu Long",
+      "vi_tri": "Đồng Nai",
+      "tinh_truoc_sap_nhap_2025": "Đồng Nai",
+      "mo_ta": "Được ví như “Vịnh Hạ Long thu nhỏ” ở Đồng Nai, Bửu Long nổi bật với hồ nước trong xanh, núi đá và cảnh quan thơ mộng. Đây là nơi lý tưởng cho các hoạt động dã ngoại, cắm trại và chụp ảnh.",
+      "danh_gia": "3.3",
+      "danh_gia_diem": 3.3,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRUQFhtdPrAb32sIE09O6TgymIvvjoRn5JSA&s",
+      "tu_khoa": "địa phương, độc đáo, khám phá"
+    },
+    {
+      "stt": 258,
+      "ten_dia_diem": "Hồ Trị An",
+      "vi_tri": "Đồng Nai",
+      "tinh_truoc_sap_nhap_2025": "Đồng Nai",
+      "mo_ta": "Hồ Trị An với trên 70 đảo lớn, nhỏ và nhiều đảo trong số này có cư dân sinh sống, cộng thêm vài hòn đảo có diện tích lớn được khai thác du lịch gần chục năm trở lại đây đã trở thành điểm nhấn của sông nước Trị An",
+      "danh_gia": "4.9",
+      "danh_gia_diem": 4.9,
+      "anh": "https://mia.vn/media/uploads/blog-du-lich/camping-ho-tri-an-4-1693238728.jpg",
+      "tu_khoa": "thiên nhiên, du lịch, hòa bình"
+    },
+    {
+      "stt": 259,
+      "ten_dia_diem": "Đảo Ó",
+      "vi_tri": "Đồng Nai",
+      "tinh_truoc_sap_nhap_2025": "Đồng Nai",
+      "mo_ta": "Một hòn đảo nằm giữa lòng hồ Trị An, sở hữu không gian xanh mát và trong lành. Đảo Ó là điểm đến hấp dẫn cho các hoạt động dã ngoại, cắm trại, và thưởng ngoạn thiên nhiên.",
+      "danh_gia": "3.5",
+      "danh_gia_diem": 3.5,
+      "anh": "https://zoomtravel.vn/upload/news/vien-ngoc-giua-long-ho-tri-an-thien-nhien-hoang-so-ky-vi12230.jpg",
+      "tu_khoa": "cảnh quan, địa danh, nổi bật"
+    },
+    {
+      "stt": 260,
+      "ten_dia_diem": "Thác Giang Điền",
+      "vi_tri": "Đồng Nai",
+      "tinh_truoc_sap_nhap_2025": "Đồng Nai",
+      "mo_ta": "Một thác nước đẹp ở Đồng Nai, được bao quanh bởi rừng cây xanh mát. Thác Giang Điền là địa điểm du lịch sinh thái, hấp dẫn cho các hoạt động nghỉ dưỡng, picnic và chụp ảnh kỷ niệm.",
+      "danh_gia": "3",
+      "danh_gia_diem": 3,
+      "anh": "https://mia.vn/media/uploads/blog-du-lich/thac-giang-dien-va-nhung-trai-nghiem-thu-vi-co-mot-khong-hai-03-1689266277.jpg",
+      "tu_khoa": "khám phá, thiên nhiên, thư giãn"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Đồng Nai - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Đồng Nai (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Đồng Nai | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Đồng Nai — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

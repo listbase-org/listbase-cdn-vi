@@ -1,0 +1,467 @@
+{
+  "id": "vi-truong-hoc",
+  "name": "Trường học ở Việt Nam",
+  "title": "Trường học ở Việt Nam",
+  "description": "Danh sách trường học (P31 = wd:Q3914) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-20. Mỗi thực thể bắt buộc có toạ độ WGS84 (P625) và ít nhất một nhãn tiếng Việt hoặc tiếng Anh (theo quy tắc name_vi-OR-name_en của dự án). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikidata. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 36/36 toạ độ, 25/36 nhãn tiếng Việt.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_vi",
+      "label": "Admin Area Vi",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q4650171",
+      "name_vi": "",
+      "name_en": "ABC International School",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.734067,
+      "longitude": 106.691683,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4650171"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q4650658",
+      "name_vi": "",
+      "name_en": "ACG International School Vietnam",
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "latitude": 10.7897,
+      "longitude": 106.75,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4650658"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q16826319",
+      "name_vi": "",
+      "name_en": "Australian International School, Vietnam",
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "latitude": 10.8174,
+      "longitude": 106.73,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16826319"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q25112350",
+      "name_vi": "",
+      "name_en": "British Vietnamese International School in Ho Chi Minh City",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.721,
+      "longitude": 106.6846,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25112350"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q18206616",
+      "name_vi": "",
+      "name_en": "EUROPEAN International School HCMC",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.8056,
+      "longitude": 106.735,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18206616"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q25052036",
+      "name_vi": "",
+      "name_en": "FOSCO International School",
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "latitude": 10.77755,
+      "longitude": 106.68807,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25052036"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q19892737",
+      "name_vi": "",
+      "name_en": "Hùng Vương High School",
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "latitude": 10.75607,
+      "longitude": 106.66402,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19892737"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q10771887",
+      "name_vi": "Học viện Hậu cần",
+      "name_en": "",
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "latitude": 21.06619899,
+      "longitude": 105.875808815,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10771887"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q10771896",
+      "name_vi": "Học viện Quân Y",
+      "name_en": "",
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "latitude": 20.966828598,
+      "longitude": 105.7884374,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10771896"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q10771903",
+      "name_vi": "Học viện Quốc phòng Việt Nam",
+      "name_en": "",
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "latitude": 21.047038994,
+      "longitude": 105.801825284,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10771903"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q21060695",
+      "name_vi": "",
+      "name_en": "Korean International School in Hanoi",
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "latitude": 21.0436646,
+      "longitude": 105.7731281,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21060695"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q7312423",
+      "name_vi": "",
+      "name_en": "Renaissance International School Saigon",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.7381,
+      "longitude": 106.724,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7312423"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q137735270",
+      "name_vi": "Titan Hà Nội",
+      "name_en": "Titan Hanoi",
+      "admin_area_vi": "Yên Hòa",
+      "admin_area_en": "Yên Hòa",
+      "latitude": 21.008268901,
+      "longitude": 105.797685677,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137735270"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q10828808",
+      "name_vi": "Trường Cao đẳng Sư phạm Đà Lạt",
+      "name_en": "Lycée Yersin",
+      "admin_area_vi": "Đà Lạt",
+      "admin_area_en": "Đà Lạt",
+      "latitude": 11.94633889,
+      "longitude": 108.4529333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10828808"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q21000469",
+      "name_vi": "Trường Hàn Quốc ở Thành phố Hồ Chí Minh",
+      "name_en": "Korean International School, HCMC",
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "latitude": 10.7221,
+      "longitude": 106.7324,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21000469"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q10828871",
+      "name_vi": "Trường Phổ thông Dân tộc Nội trú Lâm Đồng",
+      "name_en": "Couvent des Oiseaux",
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "latitude": 11.93882222,
+      "longitude": 108.4274528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10828871"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q106909425",
+      "name_vi": "Trường Phổ thông liên cấp Nguyễn Siêu",
+      "name_en": "Nguyễn Siêu School",
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "latitude": 21.01694701,
+      "longitude": 105.789668042,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106909425"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q4971196",
+      "name_vi": "Trường Quốc tế Anh Thành phố Hồ Chí Minh",
+      "name_en": "British Vietnamese International School",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.721,
+      "longitude": 106.685,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4971196"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q24190587",
+      "name_vi": "Trường Quốc tế Canada - CIS",
+      "name_en": "Canadian International School Vietnam",
+      "admin_area_vi": "Khu đô thị Phú Mỹ Hưng",
+      "admin_area_en": "Phú Mỹ Hưng Urban Area",
+      "latitude": 10.714391,
+      "longitude": 106.729837,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24190587"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q7400081",
+      "name_vi": "Trường Quốc tế Nam Sài Gòn",
+      "name_en": "Saigon South International School",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.7238,
+      "longitude": 106.709,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7400081"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q3578023",
+      "name_vi": "Trường Quốc tế Thành phố Hồ Chí Minh",
+      "name_en": "International School Ho Chi Minh City",
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "latitude": 10.8077,
+      "longitude": 106.709,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3578023"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q4744175",
+      "name_vi": "Trường Quốc tế Thành phố Hồ Chí Minh - Học viện Mỹ",
+      "name_en": "American International School Vietnam",
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "latitude": 10.7578,
+      "longitude": 106.685,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4744175"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q55639366",
+      "name_vi": "Trường Quốc tế Đa cấp Anh - Hà Nội",
+      "name_en": "British International School Hanoi",
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "latitude": 21.044444,
+      "longitude": 105.919167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55639366"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q135210920",
+      "name_vi": "",
+      "name_en": "Trường Tiểu Học Bến Quan (B)",
+      "admin_area_vi": "Bến Quan",
+      "admin_area_en": "Bến Quan",
+      "latitude": 17.02104664,
+      "longitude": 106.8823128,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135210920"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q116297155",
+      "name_vi": "Trường Tiểu học Thăng Long",
+      "name_en": "Thang Long Primary School",
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "latitude": 21.0307,
+      "longitude": 105.84525,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116297155"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q10828934",
+      "name_vi": "Trường Trung học cơ sở Trưng Vương",
+      "name_en": "Trung Vuong secondary school",
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "latitude": 21.0234,
+      "longitude": 105.85243,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10828934"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q3658458",
+      "name_vi": "Trường Trung học cơ sở Trưng Vương, Nha Trang",
+      "name_en": "Trung Vuong",
+      "admin_area_vi": "Nha Trang",
+      "admin_area_en": "Nha Trang",
+      "latitude": 12.2543,
+      "longitude": 109.19,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3658458"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q107985631",
+      "name_vi": "Trường Trung học cơ sở – Trung học phổ thông Nguyễn Khuyến, Đà Nẵng",
+      "name_en": "Nguyen Khuyen middle school, Da Nang",
+      "admin_area_vi": "Cẩm Lệ",
+      "admin_area_en": "Cẩm Lệ",
+      "latitude": 16.031083333,
+      "longitude": 108.214194444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107985631"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q111326795",
+      "name_vi": "Trường Trung Học Nguyễn Bỉnh Khiêm",
+      "name_en": "Nguyen Binh Khiem High School",
+      "admin_area_vi": "Cầu Giấy",
+      "admin_area_en": "Cầu Giấy",
+      "latitude": 21.04167,
+      "longitude": 105.787568,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111326795"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q115195611",
+      "name_vi": "Trường Trung học phổ thông B Nghĩa Hưng",
+      "name_en": "",
+      "admin_area_vi": "Nghĩa Hưng",
+      "admin_area_en": "Nghĩa Hưng",
+      "latitude": 20.054444444,
+      "longitude": 106.183611111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115195611"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q113613764",
+      "name_vi": "Trường Trung học phổ thông Hòa Ninh",
+      "name_en": "Hoa Ninh High School",
+      "admin_area_vi": "Vĩnh Long",
+      "admin_area_en": "Vĩnh Long",
+      "latitude": 10.28067,
+      "longitude": 105.9976,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113613764"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q115468458",
+      "name_vi": "Trường Trung học phổ thông Lý Tự Trọng, Khánh Hòa",
+      "name_en": "Ly Tu Trong Highschool, Khanh Hoa",
+      "admin_area_vi": "Khánh Hòa",
+      "admin_area_en": "Khánh Hòa",
+      "latitude": 12.24719,
+      "longitude": 109.19316,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115468458"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q22031777",
+      "name_vi": "Trường Đài Bắc ở Thành phố Hồ Chí Minh",
+      "name_en": "Taipei School in Ho Chi Minh City",
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "latitude": 10.7244051,
+      "longitude": 106.7303538,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22031777"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q10829028",
+      "name_vi": "Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội",
+      "name_en": "VNU University of Engineering and Technology",
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "latitude": 21.0382361,
+      "longitude": 105.7820758,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10829028"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q61128886",
+      "name_vi": "Trường Đại học Nam Cần Thơ",
+      "name_en": "Nam Can Tho University",
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "latitude": 10.0070868,
+      "longitude": 105.7226855,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61128886"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q7888445",
+      "name_vi": "",
+      "name_en": "United Nations International School of Hanoi",
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "latitude": 21.0751,
+      "longitude": 105.807,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7888445"
+    }
+  ],
+  "meta": {
+    "title": "Trường học ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách trường học (P31 = wd:Q3914) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-20. Mỗi thực thể bắt buộc có toạ độ WGS84 (P625) và ít nhất một nhãn tiếng Việt hoặc tiếng Anh (theo quy tắc name_vi-OR-name_en của dự án). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikidata. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 36/36 toạ độ, 25/36 nhãn tiếng Việt. Chứa 36 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Trường học ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Trường học ở Việt Nam — 36 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 36 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

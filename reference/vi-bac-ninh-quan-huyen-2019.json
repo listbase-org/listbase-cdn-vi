@@ -1,0 +1,146 @@
+{
+  "id": "vi-bac-ninh-quan-huyen-2019",
+  "name": "Bắc Ninh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Bắc Ninh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 8 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Bắc Ninh theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 6 Huyện, 1 Thành phố, 1 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/BN.json). (8 district-level units of Bắc Ninh under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "BN-01",
+      "name": "Bắc Ninh",
+      "name_full": "Thành phố Bắc Ninh",
+      "slug": "bac-ninh",
+      "division_type": "Thành phố",
+      "province_code": "BN",
+      "province_name": "Bắc Ninh",
+      "ward_count": 19
+    },
+    {
+      "code": "BN-02",
+      "name": "Gia Bình",
+      "name_full": "Huyện Gia Bình",
+      "slug": "gia-binh",
+      "division_type": "Huyện",
+      "province_code": "BN",
+      "province_name": "Bắc Ninh",
+      "ward_count": 14
+    },
+    {
+      "code": "BN-03",
+      "name": "Lương Tài",
+      "name_full": "Huyện Lương Tài",
+      "slug": "luong-tai",
+      "division_type": "Huyện",
+      "province_code": "BN",
+      "province_name": "Bắc Ninh",
+      "ward_count": 14
+    },
+    {
+      "code": "BN-04",
+      "name": "Quế Võ",
+      "name_full": "Huyện Quế Võ",
+      "slug": "que-vo",
+      "division_type": "Huyện",
+      "province_code": "BN",
+      "province_name": "Bắc Ninh",
+      "ward_count": 21
+    },
+    {
+      "code": "BN-05",
+      "name": "Thuận Thành",
+      "name_full": "Huyện Thuận Thành",
+      "slug": "thuan-thanh",
+      "division_type": "Huyện",
+      "province_code": "BN",
+      "province_name": "Bắc Ninh",
+      "ward_count": 19
+    },
+    {
+      "code": "BN-06",
+      "name": "Tiên Du",
+      "name_full": "Huyện Tiên Du",
+      "slug": "tien-du",
+      "division_type": "Huyện",
+      "province_code": "BN",
+      "province_name": "Bắc Ninh",
+      "ward_count": 14
+    },
+    {
+      "code": "BN-07",
+      "name": "Từ Sơn",
+      "name_full": "Thị xã Từ Sơn",
+      "slug": "tu-son",
+      "division_type": "Thị xã",
+      "province_code": "BN",
+      "province_name": "Bắc Ninh",
+      "ward_count": 13
+    },
+    {
+      "code": "BN-08",
+      "name": "Yên Phong",
+      "name_full": "Huyện Yên Phong",
+      "slug": "yen-phong",
+      "division_type": "Huyện",
+      "province_code": "BN",
+      "province_name": "Bắc Ninh",
+      "ward_count": 14
+    }
+  ],
+  "meta": {
+    "title": "Bắc Ninh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 8 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Bắc Ninh theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 6 Huyện, 1 Thành phố, 1 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/BN.json). (8 district-level units of Bắc Ninh under the pre-2025-merger 3-tier hierarchy.) Chứa 8 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Bắc Ninh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Bắc Ninh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 8 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 8 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

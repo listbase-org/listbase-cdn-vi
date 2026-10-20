@@ -1,0 +1,361 @@
+{
+  "id": "tech-logic-gates",
+  "name": "Bộ Dữ Liệu Bảng Chân Lý Cổng Logic",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "gate",
+      "label": "Gate Type",
+      "type": "string"
+    },
+    {
+      "key": "inputs",
+      "label": "Number of Inputs",
+      "type": "number"
+    },
+    {
+      "key": "input_a",
+      "label": "Input A",
+      "type": "number"
+    },
+    {
+      "key": "input_b",
+      "label": "Input B",
+      "type": "number"
+    },
+    {
+      "key": "output",
+      "label": "Output",
+      "type": "number"
+    },
+    {
+      "key": "expression",
+      "label": "Boolean Expression",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "gate": "NOT",
+      "inputs": 1,
+      "input_a": 0,
+      "input_b": "-",
+      "output": 1,
+      "expression": "¬A",
+      "description": "Đảo ngược đầu vào"
+    },
+    {
+      "gate": "NOT",
+      "inputs": 1,
+      "input_a": 1,
+      "input_b": "-",
+      "output": 0,
+      "expression": "¬A",
+      "description": "Đảo ngược đầu vào"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ∧ B",
+      "description": "Đầu ra là 1 chỉ khi cả hai đầu vào là 1"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 0,
+      "expression": "A ∧ B",
+      "description": "Đầu ra là 1 chỉ khi cả hai đầu vào là 1"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ∧ B",
+      "description": "Đầu ra là 1 chỉ khi cả hai đầu vào là 1"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ∧ B",
+      "description": "Đầu ra là 1 chỉ khi cả hai đầu vào là 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ∨ B",
+      "description": "Đầu ra là 1 nếu bất kỳ đầu vào nào là 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ∨ B",
+      "description": "Đầu ra là 1 nếu bất kỳ đầu vào nào là 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 1,
+      "expression": "A ∨ B",
+      "description": "Đầu ra là 1 nếu bất kỳ đầu vào nào là 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ∨ B",
+      "description": "Đầu ra là 1 nếu bất kỳ đầu vào nào là 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ∧ B)",
+      "description": "NOT AND - Đầu ra là 0 chỉ khi cả hai đầu vào là 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "¬(A ∧ B)",
+      "description": "NOT AND - Đầu ra là 0 chỉ khi cả hai đầu vào là 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ∧ B)",
+      "description": "NOT AND - Đầu ra là 0 chỉ khi cả hai đầu vào là 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ∧ B)",
+      "description": "NOT AND - Đầu ra là 0 chỉ khi cả hai đầu vào là 1"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ∨ B)",
+      "description": "NOT OR - Đầu ra là 1 chỉ khi cả hai đầu vào là 0"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ∨ B)",
+      "description": "NOT OR - Đầu ra là 1 chỉ khi cả hai đầu vào là 0"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "¬(A ∨ B)",
+      "description": "NOT OR - Đầu ra là 1 chỉ khi cả hai đầu vào là 0"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ∨ B)",
+      "description": "NOT OR - Đầu ra là 1 chỉ khi cả hai đầu vào là 0"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ⊕ B",
+      "description": "Đầu ra là 1 nếu các đầu vào khác nhau"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ⊕ B",
+      "description": "Đầu ra là 1 nếu các đầu vào khác nhau"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 1,
+      "expression": "A ⊕ B",
+      "description": "Đầu ra là 1 nếu đầu vào khác nhau"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 0,
+      "expression": "A ⊕ B",
+      "description": "Đầu ra là 1 nếu đầu vào khác nhau"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ⊕ B)",
+      "description": "Đầu ra là 1 nếu đầu vào giống nhau"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ⊕ B)",
+      "description": "Đầu ra là 1 nếu đầu vào giống nhau"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "¬(A ⊕ B)",
+      "description": "Đầu ra là 1 nếu đầu vào giống nhau"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "¬(A ⊕ B)",
+      "description": "Đầu ra là 1 nếu đầu vào giống nhau"
+    },
+    {
+      "gate": "BUFFER",
+      "inputs": 1,
+      "input_a": 0,
+      "input_b": "-",
+      "output": 0,
+      "expression": "A",
+      "description": "Đầu ra bằng đầu vào (bộ khuếch đại tín hiệu)"
+    },
+    {
+      "gate": "BUFFER",
+      "inputs": 1,
+      "input_a": 1,
+      "input_b": "-",
+      "output": 1,
+      "expression": "A",
+      "description": "Đầu ra bằng đầu vào (bộ khuếch đại tín hiệu)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "A → B",
+      "description": "Suy luận logic (nếu A thì B)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A → B",
+      "description": "Suy luận logic (nếu A thì B)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A → B",
+      "description": "Suy luận logic (nếu A thì B)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A → B",
+      "description": "Suy luận logic (nếu A thì B)"
+    }
+  ],
+  "meta": {
+    "seo_title": "Bảng Chân Lý Cổng Logic - Tải Miễn Phí (Excel/CSV/PDF)",
+    "seo_description": "Tải miễn phí 32 bảng chân lý cổng logic kèm biểu thức Boolean. Cần thiết cho điện tử số và khoa học máy tính. Có sẵn định dạng Excel, CSV, PDF.",
+    "title": "Bộ Dữ Liệu Bảng Chân Lý Cổng Logic",
+    "description": "Bộ dữ liệu này cung cấp bảng chân lý toàn diện cho 32 cổng logic phổ biến, bao gồm trạng thái đầu vào/đầu ra, biểu thức Boolean và mô tả. Lý tưởng cho việc học và tham khảo điện tử số.",
+    "key_takeaways": [
+      "Truy cập bảng chân lý cho 32 cổng logic cơ bản.",
+      "Khám phá các biểu thức Boolean và mô tả hoạt động cho từng cổng.",
+      "Tải xuống dữ liệu sẵn dùng cho thiết kế và nghiên cứu logic số.",
+      "Sử dụng loại cổng, đầu vào và đầu ra để mô phỏng mạch số."
+    ],
+    "keywords": [
+      "bảng chân lý cổng logic excel",
+      "tập dữ liệu đại số boolean csv",
+      "cổng logic số pdf",
+      "dữ liệu bảng chân lý điện tử",
+      "tải cổng logic miễn phí"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào các tập lệnh Python hoặc cơ sở dữ liệu SQL của bạn để phân tích hành vi cổng một cách có lập trình hoặc xây dựng các trình mô phỏng mạch số.",
+      "Sử dụng tệp **Excel** để lọc các cổng theo loại, tạo chế độ xem bảng chân lý tùy chỉnh hoặc tính toán logic cổng cho mục đích giáo dục.",
+      "In phiên bản **PDF** để tham khảo trong lớp học, học ngoại tuyến hoặc đưa vào các bài thuyết trình về nguyên tắc cơ bản của điện tử số.",
+      "Tận dụng bộ dữ liệu này để nhanh chóng xác minh đầu ra cổng logic hoặc làm tài nguyên cơ bản để thiết kế các hệ thống số phức tạp."
+    ]
+  },
+  "record_count": 32,
+  "title": "Bộ Dữ Liệu Bảng Chân Lý Cổng Logic"
+}

@@ -1,0 +1,126 @@
+{
+  "id": "vi-bac-ninh-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Bắc Ninh",
+  "title": "Địa điểm du lịch Bắc Ninh",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Bắc Ninh (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 166,
+      "ten_dia_diem": "Chùa Phật Tích",
+      "vi_tri": "Bắc Ninh",
+      "tinh_truoc_sap_nhap_2025": "Bắc Ninh",
+      "mo_ta": "Đây là một trong những ngôi chùa cổ, gắn liền với lịch sử Phật giáo Việt Nam.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://owa.bestprice.vn/images/destinations/uploads/chua-phat-tich-600fc98393ec1.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 167,
+      "ten_dia_diem": "Chùa Bút Tháp",
+      "vi_tri": "Bắc Ninh",
+      "tinh_truoc_sap_nhap_2025": "Bắc Ninh",
+      "mo_ta": "Chùa Bút Tháp nằm ở Bắc Ninh, là một ngôi chùa nổi tiếng với kiến trúc độc đáo và tượng Phật Bà Quan Âm.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://bacninh.gov.vn/documents/135051/27556595/Butthap1.jpg/715b96c9-a9ab-43b6-ae18-8f7424283cf0?t=1599724975786",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 168,
+      "ten_dia_diem": "Làng tranh Đông Hồ",
+      "vi_tri": "Bắc Ninh",
+      "tinh_truoc_sap_nhap_2025": "Bắc Ninh",
+      "mo_ta": "Làng tranh Đông Hồ ở Bắc Ninh là nơi sản xuất tranh dân gian nổi tiếng, với những bức tranh phản ánh đời sống nông thôn Việt Nam.",
+      "danh_gia": "4.9/5",
+      "danh_gia_diem": 4.9,
+      "anh": "https://gaohouse.vn/wp-content/uploads/2024/07/lang-tranh-dong-ho.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 169,
+      "ten_dia_diem": "Đền bà Chúa Kho",
+      "vi_tri": "Bắc Ninh",
+      "tinh_truoc_sap_nhap_2025": "Bắc Ninh",
+      "mo_ta": "Đền Bà Chúa Kho ở Bắc Ninh là nơi thờ bà Chúa Kho, một trong những vị thần được thờ cúng linh thiêng nhất ở Việt Nam",
+      "danh_gia": "4.1/5",
+      "danh_gia_diem": 4.1,
+      "anh": "https://denbachuakho.com.vn/wp-content/uploads/2021/09/den-ba-chua-kho-tho-ai.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 170,
+      "ten_dia_diem": "Chợ Ninh Hiệp",
+      "vi_tri": "Bắc Ninh",
+      "tinh_truoc_sap_nhap_2025": "Bắc Ninh",
+      "mo_ta": "Chợ Ninh Hiệp là một trong những khu chợ nổi tiếng nhất miền Bắc, chuyên buôn bán các mặt hàng vải vóc, quần áo.",
+      "danh_gia": "4.4/5",
+      "danh_gia_diem": 4.4,
+      "anh": "https://davitrans.com/images/2020/10/27/cho-ninh-hiep-hn.jpg",
+      "tu_khoa": ""
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Bắc Ninh - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Bắc Ninh (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Bắc Ninh | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Bắc Ninh — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

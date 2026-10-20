@@ -1,0 +1,336 @@
+{
+  "id": "vi-thanh-hoa-quan-huyen-2019",
+  "name": "Thanh Hóa — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Thanh Hóa — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 27 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Thanh Hóa theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 24 Huyện, 2 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/TH.json). (27 district-level units of Thanh Hóa under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "TH-01",
+      "name": "Bá Thước",
+      "name_full": "Huyện Bá Thước",
+      "slug": "ba-thuoc",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 23
+    },
+    {
+      "code": "TH-02",
+      "name": "Bỉm Sơn",
+      "name_full": "Thị xã Bỉm Sơn",
+      "slug": "bim-son",
+      "division_type": "Thị xã",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 8
+    },
+    {
+      "code": "TH-03",
+      "name": "Cẩm Thủy",
+      "name_full": "Huyện Cẩm Thủy",
+      "slug": "cam-thuy",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 20
+    },
+    {
+      "code": "TH-04",
+      "name": "Đông Sơn",
+      "name_full": "Huyện Đông Sơn",
+      "slug": "dong-son",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 16
+    },
+    {
+      "code": "TH-05",
+      "name": "Hà Trung",
+      "name_full": "Huyện Hà Trung",
+      "slug": "ha-trung",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 25
+    },
+    {
+      "code": "TH-06",
+      "name": "Hậu Lộc",
+      "name_full": "Huyện Hậu Lộc",
+      "slug": "hau-loc",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 27
+    },
+    {
+      "code": "TH-07",
+      "name": "Hoằng Hóa",
+      "name_full": "Huyện Hoằng Hóa",
+      "slug": "hoang-hoa",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 43
+    },
+    {
+      "code": "TH-08",
+      "name": "Lang Chánh",
+      "name_full": "Huyện Lang Chánh",
+      "slug": "lang-chanh",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 11
+    },
+    {
+      "code": "TH-09",
+      "name": "Mường Lát",
+      "name_full": "Huyện Mường Lát",
+      "slug": "muong-lat",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 9
+    },
+    {
+      "code": "TH-10",
+      "name": "Nga Sơn",
+      "name_full": "Huyện Nga Sơn",
+      "slug": "nga-son",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 27
+    },
+    {
+      "code": "TH-11",
+      "name": "Ngọc Lặc",
+      "name_full": "Huyện Ngọc Lặc",
+      "slug": "ngoc-lac",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 22
+    },
+    {
+      "code": "TH-12",
+      "name": "Như Thanh",
+      "name_full": "Huyện Như Thanh",
+      "slug": "nhu-thanh",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 17
+    },
+    {
+      "code": "TH-13",
+      "name": "Như Xuân",
+      "name_full": "Huyện Như Xuân",
+      "slug": "nhu-xuan",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 18
+    },
+    {
+      "code": "TH-14",
+      "name": "Nông Cống",
+      "name_full": "Huyện Nông Cống",
+      "slug": "nong-cong",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 33
+    },
+    {
+      "code": "TH-15",
+      "name": "Quan Hóa",
+      "name_full": "Huyện Quan Hóa",
+      "slug": "quan-hoa",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 18
+    },
+    {
+      "code": "TH-16",
+      "name": "Quan Sơn",
+      "name_full": "Huyện Quan Sơn",
+      "slug": "quan-son",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 13
+    },
+    {
+      "code": "TH-17",
+      "name": "Quảng Xương",
+      "name_full": "Huyện Quảng Xương",
+      "slug": "quang-xuong",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 30
+    },
+    {
+      "code": "TH-18",
+      "name": "Sầm Sơn",
+      "name_full": "Thị xã Sầm Sơn",
+      "slug": "sam-son",
+      "division_type": "Thị xã",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 11
+    },
+    {
+      "code": "TH-19",
+      "name": "Thạch Thành",
+      "name_full": "Huyện Thạch Thành",
+      "slug": "thach-thanh",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 28
+    },
+    {
+      "code": "TH-20",
+      "name": "Thanh Hóa",
+      "name_full": "Thành phố Thanh Hóa",
+      "slug": "thanh-hoa",
+      "division_type": "Thành phố",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 38
+    },
+    {
+      "code": "TH-21",
+      "name": "Thiệu Hóa",
+      "name_full": "Huyện Thiệu Hóa",
+      "slug": "thieu-hoa",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 28
+    },
+    {
+      "code": "TH-22",
+      "name": "Thọ Xuân",
+      "name_full": "Huyện Thọ Xuân",
+      "slug": "tho-xuan",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 41
+    },
+    {
+      "code": "TH-23",
+      "name": "Thường Xuân",
+      "name_full": "Huyện Thường Xuân",
+      "slug": "thuong-xuan",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 17
+    },
+    {
+      "code": "TH-24",
+      "name": "Tĩnh Gia",
+      "name_full": "Huyện Tĩnh Gia",
+      "slug": "tinh-gia",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 34
+    },
+    {
+      "code": "TH-25",
+      "name": "Triệu Sơn",
+      "name_full": "Huyện Triệu Sơn",
+      "slug": "trieu-son",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 36
+    },
+    {
+      "code": "TH-26",
+      "name": "Vĩnh Lộc",
+      "name_full": "Huyện Vĩnh Lộc",
+      "slug": "vinh-loc",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 16
+    },
+    {
+      "code": "TH-27",
+      "name": "Yên Định",
+      "name_full": "Huyện Yên Định",
+      "slug": "yen-dinh",
+      "division_type": "Huyện",
+      "province_code": "TH",
+      "province_name": "Thanh Hóa",
+      "ward_count": 30
+    }
+  ],
+  "meta": {
+    "title": "Thanh Hóa — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 27 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Thanh Hóa theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 24 Huyện, 2 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/TH.json). (27 district-level units of Thanh Hóa under the pre-2025-merger 3-tier hierarchy.) Chứa 27 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Thanh Hóa — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Thanh Hóa — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 27 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 27 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

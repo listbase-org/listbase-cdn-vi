@@ -1,0 +1,136 @@
+{
+  "id": "vi-hau-giang-quan-huyen-2019",
+  "name": "Hậu Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Hậu Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 7 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Hậu Giang theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 5 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/HGI.json). (7 district-level units of Hậu Giang under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "HGI-01",
+      "name": "Châu Thành",
+      "name_full": "Huyện Châu Thành",
+      "slug": "chau-thanh",
+      "division_type": "Huyện",
+      "province_code": "HGI",
+      "province_name": "Hậu Giang",
+      "ward_count": 9
+    },
+    {
+      "code": "HGI-02",
+      "name": "Châu Thành A",
+      "name_full": "Huyện Châu Thành A",
+      "slug": "chau-thanh-a",
+      "division_type": "Huyện",
+      "province_code": "HGI",
+      "province_name": "Hậu Giang",
+      "ward_count": 10
+    },
+    {
+      "code": "HGI-03",
+      "name": "Long Mỹ",
+      "name_full": "Huyện Long Mỹ",
+      "slug": "long-my",
+      "division_type": "Huyện",
+      "province_code": "HGI",
+      "province_name": "Hậu Giang",
+      "ward_count": 15
+    },
+    {
+      "code": "HGI-04",
+      "name": "Ngã Bảy",
+      "name_full": "Thị xã Ngã Bảy",
+      "slug": "nga-bay",
+      "division_type": "Thị xã",
+      "province_code": "HGI",
+      "province_name": "Hậu Giang",
+      "ward_count": 6
+    },
+    {
+      "code": "HGI-05",
+      "name": "Phụng Hiệp",
+      "name_full": "Huyện Phụng Hiệp",
+      "slug": "phung-hiep",
+      "division_type": "Huyện",
+      "province_code": "HGI",
+      "province_name": "Hậu Giang",
+      "ward_count": 15
+    },
+    {
+      "code": "HGI-06",
+      "name": "Vị Thanh",
+      "name_full": "Thành phố Vị Thanh",
+      "slug": "vi-thanh",
+      "division_type": "Thành phố",
+      "province_code": "HGI",
+      "province_name": "Hậu Giang",
+      "ward_count": 9
+    },
+    {
+      "code": "HGI-07",
+      "name": "Vị Thủy",
+      "name_full": "Huyện Vị Thủy",
+      "slug": "vi-thuy",
+      "division_type": "Huyện",
+      "province_code": "HGI",
+      "province_name": "Hậu Giang",
+      "ward_count": 10
+    }
+  ],
+  "meta": {
+    "title": "Hậu Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 7 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Hậu Giang theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 5 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/HGI.json). (7 district-level units of Hậu Giang under the pre-2025-merger 3-tier hierarchy.) Chứa 7 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Hậu Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Hậu Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 7 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 7 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "id": "vi-ngay-le",
+  "name": "Ngày lễ và ngày kỷ niệm ở Việt Nam",
+  "title": "Ngày lễ và ngày kỷ niệm ở Việt Nam",
+  "description": "Các ngày lễ chính thức, ngày nghỉ lễ, ngày kỷ niệm quốc gia và lễ hội truyền thống của Cộng hòa Xã hội chủ nghĩa Việt Nam — bao gồm Tết Nguyên Đán, Giỗ tổ Hùng Vương, Ngày Giải phóng miền Nam (30/4), Quốc khánh (2/9). Ngày Tết và các lễ âm lịch được tính theo lịch âm Việt Nam. Nguồn: commenthol/date-holidays (Wikipedia, CC-BY-SA-3.0).",
+  "category": "time",
+  "source": "https://github.com/commenthol/date-holidays",
+  "source_url": "https://github.com/commenthol/date-holidays",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "rule",
+      "label": "Rule",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "reference",
+      "label": "Reference",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "string"
+    },
+    {
+      "key": "substitute",
+      "label": "Substitute",
+      "type": "boolean"
+    },
+    {
+      "key": "disable",
+      "label": "Disable",
+      "type": "string"
+    },
+    {
+      "key": "enable",
+      "label": "Enable",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "rule": "01-01",
+      "name_native": "Tết Dương lịch",
+      "name_en": "New Year's Day",
+      "type": "public",
+      "reference": "01-01",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 2,
+      "rule": "vietnamese 1-0-1",
+      "name_native": "Tết Nguyên Đán",
+      "name_en": "Vietnamese New Year",
+      "type": "public",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 3,
+      "rule": "1 day before vietnamese 1-0-1 P5D",
+      "name_native": "Giao thừa Tết Nguyên Đán",
+      "name_en": "Vietnamese New Year Holidays",
+      "type": "public",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 4,
+      "rule": "vietnamese 3-0-10",
+      "name_native": "Giỗ tổ Hùng Vương",
+      "name_en": "Hung Kings Commemorations",
+      "type": "public",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 5,
+      "rule": "04-30",
+      "name_native": "Ngày Giải phóng miền Nam",
+      "name_en": "Day of liberating the South for national reunification",
+      "type": "public",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 6,
+      "rule": "05-01",
+      "name_native": "Quốc tế Lao động",
+      "name_en": "Labour Day",
+      "type": "public",
+      "reference": "05-01",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 7,
+      "rule": "09-02",
+      "name_native": "Quốc khánh",
+      "name_en": "National Day",
+      "type": "public",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 8,
+      "rule": "02-03",
+      "name_native": "Ngày thành lập Đảng",
+      "name_en": "Communist Party of Viet Nam Foundation Anniversary",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 9,
+      "rule": "03-08",
+      "name_native": "Quốc tế Phụ nữ",
+      "name_en": "International Women's Day",
+      "type": "observance",
+      "reference": "03-08",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 10,
+      "rule": "04-21",
+      "name_native": "Ngày Sách Việt Nam",
+      "name_en": "Vietnam Book Day",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 11,
+      "rule": "05-07",
+      "name_native": "Ngày Chiến thắng Điện Biện Phủ",
+      "name_en": "Dien Bien Phu Victory Day",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 12,
+      "rule": "05-19",
+      "name_native": "Ngày sinh Chủ tịch Hồ Chí Minh",
+      "name_en": "President Ho Chi Minh's Birthday",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 13,
+      "rule": "06-01",
+      "name_native": "Ngày quốc tế Thiếu nhi",
+      "name_en": "International Children's Day",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 14,
+      "rule": "06-28",
+      "name_native": "Ngày Gia đình Việt Nam",
+      "name_en": "Vietnamese Family Day",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 15,
+      "rule": "07-27",
+      "name_native": "Ngày Thương Binh Liệt Sĩ",
+      "name_en": "Remembrance Day",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 16,
+      "rule": "08-19",
+      "name_native": "Ngày cách mạng Tháng Tám",
+      "name_en": "August Revolution Commemoration Day",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 17,
+      "rule": "10-10",
+      "name_native": "Ngày giải phóng Thủ Đô",
+      "name_en": "Capital Liberation Day",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 18,
+      "rule": "10-20",
+      "name_native": "Ngày Phụ nữ Việt Nam",
+      "name_en": "Vietnamese Women's Day",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 19,
+      "rule": "11-20",
+      "name_native": "Ngày Nhà giáo Việt Nam",
+      "name_en": "Vietnamese Teacher's Day",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 20,
+      "rule": "12-22",
+      "name_native": "Ngày hội Quốc phòng Toàn dân",
+      "name_en": "National Defence Day",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 21,
+      "rule": "vietnamese 1-0-5",
+      "name_native": "Chiến thắng Ngọc Hồi - Đống Đa",
+      "name_en": "Victory of Ngọc Hồi-Đống Đa",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 22,
+      "rule": "vietnamese 1-0-15",
+      "name_native": "Tết Nguyên Tiêu",
+      "name_en": "Lantern Festival",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 23,
+      "rule": "vietnamese 4-0-15",
+      "name_native": "Lễ Phật đản",
+      "name_en": "Buddha's Birthday",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 24,
+      "rule": "vietnamese 5-0-5",
+      "name_native": "Tết Đoan ngọ",
+      "name_en": "Mid-year Festival",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 25,
+      "rule": "vietnamese 7-0-15",
+      "name_native": "Rằm Tháng Bảy, Vu Lan",
+      "name_en": "Ghost Festival",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 26,
+      "rule": "vietnamese 8-0-15",
+      "name_native": "Tết Trung thu",
+      "name_en": "Mid-Autumn Festival",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 27,
+      "rule": "vietnamese 12-0-23",
+      "name_native": "Ông Táo chầu trời",
+      "name_en": "Kitchen guardians",
+      "type": "observance",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    }
+  ],
+  "meta": {
+    "title": "Ngày lễ và ngày kỷ niệm ở Việt Nam - Tải miễn phí",
+    "description": "Các ngày lễ chính thức, ngày nghỉ lễ, ngày kỷ niệm quốc gia và lễ hội truyền thống của Cộng hòa Xã hội chủ nghĩa Việt Nam — bao gồm Tết Nguyên Đán, Giỗ tổ Hùng Vương, Ngày Giải phóng miền Nam (30/4), Quốc khánh (2/9). Ngày Tết và các lễ âm lịch được tính theo lịch âm Việt Nam. Nguồn: commenthol/date-holidays (Wikipedia, CC-BY-SA-3.0). Chứa 27 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Ngày lễ và ngày kỷ niệm ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Ngày lễ và ngày kỷ niệm ở Việt Nam — 27 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 27 bản ghi / 11 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: https://github.com/commenthol/date-holidays"
+    ]
+  }
+}

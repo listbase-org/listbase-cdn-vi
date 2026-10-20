@@ -1,0 +1,142 @@
+{
+  "id": "vi-nghia-trang",
+  "name": "Nghĩa trang ở Việt Nam",
+  "title": "Nghĩa trang ở Việt Nam",
+  "description": "Danh sách nghĩa trang nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31 wd:Q39614 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu nghĩa trang đầu tiên trong nhóm tiếng Việt — mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 5/9 toạ độ, 9/9 vi.wikipedia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q10796500",
+      "name_vi": "Mả ngụy",
+      "name_en": "Mả ngụy",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/M%E1%BA%A3_ng%E1%BB%A5y"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q96097081",
+      "name_vi": "Nghĩa trang An Bằng",
+      "name_en": "An Bang Village Cemetery",
+      "latitude": 16.42,
+      "longitude": 107.81,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ngh%C4%A9a_trang_An_B%E1%BA%B1ng"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q5005097",
+      "name_vi": "Nghĩa trang Bình An",
+      "name_en": "Bình An Cemetery",
+      "latitude": 10.889282,
+      "longitude": 106.810327,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ngh%C4%A9a_trang_Nh%C3%A2n_d%C3%A2n_B%C3%ACnh_An"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q18459880",
+      "name_vi": "Nghĩa trang Gò Dưa",
+      "name_en": "Gò Dưa Cemetery",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ngh%C4%A9a_trang_G%C3%B2_D%C6%B0a"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q5962923",
+      "name_vi": "Nghĩa trang Hàng Dương",
+      "name_en": "Hàng Dương Cemetery",
+      "latitude": 8.694444,
+      "longitude": 106.613889,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ngh%C4%A9a_trang_H%C3%A0ng_D%C6%B0%C6%A1ng"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q18459881",
+      "name_vi": "Nghĩa trang Lái Thiêu",
+      "name_en": "Lái Thiêu Cemetery",
+      "latitude": 10.913529,
+      "longitude": 106.729356,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ngh%C4%A9a_trang_L%C3%A1i_Thi%C3%AAu"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q6735124",
+      "name_vi": "Nghĩa trang Mai Dịch",
+      "name_en": "Mai Dịch Cemetery",
+      "latitude": 21.039167,
+      "longitude": 105.769444,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ngh%C4%A9a_trang_Mai_D%E1%BB%8Bch"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q130710184",
+      "name_vi": "Nghĩa trang Y Pha Nho",
+      "name_en": "Y Pha Nho Cemetery",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ngh%C4%A9a_trang_Y_Pha_Nho"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q18459884",
+      "name_vi": "Nghĩa trang Đa Phước",
+      "name_en": "Nghĩa trang Đa Phước",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ngh%C4%A9a_trang_%C4%90a_Ph%C6%B0%E1%BB%9Bc"
+    }
+  ],
+  "meta": {
+    "title": "Nghĩa trang ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách nghĩa trang nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31 wd:Q39614 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu nghĩa trang đầu tiên trong nhóm tiếng Việt — mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 5/9 toạ độ, 9/9 vi.wikipedia. Chứa 9 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Nghĩa trang ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Nghĩa trang ở Việt Nam — 9 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 9 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

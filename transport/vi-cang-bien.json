@@ -1,0 +1,226 @@
+{
+  "id": "vi-cang-bien",
+  "name": "Cảng và bến tại Việt Nam",
+  "title": "Cảng và bến tại Việt Nam",
+  "description": "Danh sách các cảng, bến cảng và bến (lớp con của cảng) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q44782 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Đây là tập dữ liệu cảng/bến đầu tiên trong nhóm tiếng Việt.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "located_in_vi",
+      "label": "Located In Vi",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q9245204",
+      "name_vi": "Bến Bình Đông",
+      "name_en": "Binh Dong Quay",
+      "latitude": 10.745535,
+      "longitude": 106.654392,
+      "located_in_vi": "Thành phố Hồ Chí Minh",
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q32226383",
+      "name_vi": "Bến Bạch Đằng",
+      "name_en": "Bach Dang Quay",
+      "latitude": 10.775269,
+      "longitude": 106.706903,
+      "located_in_vi": "Sài Gòn",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BA%BFn_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q11839596",
+      "name_vi": "Bến Ninh Kiều",
+      "name_en": "Ninh Kieu Quay",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Cần Thơ",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BA%BFn_Ninh_Ki%E1%BB%81u"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q10752271",
+      "name_vi": "Cảng Hải Phòng",
+      "name_en": "Hai Phong Port",
+      "latitude": 20.867056,
+      "longitude": 106.687778,
+      "located_in_vi": "Hải Phòng",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A3ng_H%E1%BA%A3i_Ph%C3%B2ng"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q7273046",
+      "name_vi": "Cảng Quy Nhơn",
+      "name_en": "Quy Nhon Port",
+      "latitude": 13.766667,
+      "longitude": 109.233333,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A3ng_Quy_Nh%C6%A1n"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q1076388",
+      "name_vi": "Cảng Sài Gòn",
+      "name_en": "Saigon Port",
+      "latitude": 10.6475,
+      "longitude": 106.745,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A3ng_S%C3%A0i_G%C3%B2n"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q10752279",
+      "name_vi": "Cảng Sơn Dương - Vũng Áng",
+      "name_en": "Cảng Sơn Dương - Vũng Áng",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "Kỳ Lợi",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A3ng_S%C6%A1n_D%C6%B0%C6%A1ng_%E2%80%93_V%C5%A9ng_%C3%81ng"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q4460627",
+      "name_vi": "Cảng Thị Nại",
+      "name_en": "Port of Thi Nai",
+      "latitude": 13.779,
+      "longitude": 109.247,
+      "located_in_vi": "",
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q10752280",
+      "name_vi": "Cảng Thị Vải - Cái Mép",
+      "name_en": "Thi Vai - Cai Mep Port",
+      "latitude": "",
+      "longitude": "",
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A3ng_C%C3%A1i_M%C3%A9p_%E2%80%93_Th%E1%BB%8B_V%E1%BA%A3i"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q10752281",
+      "name_vi": "Cảng Tiên Sa",
+      "name_en": "Cảng Tiên Sa",
+      "latitude": 16.12,
+      "longitude": 108.217222,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A3ng_Ti%C3%AAn_Sa"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q2509890",
+      "name_vi": "Cảng Vân Phong",
+      "name_en": "Van Phong Port",
+      "latitude": 12.666667,
+      "longitude": 109.283333,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A3ng_V%C3%A2n_Phong"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q7943661",
+      "name_vi": "Cảng Vũng Tàu",
+      "name_en": "Vung Tau Port",
+      "latitude": 10.386,
+      "longitude": 107.085,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A3ng_V%C5%A9ng_T%C3%A0u"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q2636675",
+      "name_vi": "Cảng Đà Nẵng",
+      "name_en": "Da Nang Port",
+      "latitude": 16.066667,
+      "longitude": 108.233333,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A3ng_%C4%90%C3%A0_N%E1%BA%B5ng"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q10801323",
+      "name_vi": "Ninh Chữ",
+      "name_en": "Ninh Chữ",
+      "latitude": 11.592778,
+      "longitude": 109.048611,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%C3%A3i_bi%E1%BB%83n_Ninh_Ch%E1%BB%AD"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q10812145",
+      "name_vi": "Sa Kỳ",
+      "name_en": "Sa Ky Port",
+      "latitude": 15.215111,
+      "longitude": 108.914472,
+      "located_in_vi": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Sa_K%E1%BB%B3"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q11072051",
+      "name_vi": "Vịnh Cam Ranh",
+      "name_en": "Vinh Cam Ranh",
+      "latitude": 11.883333,
+      "longitude": 109.166667,
+      "located_in_vi": "Khánh Hòa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%E1%BB%8Bnh_Cam_Ranh"
+    }
+  ],
+  "meta": {
+    "title": "Cảng và bến tại Việt Nam - Tải miễn phí",
+    "description": "Danh sách các cảng, bến cảng và bến (lớp con của cảng) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q44782 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Đây là tập dữ liệu cảng/bến đầu tiên trong nhóm tiếng Việt. Chứa 16 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Cảng và bến tại Việt Nam | ListBase",
+    "seo_description": "Tải xuống Cảng và bến tại Việt Nam — 16 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 16 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

@@ -1,0 +1,610 @@
+{
+  "id": "vi-doi-tuyen-bong-da-quoc-gia-viet-nam-thanh-tich-doi-dau",
+  "name": "Đội tuyển bóng đá Việt Nam — thành tích đối đầu với từng đối thủ (49)",
+  "title": "Đội tuyển bóng đá Việt Nam — thành tích đối đầu với từng đối thủ (49)",
+  "description": "Thành tích tổng hợp của đội tuyển Việt Nam trước từng đối thủ, tính từ toàn bộ trận đấu trong results.csv (martj42/international_results): số trận, thắng, hòa, thua, bàn thắng, bàn thua, trận đầu tiên và trận gần nhất. Kết quả theo tỉ số chung cuộc (không tính luân lưu). Sắp xếp theo số trận.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "doi_thu",
+      "label": "Doi Thu",
+      "type": "string"
+    },
+    {
+      "key": "so_tran",
+      "label": "So Tran",
+      "type": "number"
+    },
+    {
+      "key": "thang",
+      "label": "Thang",
+      "type": "number"
+    },
+    {
+      "key": "hoa",
+      "label": "Hoa",
+      "type": "number"
+    },
+    {
+      "key": "thua",
+      "label": "Thua",
+      "type": "number"
+    },
+    {
+      "key": "ban_thang",
+      "label": "Ban Thang",
+      "type": "number"
+    },
+    {
+      "key": "ban_thua",
+      "label": "Ban Thua",
+      "type": "number"
+    },
+    {
+      "key": "tran_dau_tien",
+      "label": "Tran Dau Tien",
+      "type": "date"
+    },
+    {
+      "key": "tran_gan_nhat",
+      "label": "Tran Gan Nhat",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "doi_thu": "Indonesia",
+      "so_tran": 31,
+      "thang": 10,
+      "hoa": 10,
+      "thua": 11,
+      "ban_thang": 38,
+      "ban_thua": 36,
+      "tran_dau_tien": "1991-11-28",
+      "tran_gan_nhat": "2026-08-03"
+    },
+    {
+      "doi_thu": "Thailand",
+      "so_tran": 31,
+      "thang": 5,
+      "hoa": 9,
+      "thua": 17,
+      "ban_thang": 28,
+      "ban_thua": 53,
+      "tran_dau_tien": "1995-12-10",
+      "tran_gan_nhat": "2026-08-26"
+    },
+    {
+      "doi_thu": "Malaysia",
+      "so_tran": 26,
+      "thang": 17,
+      "hoa": 3,
+      "thua": 6,
+      "ban_thang": 38,
+      "ban_thua": 24,
+      "tran_dau_tien": "1991-11-30",
+      "tran_gan_nhat": "2026-08-19"
+    },
+    {
+      "doi_thu": "Singapore",
+      "so_tran": 22,
+      "thang": 9,
+      "hoa": 9,
+      "thua": 4,
+      "ban_thang": 25,
+      "ban_thua": 14,
+      "tran_dau_tien": "1993-04-13",
+      "tran_gan_nhat": "2026-07-31"
+    },
+    {
+      "doi_thu": "Philippines",
+      "so_tran": 17,
+      "thang": 13,
+      "hoa": 2,
+      "thua": 2,
+      "ban_thang": 36,
+      "ban_thua": 16,
+      "tran_dau_tien": "1954-05-03",
+      "tran_gan_nhat": "2024-12-18"
+    },
+    {
+      "doi_thu": "Laos",
+      "so_tran": 16,
+      "thang": 15,
+      "hoa": 1,
+      "thua": 0,
+      "ban_thang": 66,
+      "ban_thua": 4,
+      "tran_dau_tien": "1996-09-05",
+      "tran_gan_nhat": "2025-11-19"
+    },
+    {
+      "doi_thu": "Myanmar",
+      "so_tran": 14,
+      "thang": 11,
+      "hoa": 2,
+      "thua": 1,
+      "ban_thang": 47,
+      "ban_thua": 10,
+      "tran_dau_tien": "1995-12-14",
+      "tran_gan_nhat": "2026-07-18"
+    },
+    {
+      "doi_thu": "Cambodia",
+      "so_tran": 12,
+      "thang": 12,
+      "hoa": 0,
+      "thua": 0,
+      "ban_thang": 52,
+      "ban_thua": 8,
+      "tran_dau_tien": "1995-12-08",
+      "tran_gan_nhat": "2026-08-07"
+    },
+    {
+      "doi_thu": "China",
+      "so_tran": 9,
+      "thang": 1,
+      "hoa": 0,
+      "thua": 8,
+      "ban_thang": 8,
+      "ban_thua": 26,
+      "tran_dau_tien": "1997-05-25",
+      "tran_gan_nhat": "2023-10-10"
+    },
+    {
+      "doi_thu": "North Korea",
+      "so_tran": 8,
+      "thang": 1,
+      "hoa": 4,
+      "thua": 3,
+      "ban_thang": 7,
+      "ban_thua": 10,
+      "tran_dau_tien": "1993-04-09",
+      "tran_gan_nhat": "2018-12-25"
+    },
+    {
+      "doi_thu": "South Korea",
+      "so_tran": 8,
+      "thang": 1,
+      "hoa": 1,
+      "thua": 6,
+      "ban_thang": 5,
+      "ban_thua": 26,
+      "tran_dau_tien": "1949-01-16",
+      "tran_gan_nhat": "2023-10-17"
+    },
+    {
+      "doi_thu": "Hong Kong",
+      "so_tran": 7,
+      "thang": 4,
+      "hoa": 2,
+      "thua": 1,
+      "ban_thang": 12,
+      "ban_thua": 7,
+      "tran_dau_tien": "1998-11-19",
+      "tran_gan_nhat": "2023-06-15"
+    },
+    {
+      "doi_thu": "Iraq",
+      "so_tran": 7,
+      "thang": 0,
+      "hoa": 1,
+      "thua": 6,
+      "ban_thang": 6,
+      "ban_thua": 14,
+      "tran_dau_tien": "2007-07-21",
+      "tran_gan_nhat": "2024-06-11"
+    },
+    {
+      "doi_thu": "United Arab Emirates",
+      "so_tran": 7,
+      "thang": 2,
+      "hoa": 0,
+      "thua": 5,
+      "ban_thang": 6,
+      "ban_thua": 16,
+      "tran_dau_tien": "2007-07-08",
+      "tran_gan_nhat": "2021-06-15"
+    },
+    {
+      "doi_thu": "Japan",
+      "so_tran": 6,
+      "thang": 0,
+      "hoa": 1,
+      "thua": 5,
+      "ban_thang": 4,
+      "ban_thua": 12,
+      "tran_dau_tien": "2007-07-16",
+      "tran_gan_nhat": "2024-01-14"
+    },
+    {
+      "doi_thu": "Qatar",
+      "so_tran": 6,
+      "thang": 2,
+      "hoa": 1,
+      "thua": 3,
+      "ban_thang": 5,
+      "ban_thua": 14,
+      "tran_dau_tien": "1993-04-11",
+      "tran_gan_nhat": "2013-10-09"
+    },
+    {
+      "doi_thu": "Taiwan",
+      "so_tran": 5,
+      "thang": 3,
+      "hoa": 1,
+      "thua": 1,
+      "ban_thang": 13,
+      "ban_thua": 7,
+      "tran_dau_tien": "1954-05-01",
+      "tran_gan_nhat": "2017-03-22"
+    },
+    {
+      "doi_thu": "Turkmenistan",
+      "so_tran": 5,
+      "thang": 1,
+      "hoa": 0,
+      "thua": 4,
+      "ban_thang": 2,
+      "ban_thua": 9,
+      "tran_dau_tien": "1997-05-11",
+      "tran_gan_nhat": "2012-10-24"
+    },
+    {
+      "doi_thu": "India",
+      "so_tran": 4,
+      "thang": 2,
+      "hoa": 1,
+      "thua": 1,
+      "ban_thang": 7,
+      "ban_thua": 5,
+      "tran_dau_tien": "2004-08-24",
+      "tran_gan_nhat": "2024-10-12"
+    },
+    {
+      "doi_thu": "Jordan",
+      "so_tran": 4,
+      "thang": 0,
+      "hoa": 4,
+      "thua": 0,
+      "ban_thang": 3,
+      "ban_thua": 3,
+      "tran_dau_tien": "2017-06-13",
+      "tran_gan_nhat": "2021-05-31"
+    },
+    {
+      "doi_thu": "Lebanon",
+      "so_tran": 4,
+      "thang": 1,
+      "hoa": 2,
+      "thua": 1,
+      "ban_thang": 4,
+      "ban_thua": 4,
+      "tran_dau_tien": "2004-03-31",
+      "tran_gan_nhat": "2010-01-06"
+    },
+    {
+      "doi_thu": "Nepal",
+      "so_tran": 4,
+      "thang": 4,
+      "hoa": 0,
+      "thua": 0,
+      "ban_thang": 11,
+      "ban_thua": 1,
+      "tran_dau_tien": "2003-09-27",
+      "tran_gan_nhat": "2025-10-14"
+    },
+    {
+      "doi_thu": "Oman",
+      "so_tran": 4,
+      "thang": 0,
+      "hoa": 0,
+      "thua": 4,
+      "ban_thang": 1,
+      "ban_thua": 12,
+      "tran_dau_tien": "2003-09-29",
+      "tran_gan_nhat": "2022-03-24"
+    },
+    {
+      "doi_thu": "Saudi Arabia",
+      "so_tran": 4,
+      "thang": 0,
+      "hoa": 0,
+      "thua": 4,
+      "ban_thang": 1,
+      "ban_thua": 13,
+      "tran_dau_tien": "2001-02-12",
+      "tran_gan_nhat": "2021-11-16"
+    },
+    {
+      "doi_thu": "Sri Lanka",
+      "so_tran": 4,
+      "thang": 1,
+      "hoa": 3,
+      "thua": 0,
+      "ban_thang": 7,
+      "ban_thua": 6,
+      "tran_dau_tien": "2000-08-25",
+      "tran_gan_nhat": "2002-12-01"
+    },
+    {
+      "doi_thu": "Syria",
+      "so_tran": 4,
+      "thang": 2,
+      "hoa": 1,
+      "thua": 1,
+      "ban_thang": 3,
+      "ban_thua": 1,
+      "tran_dau_tien": "2009-11-14",
+      "tran_gan_nhat": "2023-06-20"
+    },
+    {
+      "doi_thu": "Afghanistan",
+      "so_tran": 3,
+      "thang": 1,
+      "hoa": 2,
+      "thua": 0,
+      "ban_thang": 3,
+      "ban_thua": 1,
+      "tran_dau_tien": "2017-03-28",
+      "tran_gan_nhat": "2022-06-01"
+    },
+    {
+      "doi_thu": "Bangladesh",
+      "so_tran": 3,
+      "thang": 2,
+      "hoa": 1,
+      "thua": 0,
+      "ban_thang": 7,
+      "ban_thua": 0,
+      "tran_dau_tien": "2001-02-08",
+      "tran_gan_nhat": "2026-03-26"
+    },
+    {
+      "doi_thu": "Uzbekistan",
+      "so_tran": 3,
+      "thang": 0,
+      "hoa": 0,
+      "thua": 3,
+      "ban_thang": 1,
+      "ban_thua": 8,
+      "tran_dau_tien": "2013-10-15",
+      "tran_gan_nhat": "2023-10-13"
+    },
+    {
+      "doi_thu": "Australia",
+      "so_tran": 2,
+      "thang": 0,
+      "hoa": 0,
+      "thua": 2,
+      "ban_thang": 0,
+      "ban_thua": 5,
+      "tran_dau_tien": "2021-09-07",
+      "tran_gan_nhat": "2022-01-27"
+    },
+    {
+      "doi_thu": "Guam",
+      "so_tran": 2,
+      "thang": 2,
+      "hoa": 0,
+      "thua": 0,
+      "ban_thang": 20,
+      "ban_thua": 0,
+      "tran_dau_tien": "1996-08-07",
+      "tran_gan_nhat": "2000-01-23"
+    },
+    {
+      "doi_thu": "Kuwait",
+      "so_tran": 2,
+      "thang": 1,
+      "hoa": 0,
+      "thua": 1,
+      "ban_thang": 2,
+      "ban_thua": 3,
+      "tran_dau_tien": "2009-05-31",
+      "tran_gan_nhat": "2010-10-12"
+    },
+    {
+      "doi_thu": "Macau",
+      "so_tran": 2,
+      "thang": 2,
+      "hoa": 0,
+      "thua": 0,
+      "ban_thang": 13,
+      "ban_thua": 1,
+      "tran_dau_tien": "2011-06-29",
+      "tran_gan_nhat": "2011-07-03"
+    },
+    {
+      "doi_thu": "Maldives",
+      "so_tran": 2,
+      "thang": 1,
+      "hoa": 0,
+      "thua": 1,
+      "ban_thang": 4,
+      "ban_thua": 3,
+      "tran_dau_tien": "2004-02-18",
+      "tran_gan_nhat": "2004-10-13"
+    },
+    {
+      "doi_thu": "Mongolia",
+      "so_tran": 2,
+      "thang": 2,
+      "hoa": 0,
+      "thua": 0,
+      "ban_thang": 5,
+      "ban_thua": 0,
+      "tran_dau_tien": "2001-02-10",
+      "tran_gan_nhat": "2001-02-17"
+    },
+    {
+      "doi_thu": "Palestine",
+      "so_tran": 2,
+      "thang": 1,
+      "hoa": 0,
+      "thua": 1,
+      "ban_thang": 3,
+      "ban_thua": 3,
+      "tran_dau_tien": "2014-11-09",
+      "tran_gan_nhat": "2023-09-11"
+    },
+    {
+      "doi_thu": "Tajikistan",
+      "so_tran": 2,
+      "thang": 0,
+      "hoa": 0,
+      "thua": 2,
+      "ban_thang": 0,
+      "ban_thua": 8,
+      "tran_dau_tien": "1997-05-04",
+      "tran_gan_nhat": "1997-06-01"
+    },
+    {
+      "doi_thu": "Albania",
+      "so_tran": 1,
+      "thang": 0,
+      "hoa": 0,
+      "thua": 1,
+      "ban_thang": 0,
+      "ban_thua": 5,
+      "tran_dau_tien": "2003-02-12",
+      "tran_gan_nhat": "2003-02-12"
+    },
+    {
+      "doi_thu": "Bahrain",
+      "so_tran": 1,
+      "thang": 1,
+      "hoa": 0,
+      "thua": 0,
+      "ban_thang": 5,
+      "ban_thua": 3,
+      "tran_dau_tien": "2007-06-30",
+      "tran_gan_nhat": "2007-06-30"
+    },
+    {
+      "doi_thu": "Bosnia and Herzegovina",
+      "so_tran": 1,
+      "thang": 0,
+      "hoa": 0,
+      "thua": 1,
+      "ban_thang": 0,
+      "ban_thua": 4,
+      "tran_dau_tien": "1997-02-22",
+      "tran_gan_nhat": "1997-02-22"
+    },
+    {
+      "doi_thu": "Estonia",
+      "so_tran": 1,
+      "thang": 1,
+      "hoa": 0,
+      "thua": 0,
+      "ban_thang": 1,
+      "ban_thua": 0,
+      "tran_dau_tien": "1995-01-04",
+      "tran_gan_nhat": "1995-01-04"
+    },
+    {
+      "doi_thu": "Iran",
+      "so_tran": 1,
+      "thang": 0,
+      "hoa": 0,
+      "thua": 1,
+      "ban_thang": 0,
+      "ban_thua": 2,
+      "tran_dau_tien": "2019-01-12",
+      "tran_gan_nhat": "2019-01-12"
+    },
+    {
+      "doi_thu": "Jamaica",
+      "so_tran": 1,
+      "thang": 1,
+      "hoa": 0,
+      "thua": 0,
+      "ban_thang": 3,
+      "ban_thua": 0,
+      "tran_dau_tien": "2007-06-24",
+      "tran_gan_nhat": "2007-06-24"
+    },
+    {
+      "doi_thu": "Kazakhstan",
+      "so_tran": 1,
+      "thang": 1,
+      "hoa": 0,
+      "thua": 0,
+      "ban_thang": 2,
+      "ban_thua": 1,
+      "tran_dau_tien": "2006-12-26",
+      "tran_gan_nhat": "2006-12-26"
+    },
+    {
+      "doi_thu": "Kyrgyzstan",
+      "so_tran": 1,
+      "thang": 0,
+      "hoa": 0,
+      "thua": 1,
+      "ban_thang": 1,
+      "ban_thua": 2,
+      "tran_dau_tien": "2024-01-09",
+      "tran_gan_nhat": "2024-01-09"
+    },
+    {
+      "doi_thu": "Russia",
+      "so_tran": 1,
+      "thang": 0,
+      "hoa": 0,
+      "thua": 1,
+      "ban_thang": 0,
+      "ban_thua": 3,
+      "tran_dau_tien": "2024-09-05",
+      "tran_gan_nhat": "2024-09-05"
+    },
+    {
+      "doi_thu": "Timor-Leste",
+      "so_tran": 1,
+      "thang": 1,
+      "hoa": 0,
+      "thua": 0,
+      "ban_thang": 7,
+      "ban_thua": 0,
+      "tran_dau_tien": "2026-07-24",
+      "tran_gan_nhat": "2026-07-24"
+    },
+    {
+      "doi_thu": "Yemen",
+      "so_tran": 1,
+      "thang": 1,
+      "hoa": 0,
+      "thua": 0,
+      "ban_thang": 2,
+      "ban_thua": 0,
+      "tran_dau_tien": "2019-01-16",
+      "tran_gan_nhat": "2019-01-16"
+    },
+    {
+      "doi_thu": "Zimbabwe",
+      "so_tran": 1,
+      "thang": 0,
+      "hoa": 0,
+      "thua": 1,
+      "ban_thang": 0,
+      "ban_thua": 6,
+      "tran_dau_tien": "1997-02-26",
+      "tran_gan_nhat": "1997-02-26"
+    }
+  ],
+  "meta": {
+    "title": "Đội tuyển bóng đá Việt Nam — thành tích đối đầu với từng đối thủ (49) - Tải miễn phí",
+    "description": "Thành tích tổng hợp của đội tuyển Việt Nam trước từng đối thủ, tính từ toàn bộ trận đấu trong results.csv (martj42/international_results): số trận, thắng, hòa, thua, bàn thắng, bàn thua, trận đầu tiên và trận gần nhất. Kết quả theo tỉ số chung cuộc (không tính luân lưu). Sắp xếp theo số trận. Chứa 49 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Đội tuyển bóng đá Việt Nam — thành tích đối đầu với từng đối thủ (49) | ListBase",
+    "seo_description": "Tải xuống Đội tuyển bóng đá Việt Nam — thành tích đối đầu với từng đối thủ (49) — 49 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 49 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

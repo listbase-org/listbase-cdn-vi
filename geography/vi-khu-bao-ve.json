@@ -1,0 +1,115 @@
+{
+  "id": "vi-khu-bao-ve",
+  "name": "Khu bảo vệ ở Việt Nam",
+  "title": "Khu bảo vệ ở Việt Nam",
+  "description": "Danh sách các khu vực được bảo vệ (protected areas) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q473972 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Để bảo đảm các tập dữ liệu rời nhau, đã loại các QID đã có trong tập vi-vuon-quoc-gia (vườn quốc gia) và vi-khu-bao-ton-thien-nhien (khu bảo tồn thiên nhiên). Tập này gồm các khu bảo vệ khác như khu dự trữ sinh quyển, khu Ramsar, khu bảo tồn biển, khu bảo vệ cảnh quan. Đây là tập dữ liệu khu bảo vệ (ngoài vườn quốc gia/khu bảo tồn thiên nhiên) đầu tiên trong nhóm tiếng Việt.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q10744325",
+      "name_vi": "Cao nguyên đá Đồng Văn",
+      "name_en": "Dong Van Karst Plateau UNESCO Global Geopark",
+      "latitude": 23.192222,
+      "longitude": 105.196944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Cao_nguy%C3%AAn_%C4%91%C3%A1_%C4%90%E1%BB%93ng_V%C4%83n"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q10779407",
+      "name_vi": "Khu bảo tồn đất ngập nước Láng Sen",
+      "name_en": "Lang Sen Wetland Reserve",
+      "latitude": 10.783333,
+      "longitude": 105.733333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Khu_b%E1%BA%A3o_t%E1%BB%93n_%C4%91%E1%BA%A5t_ng%E1%BA%ADp_n%C6%B0%E1%BB%9Bc_L%C3%A1ng_Sen"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q10779438",
+      "name_vi": "Khu dự trữ sinh quyển ven biển và biển đảo Kiên Giang",
+      "name_en": "Khu dự trữ sinh quyển ven biển và biển đảo Kiên Giang",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Khu_d%E1%BB%B1_tr%E1%BB%AF_sinh_quy%E1%BB%83n_ven_bi%E1%BB%83n_v%C3%A0_bi%E1%BB%83n_%C4%91%E1%BA%A3o_Ki%C3%AAn_Giang"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q107479064",
+      "name_vi": "Na Dương",
+      "name_en": "Na Duong",
+      "latitude": 21.7,
+      "longitude": 106.983333,
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q190060",
+      "name_vi": "Thành nhà Hồ",
+      "name_en": "Citadel of the Hồ Dynasty",
+      "latitude": 20.078056,
+      "longitude": 105.604722,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_nh%C3%A0_H%E1%BB%93"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q10825668",
+      "name_vi": "Thác Pongour",
+      "name_en": "Pongour Waterfall",
+      "latitude": 11.6875,
+      "longitude": 108.265,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%C3%A1c_Pongour"
+    }
+  ],
+  "meta": {
+    "title": "Khu bảo vệ ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách các khu vực được bảo vệ (protected areas) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q473972 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Để bảo đảm các tập dữ liệu rời nhau, đã loại các QID đã có trong tập vi-vuon-quoc-gia (vườn quốc gia) và vi-khu-bao-ton-thien-nhien (khu bảo tồn thiên nhiên). Tập này gồm các khu bảo vệ khác như khu dự trữ sinh quyển, khu Ramsar, khu bảo tồn biển, khu bảo vệ cảnh quan. Đây là tập dữ liệu khu bảo vệ (ngoài vườn quốc gia/khu bảo tồn thiên nhiên) đầu tiên trong nhóm tiếng Việt. Chứa 6 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Khu bảo vệ ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Khu bảo vệ ở Việt Nam — 6 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 6 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

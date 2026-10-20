@@ -1,0 +1,126 @@
+{
+  "id": "vi-phu-yen-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Phú Yên",
+  "title": "Địa điểm du lịch Phú Yên",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Phú Yên (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 66,
+      "ten_dia_diem": "Gành Đá Đĩa",
+      "vi_tri": "Phú Yên",
+      "tinh_truoc_sap_nhap_2025": "Phú Yên",
+      "mo_ta": "Một kỳ quan thiên nhiên độc đáo, Gành Đá Đĩa nổi bật với những cột đá bazan xếp chồng lên nhau như những chiếc đĩa.",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://tse4.mm.bing.net/th?id=OIP.wBFmyTIu6USelBkHI5SOBQHaE7&pid=Api&P=0&h=220",
+      "tu_khoa": "biển, vui chơi, chụp ảnh, tham quan"
+    },
+    {
+      "stt": 67,
+      "ten_dia_diem": "Hòn Yến",
+      "vi_tri": "Phú Yên",
+      "tinh_truoc_sap_nhap_2025": "Phú Yên",
+      "mo_ta": "Là một hòn đảo nhỏ với cảnh quan hoang sơ, nổi bật với những rạn san hô tuyệt đẹp.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://tse2.mm.bing.net/th?id=OIP.5r-1v-qQkq4A7RZF8ZALHgHaE7&pid=Api&P=0&h=220",
+      "tu_khoa": "tham quan, chụp ảnh, vui chơi"
+    },
+    {
+      "stt": 68,
+      "ten_dia_diem": "Hải đăng Đại Lãnh",
+      "vi_tri": "Phú Yên",
+      "tinh_truoc_sap_nhap_2025": "Phú Yên",
+      "mo_ta": "Là điểm cực Đông của Việt Nam, nơi đón ánh bình minh đầu tiên trên đất liền",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://tse1.mm.bing.net/th?id=OIP.Q7kI4toZEEYCxS-pM3yRfgHaDX&pid=Api&P=0&h=220",
+      "tu_khoa": "biển, tham quan, chụp ảnh"
+    },
+    {
+      "stt": 69,
+      "ten_dia_diem": "Suối nước nóng Triêm Đức",
+      "vi_tri": "Phú Yên",
+      "tinh_truoc_sap_nhap_2025": "Phú Yên",
+      "mo_ta": "Là một điểm đến thú vị để thư giãn và ngâm mình trong làn nước khoáng ấm áp.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://tripmap.vn/wp-content/uploads/2021/07/suoi-nuoc-khoang-triem-duc-1626245826513.jpg",
+      "tu_khoa": "suối, tham quan, nghĩ dưỡng, chụp ảnh"
+    },
+    {
+      "stt": 70,
+      "ten_dia_diem": "Tháp Nhạn",
+      "vi_tri": "Phú Yên",
+      "tinh_truoc_sap_nhap_2025": "Phú Yên",
+      "mo_ta": "Tháp Nhạn nằm trên núi Nhạn ở thành phố Tuy Hòa, là một công trình kiến trúc Chăm cổ kính và linh thiêng.",
+      "danh_gia": "4.4/5",
+      "danh_gia_diem": 4.4,
+      "anh": "https://tse3.mm.bing.net/th?id=OIP.j7Y3zi_M9U91OkWt3Da8zQHaJQ&pid=Api&P=0&h=220",
+      "tu_khoa": "tháp, tham quan, chụp ảnh, di tích"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Phú Yên - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Phú Yên (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Phú Yên | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Phú Yên — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

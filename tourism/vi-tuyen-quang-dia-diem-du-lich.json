@@ -1,0 +1,126 @@
+{
+  "id": "vi-tuyen-quang-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Tuyên Quang",
+  "title": "Địa điểm du lịch Tuyên Quang",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Tuyên Quang (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 221,
+      "ten_dia_diem": "Thác Bản Ba",
+      "vi_tri": "Tuyên Quang",
+      "tinh_truoc_sap_nhap_2025": "Tuyên Quang",
+      "mo_ta": "Thác Bản Ba thuộc xã Trung Hà, huyện Chiêm Hóa, là một cụm thác với 3 tầng chính đổ xuống từ độ cao khoảng 40 m. Thác được bao quanh bởi rừng núi hoang sơ, nước trong xanh và khí hậu mát mẻ quanh năm. Đây là điểm đến lý tưởng để hòa mình vào thiên nhiên.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://mia.vn/media/uploads/blog-du-lich/thac-ban-ba-04-1699834746.jpeg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 222,
+      "ten_dia_diem": "Hồ Thủy Điện Tuyên Quang",
+      "vi_tri": "Tuyên Quang",
+      "tinh_truoc_sap_nhap_2025": "Tuyên Quang",
+      "mo_ta": "Hồ Na Hang được ví như \"Hạ Long trên núi\", nổi bật với mặt hồ trong xanh, các đảo núi đá vôi trập trùng, và rừng nguyên sinh bao quanh. Du khách có thể khám phá các địa danh như thác Khuổi Nhi, đền Pác Tạ, và tham gia du thuyền ngắm cảnh.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://seho.vn/tintuc/wp-content/uploads/2022/04/thuy-dien-tuyen-quang1.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 223,
+      "ten_dia_diem": "Đền Hạ - Đền Thượng - Đền Ỷ La",
+      "vi_tri": "Tuyên Quang",
+      "tinh_truoc_sap_nhap_2025": "Tuyên Quang",
+      "mo_ta": "Đây là ba ngôi đền linh thiêng thuộc thành phố Tuyên Quang, gắn liền với tín ngưỡng thờ Mẫu của người Việt. Các ngôi đền nổi tiếng với kiến trúc cổ kính, không gian trang nghiêm, thu hút đông đảo khách hành hương.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://images.vietnamtourism.gov.vn/vn/images/2017/LHDenHa.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 224,
+      "ten_dia_diem": "Suối khoáng Mỹ Lâm",
+      "vi_tri": "Tuyên Quang",
+      "tinh_truoc_sap_nhap_2025": "Tuyên Quang",
+      "mo_ta": "Suối khoáng Mỹ Lâm nổi tiếng với nguồn nước khoáng nóng tự nhiên, có tác dụng chữa bệnh và thư giãn. Đây là khu du lịch nghỉ dưỡng hấp dẫn, kết hợp giữa trị liệu sức khỏe và cảnh sắc thiên nhiên tươi đẹp.",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwyfLa6v5N6x6Aok7aGaEoES0PzF30BSiv4g&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 225,
+      "ten_dia_diem": "Thác Khuổi Nhi",
+      "vi_tri": "Tuyên Quang",
+      "tinh_truoc_sap_nhap_2025": "Tuyên Quang",
+      "mo_ta": "hác Khuổi Nhi thuộc khu vực Na Hang, là một trong những thác nước đẹp nhất ở Tuyên Quang. Nước thác trắng xóa đổ xuống từ độ cao lớn, hòa quyện với thiên nhiên hùng vĩ tạo nên cảnh sắc thơ mộng.",
+      "danh_gia": "4.8/5",
+      "danh_gia_diem": 4.8,
+      "anh": "https://top7vietnam.sgtiepthi.vn/wp-content/uploads/2022/08/288795147_3268773303400481_5232539090563656620_n.jpg",
+      "tu_khoa": ""
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Tuyên Quang - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Tuyên Quang (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Tuyên Quang | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Tuyên Quang — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

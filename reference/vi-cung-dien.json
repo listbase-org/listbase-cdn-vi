@@ -1,0 +1,160 @@
+{
+  "id": "vi-cung-dien",
+  "name": "Cung điện ở Việt Nam",
+  "title": "Cung điện ở Việt Nam",
+  "description": "Danh sách cung điện ở việt nam (P31 = wd:Q16560) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-19. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi) kèm toạ độ WGS84 (P625). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikipedia tiếng Việt nếu có. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 7/7 toạ độ, 7/7 vi.wikipedia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "admin_area_vi",
+      "label": "Admin Area Vi",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q10743330",
+      "name_vi": "Bắc Bộ phủ",
+      "name_en": "State Guest House",
+      "latitude": 21.026644,
+      "longitude": 105.855275,
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Tr%E1%BB%A5_s%E1%BB%9F_l%C3%A0m_vi%E1%BB%87c_C%C6%A1_quan_Ch%E1%BB%A7_t%E1%BB%8Bch_n%C6%B0%E1%BB%9Bc",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10743330"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q10769129",
+      "name_vi": "Hoàng thành Huế",
+      "name_en": "Imperial City of Hue",
+      "latitude": 16.469444,
+      "longitude": 107.577778,
+      "admin_area_vi": "Huế",
+      "admin_area_en": "Huế",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ho%C3%A0ng_th%C3%A0nh_Hu%E1%BA%BF",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10769129"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q16481383",
+      "name_vi": "Nhà Đấu xảo Hà Nội",
+      "name_en": "Palais d'Expositions",
+      "latitude": 21.02256,
+      "longitude": 105.84418,
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_%C4%90%E1%BA%A5u_x%E1%BA%A3o_H%C3%A0_N%E1%BB%99i",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16481383"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q864758",
+      "name_vi": "Phủ Chủ tịch",
+      "name_en": "Presidential Palace of Vietnam",
+      "latitude": 21.039444,
+      "longitude": 105.834444,
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ph%E1%BB%A7_Ch%E1%BB%A7_t%E1%BB%8Bch",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q864758"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q18415661",
+      "name_vi": "Điện Kính Thiên",
+      "name_en": "Kính Thiên Palace",
+      "latitude": 21.037662,
+      "longitude": 105.841099,
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87n_K%C3%ADnh_Thi%C3%AAn",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18415661"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q10840231",
+      "name_vi": "Điện Long An",
+      "name_en": "Long An palace",
+      "latitude": 16.471503,
+      "longitude": 107.581828,
+      "admin_area_vi": "Đông Ba",
+      "admin_area_en": "Đông Ba",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87n_Long_An",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10840231"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q6826745",
+      "name_vi": "Điện Thái Hòa (hoàng thành Huế)",
+      "name_en": "Hall of Supreme Harmony (Imperial City of Huế)",
+      "latitude": 16.468734,
+      "longitude": 107.578388,
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87n_Th%C3%A1i_H%C3%B2a_(Ho%C3%A0ng_th%C3%A0nh_Hu%E1%BA%BF)",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6826745"
+    }
+  ],
+  "meta": {
+    "title": "Cung điện ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách cung điện ở việt nam (P31 = wd:Q16560) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-19. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi) kèm toạ độ WGS84 (P625). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikipedia tiếng Việt nếu có. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 7/7 toạ độ, 7/7 vi.wikipedia. Chứa 7 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Cung điện ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Cung điện ở Việt Nam — 7 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 7 bản ghi / 10 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "id": "science-solubility-rules",
+  "name": "Bộ Dữ Liệu Bảng Quy Tắc Độ Tan Toàn Diện",
+  "category": "science",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "ion_type",
+      "label": "Ion/Compound Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "formula",
+      "label": "Formula",
+      "type": "string"
+    },
+    {
+      "key": "solubility",
+      "label": "Solubility (EN)",
+      "type": "string"
+    },
+    {
+      "key": "exceptions",
+      "label": "Exceptions/Notes (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "examples",
+      "label": "Examples",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ion_type": "Nitrat",
+      "formula": "NO₃⁻",
+      "solubility": "Tan",
+      "exceptions": "Không có - tất cả các nitrat đều tan",
+      "category": "Luôn tan",
+      "examples": "NaNO₃, KNO₃, AgNO₃, Pb(NO₃)₂"
+    },
+    {
+      "ion_type": "Axetat",
+      "formula": "CH₃COO⁻ (C₂H₃O₂⁻)",
+      "solubility": "Tan",
+      "exceptions": "Bạc axetat tan ít",
+      "category": "Luôn tan",
+      "examples": "NaCH₃COO, KC₂H₃O₂, Ca(CH₃COO)₂"
+    },
+    {
+      "ion_type": "Clorat",
+      "formula": "ClO₃⁻",
+      "solubility": "Tan",
+      "exceptions": "Không có - tất cả các clorat đều tan",
+      "category": "Luôn tan",
+      "examples": "NaClO₃, KClO₃, Ba(ClO₃)₂"
+    },
+    {
+      "ion_type": "Perclorat",
+      "formula": "ClO₄⁻",
+      "solubility": "Tan",
+      "exceptions": "KClO₄, RbClO₄, CsClO₄ tan ít",
+      "category": "Luôn tan",
+      "examples": "NaClO₄, Mg(ClO₄)₂, Ca(ClO₄)₂"
+    },
+    {
+      "ion_type": "Ion kim loại kiềm",
+      "formula": "Li⁺, Na⁺, K⁺, Rb⁺, Cs⁺",
+      "solubility": "Tan",
+      "exceptions": "Không có - tất cả các muối Nhóm 1 đều tan",
+      "category": "Luôn tan",
+      "examples": "NaCl, KBr, Li₂SO₄, CsNO₃"
+    },
+    {
+      "ion_type": "Amoni",
+      "formula": "NH₄⁺",
+      "solubility": "Tan",
+      "exceptions": "Không có - tất cả các muối amoni đều tan",
+      "category": "Luôn tan",
+      "examples": "NH₄Cl, NH₄NO₃, (NH₄)₂SO₄, NH₄OH"
+    },
+    {
+      "ion_type": "Halogenua (Cl⁻, Br⁻, I⁻)",
+      "formula": "Cl⁻, Br⁻, I⁻",
+      "solubility": "Hầu hết tan",
+      "exceptions": "Halogenua của Ag⁺, Pb²⁺, Hg₂²⁺ không tan",
+      "category": "Tan có ngoại lệ",
+      "examples": "NaCl, KBr soluble; AgCl, PbI₂ insoluble"
+    },
+    {
+      "ion_type": "Fluorua",
+      "formula": "F⁻",
+      "solubility": "Hầu hết tan",
+      "exceptions": "Fluorua Nhóm 2 (MgF₂, CaF₂, BaF₂) và PbF₂ không tan",
+      "category": "Tan có ngoại lệ",
+      "examples": "NaF, KF soluble; CaF₂, BaF₂ insoluble"
+    },
+    {
+      "ion_type": "Sunfat",
+      "formula": "SO₄²⁻",
+      "solubility": "Hầu hết tan",
+      "exceptions": "BaSO₄, PbSO₄, HgSO₄, CaSO₄, SrSO₄, Ag₂SO₄ không tan hoặc tan ít",
+      "category": "Tan có ngoại lệ",
+      "examples": "Na₂SO₄, MgSO₄ soluble; BaSO₄, PbSO₄ insoluble"
+    },
+    {
+      "ion_type": "Carbonat",
+      "formula": "CO₃²⁻",
+      "solubility": "Hầu hết không tan",
+      "exceptions": "Carbonat kim loại kiềm và amoni tan",
+      "category": "Không tan có ngoại lệ",
+      "examples": "CaCO₃, BaCO₃ insoluble; Na₂CO₃, K₂CO₃ soluble"
+    },
+    {
+      "ion_type": "Phosphat",
+      "formula": "PO₄³⁻",
+      "solubility": "Hầu hết không tan",
+      "exceptions": "Phosphat kim loại kiềm và amoni tan",
+      "category": "Không tan có ngoại lệ",
+      "examples": "Ca₃(PO₄)₂, Ag₃PO₄ insoluble; Na₃PO₄ soluble"
+    },
+    {
+      "ion_type": "Cromat",
+      "formula": "CrO₄²⁻",
+      "solubility": "Hầu hết không tan",
+      "exceptions": "Cromat kim loại kiềm và amoni tan; MgCrO₄, CaCrO₄ tan",
+      "category": "Không tan có ngoại lệ",
+      "examples": "PbCrO₄, BaCrO₄, Ag₂CrO₄ insoluble; K₂CrO₄ soluble"
+    },
+    {
+      "ion_type": "Sulfua",
+      "formula": "S²⁻",
+      "solubility": "Hầu hết không tan",
+      "exceptions": "Sulfua kim loại kiềm, kiềm thổ và amoni tan",
+      "category": "Không tan có ngoại lệ",
+      "examples": "CuS, PbS, Ag₂S insoluble; Na₂S, (NH₄)₂S soluble"
+    },
+    {
+      "ion_type": "Hydroxit",
+      "formula": "OH⁻",
+      "solubility": "Hầu hết không tan",
+      "exceptions": "Hydroxit kim loại kiềm tan; Ca(OH)₂, Sr(OH)₂, Ba(OH)₂ tan ít",
+      "category": "Không tan có ngoại lệ",
+      "examples": "Fe(OH)₃, Al(OH)₃ insoluble; NaOH, KOH soluble"
+    },
+    {
+      "ion_type": "Oxit",
+      "formula": "O²⁻",
+      "solubility": "Hầu hết không tan",
+      "exceptions": "Oxit kim loại kiềm phản ứng với nước tạo thành hydroxit tan; CaO, SrO, BaO tan ít",
+      "category": "Không tan có ngoại lệ",
+      "examples": "Fe₂O₃, Al₂O₃ insoluble; Na₂O reacts with water"
+    },
+    {
+      "ion_type": "Sulfit",
+      "formula": "SO₃²⁻",
+      "solubility": "Hầu hết không tan",
+      "exceptions": "Sulfit kim loại kiềm và amoni tan",
+      "category": "Không tan có ngoại lệ",
+      "examples": "CaSO₃, BaSO₃ insoluble; Na₂SO₃ soluble"
+    },
+    {
+      "ion_type": "Oxalat",
+      "formula": "C₂O₄²⁻",
+      "solubility": "Hầu hết không tan",
+      "exceptions": "Oxalat kim loại kiềm và amoni tan",
+      "category": "Không tan có ngoại lệ",
+      "examples": "CaC₂O₄, BaC₂O₄ insoluble; Na₂C₂O₄ soluble"
+    },
+    {
+      "ion_type": "Bạc clorua",
+      "formula": "AgCl",
+      "solubility": "Không tan",
+      "exceptions": "Tan trong dung dịch NH₃ tạo thành [Ag(NH₃)₂]⁺",
+      "category": "Kết tủa phổ biến",
+      "examples": "White precipitate, Ksp = 1.8 × 10⁻¹⁰"
+    },
+    {
+      "ion_type": "Bạc bromua",
+      "formula": "AgBr",
+      "solubility": "Không tan",
+      "exceptions": "Tan ít hơn AgCl",
+      "category": "Kết tủa phổ biến",
+      "examples": "Light yellow precipitate, Ksp = 5.0 × 10⁻¹³"
+    },
+    {
+      "ion_type": "Bạc iodua",
+      "formula": "AgI",
+      "solubility": "Không tan",
+      "exceptions": "Halogenua bạc ít tan nhất",
+      "category": "Kết tủa phổ biến",
+      "examples": "Yellow precipitate, Ksp = 8.3 × 10⁻¹⁷"
+    },
+    {
+      "ion_type": "Chì(II) Clorua",
+      "formula": "PbCl₂",
+      "solubility": "Hơi tan",
+      "exceptions": "Tan nhiều hơn trong nước nóng",
+      "category": "Kết tủa phổ biến",
+      "examples": "White precipitate, Ksp = 1.7 × 10⁻⁵"
+    },
+    {
+      "ion_type": "Chì(II) Iodua",
+      "formula": "PbI₂",
+      "solubility": "Không tan",
+      "exceptions": "Tan nhiều hơn trong nước nóng (thí nghiệm mưa vàng)",
+      "category": "Kết tủa phổ biến",
+      "examples": "Bright yellow precipitate, Ksp = 7.9 × 10⁻⁹"
+    },
+    {
+      "ion_type": "Chì(II) Sulfat",
+      "formula": "PbSO₄",
+      "solubility": "Không tan",
+      "exceptions": "Tan trong H₂SO₄ đặc",
+      "category": "Kết tủa phổ biến",
+      "examples": "White precipitate, Ksp = 1.6 × 10⁻⁸"
+    },
+    {
+      "ion_type": "Bari Sulfat",
+      "formula": "BaSO₄",
+      "solubility": "Không tan",
+      "exceptions": "Rất không tan - dùng trong chẩn đoán hình ảnh y tế",
+      "category": "Kết tủa phổ biến",
+      "examples": "White precipitate, Ksp = 1.1 × 10⁻¹⁰"
+    },
+    {
+      "ion_type": "Canxi Cacbonat",
+      "formula": "CaCO₃",
+      "solubility": "Không tan",
+      "exceptions": "Tan trong axit; tan nhiều hơn trong nước giàu CO₂",
+      "category": "Kết tủa phổ biến",
+      "examples": "White precipitate (limestone, chalk), Ksp = 3.4 × 10⁻⁹"
+    },
+    {
+      "ion_type": "Canxi Sulfat",
+      "formula": "CaSO₄",
+      "solubility": "Hơi tan",
+      "exceptions": "Thạch cao, thạch cao khan",
+      "category": "Kết tủa phổ biến",
+      "examples": "White solid, Ksp = 2.4 × 10⁻⁵"
+    },
+    {
+      "ion_type": "Sắt(III) Hydroxit",
+      "formula": "Fe(OH)₃",
+      "solubility": "Không tan",
+      "exceptions": "Tan trong axit",
+      "category": "Kết tủa phổ biến",
+      "examples": "Rust-brown precipitate, Ksp = 6.3 × 10⁻³⁸"
+    },
+    {
+      "ion_type": "Đồng(II) Hydroxit",
+      "formula": "Cu(OH)₂",
+      "solubility": "Không tan",
+      "exceptions": "Tan trong NH₃ tạo thành [Cu(NH₃)₄]²⁺ (xanh đậm)",
+      "category": "Kết tủa phổ biến",
+      "examples": "Blue precipitate, Ksp = 2.2 × 10⁻²⁰"
+    },
+    {
+      "ion_type": "Magie Hydroxit",
+      "formula": "Mg(OH)₂",
+      "solubility": "Hơi tan",
+      "exceptions": "Sữa Magie - thuốc kháng axit",
+      "category": "Kết tủa phổ biến",
+      "examples": "White precipitate, Ksp = 1.8 × 10⁻¹¹"
+    },
+    {
+      "ion_type": "Nhôm Hydroxit",
+      "formula": "Al(OH)₃",
+      "solubility": "Không tan",
+      "exceptions": "Lưỡng tính - tan trong cả axit và bazơ",
+      "category": "Kết tủa phổ biến",
+      "examples": "White gelatinous precipitate, Ksp = 3 × 10⁻³⁴"
+    },
+    {
+      "ion_type": "Kẽm Hydroxit",
+      "formula": "Zn(OH)₂",
+      "solubility": "Không tan",
+      "exceptions": "Lưỡng tính - tan trong NaOH dư",
+      "category": "Kết tủa phổ biến",
+      "examples": "White precipitate, Ksp = 3 × 10⁻¹⁷"
+    }
+  ],
+  "meta": {
+    "seo_title": "Bảng Quy Tắc Độ Tan - Tải Xuống Miễn Phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống miễn phí bộ dữ liệu Bảng Quy Tắc Độ Tan toàn diện này (31 bản ghi). Có sẵn ở định dạng Excel, CSV và PDF cho sinh viên & chuyên gia hóa học.",
+    "title": "Bộ Dữ Liệu Bảng Quy Tắc Độ Tan Toàn Diện",
+    "description": "Bộ dữ liệu này cung cấp bảng chi tiết các quy tắc độ tan cho các hợp chất ion phổ biến, bao gồm công thức, trạng thái độ tan, ngoại lệ và các ví dụ minh họa. Đây là tài nguyên thiết yếu cho nghiên cứu hóa học.",
+    "key_takeaways": [
+      "Truy cập 31 quy tắc độ tan chính cho các ion và hợp chất khác nhau.",
+      "Khám phá các ngoại lệ và ghi chú chi tiết cho từng hướng dẫn độ tan.",
+      "Tải xuống tài liệu tham khảo sẵn sàng sử dụng cho các khóa học và công việc phòng thí nghiệm hóa học.",
+      "Nhận các ví dụ thực tế về các hợp chất hòa tan và không hòa tan."
+    ],
+    "keywords": [
+      "bảng quy tắc độ tan excel",
+      "biểu đồ độ tan hóa học csv",
+      "độ tan hợp chất ion pdf",
+      "bộ dữ liệu tham khảo hóa học",
+      "tải dữ liệu độ tan",
+      "hướng dẫn độ tan"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL hoặc tập lệnh Python của bạn để phân tích theo chương trình và tích hợp vào các ứng dụng giáo dục.",
+      "Sử dụng tệp **Excel** để lọc, sắp xếp và tạo báo cáo tùy chỉnh cho các bài tập hóa học hoặc phân tích dữ liệu phòng thí nghiệm.",
+      "In phiên bản **PDF** để có một biểu đồ tham khảo tiện dụng, ngoại tuyến trong lớp học hoặc trong quá trình thí nghiệm.",
+      "Tận dụng bộ dữ liệu này để nhanh chóng xác minh độ tan của các hợp chất khác nhau cho dự đoán phản ứng hóa học và thiết kế thí nghiệm."
+    ]
+  },
+  "record_count": 31,
+  "title": "Bộ Dữ Liệu Bảng Quy Tắc Độ Tan Toàn Diện"
+}

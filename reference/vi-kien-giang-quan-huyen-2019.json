@@ -1,0 +1,216 @@
+{
+  "id": "vi-kien-giang-quan-huyen-2019",
+  "name": "Kiên Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Kiên Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 15 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Kiên Giang theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 13 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/KG.json). (15 district-level units of Kiên Giang under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "KG-01",
+      "name": "An Biên",
+      "name_full": "Huyện An Biên",
+      "slug": "an-bien",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 9
+    },
+    {
+      "code": "KG-02",
+      "name": "An Minh",
+      "name_full": "Huyện An Minh",
+      "slug": "an-minh",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 11
+    },
+    {
+      "code": "KG-03",
+      "name": "Châu Thành",
+      "name_full": "Huyện Châu Thành",
+      "slug": "chau-thanh",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 10
+    },
+    {
+      "code": "KG-04",
+      "name": "Giang Thành",
+      "name_full": "Huyện Giang Thành",
+      "slug": "giang-thanh",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 5
+    },
+    {
+      "code": "KG-05",
+      "name": "Giồng Riềng",
+      "name_full": "Huyện Giồng Riềng",
+      "slug": "giong-rieng",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 19
+    },
+    {
+      "code": "KG-06",
+      "name": "Gò Quao",
+      "name_full": "Huyện Gò Quao",
+      "slug": "go-quao",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 11
+    },
+    {
+      "code": "KG-07",
+      "name": "Hà Tiên",
+      "name_full": "Thị xã Hà Tiên",
+      "slug": "ha-tien",
+      "division_type": "Thị xã",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 7
+    },
+    {
+      "code": "KG-08",
+      "name": "Hòn Đất",
+      "name_full": "Huyện Hòn Đất",
+      "slug": "hon-dat",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 14
+    },
+    {
+      "code": "KG-09",
+      "name": "Kiên Hải",
+      "name_full": "Huyện Kiên Hải",
+      "slug": "kien-hai",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 4
+    },
+    {
+      "code": "KG-10",
+      "name": "Kiên Lương",
+      "name_full": "Huyện Kiên Lương",
+      "slug": "kien-luong",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 8
+    },
+    {
+      "code": "KG-11",
+      "name": "Phú Quốc",
+      "name_full": "Huyện Phú Quốc",
+      "slug": "phu-quoc",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 10
+    },
+    {
+      "code": "KG-12",
+      "name": "Rạch Giá",
+      "name_full": "Thành phố Rạch Giá",
+      "slug": "rach-gia",
+      "division_type": "Thành phố",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 12
+    },
+    {
+      "code": "KG-13",
+      "name": "Tân Hiệp",
+      "name_full": "Huyện Tân Hiệp",
+      "slug": "tan-hiep",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 11
+    },
+    {
+      "code": "KG-14",
+      "name": "U minh Thượng",
+      "name_full": "Huyện U minh Thượng",
+      "slug": "u-minh-thuong",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 6
+    },
+    {
+      "code": "KG-15",
+      "name": "Vĩnh Thuận",
+      "name_full": "Huyện Vĩnh Thuận",
+      "slug": "vinh-thuan",
+      "division_type": "Huyện",
+      "province_code": "KG",
+      "province_name": "Kiên Giang",
+      "ward_count": 8
+    }
+  ],
+  "meta": {
+    "title": "Kiên Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 15 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Kiên Giang theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 13 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/KG.json). (15 district-level units of Kiên Giang under the pre-2025-merger 3-tier hierarchy.) Chứa 15 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Kiên Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Kiên Giang — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 15 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 15 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

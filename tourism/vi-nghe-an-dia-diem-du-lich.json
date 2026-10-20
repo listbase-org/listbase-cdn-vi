@@ -1,0 +1,126 @@
+{
+  "id": "vi-nghe-an-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Nghệ An",
+  "title": "Địa điểm du lịch Nghệ An",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Nghệ An (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 46,
+      "ten_dia_diem": "Làng Sen",
+      "vi_tri": "Nghệ An",
+      "tinh_truoc_sap_nhap_2025": "Nghệ An",
+      "mo_ta": "Là một ngôi nhà tranh đơn sơ, giếng Cốc, và những kỷ vật gắn liền với thời thơ ấu của Bác.",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://tse3.mm.bing.net/th?id=OIP.3gHvKfVcK1kovpdqLo2OtwAAAA&pid=Api&P=0&h=220",
+      "tu_khoa": "lịch sử, tham quan, di tích, văn hóa"
+    },
+    {
+      "stt": 47,
+      "ten_dia_diem": "Bãi biển Cửa Lò",
+      "vi_tri": "Nghệ An",
+      "tinh_truoc_sap_nhap_2025": "Nghệ An",
+      "mo_ta": "Một trong những bãi biển đẹp nhất miền Trung, Cửa Lò thu hút du khách với cát trắng mịn, nước biển trong xanh và hải sản tươi ngon.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://tse1.mm.bing.net/th?id=OIP.hzSUzcdB1G9w2e52jf6HHAHaD-&pid=Api&P=0&h=220",
+      "tu_khoa": "biển, vui chơi, chụp ảnh, nghĩ dưỡng"
+    },
+    {
+      "stt": 48,
+      "ten_dia_diem": "Khu di tích Truông Bồn",
+      "vi_tri": "Nghệ An",
+      "tinh_truoc_sap_nhap_2025": "Nghệ An",
+      "mo_ta": "Là một di tích lịch sử quan trọng, nơi tưởng nhớ các anh hùng liệt sĩ đã hy sinh trong cuộc kháng chiến chống Mỹ.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://tse3.mm.bing.net/th?id=OIP.XdhDVeaTTt6NYVOiOOHpSAHaEK&pid=Api&P=0&h=220",
+      "tu_khoa": "lịch sử, tham quan, di tích, văn hóa"
+    },
+    {
+      "stt": 49,
+      "ten_dia_diem": "Đồi chè Thanh Chương",
+      "vi_tri": "Nghệ An",
+      "tinh_truoc_sap_nhap_2025": "Nghệ An",
+      "mo_ta": "Được mệnh danh là \"đảo chè\", đồi chè Thanh Chương là địa điểm lý tưởng để chụp ảnh và tận hưởng không khí trong lành.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/doi-che-thanh-chuong.jpg",
+      "tu_khoa": "đồi, tham quan, chụp ảnh"
+    },
+    {
+      "stt": 50,
+      "ten_dia_diem": "Hang Thẩm Ồm",
+      "vi_tri": "Nghệ An",
+      "tinh_truoc_sap_nhap_2025": "Nghệ An",
+      "mo_ta": "Là một hang động lớn, với nhiều thạch nhũ kỳ ảo, hình thù độc đáo.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://tse1.mm.bing.net/th?id=OIP.dqYi6NCHovDo0Srdp6NMwQHaE8&pid=Api&P=0&h=220",
+      "tu_khoa": "hang động, thám hiểm, chụp ảnh"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Nghệ An - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Nghệ An (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Nghệ An | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Nghệ An — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

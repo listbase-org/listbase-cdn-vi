@@ -1,0 +1,126 @@
+{
+  "id": "vi-quang-tri-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Quảng Trị",
+  "title": "Địa điểm du lịch Quảng Trị",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Quảng Trị (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 91,
+      "ten_dia_diem": "Nghĩa trang Liệt sĩ Quốc gia Trường Sơn",
+      "vi_tri": "Quảng Trị",
+      "tinh_truoc_sap_nhap_2025": "Quảng Trị",
+      "mo_ta": "Địa điểm ghi dấu ấn về những mất mát, minh chứng cho những gì tàn bạo nhất của giặc ngoại xâm. Nơi này đã đi vào lịch sử, biểu tượng của sự bi tráng và lòng anh dũng của những con người yêu nước, đặt sự độc lập và vận mệnh dân tộc lên hàng đầu.",
+      "danh_gia": "4.8/5",
+      "danh_gia_diem": 4.8,
+      "anh": "http://surl.li/mebyuu",
+      "tu_khoa": "ghi dấu, mất mác, minh chứng, tàn bạo, lịch sử, anh dũng, yêu nước, độc lập, vận mệnh."
+    },
+    {
+      "stt": 92,
+      "ten_dia_diem": "Địa đạo Vịnh Mốc",
+      "vi_tri": "Quảng Trị",
+      "tinh_truoc_sap_nhap_2025": "Quảng Trị",
+      "mo_ta": "Công trình này ở sâu lòng đất, được người dân đào trong kháng chiến chống Mỹ. Địa đạo gồm có nhiều khu vực như trường học, kho hậu cần, bệnh viện, khu quân sự và khu gia đình.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "http://surl.li/ogxfcj",
+      "tu_khoa": "sâu, lòng đất, kháng chiến"
+    },
+    {
+      "stt": 93,
+      "ten_dia_diem": "Bãi biển Cửa Tùng",
+      "vi_tri": "Quảng Trị",
+      "tinh_truoc_sap_nhap_2025": "Quảng Trị",
+      "mo_ta": "Mùa hè đến bãi biển này, bạn sẽ thấy được nét đẹp bình yên của biển xanh, cát trắng. Khung cảnh tĩnh lặng vào buổi chiều hoàng hôn khiến bao trái tim bị mê hoặc.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "http://surl.li/bxuyel",
+      "tu_khoa": "Bãi biển, biển xanh, cát trắng, tĩnh lặng"
+    },
+    {
+      "stt": 94,
+      "ten_dia_diem": "Đồi hoa Miền Viên Thảo",
+      "vi_tri": "Quảng Trị",
+      "tinh_truoc_sap_nhap_2025": "Quảng Trị",
+      "mo_ta": "Nổi bật với cánh đồng hoa rực rỡ và nở rộ quanh năm. Thời tiết ở đây cực kỳ mát mẻ nên việc trồng hoa khá thuận lợi. Địa điểm du lịch Quảng Trị có đủ hoa hồng, cúc họa mi, hoa cải vàng. Đặc biệt, nếu bạn yêu thích hoa tam giác mạch thì không thể bỏ hoa Miền Viên Thảo.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "http://surl.li/cidfnv",
+      "tu_khoa": "Cánh đồng hoa, thích hoa, mát mẻ"
+    },
+    {
+      "stt": 95,
+      "ten_dia_diem": "Đỉnh Cu Vơ",
+      "vi_tri": "Quảng Trị",
+      "tinh_truoc_sap_nhap_2025": "Quảng Trị",
+      "mo_ta": "Rất thích hợp cho nhóm bạn đi phượt. Cực kì thu hút các bạn trẻ đến để săn mây. Vào buổi sáng sớm, đứng ở ngọn núi, mở ra trước mắt bạn là những tầng mây trắng. Khoảnh khắc ánh nắng mặt trời rọi xuống thực sự đẹp biết bao.",
+      "danh_gia": "",
+      "danh_gia_diem": "",
+      "anh": "http://surl.li/yoyuch",
+      "tu_khoa": "Đồi, săn mây, phượt, núi, mây trắng"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Quảng Trị - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Quảng Trị (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Quảng Trị | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Quảng Trị — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

@@ -1,0 +1,527 @@
+{
+  "id": "vi-trai-phieu",
+  "name": "Trái phiếu Việt Nam — danh sách",
+  "title": "Trái phiếu Việt Nam — danh sách",
+  "description": "Danh sách trái phiếu (BOND) niêm yết, giao dịch tại Việt Nam.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "exchange",
+      "label": "Exchange",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "organ_short_name",
+      "label": "Organ Short Name",
+      "type": "string"
+    },
+    {
+      "key": "organ_name",
+      "label": "Organ Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "symbol": "VRE12007",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "VRE12007 - Trái phiếu",
+      "organ_name": "VRE12007 - Trái phiếu"
+    },
+    {
+      "symbol": "VPI124001",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "VPI124001 - Trái phiếu",
+      "organ_name": "VPI124001 - Trái phiếu"
+    },
+    {
+      "symbol": "VIC124005",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "VIC124005 - Trái phiếu",
+      "organ_name": "VIC124005 - Trái phiếu"
+    },
+    {
+      "symbol": "VIC124004",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "VIC124004 - Trái phiếu",
+      "organ_name": "VIC124004 - Trái phiếu"
+    },
+    {
+      "symbol": "VIC124003",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "VIC124003 - Trái phiếu",
+      "organ_name": "VIC124003 - Trái phiếu"
+    },
+    {
+      "symbol": "VIC123029",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "VIC123029 - Trái phiếu",
+      "organ_name": "VIC123029 - Trái phiếu"
+    },
+    {
+      "symbol": "VIC123028",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "VIC123028 - Trái phiếu",
+      "organ_name": "VIC123028 - Trái phiếu"
+    },
+    {
+      "symbol": "VHM121025",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "VHM121025 - Trái phiếu",
+      "organ_name": "VHM121025 - Trái phiếu"
+    },
+    {
+      "symbol": "VBB124007",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "VBB124007 - Trái phiếu",
+      "organ_name": "VBB124007 - Trái phiếu"
+    },
+    {
+      "symbol": "VBB123017",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "VBB123017 - Trái phiếu",
+      "organ_name": "VBB123017 - Trái phiếu"
+    },
+    {
+      "symbol": "VBA124019",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "VBA124019 - Trái phiếu",
+      "organ_name": "VBA124019 - Trái phiếu"
+    },
+    {
+      "symbol": "VBA123036",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "VBA123036 - Trái phiếu",
+      "organ_name": "VBA123036 - Trái phiếu"
+    },
+    {
+      "symbol": "VBA122001",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "VBA122001 - Trái phiếu",
+      "organ_name": "VBA122001 - Trái phiếu"
+    },
+    {
+      "symbol": "VBA121033",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "VBA121033 - Trái phiếu",
+      "organ_name": "VBA121033 - Trái phiếu"
+    },
+    {
+      "symbol": "TNG122017",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "TNG122017 - Trái phiếu",
+      "organ_name": "TNG122017 - Trái phiếu"
+    },
+    {
+      "symbol": "TDP124010",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "TDP124010 - Trái phiếu",
+      "organ_name": "TDP124010 - Trái phiếu"
+    },
+    {
+      "symbol": "TCX124013",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "TCX124013 - Trái phiếu",
+      "organ_name": "TCX124013 - Trái phiếu"
+    },
+    {
+      "symbol": "TCX124012",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "TCX124012 - Trái phiếu",
+      "organ_name": "TCX124012 - Trái phiếu"
+    },
+    {
+      "symbol": "TCX124011",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "TCX124011 - Trái phiếu",
+      "organ_name": "TCX124011 - Trái phiếu"
+    },
+    {
+      "symbol": "NVL122001",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "NVL122001 - Trái phiếu",
+      "organ_name": "NVL122001 - Trái phiếu"
+    },
+    {
+      "symbol": "NPM123024",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "NPM123024 - Trái phiếu",
+      "organ_name": "NPM123024 - Trái phiếu"
+    },
+    {
+      "symbol": "NPM123023",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "NPM123023 - Trái phiếu",
+      "organ_name": "NPM123023 - Trái phiếu"
+    },
+    {
+      "symbol": "NPM123022",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "NPM123022 - Trái phiếu",
+      "organ_name": "NPM123022 - Trái phiếu"
+    },
+    {
+      "symbol": "NPM123021",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "NPM123021 - Trái phiếu",
+      "organ_name": "NPM123021 - Trái phiếu"
+    },
+    {
+      "symbol": "MSN123014",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "MSN123014 - Trái phiếu",
+      "organ_name": "MSN123014 - Trái phiếu"
+    },
+    {
+      "symbol": "MSN123010",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "MSN123010 - Trái phiếu",
+      "organ_name": "MSN123010 - Trái phiếu"
+    },
+    {
+      "symbol": "MSN123009",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "MSN123009 - Trái phiếu",
+      "organ_name": "MSN123009 - Trái phiếu"
+    },
+    {
+      "symbol": "MSN123008",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "MSN123008 - Trái phiếu",
+      "organ_name": "MSN123008 - Trái phiếu"
+    },
+    {
+      "symbol": "MML121021",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "MML121021 - Trái phiếu",
+      "organ_name": "MML121021 - Trái phiếu"
+    },
+    {
+      "symbol": "MBB124022",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "MBB124022 - Trái phiếu",
+      "organ_name": "MBB124022 - Trái phiếu"
+    },
+    {
+      "symbol": "MBB124017",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "MBB124017 - Trái phiếu",
+      "organ_name": "MBB124017 - Trái phiếu"
+    },
+    {
+      "symbol": "LPB123016",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "LPB123016 - Trái phiếu",
+      "organ_name": "LPB123016 - Trái phiếu"
+    },
+    {
+      "symbol": "LPB123015",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "LPB123015 - Trái phiếu",
+      "organ_name": "LPB123015 - Trái phiếu"
+    },
+    {
+      "symbol": "LPB123009",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "LPB123009 - Trái phiếu",
+      "organ_name": "LPB123009 - Trái phiếu"
+    },
+    {
+      "symbol": "LPB123008",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "LPB123008 - Trái phiếu",
+      "organ_name": "LPB123008 - Trái phiếu"
+    },
+    {
+      "symbol": "LPB122013",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "LPB122013 - Trái phiếu",
+      "organ_name": "LPB122013 - Trái phiếu"
+    },
+    {
+      "symbol": "LPB122011",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "LPB122011 - Trái phiếu",
+      "organ_name": "LPB122011 - Trái phiếu"
+    },
+    {
+      "symbol": "LPB121036",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "LPB121036 - Trái phiếu",
+      "organ_name": "LPB121036 - Trái phiếu"
+    },
+    {
+      "symbol": "HDB124023",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "HDB124023 - Trái phiếu",
+      "organ_name": "HDB124023 - Trái phiếu"
+    },
+    {
+      "symbol": "HDB124018",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "HDB124018 - Trái phiếu",
+      "organ_name": "HDB124018 - Trái phiếu"
+    },
+    {
+      "symbol": "HDB124006",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "HDB124006 - Trái phiếu",
+      "organ_name": "HDB124006 - Trái phiếu"
+    },
+    {
+      "symbol": "CVT122009",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "CVT122009 - Trái phiếu",
+      "organ_name": "CVT122009 - Trái phiếu"
+    },
+    {
+      "symbol": "CTG123034",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "CTG123034 - Trái phiếu",
+      "organ_name": "CTG123034 - Trái phiếu"
+    },
+    {
+      "symbol": "CTG123033",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "CTG123033 - Trái phiếu",
+      "organ_name": "CTG123033 - Trái phiếu"
+    },
+    {
+      "symbol": "CTG123019",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "CTG123019 - Trái phiếu",
+      "organ_name": "CTG123019 - Trái phiếu"
+    },
+    {
+      "symbol": "CTG123018",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "CTG123018 - Trái phiếu",
+      "organ_name": "CTG123018 - Trái phiếu"
+    },
+    {
+      "symbol": "CTG121031",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "CTG121031 - Trái phiếu",
+      "organ_name": "CTG121031 - Trái phiếu"
+    },
+    {
+      "symbol": "CMX123035",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "CMX123035 - Trái phiếu",
+      "organ_name": "CMX123035 - Trái phiếu"
+    },
+    {
+      "symbol": "CII424002",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "CII424002 - Trái phiếu",
+      "organ_name": "CII424002 - Trái phiếu"
+    },
+    {
+      "symbol": "CII42013",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "CII42013 - Trái phiếu",
+      "organ_name": "CII42013 - Trái phiếu"
+    },
+    {
+      "symbol": "CII124021",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "CII124021 - Trái phiếu",
+      "organ_name": "CII124021 - Trái phiếu"
+    },
+    {
+      "symbol": "BVB124020",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "BVB124020 - Trái phiếu",
+      "organ_name": "BVB124020 - Trái phiếu"
+    },
+    {
+      "symbol": "BID123004",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "BID123004 - Trái phiếu",
+      "organ_name": "BID123004 - Trái phiếu"
+    },
+    {
+      "symbol": "BID123003",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "BID123003 - Trái phiếu",
+      "organ_name": "BID123003 - Trái phiếu"
+    },
+    {
+      "symbol": "BID122005",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "BID122005 - Trái phiếu",
+      "organ_name": "BID122005 - Trái phiếu"
+    },
+    {
+      "symbol": "BCG122006",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "BCG122006 - Trái phiếu",
+      "organ_name": "BCG122006 - Trái phiếu"
+    },
+    {
+      "symbol": "BAF123020",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "BAF123020 - Trái phiếu",
+      "organ_name": "BAF123020 - Trái phiếu"
+    },
+    {
+      "symbol": "BAF122029",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "BAF122029 - Trái phiếu",
+      "organ_name": "BAF122029 - Trái phiếu"
+    },
+    {
+      "symbol": "BAB124026",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "BAB124026 - Trái phiếu",
+      "organ_name": "BAB124026 - Trái phiếu"
+    },
+    {
+      "symbol": "BAB124025",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "BAB124025 - Trái phiếu",
+      "organ_name": "BAB124025 - Trái phiếu"
+    },
+    {
+      "symbol": "BAB124024",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "BAB124024 - Trái phiếu",
+      "organ_name": "BAB124024 - Trái phiếu"
+    },
+    {
+      "symbol": "BAB124016",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "BAB124016 - Trái phiếu",
+      "organ_name": "BAB124016 - Trái phiếu"
+    },
+    {
+      "symbol": "BAB124015",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "BAB124015 - Trái phiếu",
+      "organ_name": "BAB124015 - Trái phiếu"
+    },
+    {
+      "symbol": "BAB124014",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "BAB124014 - Trái phiếu",
+      "organ_name": "BAB124014 - Trái phiếu"
+    },
+    {
+      "symbol": "BAB123032",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "BAB123032 - Trái phiếu",
+      "organ_name": "BAB123032 - Trái phiếu"
+    },
+    {
+      "symbol": "BAB123031",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "BAB123031 - Trái phiếu",
+      "organ_name": "BAB123031 - Trái phiếu"
+    },
+    {
+      "symbol": "BAB123007",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "BAB123007 - Trái phiếu",
+      "organ_name": "BAB123007 - Trái phiếu"
+    },
+    {
+      "symbol": "BAB122032",
+      "exchange": "BOND",
+      "type": "BOND",
+      "organ_short_name": "BAB122032 - Trái phiếu",
+      "organ_name": "BAB122032 - Trái phiếu"
+    }
+  ],
+  "meta": {
+    "title": "Trái phiếu Việt Nam — danh sách - Tải miễn phí",
+    "description": "Danh sách trái phiếu (BOND) niêm yết, giao dịch tại Việt Nam. Chứa 68 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Trái phiếu Việt Nam — danh sách | ListBase",
+    "seo_description": "Tải xuống Trái phiếu Việt Nam — danh sách — 68 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 68 bản ghi / 5 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

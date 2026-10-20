@@ -1,0 +1,126 @@
+{
+  "id": "vi-tra-vinh-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Trà Vinh",
+  "title": "Địa điểm du lịch Trà Vinh",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Trà Vinh (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 216,
+      "ten_dia_diem": "Ao bà om",
+      "vi_tri": "Trà Vinh",
+      "tinh_truoc_sap_nhap_2025": "Trà Vinh",
+      "mo_ta": "Ao Bà Om là một hồ nước tự nhiên, được bao quanh bởi hàng cây cổ thụ hàng trăm năm tuổi với rễ cây nổi lên thành những hình thù kỳ thú. Đây là một địa điểm du lịch yên bình, gắn liền với truyền thuyết và văn hóa Khmer.",
+      "danh_gia": "4.1/5",
+      "danh_gia_diem": 4.1,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwAYvrczPEgIMA3BxZk7FuuDVdr_85Y0Sbg&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 217,
+      "ten_dia_diem": "Chùa Hang",
+      "vi_tri": "Trà Vinh",
+      "tinh_truoc_sap_nhap_2025": "Trà Vinh",
+      "mo_ta": "Chùa Hang nổi tiếng không chỉ vì kiến trúc độc đáo mà còn vì những tác phẩm điêu khắc gỗ tinh xảo của các nghệ nhân Khmer. Ngôi chùa này là điểm dừng chân lý tưởng cho những ai muốn khám phá nghệ thuật và văn hóa Khmer.",
+      "danh_gia": "4.9/5",
+      "danh_gia_diem": 4.9,
+      "anh": "https://dulichnuisam.vn/wp-content/uploads/2023/01/CHUAHANG1-scaled.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 218,
+      "ten_dia_diem": "Bãi biển Ba Động",
+      "vi_tri": "Trà Vinh",
+      "tinh_truoc_sap_nhap_2025": "Trà Vinh",
+      "mo_ta": "bãi biển hoang sơ với cát mịn và sóng nhẹ, Ba Động là nơi thích hợp để thư giãn và thưởng thức các món hải sản tươi ngon. Đây là một trong những bãi biển hiếm hoi ở miền Tây Nam Bộ.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIGIWhgylUovF3TjKNq5WlTWXLBj_ZyCNKlQ&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 219,
+      "ten_dia_diem": "Bảo tàng Văn hóa Khmer",
+      "vi_tri": "Trà Vinh",
+      "tinh_truoc_sap_nhap_2025": "Trà Vinh",
+      "mo_ta": "Bảo tàng trưng bày các hiện vật, tư liệu về đời sống, văn hóa, nghệ thuật và lịch sử của người Khmer Nam Bộ, giúp du khách hiểu thêm về cộng đồng dân tộc này.",
+      "danh_gia": "4.1/5",
+      "danh_gia_diem": 4.1,
+      "anh": "https://dulichthuduc.com.vn/vnt_upload/news/MIEN-TAY/tra-vinh/bao_tang_van_hoa_dan_toc_khmer_tra_vinh_du_lich_thu_duc_1.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 220,
+      "ten_dia_diem": "Chùa Vàm Rây",
+      "vi_tri": "Trà Vinh",
+      "tinh_truoc_sap_nhap_2025": "Trà Vinh",
+      "mo_ta": "Là ngôi chùa Khmer lớn nhất Việt Nam, chùa Vàm Rây gây ấn tượng bởi kiến trúc vàng rực rỡ, tượng Phật nằm khổng lồ và không gian tĩnh lặng.",
+      "danh_gia": "4.2/5",
+      "danh_gia_diem": 4.2,
+      "anh": "https://dulichtravinh.com.vn/wp-content/uploads/2021/08/3-Chua-Vam-Ray-XTDLTV-scaled.jpg",
+      "tu_khoa": ""
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Trà Vinh - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Trà Vinh (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Trà Vinh | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Trà Vinh — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

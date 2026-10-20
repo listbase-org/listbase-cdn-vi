@@ -1,0 +1,126 @@
+{
+  "id": "vi-ha-tinh-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Hà Tĩnh",
+  "title": "Địa điểm du lịch Hà Tĩnh",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Hà Tĩnh (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "number"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 286,
+      "ten_dia_diem": "Ngã ba Đồng Lộc",
+      "vi_tri": "Hà Tĩnh",
+      "tinh_truoc_sap_nhap_2025": "Hà Tĩnh",
+      "mo_ta": "Ngã ba Đồng Lộc (Hà Tĩnh) là di tích lịch sử nổi tiếng gắn liền với cuộc kháng chiến chống Mỹ. Nơi đây là nơi tưởng niệm các liệt sĩ hy sinh trong chiến tranh.",
+      "danh_gia": "4.4",
+      "danh_gia_diem": 4.4,
+      "anh": "https://lh5.googleusercontent.com/proxy/sF7ugItIUxhPD4gRthgCfsONGinLrN4hEqo_HzazT8C3WqdNtM-xAkxSX-huljbHsrCQLUpdXEgl5zs6Ne7fTaq__2Y",
+      "tu_khoa": "di sản, lịch sử, văn hóa"
+    },
+    {
+      "stt": 287,
+      "ten_dia_diem": "Chùa Hương Tích",
+      "vi_tri": "Hà Tĩnh",
+      "tinh_truoc_sap_nhap_2025": "Hà Tĩnh",
+      "mo_ta": "Ngã ba Đồng Lộc (Hà Tĩnh) là di tích lịch sử nổi tiếng gắn liền với cuộc kháng chiến chống Mỹ. Nơi đây là nơi tưởng niệm các liệt sĩ hy sinh trong chiến tranh.",
+      "danh_gia": "3.9",
+      "danh_gia_diem": 3.9,
+      "anh": "https://static.kinhtedothi.vn/images/upload/2021/12/20/7a462a22-c4d4-492f-b92a-c83c57c2e93d.jpg",
+      "tu_khoa": "địa phương, độc đáo, khám phá"
+    },
+    {
+      "stt": 288,
+      "ten_dia_diem": "Biển Thiên Cầm",
+      "vi_tri": "Hà Tĩnh",
+      "tinh_truoc_sap_nhap_2025": "Hà Tĩnh",
+      "mo_ta": "Biển Thiên Cầm (Hà Tĩnh) là bãi biển xinh đẹp với bãi cát dài và nước biển trong xanh, nơi du khách có thể thư giãn và tham gia các hoạt động thể thao biển.",
+      "danh_gia": "3.2",
+      "danh_gia_diem": 3.2,
+      "anh": "https://thiencam.net/wp-content/uploads/2017/04/thien-cam-ha-tinh.jpg",
+      "tu_khoa": "thiên nhiên, du lịch, hòa bình"
+    },
+    {
+      "stt": 289,
+      "ten_dia_diem": "Khu di tích Nguyễn Du",
+      "vi_tri": "Hà Tĩnh",
+      "tinh_truoc_sap_nhap_2025": "Hà Tĩnh",
+      "mo_ta": "Khu di tích Nguyễn Du (Hà Tĩnh) là nơi tưởng niệm đại thi hào Nguyễn Du, tác giả của \"Truyện Kiều\". Di tích này giữ gìn những giá trị văn hóa, lịch sử về cuộc đời và sự nghiệp của ông.",
+      "danh_gia": "4.9",
+      "danh_gia_diem": 4.9,
+      "anh": "https://bizweb.dktcdn.net/100/467/540/files/5e51f1b2-2e3d-495d-ba66-b2fc90acdf3f-c2174aa5-b9f4-484f-9089-1e386f3d8ff1.jpg?v=1695609583388",
+      "tu_khoa": "cảnh quan, địa danh, nổi bật"
+    },
+    {
+      "stt": 290,
+      "ten_dia_diem": "Đèo Ngang",
+      "vi_tri": "Hà Tĩnh",
+      "tinh_truoc_sap_nhap_2025": "Hà Tĩnh",
+      "mo_ta": "Đèo Ngang (Quảng Bình) là một trong những con đèo đẹp nhất Việt Nam, nối liền hai tỉnh Quảng Bình và Hà Tĩnh. Đèo có cảnh quan hùng vĩ và thơ mộng.",
+      "danh_gia": "4.3",
+      "danh_gia_diem": 4.3,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlUKMe1H2ET_dO5xzAeo6GyQ6R07Ci3huow&s",
+      "tu_khoa": "khám phá, thiên nhiên, thư giãn"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Hà Tĩnh - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Hà Tĩnh (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Hà Tĩnh | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Hà Tĩnh — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

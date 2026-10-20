@@ -1,0 +1,156 @@
+{
+  "id": "vi-tay-ninh-quan-huyen-2019",
+  "name": "Tây Ninh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Tây Ninh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 9 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Tây Ninh theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 1 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/TNI.json). (9 district-level units of Tây Ninh under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "TNI-01",
+      "name": "Bến Cầu",
+      "name_full": "Huyện Bến Cầu",
+      "slug": "ben-cau",
+      "division_type": "Huyện",
+      "province_code": "TNI",
+      "province_name": "Tây Ninh",
+      "ward_count": 9
+    },
+    {
+      "code": "TNI-02",
+      "name": "Châu Thành",
+      "name_full": "Huyện Châu Thành",
+      "slug": "chau-thanh",
+      "division_type": "Huyện",
+      "province_code": "TNI",
+      "province_name": "Tây Ninh",
+      "ward_count": 15
+    },
+    {
+      "code": "TNI-03",
+      "name": "Dương Minh Châu",
+      "name_full": "Huyện Dương Minh Châu",
+      "slug": "duong-minh-chau",
+      "division_type": "Huyện",
+      "province_code": "TNI",
+      "province_name": "Tây Ninh",
+      "ward_count": 11
+    },
+    {
+      "code": "TNI-04",
+      "name": "Gò Dầu",
+      "name_full": "Huyện Gò Dầu",
+      "slug": "go-dau",
+      "division_type": "Huyện",
+      "province_code": "TNI",
+      "province_name": "Tây Ninh",
+      "ward_count": 9
+    },
+    {
+      "code": "TNI-05",
+      "name": "Hòa Thành",
+      "name_full": "Huyện Hòa Thành",
+      "slug": "hoa-thanh",
+      "division_type": "Huyện",
+      "province_code": "TNI",
+      "province_name": "Tây Ninh",
+      "ward_count": 8
+    },
+    {
+      "code": "TNI-06",
+      "name": "Tân Biên",
+      "name_full": "Huyện Tân Biên",
+      "slug": "tan-bien",
+      "division_type": "Huyện",
+      "province_code": "TNI",
+      "province_name": "Tây Ninh",
+      "ward_count": 10
+    },
+    {
+      "code": "TNI-07",
+      "name": "Tân Châu",
+      "name_full": "Huyện Tân Châu",
+      "slug": "tan-chau",
+      "division_type": "Huyện",
+      "province_code": "TNI",
+      "province_name": "Tây Ninh",
+      "ward_count": 12
+    },
+    {
+      "code": "TNI-08",
+      "name": "Tây Ninh",
+      "name_full": "Thị xã Tây Ninh",
+      "slug": "tay-ninh",
+      "division_type": "Thị xã",
+      "province_code": "TNI",
+      "province_name": "Tây Ninh",
+      "ward_count": 10
+    },
+    {
+      "code": "TNI-09",
+      "name": "Trảng Bàng",
+      "name_full": "Huyện Trảng Bàng",
+      "slug": "trang-bang",
+      "division_type": "Huyện",
+      "province_code": "TNI",
+      "province_name": "Tây Ninh",
+      "ward_count": 11
+    }
+  ],
+  "meta": {
+    "title": "Tây Ninh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 9 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Tây Ninh theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 1 Thị xã. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/TNI.json). (9 district-level units of Tây Ninh under the pre-2025-merger 3-tier hierarchy.) Chứa 9 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Tây Ninh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Tây Ninh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 9 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 9 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

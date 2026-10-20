@@ -1,0 +1,126 @@
+{
+  "id": "vi-lang-son-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Lạng Sơn",
+  "title": "Địa điểm du lịch Lạng Sơn",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Lạng Sơn (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 26,
+      "ten_dia_diem": "Động Tam Thanh",
+      "vi_tri": "Lạng Sơn",
+      "tinh_truoc_sap_nhap_2025": "Lạng Sơn",
+      "mo_ta": "Được mệnh danh là \"Đệ nhất bát cảnh Xứ Lạng\"các nhũ đá kỳ thú và nhiều di tích cổ như tượng Phật A Di Đà cao 2m được tạc từ thế kỷ 15.",
+      "danh_gia": "4.2/5",
+      "danh_gia_diem": 4.2,
+      "anh": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/03/Tam-Thanh.jpg",
+      "tu_khoa": "động, tham quan, thám hiểm, chụp ảnh"
+    },
+    {
+      "stt": 27,
+      "ten_dia_diem": "Chợ Đông Kinh",
+      "vi_tri": "Lạng Sơn",
+      "tinh_truoc_sap_nhap_2025": "Lạng Sơn",
+      "mo_ta": "Là trung tâm thương mại lớn nhất ở Lạng Sơn, nổi tiếng với các mặt hàng phong phú",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://tse2.mm.bing.net/th?id=OIP.jIAxzffR49430SWWKToE6wHaEx&pid=Api&P=0&h=220",
+      "tu_khoa": "chợ, ăn uống, tham quan, văn hóa, mua sắm"
+    },
+    {
+      "stt": 28,
+      "ten_dia_diem": "Cửa khẩu Hữu Nghị",
+      "vi_tri": "Lạng Sơn",
+      "tinh_truoc_sap_nhap_2025": "Lạng Sơn",
+      "mo_ta": "Đây là cửa khẩu quốc tế lớn giữa Việt Nam và Trung Quốc, nằm trên tuyến quốc lộ 1A.",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://tse1.mm.bing.net/th?id=OIP.Wf6JQTisUsMbq6-2euQeKQHaFj&pid=Api&P=0&h=220",
+      "tu_khoa": "tham quan, mua sắm, văn hóa, chụp ảnh"
+    },
+    {
+      "stt": 29,
+      "ten_dia_diem": "Đèo Bông Lau",
+      "vi_tri": "Lạng Sơn",
+      "tinh_truoc_sap_nhap_2025": "Lạng Sơn",
+      "mo_ta": "Là một cung đèo đẹp với những khúc cua uốn lượn và khung cảnh thiên nhiên ngoạn mục.",
+      "danh_gia": "4.2/5",
+      "danh_gia_diem": 4.2,
+      "anh": "https://tse4.mm.bing.net/th?id=OIP.bjd29nTPNt90j6mM3SC0qAHaEX&pid=Api&P=0&h=220",
+      "tu_khoa": "tham quan, chụp ảnh"
+    },
+    {
+      "stt": 30,
+      "ten_dia_diem": "Chùa Tiên",
+      "vi_tri": "Lạng Sơn",
+      "tinh_truoc_sap_nhap_2025": "Lạng Sơn",
+      "mo_ta": "Chùa Tiên nằm trên núi Đại Tượng, gắn liền với nhiều câu chuyện huyền thoại và mang đậm dấu ấn Phật giáo.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://tse2.mm.bing.net/th?id=OIP.FxWdyg8edX5JSQPZPlZ8dwHaE7&pid=Api&P=0&h=220",
+      "tu_khoa": "chùa, tham quan, văn hóa"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Lạng Sơn - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Lạng Sơn (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Lạng Sơn | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Lạng Sơn — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

@@ -1,0 +1,749 @@
+{
+  "id": "finance-vat-rates",
+  "name": "Bộ Dữ liệu Thuế Suất VAT/GST Toàn Diện theo Quốc gia",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "country",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "standard_rate",
+      "label": "Standard Rate (%)",
+      "type": "number"
+    },
+    {
+      "key": "reduced_rates",
+      "label": "Reduced Rates (%)",
+      "type": "string"
+    },
+    {
+      "key": "tax_name",
+      "label": "Tax Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "local_name",
+      "label": "Local Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "country": "Argentina",
+      "iso_code": "AR",
+      "standard_rate": 21,
+      "reduced_rates": "10.5, 27",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Châu Mỹ"
+    },
+    {
+      "country": "Úc",
+      "iso_code": "AU",
+      "standard_rate": 10,
+      "reduced_rates": "-",
+      "tax_name": "GST",
+      "local_name": "GST",
+      "region": "Châu Á - Thái Bình Dương"
+    },
+    {
+      "country": "Áo",
+      "iso_code": "AT",
+      "standard_rate": 20,
+      "reduced_rates": "10, 13",
+      "tax_name": "VAT",
+      "local_name": "USt (Umsatzsteuer)",
+      "region": "EU"
+    },
+    {
+      "country": "Bahrain",
+      "iso_code": "BH",
+      "standard_rate": 10,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Trung Đông"
+    },
+    {
+      "country": "Bangladesh",
+      "iso_code": "BD",
+      "standard_rate": 15,
+      "reduced_rates": "5, 7.5",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Châu Á - Thái Bình Dương"
+    },
+    {
+      "country": "Bỉ",
+      "iso_code": "BE",
+      "standard_rate": 21,
+      "reduced_rates": "6, 12",
+      "tax_name": "VAT",
+      "local_name": "BTW/TVA",
+      "region": "EU"
+    },
+    {
+      "country": "Brazil",
+      "iso_code": "BR",
+      "standard_rate": 17,
+      "reduced_rates": "7, 12",
+      "tax_name": "ICMS",
+      "local_name": "ICMS",
+      "region": "Châu Mỹ"
+    },
+    {
+      "country": "Bulgaria",
+      "iso_code": "BG",
+      "standard_rate": 20,
+      "reduced_rates": "9",
+      "tax_name": "VAT",
+      "local_name": "ДДС (DDS)",
+      "region": "EU"
+    },
+    {
+      "country": "Canada",
+      "iso_code": "CA",
+      "standard_rate": 5,
+      "reduced_rates": "-",
+      "tax_name": "GST",
+      "local_name": "GST/TPS",
+      "region": "Châu Mỹ"
+    },
+    {
+      "country": "Chile",
+      "iso_code": "CL",
+      "standard_rate": 19,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Châu Mỹ"
+    },
+    {
+      "country": "Trung Quốc",
+      "iso_code": "CN",
+      "standard_rate": 13,
+      "reduced_rates": "6, 9",
+      "tax_name": "VAT",
+      "local_name": "增值税",
+      "region": "Châu Á - Thái Bình Dương"
+    },
+    {
+      "country": "Colombia",
+      "iso_code": "CO",
+      "standard_rate": 19,
+      "reduced_rates": "5",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Châu Mỹ"
+    },
+    {
+      "country": "Costa Rica",
+      "iso_code": "CR",
+      "standard_rate": 13,
+      "reduced_rates": "1, 2, 4",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Châu Mỹ"
+    },
+    {
+      "country": "Croatia",
+      "iso_code": "HR",
+      "standard_rate": 25,
+      "reduced_rates": "5, 13",
+      "tax_name": "VAT",
+      "local_name": "PDV",
+      "region": "EU"
+    },
+    {
+      "country": "Síp",
+      "iso_code": "CY",
+      "standard_rate": 19,
+      "reduced_rates": "5, 9",
+      "tax_name": "VAT",
+      "local_name": "ΦΠΑ",
+      "region": "EU"
+    },
+    {
+      "country": "Cộng hòa Séc",
+      "iso_code": "CZ",
+      "standard_rate": 21,
+      "reduced_rates": "12, 15",
+      "tax_name": "VAT",
+      "local_name": "DPH",
+      "region": "EU"
+    },
+    {
+      "country": "Đan Mạch",
+      "iso_code": "DK",
+      "standard_rate": 25,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "moms",
+      "region": "EU"
+    },
+    {
+      "country": "Ecuador",
+      "iso_code": "EC",
+      "standard_rate": 15,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Châu Mỹ"
+    },
+    {
+      "country": "Ai Cập",
+      "iso_code": "EG",
+      "standard_rate": 14,
+      "reduced_rates": "5",
+      "tax_name": "VAT",
+      "local_name": "ضريبة القيمة المضافة",
+      "region": "Trung Đông"
+    },
+    {
+      "country": "Estonia",
+      "iso_code": "EE",
+      "standard_rate": 22,
+      "reduced_rates": "9",
+      "tax_name": "VAT",
+      "local_name": "käibemaks",
+      "region": "EU"
+    },
+    {
+      "country": "Phần Lan",
+      "iso_code": "FI",
+      "standard_rate": 24,
+      "reduced_rates": "10, 14",
+      "tax_name": "VAT",
+      "local_name": "ALV",
+      "region": "EU"
+    },
+    {
+      "country": "Pháp",
+      "iso_code": "FR",
+      "standard_rate": 20,
+      "reduced_rates": "5.5, 10",
+      "tax_name": "VAT",
+      "local_name": "TVA",
+      "region": "EU"
+    },
+    {
+      "country": "Đức",
+      "iso_code": "DE",
+      "standard_rate": 19,
+      "reduced_rates": "7",
+      "tax_name": "VAT",
+      "local_name": "MwSt",
+      "region": "EU"
+    },
+    {
+      "country": "Hy Lạp",
+      "iso_code": "GR",
+      "standard_rate": 24,
+      "reduced_rates": "6, 13",
+      "tax_name": "VAT",
+      "local_name": "ΦΠΑ",
+      "region": "EU"
+    },
+    {
+      "country": "Hồng Kông",
+      "iso_code": "HK",
+      "standard_rate": 0,
+      "reduced_rates": "-",
+      "tax_name": "Không có",
+      "local_name": "-",
+      "region": "Châu Á-Thái Bình Dương"
+    },
+    {
+      "country": "Hungary",
+      "iso_code": "HU",
+      "standard_rate": 27,
+      "reduced_rates": "5, 18",
+      "tax_name": "VAT",
+      "local_name": "ÁFA",
+      "region": "EU"
+    },
+    {
+      "country": "Iceland",
+      "iso_code": "IS",
+      "standard_rate": 24,
+      "reduced_rates": "11",
+      "tax_name": "VAT",
+      "local_name": "VSK",
+      "region": "Châu Âu"
+    },
+    {
+      "country": "Ấn Độ",
+      "iso_code": "IN",
+      "standard_rate": 18,
+      "reduced_rates": "5, 12, 28",
+      "tax_name": "GST",
+      "local_name": "GST",
+      "region": "Châu Á-Thái Bình Dương"
+    },
+    {
+      "country": "Indonesia",
+      "iso_code": "ID",
+      "standard_rate": 11,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "PPN",
+      "region": "Châu Á-Thái Bình Dương"
+    },
+    {
+      "country": "Ireland",
+      "iso_code": "IE",
+      "standard_rate": 23,
+      "reduced_rates": "9, 13.5",
+      "tax_name": "VAT",
+      "local_name": "VAT/CBL",
+      "region": "EU"
+    },
+    {
+      "country": "Israel",
+      "iso_code": "IL",
+      "standard_rate": 17,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "מע\"מ",
+      "region": "Trung Đông"
+    },
+    {
+      "country": "Ý",
+      "iso_code": "IT",
+      "standard_rate": 22,
+      "reduced_rates": "4, 5, 10",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "EU"
+    },
+    {
+      "country": "Nhật Bản",
+      "iso_code": "JP",
+      "standard_rate": 10,
+      "reduced_rates": "8",
+      "tax_name": "Thuế tiêu thụ",
+      "local_name": "消費税",
+      "region": "Châu Á-Thái Bình Dương"
+    },
+    {
+      "country": "Kenya",
+      "iso_code": "KE",
+      "standard_rate": 16,
+      "reduced_rates": "8",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Châu Phi"
+    },
+    {
+      "country": "Kuwait",
+      "iso_code": "KW",
+      "standard_rate": 0,
+      "reduced_rates": "-",
+      "tax_name": "Không có",
+      "local_name": "-",
+      "region": "Trung Đông"
+    },
+    {
+      "country": "Latvia",
+      "iso_code": "LV",
+      "standard_rate": 21,
+      "reduced_rates": "5, 12",
+      "tax_name": "VAT",
+      "local_name": "PVN",
+      "region": "EU"
+    },
+    {
+      "country": "Litva",
+      "iso_code": "LT",
+      "standard_rate": 21,
+      "reduced_rates": "5, 9",
+      "tax_name": "VAT",
+      "local_name": "PVM",
+      "region": "EU"
+    },
+    {
+      "country": "Luxembourg",
+      "iso_code": "LU",
+      "standard_rate": 17,
+      "reduced_rates": "3, 8",
+      "tax_name": "VAT",
+      "local_name": "TVA",
+      "region": "EU"
+    },
+    {
+      "country": "Malaysia",
+      "iso_code": "MY",
+      "standard_rate": 10,
+      "reduced_rates": "5",
+      "tax_name": "SST",
+      "local_name": "SST",
+      "region": "Châu Á-Thái Bình Dương"
+    },
+    {
+      "country": "Malta",
+      "iso_code": "MT",
+      "standard_rate": 18,
+      "reduced_rates": "5, 7",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "EU"
+    },
+    {
+      "country": "México",
+      "iso_code": "MX",
+      "standard_rate": 16,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "Châu Mỹ"
+    },
+    {
+      "country": "Maroc",
+      "iso_code": "MA",
+      "standard_rate": 20,
+      "reduced_rates": "7, 10, 14",
+      "tax_name": "VAT",
+      "local_name": "TVA",
+      "region": "Châu Phi"
+    },
+    {
+      "country": "Hà Lan",
+      "iso_code": "NL",
+      "standard_rate": 21,
+      "reduced_rates": "9",
+      "tax_name": "VAT",
+      "local_name": "BTW",
+      "region": "EU"
+    },
+    {
+      "country": "New Zealand",
+      "iso_code": "NZ",
+      "standard_rate": 15,
+      "reduced_rates": "-",
+      "tax_name": "GST",
+      "local_name": "GST",
+      "region": "Châu Á-Thái Bình Dương"
+    },
+    {
+      "country": "Nigeria",
+      "iso_code": "NG",
+      "standard_rate": 7.5,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Châu Phi"
+    },
+    {
+      "country": "Na Uy",
+      "iso_code": "NO",
+      "standard_rate": 25,
+      "reduced_rates": "12, 15",
+      "tax_name": "VAT",
+      "local_name": "MVA",
+      "region": "Châu Âu"
+    },
+    {
+      "country": "Oman",
+      "iso_code": "OM",
+      "standard_rate": 5,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Trung Đông"
+    },
+    {
+      "country": "Pakistan",
+      "iso_code": "PK",
+      "standard_rate": 18,
+      "reduced_rates": "10",
+      "tax_name": "GST",
+      "local_name": "GST",
+      "region": "Châu Á-Thái Bình Dương"
+    },
+    {
+      "country": "Panama",
+      "iso_code": "PA",
+      "standard_rate": 7,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "ITBMS",
+      "region": "Châu Mỹ"
+    },
+    {
+      "country": "Peru",
+      "iso_code": "PE",
+      "standard_rate": 18,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "IGV",
+      "region": "Châu Mỹ"
+    },
+    {
+      "country": "Philippines",
+      "iso_code": "PH",
+      "standard_rate": 12,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "VAT",
+      "region": "Châu Á-Thái Bình Dương"
+    },
+    {
+      "country": "Ba Lan",
+      "iso_code": "PL",
+      "standard_rate": 23,
+      "reduced_rates": "5, 8",
+      "tax_name": "VAT",
+      "local_name": "PTU/VAT",
+      "region": "EU"
+    },
+    {
+      "country": "Bồ Đào Nha",
+      "iso_code": "PT",
+      "standard_rate": 23,
+      "reduced_rates": "6, 13",
+      "tax_name": "VAT",
+      "local_name": "IVA",
+      "region": "EU"
+    },
+    {
+      "country": "Qatar",
+      "iso_code": "QA",
+      "standard_rate": 0,
+      "reduced_rates": "-",
+      "tax_name": "Không có",
+      "local_name": "-",
+      "region": "Trung Đông"
+    },
+    {
+      "country": "Romania",
+      "iso_code": "RO",
+      "standard_rate": 19,
+      "reduced_rates": "5, 9",
+      "tax_name": "VAT",
+      "local_name": "TVA",
+      "region": "EU"
+    },
+    {
+      "country": "Nga",
+      "iso_code": "RU",
+      "standard_rate": 20,
+      "reduced_rates": "10",
+      "tax_name": "VAT",
+      "local_name": "НДС",
+      "region": "Châu Âu"
+    },
+    {
+      "country": "Ả Rập Xê Út",
+      "iso_code": "SA",
+      "standard_rate": 15,
+      "reduced_rates": "-",
+      "tax_name": "VAT",
+      "local_name": "ضريبة القيمة المضافة",
+      "region": "Trung Đông"
+    },
+    {
+      "country": "Serbia",
+      "iso_code": "RS",
+      "standard_rate": 20,
+      "reduced_rates": "10",
+      "tax_name": "VAT",
+      "local_name": "PDV",
+      "region": "Châu Âu"
+    },
+    {
+      "country": "Singapore",
+      "iso_code": "SG",
+      "standard_rate": 9,
+      "reduced_rates": "-",
+      "tax_name": "GST",
+      "local_name": "GST",
+      "region": "Châu Á-Thái Bình Dương"
+    },
+    {
+      "country": "Slovakia",
+      "iso_code": "SK",
+      "standard_rate": 20,
+      "reduced_rates": "10",
+      "tax_name": "VAT",
+      "local_name": "DPH",
+      "region": "EU"
+    },
+    {
+      "country": "Slovenia",
+      "iso_code": "SI",
+      "standard_rate": 22,
+      "reduced_rates": "5, 9.5",
+      "tax_name": "Thuế GTGT",
+      "local_name": "DDV",
+      "region": "EU"
+    },
+    {
+      "country": "Nam Phi",
+      "iso_code": "ZA",
+      "standard_rate": 15,
+      "reduced_rates": "-",
+      "tax_name": "Thuế GTGT",
+      "local_name": "VAT",
+      "region": "Châu Phi"
+    },
+    {
+      "country": "Hàn Quốc",
+      "iso_code": "KR",
+      "standard_rate": 10,
+      "reduced_rates": "-",
+      "tax_name": "Thuế GTGT",
+      "local_name": "부가가치세",
+      "region": "Châu Á - Thái Bình Dương"
+    },
+    {
+      "country": "Tây Ban Nha",
+      "iso_code": "ES",
+      "standard_rate": 21,
+      "reduced_rates": "4, 10",
+      "tax_name": "Thuế GTGT",
+      "local_name": "IVA",
+      "region": "EU"
+    },
+    {
+      "country": "Thụy Điển",
+      "iso_code": "SE",
+      "standard_rate": 25,
+      "reduced_rates": "6, 12",
+      "tax_name": "Thuế GTGT",
+      "local_name": "moms",
+      "region": "EU"
+    },
+    {
+      "country": "Thụy Sĩ",
+      "iso_code": "CH",
+      "standard_rate": 8.1,
+      "reduced_rates": "2.6, 3.8",
+      "tax_name": "Thuế GTGT",
+      "local_name": "MWST/TVA/IVA",
+      "region": "Châu Âu"
+    },
+    {
+      "country": "Đài Loan",
+      "iso_code": "TW",
+      "standard_rate": 5,
+      "reduced_rates": "-",
+      "tax_name": "Thuế GTGT",
+      "local_name": "營業稅",
+      "region": "Châu Á - Thái Bình Dương"
+    },
+    {
+      "country": "Thái Lan",
+      "iso_code": "TH",
+      "standard_rate": 7,
+      "reduced_rates": "-",
+      "tax_name": "Thuế GTGT",
+      "local_name": "ภาษีมูลค่าเพิ่ม",
+      "region": "Châu Á - Thái Bình Dương"
+    },
+    {
+      "country": "Thổ Nhĩ Kỳ",
+      "iso_code": "TR",
+      "standard_rate": 20,
+      "reduced_rates": "1, 10",
+      "tax_name": "Thuế GTGT",
+      "local_name": "KDV",
+      "region": "Châu Âu"
+    },
+    {
+      "country": "Ukraina",
+      "iso_code": "UA",
+      "standard_rate": 20,
+      "reduced_rates": "7",
+      "tax_name": "Thuế GTGT",
+      "local_name": "ПДВ",
+      "region": "Châu Âu"
+    },
+    {
+      "country": "Các Tiểu vương quốc Ả Rập Thống nhất",
+      "iso_code": "AE",
+      "standard_rate": 5,
+      "reduced_rates": "-",
+      "tax_name": "Thuế GTGT",
+      "local_name": "VAT",
+      "region": "Trung Đông"
+    },
+    {
+      "country": "Vương quốc Anh",
+      "iso_code": "GB",
+      "standard_rate": 20,
+      "reduced_rates": "5",
+      "tax_name": "Thuế GTGT",
+      "local_name": "VAT",
+      "region": "Châu Âu"
+    },
+    {
+      "country": "Hoa Kỳ",
+      "iso_code": "US",
+      "standard_rate": 0,
+      "reduced_rates": "-",
+      "tax_name": "Thuế bán hàng",
+      "local_name": "Sales Tax (state/local)",
+      "region": "Châu Mỹ"
+    },
+    {
+      "country": "Uruguay",
+      "iso_code": "UY",
+      "standard_rate": 22,
+      "reduced_rates": "10",
+      "tax_name": "Thuế GTGT",
+      "local_name": "IVA",
+      "region": "Châu Mỹ"
+    },
+    {
+      "country": "Việt Nam",
+      "iso_code": "VN",
+      "standard_rate": 10,
+      "reduced_rates": "5",
+      "tax_name": "Thuế GTGT",
+      "local_name": "GTGT",
+      "region": "Châu Á - Thái Bình Dương"
+    }
+  ],
+  "meta": {
+    "seo_title": "Thuế Suất VAT/GST Toàn Cầu - Tải xuống miễn phí (Excel/CSV/PDF)",
+    "seo_description": "Nhận thuế suất VAT/GST cho 75 quốc gia, bao gồm mức tiêu chuẩn và ưu đãi. Tải xuống miễn phí dưới dạng Excel, CSV và PDF để phân tích thuế.",
+    "title": "Bộ Dữ liệu Thuế Suất VAT/GST Toàn Diện theo Quốc gia",
+    "description": "Bộ dữ liệu này cung cấp mức thuế giá trị gia tăng (VAT) và thuế hàng hóa và dịch vụ (GST) cho 75 quốc gia trên toàn cầu. Nó bao gồm mức thuế suất tiêu chuẩn, ưu đãi, tên thuế địa phương và thông tin khu vực.",
+    "key_takeaways": [
+      "Truy cập các mức thuế VAT và GST hiện hành cho 75 quốc gia trên thế giới.",
+      "Khám phá các tỷ lệ phần trăm thuế tiêu chuẩn và ưu đãi cùng với tên thuế địa phương.",
+      "Tải xuống dữ liệu thuế toàn diện ở nhiều định dạng tiện lợi.",
+      "Khai thác thông tin thuế cụ thể của từng quốc gia để phân tích tài chính và tuân thủ."
+    ],
+    "keywords": [
+      "thuế suất VAT theo quốc gia",
+      "thuế GST toàn cầu",
+      "dữ liệu thuế bán hàng excel",
+      "thuế suất quốc gia csv",
+      "danh sách VAT toàn cầu",
+      "thuế VAT giảm"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL hoặc tập lệnh Python của bạn để kiểm tra tuân thủ thuế tự động và tích hợp API.",
+      "Sử dụng tệp **Excel** để tạo Bảng Pivot, lọc quốc gia theo khu vực và thực hiện phân tích tài chính về tác động của thuế.",
+      "In phiên bản **PDF** để tham khảo nhanh, thuyết trình nội bộ hoặc thảo luận trong lớp học về thuế quốc tế.",
+      "Phân tích xu hướng thuế toàn cầu và so sánh mức VAT/GST giữa các khu vực kinh tế khác nhau để lập kế hoạch kinh doanh và chiến lược thâm nhập thị trường."
+    ]
+  },
+  "record_count": 75,
+  "title": "Bộ Dữ liệu Thuế Suất VAT/GST Toàn Diện theo Quốc gia"
+}

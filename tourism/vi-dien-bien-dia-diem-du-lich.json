@@ -1,0 +1,126 @@
+{
+  "id": "vi-dien-bien-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Điện Biên",
+  "title": "Địa điểm du lịch Điện Biên",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Điện Biên (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "number"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 251,
+      "ten_dia_diem": "Đồi A1",
+      "vi_tri": "Điện Biên",
+      "tinh_truoc_sap_nhap_2025": "Điện Biên",
+      "mo_ta": "Đồi A1 là một trong những di tích lịch sử quan trọng trong chiến dịch Điện Biên Phủ, nơi từng diễn ra các trận đánh khốc liệt. Hiện nay, nơi đây trở thành điểm tham quan với hầm chiến đấu, hệ thống giao thông hào và bảo tồn nhiều hiện vật lịch sử.",
+      "danh_gia": "3.7",
+      "danh_gia_diem": 3.7,
+      "anh": "https://dienbientv.vn/dataimages/201907/original/images2790806_29.jpg",
+      "tu_khoa": "du lịch, thiên nhiên, cảnh đẹp"
+    },
+    {
+      "stt": 252,
+      "ten_dia_diem": "Hầm De Castries",
+      "vi_tri": "Điện Biên",
+      "tinh_truoc_sap_nhap_2025": "Điện Biên",
+      "mo_ta": "Đây là nơi ở và chỉ huy của tướng De Castries trong chiến dịch Điện Biên Phủ. Hầm được xây dựng kiên cố và hiện nay là di tích lịch sử được bảo tồn để tái hiện lại chiến trường năm xưa.",
+      "danh_gia": "3.5",
+      "danh_gia_diem": 3.5,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh6mulULwY4KND80JkIMOAeIg2wkGdNHAjZw&s",
+      "tu_khoa": "lịch sử, văn hóa, khám phá"
+    },
+    {
+      "stt": 253,
+      "ten_dia_diem": "Bảo tàng chiến thắng Điện Biên Phủ",
+      "vi_tri": "Điện Biên",
+      "tinh_truoc_sap_nhap_2025": "Điện Biên",
+      "mo_ta": "Bảo tàng lưu giữ các hiện vật, tư liệu và hình ảnh về chiến dịch Điện Biên Phủ, tái hiện lịch sử hào hùng của dân tộc Việt Nam. Đây là điểm đến không thể bỏ qua khi ghé thăm Điện Biên.",
+      "danh_gia": "4.8",
+      "danh_gia_diem": 4.8,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTum8lds95DiG7GYG-gW2VKxz0lUn0sJUqiGw&s",
+      "tu_khoa": "địa danh nổi tiếng, biểu tượng"
+    },
+    {
+      "stt": 254,
+      "ten_dia_diem": "Cánh đồng Mường Thanh",
+      "vi_tri": "Điện Biên",
+      "tinh_truoc_sap_nhap_2025": "Điện Biên",
+      "mo_ta": "Cánh đồng lúa lớn nhất vùng Tây Bắc, nổi tiếng với vẻ đẹp thơ mộng và vai trò quan trọng trong lịch sử chiến dịch Điện Biên Phủ. Cảnh quan ở đây thay đổi theo mùa vụ, thu hút nhiều du khách đến chiêm ngưỡng.",
+      "danh_gia": "3.7",
+      "danh_gia_diem": 3.7,
+      "anh": "https://dulichkhatvongviet.com/wp-content/uploads/2022/02/Dep-ngo-ngang-truoc-ve-dep-mua-vang-cua-canh-dong-Muong-Thanh.jpg",
+      "tu_khoa": "thư giãn, yên bình, du lịch sinh thái"
+    },
+    {
+      "stt": 255,
+      "ten_dia_diem": "Tượng đài chiến thắng Điện Biên Phủ",
+      "vi_tri": "Điện Biên",
+      "tinh_truoc_sap_nhap_2025": "Điện Biên",
+      "mo_ta": "Tượng đài nằm trên đồi D1, là biểu tượng của chiến thắng lịch sử Điện Biên Phủ. Đây là nơi tôn vinh sự hy sinh và chiến công của các chiến sĩ Việt Nam, đồng thời cũng là điểm ngắm toàn cảnh thành phố Điện Biên.",
+      "danh_gia": "4.1",
+      "danh_gia_diem": 4.1,
+      "anh": "https://bizweb.dktcdn.net/100/006/093/files/tuong-dai-chien-thang-dien-bien-phu-1.jpg?v=1709521625245",
+      "tu_khoa": "bảo tồn, động vật, thực vật"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Điện Biên - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Điện Biên (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Điện Biên | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Điện Biên — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

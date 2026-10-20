@@ -1,0 +1,126 @@
+{
+  "id": "vi-an-giang-dia-diem-du-lich",
+  "name": "Địa điểm du lịch An Giang",
+  "title": "Địa điểm du lịch An Giang",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành An Giang (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 141,
+      "ten_dia_diem": "Rừng Tràm Trà Sư",
+      "vi_tri": "An Giang",
+      "tinh_truoc_sap_nhap_2025": "An Giang",
+      "mo_ta": "Khu rừng tràm đẹp nhất và nổi tiếng nhất Việt Nam",
+      "danh_gia": "4,4/5",
+      "danh_gia_diem": 4.4,
+      "anh": "https://s.net.vn/PSFP",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 142,
+      "ten_dia_diem": "Hồ Soài So",
+      "vi_tri": "An Giang",
+      "tinh_truoc_sap_nhap_2025": "An Giang",
+      "mo_ta": "Hồ nước nhân tạo lớn nhất An Giang",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://s.net.vn/zMn6",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 143,
+      "ten_dia_diem": "Chùa Lầu",
+      "vi_tri": "An Giang",
+      "tinh_truoc_sap_nhap_2025": "An Giang",
+      "mo_ta": "Là một ngôi chùa đã có lịch sử hơn 130 năm",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://s.net.vn/pPll",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 144,
+      "ten_dia_diem": "Miếu Bà Chúa Xứ",
+      "vi_tri": "An Giang",
+      "tinh_truoc_sap_nhap_2025": "An Giang",
+      "mo_ta": "Miếu Bà Chúa Xứ là một trong những địa điểm tâm linh nổi tiếng nhất An Giang",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://s.net.vn/r9Yr",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 145,
+      "ten_dia_diem": "Thiền Viện Trúc Lâm",
+      "vi_tri": "An Giang",
+      "tinh_truoc_sap_nhap_2025": "An Giang",
+      "mo_ta": "Là một điểm đến tâm linh và du lịch vô cùng hấp dẫn ở miền Tây",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://s.net.vn/0Cyg",
+      "tu_khoa": ""
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch An Giang - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành An Giang (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch An Giang | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch An Giang — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

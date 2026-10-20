@@ -1,0 +1,156 @@
+{
+  "id": "vi-yen-bai-quan-huyen-2019",
+  "name": "Yên Bái — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Yên Bái — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 9 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Yên Bái theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 7 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/YB.json). (9 district-level units of Yên Bái under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "YB-01",
+      "name": "Lục Yên",
+      "name_full": "Huyện Lục Yên",
+      "slug": "luc-yen",
+      "division_type": "Huyện",
+      "province_code": "YB",
+      "province_name": "Yên Bái",
+      "ward_count": 24
+    },
+    {
+      "code": "YB-02",
+      "name": "Mù Cang Chải",
+      "name_full": "Huyện Mù Cang Chải",
+      "slug": "mu-cang-chai",
+      "division_type": "Huyện",
+      "province_code": "YB",
+      "province_name": "Yên Bái",
+      "ward_count": 14
+    },
+    {
+      "code": "YB-03",
+      "name": "Nghĩa Lộ",
+      "name_full": "Thị xã Nghĩa Lộ",
+      "slug": "nghia-lo",
+      "division_type": "Thị xã",
+      "province_code": "YB",
+      "province_name": "Yên Bái",
+      "ward_count": 7
+    },
+    {
+      "code": "YB-04",
+      "name": "Trạm Tấu",
+      "name_full": "Huyện Trạm Tấu",
+      "slug": "tram-tau",
+      "division_type": "Huyện",
+      "province_code": "YB",
+      "province_name": "Yên Bái",
+      "ward_count": 12
+    },
+    {
+      "code": "YB-05",
+      "name": "Trấn Yên",
+      "name_full": "Huyện Trấn Yên",
+      "slug": "tran-yen",
+      "division_type": "Huyện",
+      "province_code": "YB",
+      "province_name": "Yên Bái",
+      "ward_count": 22
+    },
+    {
+      "code": "YB-06",
+      "name": "Văn Chấn",
+      "name_full": "Huyện Văn Chấn",
+      "slug": "van-chan",
+      "division_type": "Huyện",
+      "province_code": "YB",
+      "province_name": "Yên Bái",
+      "ward_count": 31
+    },
+    {
+      "code": "YB-07",
+      "name": "Văn Yên",
+      "name_full": "Huyện Văn Yên",
+      "slug": "van-yen",
+      "division_type": "Huyện",
+      "province_code": "YB",
+      "province_name": "Yên Bái",
+      "ward_count": 27
+    },
+    {
+      "code": "YB-08",
+      "name": "Yên Bái",
+      "name_full": "Thành phố Yên Bái",
+      "slug": "yen-bai",
+      "division_type": "Thành phố",
+      "province_code": "YB",
+      "province_name": "Yên Bái",
+      "ward_count": 17
+    },
+    {
+      "code": "YB-09",
+      "name": "Yên Bình",
+      "name_full": "Huyện Yên Bình",
+      "slug": "yen-binh",
+      "division_type": "Huyện",
+      "province_code": "YB",
+      "province_name": "Yên Bái",
+      "ward_count": 26
+    }
+  ],
+  "meta": {
+    "title": "Yên Bái — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 9 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Yên Bái theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 7 Huyện, 1 Thị xã, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/YB.json). (9 district-level units of Yên Bái under the pre-2025-merger 3-tier hierarchy.) Chứa 9 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Yên Bái — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Yên Bái — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 9 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 9 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "vi-da-nang-quan-huyen-2019",
+  "name": "Đà Nẵng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Đà Nẵng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 8 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Đà Nẵng theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 6 Quận, 2 Huyện. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/DDN.json). (8 district-level units of Đà Nẵng under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "DDN-01",
+      "name": "Cẩm Lệ",
+      "name_full": "Quận Cẩm Lệ",
+      "slug": "cam-le",
+      "division_type": "Quận",
+      "province_code": "DDN",
+      "province_name": "Đà Nẵng",
+      "ward_count": 6
+    },
+    {
+      "code": "DDN-02",
+      "name": "Hải Châu",
+      "name_full": "Quận Hải Châu",
+      "slug": "hai-chau",
+      "division_type": "Quận",
+      "province_code": "DDN",
+      "province_name": "Đà Nẵng",
+      "ward_count": 13
+    },
+    {
+      "code": "DDN-03",
+      "name": "Hòa Vang",
+      "name_full": "Huyện Hòa Vang",
+      "slug": "hoa-vang",
+      "division_type": "Huyện",
+      "province_code": "DDN",
+      "province_name": "Đà Nẵng",
+      "ward_count": 11
+    },
+    {
+      "code": "DDN-04",
+      "name": "Hoàng Sa",
+      "name_full": "Huyện Hoàng Sa",
+      "slug": "hoang-sa",
+      "division_type": "Huyện",
+      "province_code": "DDN",
+      "province_name": "Đà Nẵng",
+      "ward_count": 0
+    },
+    {
+      "code": "DDN-05",
+      "name": "Liên Chiểu",
+      "name_full": "Quận Liên Chiểu",
+      "slug": "lien-chieu",
+      "division_type": "Quận",
+      "province_code": "DDN",
+      "province_name": "Đà Nẵng",
+      "ward_count": 5
+    },
+    {
+      "code": "DDN-06",
+      "name": "Ngũ Hành Sơn",
+      "name_full": "Quận Ngũ Hành Sơn",
+      "slug": "ngu-hanh-son",
+      "division_type": "Quận",
+      "province_code": "DDN",
+      "province_name": "Đà Nẵng",
+      "ward_count": 4
+    },
+    {
+      "code": "DDN-07",
+      "name": "Sơn Trà",
+      "name_full": "Quận Sơn Trà",
+      "slug": "son-tra",
+      "division_type": "Quận",
+      "province_code": "DDN",
+      "province_name": "Đà Nẵng",
+      "ward_count": 7
+    },
+    {
+      "code": "DDN-08",
+      "name": "Thanh Khê",
+      "name_full": "Quận Thanh Khê",
+      "slug": "thanh-khe",
+      "division_type": "Quận",
+      "province_code": "DDN",
+      "province_name": "Đà Nẵng",
+      "ward_count": 11
+    }
+  ],
+  "meta": {
+    "title": "Đà Nẵng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 8 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Đà Nẵng theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 6 Quận, 2 Huyện. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/DDN.json). (8 district-level units of Đà Nẵng under the pre-2025-merger 3-tier hierarchy.) Chứa 8 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Đà Nẵng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Đà Nẵng — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 8 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 8 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

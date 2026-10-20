@@ -1,0 +1,126 @@
+{
+  "id": "vi-hau-giang-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Hậu Giang",
+  "title": "Địa điểm du lịch Hậu Giang",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Hậu Giang (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "number"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 301,
+      "ten_dia_diem": "Khu du lịch Lung Ngọc Hoàng",
+      "vi_tri": "Hậu Giang",
+      "tinh_truoc_sap_nhap_2025": "Hậu Giang",
+      "mo_ta": "Khu du lịch Lung Ngọc Hoàng (Hậu Giang) là khu bảo tồn thiên nhiên nổi bật với hệ sinh thái rừng ngập mặn. Đây là điểm đến lý tưởng cho những ai yêu thích du lịch sinh thái và nghiên cứu động thực vật.",
+      "danh_gia": "5",
+      "danh_gia_diem": 5,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCuDRxQuW4UyoIJKAcItE_ahWHE3_moYpOXg&s",
+      "tu_khoa": "du lịch, thiên nhiên, cảnh đẹp"
+    },
+    {
+      "stt": 302,
+      "ten_dia_diem": "Chợ nổi Ngã Bảy",
+      "vi_tri": "Hậu Giang",
+      "tinh_truoc_sap_nhap_2025": "Hậu Giang",
+      "mo_ta": "Chợ nổi Ngã Bảy (Hậu Giang) là một trong những chợ nổi nổi tiếng ở miền Tây. Du khách có thể trải nghiệm việc mua bán trên sông và khám phá nền văn hóa chợ nổi đặc sắc.",
+      "danh_gia": "3",
+      "danh_gia_diem": 3,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWb2p0D3meLtBculBebw-4Pea5g8O-zyvo1g&s",
+      "tu_khoa": "lịch sử, văn hóa, khám phá"
+    },
+    {
+      "stt": 303,
+      "ten_dia_diem": "Công viên giải trí Vinpearl Hậu Giang",
+      "vi_tri": "Hậu Giang",
+      "tinh_truoc_sap_nhap_2025": "Hậu Giang",
+      "mo_ta": "Công viên giải trí Vinpearl Hậu Giang là khu vui chơi giải trí hiện đại, với nhiều trò chơi hấp dẫn cho cả gia đình. Đây là điểm đến lý tưởng cho du khách tìm kiếm sự giải trí và thư giãn.",
+      "danh_gia": "4.3",
+      "danh_gia_diem": 4.3,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKcf2MdvR1tzFaSudJbTNbCmNy5Jxo-qQoIw&s",
+      "tu_khoa": "địa danh nổi tiếng, biểu tượng"
+    },
+    {
+      "stt": 304,
+      "ten_dia_diem": "Vườn cò Tân Long",
+      "vi_tri": "Hậu Giang",
+      "tinh_truoc_sap_nhap_2025": "Hậu Giang",
+      "mo_ta": "Vườn cò Tân Long (Vĩnh Long) là khu vực bảo tồn sinh thái, nơi có hàng nghìn con cò sinh sống. Du khách có thể ngắm nhìn những đàn cò bay lượn trong không gian thanh bình.",
+      "danh_gia": "4.5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/10_2021/diem-du-lich-sinh-thai.jpg",
+      "tu_khoa": "thư giãn, yên bình, du lịch sinh thái"
+    },
+    {
+      "stt": 305,
+      "ten_dia_diem": "Sông Cái Lớn",
+      "vi_tri": "Hậu Giang",
+      "tinh_truoc_sap_nhap_2025": "Hậu Giang",
+      "mo_ta": "Sông Cái Lớn (Cà Mau) là con sông dài, chảy qua các tỉnh miền Tây. Nơi đây có hệ sinh thái phong phú và là điểm du lịch sinh thái nổi bật của vùng đồng bằng sông Cửu Long.",
+      "danh_gia": "3.2",
+      "danh_gia_diem": 3.2,
+      "anh": "https://cdn.tuoitre.vn/thumb_w/480/2022/3/13/logo-dptrungnam7-1647141329088927871571.jpg",
+      "tu_khoa": "bảo tồn, động vật, thực vật"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Hậu Giang - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Hậu Giang (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Hậu Giang | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Hậu Giang — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

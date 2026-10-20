@@ -1,0 +1,208 @@
+{
+  "id": "vi-dai-tuong-niem",
+  "name": "Đài tưởng niệm ở Việt Nam",
+  "title": "Đài tưởng niệm ở Việt Nam",
+  "description": "Danh sách đài tưởng niệm ở việt nam (P31 = wd:Q4989906) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-19. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi) kèm toạ độ WGS84 (P625). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikipedia tiếng Việt nếu có. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 11/11 toạ độ, 8/11 vi.wikipedia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "admin_area_vi",
+      "label": "Admin Area Vi",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q10743440",
+      "name_vi": "Bến Nhà Rồng",
+      "name_en": "Dragon House",
+      "latitude": 10.76824,
+      "longitude": 106.706799,
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/B%E1%BA%BFn_Nh%C3%A0_R%E1%BB%93ng",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10743440"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q137452609",
+      "name_vi": "Cầu Quan",
+      "name_en": "",
+      "latitude": 11.315175,
+      "longitude": 106.093304,
+      "admin_area_vi": "Tây Ninh",
+      "admin_area_en": "Tây Ninh",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Quan_(c%E1%BA%A7u_t%E1%BA%A1i_T%C3%A2y_Ninh)",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137452609"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q110923596",
+      "name_vi": "Giếng Thiên Quang",
+      "name_en": "Well of Heavenly Clarity",
+      "latitude": 21.02982,
+      "longitude": 105.835925,
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "wikipedia_vi": "",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110923596"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q10784247",
+      "name_vi": "Lam Kinh",
+      "name_en": "Lam Kinh",
+      "latitude": 19.929851,
+      "longitude": 105.407094,
+      "admin_area_vi": "Lam Sơn",
+      "admin_area_en": "Lam Sơn",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Lam_Kinh",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10784247"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q874234",
+      "name_vi": "Lăng Chủ tịch Hồ Chí Minh",
+      "name_en": "Ho Chi Minh Mausoleum",
+      "latitude": 21.036667,
+      "longitude": 105.834722,
+      "admin_area_vi": "Điện Biên",
+      "admin_area_en": "Điện Biên",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/L%C4%83ng_Ch%E1%BB%A7_t%E1%BB%8Bch_H%E1%BB%93_Ch%C3%AD_Minh",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q874234"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q7818621",
+      "name_vi": "Lăng Khải Định",
+      "name_en": "Tomb of Khai Dinh",
+      "latitude": 16.3986,
+      "longitude": 107.588,
+      "admin_area_vi": "Huế",
+      "admin_area_en": "Huế",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/L%C4%83ng_Kh%E1%BA%A3i_%C4%90%E1%BB%8Bnh",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7818621"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q3917231",
+      "name_vi": "Thành Điện Hải",
+      "name_en": "Dien Hai Citadel",
+      "latitude": 16.076345,
+      "longitude": 108.221783,
+      "admin_area_vi": "Đà Nẵng",
+      "admin_area_en": "Hải Châu",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_%C4%90i%E1%BB%87n_H%E1%BA%A3i",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3917231"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q18737219",
+      "name_vi": "Tượng đài Lê Thái tổ",
+      "name_en": "Emperor Lê Thái Tổ Monument",
+      "latitude": 21.029091,
+      "longitude": 105.851104,
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "wikipedia_vi": "",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18737219"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q1202019",
+      "name_vi": "Văn Miếu – Quốc Tử Giám",
+      "name_en": "Van Mieu, Temple of Literature",
+      "latitude": 21.028611,
+      "longitude": 105.835556,
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C4%83n_Mi%E1%BA%BFu_%E2%80%93_Qu%E1%BB%91c_T%E1%BB%AD_Gi%C3%A1m",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1202019"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q119404409",
+      "name_vi": "Đài tưởng niệm Bồ tát Thích Quảng Đức",
+      "name_en": "Thich Quang Duc Monument",
+      "latitude": 10.77535,
+      "longitude": 106.686796,
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "wikipedia_vi": "",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q119404409"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q137452374",
+      "name_vi": "Đình Hiệp Ninh",
+      "name_en": "",
+      "latitude": 11.306423,
+      "longitude": 106.098228,
+      "admin_area_vi": "Tây Ninh",
+      "admin_area_en": "Southern Vietnam",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%C3%ACnh_Hi%E1%BB%87p_Ninh",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137452374"
+    }
+  ],
+  "meta": {
+    "title": "Đài tưởng niệm ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách đài tưởng niệm ở việt nam (P31 = wd:Q4989906) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-19. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi) kèm toạ độ WGS84 (P625). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikipedia tiếng Việt nếu có. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 11/11 toạ độ, 8/11 vi.wikipedia. Chứa 11 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Đài tưởng niệm ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Đài tưởng niệm ở Việt Nam — 11 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 11 bản ghi / 10 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

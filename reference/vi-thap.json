@@ -1,0 +1,115 @@
+{
+  "id": "vi-thap",
+  "name": "Tháp ở Việt Nam",
+  "title": "Tháp ở Việt Nam",
+  "description": "Danh sách tháp (công trình kiến trúc dạng tháp) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31 wd:Q12518 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu tháp (công trình kiến trúc dạng tháp) đầu tiên trong nhóm tiếng Việt — mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 3/6 toạ độ, 5/6 vi.wikipedia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q864752",
+      "name_vi": "Cột cờ Hà Nội",
+      "name_en": "Flag Tower of Hanoi",
+      "latitude": 21.032558,
+      "longitude": 105.839772,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BB%99t_c%E1%BB%9D_H%C3%A0_N%E1%BB%99i"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q131920726",
+      "name_vi": "Cửu phẩm liên hoa chùa Bút Tháp",
+      "name_en": "Nine-story lotus tower of But Thap Temple",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q109438233",
+      "name_vi": "Tháp Bình Thạnh",
+      "name_en": "Tháp Bình Thạnh",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%C3%A1p_B%C3%ACnh_Th%E1%BA%A1nh"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q109438232",
+      "name_vi": "Tháp Chót Mạt",
+      "name_en": "Tháp Chót Mạt",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%C3%A1p_Ch%C3%B3t_M%E1%BA%A1t"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q1134533",
+      "name_vi": "Tháp Rùa",
+      "name_en": "Turtle Tower",
+      "latitude": 21.0279,
+      "longitude": 105.8523,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%C3%A1p_R%C3%B9a"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q109438230",
+      "name_vi": "Tháp Vĩnh Hưng",
+      "name_en": "Vinh Hung tower",
+      "latitude": 9.393084,
+      "longitude": 105.578183,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%C3%A1p_V%C4%A9nh_H%C6%B0ng"
+    }
+  ],
+  "meta": {
+    "title": "Tháp ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách tháp (công trình kiến trúc dạng tháp) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31 wd:Q12518 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu tháp (công trình kiến trúc dạng tháp) đầu tiên trong nhóm tiếng Việt — mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 3/6 toạ độ, 5/6 vi.wikipedia. Chứa 6 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Tháp ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Tháp ở Việt Nam — 6 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 6 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

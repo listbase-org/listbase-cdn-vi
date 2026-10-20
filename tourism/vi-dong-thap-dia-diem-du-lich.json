@@ -1,0 +1,126 @@
+{
+  "id": "vi-dong-thap-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Đồng Tháp",
+  "title": "Địa điểm du lịch Đồng Tháp",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Đồng Tháp (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "number"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 261,
+      "ten_dia_diem": "Vườn quốc gia Tràm Chim",
+      "vi_tri": "Đồng Tháp",
+      "tinh_truoc_sap_nhap_2025": "Đồng Tháp",
+      "mo_ta": "Vườn quốc gia ở Đồng Tháp, nơi bảo tồn hệ sinh thái đất ngập nước đặc trưng Đồng bằng sông Cửu Long. Tràm Chim là nhà của nhiều loài chim quý hiếm, đặc biệt là sếu đầu đỏ.",
+      "danh_gia": "4.6",
+      "danh_gia_diem": 4.6,
+      "anh": "https://tainguyenvamoitruong.vn/images/news/lg-danh-gia-tac-dong-cua-nguoi-dan-den-khu-vuc-vuon-quoc-gia-tram-chim-tai-xa-phu-tho-phu-duc-huyen-tam-nong-tinh-dong-thap_566.jpg",
+      "tu_khoa": "du lịch, thiên nhiên, cảnh đẹp"
+    },
+    {
+      "stt": 262,
+      "ten_dia_diem": "Làng hoa Sa Đéc",
+      "vi_tri": "Đồng Tháp",
+      "tinh_truoc_sap_nhap_2025": "Đồng Tháp",
+      "mo_ta": "Làng nghề truyền thống nổi tiếng ở Đồng Tháp, nơi trồng hàng trăm loài hoa đẹp và quý. Làng hoa thu hút du khách với những vườn hoa rực rỡ quanh năm.",
+      "danh_gia": "4.8",
+      "danh_gia_diem": 4.8,
+      "anh": "https://scontent.iocvnpt.com/resources/portal/Images/DTP/dtblieu/lang_hoa/48bf9d85d2d3118d48c2_826106342.jpeg",
+      "tu_khoa": "lịch sử, văn hóa, khám phá"
+    },
+    {
+      "stt": 263,
+      "ten_dia_diem": "Khu di tích Xẻo Quýt",
+      "vi_tri": "Đồng Tháp",
+      "tinh_truoc_sap_nhap_2025": "Đồng Tháp",
+      "mo_ta": "Một khu di tích lịch sử kết hợp du lịch sinh thái tại Đồng Tháp, nơi tái hiện các căn cứ cách mạng trong rừng tràm thời kháng chiến.",
+      "danh_gia": "3.5",
+      "danh_gia_diem": 3.5,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNFW3oOOp10fGV9fAYtic3l1Y4dmLSb7Q3zg&s",
+      "tu_khoa": "địa danh nổi tiếng, biểu tượng"
+    },
+    {
+      "stt": 264,
+      "ten_dia_diem": "Lăng cụ Nguyễn Sinh Sắc",
+      "vi_tri": "Đồng Tháp",
+      "tinh_truoc_sap_nhap_2025": "Đồng Tháp",
+      "mo_ta": "Nơi an nghỉ của cụ Nguyễn Sinh Sắc, thân sinh Chủ tịch Hồ Chí Minh. Lăng được thiết kế hài hòa giữa kiến trúc và cảnh quan thiên nhiên.",
+      "danh_gia": "3.4",
+      "danh_gia_diem": 3.4,
+      "anh": "https://scontent.iocvnpt.com/resources/portal/Images/DTP/superadminportal.dtp/trangchu/portal/luutru/diadiem/ditichnguyensinhsac/h1.jpg_636758375125902652.jpg",
+      "tu_khoa": "thư giãn, yên bình, du lịch sinh thái"
+    },
+    {
+      "stt": 265,
+      "ten_dia_diem": "Chợ Cao Lãnh",
+      "vi_tri": "Đồng Tháp",
+      "tinh_truoc_sap_nhap_2025": "Đồng Tháp",
+      "mo_ta": "Một khu chợ sầm uất tại thành phố Cao Lãnh, nơi du khách có thể khám phá văn hóa ẩm thực và đời sống người dân địa phương.",
+      "danh_gia": "4.7",
+      "danh_gia_diem": 4.7,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREw0kvfKqWUVy7gogbII8hIDj_ivcyzfhDiQ&s",
+      "tu_khoa": "bảo tồn, động vật, thực vật"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Đồng Tháp - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Đồng Tháp (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Đồng Tháp | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Đồng Tháp — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

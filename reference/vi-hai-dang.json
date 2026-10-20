@@ -1,0 +1,88 @@
+{
+  "id": "vi-hai-dang",
+  "name": "Hải đăng ở Việt Nam",
+  "title": "Hải đăng ở Việt Nam",
+  "description": "Danh sách hải đăng (đèn biển) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31 wd:Q39715 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu hải đăng (đèn biển) đầu tiên trong nhóm tiếng Việt — mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 3/3 toạ độ, 3/3 vi.wikipedia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q10771753",
+      "name_vi": "Hải đăng Hòn Nước",
+      "name_en": "Hon Nuoc Lighthouse",
+      "latitude": 14.249056,
+      "longitude": 109.192407,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/H%E1%BA%A3i_%C4%91%C4%83ng_H%C3%B2n_N%C6%B0%E1%BB%9Bc"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q1496675",
+      "name_vi": "Hải đăng Kê Gà",
+      "name_en": "Kê Gà Lighthouse",
+      "latitude": 10.69596,
+      "longitude": 107.99134,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/H%E1%BA%A3i_%C4%91%C4%83ng_K%C3%AA_G%C3%A0"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q16480605",
+      "name_vi": "Hải đăng Vũng Tàu",
+      "name_en": "Vũng Tàu Lighthouse",
+      "latitude": 10.334114,
+      "longitude": 107.077661,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/H%E1%BA%A3i_%C4%91%C4%83ng_V%C5%A9ng_T%C3%A0u"
+    }
+  ],
+  "meta": {
+    "title": "Hải đăng ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách hải đăng (đèn biển) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31 wd:Q39715 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu hải đăng (đèn biển) đầu tiên trong nhóm tiếng Việt — mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 3/3 toạ độ, 3/3 vi.wikipedia. Chứa 3 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Hải đăng ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Hải đăng ở Việt Nam — 3 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 3 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

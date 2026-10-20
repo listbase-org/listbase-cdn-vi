@@ -1,0 +1,872 @@
+{
+  "id": "vi-dong-thap-wards",
+  "name": "Tỉnh Đồng Tháp — Phường, xã, đặc khu",
+  "title": "Tỉnh Đồng Tháp — Phường, xã, đặc khu",
+  "description": "Danh sách phường, xã, đặc khu thuộc Tỉnh Đồng Tháp (post-July-2025 rearrangement). Sau khi bỏ cấp huyện, Tỉnh Đồng Tháp còn 102 đơn vị hành chính cấp xã. Mỗi bản ghi gồm mã, tên, codename và phân loại đơn vị.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 102,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "codename",
+      "label": "Codename",
+      "type": "string"
+    },
+    {
+      "key": "short_codename",
+      "label": "Short Codename",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "division_type_en",
+      "label": "Division Type En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": 28249,
+      "name": "Phường Đạo Thạnh",
+      "codename": "phuong_dao_thanh",
+      "short_codename": "dao_thanh",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 28261,
+      "name": "Phường Mỹ Tho",
+      "codename": "phuong_my_tho",
+      "short_codename": "my_tho",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 28270,
+      "name": "Phường Thới Sơn",
+      "codename": "phuong_thoi_son",
+      "short_codename": "thoi_son",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 28273,
+      "name": "Phường Mỹ Phong",
+      "codename": "phuong_my_phong",
+      "short_codename": "my_phong",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 28285,
+      "name": "Phường Trung An",
+      "codename": "phuong_trung_an",
+      "short_codename": "trung_an",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 28297,
+      "name": "Phường Long Thuận",
+      "codename": "phuong_long_thuan",
+      "short_codename": "long_thuan",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 28306,
+      "name": "Phường Gò Công",
+      "codename": "phuong_go_cong",
+      "short_codename": "go_cong",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 28315,
+      "name": "Phường Bình Xuân",
+      "codename": "phuong_binh_xuan",
+      "short_codename": "binh_xuan",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 28321,
+      "name": "Xã Tân Phước 1",
+      "codename": "xa_tan_phuoc_1",
+      "short_codename": "tan_phuoc_1",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28327,
+      "name": "Xã Tân Phước 2",
+      "codename": "xa_tan_phuoc_2",
+      "short_codename": "tan_phuoc_2",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28336,
+      "name": "Xã Hưng Thạnh",
+      "codename": "xa_hung_thanh",
+      "short_codename": "hung_thanh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28345,
+      "name": "Xã Tân Phước 3",
+      "codename": "xa_tan_phuoc_3",
+      "short_codename": "tan_phuoc_3",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28360,
+      "name": "Xã Cái Bè",
+      "codename": "xa_cai_be",
+      "short_codename": "cai_be",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28366,
+      "name": "Xã Hậu Mỹ",
+      "codename": "xa_hau_my",
+      "short_codename": "hau_my",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28378,
+      "name": "Xã Mỹ Thiện",
+      "codename": "xa_my_thien",
+      "short_codename": "my_thien",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28393,
+      "name": "Xã Hội Cư",
+      "codename": "xa_hoi_cu",
+      "short_codename": "hoi_cu",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28405,
+      "name": "Xã Mỹ Đức Tây",
+      "codename": "xa_my_duc_tay",
+      "short_codename": "my_duc_tay",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28414,
+      "name": "Xã Mỹ Lợi",
+      "codename": "xa_my_loi",
+      "short_codename": "my_loi",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28426,
+      "name": "Xã Thanh Hưng",
+      "codename": "xa_thanh_hung",
+      "short_codename": "thanh_hung",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28429,
+      "name": "Xã An Hữu",
+      "codename": "xa_an_huu",
+      "short_codename": "an_huu",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28435,
+      "name": "Phường Mỹ Phước Tây",
+      "codename": "phuong_my_phuoc_tay",
+      "short_codename": "my_phuoc_tay",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 28436,
+      "name": "Phường Thanh Hòa",
+      "codename": "phuong_thanh_hoa",
+      "short_codename": "thanh_hoa",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 28439,
+      "name": "Phường Cai Lậy",
+      "codename": "phuong_cai_lay",
+      "short_codename": "cai_lay",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 28444,
+      "name": "Xã Thạnh Phú",
+      "codename": "xa_thanh_phu",
+      "short_codename": "thanh_phu",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28456,
+      "name": "Xã Mỹ Thành",
+      "codename": "xa_my_thanh",
+      "short_codename": "my_thanh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28468,
+      "name": "Xã Tân Phú",
+      "codename": "xa_tan_phu",
+      "short_codename": "tan_phu",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28471,
+      "name": "Xã Bình Phú",
+      "codename": "xa_binh_phu",
+      "short_codename": "binh_phu",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28477,
+      "name": "Phường Nhị Quý",
+      "codename": "phuong_nhi_quy",
+      "short_codename": "nhi_quy",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 28501,
+      "name": "Xã Hiệp Đức",
+      "codename": "xa_hiep_duc",
+      "short_codename": "hiep_duc",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28504,
+      "name": "Xã Long Tiên",
+      "codename": "xa_long_tien",
+      "short_codename": "long_tien",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28516,
+      "name": "Xã Ngũ Hiệp",
+      "codename": "xa_ngu_hiep",
+      "short_codename": "ngu_hiep",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28519,
+      "name": "Xã Châu Thành",
+      "codename": "xa_chau_thanh",
+      "short_codename": "chau_thanh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28525,
+      "name": "Xã Tân Hương",
+      "codename": "xa_tan_huong",
+      "short_codename": "tan_huong",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28537,
+      "name": "Xã Long Hưng",
+      "codename": "xa_long_hung",
+      "short_codename": "long_hung",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28543,
+      "name": "Xã Long Định",
+      "codename": "xa_long_dinh",
+      "short_codename": "long_dinh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28564,
+      "name": "Xã Bình Trưng",
+      "codename": "xa_binh_trung",
+      "short_codename": "binh_trung",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28576,
+      "name": "Xã Vĩnh Kim",
+      "codename": "xa_vinh_kim",
+      "short_codename": "vinh_kim",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28582,
+      "name": "Xã Kim Sơn",
+      "codename": "xa_kim_son",
+      "short_codename": "kim_son",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28594,
+      "name": "Xã Chợ Gạo",
+      "codename": "xa_cho_gao",
+      "short_codename": "cho_gao",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28603,
+      "name": "Xã Mỹ Tịnh An",
+      "codename": "xa_my_tinh_an",
+      "short_codename": "my_tinh_an",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28615,
+      "name": "Xã Lương Hòa Lạc",
+      "codename": "xa_luong_hoa_lac",
+      "short_codename": "luong_hoa_lac",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28627,
+      "name": "Xã Tân Thuận Bình",
+      "codename": "xa_tan_thuan_binh",
+      "short_codename": "tan_thuan_binh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28633,
+      "name": "Xã An Thạnh Thủy",
+      "codename": "xa_an_thanh_thuy",
+      "short_codename": "an_thanh_thuy",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28648,
+      "name": "Xã Bình Ninh",
+      "codename": "xa_binh_ninh",
+      "short_codename": "binh_ninh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28651,
+      "name": "Xã Vĩnh Bình",
+      "codename": "xa_vinh_binh",
+      "short_codename": "vinh_binh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28660,
+      "name": "Xã Đồng Sơn",
+      "codename": "xa_dong_son",
+      "short_codename": "dong_son",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28663,
+      "name": "Xã Phú Thành",
+      "codename": "xa_phu_thanh",
+      "short_codename": "phu_thanh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28678,
+      "name": "Xã Vĩnh Hựu",
+      "codename": "xa_vinh_huu",
+      "short_codename": "vinh_huu",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28687,
+      "name": "Xã Long Bình",
+      "codename": "xa_long_binh",
+      "short_codename": "long_binh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28693,
+      "name": "Xã Tân Thới",
+      "codename": "xa_tan_thoi",
+      "short_codename": "tan_thoi",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28696,
+      "name": "Xã Tân Phú Đông",
+      "codename": "xa_tan_phu_dong",
+      "short_codename": "tan_phu_dong",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28702,
+      "name": "Xã Tân Hòa",
+      "codename": "xa_tan_hoa",
+      "short_codename": "tan_hoa",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28720,
+      "name": "Xã Gia Thuận",
+      "codename": "xa_gia_thuan",
+      "short_codename": "gia_thuan",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28723,
+      "name": "Xã Tân Đông",
+      "codename": "xa_tan_dong",
+      "short_codename": "tan_dong",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28729,
+      "name": "Phường Sơn Qui",
+      "codename": "phuong_son_qui",
+      "short_codename": "son_qui",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 28738,
+      "name": "Xã Tân Điền",
+      "codename": "xa_tan_dien",
+      "short_codename": "tan_dien",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 28747,
+      "name": "Xã Gò Công Đông",
+      "codename": "xa_go_cong_dong",
+      "short_codename": "go_cong_dong",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 29869,
+      "name": "Phường Cao Lãnh",
+      "codename": "phuong_cao_lanh",
+      "short_codename": "cao_lanh",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 29884,
+      "name": "Phường Mỹ Ngãi",
+      "codename": "phuong_my_ngai",
+      "short_codename": "my_ngai",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 29888,
+      "name": "Phường Mỹ Trà",
+      "codename": "phuong_my_tra",
+      "short_codename": "my_tra",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 29905,
+      "name": "Phường Sa Đéc",
+      "codename": "phuong_sa_dec",
+      "short_codename": "sa_dec",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 29926,
+      "name": "Xã Tân Hồng",
+      "codename": "xa_tan_hong",
+      "short_codename": "tan_hong",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 29929,
+      "name": "Xã Tân Hộ Cơ",
+      "codename": "xa_tan_ho_co",
+      "short_codename": "tan_ho_co",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 29938,
+      "name": "Xã Tân Thành",
+      "codename": "xa_tan_thanh",
+      "short_codename": "tan_thanh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 29944,
+      "name": "Xã An Phước",
+      "codename": "xa_an_phuoc",
+      "short_codename": "an_phuoc",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 29954,
+      "name": "Phường An Bình",
+      "codename": "phuong_an_binh",
+      "short_codename": "an_binh",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 29955,
+      "name": "Phường Hồng Ngự",
+      "codename": "phuong_hong_ngu",
+      "short_codename": "hong_ngu",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 29971,
+      "name": "Xã Thường Phước",
+      "codename": "xa_thuong_phuoc",
+      "short_codename": "thuong_phuoc",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 29978,
+      "name": "Phường Thường Lạc",
+      "codename": "phuong_thuong_lac",
+      "short_codename": "thuong_lac",
+      "division_type": "phường",
+      "division_type_en": "urban ward"
+    },
+    {
+      "code": 29983,
+      "name": "Xã Long Khánh",
+      "codename": "xa_long_khanh",
+      "short_codename": "long_khanh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 29992,
+      "name": "Xã Long Phú Thuận",
+      "codename": "xa_long_phu_thuan",
+      "short_codename": "long_phu_thuan",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30001,
+      "name": "Xã Tràm Chim",
+      "codename": "xa_tram_chim",
+      "short_codename": "tram_chim",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30010,
+      "name": "Xã Tam Nông",
+      "codename": "xa_tam_nong",
+      "short_codename": "tam_nong",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30019,
+      "name": "Xã An Hòa",
+      "codename": "xa_an_hoa",
+      "short_codename": "an_hoa",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30025,
+      "name": "Xã Phú Cường",
+      "codename": "xa_phu_cuong",
+      "short_codename": "phu_cuong",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30028,
+      "name": "Xã An Long",
+      "codename": "xa_an_long",
+      "short_codename": "an_long",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30034,
+      "name": "Xã Phú Thọ",
+      "codename": "xa_phu_tho",
+      "short_codename": "phu_tho",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30037,
+      "name": "Xã Tháp Mười",
+      "codename": "xa_thap_muoi",
+      "short_codename": "thap_muoi",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30043,
+      "name": "Xã Phương Thịnh",
+      "codename": "xa_phuong_thinh",
+      "short_codename": "thinh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30046,
+      "name": "Xã Trường Xuân",
+      "codename": "xa_truong_xuan",
+      "short_codename": "truong_xuan",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30055,
+      "name": "Xã Mỹ Quí",
+      "codename": "xa_my_qui",
+      "short_codename": "my_qui",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30061,
+      "name": "Xã Đốc Binh Kiều",
+      "codename": "xa_doc_binh_kieu",
+      "short_codename": "doc_binh_kieu",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30073,
+      "name": "Xã Thanh Mỹ",
+      "codename": "xa_thanh_my",
+      "short_codename": "thanh_my",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30076,
+      "name": "Xã Mỹ Thọ",
+      "codename": "xa_my_tho",
+      "short_codename": "my_tho",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30085,
+      "name": "Xã Ba Sao",
+      "codename": "xa_ba_sao",
+      "short_codename": "ba_sao",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30088,
+      "name": "Xã Phong Mỹ",
+      "codename": "xa_phong_my",
+      "short_codename": "phong_my",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30112,
+      "name": "Xã Mỹ Hiệp",
+      "codename": "xa_my_hiep",
+      "short_codename": "my_hiep",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30118,
+      "name": "Xã Bình Hàng Trung",
+      "codename": "xa_binh_hang_trung",
+      "short_codename": "binh_hang_trung",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30130,
+      "name": "Xã Thanh Bình",
+      "codename": "xa_thanh_binh",
+      "short_codename": "thanh_binh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30154,
+      "name": "Xã Tân Long",
+      "codename": "xa_tan_long",
+      "short_codename": "tan_long",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30157,
+      "name": "Xã Tân Thạnh",
+      "codename": "xa_tan_thanh",
+      "short_codename": "tan_thanh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30163,
+      "name": "Xã Bình Thành",
+      "codename": "xa_binh_thanh",
+      "short_codename": "binh_thanh",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30169,
+      "name": "Xã Lấp Vò",
+      "codename": "xa_lap_vo",
+      "short_codename": "lap_vo",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30178,
+      "name": "Xã Mỹ An Hưng",
+      "codename": "xa_my_an_hung",
+      "short_codename": "my_an_hung",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30184,
+      "name": "Xã Tân Khánh Trung",
+      "codename": "xa_tan_khanh_trung",
+      "short_codename": "tan_khanh_trung",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30208,
+      "name": "Xã Hòa Long",
+      "codename": "xa_hoa_long",
+      "short_codename": "hoa_long",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30214,
+      "name": "Xã Tân Dương",
+      "codename": "xa_tan_duong",
+      "short_codename": "tan_duong",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30226,
+      "name": "Xã Lai Vung",
+      "codename": "xa_lai_vung",
+      "short_codename": "lai_vung",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30235,
+      "name": "Xã Phong Hòa",
+      "codename": "xa_phong_hoa",
+      "short_codename": "phong_hoa",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30244,
+      "name": "Xã Phú Hựu",
+      "codename": "xa_phu_huu",
+      "short_codename": "phu_huu",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30253,
+      "name": "Xã Tân Nhuận Đông",
+      "codename": "xa_tan_nhuan_dong",
+      "short_codename": "tan_nhuan_dong",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    },
+    {
+      "code": 30259,
+      "name": "Xã Tân Phú Trung",
+      "codename": "xa_tan_phu_trung",
+      "short_codename": "tan_phu_trung",
+      "division_type": "xã",
+      "division_type_en": "commune"
+    }
+  ],
+  "meta": {
+    "title": "Tỉnh Đồng Tháp — Phường, xã, đặc khu - Tải miễn phí",
+    "description": "Danh sách phường, xã, đặc khu thuộc Tỉnh Đồng Tháp (post-July-2025 rearrangement). Sau khi bỏ cấp huyện, Tỉnh Đồng Tháp còn 102 đơn vị hành chính cấp xã. Mỗi bản ghi gồm mã, tên, codename và phân loại đơn vị. Chứa 102 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Tỉnh Đồng Tháp — Phường, xã, đặc khu | ListBase",
+    "seo_description": "Tải xuống Tỉnh Đồng Tháp — Phường, xã, đặc khu — 102 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 102 bản ghi / 6 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

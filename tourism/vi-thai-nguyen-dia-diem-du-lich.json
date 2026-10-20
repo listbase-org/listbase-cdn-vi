@@ -1,0 +1,126 @@
+{
+  "id": "vi-thai-nguyen-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Thái Nguyên",
+  "title": "Địa điểm du lịch Thái Nguyên",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Thái Nguyên (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 116,
+      "ten_dia_diem": "Hồ Núi Cốc",
+      "vi_tri": "Thái Nguyên",
+      "tinh_truoc_sap_nhap_2025": "Thái Nguyên",
+      "mo_ta": "Du khách có thể trải nghiệm ngồi thuyền thúng, khám phá động Thế giới Cổ tích và Âm phủ, động Ba Cây Thông, tham quan quần thể Thuyết Nhân Quả - Chùa Thiêng Thác Vàng, ngôi chùa nằm trong lòng Phật lớn nhất miền Bắc được ghi nhận kỷ lục Guniess.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "http://surl.li/uizspq",
+      "tu_khoa": "thuyền thúng, Guniess, chùa, tham quan"
+    },
+    {
+      "stt": 117,
+      "ten_dia_diem": "Đồi chè Tân Cương",
+      "vi_tri": "Thái Nguyên",
+      "tinh_truoc_sap_nhap_2025": "Thái Nguyên",
+      "mo_ta": "Một trong những địa điểm du lịch Thái Nguyên nổi tiếng chắc chắn không thể quên kể đến đó chính là đồi chè Tân Cương. Đây là một địa điểm thu hút sự quan tâm từ đông đảo khách du lịch nhờ vào cảnh quan thiên nhiên tuyệt đẹp, được bao phủ bởi một sắc xanh mát lạnh. Bất cứ ai đến đồi chè Tân Cương du lịch cũng đều có thể cảm nhận được sự tươi mới từ sâu trong tâm hồn, giúp bạn cảm thấy dễ chịu hơn bao giờ hết.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "http://surl.li/hdpzzj",
+      "tu_khoa": "trè, xanh, mát lạnh, dễ chịu"
+    },
+    {
+      "stt": 118,
+      "ten_dia_diem": "Hồ Mai Miếu",
+      "vi_tri": "Thái Nguyên",
+      "tinh_truoc_sap_nhap_2025": "Thái Nguyên",
+      "mo_ta": "nơi đây vốn được ví như một bức tranh thủy mặc vô cùng ấn tượng với khung cảnh núi non hữu tình khiến lòng người say đắm. Hồ Văn Miếu nổi bật với mặt hồ rộng, nước hồ trong veo kết hợp với cảnh quan kì vĩ xung quanh đã tạo nên một khung cảnh thơ mộng hấp dẫn hơn bao giờ hết. Cũng chỉ vì chưa được tập trung khai thác du lịch mạnh mẽ mà hồ Vai Miếu đã giữ được vẹn nguyên nét đẹp hoang sơ và trữ tình khiến nhiều người say mê.",
+      "danh_gia": "3.5/5",
+      "danh_gia_diem": 3.5,
+      "anh": "http://surl.li/jnxjfw",
+      "tu_khoa": "tranh, núi, ấn tượng"
+    },
+    {
+      "stt": 119,
+      "ten_dia_diem": "Động Linh Sơn",
+      "vi_tri": "Thái Nguyên",
+      "tinh_truoc_sap_nhap_2025": "Thái Nguyên",
+      "mo_ta": "Động Linh Sơn tỉnh Thái Nguyên có diện tích rộng rãi, vào mùa hè rất mát mẻ và mùa đông sẽ ấm áp vô cùng. Động nằm tại khu vực lưng chừng núi đá rộng lớn nên đã được người dân nơi đây lựa chọn xây dựng chùa thờ Phật. Cứ vào các ngày rằm, mùng một, người dân từ Thái Nguyên và nhiều tỉnh thành lân cận khác đều sẽ đến đây dâng hương lễ Phật rất náo nhiệt.",
+      "danh_gia": "4.0/5",
+      "danh_gia_diem": 4,
+      "anh": "http://surl.li/xogioj",
+      "tu_khoa": "động, núi đã"
+    },
+    {
+      "stt": 120,
+      "ten_dia_diem": "Thác Đát Đắng",
+      "vi_tri": "Thái Nguyên",
+      "tinh_truoc_sap_nhap_2025": "Thái Nguyên",
+      "mo_ta": "bạn sẽ có cảm giác hệt như đang lạc bước vào một không gian mới mẻ, được tránh xa hoàn toàn sự xô bồ và náo nhiệt nơi phố thị. Cảnh núi rừng hùng vĩ, dòng nước xanh trong mát lành chính là những thứ ấn tượng khiến bạn có cảm giác thật sự thư giãn và mong muốn được tận hưởng sự yên bình hiếm thấy này mãi không thôi.",
+      "danh_gia": "4.0/5",
+      "danh_gia_diem": 4,
+      "anh": "http://surl.li/mxojry",
+      "tu_khoa": "núi rừng, bình yên, thác"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Thái Nguyên - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Thái Nguyên (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Thái Nguyên | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Thái Nguyên — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

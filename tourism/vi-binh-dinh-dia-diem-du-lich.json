@@ -1,0 +1,126 @@
+{
+  "id": "vi-binh-dinh-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Bình Định",
+  "title": "Địa điểm du lịch Bình Định",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Bình Định (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 176,
+      "ten_dia_diem": "Bãi tắm Quy Nhơn",
+      "vi_tri": "Bình Định",
+      "tinh_truoc_sap_nhap_2025": "Bình Định",
+      "mo_ta": "Bãi tắm Quy Nhơn là một trong những bãi biển đẹp của miền Trung, nổi tiếng với cát trắng mịn và nước biển trong xanh.",
+      "danh_gia": "4.1/5",
+      "danh_gia_diem": 4.1,
+      "anh": "https://quynhontourist.com/wp-content/uploads/2019/01/kinh-nghiem-du-lich-quy-nhon-1-ngay-quy-nhon-tourist.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 177,
+      "ten_dia_diem": "Biển Kỳ Co",
+      "vi_tri": "Bình Định",
+      "tinh_truoc_sap_nhap_2025": "Bình Định",
+      "mo_ta": "Biển Kỳ Co thuộc Quy Nhơn, nổi tiếng với bãi biển hoang sơ, nước trong xanh và các rạn san hô đẹp mắt",
+      "danh_gia": "4.4/5",
+      "danh_gia_diem": 4.4,
+      "anh": "https://cdnphoto.dantri.com.vn/75MTzLTi_7Ys_reS6Va31bGWBk4=/zoom/1200_630/2018/7/1/anh-1-1530460120717428571836.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 178,
+      "ten_dia_diem": "Cù Lao Xanh",
+      "vi_tri": "Bình Định",
+      "tinh_truoc_sap_nhap_2025": "Bình Định",
+      "mo_ta": "Cù Lao Xanh là một hòn đảo đẹp và hoang sơ tại Bình Định, với làn nước trong xanh và thiên nhiên chưa bị khai thác nhiều.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://ik.imagekit.io/tvlk/blog/2022/09/cu-lao-xanh-1.jpg?tr=dpr-2,w-675",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 179,
+      "ten_dia_diem": "Đầm Thị Nại",
+      "vi_tri": "Bình Định",
+      "tinh_truoc_sap_nhap_2025": "Bình Định",
+      "mo_ta": "Đầm Thị Nại ở Bình Định là một trong những đầm lớn của miền Trung, nổi bật với khung cảnh thiên nhiên tĩnh lặng",
+      "danh_gia": "4.4/5",
+      "danh_gia_diem": 4.4,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUVFCT7Ph_xMd2qiDsSVKhK13rCp9sJ6YrNA&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 180,
+      "ten_dia_diem": "Hòn Khô",
+      "vi_tri": "Bình Định",
+      "tinh_truoc_sap_nhap_2025": "Bình Định",
+      "mo_ta": "Hòn Khô là một hòn đảo nhỏ nằm gần Quy Nhơn, nổi tiếng với các bãi biển đẹp và làn nước trong vắt, thu hút du khách đến tham quan và tắm biển.",
+      "danh_gia": "4.4/5",
+      "danh_gia_diem": 4.4,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXjzOeHXgs6ds_2TKhzmOJm-OJL7Ns6dAGw&s",
+      "tu_khoa": ""
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Bình Định - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Bình Định (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Bình Định | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Bình Định — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

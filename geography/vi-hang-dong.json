@@ -1,0 +1,196 @@
+{
+  "id": "vi-hang-dong",
+  "name": "Hang động ở Việt Nam",
+  "title": "Hang động ở Việt Nam",
+  "description": "Danh sách các hang động nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q35509 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Bao gồm các hang nổi tiếng như Hang Sơn Đoòng và Hang Thiên Đường. Đây là tập dữ liệu hang động đầu tiên trong nhóm tiếng Việt.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q124453533",
+      "name_vi": "Dộng Thiên Cung",
+      "name_en": "Thien Cung Cave",
+      "latitude": 20.21596,
+      "longitude": 105.91421,
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q5157981",
+      "name_vi": "Hang Con Moong",
+      "name_en": "Con Moong Cave",
+      "latitude": 20.2875,
+      "longitude": 105.605,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Hang_Con_Moong"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q61130932",
+      "name_vi": "Hang Lùng Khúy",
+      "name_en": "Lùng Khúy cave",
+      "latitude": 23.078774,
+      "longitude": 105.019919,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Hang_L%C3%B9ng_Kh%C3%BAy"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q97166809",
+      "name_vi": "Hang Lạng Nắc",
+      "name_en": "Hang Lạng Nắc",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Hang_L%E1%BA%A1ng_N%E1%BA%AFc"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q44889",
+      "name_vi": "Hang Sơn Đoòng",
+      "name_en": "Son Doong Cave",
+      "latitude": 17.4572,
+      "longitude": 106.2876,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Hang_S%C6%A1n_%C4%90o%C3%B2ng"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q10765376",
+      "name_vi": "Hang Sửng Sốt",
+      "name_en": "Sung Sot Cave",
+      "latitude": 20.84441,
+      "longitude": 107.09144,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Hang_S%E1%BB%ADng_S%E1%BB%91t"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q43171",
+      "name_vi": "Hang Thiên Đường",
+      "name_en": "Thien Duong Cave",
+      "latitude": 17.519514,
+      "longitude": 106.222972,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Thi%C3%AAn_%C4%90%C6%B0%E1%BB%9Dng"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q7709770",
+      "name_vi": "Hang Thẩm Khuyên",
+      "name_en": "Tham Khuyen",
+      "latitude": 21.92361,
+      "longitude": 106.41389,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Hang_Th%E1%BA%A9m_Khuy%C3%AAn"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q30919799",
+      "name_vi": "Hang Thẩm Púa",
+      "name_en": "Hang Thẩm Púa",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Hang_Th%E1%BA%A9m_P%C3%BAa"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q22278419",
+      "name_vi": "Hang Én",
+      "name_en": "Hang Én (swift cave)",
+      "latitude": 17.434566,
+      "longitude": 106.300362,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Hang_%C3%89n"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q20025761",
+      "name_vi": "Hang động núi lửa Krông Nô",
+      "name_en": "Krong No volcanic cave system",
+      "latitude": 12.475837,
+      "longitude": 107.944939,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Hang_%C4%91%E1%BB%99ng_n%C3%BAi_l%E1%BB%ADa_Kr%C3%B4ng_N%C3%B4"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q1406000",
+      "name_vi": "Tam Cốc - Bích Động",
+      "name_en": "Tam Cốc-Bích Động",
+      "latitude": 20.2185,
+      "longitude": 105.916,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Tam_C%E1%BB%91c_%E2%80%93_B%C3%ADch_%C4%90%E1%BB%99ng"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q10842294",
+      "name_vi": "Động Ngườm Ngao",
+      "name_en": "Nguom Ngao Cave",
+      "latitude": 22.84567,
+      "longitude": 106.70569,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Ngao"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q2671098",
+      "name_vi": "Động Pak Ou",
+      "name_en": "Pak Ou Caves",
+      "latitude": 20.0487,
+      "longitude": 102.2105,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Pak_Ou"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q3395915",
+      "name_vi": "Động Phong Nha",
+      "name_en": "Phong Nha Cave",
+      "latitude": 17.582382,
+      "longitude": 106.282415,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_Phong_Nha"
+    }
+  ],
+  "meta": {
+    "title": "Hang động ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách các hang động nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q35509 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Bao gồm các hang nổi tiếng như Hang Sơn Đoòng và Hang Thiên Đường. Đây là tập dữ liệu hang động đầu tiên trong nhóm tiếng Việt. Chứa 15 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Hang động ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Hang động ở Việt Nam — 15 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 15 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

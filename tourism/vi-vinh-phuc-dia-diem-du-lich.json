@@ -1,0 +1,126 @@
+{
+  "id": "vi-vinh-phuc-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Vĩnh Phúc",
+  "title": "Địa điểm du lịch Vĩnh Phúc",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Vĩnh Phúc (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 231,
+      "ten_dia_diem": "Tam Đảo",
+      "vi_tri": "Vĩnh Phúc",
+      "tinh_truoc_sap_nhap_2025": "Vĩnh Phúc",
+      "mo_ta": "Tam Đảo là khu nghỉ dưỡng nổi tiếng với khí hậu mát mẻ quanh năm, tọa lạc trên dãy núi Tam Đảo. Nơi đây có nhiều điểm tham quan như Tháp Truyền Hình, Nhà Thờ Đá, và chợ đêm Tam Đảo. Du khách có thể tận hưởng cảnh đẹp núi non và ẩm thực địa phương.",
+      "danh_gia": "4.4/5",
+      "danh_gia_diem": 4.4,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRprv_3BsUfM_Bu9DQrCo3VUSDatb5a73--PQ&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 232,
+      "ten_dia_diem": "Hồ Đại Lải",
+      "vi_tri": "Vĩnh Phúc",
+      "tinh_truoc_sap_nhap_2025": "Vĩnh Phúc",
+      "mo_ta": "Hồ Đại Lải là một hồ nước nhân tạo rộng lớn, được bao quanh bởi rừng thông và núi đồi. Đây là điểm đến lý tưởng để tham gia các hoạt động như chèo thuyền, cắm trại, câu cá hoặc nghỉ dưỡng tại các khu resort ven hồ.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://wyndham-thanhthuy.com/wp-content/uploads/2024/09/ho-dai-lai-10.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 233,
+      "ten_dia_diem": "Làng gốm Hương Canh",
+      "vi_tri": "Vĩnh Phúc",
+      "tinh_truoc_sap_nhap_2025": "Vĩnh Phúc",
+      "mo_ta": "Làng gốm Hương Canh là một làng nghề truyền thống nổi tiếng với các sản phẩm gốm thủ công tinh xảo, đặc biệt là các sản phẩm gốm gia dụng và nghệ thuật. Du khách có thể tham quan và trải nghiệm làm gốm tại đây.",
+      "danh_gia": "4.1/5",
+      "danh_gia_diem": 4.1,
+      "anh": "https://i.ytimg.com/vi/3XC7fPzfKa8/maxresdefault.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 234,
+      "ten_dia_diem": "Khu du lịch FLC Vĩnh Thịnh",
+      "vi_tri": "Vĩnh Phúc",
+      "tinh_truoc_sap_nhap_2025": "Vĩnh Phúc",
+      "mo_ta": "FLC Vĩnh Thịnh là khu nghỉ dưỡng cao cấp với không gian sang trọng, tiện nghi. Nơi đây có các dịch vụ đa dạng như bể bơi, spa, sân golf, và nhà hàng, phù hợp cho những chuyến nghỉ dưỡng cùng gia đình.",
+      "danh_gia": "4.1/5",
+      "danh_gia_diem": 4.1,
+      "anh": "https://motogo.vn/wp-content/uploads/2020/04/flc-vinh-phuc-9-min.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 235,
+      "ten_dia_diem": "Khu du lịch sinh thái Đầm Vạc",
+      "vi_tri": "Vĩnh Phúc",
+      "tinh_truoc_sap_nhap_2025": "Vĩnh Phúc",
+      "mo_ta": "Đầm Vạc là một trong những đầm tự nhiên lớn nhất tại Vĩnh Phúc, có hệ sinh thái đa dạng. Du khách có thể tham gia các hoạt động như chèo thuyền, ngắm cảnh, câu cá, hoặc nghỉ ngơi tại các resort ven đầm.",
+      "danh_gia": "4.2/5",
+      "danh_gia_diem": 4.2,
+      "anh": "https://postumtravel.vn/wp-content/uploads/2022/06/khu-du-lich-dam-vac-2.jpg",
+      "tu_khoa": ""
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Vĩnh Phúc - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Vĩnh Phúc (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Vĩnh Phúc | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Vĩnh Phúc — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

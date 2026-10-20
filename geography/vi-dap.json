@@ -1,0 +1,250 @@
+{
+  "id": "vi-dap",
+  "name": "Đập ở Việt Nam",
+  "title": "Đập ở Việt Nam",
+  "description": "Danh sách các đập (công trình chắn nước) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q12323 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Đập là công trình xây dựng, khác với hồ chứa (xem tập vi-ho). Đây là tập dữ liệu đập đầu tiên trong nhóm tiếng Việt.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q8047470",
+      "name_vi": "Công ty Thủy điện Ialy",
+      "name_en": "Yali Falls Dam",
+      "latitude": 14.227,
+      "longitude": 107.829,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_m%C3%A1y_th%E1%BB%A7y_%C4%91i%E1%BB%87n_Ialy"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q18456874",
+      "name_vi": "Cống đập Ba Lai",
+      "name_en": "Cống đập Ba Lai",
+      "latitude": 10.1444,
+      "longitude": 106.6324,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/C%E1%BB%91ng_%C4%91%E1%BA%ADp_Ba_Lai"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q3023398",
+      "name_vi": "Nhà máy thủy điện Buôn Kuốp",
+      "name_en": "Buôn Kuốp Hydroelectric Power Station",
+      "latitude": 12.5761,
+      "longitude": 107.926,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%E1%BB%A7y_%C4%91i%E1%BB%87n_Bu%C3%B4n_Ku%E1%BB%91p"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q1504264",
+      "name_vi": "Nhà máy thủy điện Hòa Bình",
+      "name_en": "Hoa Binh Dam",
+      "latitude": 20.811111,
+      "longitude": 105.325,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_m%C3%A1y_Th%E1%BB%A7y_%C4%91i%E1%BB%87n_H%C3%B2a_B%C3%ACnh"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q10800854",
+      "name_vi": "Nhà máy thủy điện Lai Châu",
+      "name_en": "Lai Châu Dam",
+      "latitude": 22.1394,
+      "longitude": 102.985,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_m%C3%A1y_th%E1%BB%A7y_%C4%91i%E1%BB%87n_Lai_Ch%C3%A2u"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q992482",
+      "name_vi": "Nhà máy thủy điện Sơn La",
+      "name_en": "Sơn La Dam",
+      "latitude": 21.499722,
+      "longitude": 104.011944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_m%C3%A1y_th%E1%BB%A7y_%C4%91i%E1%BB%87n_S%C6%A1n_La"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q7839833",
+      "name_vi": "Nhà máy thủy điện Trị An",
+      "name_en": "Tri An Hydroelectric Power Station",
+      "latitude": 11.1053,
+      "longitude": 106.984,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_m%C3%A1y_th%E1%BB%A7y_%C4%91i%E1%BB%87n_Tr%E1%BB%8B_An"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q24958905",
+      "name_vi": "Thủy điện An Khê - Kanak",
+      "name_en": "An Khe - Kanak hydropower plant",
+      "latitude": 14.012667,
+      "longitude": 108.772194,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%E1%BB%A7y_%C4%91i%E1%BB%87n_An_Kh%C3%AA_%E2%80%93_Kanak"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q49056232",
+      "name_vi": "Thủy điện Buôn Tua Srah",
+      "name_en": "Buôn Tua Srah Hydroelectric power station",
+      "latitude": 12.285639,
+      "longitude": 108.039944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%E1%BB%A7y_%C4%91i%E1%BB%87n_Bu%C3%B4n_Tua_Srah"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q30920339",
+      "name_vi": "Thủy điện Krông Nô 2",
+      "name_en": "Krông Nô 2 Hydroelectric power station",
+      "latitude": 12.230833,
+      "longitude": 108.342194,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%E1%BB%A7y_%C4%91i%E1%BB%87n_Kr%C3%B4ng_N%C3%B4_2"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q30920334",
+      "name_vi": "Thủy điện Krông Nô 3",
+      "name_en": "Krông Nô 3 Hydroelectric power station",
+      "latitude": 12.213056,
+      "longitude": 108.283333,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%E1%BB%A7y_%C4%91i%E1%BB%87n_Kr%C3%B4ng_N%C3%B4_3"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q59613965",
+      "name_vi": "Thủy điện Plei Krông",
+      "name_en": "Plei Krong Dam",
+      "latitude": 14.407417,
+      "longitude": 107.861972,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%E1%BB%A7y_%C4%91i%E1%BB%87n_Plei_Kr%C3%B4ng"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q11999754",
+      "name_vi": "Thủy điện Sê San 3",
+      "name_en": "Se San 3 Hydropower plant",
+      "latitude": 14.216028,
+      "longitude": 107.72125,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%E1%BB%A7y_%C4%91i%E1%BB%87n_S%C3%AA_San_3"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q30920321",
+      "name_vi": "Thủy điện Sê San 3A",
+      "name_en": "Se San 3A Hydropower Plant",
+      "latitude": 14.108611,
+      "longitude": 107.656944,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%E1%BB%A7y_%C4%91i%E1%BB%87n_S%C3%AA_San_3A"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q19388059",
+      "name_vi": "Thủy điện Sê San 4",
+      "name_en": "Se San 4 Hydropower Plant",
+      "latitude": 13.965833,
+      "longitude": 107.488889,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%E1%BB%A7y_%C4%91i%E1%BB%87n_S%C3%AA_San_4"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q30920330",
+      "name_vi": "Thủy điện Sê San 4A",
+      "name_en": "Se San 4A Hydropower Plant",
+      "latitude": 13.9425,
+      "longitude": 107.467778,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%E1%BB%A7y_%C4%91i%E1%BB%87n_S%C3%AA_San_4A"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q10826793",
+      "name_vi": "Thủy điện sông Hinh",
+      "name_en": "Song Hinh hydropower plant",
+      "latitude": 12.922722,
+      "longitude": 109.017583,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%E1%BB%A7y_%C4%91i%E1%BB%87n_S%C3%B4ng_Hinh"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q7847963",
+      "name_vi": "Thủy điện Trung Sơn",
+      "name_en": "Trung Son Hydropower",
+      "latitude": 20.6089,
+      "longitude": 104.837,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%E1%BB%A7y_%C4%91i%E1%BB%87n_Trung_S%C6%A1n"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q30920807",
+      "name_vi": "Thủy điện Đăk Pône",
+      "name_en": "Dak Pone Dam and Hydropower Plant",
+      "latitude": 14.573333,
+      "longitude": 108.305278,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%E1%BB%A7y_%C4%91i%E1%BB%87n_%C4%90%C4%83k_P%C3%B4_Ne"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q30919940",
+      "name_vi": "Thủy điện Đăk Đrinh",
+      "name_en": "Dak Drinh Hydropower plant and dam",
+      "latitude": 15.016583,
+      "longitude": 108.391194,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%E1%BB%A7y_%C4%91i%E1%BB%87n_%C4%90%C4%83k_%C4%90rinh"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q10830372",
+      "name_vi": "Đập Thảo Long",
+      "name_en": "Thao Long Dam",
+      "latitude": 16.546225,
+      "longitude": 107.617014,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%ADp_Th%E1%BA%A3o_Long"
+    }
+  ],
+  "meta": {
+    "title": "Đập ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách các đập (công trình chắn nước) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31/wdt:P279* wd:Q12323 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Đập là công trình xây dựng, khác với hồ chứa (xem tập vi-ho). Đây là tập dữ liệu đập đầu tiên trong nhóm tiếng Việt. Chứa 21 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Đập ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Đập ở Việt Nam — 21 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 21 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

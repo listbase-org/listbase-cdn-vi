@@ -1,0 +1,379 @@
+{
+  "id": "tech-regex-patterns",
+  "name": "Bộ Dữ Liệu Các Mẫu Biểu Thức Chính Quy Thiết Yếu",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Pattern Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "pattern",
+      "label": "Regex Pattern",
+      "type": "string"
+    },
+    {
+      "key": "example",
+      "label": "Example",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Địa chỉ Email",
+      "category": "Liên hệ",
+      "pattern": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$",
+      "example": "user@example.com",
+      "description": "Xác thực email tiêu chuẩn"
+    },
+    {
+      "name": "Email (Nghiêm ngặt)",
+      "category": "Liên hệ",
+      "pattern": "^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$",
+      "example": "name+tag@sub.domain.com",
+      "description": "Email tuân thủ RFC 5322"
+    },
+    {
+      "name": "Điện thoại (Quốc tế)",
+      "category": "Liên hệ",
+      "pattern": "^\\+?[1-9]\\d{1,14}$",
+      "example": "+14155551234",
+      "description": "Định dạng điện thoại quốc tế E.164"
+    },
+    {
+      "name": "Điện thoại (Mỹ)",
+      "category": "Liên hệ",
+      "pattern": "^\\(?([0-9]{3})\\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$",
+      "example": "(415) 555-1234",
+      "description": "Các định dạng số điện thoại của Mỹ"
+    },
+    {
+      "name": "Điện thoại (Thái Lan)",
+      "category": "Liên hệ",
+      "pattern": "^(0[689]{1})\\d{8}$",
+      "example": "0812345678",
+      "description": "Số điện thoại di động Thái Lan"
+    },
+    {
+      "name": "URL (HTTP/HTTPS)",
+      "category": "Web",
+      "pattern": "^https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?&//=]*)$",
+      "example": "https://example.com/path",
+      "description": "Xác thực URL HTTP/HTTPS"
+    },
+    {
+      "name": "URL (Đơn giản)",
+      "category": "Web",
+      "pattern": "^(https?:\\/\\/)?[\\w.-]+\\.[a-z]{2,}(\\/\\S*)?$",
+      "example": "example.com/page",
+      "description": "Mẫu URL đơn giản"
+    },
+    {
+      "name": "Tên Miền",
+      "category": "Web",
+      "pattern": "^(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\\.)+[a-zA-Z]{2,}$",
+      "example": "sub.example.com",
+      "description": "Xác thực tên miền"
+    },
+    {
+      "name": "Địa chỉ IP (IPv4)",
+      "category": "Web",
+      "pattern": "^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$",
+      "example": "192.168.1.1",
+      "description": "Xác thực địa chỉ IPv4"
+    },
+    {
+      "name": "Địa chỉ IP (IPv6)",
+      "category": "Web",
+      "pattern": "^([0-9a-fA-F]{1,4}:){7}[0-9a-fA-F]{1,4}$",
+      "example": "2001:0db8:85a3:0000:0000:8a2e:0370:7334",
+      "description": "Địa chỉ IPv6 (dạng đầy đủ)"
+    },
+    {
+      "name": "Địa chỉ MAC",
+      "category": "Web",
+      "pattern": "^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$",
+      "example": "00:1A:2B:3C:4D:5E",
+      "description": "Xác thực địa chỉ MAC"
+    },
+    {
+      "name": "Slug (Thân thiện với URL)",
+      "category": "Web",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "example": "my-blog-post-title",
+      "description": "Định dạng slug URL"
+    },
+    {
+      "name": "Mật khẩu (Mạnh)",
+      "category": "Bảo mật",
+      "pattern": "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[@$!%*?&])[A-Za-z\\d@$!%*?&]{8,}$",
+      "example": "Pass@123",
+      "description": "Tối thiểu 8 ký tự, chữ hoa, chữ thường, chữ số, ký tự đặc biệt"
+    },
+    {
+      "name": "Mật khẩu (Trung bình)",
+      "category": "Bảo mật",
+      "pattern": "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)[A-Za-z\\d]{8,}$",
+      "example": "Password1",
+      "description": "Tối thiểu 8 ký tự, chữ hoa, chữ thường, chữ số"
+    },
+    {
+      "name": "UUID v4",
+      "category": "Bảo mật",
+      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$",
+      "example": "550e8400-e29b-41d4-a716-446655440000",
+      "description": "Định dạng UUID phiên bản 4"
+    },
+    {
+      "name": "Mã thông báo JWT",
+      "category": "Bảo mật",
+      "pattern": "^[A-Za-z0-9-_]+\\.[A-Za-z0-9-_]+\\.[A-Za-z0-9-_]*$",
+      "example": "eyJhbGc.eyJzdWI.SflKxw",
+      "description": "Định dạng JSON Web Token"
+    },
+    {
+      "name": "Màu Hex",
+      "category": "Bảo mật",
+      "pattern": "^#?([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$",
+      "example": "#FF5733",
+      "description": "Mã màu hex"
+    },
+    {
+      "name": "Số nguyên",
+      "category": "Số",
+      "pattern": "^-?\\d+$",
+      "example": "-12345",
+      "description": "Số nguyên dương hoặc âm"
+    },
+    {
+      "name": "Số thập phân",
+      "category": "Số",
+      "pattern": "^-?\\d*\\.?\\d+$",
+      "example": "123.45",
+      "description": "Số thập phân"
+    },
+    {
+      "name": "Tiền tệ (USD)",
+      "category": "Tài chính",
+      "pattern": "^\\$?\\d{1,3}(,\\d{3})*(\\.\\d{2})?$",
+      "example": "$1,234.56",
+      "description": "Định dạng tiền tệ của Mỹ"
+    },
+    {
+      "name": "Thẻ tín dụng",
+      "category": "Tài chính",
+      "pattern": "^(?:4[0-9]{12}(?:[0-9]{3})?|5[1-5][0-9]{14}|3[47][0-9]{13}|6(?:011|5[0-9]{2})[0-9]{12})$",
+      "example": "4111111111111111",
+      "description": "Visa, MC, Amex, Discover"
+    },
+    {
+      "name": "CVV",
+      "category": "Tài chính",
+      "pattern": "^[0-9]{3,4}$",
+      "example": "123",
+      "description": "CVV/CVC của thẻ tín dụng"
+    },
+    {
+      "name": "IBAN",
+      "category": "Tài chính",
+      "pattern": "^[A-Z]{2}[0-9]{2}[A-Z0-9]{4}[0-9]{7}([A-Z0-9]?){0,16}$",
+      "example": "DE89370400440532013000",
+      "description": "Số tài khoản ngân hàng quốc tế"
+    },
+    {
+      "name": "Ngày (YYYY-MM-DD)",
+      "category": "Ngày giờ",
+      "pattern": "^\\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01])$",
+      "example": "2024-12-25",
+      "description": "Định dạng ngày ISO 8601"
+    },
+    {
+      "name": "Ngày (DD/MM/YYYY)",
+      "category": "Ngày giờ",
+      "pattern": "^(0[1-9]|[12]\\d|3[01])\\/(0[1-9]|1[0-2])\\/\\d{4}$",
+      "example": "25/12/2024",
+      "description": "Định dạng ngày kiểu Châu Âu"
+    },
+    {
+      "name": "Ngày (MM/DD/YYYY)",
+      "category": "Ngày giờ",
+      "pattern": "^(0[1-9]|1[0-2])\\/(0[1-9]|[12]\\d|3[01])\\/\\d{4}$",
+      "example": "12/25/2024",
+      "description": "Định dạng ngày kiểu Mỹ"
+    },
+    {
+      "name": "Giờ (24h)",
+      "category": "Ngày giờ",
+      "pattern": "^([01]\\d|2[0-3]):([0-5]\\d)$",
+      "example": "23:59",
+      "description": "Định dạng giờ 24 giờ"
+    },
+    {
+      "name": "Giờ (12h)",
+      "category": "Ngày giờ",
+      "pattern": "^(0?[1-9]|1[0-2]):[0-5][0-9]\\s?(AM|PM|am|pm)$",
+      "example": "11:30 PM",
+      "description": "Định dạng giờ 12 giờ với AM/PM"
+    },
+    {
+      "name": "Ngày giờ ISO 8601",
+      "category": "Ngày giờ",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d+)?(Z|[+-]\\d{2}:\\d{2})?$",
+      "example": "2024-12-25T10:30:00Z",
+      "description": "Định dạng ngày giờ ISO 8601"
+    },
+    {
+      "name": "Tên người dùng",
+      "category": "Văn bản",
+      "pattern": "^[a-zA-Z0-9_]{3,16}$",
+      "example": "user_name123",
+      "description": "Chữ và số với dấu gạch dưới, 3-16 ký tự"
+    },
+    {
+      "name": "Chữ và số",
+      "category": "Văn bản",
+      "pattern": "^[a-zA-Z0-9]+$",
+      "example": "abc123",
+      "description": "Chỉ chữ cái và số"
+    },
+    {
+      "name": "Chỉ chữ cái",
+      "category": "Văn bản",
+      "pattern": "^[a-zA-Z]+$",
+      "example": "HelloWorld",
+      "description": "Chỉ chữ cái tiếng Anh"
+    },
+    {
+      "name": "Không ký tự đặc biệt",
+      "category": "Văn bản",
+      "pattern": "^[a-zA-Z0-9\\s]+$",
+      "example": "Hello World 123",
+      "description": "Chữ và số với khoảng trắng"
+    },
+    {
+      "name": "Cắt khoảng trắng",
+      "category": "Văn bản",
+      "pattern": "^\\S.*\\S$|^\\S$",
+      "example": "no leading/trailing spaces",
+      "description": "Không có khoảng trắng đầu/cuối"
+    },
+    {
+      "name": "US SSN",
+      "category": "ID",
+      "pattern": "^(?!000|666|9\\d{2})\\d{3}-(?!00)\\d{2}-(?!0000)\\d{4}$",
+      "example": "123-45-6789",
+      "description": "Số An sinh xã hội Hoa Kỳ"
+    },
+    {
+      "name": "Mã ZIP US",
+      "category": "ID",
+      "pattern": "^\\d{5}(-\\d{4})?$",
+      "example": "12345-6789",
+      "description": "Mã ZIP Hoa Kỳ (5 hoặc 9 chữ số)"
+    },
+    {
+      "name": "Mã bưu điện UK",
+      "category": "ID",
+      "pattern": "^[A-Z]{1,2}[0-9][A-Z0-9]?\\s?[0-9][A-Z]{2}$",
+      "example": "SW1A 1AA",
+      "description": "Mã bưu điện Vương quốc Anh"
+    },
+    {
+      "name": "ISBN-10",
+      "category": "ID",
+      "pattern": "^(?:\\d{9}X|\\d{10})$",
+      "example": "0306406152",
+      "description": "Định dạng ISBN-10"
+    },
+    {
+      "name": "ISBN-13",
+      "category": "ID",
+      "pattern": "^97[89]\\d{10}$",
+      "example": "9780306406157",
+      "description": "Định dạng ISBN-13"
+    },
+    {
+      "name": "Phần mở rộng tệp",
+      "category": "Tệp",
+      "pattern": "^.*\\.(jpg|jpeg|png|gif|pdf|doc|docx)$",
+      "example": "document.pdf",
+      "description": "Các phần mở rộng tệp phổ biến"
+    },
+    {
+      "name": "Đường dẫn Tệp (Unix)",
+      "category": "Tệp",
+      "pattern": "^\\/([\\w.-]+\\/)*[\\w.-]+$",
+      "example": "/home/user/file.txt",
+      "description": "Đường dẫn tệp Unix"
+    },
+    {
+      "name": "Đường dẫn Tệp (Windows)",
+      "category": "Tệp",
+      "pattern": "^[a-zA-Z]:\\\\(?:[\\w.-]+\\\\)*[\\w.-]+$",
+      "example": "C:\\Users\\file.txt",
+      "description": "Đường dẫn tệp Windows"
+    },
+    {
+      "name": "Thẻ HTML",
+      "category": "Mã",
+      "pattern": "<([a-z]+)([^<]+)*(?:>(.*)<\\/\\1>|\\s+\\/>)",
+      "example": "<div class=\"x\">content</div>",
+      "description": "Khớp thẻ HTML"
+    },
+    {
+      "name": "Hashtag",
+      "category": "Mạng xã hội",
+      "pattern": "^#[a-zA-Z0-9_]+$",
+      "example": "#trending",
+      "description": "Hashtag mạng xã hội"
+    },
+    {
+      "name": "Tên người dùng Twitter",
+      "category": "Mạng xã hội",
+      "pattern": "^@[a-zA-Z0-9_]{1,15}$",
+      "example": "@username",
+      "description": "Tên người dùng Twitter/X"
+    }
+  ],
+  "meta": {
+    "seo_title": "Mẫu Regex Thông Dụng - Tải Miễn Phí (Excel/CSV/PDF)",
+    "seo_description": "Tải miễn phí 45 mẫu biểu thức chính quy (Regex) thông dụng để xác thực và phân tích dữ liệu. Có sẵn các định dạng Excel, CSV, và PDF cho nhà phát triển, nhà phân tích và sinh viên.",
+    "title": "Bộ Dữ Liệu Các Mẫu Biểu Thức Chính Quy Thiết Yếu",
+    "description": "Bộ dữ liệu này cung cấp 45 mẫu biểu thức chính quy được sử dụng rộng rãi, bao gồm nhiều danh mục như thông tin liên hệ, định dạng dữ liệu và quy tắc xác thực. Mỗi mục bao gồm mẫu, danh mục, ví dụ và mô tả.",
+    "key_takeaways": [
+      "Truy cập 45 mẫu biểu thức chính quy được biên soạn sẵn để sử dụng ngay lập tức.",
+      "Khám phá các mẫu regex thông dụng cho email, số điện thoại, URL và nhiều hơn nữa.",
+      "Tải xuống các mẫu để thực hiện nhiều tác vụ lập trình và xác thực dữ liệu.",
+      "Sử dụng regex sẵn sàng triển khai để hợp lý hóa quy trình phát triển và phân tích của bạn."
+    ],
+    "keywords": [
+      "mẫu regex miễn phí",
+      "danh sách biểu thức chính quy",
+      "tải regex csv",
+      "regex xác thực email excel",
+      "regex số điện thoại pdf",
+      "ví dụ regex thông dụng"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL hoặc các script Python của bạn để triển khai logic xác thực dữ liệu cho đầu vào người dùng hoặc làm sạch dữ liệu.",
+      "Sử dụng tệp **Excel** để lọc, sắp xếp và phân tích các mẫu regex thông dụng, hoặc để tra cứu và báo cáo nhanh chóng bởi các nhà phân tích dữ liệu.",
+      "In phiên bản **PDF** để tham khảo trong lớp học, học tập ngoại tuyến hoặc làm một bảng tổng hợp tiện dụng cho các nhà phát triển và sinh viên.",
+      "Tích hợp các mẫu này vào các biểu mẫu web, API hoặc quy trình xử lý dữ liệu để đảm bảo tính toàn vẹn của dữ liệu và tuân thủ định dạng."
+    ]
+  },
+  "record_count": 45,
+  "title": "Bộ Dữ Liệu Các Mẫu Biểu Thức Chính Quy Thiết Yếu"
+}

@@ -1,0 +1,669 @@
+{
+  "id": "tech-html-entities",
+  "name": "Bộ dữ liệu Thực thể Ký tự HTML & Biểu tượng Đặc biệt",
+  "category": "tech",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "entity",
+      "label": "Entity",
+      "type": "string"
+    },
+    {
+      "key": "character",
+      "label": "Character",
+      "type": "string"
+    },
+    {
+      "key": "code_point",
+      "label": "Code Point",
+      "type": "string"
+    },
+    {
+      "key": "decimal",
+      "label": "Decimal Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "entity": "&amp;",
+      "character": "&",
+      "code_point": "U+0026",
+      "decimal": "&#38;",
+      "name": "Dấu và",
+      "category": "Thiết yếu"
+    },
+    {
+      "entity": "&lt;",
+      "character": "<",
+      "code_point": "U+003C",
+      "decimal": "&#60;",
+      "name": "Dấu nhỏ hơn",
+      "category": "Thiết yếu"
+    },
+    {
+      "entity": "&gt;",
+      "character": ">",
+      "code_point": "U+003E",
+      "decimal": "&#62;",
+      "name": "Dấu lớn hơn",
+      "category": "Thiết yếu"
+    },
+    {
+      "entity": "&quot;",
+      "character": "\"",
+      "code_point": "U+0022",
+      "decimal": "&#34;",
+      "name": "Dấu ngoặc kép",
+      "category": "Thiết yếu"
+    },
+    {
+      "entity": "&apos;",
+      "character": "'",
+      "code_point": "U+0027",
+      "decimal": "&#39;",
+      "name": "Dấu lược",
+      "category": "Thiết yếu"
+    },
+    {
+      "entity": "&nbsp;",
+      "character": " ",
+      "code_point": "U+00A0",
+      "decimal": "&#160;",
+      "name": "Khoảng trắng không ngắt dòng",
+      "category": "Khoảng trắng"
+    },
+    {
+      "entity": "&ensp;",
+      "character": " ",
+      "code_point": "U+2002",
+      "decimal": "&#8194;",
+      "name": "Khoảng trắng En",
+      "category": "Khoảng trắng"
+    },
+    {
+      "entity": "&emsp;",
+      "character": " ",
+      "code_point": "U+2003",
+      "decimal": "&#8195;",
+      "name": "Khoảng trắng Em",
+      "category": "Khoảng trắng"
+    },
+    {
+      "entity": "&thinsp;",
+      "character": " ",
+      "code_point": "U+2009",
+      "decimal": "&#8201;",
+      "name": "Khoảng trắng mỏng",
+      "category": "Khoảng trắng"
+    },
+    {
+      "entity": "&shy;",
+      "character": "­",
+      "code_point": "U+00AD",
+      "decimal": "&#173;",
+      "name": "Dấu gạch nối mềm",
+      "category": "Khoảng trắng"
+    },
+    {
+      "entity": "&zwj;",
+      "character": "‍",
+      "code_point": "U+200D",
+      "decimal": "&#8205;",
+      "name": "Ký tự nối không rộng",
+      "category": "Khoảng trắng"
+    },
+    {
+      "entity": "&zwnj;",
+      "character": "‌",
+      "code_point": "U+200C",
+      "decimal": "&#8204;",
+      "name": "Ký tự không nối không rộng",
+      "category": "Khoảng trắng"
+    },
+    {
+      "entity": "&ndash;",
+      "character": "–",
+      "code_point": "U+2013",
+      "decimal": "&#8211;",
+      "name": "Dấu gạch ngang En",
+      "category": "Dấu câu"
+    },
+    {
+      "entity": "&mdash;",
+      "character": "—",
+      "code_point": "U+2014",
+      "decimal": "&#8212;",
+      "name": "Dấu gạch ngang Em",
+      "category": "Dấu câu"
+    },
+    {
+      "entity": "&lsquo;",
+      "character": "‘",
+      "code_point": "U+2018",
+      "decimal": "&#8216;",
+      "name": "Dấu nháy đơn mở trái",
+      "category": "Dấu câu"
+    },
+    {
+      "entity": "&rsquo;",
+      "character": "’",
+      "code_point": "U+2019",
+      "decimal": "&#8217;",
+      "name": "Dấu nháy đơn đóng phải",
+      "category": "Dấu câu"
+    },
+    {
+      "entity": "&ldquo;",
+      "character": "“",
+      "code_point": "U+201C",
+      "decimal": "&#8220;",
+      "name": "Dấu ngoặc kép mở trái",
+      "category": "Dấu câu"
+    },
+    {
+      "entity": "&rdquo;",
+      "character": "”",
+      "code_point": "U+201D",
+      "decimal": "&#8221;",
+      "name": "Dấu ngoặc kép đóng phải",
+      "category": "Dấu câu"
+    },
+    {
+      "entity": "&laquo;",
+      "character": "«",
+      "code_point": "U+00AB",
+      "decimal": "&#171;",
+      "name": "Dấu ngoặc kép góc nhọn trái",
+      "category": "Dấu câu"
+    },
+    {
+      "entity": "&raquo;",
+      "character": "»",
+      "code_point": "U+00BB",
+      "decimal": "&#187;",
+      "name": "Dấu ngoặc kép góc nhọn phải",
+      "category": "Dấu câu"
+    },
+    {
+      "entity": "&hellip;",
+      "character": "…",
+      "code_point": "U+2026",
+      "decimal": "&#8230;",
+      "name": "Dấu chấm lửng ngang",
+      "category": "Dấu câu"
+    },
+    {
+      "entity": "&bull;",
+      "character": "•",
+      "code_point": "U+2022",
+      "decimal": "&#8226;",
+      "name": "Dấu đầu dòng",
+      "category": "Dấu câu"
+    },
+    {
+      "entity": "&middot;",
+      "character": "·",
+      "code_point": "U+00B7",
+      "decimal": "&#183;",
+      "name": "Dấu chấm giữa",
+      "category": "Dấu câu"
+    },
+    {
+      "entity": "&copy;",
+      "character": "©",
+      "code_point": "U+00A9",
+      "decimal": "&#169;",
+      "name": "Ký hiệu bản quyền",
+      "category": "Ký hiệu in ấn"
+    },
+    {
+      "entity": "&reg;",
+      "character": "®",
+      "code_point": "U+00AE",
+      "decimal": "&#174;",
+      "name": "Ký hiệu đã đăng ký",
+      "category": "Ký hiệu in ấn"
+    },
+    {
+      "entity": "&trade;",
+      "character": "™",
+      "code_point": "U+2122",
+      "decimal": "&#8482;",
+      "name": "Ký hiệu thương hiệu",
+      "category": "Ký hiệu in ấn"
+    },
+    {
+      "entity": "&deg;",
+      "character": "°",
+      "code_point": "U+00B0",
+      "decimal": "&#176;",
+      "name": "Ký hiệu độ",
+      "category": "Ký hiệu in ấn"
+    },
+    {
+      "entity": "&sect;",
+      "character": "§",
+      "code_point": "U+00A7",
+      "decimal": "&#167;",
+      "name": "Ký hiệu mục",
+      "category": "Ký hiệu in ấn"
+    },
+    {
+      "entity": "&para;",
+      "character": "¶",
+      "code_point": "U+00B6",
+      "decimal": "&#182;",
+      "name": "Ký hiệu đoạn văn",
+      "category": "Ký hiệu in ấn"
+    },
+    {
+      "entity": "&dagger;",
+      "character": "†",
+      "code_point": "U+2020",
+      "decimal": "&#8224;",
+      "name": "Dấu thập",
+      "category": "Ký hiệu in ấn"
+    },
+    {
+      "entity": "&Dagger;",
+      "character": "‡",
+      "code_point": "U+2021",
+      "decimal": "&#8225;",
+      "name": "Dấu thập kép",
+      "category": "Ký hiệu in ấn"
+    },
+    {
+      "entity": "&prime;",
+      "character": "′",
+      "code_point": "U+2032",
+      "decimal": "&#8242;",
+      "name": "Dấu nháy đơn",
+      "category": "Ký hiệu in ấn"
+    },
+    {
+      "entity": "&Prime;",
+      "character": "″",
+      "code_point": "U+2033",
+      "decimal": "&#8243;",
+      "name": "Dấu nháy kép",
+      "category": "Ký hiệu in ấn"
+    },
+    {
+      "entity": "&plus;",
+      "character": "+",
+      "code_point": "U+002B",
+      "decimal": "&#43;",
+      "name": "Dấu cộng",
+      "category": "Ký hiệu toán học"
+    },
+    {
+      "entity": "&minus;",
+      "character": "−",
+      "code_point": "U+2212",
+      "decimal": "&#8722;",
+      "name": "Dấu trừ",
+      "category": "Ký hiệu toán học"
+    },
+    {
+      "entity": "&times;",
+      "character": "×",
+      "code_point": "U+00D7",
+      "decimal": "&#215;",
+      "name": "Dấu nhân",
+      "category": "Ký hiệu toán học"
+    },
+    {
+      "entity": "&divide;",
+      "character": "÷",
+      "code_point": "U+00F7",
+      "decimal": "&#247;",
+      "name": "Dấu chia",
+      "category": "Ký hiệu toán học"
+    },
+    {
+      "entity": "&plusmn;",
+      "character": "±",
+      "code_point": "U+00B1",
+      "decimal": "&#177;",
+      "name": "Dấu cộng trừ",
+      "category": "Ký hiệu toán học"
+    },
+    {
+      "entity": "&ne;",
+      "character": "≠",
+      "code_point": "U+2260",
+      "decimal": "&#8800;",
+      "name": "Dấu không bằng",
+      "category": "Ký hiệu toán học"
+    },
+    {
+      "entity": "&le;",
+      "character": "≤",
+      "code_point": "U+2264",
+      "decimal": "&#8804;",
+      "name": "Dấu nhỏ hơn hoặc bằng",
+      "category": "Ký hiệu toán học"
+    },
+    {
+      "entity": "&ge;",
+      "character": "≥",
+      "code_point": "U+2265",
+      "decimal": "&#8805;",
+      "name": "Lớn hơn hoặc bằng",
+      "category": "Toán học"
+    },
+    {
+      "entity": "&asymp;",
+      "character": "≈",
+      "code_point": "U+2248",
+      "decimal": "&#8776;",
+      "name": "Gần bằng",
+      "category": "Toán học"
+    },
+    {
+      "entity": "&infin;",
+      "character": "∞",
+      "code_point": "U+221E",
+      "decimal": "&#8734;",
+      "name": "Vô cực",
+      "category": "Toán học"
+    },
+    {
+      "entity": "&radic;",
+      "character": "√",
+      "code_point": "U+221A",
+      "decimal": "&#8730;",
+      "name": "Căn bậc hai",
+      "category": "Toán học"
+    },
+    {
+      "entity": "&sum;",
+      "character": "∑",
+      "code_point": "U+2211",
+      "decimal": "&#8721;",
+      "name": "Tổng N-ary",
+      "category": "Toán học"
+    },
+    {
+      "entity": "&prod;",
+      "character": "∏",
+      "code_point": "U+220F",
+      "decimal": "&#8719;",
+      "name": "Tích N-ary",
+      "category": "Toán học"
+    },
+    {
+      "entity": "&int;",
+      "character": "∫",
+      "code_point": "U+222B",
+      "decimal": "&#8747;",
+      "name": "Tích phân",
+      "category": "Toán học"
+    },
+    {
+      "entity": "&permil;",
+      "character": "‰",
+      "code_point": "U+2030",
+      "decimal": "&#8240;",
+      "name": "Ký hiệu phần nghìn",
+      "category": "Toán học"
+    },
+    {
+      "entity": "&frac14;",
+      "character": "¼",
+      "code_point": "U+00BC",
+      "decimal": "&#188;",
+      "name": "Phân số thường một phần tư",
+      "category": "Phân số"
+    },
+    {
+      "entity": "&frac12;",
+      "character": "½",
+      "code_point": "U+00BD",
+      "decimal": "&#189;",
+      "name": "Phân số thường một phần hai",
+      "category": "Phân số"
+    },
+    {
+      "entity": "&frac34;",
+      "character": "¾",
+      "code_point": "U+00BE",
+      "decimal": "&#190;",
+      "name": "Phân số thường ba phần tư",
+      "category": "Phân số"
+    },
+    {
+      "entity": "&cent;",
+      "character": "¢",
+      "code_point": "U+00A2",
+      "decimal": "&#162;",
+      "name": "Ký hiệu Cent",
+      "category": "Tiền tệ"
+    },
+    {
+      "entity": "&pound;",
+      "character": "£",
+      "code_point": "U+00A3",
+      "decimal": "&#163;",
+      "name": "Ký hiệu Pound",
+      "category": "Tiền tệ"
+    },
+    {
+      "entity": "&yen;",
+      "character": "¥",
+      "code_point": "U+00A5",
+      "decimal": "&#165;",
+      "name": "Ký hiệu Yên",
+      "category": "Tiền tệ"
+    },
+    {
+      "entity": "&euro;",
+      "character": "€",
+      "code_point": "U+20AC",
+      "decimal": "&#8364;",
+      "name": "Ký hiệu Euro",
+      "category": "Tiền tệ"
+    },
+    {
+      "entity": "&curren;",
+      "character": "¤",
+      "code_point": "U+00A4",
+      "decimal": "&#164;",
+      "name": "Ký hiệu tiền tệ",
+      "category": "Tiền tệ"
+    },
+    {
+      "entity": "&larr;",
+      "character": "←",
+      "code_point": "U+2190",
+      "decimal": "&#8592;",
+      "name": "Mũi tên sang trái",
+      "category": "Mũi tên"
+    },
+    {
+      "entity": "&uarr;",
+      "character": "↑",
+      "code_point": "U+2191",
+      "decimal": "&#8593;",
+      "name": "Mũi tên lên",
+      "category": "Mũi tên"
+    },
+    {
+      "entity": "&rarr;",
+      "character": "→",
+      "code_point": "U+2192",
+      "decimal": "&#8594;",
+      "name": "Mũi tên sang phải",
+      "category": "Mũi tên"
+    },
+    {
+      "entity": "&darr;",
+      "character": "↓",
+      "code_point": "U+2193",
+      "decimal": "&#8595;",
+      "name": "Mũi tên xuống",
+      "category": "Mũi tên"
+    },
+    {
+      "entity": "&harr;",
+      "character": "↔",
+      "code_point": "U+2194",
+      "decimal": "&#8596;",
+      "name": "Mũi tên trái phải",
+      "category": "Mũi tên"
+    },
+    {
+      "entity": "&lArr;",
+      "character": "⇐",
+      "code_point": "U+21D0",
+      "decimal": "&#8656;",
+      "name": "Mũi tên đôi hướng trái",
+      "category": "Mũi tên"
+    },
+    {
+      "entity": "&rArr;",
+      "character": "⇒",
+      "code_point": "U+21D2",
+      "decimal": "&#8658;",
+      "name": "Mũi tên đôi hướng phải",
+      "category": "Mũi tên"
+    },
+    {
+      "entity": "&Agrave;",
+      "character": "À",
+      "code_point": "U+00C0",
+      "decimal": "&#192;",
+      "name": "Chữ cái Latin hoa A có dấu huyền",
+      "category": "Ký tự có dấu"
+    },
+    {
+      "entity": "&Aacute;",
+      "character": "Á",
+      "code_point": "U+00C1",
+      "decimal": "&#193;",
+      "name": "Chữ cái Latin hoa A có dấu sắc",
+      "category": "Ký tự có dấu"
+    },
+    {
+      "entity": "&Acirc;",
+      "character": "Â",
+      "code_point": "U+00C2",
+      "decimal": "&#194;",
+      "name": "Chữ cái Latin hoa A có dấu mũ",
+      "category": "Ký tự có dấu"
+    },
+    {
+      "entity": "&Atilde;",
+      "character": "Ã",
+      "code_point": "U+00C3",
+      "decimal": "&#195;",
+      "name": "Chữ cái Latin hoa A có dấu ngã",
+      "category": "Ký tự có dấu"
+    },
+    {
+      "entity": "&Auml;",
+      "character": "Ä",
+      "code_point": "U+00C4",
+      "decimal": "&#196;",
+      "name": "Chữ cái Latin hoa A có dấu hai chấm",
+      "category": "Ký tự có dấu"
+    },
+    {
+      "entity": "&Ccedil;",
+      "character": "Ç",
+      "code_point": "U+00C7",
+      "decimal": "&#199;",
+      "name": "Chữ cái Latin hoa C có dấu móc dưới",
+      "category": "Ký tự có dấu"
+    },
+    {
+      "entity": "&Egrave;",
+      "character": "È",
+      "code_point": "U+00C8",
+      "decimal": "&#200;",
+      "name": "Chữ cái Latin hoa E có dấu huyền",
+      "category": "Ký tự có dấu"
+    },
+    {
+      "entity": "&Eacute;",
+      "character": "É",
+      "code_point": "U+00C9",
+      "decimal": "&#201;",
+      "name": "Chữ cái Latin hoa E có dấu sắc",
+      "category": "Ký tự có dấu"
+    },
+    {
+      "entity": "&Ntilde;",
+      "character": "Ñ",
+      "code_point": "U+00D1",
+      "decimal": "&#209;",
+      "name": "Chữ cái Latin hoa N có dấu ngã",
+      "category": "Ký tự có dấu"
+    },
+    {
+      "entity": "&Ouml;",
+      "character": "Ö",
+      "code_point": "U+00D6",
+      "decimal": "&#214;",
+      "name": "Chữ cái Latin hoa O có dấu hai chấm",
+      "category": "Ký tự có dấu"
+    },
+    {
+      "entity": "&Uuml;",
+      "character": "Ü",
+      "code_point": "U+00DC",
+      "decimal": "&#220;",
+      "name": "Chữ cái Latin hoa U có dấu hai chấm",
+      "category": "Ký tự có dấu"
+    },
+    {
+      "entity": "&szlig;",
+      "character": "ß",
+      "code_point": "U+00DF",
+      "decimal": "&#223;",
+      "name": "Chữ cái Latin thường Sharp S",
+      "category": "Ký tự có dấu"
+    }
+  ],
+  "meta": {
+    "seo_title": "Danh sách HTML Character Entities - Tải xuống miễn phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống miễn phí 75 thực thể ký tự HTML, bao gồm các ký hiệu và mã cần thiết. Có sẵn ở định dạng Excel, CSV và PDF cho nhà phát triển và thiết kế.",
+    "title": "Bộ dữ liệu Thực thể Ký tự HTML & Biểu tượng Đặc biệt",
+    "description": "Bộ dữ liệu này cung cấp danh sách toàn diện 75 thực thể ký tự HTML phổ biến, bao gồm ký tự, điểm mã, mã thập phân, tên và danh mục tương ứng. Đây là tài nguyên thiết yếu cho phát triển web.",
+    "key_takeaways": [
+      "Truy cập danh sách đầy đủ 75 thực thể ký tự HTML và chi tiết của chúng.",
+      "Khám phá các ký hiệu thiết yếu như &amp;, &lt;, &gt;, &quot; và &apos;.",
+      "Tải xuống các mã ký tự (điểm mã, thập phân) để tham khảo và tích hợp dễ dàng.",
+      "Sử dụng dữ liệu này để đảm bảo hiển thị đúng các ký tự đặc biệt trong ứng dụng web."
+    ],
+    "keywords": [
+      "html character entities tiếng việt",
+      "ký tự html đặc biệt",
+      "mã thực thể html",
+      "tải ký tự html csv",
+      "html symbols excel",
+      "thực thể html unicode"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào ứng dụng web hoặc cơ sở dữ liệu CMS của bạn để đảm bảo hiển thị chính xác các ký tự đặc biệt, hoặc sử dụng trong các tập lệnh Python để phân tích nội dung.",
+      "Sử dụng tệp **Excel** để lọc, sắp xếp và phân tích các thuộc tính ký tự cho tài liệu, hoặc để nhanh chóng tra cứu các thực thể cụ thể cho các dự án thiết kế.",
+      "In phiên bản **PDF** để làm hướng dẫn tham khảo nhanh, ngoại tuyến trong các buổi viết mã hoặc cho mục đích giáo dục trong các lớp học thiết kế web.",
+      "Tận dụng bộ dữ liệu này để xác thực và làm sạch dữ liệu đầu vào của người dùng, ngăn chặn các cuộc tấn công kịch bản liên trang (XSS) bằng cách mã hóa đúng các ký tự đặc biệt HTML."
+    ]
+  },
+  "record_count": 75,
+  "title": "Bộ dữ liệu Thực thể Ký tự HTML & Biểu tượng Đặc biệt"
+}

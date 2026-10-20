@@ -1,0 +1,136 @@
+{
+  "id": "vi-ha-noi-san-bay",
+  "name": "Sân bay — Hà Nội",
+  "title": "Sân bay — Hà Nội",
+  "description": "Danh sách các sân bay và phi trường tại Hà Nội (Việt Nam / VN) — bao gồm mã ICAO/IATA, thành phố, tọa độ WGS84, độ cao (feet) và múi giờ. Tập hợp con của danh sách sân bay quốc gia, được lọc theo subdivision='Ha-Nội' trong nguồn dữ liệu mborsetti/airportsdata. (Airports in Hanoi, Vietnam — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list with subdivision='Ha-Nội' in upstream source.)",
+  "category": "transport",
+  "source": "https://github.com/mborsetti/airportsdata",
+  "source_url": "https://github.com/mborsetti/airportsdata",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_native",
+      "label": "Subdivision Native",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_native",
+      "label": "Country Native",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "VVBM",
+      "iata": "BMV",
+      "name": "Buon Ma Thuot Airport",
+      "city": "Buon Ma Thuot",
+      "subdivision": "Ha-Nội",
+      "subdivision_native": "Hà Nội",
+      "country": "VN",
+      "country_native": "Việt Nam",
+      "elevation_ft": 1729,
+      "latitude": 12.6683,
+      "longitude": 108.12,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "lid": ""
+    },
+    {
+      "icao": "VVGL",
+      "iata": "",
+      "name": "Gia Lam Air Base",
+      "city": "Hanoi",
+      "subdivision": "Ha-Nội",
+      "subdivision_native": "Hà Nội",
+      "country": "VN",
+      "country_native": "Việt Nam",
+      "elevation_ft": 50,
+      "latitude": 21.0405,
+      "longitude": 105.886,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "lid": ""
+    },
+    {
+      "icao": "VVNB",
+      "iata": "HAN",
+      "name": "Noi Bai International Airport",
+      "city": "Hanoi",
+      "subdivision": "Ha-Nội",
+      "subdivision_native": "Hà Nội",
+      "country": "VN",
+      "country_native": "Việt Nam",
+      "elevation_ft": 39,
+      "latitude": 21.2212,
+      "longitude": 105.807,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Sân bay — Hà Nội - Tải miễn phí",
+    "description": "Danh sách các sân bay và phi trường tại Hà Nội (Việt Nam / VN) — bao gồm mã ICAO/IATA, thành phố, tọa độ WGS84, độ cao (feet) và múi giờ. Tập hợp con của danh sách sân bay quốc gia, được lọc theo subdivision='Ha-Nội' trong nguồn dữ liệu mborsetti/airportsdata. (Airports in Hanoi, Vietnam — ICAO/IATA codes, city, WGS84 coordinates, elevation, timezone. Filtered subset of national airport list with subdivision='Ha-Nội' in upstream source.) Chứa 3 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Sân bay — Hà Nội | ListBase",
+    "seo_description": "Tải xuống Sân bay — Hà Nội — 3 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 3 bản ghi / 13 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: https://github.com/mborsetti/airportsdata"
+    ]
+  }
+}

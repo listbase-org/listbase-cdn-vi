@@ -1,0 +1,286 @@
+{
+  "id": "vi-nha-tho",
+  "name": "Nhà thờ ở Việt Nam",
+  "title": "Nhà thờ ở Việt Nam",
+  "description": "Danh sách nhà thờ (công trình tôn giáo Kitô giáo) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31 wd:Q16970 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu nhà thờ (công trình tôn giáo Kitô giáo) đầu tiên trong nhóm tiếng Việt — mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 23/25 toạ độ, 20/25 vi.wikipedia.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q10772316",
+      "name_vi": "Hội thánh Tin Lành Thành phố Hà Nội",
+      "name_en": "Hanoi protestant church",
+      "latitude": 21.031133,
+      "longitude": 105.845806,
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q124155971",
+      "name_vi": "Nhà thờ Buôn Hô",
+      "name_en": "Buôn Hồ Church",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q10800878",
+      "name_vi": "Nhà thờ Cam Ly",
+      "name_en": "Cam Ly Church",
+      "latitude": 11.943814,
+      "longitude": 108.421947,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_Cam_Ly"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q6837230",
+      "name_vi": "Nhà thờ Cha Tam",
+      "name_en": "Saint Francis Xavier Church",
+      "latitude": 10.752,
+      "longitude": 106.653,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_Cha_Tam"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q10800884",
+      "name_vi": "Nhà thờ Chợ Quán",
+      "name_en": "Sacred Heart Church",
+      "latitude": 10.7575,
+      "longitude": 106.681667,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_Ch%E1%BB%A3_Qu%C3%A1n"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q1088224",
+      "name_vi": "Nhà thờ Cửa Bắc",
+      "name_en": "Cua Bac Church",
+      "latitude": 21.041368,
+      "longitude": 105.840708,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_C%E1%BB%ADa_B%E1%BA%AFc"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q10800882",
+      "name_vi": "Nhà thờ Domaine de Marie",
+      "name_en": "Domaine de Marie",
+      "latitude": 11.949456,
+      "longitude": 108.430289,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_Domaine_de_Marie"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q124155903",
+      "name_vi": "Nhà thờ Du Sinh",
+      "name_en": "Du Sinh Church",
+      "latitude": 11.933603,
+      "longitude": 108.418414,
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q10800885",
+      "name_vi": "Nhà thờ Dòng Chúa Cứu Thế, Huế",
+      "name_en": "Redemptorist Church",
+      "latitude": 16.457991,
+      "longitude": 107.595353,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_D%C3%B2ng_Ch%C3%BAa_C%E1%BB%A9u_Th%E1%BA%BF,_Hu%E1%BA%BF"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q124131180",
+      "name_vi": "Nhà thờ Giáo Phòng",
+      "name_en": "Giáo Phòng Church",
+      "latitude": 20.257404,
+      "longitude": 106.490052,
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q10800886",
+      "name_vi": "Nhà thờ Huyện Sỹ",
+      "name_en": "Saint Philip Church",
+      "latitude": 10.754666,
+      "longitude": 106.415032,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_Huy%E1%BB%87n_S%E1%BB%B9"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q1932222",
+      "name_vi": "Nhà thờ Hàm Long",
+      "name_en": "Ham Long Church",
+      "latitude": 21.018636,
+      "longitude": 105.853931,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_H%C3%A0m_Long"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q10800887",
+      "name_vi": "Nhà thờ Hòn Gai",
+      "name_en": "Hòn Gai Church",
+      "latitude": 20.953249,
+      "longitude": 107.082416,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_H%C3%B2n_Gai"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q10800888",
+      "name_vi": "Nhà thờ Hạnh Thông Tây",
+      "name_en": "Saint Joseph Church",
+      "latitude": 10.837,
+      "longitude": 106.658917,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_H%E1%BA%A1nh_Th%C3%B4ng_T%C3%A2y"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q10800893",
+      "name_vi": "Nhà thờ Mằng Lăng",
+      "name_en": "Mằng Lăng Church",
+      "latitude": 13.3342,
+      "longitude": 109.226,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_M%E1%BA%B1ng_L%C4%83ng"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q16481388",
+      "name_vi": "Nhà thờ Năng Gù",
+      "name_en": "Năng Gù Church",
+      "latitude": 10.493667,
+      "longitude": 105.331037,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_N%C4%83ng_G%C3%B9"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q7189862",
+      "name_vi": "Nhà thờ Phùng Khoang",
+      "name_en": "Phùng Khoang Church",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_Ph%C3%B9ng_Khoang"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q10800894",
+      "name_vi": "Nhà thờ Phương Chính",
+      "name_en": "Phương Chính Church",
+      "latitude": 20.093767,
+      "longitude": 106.272703,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_th%C3%A1nh_Ph%C6%B0%C6%A1ng_Ch%C3%ADnh"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q7680488",
+      "name_vi": "Nhà thờ Tam Tòa",
+      "name_en": "Tam Toa Church",
+      "latitude": 17.474974,
+      "longitude": 106.623356,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Di_t%C3%ADch_nh%C3%A0_th%E1%BB%9D_Tam_T%C3%B2a"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q10800896",
+      "name_vi": "Nhà thờ Thánh Jeanne d'Arc",
+      "name_en": "Jeanne d'Arc Church",
+      "latitude": 10.756944,
+      "longitude": 106.667194,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_Th%C3%A1nh_Jeanne_d%27Arc"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q10800898",
+      "name_vi": "Nhà thờ Trung Lao",
+      "name_en": "Trung Lao Church",
+      "latitude": 20.305821,
+      "longitude": 106.262208,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_th%C3%A1nh_Trung_Lao"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q7682043",
+      "name_vi": "Nhà thờ Tân Định",
+      "name_en": "Tan Dinh church",
+      "latitude": 10.788417,
+      "longitude": 106.690694,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Nh%C3%A0_th%E1%BB%9D_T%C3%A2n_%C4%90%E1%BB%8Bnh"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q124156643",
+      "name_vi": "Nhà thờ đá Sapa",
+      "name_en": "Sa Pa Church",
+      "latitude": 22.335115,
+      "longitude": 103.842263,
+      "wikipedia_vi": ""
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q10834009",
+      "name_vi": "Vương cung thánh đường Phú Nhai",
+      "name_en": "Basilica of Immaculate Conception, Phu Nhai",
+      "latitude": 20.307651,
+      "longitude": 106.329848,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_cung_th%C3%A1nh_%C4%91%C6%B0%E1%BB%9Dng_Ph%C3%BA_Nhai"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q10834010",
+      "name_vi": "Vương cung thánh đường Sở Kiện",
+      "name_en": "Sở Kiện Basilica",
+      "latitude": 20.50306,
+      "longitude": 105.88083,
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%C6%B0%C6%A1ng_cung_th%C3%A1nh_%C4%91%C6%B0%E1%BB%9Dng_S%E1%BB%9F_Ki%E1%BB%87n"
+    }
+  ],
+  "meta": {
+    "title": "Nhà thờ ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách nhà thờ (công trình tôn giáo Kitô giáo) nằm trên lãnh thổ Việt Nam. Nguồn dữ liệu là Wikidata, truy xuất qua điểm cuối SPARQL công khai (query.wikidata.org) với truy vấn ?x wdt:P31 wd:Q16970 kèm wdt:P17 wd:Q881 (quốc gia = Việt Nam). Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ WGS84 và liên kết Wikipedia tiếng Việt. Đây là tập dữ liệu nhà thờ (công trình tôn giáo Kitô giáo) đầu tiên trong nhóm tiếng Việt — mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 23/25 toạ độ, 20/25 vi.wikipedia. Chứa 25 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Nhà thờ ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Nhà thờ ở Việt Nam — 25 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 25 bản ghi / 7 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

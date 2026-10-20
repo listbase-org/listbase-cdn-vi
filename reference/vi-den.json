@@ -1,0 +1,376 @@
+{
+  "id": "vi-den",
+  "name": "Đền ở Việt Nam",
+  "title": "Đền ở Việt Nam",
+  "description": "Danh sách đền ở việt nam (P31 = wd:Q44539) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-19. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi) kèm toạ độ WGS84 (P625). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikipedia tiếng Việt nếu có. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 25/25 toạ độ, 23/25 vi.wikipedia.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_vi",
+      "label": "Name Vi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "admin_area_vi",
+      "label": "Admin Area Vi",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_vi",
+      "label": "Wikipedia Vi",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q10748440",
+      "name_vi": "Chùa Keo (Thái Bình)",
+      "name_en": "Keo Temple",
+      "latitude": 20.360556,
+      "longitude": 106.297222,
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Keo_Th%C3%A1i_B%C3%ACnh",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10748440"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q7932540",
+      "name_vi": "Chùa Vĩnh Tràng",
+      "name_en": "Vinh Trang Temple",
+      "latitude": 10.362809,
+      "longitude": 106.373749,
+      "admin_area_vi": "Mỹ Tho",
+      "admin_area_en": "Mỹ Tho",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_V%C4%A9nh_Tr%C3%A0ng",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7932540"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q61133576",
+      "name_vi": "Hội quán Nghĩa Nhuận",
+      "name_en": "Guandi Temple",
+      "latitude": 10.749576,
+      "longitude": 106.654361,
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/H%E1%BB%99i_qu%C3%A1n_Ngh%C4%A9a_Nhu%E1%BA%ADn",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61133576"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q32208850",
+      "name_vi": "Miếu Bà Chúa Xứ Núi Sam",
+      "name_en": "",
+      "latitude": 10.682254,
+      "longitude": 105.080132,
+      "admin_area_vi": "An Giang",
+      "admin_area_en": "Châu Đốc",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Mi%E1%BA%BFu_B%C3%A0_Ch%C3%BAa_X%E1%BB%A9_N%C3%BAi_Sam",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32208850"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q10825817",
+      "name_vi": "Thánh thất Sài Gòn",
+      "name_en": "Cao Dai Temple of Saigon",
+      "latitude": 10.754568,
+      "longitude": 106.67954,
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%C3%A1nh_th%E1%BA%A5t_S%C3%A0i_G%C3%B2n",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10825817"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q10825819",
+      "name_vi": "Thánh thất Đa Phước",
+      "name_en": "",
+      "latitude": 11.944167,
+      "longitude": 108.502778,
+      "admin_area_vi": "Xuân Trường - Đà Lạt",
+      "admin_area_en": "Xuân Trường - Đà Lạt",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%C3%A1nh_th%E1%BA%A5t_%C4%90a_Ph%C6%B0%E1%BB%9Bc",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10825819"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q600269",
+      "name_vi": "Tháp Po Nagar",
+      "name_en": "Po Nagar",
+      "latitude": 12.265278,
+      "longitude": 109.195556,
+      "admin_area_vi": "Nha Trang",
+      "admin_area_en": "Nha Trang",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/Th%C3%A1p_Po_Nagar",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q600269"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q10831162",
+      "name_vi": "Tòa Thánh Tây Ninh",
+      "name_en": "Great Divine Temple",
+      "latitude": 11.303858,
+      "longitude": 106.133525,
+      "admin_area_vi": "Tây Ninh",
+      "admin_area_en": "Long Hoa",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/T%C3%B2a_Th%C3%A1nh_T%C3%A2y_Ninh",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10831162"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q109425443",
+      "name_vi": "Tịnh thất Bồng Lai",
+      "name_en": "Tịnh thất Bồng Lai",
+      "latitude": 10.858333,
+      "longitude": 106.398417,
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/T%E1%BB%8Bnh_th%E1%BA%A5t_B%E1%BB%93ng_Lai",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109425443"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q10834146",
+      "name_vi": "Vạn Thủy Tú",
+      "name_en": "Thuy Tu Temple",
+      "latitude": 10.92319,
+      "longitude": 108.10005,
+      "admin_area_vi": "Bình Thuận",
+      "admin_area_en": "Bình Thuận",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/V%E1%BA%A1n_Th%E1%BB%A7y_T%C3%BA",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10834146"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q31634903",
+      "name_vi": "Đền An Xá",
+      "name_en": "",
+      "latitude": 20.681756,
+      "longitude": 106.105119,
+      "admin_area_vi": "Hưng Yên",
+      "admin_area_en": "Hưng Yên",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_An_X%C3%A1",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31634903"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q10841667",
+      "name_vi": "Đền Bạch Mã",
+      "name_en": "Bach Ma temple",
+      "latitude": 21.035752,
+      "longitude": 105.851032,
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_B%E1%BA%A1ch_M%C3%A3",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10841667"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q31666335",
+      "name_vi": "Đền Bảo Hà",
+      "name_en": "Bao Ha Temple",
+      "latitude": 22.170505,
+      "longitude": 104.352523,
+      "admin_area_vi": "Lào Cai",
+      "admin_area_en": "Lào Cai",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_B%E1%BA%A3o_H%C3%A0",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31666335"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q24957573",
+      "name_vi": "Đền Cấm",
+      "name_en": "",
+      "latitude": 22.495259,
+      "longitude": 103.977707,
+      "admin_area_vi": "Lào Cai",
+      "admin_area_en": "Lào Cai",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_C%E1%BA%A5m",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24957573"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q10841674",
+      "name_vi": "Đền Cửa Ông",
+      "name_en": "Cua Ong Temple",
+      "latitude": 21.027,
+      "longitude": 107.37,
+      "admin_area_vi": "Cẩm Phả",
+      "admin_area_en": "Cẩm Phả",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_C%E1%BB%ADa_%C3%94ng",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10841674"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q5964889",
+      "name_vi": "Đền Hùng",
+      "name_en": "Hùng Temple",
+      "latitude": 21.365533,
+      "longitude": 105.324627,
+      "admin_area_vi": "",
+      "admin_area_en": "",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_H%C3%B9ng",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5964889"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q49054330",
+      "name_vi": "Đền Nội Bình Đà",
+      "name_en": "Noi temple",
+      "latitude": 20.895463,
+      "longitude": 105.766284,
+      "admin_area_vi": "Thanh Oai",
+      "admin_area_en": "Thanh Oai",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_N%E1%BB%99i_B%C3%ACnh_%C4%90%C3%A0",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q49054330"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q5370148",
+      "name_vi": "Đền Quán Thánh",
+      "name_en": "Quán Thánh Temple",
+      "latitude": 21.043113,
+      "longitude": 105.836508,
+      "admin_area_vi": "Tây Hồ",
+      "admin_area_en": "Tây Hồ",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_Qu%C3%A1n_Th%C3%A1nh",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5370148"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q111495941",
+      "name_vi": "Đền Trấn Vũ",
+      "name_en": "Tran Vu temple",
+      "latitude": 21.022324,
+      "longitude": 105.901363,
+      "admin_area_vi": "Long Biên",
+      "admin_area_en": "Long Biên",
+      "wikipedia_vi": "",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111495941"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q10841709",
+      "name_vi": "Đền Voi Phục",
+      "name_en": "Voi Phục Temple",
+      "latitude": 21.030636,
+      "longitude": 105.804138,
+      "admin_area_vi": "Hà Nội",
+      "admin_area_en": "Hanoi",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_Voi_Ph%E1%BB%A5c",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10841709"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q108936220",
+      "name_vi": "Đền thờ Lê Văn Thịnh",
+      "name_en": "Lê Văn Thịnh temple",
+      "latitude": 21.07285,
+      "longitude": 106.167501,
+      "admin_area_vi": "Gia Bình",
+      "admin_area_en": "Gia Bình",
+      "wikipedia_vi": "",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108936220"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q10841726",
+      "name_vi": "Đền thờ Trần Hưng Đạo (Thành phố Hồ Chí Minh)",
+      "name_en": "Tran Hung Dao Temple",
+      "latitude": 10.791065,
+      "longitude": 106.694406,
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_th%E1%BB%9D_Tr%E1%BA%A7n_H%C6%B0ng_%C4%90%E1%BA%A1o_(Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh)",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10841726"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q10841729",
+      "name_vi": "Đền thờ vua Hùng",
+      "name_en": "Hùng King Temple",
+      "latitude": 10.7872,
+      "longitude": 106.7057,
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Saigon",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_th%E1%BB%9D_Vua_H%C3%B9ng_(Th%E1%BA%A3o_C%E1%BA%A7m_Vi%C3%AAn)",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10841729"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q4885571",
+      "name_vi": "Đền tưởng niệm Bến Dược - Củ Chi",
+      "name_en": "Ben Duoc Memorial Temple",
+      "latitude": 11.146389,
+      "longitude": 106.459444,
+      "admin_area_vi": "Thành phố Hồ Chí Minh",
+      "admin_area_en": "Ho Chi Minh City",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_B%E1%BA%BFn_D%C6%B0%E1%BB%A3c",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4885571"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q10841733",
+      "name_vi": "Đền Đoan",
+      "name_en": "Doan Temple",
+      "latitude": 20.729973,
+      "longitude": 106.400388,
+      "admin_area_vi": "Ninh Giang",
+      "admin_area_en": "Ninh Giang",
+      "wikipedia_vi": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_%C4%90oan",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q10841733"
+    }
+  ],
+  "meta": {
+    "title": "Đền ở Việt Nam - Tải miễn phí",
+    "description": "Danh sách đền ở việt nam (P31 = wd:Q44539) nằm trên lãnh thổ Việt Nam (P17 = wd:Q881). Nguồn dữ liệu Wikidata, truy xuất qua điểm cuối SPARQL công khai query-main.wikidata.org/sparql ngày 2026-06-19. Theo quy tắc giữ nguyên văn bản bản ngữ, chỉ giữ các thực thể có nhãn tiếng Việt thực sự (rdfs:label@vi) kèm toạ độ WGS84 (P625). Mỗi bản ghi gồm tên tiếng Việt, tên tiếng Anh, toạ độ, đơn vị hành chính (P131) và liên kết Wikipedia tiếng Việt nếu có. Mọi bản ghi đều truy nguyên tới một QID Wikidata. Độ phủ: 25/25 toạ độ, 23/25 vi.wikipedia. Chứa 25 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Đền ở Việt Nam | ListBase",
+    "seo_description": "Tải xuống Đền ở Việt Nam — 25 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 25 bản ghi / 10 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

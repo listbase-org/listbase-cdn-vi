@@ -1,0 +1,575 @@
+{
+  "id": "tech-port-numbers",
+  "name": "Tập dữ liệu số cổng mạng và dịch vụ phổ biến",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "port",
+      "label": "Port",
+      "type": "number"
+    },
+    {
+      "key": "protocol",
+      "label": "Protocol",
+      "type": "string"
+    },
+    {
+      "key": "service",
+      "label": "Service (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "port": 20,
+      "protocol": "TCP",
+      "service": "Dữ liệu FTP",
+      "category": "Truyền tệp",
+      "description": "Giao thức Truyền tệp - truyền dữ liệu"
+    },
+    {
+      "port": 21,
+      "protocol": "TCP",
+      "service": "Điều khiển FTP",
+      "category": "Truyền tệp",
+      "description": "Giao thức Truyền tệp - lệnh/điều khiển"
+    },
+    {
+      "port": 22,
+      "protocol": "TCP",
+      "service": "SSH",
+      "category": "Truy cập từ xa",
+      "description": "Secure Shell - đăng nhập từ xa được mã hóa"
+    },
+    {
+      "port": 23,
+      "protocol": "TCP",
+      "service": "Telnet",
+      "category": "Truy cập từ xa",
+      "description": "Telnet - đăng nhập từ xa không mã hóa (cũ)"
+    },
+    {
+      "port": 25,
+      "protocol": "TCP",
+      "service": "SMTP",
+      "category": "Email",
+      "description": "Giao thức Truyền thư đơn giản - gửi email"
+    },
+    {
+      "port": 53,
+      "protocol": "TCP/UDP",
+      "service": "DNS",
+      "category": "Mạng",
+      "description": "Hệ thống Tên miền - phân giải tên máy chủ"
+    },
+    {
+      "port": 67,
+      "protocol": "UDP",
+      "service": "Máy chủ DHCP",
+      "category": "Mạng",
+      "description": "Giao thức Cấu hình Máy chủ Động - máy chủ"
+    },
+    {
+      "port": 68,
+      "protocol": "UDP",
+      "service": "Máy khách DHCP",
+      "category": "Mạng",
+      "description": "Giao thức Cấu hình Máy chủ Động - máy khách"
+    },
+    {
+      "port": 69,
+      "protocol": "UDP",
+      "service": "TFTP",
+      "category": "Truyền tệp",
+      "description": "Giao thức Truyền tệp Tầm thường"
+    },
+    {
+      "port": 80,
+      "protocol": "TCP",
+      "service": "HTTP",
+      "category": "Web",
+      "description": "Giao thức Truyền Siêu văn bản - lưu lượng web"
+    },
+    {
+      "port": 110,
+      "protocol": "TCP",
+      "service": "POP3",
+      "category": "Email",
+      "description": "Giao thức Bưu điện v3 - nhận email"
+    },
+    {
+      "port": 119,
+      "protocol": "TCP",
+      "service": "NNTP",
+      "category": "Tin tức",
+      "description": "Giao thức Truyền tin tức Mạng"
+    },
+    {
+      "port": 123,
+      "protocol": "UDP",
+      "service": "NTP",
+      "category": "Mạng",
+      "description": "Giao thức Thời gian Mạng - đồng bộ hóa thời gian"
+    },
+    {
+      "port": 135,
+      "protocol": "TCP",
+      "service": "RPC",
+      "category": "Windows",
+      "description": "Bộ ánh xạ điểm cuối Microsoft RPC"
+    },
+    {
+      "port": 137,
+      "protocol": "UDP",
+      "service": "NetBIOS-NS",
+      "category": "Windows",
+      "description": "Dịch vụ Tên NetBIOS"
+    },
+    {
+      "port": 138,
+      "protocol": "UDP",
+      "service": "NetBIOS-DGM",
+      "category": "Windows",
+      "description": "Dịch vụ Datagram NetBIOS"
+    },
+    {
+      "port": 139,
+      "protocol": "TCP",
+      "service": "NetBIOS-SSN",
+      "category": "Windows",
+      "description": "Dịch vụ Phiên NetBIOS"
+    },
+    {
+      "port": 143,
+      "protocol": "TCP",
+      "service": "IMAP",
+      "category": "Email",
+      "description": "Giao thức Truy cập Thư Internet"
+    },
+    {
+      "port": 161,
+      "protocol": "UDP",
+      "service": "SNMP",
+      "category": "Mạng",
+      "description": "Giao thức Quản lý Mạng Đơn giản"
+    },
+    {
+      "port": 162,
+      "protocol": "UDP",
+      "service": "SNMP Trap",
+      "category": "Mạng",
+      "description": "SNMP Trap - thông báo"
+    },
+    {
+      "port": 179,
+      "protocol": "TCP",
+      "service": "BGP",
+      "category": "Mạng",
+      "description": "Giao thức Border Gateway - định tuyến"
+    },
+    {
+      "port": 194,
+      "protocol": "TCP",
+      "service": "IRC",
+      "category": "Trò chuyện",
+      "description": "Trò chuyện chuyển tiếp qua Internet"
+    },
+    {
+      "port": 389,
+      "protocol": "TCP",
+      "service": "LDAP",
+      "category": "Thư mục",
+      "description": "Giao thức truy cập thư mục nhẹ"
+    },
+    {
+      "port": 443,
+      "protocol": "TCP",
+      "service": "HTTPS",
+      "category": "Web",
+      "description": "HTTP Secure - lưu lượng web được mã hóa"
+    },
+    {
+      "port": 445,
+      "protocol": "TCP",
+      "service": "SMB",
+      "category": "Chia sẻ tệp",
+      "description": "Server Message Block - chia sẻ tệp Windows"
+    },
+    {
+      "port": 465,
+      "protocol": "TCP",
+      "service": "SMTPS",
+      "category": "Thư điện tử",
+      "description": "SMTP qua SSL (đã lỗi thời, sử dụng cổng 587)"
+    },
+    {
+      "port": 500,
+      "protocol": "UDP",
+      "service": "IKE",
+      "category": "VPN",
+      "description": "Trao đổi khóa Internet - VPN IPsec"
+    },
+    {
+      "port": 514,
+      "protocol": "UDP",
+      "service": "Syslog",
+      "category": "Ghi nhật ký",
+      "description": "Giao thức ghi nhật ký hệ thống"
+    },
+    {
+      "port": 515,
+      "protocol": "TCP",
+      "service": "LPD",
+      "category": "In ấn",
+      "description": "Line Printer Daemon - in ấn"
+    },
+    {
+      "port": 520,
+      "protocol": "UDP",
+      "service": "RIP",
+      "category": "Mạng",
+      "description": "Giao thức thông tin định tuyến"
+    },
+    {
+      "port": 546,
+      "protocol": "UDP",
+      "service": "Máy khách DHCPv6",
+      "category": "Mạng",
+      "description": "DHCP cho IPv6 - máy khách"
+    },
+    {
+      "port": 547,
+      "protocol": "UDP",
+      "service": "Máy chủ DHCPv6",
+      "category": "Mạng",
+      "description": "DHCP cho IPv6 - máy chủ"
+    },
+    {
+      "port": 587,
+      "protocol": "TCP",
+      "service": "Gửi thư SMTP",
+      "category": "Thư điện tử",
+      "description": "Gửi thư (ưu tiên để gửi)"
+    },
+    {
+      "port": 636,
+      "protocol": "TCP",
+      "service": "LDAPS",
+      "category": "Thư mục",
+      "description": "LDAP qua SSL/TLS"
+    },
+    {
+      "port": 993,
+      "protocol": "TCP",
+      "service": "IMAPS",
+      "category": "Thư điện tử",
+      "description": "IMAP qua SSL/TLS"
+    },
+    {
+      "port": 995,
+      "protocol": "TCP",
+      "service": "POP3S",
+      "category": "Thư điện tử",
+      "description": "POP3 qua SSL/TLS"
+    },
+    {
+      "port": 1080,
+      "protocol": "TCP",
+      "service": "SOCKS",
+      "category": "Proxy",
+      "description": "Giao thức proxy SOCKS"
+    },
+    {
+      "port": 1194,
+      "protocol": "UDP",
+      "service": "OpenVPN",
+      "category": "VPN",
+      "description": "Cổng mặc định của OpenVPN"
+    },
+    {
+      "port": 1433,
+      "protocol": "TCP",
+      "service": "MSSQL",
+      "category": "Cơ sở dữ liệu",
+      "description": "Microsoft SQL Server"
+    },
+    {
+      "port": 1434,
+      "protocol": "UDP",
+      "service": "Trình duyệt MSSQL",
+      "category": "Cơ sở dữ liệu",
+      "description": "Dịch vụ trình duyệt SQL Server"
+    },
+    {
+      "port": 1521,
+      "protocol": "TCP",
+      "service": "Oracle DB",
+      "category": "Cơ sở dữ liệu",
+      "description": "Trình lắng nghe Cơ sở dữ liệu Oracle"
+    },
+    {
+      "port": 1723,
+      "protocol": "TCP",
+      "service": "PPTP",
+      "category": "VPN",
+      "description": "Giao thức Đường hầm Điểm-nối-điểm"
+    },
+    {
+      "port": 1883,
+      "protocol": "TCP",
+      "service": "MQTT",
+      "category": "IoT",
+      "description": "Giao thức Vận chuyển Đo từ xa Xếp hàng Tin nhắn"
+    },
+    {
+      "port": 2049,
+      "protocol": "TCP/UDP",
+      "service": "NFS",
+      "category": "Chia sẻ Tệp",
+      "description": "Hệ thống Tệp Mạng"
+    },
+    {
+      "port": 2082,
+      "protocol": "TCP",
+      "service": "cPanel",
+      "category": "Lưu trữ Web",
+      "description": "Cổng mặc định của cPanel"
+    },
+    {
+      "port": 2083,
+      "protocol": "TCP",
+      "service": "cPanel SSL",
+      "category": "Lưu trữ Web",
+      "description": "cPanel qua SSL"
+    },
+    {
+      "port": 2181,
+      "protocol": "TCP",
+      "service": "ZooKeeper",
+      "category": "Phân tán",
+      "description": "Apache ZooKeeper"
+    },
+    {
+      "port": 2375,
+      "protocol": "TCP",
+      "service": "Docker",
+      "category": "Container",
+      "description": "Docker REST API (không mã hóa)"
+    },
+    {
+      "port": 2376,
+      "protocol": "TCP",
+      "service": "Docker TLS",
+      "category": "Container",
+      "description": "Docker REST API (TLS)"
+    },
+    {
+      "port": 3000,
+      "protocol": "TCP",
+      "service": "Dev Server",
+      "category": "Phát triển",
+      "description": "Máy chủ phát triển Node.js/React/Rails"
+    },
+    {
+      "port": 3306,
+      "protocol": "TCP",
+      "service": "MySQL",
+      "category": "Cơ sở dữ liệu",
+      "description": "Cơ sở dữ liệu MySQL/MariaDB"
+    },
+    {
+      "port": 3389,
+      "protocol": "TCP",
+      "service": "RDP",
+      "category": "Truy cập Từ xa",
+      "description": "Giao thức Máy tính Từ xa (Windows)"
+    },
+    {
+      "port": 4443,
+      "protocol": "TCP",
+      "service": "Pharos",
+      "category": "Web",
+      "description": "Cổng HTTPS thay thế"
+    },
+    {
+      "port": 5000,
+      "protocol": "TCP",
+      "service": "Flask/UPnP",
+      "category": "Phát triển",
+      "description": "Python Flask / Khám phá UPnP"
+    },
+    {
+      "port": 5432,
+      "protocol": "TCP",
+      "service": "PostgreSQL",
+      "category": "Cơ sở dữ liệu",
+      "description": "Cơ sở dữ liệu PostgreSQL"
+    },
+    {
+      "port": 5672,
+      "protocol": "TCP",
+      "service": "AMQP",
+      "category": "Nhắn tin",
+      "description": "Cổng mặc định của RabbitMQ"
+    },
+    {
+      "port": 5900,
+      "protocol": "TCP",
+      "service": "VNC",
+      "category": "Truy cập Từ xa",
+      "description": "Máy tính Mạng Ảo"
+    },
+    {
+      "port": 6379,
+      "protocol": "TCP",
+      "service": "Redis",
+      "category": "Cơ sở dữ liệu",
+      "description": "Cơ sở dữ liệu trong bộ nhớ Redis"
+    },
+    {
+      "port": 6443,
+      "protocol": "TCP",
+      "service": "Kubernetes API",
+      "category": "Container",
+      "description": "Máy chủ API Kubernetes"
+    },
+    {
+      "port": 6667,
+      "protocol": "TCP",
+      "service": "IRC",
+      "category": "Trò chuyện",
+      "description": "Cổng mặc định của IRC"
+    },
+    {
+      "port": 8000,
+      "protocol": "TCP",
+      "service": "HTTP thay thế",
+      "category": "Phát triển",
+      "description": "HTTP thay thế / Phát triển Django"
+    },
+    {
+      "port": 8080,
+      "protocol": "TCP",
+      "service": "Proxy HTTP",
+      "category": "Web",
+      "description": "Proxy HTTP / HTTP thay thế"
+    },
+    {
+      "port": 8443,
+      "protocol": "TCP",
+      "service": "HTTPS thay thế",
+      "category": "Web",
+      "description": "Cổng HTTPS thay thế"
+    },
+    {
+      "port": 8888,
+      "protocol": "TCP",
+      "service": "Jupyter",
+      "category": "Phát triển",
+      "description": "Mặc định Jupyter Notebook"
+    },
+    {
+      "port": 9000,
+      "protocol": "TCP",
+      "service": "PHP-FPM",
+      "category": "Web",
+      "description": "Trình quản lý tiến trình PHP FastCGI"
+    },
+    {
+      "port": 9090,
+      "protocol": "TCP",
+      "service": "Prometheus",
+      "category": "Giám sát",
+      "description": "Máy chủ đo lường Prometheus"
+    },
+    {
+      "port": 9092,
+      "protocol": "TCP",
+      "service": "Kafka",
+      "category": "Nhắn tin",
+      "description": "Môi giới Apache Kafka"
+    },
+    {
+      "port": 9200,
+      "protocol": "TCP",
+      "service": "Elasticsearch",
+      "category": "Tìm kiếm",
+      "description": "API REST của Elasticsearch"
+    },
+    {
+      "port": 9300,
+      "protocol": "TCP",
+      "service": "Elasticsearch",
+      "category": "Tìm kiếm",
+      "description": "Giao tiếp nút Elasticsearch"
+    },
+    {
+      "port": 11211,
+      "protocol": "TCP",
+      "service": "Memcached",
+      "category": "Bộ nhớ đệm",
+      "description": "Hệ thống bộ nhớ đệm Memcached"
+    },
+    {
+      "port": 27017,
+      "protocol": "TCP",
+      "service": "MongoDB",
+      "category": "Cơ sở dữ liệu",
+      "description": "Cơ sở dữ liệu MongoDB"
+    },
+    {
+      "port": 27018,
+      "protocol": "TCP",
+      "service": "MongoDB Shard",
+      "category": "Cơ sở dữ liệu",
+      "description": "Máy chủ phân mảnh MongoDB"
+    },
+    {
+      "port": 27019,
+      "protocol": "TCP",
+      "service": "Cấu hình MongoDB",
+      "category": "Cơ sở dữ liệu",
+      "description": "Máy chủ cấu hình MongoDB"
+    }
+  ],
+  "meta": {
+    "seo_title": "Danh sách cổng mạng phổ biến - Tải xuống miễn phí (Excel/CSV/PDF)",
+    "seo_description": "Tải xuống miễn phí tập dữ liệu gồm 73 số cổng mạng phổ biến (TCP/UDP), dịch vụ và giao thức. Có sẵn ở định dạng Excel, CSV, PDF cho quản trị viên, nhà phát triển và sinh viên.",
+    "title": "Tập dữ liệu số cổng mạng và dịch vụ phổ biến",
+    "description": "Tập dữ liệu này cung cấp danh sách toàn diện gồm 73 số cổng mạng phổ biến, bao gồm các giao thức liên quan (TCP/UDP), dịch vụ, danh mục và mô tả. Lý tưởng cho các chuyên gia mạng, nhà phát triển và sinh viên.",
+    "key_takeaways": [
+      "Tru cập danh sách chọn lọc 73 số cổng mạng TCP/UDP và dịch vụ thiết yếu.",
+      "Khám phá các mô tả và danh mục chi tiết cho các giao thức mạng phổ biến.",
+      "Tải xuống dữ liệu số cổng ngay lập tức ở định dạng Excel, CSV hoặc PDF.",
+      "Tận dụng dữ liệu này để kiểm tra bảo mật mạng, cấu hình và học tập."
+    ],
+    "keywords": [
+      "cổng mạng phổ biến",
+      "số cổng tcp udp",
+      "tập dữ liệu dịch vụ mạng",
+      "tải xuống cổng excel csv",
+      "danh sách giao thức mạng",
+      "dữ liệu cổng miễn phí"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL của bạn hoặc sử dụng với các tập lệnh Python cho các tác vụ tự động hóa và phân tích mạng.",
+      "Sử dụng tệp **Excel** để lọc, sắp xếp và phân tích dữ liệu cổng, tạo báo cáo hoặc bảng tham chiếu cho quản trị mạng.",
+      "In phiên bản **PDF** để tham khảo nhanh ngoại tuyến, tài liệu giảng dạy trong lớp học hoặc tài liệu mạng nội bộ.",
+      "Tham khảo tập dữ liệu này để nhanh chóng xác định lưu lượng mạng không xác định, cấu hình tường lửa hoặc khắc phục sự cố kết nối."
+    ]
+  },
+  "record_count": 73,
+  "title": "Tập dữ liệu số cổng mạng và dịch vụ phổ biến"
+}

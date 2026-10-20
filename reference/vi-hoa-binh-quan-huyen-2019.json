@@ -1,0 +1,176 @@
+{
+  "id": "vi-hoa-binh-quan-huyen-2019",
+  "name": "Hòa Bình — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Hòa Bình — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 11 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Hòa Bình theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 10 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/HB.json). (11 district-level units of Hòa Bình under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "HB-01",
+      "name": "Cao Phong",
+      "name_full": "Huyện Cao Phong",
+      "slug": "cao-phong",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 13
+    },
+    {
+      "code": "HB-02",
+      "name": "Đà Bắc",
+      "name_full": "Huyện Đà Bắc",
+      "slug": "da-bac",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 20
+    },
+    {
+      "code": "HB-03",
+      "name": "Hòa Bình",
+      "name_full": "Thành phố Hòa Bình",
+      "slug": "hoa-binh",
+      "division_type": "Thành phố",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 15
+    },
+    {
+      "code": "HB-04",
+      "name": "Kim Bôi",
+      "name_full": "Huyện Kim Bôi",
+      "slug": "kim-boi",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 28
+    },
+    {
+      "code": "HB-05",
+      "name": "Kỳ Sơn",
+      "name_full": "Huyện Kỳ Sơn",
+      "slug": "ky-son",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 10
+    },
+    {
+      "code": "HB-06",
+      "name": "Lạc Sơn",
+      "name_full": "Huyện Lạc Sơn",
+      "slug": "lac-son",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 29
+    },
+    {
+      "code": "HB-07",
+      "name": "Lạc Thủy",
+      "name_full": "Huyện Lạc Thủy",
+      "slug": "lac-thuy",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 15
+    },
+    {
+      "code": "HB-08",
+      "name": "Lương Sơn",
+      "name_full": "Huyện Lương Sơn",
+      "slug": "luong-son",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 21
+    },
+    {
+      "code": "HB-09",
+      "name": "Mai Châu",
+      "name_full": "Huyện Mai Châu",
+      "slug": "mai-chau",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 23
+    },
+    {
+      "code": "HB-10",
+      "name": "Tân Lạc",
+      "name_full": "Huyện Tân Lạc",
+      "slug": "tan-lac",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 24
+    },
+    {
+      "code": "HB-11",
+      "name": "Yên Thủy",
+      "name_full": "Huyện Yên Thủy",
+      "slug": "yen-thuy",
+      "division_type": "Huyện",
+      "province_code": "HB",
+      "province_name": "Hòa Bình",
+      "ward_count": 13
+    }
+  ],
+  "meta": {
+    "title": "Hòa Bình — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 11 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Hòa Bình theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 10 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/HB.json). (11 district-level units of Hòa Bình under the pre-2025-merger 3-tier hierarchy.) Chứa 11 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Hòa Bình — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Hòa Bình — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 11 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 11 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

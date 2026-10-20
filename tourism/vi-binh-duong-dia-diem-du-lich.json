@@ -1,0 +1,126 @@
+{
+  "id": "vi-binh-duong-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Bình Dương",
+  "title": "Địa điểm du lịch Bình Dương",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Bình Dương (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 181,
+      "ten_dia_diem": "Chùa Tây Tạng",
+      "vi_tri": "Bình Dương",
+      "tinh_truoc_sap_nhap_2025": "Bình Dương",
+      "mo_ta": "Chùa Tây Tạng là một ngôi chùa nổi tiếng ở Bình Dương, thu hút du khách bởi kiến trúc độc đáo và không gian thanh tịnh.",
+      "danh_gia": "4.7/5",
+      "danh_gia_diem": 4.7,
+      "anh": "https://bizweb.dktcdn.net/100/405/413/articles/ngoi-chua-tay-tang-thu-dau-mot-binh-duong.jpg?v=1695654021547",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 182,
+      "ten_dia_diem": "Khu du lịch Đại Nam",
+      "vi_tri": "Bình Dương",
+      "tinh_truoc_sap_nhap_2025": "Bình Dương",
+      "mo_ta": "Khu du lịch Đại Nam là một khu phức hợp bao gồm công viên, khu vui chơi, và các điểm tham quan khác, nổi bật tại Bình Dương, thu hút nhiều du khách đến tham quan và giải trí.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://trainghiem.vn/blog/wp-content/uploads/2022/02/1-khu-vui-choi-giai-tri-dai-nam.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 183,
+      "ten_dia_diem": "Hồ Dầu Tiếng",
+      "vi_tri": "Bình Dương",
+      "tinh_truoc_sap_nhap_2025": "Bình Dương",
+      "mo_ta": "Hồ Dầu Tiếng là hồ nhân tạo lớn nhất tại Bình Dương, nổi tiếng với cảnh quan thiên nhiên hoang sơ và là nơi lý tưởng cho các hoạt động câu cá, du thuyền.",
+      "danh_gia": "4.4/5",
+      "danh_gia_diem": 4.4,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmlxvXKkBmtWajxFSubOP0Oc-8CbygwNiaA&s",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 184,
+      "ten_dia_diem": "Công viên Thành Phố mới Bình Dương",
+      "vi_tri": "Bình Dương",
+      "tinh_truoc_sap_nhap_2025": "Bình Dương",
+      "mo_ta": "Công viên Thành Phố mới Bình Dương là một không gian xanh, là nơi lý tưởng cho các hoạt động thể thao, dạo bộ và thư giãn.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://mia.vn/media/uploads/blog-du-lich/kham-pha-cong-vien-thanh-pho-moi-binh-duong-voi-nhung-trai-nghiem-sieu-thu-vi-1-1654574759.jpg",
+      "tu_khoa": ""
+    },
+    {
+      "stt": 185,
+      "ten_dia_diem": "Chùa Châu Thới",
+      "vi_tri": "Bình Dương",
+      "tinh_truoc_sap_nhap_2025": "Bình Dương",
+      "mo_ta": "Chùa Châu Thới là một ngôi chùa nổi tiếng ở Bình Dương, mang đậm nét văn hóa Phật giáo và có khung cảnh thanh tịnh, phù hợp cho các hoạt động tham quan tâm linh.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyIMViYEfkSXvBSYsuWWsypX6RMCzISdUN2Q&s",
+      "tu_khoa": ""
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Bình Dương - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Bình Dương (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Bình Dương | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Bình Dương — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

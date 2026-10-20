@@ -1,0 +1,146 @@
+{
+  "id": "vi-tra-vinh-quan-huyen-2019",
+  "name": "Trà Vinh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Trà Vinh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 8 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Trà Vinh theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 7 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/TV.json). (8 district-level units of Trà Vinh under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "TV-01",
+      "name": "Càng Long",
+      "name_full": "Huyện Càng Long",
+      "slug": "cang-long",
+      "division_type": "Huyện",
+      "province_code": "TV",
+      "province_name": "Trà Vinh",
+      "ward_count": 14
+    },
+    {
+      "code": "TV-02",
+      "name": "Cầu Kè",
+      "name_full": "Huyện Cầu Kè",
+      "slug": "cau-ke",
+      "division_type": "Huyện",
+      "province_code": "TV",
+      "province_name": "Trà Vinh",
+      "ward_count": 11
+    },
+    {
+      "code": "TV-03",
+      "name": "Cầu Ngang",
+      "name_full": "Huyện Cầu Ngang",
+      "slug": "cau-ngang",
+      "division_type": "Huyện",
+      "province_code": "TV",
+      "province_name": "Trà Vinh",
+      "ward_count": 15
+    },
+    {
+      "code": "TV-04",
+      "name": "Châu Thành",
+      "name_full": "Huyện Châu Thành",
+      "slug": "chau-thanh",
+      "division_type": "Huyện",
+      "province_code": "TV",
+      "province_name": "Trà Vinh",
+      "ward_count": 14
+    },
+    {
+      "code": "TV-05",
+      "name": "Duyên Hải",
+      "name_full": "Huyện Duyên Hải",
+      "slug": "duyen-hai",
+      "division_type": "Huyện",
+      "province_code": "TV",
+      "province_name": "Trà Vinh",
+      "ward_count": 13
+    },
+    {
+      "code": "TV-06",
+      "name": "Tiểu Cần",
+      "name_full": "Huyện Tiểu Cần",
+      "slug": "tieu-can",
+      "division_type": "Huyện",
+      "province_code": "TV",
+      "province_name": "Trà Vinh",
+      "ward_count": 11
+    },
+    {
+      "code": "TV-07",
+      "name": "Trà Cú",
+      "name_full": "Huyện Trà Cú",
+      "slug": "tra-cu",
+      "division_type": "Huyện",
+      "province_code": "TV",
+      "province_name": "Trà Vinh",
+      "ward_count": 19
+    },
+    {
+      "code": "TV-08",
+      "name": "Trà Vinh",
+      "name_full": "Thành phố Trà Vinh",
+      "slug": "tra-vinh",
+      "division_type": "Thành phố",
+      "province_code": "TV",
+      "province_name": "Trà Vinh",
+      "ward_count": 17
+    }
+  ],
+  "meta": {
+    "title": "Trà Vinh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 8 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Trà Vinh theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 7 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/TV.json). (8 district-level units of Trà Vinh under the pre-2025-merger 3-tier hierarchy.) Chứa 8 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Trà Vinh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Trà Vinh — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 8 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 8 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

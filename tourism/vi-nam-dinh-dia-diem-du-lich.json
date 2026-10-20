@@ -1,0 +1,126 @@
+{
+  "id": "vi-nam-dinh-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Nam Định",
+  "title": "Địa điểm du lịch Nam Định",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Nam Định (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 41,
+      "ten_dia_diem": "Nhà thờ Phú Nhai",
+      "vi_tri": "Nam Đinh",
+      "tinh_truoc_sap_nhap_2025": "Nam Định",
+      "mo_ta": "Là một trong những nhà thờ lớn và cổ kính nhất Việt Nam, mang phong cách kiến trúc Gothic đặc sắc.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://photo-cms-vovworld.zadn.vn/w500/Uploaded/vovworld/yzfsm/2020_01_10/kpvn014_AXJU.jpg",
+      "tu_khoa": "nhà thờ, tham quan, chụp ảnh"
+    },
+    {
+      "stt": 42,
+      "ten_dia_diem": "Đền Trần",
+      "vi_tri": "Nam Đinh",
+      "tinh_truoc_sap_nhap_2025": "Nam Định",
+      "mo_ta": "Nằm tại phường Lộc Vượng, thành phố Nam Định, đền Trần thờ các vua nhà Trần, gắn liền với lịch sử hào hùng của triều đại này.",
+      "danh_gia": "4.3/5",
+      "danh_gia_diem": 4.3,
+      "anh": "https://tse3.mm.bing.net/th?id=OIP.CNccGQUyOTTpBixYdfCL5wHaE7&pid=Api&P=0&h=220",
+      "tu_khoa": "đền, tham quan, chụp ảnh, lịch sử"
+    },
+    {
+      "stt": 43,
+      "ten_dia_diem": "Vườn quốc gia Xuân Thủy",
+      "vi_tri": "Nam Đinh",
+      "tinh_truoc_sap_nhap_2025": "Nam Định",
+      "mo_ta": "Đây là khu bảo tồn thiên nhiên nằm ở huyện Giao Thủy, thuộc vùng hạ lưu sông Hồng.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://tse4.mm.bing.net/th?id=OIP.DfkyYRBhnuiU-rR43dUeJAHaFS&pid=Api&P=0&h=220",
+      "tu_khoa": "rừng, tham quan, chụp ảnh"
+    },
+    {
+      "stt": 44,
+      "ten_dia_diem": "Chợ Viềng",
+      "vi_tri": "Nam Đinh",
+      "tinh_truoc_sap_nhap_2025": "Nam Định",
+      "mo_ta": "Là phiên chợ đặc biệt chỉ diễn ra một lần trong năm vào đêm mùng 7, rạng sáng mùng 8 tháng Giêng âm lịch.",
+      "danh_gia": "4.6/5",
+      "danh_gia_diem": 4.6,
+      "anh": "https://phuday.com/wp-content/uploads/2020/01/cho-vieng-phu-day-nam-dinh-768x432.jpg",
+      "tu_khoa": "chợ, tham quan, ăn uống, mua sắm"
+    },
+    {
+      "stt": 45,
+      "ten_dia_diem": "Hồ Vị Xuyên",
+      "vi_tri": "Nam Đinh",
+      "tinh_truoc_sap_nhap_2025": "Nam Định",
+      "mo_ta": "Hồ nằm trong thành phố Nam Định, là một địa điểm lý tưởng để thư giãn, đi dạo, thưởng thức không gian xanh và yên bình.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "https://tse3.mm.bing.net/th?id=OIP.mrQZh6uVh3jWDHuvlXNjHwHaFj&pid=Api&P=0&h=220",
+      "tu_khoa": "hồ, tham quan, chụp ảnh"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Nam Định - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Nam Định (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Nam Định | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Nam Định — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

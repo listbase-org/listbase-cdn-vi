@@ -1,0 +1,493 @@
+{
+  "id": "science-si-units",
+  "name": "Tập dữ liệu Hệ thống Đơn vị Quốc tế (Đơn vị SI)",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "quantity",
+      "label": "Quantity (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "definition",
+      "label": "Definition (EN)",
+      "type": "string"
+    },
+    {
+      "key": "dimension",
+      "label": "Dimension",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "mét",
+      "symbol": "m",
+      "quantity": "chiều dài",
+      "type": "Base Unit",
+      "definition": "Khoảng cách ánh sáng truyền đi trong 1/299,792,458 giây",
+      "dimension": "L"
+    },
+    {
+      "name": "kilôgam",
+      "symbol": "kg",
+      "quantity": "khối lượng",
+      "type": "Base Unit",
+      "definition": "Định nghĩa bởi hằng số Planck h = 6.62607015×10⁻³⁴ J·s",
+      "dimension": "M"
+    },
+    {
+      "name": "giây",
+      "symbol": "s",
+      "quantity": "thời gian",
+      "type": "Base Unit",
+      "definition": "9.192.631.770 chu kỳ bức xạ của xêzi-133",
+      "dimension": "T"
+    },
+    {
+      "name": "ampe",
+      "symbol": "A",
+      "quantity": "cường độ dòng điện",
+      "type": "Base Unit",
+      "definition": "Định nghĩa bởi điện tích cơ bản e = 1.602176634×10⁻¹⁹ C",
+      "dimension": "I"
+    },
+    {
+      "name": "kelvin",
+      "symbol": "K",
+      "quantity": "nhiệt độ nhiệt động lực học",
+      "type": "Base Unit",
+      "definition": "Định nghĩa bởi hằng số Boltzmann k = 1.380649×10⁻²³ J/K",
+      "dimension": "Θ"
+    },
+    {
+      "name": "mol",
+      "symbol": "mol",
+      "quantity": "lượng chất",
+      "type": "Base Unit",
+      "definition": "Chính xác 6.02214076×10²³ thực thể cơ bản",
+      "dimension": "N"
+    },
+    {
+      "name": "candela",
+      "symbol": "cd",
+      "quantity": "cường độ sáng",
+      "type": "Base Unit",
+      "definition": "Hiệu suất phát sáng Kcd = 683 lm/W ở 540 THz",
+      "dimension": "J"
+    },
+    {
+      "name": "hertz",
+      "symbol": "Hz",
+      "quantity": "tần số",
+      "type": "Derived Unit",
+      "definition": "s⁻¹",
+      "dimension": "T⁻¹"
+    },
+    {
+      "name": "newton",
+      "symbol": "N",
+      "quantity": "lực",
+      "type": "Derived Unit",
+      "definition": "kg·m·s⁻²",
+      "dimension": "M·L·T⁻²"
+    },
+    {
+      "name": "pascal",
+      "symbol": "Pa",
+      "quantity": "áp suất, ứng suất",
+      "type": "Derived Unit",
+      "definition": "N/m² = kg·m⁻¹·s⁻²",
+      "dimension": "M·L⁻¹·T⁻²"
+    },
+    {
+      "name": "joule",
+      "symbol": "J",
+      "quantity": "năng lượng, công, nhiệt",
+      "type": "Derived Unit",
+      "definition": "N·m = kg·m²·s⁻²",
+      "dimension": "M·L²·T⁻²"
+    },
+    {
+      "name": "watt",
+      "symbol": "W",
+      "quantity": "công suất, quang thông lượng",
+      "type": "Derived Unit",
+      "definition": "J/s = kg·m²·s⁻³",
+      "dimension": "M·L²·T⁻³"
+    },
+    {
+      "name": "coulomb",
+      "symbol": "C",
+      "quantity": "điện tích",
+      "type": "Derived Unit",
+      "definition": "A·s",
+      "dimension": "T·I"
+    },
+    {
+      "name": "volt",
+      "symbol": "V",
+      "quantity": "điện thế",
+      "type": "Derived Unit",
+      "definition": "W/A = kg·m²·s⁻³·A⁻¹",
+      "dimension": "M·L²·T⁻³·I⁻¹"
+    },
+    {
+      "name": "farad",
+      "symbol": "F",
+      "quantity": "điện dung",
+      "type": "Derived Unit",
+      "definition": "C/V = kg⁻¹·m⁻²·s⁴·A²",
+      "dimension": "M⁻¹·L⁻²·T⁴·I²"
+    },
+    {
+      "name": "ôm",
+      "symbol": "Ω",
+      "quantity": "điện trở",
+      "type": "Derived Unit",
+      "definition": "V/A = kg·m²·s⁻³·A⁻²",
+      "dimension": "M·L²·T⁻³·I⁻²"
+    },
+    {
+      "name": "siemen",
+      "symbol": "S",
+      "quantity": "điện dẫn",
+      "type": "Derived Unit",
+      "definition": "A/V = kg⁻¹·m⁻²·s³·A²",
+      "dimension": "M⁻¹·L⁻²·T³·I²"
+    },
+    {
+      "name": "weber",
+      "symbol": "Wb",
+      "quantity": "từ thông",
+      "type": "Derived Unit",
+      "definition": "V·s = kg·m²·s⁻²·A⁻¹",
+      "dimension": "M·L²·T⁻²·I⁻¹"
+    },
+    {
+      "name": "tesla",
+      "symbol": "T",
+      "quantity": "mật độ từ thông",
+      "type": "Derived Unit",
+      "definition": "Wb/m² = kg·s⁻²·A⁻¹",
+      "dimension": "M·T⁻²·I⁻¹"
+    },
+    {
+      "name": "henry",
+      "symbol": "H",
+      "quantity": "độ tự cảm",
+      "type": "Derived Unit",
+      "definition": "Wb/A = kg·m²·s⁻²·A⁻²",
+      "dimension": "M·L²·T⁻²·I⁻²"
+    },
+    {
+      "name": "độ Celsius",
+      "symbol": "°C",
+      "quantity": "nhiệt độ",
+      "type": "Derived Unit",
+      "definition": "K - 273.15",
+      "dimension": "Θ"
+    },
+    {
+      "name": "lumen",
+      "symbol": "lm",
+      "quantity": "quang thông",
+      "type": "Derived Unit",
+      "definition": "cd·sr",
+      "dimension": "J"
+    },
+    {
+      "name": "lux",
+      "symbol": "lx",
+      "quantity": "độ rọi",
+      "type": "Derived Unit",
+      "definition": "lm/m² = cd·sr·m⁻²",
+      "dimension": "J·L⁻²"
+    },
+    {
+      "name": "becquerel",
+      "symbol": "Bq",
+      "quantity": "độ phóng xạ",
+      "type": "Derived Unit",
+      "definition": "s⁻¹ (phân rã trên giây)",
+      "dimension": "T⁻¹"
+    },
+    {
+      "name": "gray",
+      "symbol": "Gy",
+      "quantity": "liều hấp thụ",
+      "type": "Derived Unit",
+      "definition": "J/kg = m²·s⁻²",
+      "dimension": "L²·T⁻²"
+    },
+    {
+      "name": "sievert",
+      "symbol": "Sv",
+      "quantity": "liều tương đương",
+      "type": "Derived Unit",
+      "definition": "J/kg = m²·s⁻²",
+      "dimension": "L²·T⁻²"
+    },
+    {
+      "name": "katal",
+      "symbol": "kat",
+      "quantity": "hoạt độ xúc tác",
+      "type": "Derived Unit",
+      "definition": "mol·s⁻¹",
+      "dimension": "N·T⁻¹"
+    },
+    {
+      "name": "radian",
+      "symbol": "rad",
+      "quantity": "góc phẳng",
+      "type": "Derived Unit",
+      "definition": "m/m = 1 (không thứ nguyên)",
+      "dimension": "1"
+    },
+    {
+      "name": "steradian",
+      "symbol": "sr",
+      "quantity": "góc khối",
+      "type": "Derived Unit",
+      "definition": "m²/m² = 1 (không thứ nguyên)",
+      "dimension": "1"
+    },
+    {
+      "name": "quetta",
+      "symbol": "Q",
+      "quantity": "tiền tố SI",
+      "type": "Prefix",
+      "definition": "10³⁰",
+      "dimension": "-"
+    },
+    {
+      "name": "ronna",
+      "symbol": "R",
+      "quantity": "tiền tố SI",
+      "type": "Prefix",
+      "definition": "10²⁷",
+      "dimension": "-"
+    },
+    {
+      "name": "yotta",
+      "symbol": "Y",
+      "quantity": "tiền tố SI",
+      "type": "Prefix",
+      "definition": "10²⁴",
+      "dimension": "-"
+    },
+    {
+      "name": "zetta",
+      "symbol": "Z",
+      "quantity": "tiền tố SI",
+      "type": "Prefix",
+      "definition": "10²¹",
+      "dimension": "-"
+    },
+    {
+      "name": "exa",
+      "symbol": "E",
+      "quantity": "tiền tố SI",
+      "type": "Prefix",
+      "definition": "10¹⁸",
+      "dimension": "-"
+    },
+    {
+      "name": "peta",
+      "symbol": "P",
+      "quantity": "tiền tố SI",
+      "type": "Prefix",
+      "definition": "10¹⁵",
+      "dimension": "-"
+    },
+    {
+      "name": "tera",
+      "symbol": "T",
+      "quantity": "tiền tố SI",
+      "type": "Prefix",
+      "definition": "10¹²",
+      "dimension": "-"
+    },
+    {
+      "name": "giga",
+      "symbol": "G",
+      "quantity": "tiền tố SI",
+      "type": "Prefix",
+      "definition": "10⁹",
+      "dimension": "-"
+    },
+    {
+      "name": "mega",
+      "symbol": "M",
+      "quantity": "tiền tố SI",
+      "type": "Prefix",
+      "definition": "10⁶",
+      "dimension": "-"
+    },
+    {
+      "name": "kilo",
+      "symbol": "k",
+      "quantity": "tiền tố SI",
+      "type": "Prefix",
+      "definition": "10³",
+      "dimension": "-"
+    },
+    {
+      "name": "hecto",
+      "symbol": "h",
+      "quantity": "tiền tố SI",
+      "type": "Prefix",
+      "definition": "10²",
+      "dimension": "-"
+    },
+    {
+      "name": "deca",
+      "symbol": "da",
+      "quantity": "Tiền tố SI",
+      "type": "Prefix",
+      "definition": "10¹",
+      "dimension": "-"
+    },
+    {
+      "name": "deci",
+      "symbol": "d",
+      "quantity": "Tiền tố SI",
+      "type": "Prefix",
+      "definition": "10⁻¹",
+      "dimension": "-"
+    },
+    {
+      "name": "centi",
+      "symbol": "c",
+      "quantity": "Tiền tố SI",
+      "type": "Prefix",
+      "definition": "10⁻²",
+      "dimension": "-"
+    },
+    {
+      "name": "milli",
+      "symbol": "m",
+      "quantity": "Tiền tố SI",
+      "type": "Prefix",
+      "definition": "10⁻³",
+      "dimension": "-"
+    },
+    {
+      "name": "micro",
+      "symbol": "μ",
+      "quantity": "Tiền tố SI",
+      "type": "Prefix",
+      "definition": "10⁻⁶",
+      "dimension": "-"
+    },
+    {
+      "name": "nano",
+      "symbol": "n",
+      "quantity": "Tiền tố SI",
+      "type": "Prefix",
+      "definition": "10⁻⁹",
+      "dimension": "-"
+    },
+    {
+      "name": "pico",
+      "symbol": "p",
+      "quantity": "Tiền tố SI",
+      "type": "Prefix",
+      "definition": "10⁻¹²",
+      "dimension": "-"
+    },
+    {
+      "name": "femto",
+      "symbol": "f",
+      "quantity": "Tiền tố SI",
+      "type": "Prefix",
+      "definition": "10⁻¹⁵",
+      "dimension": "-"
+    },
+    {
+      "name": "atto",
+      "symbol": "a",
+      "quantity": "Tiền tố SI",
+      "type": "Prefix",
+      "definition": "10⁻¹⁸",
+      "dimension": "-"
+    },
+    {
+      "name": "zepto",
+      "symbol": "z",
+      "quantity": "Tiền tố SI",
+      "type": "Prefix",
+      "definition": "10⁻²¹",
+      "dimension": "-"
+    },
+    {
+      "name": "yocto",
+      "symbol": "y",
+      "quantity": "Tiền tố SI",
+      "type": "Prefix",
+      "definition": "10⁻²⁴",
+      "dimension": "-"
+    },
+    {
+      "name": "ronto",
+      "symbol": "r",
+      "quantity": "Tiền tố SI",
+      "type": "Prefix",
+      "definition": "10⁻²⁷",
+      "dimension": "-"
+    },
+    {
+      "name": "quecto",
+      "symbol": "q",
+      "quantity": "Tiền tố SI",
+      "type": "Prefix",
+      "definition": "10⁻³⁰",
+      "dimension": "-"
+    }
+  ],
+  "meta": {
+    "seo_title": "Đơn vị SI & Định nghĩa - Tải miễn phí (Excel/CSV/PDF)",
+    "seo_description": "Tải miễn phí 53 Đơn vị SI với định nghĩa, ký hiệu và thứ nguyên. Có sẵn ở định dạng Excel, CSV và PDF cho khoa học, giáo dục và phát triển.",
+    "title": "Tập dữ liệu Hệ thống Đơn vị Quốc tế (Đơn vị SI)",
+    "description": "Tập dữ liệu toàn diện này chứa 53 đơn vị SI cơ bản và dẫn xuất, bao gồm tên, ký hiệu, đại lượng, loại, định nghĩa và thứ nguyên của chúng. Đây là tài nguyên thiết yếu cho khoa học, kỹ thuật và giáo dục.",
+    "key_takeaways": [
+      "Truy cập 53 Đơn vị SI toàn diện, bao gồm các đơn vị cơ bản và dẫn xuất.",
+      "Khám phá các định nghĩa, ký hiệu, đại lượng và thứ nguyên chính xác cho mỗi đơn vị.",
+      "Tải xuống dữ liệu đơn vị ở định dạng Excel, CSV linh hoạt hoặc PDF có thể in.",
+      "Tận dụng thông tin đơn vị SI chính xác cho nghiên cứu khoa học và tài liệu giáo dục."
+    ],
+    "keywords": [
+      "danh sách đơn vị si excel",
+      "hệ thống đơn vị quốc tế csv",
+      "định nghĩa đơn vị cơ bản dẫn xuất",
+      "tải dữ liệu hệ mét",
+      "thứ nguyên đại lượng vật lý",
+      "tài nguyên giáo dục khoa học"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL hoặc tập lệnh Python của bạn để cung cấp năng lượng cho các ứng dụng khoa học hoặc công cụ chuyển đổi đơn vị.",
+      "Sử dụng tệp **Excel** để tạo Bảng tổng hợp, lọc đơn vị theo loại hoặc tạo báo cáo tùy chỉnh cho các dự án kỹ thuật và nghiên cứu.",
+      "In phiên bản **PDF** để tham khảo trong lớp học, poster giáo dục hoặc tham khảo nhanh ngoại tuyến trong các thí nghiệm trong phòng thí nghiệm.",
+      "Tham khảo tập dữ liệu này để đảm bảo độ chính xác và nhất quán trong bất kỳ dự án nào yêu cầu các đơn vị đo lường chính xác và định nghĩa cơ bản của chúng."
+    ]
+  },
+  "record_count": 53,
+  "title": "Tập dữ liệu Hệ thống Đơn vị Quốc tế (Đơn vị SI)"
+}

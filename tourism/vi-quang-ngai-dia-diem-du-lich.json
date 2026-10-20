@@ -1,0 +1,126 @@
+{
+  "id": "vi-quang-ngai-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Quảng Ngãi",
+  "title": "Địa điểm du lịch Quảng Ngãi",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Quảng Ngãi (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 81,
+      "ten_dia_diem": "Núi Thiên Ấn",
+      "vi_tri": "Quảng Ngãi",
+      "tinh_truoc_sap_nhap_2025": "Quảng Ngãi",
+      "mo_ta": "Là một ngọn núi từ lâu đã rất nổi tiếng với khung cảnh hùng vĩ và mang lại một giá trị lịch sử vô cùng lớn lao, với vẻ đẹp thơ\nmộng và dịu dàng mà nó mang lại là điểm đặc biệt hu hút khách du lịch hàng năm.",
+      "danh_gia": "4.0/5",
+      "danh_gia_diem": 4,
+      "anh": "http://surl.li/xvbmjs",
+      "tu_khoa": "núi, lâu đời, hùng vĩ, lịch sử, thơ mộng, diệu dàng."
+    },
+    {
+      "stt": 82,
+      "ten_dia_diem": "Bãi biển Mỹ Khê",
+      "vi_tri": "Quảng Ngãi",
+      "tinh_truoc_sap_nhap_2025": "Quảng Ngãi",
+      "mo_ta": "Một trong những bãi biển quyến rũ nhất hành tinh, nơi đây có nhiều khách sạn view biển đẹp mắt phù hợp để tận hưởng kì nghỉ",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "http://surl.li/exhizd",
+      "tu_khoa": "biển, quyến rũ, kì nghỉ, khách sạn, trắng phao"
+    },
+    {
+      "stt": 83,
+      "ten_dia_diem": "Đồng muối Sa Huỳnh",
+      "vi_tri": "Quảng Ngãi",
+      "tinh_truoc_sap_nhap_2025": "Quảng Ngãi",
+      "mo_ta": "Vựa muối quan trọng nhất miền Trung thân yêu của chúng ta, những bãi muối trắng phao, đến nơi đây bạn sẽ được trãi nghiệm các hoạt động hằng ngày\ncủa bà con nơi đây, hứa hẹn sẽ mang lại cho bạn những trãi nghiệm rất khác so với các hoạt động du lịch như lên rừng hay xuống biển.",
+      "danh_gia": "4.0/5",
+      "danh_gia_diem": 4,
+      "anh": "http://surl.li/coczhv",
+      "tu_khoa": "muối, hoạt động, miền Trung, trãi nghiệm"
+    },
+    {
+      "stt": 84,
+      "ten_dia_diem": "Thác Trắng",
+      "vi_tri": "Quảng Ngãi",
+      "tinh_truoc_sap_nhap_2025": "Quảng Ngãi",
+      "mo_ta": "Khùng cảnh ở đây ấn tượng với rừng núi hoang sơ, trong lành, dòng thác đổ xuống giữa khung cảnh bao quanh là biết bao cây cối sông suối tung bọt trắng xóa",
+      "danh_gia": "4.0/5",
+      "danh_gia_diem": 4,
+      "anh": "http://surl.li/vifezm",
+      "tu_khoa": "rừng núi, hoang sơ, thác, cây cối, sông"
+    },
+    {
+      "stt": 85,
+      "ten_dia_diem": "Đèo Vi O Lắc",
+      "vi_tri": "Quảng Ngãi",
+      "tinh_truoc_sap_nhap_2025": "Quảng Ngãi",
+      "mo_ta": "Nằm cao hơn 1300m so với mực nước biển, sự quanh co uốn lượn của các cung đường cùng với không khí thơ mộng luôn mang đến nhưng vẻ đẹp tuyệt mỹ cùng hàng cỏ xanh tươi mọc hai bên đường khi du khách đi lên đèo là nhưng nét ấn tượng nhất, thú vị nhất",
+      "danh_gia": "4.0/5",
+      "danh_gia_diem": 4,
+      "anh": "http://surl.li/izldds",
+      "tu_khoa": "đèo, thơ mộng, quanh co, uốn lượn, cung đường, 1300m"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Quảng Ngãi - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Quảng Ngãi (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Quảng Ngãi | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Quảng Ngãi — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

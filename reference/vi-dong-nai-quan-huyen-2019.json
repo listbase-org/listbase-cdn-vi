@@ -1,0 +1,176 @@
+{
+  "id": "vi-dong-nai-quan-huyen-2019",
+  "name": "Đồng Nai — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Đồng Nai — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 11 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Đồng Nai theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 1 Thành phố, 1 Thị xã, 1 Quận. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/DNA.json). (11 district-level units of Đồng Nai under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "DNA-01",
+      "name": "Biên Hòa",
+      "name_full": "Thành phố Biên Hòa",
+      "slug": "bien-hoa",
+      "division_type": "Thành phố",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 33
+    },
+    {
+      "code": "DNA-02",
+      "name": "Cẩm Mỹ",
+      "name_full": "Huyện Cẩm Mỹ",
+      "slug": "cam-my",
+      "division_type": "Huyện",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 13
+    },
+    {
+      "code": "DNA-03",
+      "name": "Định Quán",
+      "name_full": "Huyện Định Quán",
+      "slug": "dinh-quan",
+      "division_type": "Huyện",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 14
+    },
+    {
+      "code": "DNA-04",
+      "name": "Long Khánh",
+      "name_full": "Thị xã Long Khánh",
+      "slug": "long-khanh",
+      "division_type": "Thị xã",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 16
+    },
+    {
+      "code": "DNA-05",
+      "name": "Long Thành",
+      "name_full": "Huyện Long Thành",
+      "slug": "long-thanh",
+      "division_type": "Huyện",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 16
+    },
+    {
+      "code": "DNA-06",
+      "name": "Nhơn Trạch",
+      "name_full": "Huyện Nhơn Trạch",
+      "slug": "nhon-trach",
+      "division_type": "Huyện",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 12
+    },
+    {
+      "code": "DNA-07",
+      "name": "Tân Phú",
+      "name_full": "Quận Tân Phú",
+      "slug": "tan-phu",
+      "division_type": "Quận",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 18
+    },
+    {
+      "code": "DNA-08",
+      "name": "Thống Nhất",
+      "name_full": "Huyện Thống Nhất",
+      "slug": "thong-nhat",
+      "division_type": "Huyện",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 11
+    },
+    {
+      "code": "DNA-09",
+      "name": "Trảng Bom",
+      "name_full": "Huyện Trảng Bom",
+      "slug": "trang-bom",
+      "division_type": "Huyện",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 18
+    },
+    {
+      "code": "DNA-10",
+      "name": "Vĩnh Cửu",
+      "name_full": "Huyện Vĩnh Cửu",
+      "slug": "vinh-cuu",
+      "division_type": "Huyện",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 12
+    },
+    {
+      "code": "DNA-11",
+      "name": "Xuân Lộc",
+      "name_full": "Huyện Xuân Lộc",
+      "slug": "xuan-loc",
+      "division_type": "Huyện",
+      "province_code": "DNA",
+      "province_name": "Đồng Nai",
+      "ward_count": 15
+    }
+  ],
+  "meta": {
+    "title": "Đồng Nai — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 11 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Đồng Nai theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 8 Huyện, 1 Thành phố, 1 Thị xã, 1 Quận. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/DNA.json). (11 district-level units of Đồng Nai under the pre-2025-merger 3-tier hierarchy.) Chứa 11 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Đồng Nai — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Đồng Nai — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 11 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 11 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

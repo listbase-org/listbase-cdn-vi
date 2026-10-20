@@ -1,0 +1,6260 @@
+{
+  "id": "vi-chung-khoan-upcom",
+  "name": "Mã chứng khoán — Sàn UPCOM",
+  "title": "Mã chứng khoán — Sàn UPCOM",
+  "description": "Mã chứng khoán giao dịch trên sàn UPCOM (Unlisted Public Company Market).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 887,
+  "columns": [
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "exchange",
+      "label": "Exchange",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "organ_short_name",
+      "label": "Organ Short Name",
+      "type": "string"
+    },
+    {
+      "key": "organ_name",
+      "label": "Organ Name",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "symbol": "YTC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XNK Y tế TP.HCM",
+      "organ_name": "Công ty Cổ phần Xuất nhập khẩu Y tế Thành phố Hồ Chí Minh"
+    },
+    {
+      "symbol": "YBC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xi măng và Khoáng sản Yên Bái",
+      "organ_name": "Công ty Cổ phần Xi măng và Khoáng sản Yên Bái"
+    },
+    {
+      "symbol": "XPH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xà phòng Hà Nội",
+      "organ_name": "Công ty Cổ phần Xà phòng Hà Nội"
+    },
+    {
+      "symbol": "XMP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy điện Xuân Minh",
+      "organ_name": "Công ty Cổ phần Thủy điện Xuân Minh"
+    },
+    {
+      "symbol": "XMD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xuân Mai - Đạo Tú",
+      "organ_name": "Công ty Cổ phần Xuân Mai - Đạo Tú"
+    },
+    {
+      "symbol": "XMC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bê tông Xuân Mai",
+      "organ_name": "Công ty cổ phần Đầu tư và Xây dựng Xuân Mai"
+    },
+    {
+      "symbol": "XLV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XL và DV Sông Đà",
+      "organ_name": "Công ty Cổ phần Xây lắp và Dịch vụ Sông Đà"
+    },
+    {
+      "symbol": "XHC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nội thất Xuân Hòa",
+      "organ_name": "Công ty Cổ phần Xuân Hòa Việt Nam"
+    },
+    {
+      "symbol": "XDH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư XD Dân dụng Hà Nội",
+      "organ_name": "Công ty Cổ phần Đầu tư Xây dựng Dân dụng Hà Nội"
+    },
+    {
+      "symbol": "X77",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thành An 77",
+      "organ_name": "Công ty Cổ phần Thành An 77"
+    },
+    {
+      "symbol": "X26",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công ty 26",
+      "organ_name": "Công ty Cổ phần 26"
+    },
+    {
+      "symbol": "WTC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải thủy Vinacomin",
+      "organ_name": "Công ty Cổ phần Vận tải thủy - Vinacomin"
+    },
+    {
+      "symbol": "WSB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bia Sài Gòn - Miền Tây",
+      "organ_name": "Công ty Cổ phần Bia Sài Gòn - Miền Tây"
+    },
+    {
+      "symbol": "VXT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Kho vận và DV Thương mại",
+      "organ_name": "Công ty Cổ phần Kho vận và dịch vụ thương mại"
+    },
+    {
+      "symbol": "VXP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thuốc Thú y Trung ương VETVACO",
+      "organ_name": "Công ty Cổ phần Thuốc Thú y Trung ương VETVACO"
+    },
+    {
+      "symbol": "VXB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VLXD Bến Tre",
+      "organ_name": "Công ty Cổ phần Vật liệu xây dựng Bến Tre"
+    },
+    {
+      "symbol": "VWS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nước và Môi trường VN",
+      "organ_name": "Công ty Cổ phần Nước và Môi trường Việt Nam"
+    },
+    {
+      "symbol": "VW3",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VIWASEEN.3",
+      "organ_name": "Công ty Cổ phần VIWASEEN3"
+    },
+    {
+      "symbol": "VVS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Phát triển Máy Việt Nam",
+      "organ_name": "Công ty Cổ phần Đầu tư Phát triển Máy Việt Nam"
+    },
+    {
+      "symbol": "VVN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XD Công nghiệp Việt Nam",
+      "organ_name": "Tổng Công ty Cổ phần Xây dựng Công nghiệp Việt Nam"
+    },
+    {
+      "symbol": "VUA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán Stanley Brothers",
+      "organ_name": "Công ty Cổ phần Chứng khoán Stanley Brothers"
+    },
+    {
+      "symbol": "VTX",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải Đa phương thức",
+      "organ_name": "Công ty Cổ phần Vận tải Đa phương thức VIETRANSTIMEX"
+    },
+    {
+      "symbol": "VTS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Gạch Ngói Từ Sơn",
+      "organ_name": "Công ty Cổ phần Gạch Ngói Từ Sơn"
+    },
+    {
+      "symbol": "VTR",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Du lịch Vietravel",
+      "organ_name": "Công ty Cổ phần Du lịch và tiếp thị giao thông vận tải Việt Nam - Vietravel"
+    },
+    {
+      "symbol": "VTQ",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Việt Trung Quảng Bình",
+      "organ_name": "Công ty Cổ phần Việt Trung Quảng Bình"
+    },
+    {
+      "symbol": "VTM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đưa đón thợ mỏ - Vinacomin",
+      "organ_name": "Công ty Cổ phần Vận tải và Đưa đón thợ mỏ - Vinacomin"
+    },
+    {
+      "symbol": "VTL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vang Thăng Long",
+      "organ_name": "Công ty Cổ phần Vang Thăng Long"
+    },
+    {
+      "symbol": "VTK",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tư vấn thiết kế Viettel",
+      "organ_name": "Công ty Cổ phần Tư vấn và Dịch vụ Viettel"
+    },
+    {
+      "symbol": "VTI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sản xuất - XNK Dệt may",
+      "organ_name": "Công ty Cổ phần Sản xuất - Xuất nhập khẩu Dệt may"
+    },
+    {
+      "symbol": "VTG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Du lịch tỉnh BR-VT",
+      "organ_name": "Công ty Cổ phần Du lịch tỉnh Bà Rịa - Vũng Tàu"
+    },
+    {
+      "symbol": "VTE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VINACAP Kim Long",
+      "organ_name": "Công ty Cổ phần VINACAP Kim Long"
+    },
+    {
+      "symbol": "VTD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Du lịch Vietourist",
+      "organ_name": "Công ty Cổ phần Vietourist Holdings"
+    },
+    {
+      "symbol": "VTA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Gạch men VITALY",
+      "organ_name": "Công ty Cổ phần VITALY"
+    },
+    {
+      "symbol": "VST",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải và Thuê Tàu biển Việt Nam",
+      "organ_name": "Công ty Cổ phần Vận tải và Thuê Tàu biển Việt Nam"
+    },
+    {
+      "symbol": "VSN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VN Kỹ Nghệ Súc Sản (VISSAN)",
+      "organ_name": "Công ty Cổ phần Việt Nam Kỹ Nghệ Súc Sản"
+    },
+    {
+      "symbol": "VSG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Container Phía Nam",
+      "organ_name": "Công ty Cổ phần Container Phía Nam"
+    },
+    {
+      "symbol": "VSF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vinafood 2",
+      "organ_name": "Tổng Công ty Lương thực Miền Nam - Công ty Cổ phần"
+    },
+    {
+      "symbol": "VSE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "DV Đường cao tốc Việt Nam",
+      "organ_name": "Công ty Cổ phần Dịch vụ Đường cao tốc Việt Nam"
+    },
+    {
+      "symbol": "VRG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "PT Đô thị và KCN Cao su VN",
+      "organ_name": "Công ty Cổ phần Phát triển Đô thị và Khu Công nghiệp Cao Su Việt Nam"
+    },
+    {
+      "symbol": "VQC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Giám định Vinaconmin",
+      "organ_name": "Công ty Cổ phần Giám định Vinaconmin"
+    },
+    {
+      "symbol": "VPW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp thoát nước số 1 Vĩnh Phúc",
+      "organ_name": "Công ty Cổ phần Cấp thoát nước số 1 Vĩnh Phúc"
+    },
+    {
+      "symbol": "VPR",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VINAPRINT",
+      "organ_name": "Công ty Cổ phần VINAPRINT"
+    },
+    {
+      "symbol": "VPC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "V- Power",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển Năng lượng Việt Nam"
+    },
+    {
+      "symbol": "VPA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải Hóa dầu VP",
+      "organ_name": "Công ty Cổ phần Vận tải Hóa dầu VP"
+    },
+    {
+      "symbol": "VOC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dầu thực vật Việt Nam",
+      "organ_name": "Tổng Công ty Công nghiệp Dầu thực vật Việt Nam - Công ty Cổ phần"
+    },
+    {
+      "symbol": "VNZ",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "CTCP VNG",
+      "organ_name": "Công ty Cổ phần VNG"
+    },
+    {
+      "symbol": "VNY",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thuốc thú y Trung ương I",
+      "organ_name": "Công ty Cổ phần Thuốc thú y Trung ương I"
+    },
+    {
+      "symbol": "VNX",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "QC và Hội chợ Thương mại",
+      "organ_name": "Công ty Cổ phần Quảng cáo và Hội chợ Thương mại Vinexad"
+    },
+    {
+      "symbol": "VNP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nhựa Việt Nam",
+      "organ_name": "Công ty Cổ phần Nhựa Việt Nam"
+    },
+    {
+      "symbol": "VNI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "ĐT BĐS Việt Nam",
+      "organ_name": "Công ty Cổ phần Đầu tư Bất động sản Việt Nam"
+    },
+    {
+      "symbol": "VNH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Việt Việt Nhật",
+      "organ_name": "Công ty Cổ phần Đầu tư Việt Việt Nhật"
+    },
+    {
+      "symbol": "VNB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sách Việt Nam",
+      "organ_name": "Công ty Cổ phần Sách Việt Nam"
+    },
+    {
+      "symbol": "VNA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải biển Vinaship",
+      "organ_name": "Công ty Cổ phần Vận tải biển Vinaship"
+    },
+    {
+      "symbol": "VMT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Giao nhận Vận tải Miền Trung",
+      "organ_name": "Công ty Cổ phần Giao nhận Vận tải Miền Trung"
+    },
+    {
+      "symbol": "VMK",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vimarko",
+      "organ_name": "Công ty Cổ phần Vimarko"
+    },
+    {
+      "symbol": "VMG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vimexco Gas",
+      "organ_name": "Công ty Cổ phần Thương mại và Dịch vụ Dầu khí Vũng Tàu"
+    },
+    {
+      "symbol": "VMA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "CN Ô tô - Vinacomin",
+      "organ_name": "Công ty Cổ phần Công nghiệp Ô tô - Vinacomin"
+    },
+    {
+      "symbol": "VLW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Vĩnh Long",
+      "organ_name": "Công ty Cổ phần Cấp nước Vĩnh Long"
+    },
+    {
+      "symbol": "VLP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công trình Công cộng Vĩnh Long",
+      "organ_name": "Công ty Cổ phần Công trình Công cộng Vĩnh Long"
+    },
+    {
+      "symbol": "VLG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VIMC Logistics",
+      "organ_name": "Công ty Cổ phần VIMC Logistics"
+    },
+    {
+      "symbol": "VLF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Lương thực Vĩnh Long",
+      "organ_name": "Công ty Cổ phần Lương thực Thực phẩm Vĩnh Long"
+    },
+    {
+      "symbol": "VLC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chăn nuôi Việt Nam",
+      "organ_name": "Tổng Công ty Chăn nuôi Việt Nam - Công ty Cổ phần"
+    },
+    {
+      "symbol": "VLB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VLXD Biên Hòa",
+      "organ_name": "Công ty Cổ phần Xây dựng và Sản xuất Vật liệu Xây dựng Biên Hòa"
+    },
+    {
+      "symbol": "VKP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nhựa Tân Hóa",
+      "organ_name": "Công ty Cổ phần Nhựa Tân Hóa"
+    },
+    {
+      "symbol": "VKC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VKC Holdings",
+      "organ_name": "Công ty Cổ phần VKC Holdings"
+    },
+    {
+      "symbol": "VIW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư nước và môi trường VN - Viwaseen",
+      "organ_name": "Tổng công ty Đầu tư Nước và Môi trường Việt Nam - Công ty Cổ phần"
+    },
+    {
+      "symbol": "VIR",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Du lịch Vũng Tàu",
+      "organ_name": "Công ty Cổ phần Du lịch Quốc tế Vũng Tàu"
+    },
+    {
+      "symbol": "VIN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Kho vận ngoại thương VN",
+      "organ_name": "Công ty Cổ phần Giao nhận Kho vận Ngoại thương Việt Nam"
+    },
+    {
+      "symbol": "VIM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Khoáng sản Viglacera",
+      "organ_name": "Công ty Cổ phần Khoáng sản Viglacera"
+    },
+    {
+      "symbol": "VIH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Viglacera Hà Nội",
+      "organ_name": "Công ty Cổ phần Viglacera Hà Nội"
+    },
+    {
+      "symbol": "VIE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "CN Viễn thông VI TE CO",
+      "organ_name": "Công ty Cổ phần Công nghệ Viễn thông VI TE CO"
+    },
+    {
+      "symbol": "VHH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Kinh doanh nhà Thành Đạt",
+      "organ_name": "Công ty Cổ phần Đầu tư Kinh doanh nhà Thành Đạt"
+    },
+    {
+      "symbol": "VHG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công ty Cổ phần Đầu tư và Phát triển Việt Trung Nam",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển Việt Trung Nam"
+    },
+    {
+      "symbol": "VHF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chế biến lương thực Vĩnh Hà",
+      "organ_name": "Công ty Cổ phần Xây dựng và Chế biến lương thực Vĩnh Hà"
+    },
+    {
+      "symbol": "VHD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "PT Nhà và Đô thị Vinaconex",
+      "organ_name": "Công ty Cổ phần Đầu tư phát triển nhà và đô thị VINAHUD"
+    },
+    {
+      "symbol": "VGV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tư vấn Xây dựng Việt Nam",
+      "organ_name": "Tổng Công ty Tư vấn Xây dựng Việt Nam - CTCP"
+    },
+    {
+      "symbol": "VGT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VINATEX",
+      "organ_name": "Tập đoàn Dệt May Việt Nam"
+    },
+    {
+      "symbol": "VGR",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cảng xanh VIP",
+      "organ_name": "Công ty Cổ phần Cảng xanh VIP"
+    },
+    {
+      "symbol": "VGL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Mạ kẽm công nghiệp Vingal-Vnsteel",
+      "organ_name": "Công ty Cổ phần Mạ kẽm công nghiệp Vingal-Vnsteel"
+    },
+    {
+      "symbol": "VGI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Quốc tế Viettel",
+      "organ_name": "Tổng Công ty Cổ phần Đầu tư Quốc tế Viettel"
+    },
+    {
+      "symbol": "VGG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "May Việt Tiến",
+      "organ_name": "Tổng Công Ty Cổ phần May Việt Tiến"
+    },
+    {
+      "symbol": "VFR",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải Vietfracht",
+      "organ_name": "Công ty Cổ phần Vận tải và Thuê tàu"
+    },
+    {
+      "symbol": "VFC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải biển VINAFCO",
+      "organ_name": "Công ty Cổ phần VINAFCO"
+    },
+    {
+      "symbol": "VET",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thuốc thú y trung ương Navetco",
+      "organ_name": "Công ty Cổ phần Thuốc Thú y Trung ương NAVETCO"
+    },
+    {
+      "symbol": "VES",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "MÊ CA VNECO",
+      "organ_name": "Công ty Cổ phần Đầu tư và Xây dựng Điện MÊ CA VNECO"
+    },
+    {
+      "symbol": "VEF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Hội chợ Triển lãm Việt Nam",
+      "organ_name": "Công ty Cổ phần Trung tâm Hội chợ Triển lãm Việt Nam"
+    },
+    {
+      "symbol": "VEC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Điện tử và Tin học VN",
+      "organ_name": "Tổng Công ty Cổ phần Điện tử và Tin học Việt Nam"
+    },
+    {
+      "symbol": "VEA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Máy động lực và Máy NN",
+      "organ_name": "Tổng Công ty Máy động lực và Máy nông nghiệp Việt Nam - CTCP"
+    },
+    {
+      "symbol": "VE9",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VNECO 9",
+      "organ_name": "Công ty Cổ phần Đầu tư và Xây dựng VNECO 9"
+    },
+    {
+      "symbol": "VE2",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng Điện VNECO 2",
+      "organ_name": "Công ty Cổ phần Xây dựng Điện VNECO 2"
+    },
+    {
+      "symbol": "VDT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Lưới thép Bình Tây",
+      "organ_name": "Công ty Cổ phần Lưới thép Bình Tây"
+    },
+    {
+      "symbol": "VDN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vinatex Đà Nẵng",
+      "organ_name": "Công ty Cổ phần Vinatex Đà Nẵng"
+    },
+    {
+      "symbol": "VDG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vạn Đạt Group",
+      "organ_name": "Công ty Cổ phần Vạn Đạt Group"
+    },
+    {
+      "symbol": "VDB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải và CB Than Đông Bắc",
+      "organ_name": "Công ty Cổ phần Vận tải và Chế biến Than Đông Bắc"
+    },
+    {
+      "symbol": "VCX",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xi măng Yên Bình",
+      "organ_name": "Công ty Cổ phần Xi măng Yên Bình"
+    },
+    {
+      "symbol": "VCW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Nước sạch Sông Đà",
+      "organ_name": "Công ty Cổ phần Đầu tư Nước sạch Sông Đà"
+    },
+    {
+      "symbol": "VCT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tư vấn XD Vinaconex",
+      "organ_name": "Công ty Cổ phần Tư vấn Xây dựng Vinaconex"
+    },
+    {
+      "symbol": "VCR",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vinaconex - ITC",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển Du lịch Vinaconex"
+    },
+    {
+      "symbol": "VCP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng và Năng lượng VCP",
+      "organ_name": "Công ty Cổ phần Xây dựng và Năng lượng VCP"
+    },
+    {
+      "symbol": "VCE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây lắp Môi trường",
+      "organ_name": "Công ty Cổ phần Xây lắp Môi trường"
+    },
+    {
+      "symbol": "VC5",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng Số 5",
+      "organ_name": "Công ty Cổ phần Xây dựng Số 5"
+    },
+    {
+      "symbol": "VBH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Điện tử Bình Hòa",
+      "organ_name": "Công ty Cổ phần Điện tử Bình Hòa"
+    },
+    {
+      "symbol": "VBG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Địa chất Việt Bắc - TKV",
+      "organ_name": "Công ty Cổ phần Địa chất Việt Bắc - TKV"
+    },
+    {
+      "symbol": "VBB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VietBank",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Việt Nam Thương Tín"
+    },
+    {
+      "symbol": "VAV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VIWACO",
+      "organ_name": "Công ty Cổ phần VIWACO"
+    },
+    {
+      "symbol": "VAB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Ngân hàng Việt Á",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Việt Á"
+    },
+    {
+      "symbol": "V15",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vinaconex 15",
+      "organ_name": "Công ty Cổ phần Xây dựng số 15"
+    },
+    {
+      "symbol": "V11",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VINACONEX No11",
+      "organ_name": "Công ty Cổ phần Xây dựng số 11"
+    },
+    {
+      "symbol": "UXC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chế biến Thủy sản Út Xi",
+      "organ_name": "Công ty Cổ phần Chế biến Thủy sản Út Xi"
+    },
+    {
+      "symbol": "USD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công trình Đô thị Sóc Trăng",
+      "organ_name": "Công ty Cổ phần Công trình Đô thị Sóc Trăng"
+    },
+    {
+      "symbol": "USC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Khảo sát và Xây dựng - USCO",
+      "organ_name": "Công ty Cổ phần Khảo sát và Xây dựng - USCO"
+    },
+    {
+      "symbol": "UPH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược phẩm TW25",
+      "organ_name": "Công ty Cổ phần Dược phẩm TW25"
+    },
+    {
+      "symbol": "UPC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cây xanh Vũng Tàu",
+      "organ_name": "Công ty Cổ phần Phát triển Công viên Cây xanh và Đô thị Vũng Tàu"
+    },
+    {
+      "symbol": "UMC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công trình đô thị Nam Định",
+      "organ_name": "Công ty Cổ phần Công trình đô thị Nam Định"
+    },
+    {
+      "symbol": "UEM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cơ điện Uông Bí - Vinacomin",
+      "organ_name": "Công ty Cổ phần Cơ điện Uông Bí - Vinacomin"
+    },
+    {
+      "symbol": "UDL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đô thị và Môi trường Đắk Lắk",
+      "organ_name": "Công ty Cổ phần Đô thị và Môi trường Đắk Lắk"
+    },
+    {
+      "symbol": "UDJ",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Becamex UDJ",
+      "organ_name": "Công ty Cổ phần Phát triển Đô thị"
+    },
+    {
+      "symbol": "UDC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XD&PT Đô thị Bà Rịa - Vũng Tàu",
+      "organ_name": "Công ty Cổ phần Xây dựng và Phát triển đô thị Tỉnh Bà Rịa - Vũng Tàu"
+    },
+    {
+      "symbol": "UCT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đô thị Cần Thơ",
+      "organ_name": "Công ty Cổ phần Đô thị Cần Thơ"
+    },
+    {
+      "symbol": "TW3",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược TW3",
+      "organ_name": "Công ty Cổ phần Dược Trung Ương 3"
+    },
+    {
+      "symbol": "TVN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thép Việt Nam",
+      "organ_name": "Tổng Công ty Thép Việt Nam - Công ty Cổ phần"
+    },
+    {
+      "symbol": "TVM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tư vấn đầu tư Mỏ",
+      "organ_name": "Công ty Cổ phần Tư vấn đầu tư Mỏ và công nghiệp - Vinacomin"
+    },
+    {
+      "symbol": "TVH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tư vấn XD công trình Hàng hải",
+      "organ_name": "Công ty Cổ phần Tư vấn Xây dựng công trình Hàng hải"
+    },
+    {
+      "symbol": "TVG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XD Giao thông Vận tải",
+      "organ_name": "Công ty Cổ phần Tư vấn Đầu tư và Xây dựng Giao thông Vận tải"
+    },
+    {
+      "symbol": "TVA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sứ Viglacera Thanh Trì",
+      "organ_name": "Công ty cổ phần Sứ Viglacera Thanh Trì"
+    },
+    {
+      "symbol": "TV6",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "TM ĐT xây lắp điện Thịnh Vượng",
+      "organ_name": "Công ty Cổ phần Tập đoàn EMA LAND"
+    },
+    {
+      "symbol": "TV1",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tư vấn XD Điện 1",
+      "organ_name": "Công ty Cổ phần Tư vấn Xây dựng Điện 1"
+    },
+    {
+      "symbol": "TUG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Lai dắt và VT cảng Hải Phòng",
+      "organ_name": "Công ty Cổ phần Lai dắt và Vận tải Cảng Hải Phòng"
+    },
+    {
+      "symbol": "TTZ",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng Tiến Trung",
+      "organ_name": "Công ty Cổ phần Đầu tư Xây dựng và Công nghệ Tiến Trung"
+    },
+    {
+      "symbol": "TTS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cán thép Thái Trung",
+      "organ_name": "Công ty Cổ phần Cán thép Thái Trung"
+    },
+    {
+      "symbol": "TTN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công nghệ và Truyền thông VN",
+      "organ_name": "Công ty Cổ phần Công nghệ & Truyền thông Việt Nam"
+    },
+    {
+      "symbol": "TTG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "May Thanh Trì",
+      "organ_name": "Công ty Cổ phần May Thanh Trì"
+    },
+    {
+      "symbol": "TTD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bệnh viện Tim Tâm Đức",
+      "organ_name": "Công ty Cổ phần Bệnh viện Tim Tâm Đức"
+    },
+    {
+      "symbol": "TTB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Tiến Bộ",
+      "organ_name": "Công ty Cổ phần TTBGROUP"
+    },
+    {
+      "symbol": "TT6",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tien Thinh Group",
+      "organ_name": "Công ty Cổ Phần Tập Đoàn Tiến Thịnh"
+    },
+    {
+      "symbol": "TST",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dịch vụ KT Viễn Thông",
+      "organ_name": "Công ty Cổ phần Dịch vụ Kỹ thuật Viễn thông"
+    },
+    {
+      "symbol": "TSJ",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Hanoi Toserco",
+      "organ_name": "Công ty Cổ phần Du lịch Dịch vụ Hà Nội"
+    },
+    {
+      "symbol": "TSG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "TTTH Đường sắt Sài Gòn",
+      "organ_name": "Công ty Cổ phần Thông tin Tín hiệu Đường sắt Sài Gòn"
+    },
+    {
+      "symbol": "TSD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Du lịch Trường Sơn Coecco",
+      "organ_name": "Công ty Cổ phần Du lịch Trường Sơn Coecco"
+    },
+    {
+      "symbol": "TSA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu Tư Và Xây Lắp Trường Sơn",
+      "organ_name": "Công ty Cổ Phần Đầu Tư Và Xây Lắp Trường Sơn"
+    },
+    {
+      "symbol": "TS4",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy sản số 4",
+      "organ_name": "Công ty Cổ phần Thủy sản số 4"
+    },
+    {
+      "symbol": "TS3",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Trường Sơn 532",
+      "organ_name": "Công ty Cổ phần Trường Sơn 532"
+    },
+    {
+      "symbol": "TRT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "CTCP RedstarCera",
+      "organ_name": "Công ty Cổ phần RedstarCera"
+    },
+    {
+      "symbol": "TRS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải và Dịch vụ Hàng Hải",
+      "organ_name": "Công ty Cổ phần Vận tải và Dịch vụ Hàng Hải"
+    },
+    {
+      "symbol": "TR1",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận Tải 1 Traco",
+      "organ_name": "Công ty Cổ phần Vận Tải 1 Traco"
+    },
+    {
+      "symbol": "TQW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp thoát nước Tuyên Quang",
+      "organ_name": "Công ty Cổ phần Cấp thoát nước Tuyên Quang"
+    },
+    {
+      "symbol": "TQN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thông Quảng Ninh",
+      "organ_name": "Công ty Cổ phần Thông Quảng Ninh"
+    },
+    {
+      "symbol": "TPS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bến bãi vận tải Sài Gòn",
+      "organ_name": "Công ty Cổ phần Bến bãi vận tải Sài Gòn"
+    },
+    {
+      "symbol": "TOW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Trà Nóc - Ô Môn",
+      "organ_name": "Công ty Cổ phần Cấp nước Trà Nóc - Ô Môn"
+    },
+    {
+      "symbol": "TOS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dịch vụ biển Tân Cảng",
+      "organ_name": "Công ty Cổ phần Dịch vụ biển Tân Cảng"
+    },
+    {
+      "symbol": "TOP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Phân phối Top One",
+      "organ_name": "Công ty Cổ phần Phân phối Top One"
+    },
+    {
+      "symbol": "TNW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nước sạch Thái Nguyên",
+      "organ_name": "Công ty Cổ phần Nước sạch Thái Nguyên"
+    },
+    {
+      "symbol": "TNV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xe đạp Thống Nhất",
+      "organ_name": "Công ty Cổ phần Thống Nhất Hà Nội"
+    },
+    {
+      "symbol": "TNS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thép tấm lá Thống Nhất",
+      "organ_name": "Công ty Cổ phần Thép tấm lá Thống Nhất"
+    },
+    {
+      "symbol": "TNP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cảng Thị Nại",
+      "organ_name": "Công ty Cổ phần Cảng Thị Nại"
+    },
+    {
+      "symbol": "TNM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XNK và XD Công trình",
+      "organ_name": "Công ty Cổ phần Xuất nhập khẩu và Xây dựng Công trình"
+    },
+    {
+      "symbol": "TNB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thép Nhà Bè",
+      "organ_name": "Công ty Cổ phần Thép Nhà Bè - VNSTEEL"
+    },
+    {
+      "symbol": "TNA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XNK Thiên Nam",
+      "organ_name": "Công ty Cổ phần Thương mại Xuất nhập khẩu Thiên Nam"
+    },
+    {
+      "symbol": "TMW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Gỗ Tân Mai",
+      "organ_name": "Công ty Cổ phần Tổng hợp Gỗ Tân Mai"
+    },
+    {
+      "symbol": "TMG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Kim loại màu Thái Nguyên - Vimico",
+      "organ_name": "Công ty Cổ phần Kim loại màu Thái Nguyên - Vimico"
+    },
+    {
+      "symbol": "TLT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Viglacera Thăng long",
+      "organ_name": "Công ty Cổ phần Viglacera Thăng Long"
+    },
+    {
+      "symbol": "TLP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thương mại XNK Thanh Lễ",
+      "organ_name": "Tổng Công ty Thương mại Xuất nhập khẩu Thanh Lễ - CTCP"
+    },
+    {
+      "symbol": "TLI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "May Quốc tế Thắng Lợi",
+      "organ_name": "Công ty Cổ phần May Quốc tế Thắng Lợi"
+    },
+    {
+      "symbol": "TL4",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XD Thủy lợi 4",
+      "organ_name": "Tổng Công ty Xây dựng Thủy lợi 4 - Công ty Cổ phần"
+    },
+    {
+      "symbol": "TKG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "SX và T.Mại Tùng Khánh",
+      "organ_name": "Công ty Cổ phần Sản xuất và Thương mại Tùng Khánh"
+    },
+    {
+      "symbol": "TKC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Địa ốc Tân Kỷ",
+      "organ_name": "Công ty Cổ phần Xây dựng và Kinh doanh Địa ốc Tân Kỷ"
+    },
+    {
+      "symbol": "TKA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bao bì Tân Khánh An",
+      "organ_name": "Công ty Cổ phần Bao bì Tân Khánh An"
+    },
+    {
+      "symbol": "TIS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Gang thép Thái Nguyên",
+      "organ_name": "Công ty Cổ phần Gang thép Thái Nguyên"
+    },
+    {
+      "symbol": "TIN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tài chính Cổ phần Tín Việt",
+      "organ_name": "Công ty Tài chính Cổ phần Tín Việt"
+    },
+    {
+      "symbol": "TIE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Điện tử TIE",
+      "organ_name": "Công ty Cổ phần TIE"
+    },
+    {
+      "symbol": "TID",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tổng Công ty Tín Nghĩa",
+      "organ_name": "Công ty Cổ phần Tổng Công ty Tín Nghĩa"
+    },
+    {
+      "symbol": "THW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Tân Hòa",
+      "organ_name": "Công ty Cổ phần Cấp nước Tân Hòa"
+    },
+    {
+      "symbol": "THU",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường và CTĐT Thanh Hóa",
+      "organ_name": "Công ty Cổ phần Môi trường và Công trình đô thị Thanh Hóa"
+    },
+    {
+      "symbol": "THP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy sản và TMại Thuận Phước",
+      "organ_name": "Công ty Cổ phần Thủy sản và Thương mại Thuận Phước"
+    },
+    {
+      "symbol": "THN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Thanh Hóa",
+      "organ_name": "Công ty Cổ phần Cấp nước Thanh Hóa"
+    },
+    {
+      "symbol": "THM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tứ Hải Hà Nam",
+      "organ_name": "Công ty Cổ phần Tứ Hải Hà Nam"
+    },
+    {
+      "symbol": "TH1",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XNK Tổng hợp 1",
+      "organ_name": "Công ty Cổ phần Xuất nhập khẩu Tổng hợp I Việt Nam"
+    },
+    {
+      "symbol": "TGP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cáp Trường Phú",
+      "organ_name": "Công ty Cổ phần Trường Phú"
+    },
+    {
+      "symbol": "TGG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "The Golden Group",
+      "organ_name": "Công ty Cổ phần The Golden Group"
+    },
+    {
+      "symbol": "TEL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Phát triển Công trình Viễn thông",
+      "organ_name": "Công ty Cổ phần Phát triển Công trình Viễn thông"
+    },
+    {
+      "symbol": "TED",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thiết kế GTVT",
+      "organ_name": "Tổng Công ty Tư vấn Thiết kế Giao thông Vận tải - CTCP"
+    },
+    {
+      "symbol": "TDS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thép Thủ Đức",
+      "organ_name": "Công ty Cổ phần Thép Thủ Đức - VNSTEEL"
+    },
+    {
+      "symbol": "TDF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng Trung Đô",
+      "organ_name": "Công ty Cổ phần Trung Đô"
+    },
+    {
+      "symbol": "TDB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy điện Định Bình",
+      "organ_name": "Công ty Cổ phần Thủy điện Định Bình"
+    },
+    {
+      "symbol": "TCW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Kho Vận Tân Cảng",
+      "organ_name": "Công ty Cổ phần Kho Vận Tân Cảng"
+    },
+    {
+      "symbol": "TCK",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "COMA",
+      "organ_name": "Tổng Công ty Cơ khí Xây dựng - CTCP"
+    },
+    {
+      "symbol": "TCJ",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tô Châu",
+      "organ_name": "Công ty Cổ phần Tô Châu"
+    },
+    {
+      "symbol": "TBW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nước sạch Thái Bình",
+      "organ_name": "Công ty cổ phần Nước sạch Thái Bình"
+    },
+    {
+      "symbol": "TBT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XD Công trình GT Bến Tre",
+      "organ_name": "Công ty Cổ phần Xây dựng Công trình Giao thông Bến Tre"
+    },
+    {
+      "symbol": "TBR",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Địa ốc Tân Bình",
+      "organ_name": "Công ty Cổ phần Địa ốc Tân Bình"
+    },
+    {
+      "symbol": "TBH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tổng Bách Hóa",
+      "organ_name": "Công ty Cổ phần Tổng Bách Hóa"
+    },
+    {
+      "symbol": "TBD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thiết bị điện Đông Anh",
+      "organ_name": "Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần"
+    },
+    {
+      "symbol": "TB8",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "SX và KD Vật tư Thiết bị - VVMI",
+      "organ_name": "Công ty Cổ phần Sản xuất và Kinh doanh Vật tư Thiết bị - VVMI"
+    },
+    {
+      "symbol": "TAW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Trung An",
+      "organ_name": "Công ty Cổ phần Cấp nước Trung An"
+    },
+    {
+      "symbol": "TAR",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nông nghiệp CN cao Trung An",
+      "organ_name": "Công ty Cổ phần Nông nghiệp Công nghệ cao Trung An"
+    },
+    {
+      "symbol": "TAN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cà phê Thuận An",
+      "organ_name": "Công ty Cổ phần Cà phê Thuận An"
+    },
+    {
+      "symbol": "TAL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu Tư Bất Động Sản Taseco",
+      "organ_name": "Công Ty Cổ Phần Đầu Tư Bất Động Sản Taseco"
+    },
+    {
+      "symbol": "TAB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Freco Việt Nam",
+      "organ_name": "Công ty Cổ phần Freco Việt Nam"
+    },
+    {
+      "symbol": "TA6",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư và Xây lắp Thành An 665",
+      "organ_name": "Công ty Cổ phần Đầu tư và Xây lắp Thành An 665"
+    },
+    {
+      "symbol": "SZG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sonadezi Giang Điền",
+      "organ_name": "Công ty Cổ phần Sonadezi Giang Điền"
+    },
+    {
+      "symbol": "SZE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường Sonadezi",
+      "organ_name": "Công ty Cổ phần Môi trường Sonadezi"
+    },
+    {
+      "symbol": "SWC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đường Sông Miền Nam",
+      "organ_name": "Tổng Công ty Cổ phần Đường Sông Miền Nam"
+    },
+    {
+      "symbol": "SVH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy điện Sông Vàng",
+      "organ_name": "Công ty Cổ phần Thủy điện Sông Vàng"
+    },
+    {
+      "symbol": "SVG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Hơi kỹ nghệ Que hàn",
+      "organ_name": "Công ty Cổ phần Hơi kỹ nghệ Que hàn"
+    },
+    {
+      "symbol": "STW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Sóc Trăng",
+      "organ_name": "Công ty Cổ phần Cấp nước Sóc Trăng"
+    },
+    {
+      "symbol": "STT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận chuyển Sài Gòn Tourist",
+      "organ_name": "Công ty Cổ phần Vận chuyển Sài Gòn Tourist"
+    },
+    {
+      "symbol": "STS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dịch vụ vận tải Sài Gòn",
+      "organ_name": "Công ty Cổ phần Dịch vụ vận tải Sài Gòn"
+    },
+    {
+      "symbol": "STL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà - Thăng Long",
+      "organ_name": "Công ty Cổ phần Sông Đà - Thăng Long"
+    },
+    {
+      "symbol": "STH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Phát hành sách Thái Nguyên",
+      "organ_name": "Công ty Cổ phần Phát hành sách Thái Nguyên"
+    },
+    {
+      "symbol": "SSN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy sản Sài Gòn",
+      "organ_name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Sài Gòn"
+    },
+    {
+      "symbol": "SSH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Phát triển Sunshine Homes",
+      "organ_name": "Công ty Cổ phần Phát triển Sunshine Homes"
+    },
+    {
+      "symbol": "SSG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải Biển Hải Âu",
+      "organ_name": "Công ty Cổ phần Vận tải Biển Hải Âu"
+    },
+    {
+      "symbol": "SSF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Giáo dục G Sài Gòn",
+      "organ_name": "Công ty Cổ phần Giáo dục G Sài Gòn"
+    },
+    {
+      "symbol": "SRB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "SARA",
+      "organ_name": "Công ty Cổ phần Tập đoàn Sara"
+    },
+    {
+      "symbol": "SQC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Khoáng sản SG-Quy Nhơn",
+      "organ_name": "Công ty Cổ phần Khoáng sản Sài Gòn - Quy Nhơn"
+    },
+    {
+      "symbol": "SPV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy đặc sản",
+      "organ_name": "Công ty Cổ phần Thủy Đặc Sản"
+    },
+    {
+      "symbol": "SPH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XNK Thủy sản Hà Nội",
+      "organ_name": "Công ty Cổ phần Xuất Nhập khẩu Thủy sản Hà Nội"
+    },
+    {
+      "symbol": "SPD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy sản Miền Trung",
+      "organ_name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Miền Trung"
+    },
+    {
+      "symbol": "SPB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sợi Phú Bài",
+      "organ_name": "Công ty Cổ phần Sợi Phú Bài"
+    },
+    {
+      "symbol": "SP2",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy điện Sử Pán 2",
+      "organ_name": "Công ty Cổ phần Thủy điện Sử Pán 2"
+    },
+    {
+      "symbol": "SNZ",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "SONADEZI",
+      "organ_name": "Tổng Công ty Cổ phần Phát triển Khu Công nghiệp"
+    },
+    {
+      "symbol": "SNC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy sản Năm Căn",
+      "organ_name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Năm Căn"
+    },
+    {
+      "symbol": "SKV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "NGK Yến sào Khánh Hòa",
+      "organ_name": "Công ty Cổ phần Nước Giải khát Yến sào Khánh Hòa"
+    },
+    {
+      "symbol": "SKN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "NGK Sanna Khánh Hòa",
+      "organ_name": "Công ty Cổ phần Nước giải khát Sanna Khánh Hòa"
+    },
+    {
+      "symbol": "SKH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "NGK Sanest Khánh Hòa",
+      "organ_name": "Công ty Cổ phần Nước giải khát Sanest Khánh Hòa"
+    },
+    {
+      "symbol": "SJM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 19",
+      "organ_name": "Công ty Cổ phần Sông Đà 19"
+    },
+    {
+      "symbol": "SJG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tổng Công ty Sông Đà",
+      "organ_name": "Tổng Công ty Sông Đà"
+    },
+    {
+      "symbol": "SJF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Sao Thái Dương",
+      "organ_name": "Công ty Cổ phần Đầu tư Sao Thái Dương"
+    },
+    {
+      "symbol": "SJC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 1.01",
+      "organ_name": "Công ty Cổ phần Sông Đà 1.01"
+    },
+    {
+      "symbol": "SIV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "SIVICO",
+      "organ_name": "Công ty Cổ phần SIVICO"
+    },
+    {
+      "symbol": "SII",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Hạ tầng Nước Sài Gòn",
+      "organ_name": "Công ty Cổ phần Hạ tầng Nước Sài Gòn"
+    },
+    {
+      "symbol": "SIG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư và Thương mại Sông Đà",
+      "organ_name": "Công ty Cổ phần Đầu tư và Thương mại Sông Đà"
+    },
+    {
+      "symbol": "SID",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư PT Sài Gòn Co.op",
+      "organ_name": "Công ty Cổ phần Đầu tư Phát triển Sài Gòn Co.op"
+    },
+    {
+      "symbol": "SHG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tổng Công ty Sông Hồng",
+      "organ_name": "Tổng Công ty Cổ phần Sông Hồng"
+    },
+    {
+      "symbol": "SHC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Hàng hải Sài Gòn",
+      "organ_name": "Công ty Cổ phần Hàng hải Sài Gòn"
+    },
+    {
+      "symbol": "SGS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải biển Sài Gòn",
+      "organ_name": "Công ty Cổ phần Vận tải biển Sài Gòn"
+    },
+    {
+      "symbol": "SGP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cảng Sài Gòn",
+      "organ_name": "Công ty Cổ phần Cảng Sài Gòn"
+    },
+    {
+      "symbol": "SGI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "ĐT PT Sài Gòn 3 Group",
+      "organ_name": "Công ty Cổ phần Đầu tư phát triển Sài Gòn 3 Group"
+    },
+    {
+      "symbol": "SGB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sài Gòn Công thương",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Sài Gòn Công thương"
+    },
+    {
+      "symbol": "SEP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thương mại Quảng Trị",
+      "organ_name": "Công ty Cổ phần Tổng Công ty Thương mại Quảng Trị"
+    },
+    {
+      "symbol": "SEA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "SEAPRODEX",
+      "organ_name": "Tổng Công ty Thủy sản Việt Nam - Công ty Cổ phần"
+    },
+    {
+      "symbol": "SDY",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xi măng Sông Đà Yaly",
+      "organ_name": "Công ty Cổ phần Xi măng Sông Đà Yaly"
+    },
+    {
+      "symbol": "SDX",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "PCCC và Đầu tư XD Sông Đà",
+      "organ_name": "Công ty Cổ phần Phòng cháy chữa cháy và Đầu tư Xây dựng Sông Đà"
+    },
+    {
+      "symbol": "SDV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dịch vụ Sonadezi",
+      "organ_name": "Công ty Cổ phần Dịch vụ Sonadezi"
+    },
+    {
+      "symbol": "SDT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 10",
+      "organ_name": "Công ty Cổ phần Sông Đà 10"
+    },
+    {
+      "symbol": "SDP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công ty Cổ phần SDP",
+      "organ_name": "Công ty Cổ phần SDP"
+    },
+    {
+      "symbol": "SDK",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cơ khí Luyện Kim",
+      "organ_name": "Công ty Cổ phần Cơ khí Luyện Kim"
+    },
+    {
+      "symbol": "SDJ",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 25",
+      "organ_name": "Công ty Cổ phần Sông Đà 25"
+    },
+    {
+      "symbol": "SDD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây lắp Sông Đà",
+      "organ_name": "Công ty Cổ phần Đầu tư và Xây lắp Sông Đà"
+    },
+    {
+      "symbol": "SDB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 207",
+      "organ_name": "Công ty Cổ phần Sông Đà 207"
+    },
+    {
+      "symbol": "SD8",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 8",
+      "organ_name": "Công ty Cổ phần Sông Đà 8"
+    },
+    {
+      "symbol": "SD7",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 7",
+      "organ_name": "Công ty Cổ phần Sông Đà 7"
+    },
+    {
+      "symbol": "SD6",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 6",
+      "organ_name": "Công ty Cổ phần Sông Đà 6"
+    },
+    {
+      "symbol": "SD4",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 4",
+      "organ_name": "Công ty Cổ phần Sông Đà 4"
+    },
+    {
+      "symbol": "SD3",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 3",
+      "organ_name": "Công ty Cổ phần Sông Đà 3"
+    },
+    {
+      "symbol": "SD2",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 2",
+      "organ_name": "Công ty Cổ phần Sông Đà 2"
+    },
+    {
+      "symbol": "SD1",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 1",
+      "organ_name": "Công ty Cổ phần Sông Đà 1"
+    },
+    {
+      "symbol": "SCY",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đóng tàu Sông Cấm",
+      "organ_name": "Công ty Cổ phần Đóng tàu Sông Cấm"
+    },
+    {
+      "symbol": "SCO",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công nghiệp Thủy Sản",
+      "organ_name": "Công ty Cổ phần Công nghiệp Thủy sản"
+    },
+    {
+      "symbol": "SCL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà Cao Cường",
+      "organ_name": "Công ty Cổ phần Sông Đà Cao Cường"
+    },
+    {
+      "symbol": "SCJ",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xi măng Sài Sơn",
+      "organ_name": "Công ty Cổ phần Xi măng Sài Sơn"
+    },
+    {
+      "symbol": "SCD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Giải khát Chương Dương",
+      "organ_name": "Công ty Cổ phần Nước giải khát Chương Dương"
+    },
+    {
+      "symbol": "SCC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thương mại Đầu tư SHB",
+      "organ_name": "Công ty Cổ phần Thương mại Đầu tư SHB"
+    },
+    {
+      "symbol": "SBS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán Sacombank",
+      "organ_name": "Công ty Cổ phần Chứng khoán SBS"
+    },
+    {
+      "symbol": "SBR",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cao su Sông Bé",
+      "organ_name": "Công ty Cổ phần Cao su Sông Bé"
+    },
+    {
+      "symbol": "SBM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư PT Bắc Minh",
+      "organ_name": "Công ty Cổ phần Đầu tư phát triển Bắc Minh"
+    },
+    {
+      "symbol": "SBL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bia Sài Gòn - Bạc Liêu",
+      "organ_name": "Công ty Cổ phần Bia Sài Gòn - Bạc Liêu"
+    },
+    {
+      "symbol": "SBH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy điện Sông Ba Hạ",
+      "organ_name": "Công ty Cổ phần Thủy điện Sông Ba Hạ"
+    },
+    {
+      "symbol": "SBD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công nghệ Sao Bắc Đẩu",
+      "organ_name": "Công ty Cổ phần Công nghệ Sao Bắc Đẩu"
+    },
+    {
+      "symbol": "SBB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bia Sài Gòn Bình Tây",
+      "organ_name": "Công ty cổ phần Tập đoàn Bia Sài Gòn Bình Tây"
+    },
+    {
+      "symbol": "SB1",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bia Sài Gòn - Nghệ Tĩnh",
+      "organ_name": "Công ty Cổ phần Bia Sài Gòn - Nghệ Tĩnh"
+    },
+    {
+      "symbol": "SAS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "DV Hàng không sân bay TSN",
+      "organ_name": "Công ty Cổ phần Dịch vụ Hàng không Sân bay Tân Sơn Nhất"
+    },
+    {
+      "symbol": "SAP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "In Sách TP.HCM",
+      "organ_name": "Công ty Cổ phần In Sách Giáo khoa TP.Hồ Chí Minh"
+    },
+    {
+      "symbol": "SAL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Trục vớt Cứu hộ Việt Nam",
+      "organ_name": "Công ty Cổ phần Trục vớt Cứu hộ Việt Nam"
+    },
+    {
+      "symbol": "SAC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dịch vụ cảng Sài Gòn",
+      "organ_name": "Công ty Cổ phần Xếp dỡ và Dịch vụ cảng Sài Gòn"
+    },
+    {
+      "symbol": "S96",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 9.06",
+      "organ_name": "Công ty Cổ phần Sông Đà 9.06"
+    },
+    {
+      "symbol": "S74",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 7.04",
+      "organ_name": "Công ty Cổ phần Sông Đà 7.04"
+    },
+    {
+      "symbol": "S72",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 7.02",
+      "organ_name": "Công ty Cổ phần Sông Đà 7.02"
+    },
+    {
+      "symbol": "S27",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 27",
+      "organ_name": "Công ty Cổ phần Sông Đà 27"
+    },
+    {
+      "symbol": "S12",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sông Đà 12",
+      "organ_name": "Công ty Cổ phần Sông Đà 12"
+    },
+    {
+      "symbol": "RTB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cao su Tân Biên",
+      "organ_name": "Công ty Cổ phần Cao su Tân Biên"
+    },
+    {
+      "symbol": "RIC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Quốc tế Hoàng Gia",
+      "organ_name": "Công ty Cổ phần Quốc Tế Hoàng Gia"
+    },
+    {
+      "symbol": "RCD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XD - Địa ốc Cao su",
+      "organ_name": "Công ty Cổ phần Xây dựng - Địa ốc Cao su"
+    },
+    {
+      "symbol": "RCC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công trình Đường sắt",
+      "organ_name": "Công ty Cổ phần Tổng Công ty Công trình Đường sắt"
+    },
+    {
+      "symbol": "RBC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công Nghiệp và Xuất nhập khẩu Cao Su",
+      "organ_name": "Công ty Cổ phần Công Nghiệp và Xuất nhập khẩu Cao Su"
+    },
+    {
+      "symbol": "RAT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VT và TM Đường sắt",
+      "organ_name": "Công ty Cổ phần Vận tải và Thương mại Đường sắt"
+    },
+    {
+      "symbol": "QTP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nhiệt điện Quảng Ninh",
+      "organ_name": "Công ty Cổ phần Nhiệt điện Quảng Ninh"
+    },
+    {
+      "symbol": "QSP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tân cảng Quy Nhơn",
+      "organ_name": "Công ty Cổ phần Tân cảng Quy Nhơn"
+    },
+    {
+      "symbol": "QPH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy điện Quế Phong",
+      "organ_name": "Công ty Cổ phần Thủy điện Quế Phong"
+    },
+    {
+      "symbol": "QNW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp thoát nước và XD Quảng Ngãi",
+      "organ_name": "Công ty Cổ phần Cấp thoát nước và xây dựng Quảng Ngãi"
+    },
+    {
+      "symbol": "QNU",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường Đô thị Quảng Nam",
+      "organ_name": "Công ty Cổ phần Môi trường Đô thị Quảng Nam"
+    },
+    {
+      "symbol": "QNT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tư vấn và Đầu tư Phát triển Quảng Nam",
+      "organ_name": "Công ty Cổ phần Tư vấn và Đầu tư Phát triển Quảng Nam"
+    },
+    {
+      "symbol": "QNS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đường Quảng Ngãi",
+      "organ_name": "Công ty Cổ phần Đường Quảng Ngãi"
+    },
+    {
+      "symbol": "QNC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xi măng Quảng Ninh",
+      "organ_name": "Công ty Cổ phần Xi măng và Xây dựng Quảng Ninh"
+    },
+    {
+      "symbol": "QHW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nước khoáng Quảng Ninh",
+      "organ_name": "Công ty Cổ phần Nước khoáng Quảng Ninh"
+    },
+    {
+      "symbol": "QCC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Xây dựng và Phát triển Hạ tầng Viễn Thông",
+      "organ_name": "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Hạ tầng Viễn Thông"
+    },
+    {
+      "symbol": "QBS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xuất nhập khẩu Quảng Bình",
+      "organ_name": "Công ty Cổ phần Xuất nhập khẩu Quảng Bình"
+    },
+    {
+      "symbol": "PXT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây lắp Đường ống Dầu khí",
+      "organ_name": "Công ty Cổ phần Xây lắp Đường ống Bể chứa Dầu khí"
+    },
+    {
+      "symbol": "PXS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Lắp máy Dầu khí",
+      "organ_name": "Công ty Cổ phần Kết cấu Kim loại và Lắp máy Dầu khí"
+    },
+    {
+      "symbol": "PXM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây lắp Dầu khí Miền Trung",
+      "organ_name": "Công ty Cổ phần Xây lắp Dầu khí Miền Trung"
+    },
+    {
+      "symbol": "PXL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "KCN Dầu khí Long Sơn",
+      "organ_name": "Công ty Cổ phần Đầu tư Khu Công Nghiệp Dầu khí Long Sơn"
+    },
+    {
+      "symbol": "PXI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XL CN và dân dụng Dầu khí",
+      "organ_name": "Công ty Cổ phần Xây dựng Công nghiệp và Dân dụng Dầu khí"
+    },
+    {
+      "symbol": "PXC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Phát triển Đô thị Dầu khí",
+      "organ_name": "Công ty Cổ phần Phát triển Đô thị Dầu khí"
+    },
+    {
+      "symbol": "PXA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư và Thương mại Dầu khí Nghệ An",
+      "organ_name": "Công ty Cổ phần Đầu tư và Thương mại Dầu khí Nghệ An"
+    },
+    {
+      "symbol": "PX1",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xi măng Sông Lam 2",
+      "organ_name": "Công ty Cổ phần Xi măng Sông Lam 2"
+    },
+    {
+      "symbol": "PWS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp thoát nước Phú Yên",
+      "organ_name": "Công ty Cổ phần Cấp thoát nước Phú Yên"
+    },
+    {
+      "symbol": "PWA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bất động sản dầu khí",
+      "organ_name": "Công ty Cổ phần Bất động sản dầu khí"
+    },
+    {
+      "symbol": "PVY",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chế tạo Giàn khoan Dầu khí",
+      "organ_name": "Công ty Cổ phần Chế tạo Giàn khoan Dầu khí"
+    },
+    {
+      "symbol": "PVX",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây lắp Dầu khí Việt Nam",
+      "organ_name": "Tổng Công ty Cổ phần Xây lắp Dầu khí Việt Nam"
+    },
+    {
+      "symbol": "PVV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vinaconex 39",
+      "organ_name": "Công ty Cổ phần Vinaconex 39"
+    },
+    {
+      "symbol": "PVR",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư PVR Hà Nội",
+      "organ_name": "Công ty Cổ phần Đầu tư PVR Hà Nội"
+    },
+    {
+      "symbol": "PVO",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dầu nhờn PV Oil",
+      "organ_name": "Công ty Cổ phần Dầu nhờn PV Oil"
+    },
+    {
+      "symbol": "PVM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thiết bị dầu khí (PV MACHINO)",
+      "organ_name": "Công ty Cổ phần Máy - Thiết bị Dầu khí"
+    },
+    {
+      "symbol": "PVL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Nhà Đất Việt",
+      "organ_name": "Công ty Cổ phần Đầu tư Nhà Đất Việt"
+    },
+    {
+      "symbol": "PVH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây lắp Dầu khí Thanh Hóa",
+      "organ_name": "Công ty Cổ phần Xây lắp Dầu khí Thanh Hóa"
+    },
+    {
+      "symbol": "PVE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tư vấn Dầu khí",
+      "organ_name": "Tổng Công ty Tư vấn Thiết kế Dầu khí - Công ty Cổ phần"
+    },
+    {
+      "symbol": "PVA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng dầu khí Nghệ An",
+      "organ_name": "Công ty Cổ phần Tổng Công ty Xây lắp Dầu khí Nghệ An"
+    },
+    {
+      "symbol": "PTV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thương mại dầu khí",
+      "organ_name": "Công ty Cổ phần Thương mại Dầu khí"
+    },
+    {
+      "symbol": "PTT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải Dầu khí Đông Dương",
+      "organ_name": "Công ty Cổ phần Vận tải Dầu khí Đông Dương"
+    },
+    {
+      "symbol": "PTP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Viễn Thông và In Bưu điện",
+      "organ_name": "Công ty Cổ phần PTP"
+    },
+    {
+      "symbol": "PTO",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng Công trình Bưu điện",
+      "organ_name": "Công ty Cổ phần Dịch vụ - Xây dựng Công trình Bưu điện"
+    },
+    {
+      "symbol": "PTH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải và DV Petrolimex Hà Tây",
+      "organ_name": "Công ty Cổ phần Vận tải và Dịch vụ Petrolimex Hà Tây"
+    },
+    {
+      "symbol": "PTG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "May Phan Thiết",
+      "organ_name": "Công ty Cổ phần May Xuất Khẩu Phan Thiết"
+    },
+    {
+      "symbol": "PTE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xi măng Phú Thọ",
+      "organ_name": "Công ty Cổ phần Xi măng Phú Thọ"
+    },
+    {
+      "symbol": "PSP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "DV Dầu Khí Đình Vũ",
+      "organ_name": "Công ty Cổ phần Cảng Dịch vụ Dầu khí Đình Vũ"
+    },
+    {
+      "symbol": "PSN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "PTSC Thanh Hóa",
+      "organ_name": "Công ty Cổ phần Dịch vụ Kỹ thuật PTSC Thanh Hóa"
+    },
+    {
+      "symbol": "PSL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chăn nuôi Phú Sơn",
+      "organ_name": "Công ty Cổ phần Chăn nuôi Phú Sơn"
+    },
+    {
+      "symbol": "PSG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XL Dầu khí Sài Gòn",
+      "organ_name": "Công ty Cổ phần Đầu tư và Xây lắp Dầu khí Sài Gòn"
+    },
+    {
+      "symbol": "PSB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sao Mai Bến Đình",
+      "organ_name": "Công ty Cổ phần Đầu tư Dầu khí Sao Mai Bến Đình"
+    },
+    {
+      "symbol": "PRT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sản xuất - XNK Bình Dương",
+      "organ_name": "Tổng Công ty Sản xuất - Xuất nhập khẩu Bình Dương - Công ty cổ phần"
+    },
+    {
+      "symbol": "PRO",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Procimex Việt Nam",
+      "organ_name": "Công ty Cổ phần Procimex Việt Nam"
+    },
+    {
+      "symbol": "PQN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "DV Dầu khí Quảng Ngãi PTSC",
+      "organ_name": "Công ty Cổ phần Dịch vụ Dầu khí Quảng Ngãi PTSC"
+    },
+    {
+      "symbol": "PPI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "BĐS Thái Bình Dương",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển dự án hạ tầng Thái Bình Dương"
+    },
+    {
+      "symbol": "PPH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Phong Phú Corp.",
+      "organ_name": "Tổng Công ty Cổ phần Phong Phú"
+    },
+    {
+      "symbol": "POV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "PV Oil Vũng Áng",
+      "organ_name": "Công ty Cổ phần Xăng dầu Dầu khí Vũng Áng"
+    },
+    {
+      "symbol": "POS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bảo dưỡng công trình DK biển",
+      "organ_name": "Công ty Cổ phần Dịch vụ lắp đặt, vận hành và bảo dưỡng công trình dầu khí biển PTSC"
+    },
+    {
+      "symbol": "POM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thép Pomina",
+      "organ_name": "Công ty Cổ phần Thép Pomina"
+    },
+    {
+      "symbol": "POB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "PVOIL Thái Bình",
+      "organ_name": "Công ty Cổ phần Xăng dầu Dầu khí Thái Bình"
+    },
+    {
+      "symbol": "PNT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Kỹ thuật XD Phú Nhuận",
+      "organ_name": "Công ty Cổ phần Kỹ thuật Xây dựng Phú Nhuận"
+    },
+    {
+      "symbol": "PNP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tân Cảng - Phú Hữu",
+      "organ_name": "Công ty Cổ phần Tân Cảng – Phú Hữu"
+    },
+    {
+      "symbol": "PNG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thương Mại Phú Nhuận",
+      "organ_name": "Công ty Cổ phần Thương Mại Phú Nhuận"
+    },
+    {
+      "symbol": "PND",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xăng dầu Dầu khí Nam Định",
+      "organ_name": "Công ty Cổ phần Xăng dầu Dầu khí Nam Định"
+    },
+    {
+      "symbol": "PMW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp Nước Phú Mỹ",
+      "organ_name": "Công ty Cổ phần Cấp Nước Phú Mỹ"
+    },
+    {
+      "symbol": "PMT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Telvina Việt Nam",
+      "organ_name": "Công ty Cổ phần Viễn thông Telvina Việt Nam"
+    },
+    {
+      "symbol": "PMJ",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vật tư Bưu điện",
+      "organ_name": "Công ty Cổ phần Vật tư Bưu điện"
+    },
+    {
+      "symbol": "PLO",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Kho vận Petec",
+      "organ_name": "Công ty Cổ phần Kho vận Petec"
+    },
+    {
+      "symbol": "PLE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tư vấn Xây dựng Petrolimex",
+      "organ_name": "Công ty Cổ phần Tư vấn Xây dựng Petrolimex"
+    },
+    {
+      "symbol": "PLA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "ĐT&DV Hạ tầng Xăng dầu (PLAND)",
+      "organ_name": "Công ty Cổ phần Đầu tư và Dịch vụ hạ tầng Xăng dầu"
+    },
+    {
+      "symbol": "PJS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Phú Hòa Tân",
+      "organ_name": "Công ty Cổ phần Cấp nước Phú Hòa Tân"
+    },
+    {
+      "symbol": "PIV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "PIV JSC",
+      "organ_name": "Công ty Cổ phần PIV"
+    },
+    {
+      "symbol": "PIS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Pisico Bình Định",
+      "organ_name": "Tổng Công ty Pisico Bình Định - Công ty Cổ phần"
+    },
+    {
+      "symbol": "PID",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Trang trí nội thất Dầu khí",
+      "organ_name": "Công ty Cổ phần Trang trí nội thất Dầu khí"
+    },
+    {
+      "symbol": "PHS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán Phú Hưng",
+      "organ_name": "Công ty Cổ phần Chứng khoán Phú Hưng"
+    },
+    {
+      "symbol": "PHP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cảng Hải Phòng",
+      "organ_name": "Công ty Cổ phần Cảng Hải Phòng"
+    },
+    {
+      "symbol": "PHH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Hồng Hà Việt Nam",
+      "organ_name": "Công ty Cổ phần Hồng Hà Việt Nam"
+    },
+    {
+      "symbol": "PGB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "PG Bank",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Thịnh vượng và Phát triển"
+    },
+    {
+      "symbol": "PFL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dầu khí Đông Đô",
+      "organ_name": "Công ty Cổ phần Dầu khí Đông Đô"
+    },
+    {
+      "symbol": "PEQ",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thiết bị xăng dầu Petrolimex",
+      "organ_name": "Công ty Cổ phần Thiết bị xăng dầu Petrolimex"
+    },
+    {
+      "symbol": "PEG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "TM Kỹ thuật và Đầu tư (PETEC)",
+      "organ_name": "Tổng Công ty Thương mại Kỹ thuật và Đầu tư - Công ty Cổ phần"
+    },
+    {
+      "symbol": "PEC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cơ khí Điện lực",
+      "organ_name": "Công ty Cổ phần Cơ khí Điện lực"
+    },
+    {
+      "symbol": "PDV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải Phương Đông Việt",
+      "organ_name": "Công ty Cổ phần Vận tải và Tiếp vận Phương Đông Việt"
+    },
+    {
+      "symbol": "PDC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dầu khí Phương Đông",
+      "organ_name": "Công ty Cổ phần Du lịch Dầu khí Phương Đông"
+    },
+    {
+      "symbol": "PCM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VLXD Bưu điện",
+      "organ_name": "Công ty Cổ phần Vật liệu Xây dựng Bưu điện"
+    },
+    {
+      "symbol": "PCF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cà phê PETEC",
+      "organ_name": "Công ty Cổ phần Cà phê PETEC"
+    },
+    {
+      "symbol": "PCC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây lắp 1- Petrolimex",
+      "organ_name": "Công ty Cổ phần Tập đoàn Xây lắp 1 - Petrolimex"
+    },
+    {
+      "symbol": "PBT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "BSPPT",
+      "organ_name": "Công ty Cổ Phần Bao bì và Thương mại Dầu khí Bình Sơn"
+    },
+    {
+      "symbol": "PBC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược Phẩm TW 1- Pharbaco",
+      "organ_name": "Công ty Cổ phần Dược Phẩm Trung ương 1 - Pharbaco"
+    },
+    {
+      "symbol": "PAT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Phốt pho Apatit Việt Nam",
+      "organ_name": "Công ty Cổ phần Phốt pho Apatit Việt Nam"
+    },
+    {
+      "symbol": "PAS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Quốc tế Phương Anh",
+      "organ_name": "Công ty Cổ phần Quốc tế Phương Anh"
+    },
+    {
+      "symbol": "PAP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cảng Phước An",
+      "organ_name": "Công ty Cổ phần Dầu khí đầu tư khai thác Cảng Phước An"
+    },
+    {
+      "symbol": "PAI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "CNTT, VT và Tự động hóa Dầu khí - PAIC",
+      "organ_name": "Công ty Cổ phần Công nghê thông tin, Viễn thông và Tự động hóa Dầu khí"
+    },
+    {
+      "symbol": "ONW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dịch vụ Một Thế giới",
+      "organ_name": "Công ty Cổ phần Dịch vụ Một Thế giới"
+    },
+    {
+      "symbol": "OIL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "PV Oil",
+      "organ_name": "Tổng Công ty Dầu Việt Nam - Công ty Cổ phần"
+    },
+    {
+      "symbol": "ODE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Truyền thông và Giải trí ODE",
+      "organ_name": "Công ty cổ phần Tập đoàn Truyền thông và Giải trí ODE"
+    },
+    {
+      "symbol": "NXT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "SX và Cung ứng VLXD Kon Tum",
+      "organ_name": "Công ty Cổ phần Sản xuất và Cung ứng vật liệu xây dựng Kon Tum"
+    },
+    {
+      "symbol": "NWT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải Newway",
+      "organ_name": "Công ty Cổ phần Vận tải Newway"
+    },
+    {
+      "symbol": "NVP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nước sạch Vĩnh Phúc",
+      "organ_name": "Công ty Cổ phần Nước sạch Vĩnh Phúc"
+    },
+    {
+      "symbol": "NUE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường Đô thị Nha Trang",
+      "organ_name": "Công ty Cổ phần Môi trường Đô thị Nha Trang"
+    },
+    {
+      "symbol": "NTW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Nhơn Trạch",
+      "organ_name": "Công ty Cổ phần Cấp nước Nhơn Trạch"
+    },
+    {
+      "symbol": "NTT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dệt - May Nha Trang",
+      "organ_name": "Công ty Cổ phần Dệt - May Nha Trang"
+    },
+    {
+      "symbol": "NTF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược Nghệ An",
+      "organ_name": "Công ty Cổ phần Dược - Vật tư y tế Nghệ An"
+    },
+    {
+      "symbol": "NTC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "KCN Nam Tân Uyên",
+      "organ_name": "Công ty Cổ phần Khu Công nghiệp Nam Tân Uyên"
+    },
+    {
+      "symbol": "NTB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công trình giao thông 584",
+      "organ_name": "Công ty Cổ phần Đầu tư Xây dựng và Khai thác Công trình giao thông 584"
+    },
+    {
+      "symbol": "NSS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nông súc sản Đồng Nai",
+      "organ_name": "Công ty Cổ phần Nông súc sản Đồng Nai"
+    },
+    {
+      "symbol": "NSL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Sơn La",
+      "organ_name": "Công ty Cổ phần Cấp nước Sơn La"
+    },
+    {
+      "symbol": "NSG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nhựa Sài Gòn",
+      "organ_name": "Công ty Cổ phần Nhựa Sài Gòn"
+    },
+    {
+      "symbol": "NS2",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nước sạch số 2 Hà Nội",
+      "organ_name": "Công ty Cổ phần Nước sạch số 2 Hà Nội"
+    },
+    {
+      "symbol": "NQT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nước sạch Quảng Trị",
+      "organ_name": "Công ty Cổ phần Nước sạch Quảng Trị"
+    },
+    {
+      "symbol": "NQN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nước sạch Quảng Ninh",
+      "organ_name": "Công ty Cổ phần Nước sạch Quảng Ninh"
+    },
+    {
+      "symbol": "NQB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Quảng Bình",
+      "organ_name": "Công ty Cổ phần Cấp nước Quảng Bình"
+    },
+    {
+      "symbol": "NOS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải Biển và Thương mại Phương Đông",
+      "organ_name": "Công ty Cổ phần Vận tải Biển và Thương mại Phương Đông"
+    },
+    {
+      "symbol": "NNT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Ninh Thuận",
+      "organ_name": "Công ty Cổ phần Cấp nước Ninh Thuận"
+    },
+    {
+      "symbol": "NLS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp thoát nước Lạng Sơn",
+      "organ_name": "Công ty Cổ phần Cấp thoát nước Lạng Sơn"
+    },
+    {
+      "symbol": "NJC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "May Nam Định",
+      "organ_name": "Công ty Cổ phần May Nam Định"
+    },
+    {
+      "symbol": "NHV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư NHV",
+      "organ_name": "Công ty Cổ phần Sức khỏe Hồi sinh Việt Nam"
+    },
+    {
+      "symbol": "NHP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sản xuất XNK NHP",
+      "organ_name": "Công ty Cổ phần Sản xuất Xuất nhập khẩu NHP"
+    },
+    {
+      "symbol": "NGC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy sản Ngô Quyền",
+      "organ_name": "Công ty Cổ phần Chế biến Thủy sản Xuất khẩu Ngô Quyền"
+    },
+    {
+      "symbol": "NEM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thiết bị Điện Miền Bắc",
+      "organ_name": "Công ty Cổ phần Thiết bị Điện Miền Bắc"
+    },
+    {
+      "symbol": "NED",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Phát triển Điện Tây Bắc",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển Điện Tây Bắc"
+    },
+    {
+      "symbol": "NDW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Nam Định",
+      "organ_name": "Công ty Cổ phần Cấp nước Nam Định"
+    },
+    {
+      "symbol": "NDT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dệt may Nam Định",
+      "organ_name": "Tổng Công ty Cổ phần Dệt may Nam Định"
+    },
+    {
+      "symbol": "NDP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược phẩm 2/9",
+      "organ_name": "Công ty Cổ phần Dược phẩm 2/9"
+    },
+    {
+      "symbol": "NDF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nông sản XK Nam Định",
+      "organ_name": "Công ty Cổ phần Chế biến thực phẩm nông sản xuất khẩu Nam Định"
+    },
+    {
+      "symbol": "NDC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược phẩm Nam Dược",
+      "organ_name": "Công ty Cổ phần Nam Dược"
+    },
+    {
+      "symbol": "ND2",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư và PT điện Miền Bắc 2",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển điện Miền Bắc 2"
+    },
+    {
+      "symbol": "NCS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Suất ăn Hàng không Nội Bài",
+      "organ_name": "Công ty Cổ phần Suất ăn Hàng không Nội Bài"
+    },
+    {
+      "symbol": "NCG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nova Consumer",
+      "organ_name": "Công ty Cổ phần Tập đoàn Nova Consumer"
+    },
+    {
+      "symbol": "NBT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp thoát nước Bến Tre",
+      "organ_name": "Công ty Cổ phần Cấp thoát nước Bến Tre"
+    },
+    {
+      "symbol": "NBE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sách và Thiết bị GD Miền Bắc",
+      "organ_name": "Công ty Cổ phần Sách và Thiết bị Giáo dục Miền Bắc"
+    },
+    {
+      "symbol": "NAW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Nghệ An",
+      "organ_name": "Công ty Cổ phần Cấp nước Nghệ An"
+    },
+    {
+      "symbol": "NAU",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công trình Đô thị Nghệ An",
+      "organ_name": "Công ty Cổ phần Môi trường và Công trình Đô thị Nghệ An"
+    },
+    {
+      "symbol": "NAS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "DV Hàng không SB Nội Bài",
+      "organ_name": "Công ty Cổ phần Dịch vụ Hàng không Sân bay Nội Bài"
+    },
+    {
+      "symbol": "NAC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tư vấn xây dựng Tổng hợp",
+      "organ_name": "Công ty Cổ phần Tư vấn Xây dựng Tổng hợp"
+    },
+    {
+      "symbol": "MZG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Miza Corp",
+      "organ_name": "Công ty Cổ Phần Miza"
+    },
+    {
+      "symbol": "MVN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "TCT Hàng hải Việt Nam",
+      "organ_name": "Tổng Công ty Hàng hải Việt Nam - CTCP"
+    },
+    {
+      "symbol": "MVC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VL và XD Bình Dương",
+      "organ_name": "Công ty Cổ phần Vật liệu và Xây dựng Bình Dương"
+    },
+    {
+      "symbol": "MTX",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công Trình Đô Thị Gò Công",
+      "organ_name": "Công ty Cổ phần Công trình Đô thị Gò Công"
+    },
+    {
+      "symbol": "MTV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công trình đô thị Vũng Tàu",
+      "organ_name": "Công ty Cổ phần Dịch vụ Môi trường và Công trình Đô thị Vũng Tàu"
+    },
+    {
+      "symbol": "MTS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vật tư - TKV",
+      "organ_name": "Công ty Cổ phần Vật tư - TKV"
+    },
+    {
+      "symbol": "MTP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược Medipharco",
+      "organ_name": "Công ty Cổ phần Dược Medipharco"
+    },
+    {
+      "symbol": "MTL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường Đô thị Từ Liêm",
+      "organ_name": "Công ty Cổ phần Dịch vụ Môi trường Đô thị Từ Liêm"
+    },
+    {
+      "symbol": "MTH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường Đô thị Hà Đông",
+      "organ_name": "Công ty Cổ phần Môi trường Đô thị Hà Đông"
+    },
+    {
+      "symbol": "MTG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "MTGAS",
+      "organ_name": "Công ty Cổ phần MT Gas"
+    },
+    {
+      "symbol": "MTC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dịch Vụ Du Lịch Mỹ Trà",
+      "organ_name": "Công ty Cổ phần Dịch vụ Du lịch Mỹ Trà"
+    },
+    {
+      "symbol": "MTB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công trình đô thị tỉnh Thái Bình",
+      "organ_name": "Công ty Cổ phần Môi trường và Công trình đô thị tỉnh Thái Bình"
+    },
+    {
+      "symbol": "MTA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Khoáng sản và TM Hà Tĩnh",
+      "organ_name": "Tổng Công ty Khoáng sản và Thương mại Hà Tĩnh - Công ty Cổ phần"
+    },
+    {
+      "symbol": "MSR",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Masan High-Tech Materials",
+      "organ_name": "Công ty Cổ phần Masan High-Tech Materials"
+    },
+    {
+      "symbol": "MRF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cao su y tế MERUFA",
+      "organ_name": "Công ty Cổ phần MERUFA"
+    },
+    {
+      "symbol": "MQN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường đô thị Quảng Ngãi",
+      "organ_name": "Công ty Cổ phần Môi trường đô thị Quảng Ngãi"
+    },
+    {
+      "symbol": "MQB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường và PT đô thị Quảng Bình",
+      "organ_name": "Công ty Cổ phần Môi trường và Phát triển đô thị Quảng Bình"
+    },
+    {
+      "symbol": "MPY",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường đô thị Phú Yên",
+      "organ_name": "Công ty Cổ phần Môi trường đô thị Phú Yên"
+    },
+    {
+      "symbol": "MPT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn MPT",
+      "organ_name": "Công ty Cổ phần Tập đoàn MPT"
+    },
+    {
+      "symbol": "MPC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy sản Minh Phú",
+      "organ_name": "Công ty Cổ phần Tập đoàn Thủy sản Minh Phú"
+    },
+    {
+      "symbol": "MND",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường Nam Định",
+      "organ_name": "Công ty Cổ phần Môi trường Nam Định"
+    },
+    {
+      "symbol": "MNB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "May Nhà Bè",
+      "organ_name": "Tổng Công ty May Nhà Bè - Công ty Cổ phần"
+    },
+    {
+      "symbol": "MML",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Masan MEATLife",
+      "organ_name": "Công ty Cổ phần Masan MEATLife"
+    },
+    {
+      "symbol": "MLS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chăn nuôi Mitraco",
+      "organ_name": "Công ty Cổ phần Chăn nuôi - Mitraco"
+    },
+    {
+      "symbol": "MLC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường Đô thị Tỉnh Lào Cai",
+      "organ_name": "Công ty Cổ phần Môi trường Đô thị Tỉnh Lào Cai"
+    },
+    {
+      "symbol": "MKP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược phẩm Mekophar",
+      "organ_name": "Công ty Cổ phần Hóa - Dược phẩm Mekophar"
+    },
+    {
+      "symbol": "MIM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Khoáng sản và Cơ khí",
+      "organ_name": "Công ty Cổ phần Khoáng sản và Cơ khí"
+    },
+    {
+      "symbol": "MIE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Máy và Thiết bị Công nghiệp",
+      "organ_name": "Tổng Công ty Máy và Thiết bị Công nghiệp - CTCP"
+    },
+    {
+      "symbol": "MHL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Minh Hữu Liên",
+      "organ_name": "Công ty Cổ phần Minh Hữu Liên"
+    },
+    {
+      "symbol": "MH3",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "KCN Cao su Bình Long",
+      "organ_name": "Công ty Cổ phần Khu công nghiệp Cao su Bình Long"
+    },
+    {
+      "symbol": "MGR",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn MGROUP",
+      "organ_name": "Công ty cổ phần Tập đoàn MGROUP"
+    },
+    {
+      "symbol": "MGG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "May Đức Giang",
+      "organ_name": "Tổng Công ty Đức Giang - Công ty Cổ phần"
+    },
+    {
+      "symbol": "MGC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Địa chất mỏ - TKV",
+      "organ_name": "Công ty Cổ phần Địa chất mỏ - TKV"
+    },
+    {
+      "symbol": "MFS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Mobifone Service",
+      "organ_name": "Công ty Cổ phần Dịch vụ kỹ thuật Mobifone"
+    },
+    {
+      "symbol": "MES",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cơ điện Công trình",
+      "organ_name": "Công ty Cổ phần Cơ điện Công trình"
+    },
+    {
+      "symbol": "MEF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "MEINFA",
+      "organ_name": "Công ty Cổ phần MEINFA"
+    },
+    {
+      "symbol": "MEC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Lắp máy Sông Đà",
+      "organ_name": "Công ty Cổ phần Cơ khí - Lắp máy Sông Đà"
+    },
+    {
+      "symbol": "MDF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Gỗ MDF VRG - Quảng Trị",
+      "organ_name": "Công ty Cổ phần Gỗ MDF VRG - Quảng Trị"
+    },
+    {
+      "symbol": "MDA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường Đô thị Đông Anh",
+      "organ_name": "Công ty Cổ phần Môi trường Đô thị Đông Anh"
+    },
+    {
+      "symbol": "MCH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Hàng Tiêu Dùng MaSan",
+      "organ_name": "Công ty Cổ phần Hàng Tiêu Dùng MaSan"
+    },
+    {
+      "symbol": "MCG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Năng lượng và Bất động sản MCG",
+      "organ_name": "Công ty Cổ phần Năng lượng và Bất động sản MCG"
+    },
+    {
+      "symbol": "MBT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "BĐS cho thuê Minh Bảo Tín",
+      "organ_name": "Công ty Cổ phần Bất động sản cho thuê Minh Bảo Tín"
+    },
+    {
+      "symbol": "MBN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường và Công trình ĐT Bắc Ninh",
+      "organ_name": "Công ty Cổ phần Môi trường và Công trình đô thị Bắc Ninh"
+    },
+    {
+      "symbol": "MA1",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "MACHINCO1",
+      "organ_name": "Công ty Cổ phần Thiết bị"
+    },
+    {
+      "symbol": "M10",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "May10",
+      "organ_name": "Tổng công ty May 10 - Công ty Cổ phần"
+    },
+    {
+      "symbol": "LUT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Xây dựng Lương Tài",
+      "organ_name": "Công ty Cổ phần Đầu tư Xây dựng Lương Tài"
+    },
+    {
+      "symbol": "LTG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Lộc Trời (BVTV An Giang)",
+      "organ_name": "Công ty Cổ phần Tập đoàn Lộc Trời"
+    },
+    {
+      "symbol": "LTC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Điện nhẹ Viễn thông",
+      "organ_name": "Công ty Cổ phần Điện nhẹ Viễn Thông"
+    },
+    {
+      "symbol": "LSG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "BĐS Sài Gòn Vina",
+      "organ_name": "Công ty Cổ phần Bất động sản Sài Gòn Vi na"
+    },
+    {
+      "symbol": "LQN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Licogi Quảng Ngãi",
+      "organ_name": "Công ty Cổ phần Licogi Quảng Ngãi"
+    },
+    {
+      "symbol": "LPT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "TM và SX Lập Phương Thành",
+      "organ_name": "Công ty Cổ phần Thương mại và Sản xuất Lập Phương Thành"
+    },
+    {
+      "symbol": "LO5",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "LILAMA 5",
+      "organ_name": "Công ty Cổ phần Lilama 5"
+    },
+    {
+      "symbol": "LNC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Lệ Ninh - Quảng Bình",
+      "organ_name": "Công ty Cổ phần Lệ Ninh"
+    },
+    {
+      "symbol": "LMI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Lắp máy IDICO",
+      "organ_name": "Công ty Cổ phần Đầu tư Xây dựng Lắp máy IDICO"
+    },
+    {
+      "symbol": "LMH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Quoc te Holding",
+      "organ_name": "Công ty Cổ phần Quốc Tế Holding"
+    },
+    {
+      "symbol": "LMC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Khoáng sản LATCA",
+      "organ_name": "Công ty Cổ phần Long Beach LMC"
+    },
+    {
+      "symbol": "LM7",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "LILAMA 7",
+      "organ_name": "Công ty Cổ phần Lilama 7"
+    },
+    {
+      "symbol": "LM3",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Lilama 3",
+      "organ_name": "Công ty Cổ phần Lilama 3"
+    },
+    {
+      "symbol": "LLM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "LILAMA",
+      "organ_name": "Tổng Công ty lắp máy Việt Nam - Công ty Cổ phần"
+    },
+    {
+      "symbol": "LKW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Long Khánh",
+      "organ_name": "Công ty Cổ phần Cấp nước Long Khánh"
+    },
+    {
+      "symbol": "LIC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "LICOGI",
+      "organ_name": "Tổng Công ty LICOGI - Công ty Cổ phần"
+    },
+    {
+      "symbol": "LGM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Giày da và may mặc XK (Legamex)",
+      "organ_name": "Công ty Cổ phần Giày da và May mặc Xuất khẩu (Legamex)"
+    },
+    {
+      "symbol": "LG9",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cơ giới và XL số 9 (Licogi 9)",
+      "organ_name": "Công ty Cổ phần Cơ giới và Xây lắp số 9"
+    },
+    {
+      "symbol": "LDW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp thoát nước Lâm Đồng",
+      "organ_name": "Công ty Cổ phần Cấp thoát nước Lâm Đồng"
+    },
+    {
+      "symbol": "LCS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Licogi 16.6",
+      "organ_name": "Công ty Cổ phần Licogi 16.6"
+    },
+    {
+      "symbol": "LCM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Khoáng sản Lào Cai",
+      "organ_name": "Công ty Cổ phần Khai thác và Chế biến Khoáng sản Lào Cai"
+    },
+    {
+      "symbol": "LCC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xi măng Hồng Phong",
+      "organ_name": "Công ty Cổ phần Xi măng Hồng Phong"
+    },
+    {
+      "symbol": "LAW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp thoát nước Long An",
+      "organ_name": "Công ty Cổ phần Cấp thoát nước Long An"
+    },
+    {
+      "symbol": "LAI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XD Long An IDICO",
+      "organ_name": "Công ty Cổ phần Đầu tư Xây dựng Long An IDICO"
+    },
+    {
+      "symbol": "L63",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Lilama 69-3",
+      "organ_name": "Công ty Cổ phần Lilama 69-3"
+    },
+    {
+      "symbol": "L62",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "LILAMA 69.2",
+      "organ_name": "Công ty Cổ phần Lilama 69 - 2"
+    },
+    {
+      "symbol": "L61",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "LILAMA 69-1",
+      "organ_name": "Công ty Cổ phần Lilama 69-1"
+    },
+    {
+      "symbol": "L45",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Lilama 45.1",
+      "organ_name": "Công ty Cổ phần Lilama 45.1"
+    },
+    {
+      "symbol": "L44",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "LILAMA 45.4",
+      "organ_name": "Công ty Cổ phần Lilama 45.4"
+    },
+    {
+      "symbol": "L43",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "LILAMA 45.3",
+      "organ_name": "Công ty Cổ phần Lilama 45.3"
+    },
+    {
+      "symbol": "L35",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cơ khí Lilama",
+      "organ_name": "Công ty Cổ phần Cơ khí Lắp máy Lilama"
+    },
+    {
+      "symbol": "L12",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "LICOGI 12",
+      "organ_name": "Công ty Cổ phần Licogi 12"
+    },
+    {
+      "symbol": "KWA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp thoát nước Kiến Tường",
+      "organ_name": "Công ty Cổ phần Cấp thoát nước và Môi trường Kiến Tường"
+    },
+    {
+      "symbol": "KVC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XNK Inox Kim Vĩ",
+      "organ_name": "Công ty Cổ phần Sản xuất Xuất nhập khẩu Inox Kim Vĩ"
+    },
+    {
+      "symbol": "KTT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Đầu tư KTT",
+      "organ_name": "Công ty Cổ phần Tập đoàn Đầu tư KTT"
+    },
+    {
+      "symbol": "KTL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Kim khí Thăng Long",
+      "organ_name": "Công ty Cổ phần Kim khí Thăng Long"
+    },
+    {
+      "symbol": "KTC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thương mại Kiên Giang",
+      "organ_name": "Công ty Cổ phần Thương mại Kiên Giang"
+    },
+    {
+      "symbol": "KSH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Damac GLS",
+      "organ_name": "Công ty Cổ phần Damac GLS"
+    },
+    {
+      "symbol": "KLF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "KLF Global",
+      "organ_name": "Công ty Cổ phần Đầu tư Thương mại và Xuất nhập khẩu CFS"
+    },
+    {
+      "symbol": "KLB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "KienlongBank",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Kiên Long"
+    },
+    {
+      "symbol": "KIP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "K.I.P Việt Nam",
+      "organ_name": "Công ty Cổ phần K.I.P Việt Nam"
+    },
+    {
+      "symbol": "KHW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp thoát nước Khánh Hòa",
+      "organ_name": "Công ty Cổ phần Cấp thoát nước Khánh Hòa"
+    },
+    {
+      "symbol": "KHL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VLXD Hưng Long",
+      "organ_name": "Công ty Cổ phần Khoáng sản và Vật liệu Xây dựng Hưng Long"
+    },
+    {
+      "symbol": "KHD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Khoáng sản Hải Dương",
+      "organ_name": "Công ty Cổ phần Khai thác, Chế biến Khoáng sản Hải Dương"
+    },
+    {
+      "symbol": "KGM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XNK Kiên Giang",
+      "organ_name": "Công ty Cổ phần Xuất nhập khẩu Kiên Giang"
+    },
+    {
+      "symbol": "KCE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bê tông Ly tâm ĐL Khánh Hòa",
+      "organ_name": "Công ty Cổ phần Bê tông Ly tâm Điện lực Khánh Hòa"
+    },
+    {
+      "symbol": "KCB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Khoáng Sản Luyện Kim Cao Bằng",
+      "organ_name": "Công ty Cổ phần Khoáng Sản và Luyện Kim Cao Bằng"
+    },
+    {
+      "symbol": "KAC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Địa ốc Khang An",
+      "organ_name": "Công ty Cổ phần Đầu tư Địa ốc Khang An"
+    },
+    {
+      "symbol": "JOS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy sản Minh Hải",
+      "organ_name": "Công ty Cổ phần Chế biến Thủy sản Xuất khẩu Minh Hải"
+    },
+    {
+      "symbol": "ITS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thương mại và DV - Vinacomin",
+      "organ_name": "Công ty Cổ phần Đầu tư, Thương mại và Dịch vụ - Vinacomin"
+    },
+    {
+      "symbol": "ITA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư CN Tân Tạo",
+      "organ_name": "Công ty Cổ phần Đầu tư và Công nghiệp Tân Tạo"
+    },
+    {
+      "symbol": "IST",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "ICD Tân Cảng Sóng Thần",
+      "organ_name": "Công ty Cổ phần ICD Tân Cảng Sóng Thần"
+    },
+    {
+      "symbol": "ISH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy điện Srok Phu Miêng",
+      "organ_name": "Công ty Cổ phần Thủy điện Srok Phu Miêng IDICO"
+    },
+    {
+      "symbol": "ISG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải biển và Hợp tác LĐ Quốc Tế",
+      "organ_name": "Công ty Cổ phần Vận tải biển và Hợp tác lao động Quốc Tế"
+    },
+    {
+      "symbol": "IRC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cao su Công nghiệp",
+      "organ_name": "Công ty Cổ phần Cao su Công nghiệp"
+    },
+    {
+      "symbol": "ING",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu Tư Và Pt Xây Dựng",
+      "organ_name": "Công ty Cổ phần Đầu Tư Và Phát Triển Xây Dựng"
+    },
+    {
+      "symbol": "IN4",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "In số 4",
+      "organ_name": "Công ty Cổ phần In số 4"
+    },
+    {
+      "symbol": "IME",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây lắp Công nghiệp",
+      "organ_name": "Công ty Cổ phần Cơ khí và Xây lắp Công nghiệp"
+    },
+    {
+      "symbol": "ILS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "TM và Dịch vụ Quốc tế",
+      "organ_name": "Công ty Cổ phần Đầu tư Thương mại và Dịch vụ Quốc tế"
+    },
+    {
+      "symbol": "ILC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Hợp tác lao động với nước ngoài",
+      "organ_name": "Công ty Cổ phần Hợp tác lao động với nước ngoài"
+    },
+    {
+      "symbol": "ILA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công ty ILA",
+      "organ_name": "Công ty Cổ phần ILA"
+    },
+    {
+      "symbol": "IHK",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "In Hàng Không",
+      "organ_name": "Công ty Cổ phần In Hàng Không"
+    },
+    {
+      "symbol": "IFS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thực phẩm Quốc tế",
+      "organ_name": "Công ty Cổ phần Thực phẩm Quốc tế"
+    },
+    {
+      "symbol": "IDP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sữa Quốc tế LOF",
+      "organ_name": "Công ty Cổ phần Sữa Quốc tế LOF"
+    },
+    {
+      "symbol": "ICN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XD Dầu Khí IDICO",
+      "organ_name": "Công ty Cổ phần Đầu tư Xây dựng Dầu khí IDICO"
+    },
+    {
+      "symbol": "ICI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư và XD Công nghiệp",
+      "organ_name": "Công ty Cổ phần Đầu tư và Xây dựng Công nghiệp"
+    },
+    {
+      "symbol": "ICF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "ĐT TM Thủy sản",
+      "organ_name": "Công ty Cổ phần Đầu tư - Thương mại - Thuỷ sản"
+    },
+    {
+      "symbol": "ICC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng công nghiệp",
+      "organ_name": "Công ty Cổ phần Xây dựng công nghiệp"
+    },
+    {
+      "symbol": "IBD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "In Tổng hợp Bình Dương",
+      "organ_name": "Công ty Cổ phần In Tổng hợp Bình Dương"
+    },
+    {
+      "symbol": "IBC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư APAX Holdings",
+      "organ_name": "Công ty Cổ phần Đầu tư APAX Holdings"
+    },
+    {
+      "symbol": "HWS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Huế",
+      "organ_name": "Công ty Cổ phần Cấp nước Huế"
+    },
+    {
+      "symbol": "HVG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy sản Hùng Vương",
+      "organ_name": "Công ty Cổ phần Hùng Vương"
+    },
+    {
+      "symbol": "HVA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư HVA",
+      "organ_name": "Công ty Cổ phần Đầu tư HVA"
+    },
+    {
+      "symbol": "HUG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "May Hưng Yên",
+      "organ_name": "Tổng công ty May Hưng Yên - Công ty Cổ phần"
+    },
+    {
+      "symbol": "HU6",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "PT Nhà và Đô thị HUD6",
+      "organ_name": "Công ty Cổ phần Đầu tư Phát triển Nhà và Đô thị HUD6"
+    },
+    {
+      "symbol": "HU4",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư và Xây dựng HUD4",
+      "organ_name": "Công ty Cổ phần Đầu tư và Xây dựng HUD4"
+    },
+    {
+      "symbol": "HU3",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng HUD3",
+      "organ_name": "Công ty Cổ phần Đầu tư và Xây dựng HUD3"
+    },
+    {
+      "symbol": "HTT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thương mại Hà Tây",
+      "organ_name": "Công ty Cổ phần Thương mại Hà Tây"
+    },
+    {
+      "symbol": "HTP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "In SGK Hòa Phát",
+      "organ_name": "Công ty Cổ phần In Sách Giáo Khoa Hòa Phát"
+    },
+    {
+      "symbol": "HTM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thương mại Hà Nội - Hapro",
+      "organ_name": "Tổng Công ty Thương mại Hà Nội – Công ty cổ phần"
+    },
+    {
+      "symbol": "HTE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Kinh doanh điện lực TP HCM",
+      "organ_name": "Công ty Cổ phần Đầu tư Kinh doanh Điện lực Thành phố Hồ Chí Minh"
+    },
+    {
+      "symbol": "HSV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Gang Thép Hà Nội",
+      "organ_name": "Công ty Cổ phần Tập đoàn HSV Việt Nam"
+    },
+    {
+      "symbol": "HSP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sơn Tổng hợp Hà Nội",
+      "organ_name": "Công ty Cổ phần Sơn Tổng hợp Hà Nội"
+    },
+    {
+      "symbol": "HSM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "HANOSIMEX",
+      "organ_name": "Tổng Công ty Cổ phần Dệt May Hà Nội"
+    },
+    {
+      "symbol": "HSI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Phân bón Hóa sinh",
+      "organ_name": "Công ty Cổ phần Vật tư Tổng hợp và Phân bón Hóa sinh"
+    },
+    {
+      "symbol": "HSA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "HESTIA",
+      "organ_name": "Công ty Cổ phần HESTIA"
+    },
+    {
+      "symbol": "HRB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Harec Đầu tư và Thương Mại",
+      "organ_name": "Công ty Cổ phần Harec Đầu tư và Thương Mại"
+    },
+    {
+      "symbol": "HPW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Hải Phòng",
+      "organ_name": "Công ty Cổ phần Cấp nước Hải Phòng"
+    },
+    {
+      "symbol": "HPT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "DV Công nghệ Tin học HPT",
+      "organ_name": "Công ty Cổ phần Dịch vụ Công nghệ Tin học HPT"
+    },
+    {
+      "symbol": "HPP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sơn Hải Phòng",
+      "organ_name": "Công ty Cổ phần Sơn Hải Phòng"
+    },
+    {
+      "symbol": "HPM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Khoáng sản Hoàng Phúc",
+      "organ_name": "Công ty Cổ phần Xây dựng Thương mại và Khoáng sản Hoàng Phúc"
+    },
+    {
+      "symbol": "HPI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Khu công nghiệp Hiệp Phước",
+      "organ_name": "Công ty Cổ phần Khu công nghiệp Hiệp Phước"
+    },
+    {
+      "symbol": "HPH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Hóa Chất Hưng Phát Hà Bắc",
+      "organ_name": "Công ty Cổ phần Hóa Chất Hưng Phát Hà Bắc"
+    },
+    {
+      "symbol": "HPD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy điện Đăk Đoa",
+      "organ_name": "Công ty Cổ phần Thủy điện Đăk Đoa"
+    },
+    {
+      "symbol": "HPB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bao bì PP",
+      "organ_name": "Công ty Cổ phần Bao bì PP"
+    },
+    {
+      "symbol": "HOT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Du lịch - DV Hội An",
+      "organ_name": "Công ty Cổ phần Du lịch - Dịch vụ Hội An"
+    },
+    {
+      "symbol": "HNR",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cồn Rượu và Nước Giải Khát Hà Nội",
+      "organ_name": "Công ty Cổ phần Rượu và Nước Giải Khát Hà Nội"
+    },
+    {
+      "symbol": "HNP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Hanel Xốp Nhựa",
+      "organ_name": "Công ty Cổ phần Hanel Xốp Nhựa"
+    },
+    {
+      "symbol": "HNM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "HANOIMILK",
+      "organ_name": "Công ty Cổ phần Sữa Hà Nội"
+    },
+    {
+      "symbol": "HNI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "May Hữu Nghị",
+      "organ_name": "Công ty Cổ phần May Hữu Nghị"
+    },
+    {
+      "symbol": "HNG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nông nghiệp Quốc tế HAGL",
+      "organ_name": "Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai"
+    },
+    {
+      "symbol": "HNF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bánh kẹo Hữu Nghị",
+      "organ_name": "Công ty Cổ phần Thực phẩm Hữu Nghị"
+    },
+    {
+      "symbol": "HND",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nhiệt điện Hải Phòng",
+      "organ_name": "Công ty Cổ phần Nhiệt điện Hải Phòng"
+    },
+    {
+      "symbol": "HNB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bến xe Hà Nội",
+      "organ_name": "Công ty Cổ phần Bến xe Hà Nội"
+    },
+    {
+      "symbol": "HMS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XD Bảo tàng Hồ Chí Minh",
+      "organ_name": "Công ty Cổ phần Xây dựng Bảo tàng Hồ Chí Minh"
+    },
+    {
+      "symbol": "HMG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Kim Khí Hà Nội",
+      "organ_name": "Công ty Cổ phần Kim Khí Hà Nội - VNSTEEL"
+    },
+    {
+      "symbol": "HMD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Minh Duccsco",
+      "organ_name": "Công ty Cổ phần Hóa chất Minh Đức"
+    },
+    {
+      "symbol": "HLY",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Gốm Xây Dựng Yên Hưng",
+      "organ_name": "Công ty Cổ phần Gốm xây dựng Yên Hưng"
+    },
+    {
+      "symbol": "HLT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dệt may Hoàng Thị Loan",
+      "organ_name": "Công ty Cổ phần Dệt may Hoàng Thị Loan"
+    },
+    {
+      "symbol": "HLS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Sứ Hoàng Liên Sơn",
+      "organ_name": "Công ty Cổ phần Sứ kỹ thuật Hoàng Liên Sơn"
+    },
+    {
+      "symbol": "HLO",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công Nghệ Ha Lô",
+      "organ_name": "Công Ty Cổ Phần Công Nghệ Ha Lô"
+    },
+    {
+      "symbol": "HLB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bia và NGK Hạ Long",
+      "organ_name": "Công ty Cổ phần Bia và Nước giải khát Hạ Long"
+    },
+    {
+      "symbol": "HLA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Hữu Liên Á Châu",
+      "organ_name": "Công ty Cổ phần Hữu Liên Á Châu"
+    },
+    {
+      "symbol": "HKB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thực phẩm Hà Nội - Kinh Bắc",
+      "organ_name": "Công ty Cổ phần Nông nghiệp và Thực phẩm Hà Nội - Kinh Bắc"
+    },
+    {
+      "symbol": "HJC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công ty Cổ phần Hoà Việt",
+      "organ_name": "Công ty Cổ phần Hoà Việt"
+    },
+    {
+      "symbol": "HIO",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Helio Energy",
+      "organ_name": "Công ty Cổ Phần Helio Energy"
+    },
+    {
+      "symbol": "HIG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn HIPT",
+      "organ_name": "Công ty Cổ phần Tập đoàn HIPT"
+    },
+    {
+      "symbol": "HHN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải và DV Hàng hóa Hà Nội",
+      "organ_name": "Công ty Cổ phần Vận tải và Dịch vụ Hàng hóa Hà Nội"
+    },
+    {
+      "symbol": "HHG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải Hoàng Hà",
+      "organ_name": "Công ty Cổ phần Hoàng Hà"
+    },
+    {
+      "symbol": "HGT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Du lịch Hương Giang",
+      "organ_name": "Công ty Cổ phần Du lịch Hương Giang"
+    },
+    {
+      "symbol": "HFX",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XNK Thanh Hà",
+      "organ_name": "Công ty Cổ phần Sản xuất - Xuất nhập khẩu Thanh Hà"
+    },
+    {
+      "symbol": "HFC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xăng dầu HFC",
+      "organ_name": "Công ty Cổ phần Xăng dầu HFC"
+    },
+    {
+      "symbol": "HFB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công trình Cầu phà TP HCM",
+      "organ_name": "Công ty Cổ phần Công trình Cầu phà Thành phố Hồ Chí Minh"
+    },
+    {
+      "symbol": "HES",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dịch vụ Giải trí Hà Nội",
+      "organ_name": "Công ty Cổ phần Dịch vụ Giải trí Hà Nội"
+    },
+    {
+      "symbol": "HEP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường và Công trình đô thị Huế",
+      "organ_name": "Công ty Cổ phần Môi trường và Công trình đô thị Huế"
+    },
+    {
+      "symbol": "HEJ",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tư vấn Xây dựng Thủy Lợi VN",
+      "organ_name": "Tổng Công ty Tư vấn Xây dựng Thủy Lợi Việt Nam - CTCP"
+    },
+    {
+      "symbol": "HEC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tư vấn XD Thủy Lợi II (HEC II)",
+      "organ_name": "Công ty Cổ phần Tư vấn xây dựng Thủy Lợi II"
+    },
+    {
+      "symbol": "HDW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nước sạch Hải Dương",
+      "organ_name": "Công ty Cổ phần Kinh doanh Nước sạch Hải Dương"
+    },
+    {
+      "symbol": "HDS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Giống cây trồng Hải Dương",
+      "organ_name": "Công ty Cổ phần Giống cây trồng Hải Dương"
+    },
+    {
+      "symbol": "HDP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược Hà Tĩnh",
+      "organ_name": "Công ty Cổ phần Dược Hà Tĩnh"
+    },
+    {
+      "symbol": "HDO",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Hưng Đạo Container",
+      "organ_name": "Công ty Cổ phần Hưng Đạo Container"
+    },
+    {
+      "symbol": "HDM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dệt May Huế",
+      "organ_name": "Công ty Cổ phần Dệt May Huế"
+    },
+    {
+      "symbol": "HD8",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "PT Nhà và Đô thị HUD8",
+      "organ_name": "Công ty Cổ phần Đầu tư Phát triển Nhà và Đô thị HUD8"
+    },
+    {
+      "symbol": "HD6",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Phát triển nhà số 6 Hà Nội",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển nhà số 6 Hà Nội"
+    },
+    {
+      "symbol": "HD2",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư phát triển nhà HUD 2",
+      "organ_name": "Công ty Cổ phần Đầu tư phát triển nhà HUD2"
+    },
+    {
+      "symbol": "HCI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư - XD Hà Nội",
+      "organ_name": "Công ty Cổ phần Đầu tư - Xây dựng Hà Nội"
+    },
+    {
+      "symbol": "HCB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dệt may 29/3",
+      "organ_name": "Công ty Cổ phần Dệt may 29/3"
+    },
+    {
+      "symbol": "HC3",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng số 3 Hải Phòng",
+      "organ_name": "Công ty Cổ phần Xây dựng số 3 Hải Phòng"
+    },
+    {
+      "symbol": "HC1",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng số 1 Hà Nội",
+      "organ_name": "Công ty Cổ phần Xây dựng số 1 Hà Nội"
+    },
+    {
+      "symbol": "HBH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "HABECO Hải Phòng",
+      "organ_name": "Công ty Cổ phần HABECO - Hải Phòng"
+    },
+    {
+      "symbol": "HBD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bao bì PP Bình Dương",
+      "organ_name": "Công ty Cổ phần Bao bì PP Bình Dương"
+    },
+    {
+      "symbol": "HBC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Xây dựng Hòa Bình",
+      "organ_name": "Công ty Cổ phần Tập đoàn Xây dựng Hòa Bình"
+    },
+    {
+      "symbol": "HAV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Rượu Hapro",
+      "organ_name": "Công ty Cổ phần Rượu Hapro"
+    },
+    {
+      "symbol": "HAN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng Hà Nội",
+      "organ_name": "Tổng Công ty Xây dựng Hà Nội - CTCP"
+    },
+    {
+      "symbol": "HAM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vật tư Hậu Giang",
+      "organ_name": "Công ty Cổ phần Vật tư Hậu Giang"
+    },
+    {
+      "symbol": "HAI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nông Dược HAI",
+      "organ_name": "Công ty Cổ phần Nông dược HAI"
+    },
+    {
+      "symbol": "HAF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thực phẩm Hà Nội",
+      "organ_name": "Công ty Cổ phần Thực phẩm Hà Nội"
+    },
+    {
+      "symbol": "HAC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán Hải Phòng",
+      "organ_name": "Công ty Cổ phần Chứng khoán Hải Phòng"
+    },
+    {
+      "symbol": "H11",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng HUD101",
+      "organ_name": "Công ty Cổ phần Xây dựng HUD101"
+    },
+    {
+      "symbol": "GVT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Giấy Việt Trì",
+      "organ_name": "Công ty Cổ phần Giấy Việt Trì"
+    },
+    {
+      "symbol": "GTT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thuận Thảo Group",
+      "organ_name": "Công ty Cổ phần Thuận Thảo"
+    },
+    {
+      "symbol": "GTS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công trình Giao thông Sài Gòn",
+      "organ_name": "Công ty Cổ phần Công trình Giao thông Sài Gòn"
+    },
+    {
+      "symbol": "GTD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Giầy Thượng Đình",
+      "organ_name": "Công ty Cổ phần Giầy Thượng Đình"
+    },
+    {
+      "symbol": "GSM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy điện Hương Sơn",
+      "organ_name": "Công ty Cổ phần Thủy điện Hương Sơn"
+    },
+    {
+      "symbol": "GPC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Green+",
+      "organ_name": "Công ty Cổ phần Tập đoàn Green+"
+    },
+    {
+      "symbol": "GND",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Gạch ngói Đồng Nai",
+      "organ_name": "Công ty Cổ phần Gạch ngói Đồng Nai"
+    },
+    {
+      "symbol": "GMC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Garmex Sài Gòn",
+      "organ_name": "Công ty Cổ phần Garmex Sài Gòn"
+    },
+    {
+      "symbol": "GLW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp thoát nước Gia Lai",
+      "organ_name": "Công ty Cổ phần Cấp thoát nước Gia Lai"
+    },
+    {
+      "symbol": "GLC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vàng Lào Cai",
+      "organ_name": "Công ty Cổ phần Vàng Lào Cai"
+    },
+    {
+      "symbol": "GHC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy điện Gia Lai",
+      "organ_name": "Công ty Cổ phần Thủy điện Gia Lai"
+    },
+    {
+      "symbol": "GH3",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công trình giao thông Hà Nội",
+      "organ_name": "Công ty Cổ phần Công trình giao thông Hà Nội"
+    },
+    {
+      "symbol": "GGG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Ôtô Giải Phóng",
+      "organ_name": "Công ty Cổ phần Ô tô Giải Phóng"
+    },
+    {
+      "symbol": "GER",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thể thao Ngôi sao Geru",
+      "organ_name": "Công ty Cổ phần Thể thao Ngôi sao Geru"
+    },
+    {
+      "symbol": "GDA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tôn Đông Á",
+      "organ_name": "Công ty Cổ phần Tôn Đông Á"
+    },
+    {
+      "symbol": "GCF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thực phẩm G.C",
+      "organ_name": "Công ty Cổ phần Thực phẩm G.C"
+    },
+    {
+      "symbol": "GCB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "PETEC Bình Định",
+      "organ_name": "Công ty Cổ phần PETEC Bình Định"
+    },
+    {
+      "symbol": "GAB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "ĐT Khai khoáng và QL Tài sản FLC",
+      "organ_name": "Công ty Cổ phần Đầu tư Khai khoáng & Quản lý Tài sản FLC"
+    },
+    {
+      "symbol": "G36",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tổng Công ty 36",
+      "organ_name": "Tổng Công ty 36 - Công ty Cổ phần"
+    },
+    {
+      "symbol": "G20",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Dệt may Vĩnh Phúc",
+      "organ_name": "Công ty Cổ phần Đầu tư Dệt may Vĩnh Phúc"
+    },
+    {
+      "symbol": "FTM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Phát triển Đức Quân",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển Đức Quân"
+    },
+    {
+      "symbol": "FTI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công nghiệp - Thương mại Hữu Nghị",
+      "organ_name": "Công ty Cổ phần Công nghiệp - Thương mại Hữu Nghị"
+    },
+    {
+      "symbol": "FT1",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Phụ tùng máy số 1",
+      "organ_name": "Công ty Cổ phần Phụ tùng máy số 1"
+    },
+    {
+      "symbol": "FSO",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đóng tàu thủy sản VN",
+      "organ_name": "Công ty Cổ phần Cơ khí đóng tàu thủy sản Việt Nam"
+    },
+    {
+      "symbol": "FRM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Lâm nghiệp Sài Gòn",
+      "organ_name": "Công ty Cổ phần Lâm nghiệp Sài Gòn"
+    },
+    {
+      "symbol": "FRC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Lâm đặc sản xuất khẩu Quảng Nam",
+      "organ_name": "Công ty Cổ phần Lâm đặc sản xuất khẩu Quảng Nam"
+    },
+    {
+      "symbol": "FOX",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "FPT Telecom",
+      "organ_name": "Công ty Cổ phần Viễn thông FPT"
+    },
+    {
+      "symbol": "FOC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "FPT Online",
+      "organ_name": "Công ty Cổ phần Dịch vụ Trực tuyến FPT"
+    },
+    {
+      "symbol": "FLC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn FLC",
+      "organ_name": "Công ty Cổ phần Tập đoàn FLC"
+    },
+    {
+      "symbol": "FIC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VLXD số 1",
+      "organ_name": "Tổng Công ty Vật liệu Xây dựng số 1 - Công ty Cổ phần"
+    },
+    {
+      "symbol": "FHS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Phát hành sách TP HCM - FAHASA",
+      "organ_name": "Công ty Cổ phần Phát hành sách Thành phố Hồ Chí Minh - FAHASA"
+    },
+    {
+      "symbol": "FHN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XNK lương thực Hà Nội",
+      "organ_name": "Công ty Cổ phần Xuất nhập khẩu Lương thực - Thực phẩm Hà Nội"
+    },
+    {
+      "symbol": "FGL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cà Phê Gia Lai",
+      "organ_name": "Công ty Cổ phần Cà phê Gia Lai"
+    },
+    {
+      "symbol": "FCS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Lương thực TP Hồ Chí Minh",
+      "organ_name": "Công ty Cổ phần Lương thực Thành phố Hồ Chí Minh"
+    },
+    {
+      "symbol": "FCC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Liên hợp Thực phẩm",
+      "organ_name": "Công ty Cổ phần Liên hợp Thực phẩm"
+    },
+    {
+      "symbol": "FBC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cơ khí Phổ Yên",
+      "organ_name": "Công ty Cổ phần Cơ khí Phổ Yên"
+    },
+    {
+      "symbol": "FBA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Quốc tế FBA",
+      "organ_name": "Công ty Cổ phần Tập đoàn Quốc tế FBA"
+    },
+    {
+      "symbol": "EPH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xuất bản giáo dục Hà Nội",
+      "organ_name": "Công ty Cổ phần Dịch vụ Xuất bản Giáo dục Hà Nội"
+    },
+    {
+      "symbol": "EPC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cà Phê Ea Pốk",
+      "organ_name": "Công ty Cổ phần Cà Phê Ea Pốk"
+    },
+    {
+      "symbol": "EMS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chuyển phát nhanh Bưu điện",
+      "organ_name": "Tổng Công ty Chuyển phát nhanh Bưu điện - Công ty Cổ phần"
+    },
+    {
+      "symbol": "EMG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thiết bị phụ tùng cơ điện",
+      "organ_name": "Công ty Cổ phần Thiết bị Phụ tùng Cơ điện"
+    },
+    {
+      "symbol": "EME",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Điện Cơ",
+      "organ_name": "Công ty Cổ phần Điện Cơ"
+    },
+    {
+      "symbol": "EIN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư - TM - DV Điện lực",
+      "organ_name": "Công ty Cổ phần Đầu tư - Thương Mại - Dịch vụ Điện lực"
+    },
+    {
+      "symbol": "EIC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "EVN Quốc Tế",
+      "organ_name": "Công ty Cổ phần EVN Quốc Tế"
+    },
+    {
+      "symbol": "EFI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tài chính giáo dục",
+      "organ_name": "Công ty Cổ phần Đầu tư Tài chính Giáo dục"
+    },
+    {
+      "symbol": "ECO",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Ecoplastic VN",
+      "organ_name": "Công ty Cổ Phần Nhựa Sinh Thái Việt Nam"
+    },
+    {
+      "symbol": "E29",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư XD và Kỹ thuật 29",
+      "organ_name": "Công ty cổ phần Đầu tư Xây dựng và Kỹ thuật 29"
+    },
+    {
+      "symbol": "E12",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XD Điện VNECO 12",
+      "organ_name": "Công ty Cổ phần Xây Dựng Điện VNECO 12"
+    },
+    {
+      "symbol": "DZM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cơ điện Dzĩ An",
+      "organ_name": "Công ty Cổ phần Cơ điện Dzĩ An"
+    },
+    {
+      "symbol": "DXL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Du lịch và Xuất nhập khẩu Lạng Sơn",
+      "organ_name": "Công ty Cổ phần Du lịch và Xuất nhập khẩu Lạng Sơn"
+    },
+    {
+      "symbol": "DWS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Đồng Tháp",
+      "organ_name": "Công ty Cổ phần Cấp nước và Môi trường Đô thị Đồng Tháp"
+    },
+    {
+      "symbol": "DWC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Đắk Lắk",
+      "organ_name": "Công ty Cổ phần Cấp nước Đắk Lắk"
+    },
+    {
+      "symbol": "DVW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "DV và XD cấp nước Đồng Nai",
+      "organ_name": "Công ty Cổ phần Dịch vụ và Xây dựng cấp nước Đồng Nai"
+    },
+    {
+      "symbol": "DVN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tổng Công ty Dược Việt Nam",
+      "organ_name": "Tổng Công ty Dược Việt Nam - CTCP"
+    },
+    {
+      "symbol": "DVG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Sơn Đại Việt",
+      "organ_name": "Công ty Cổ phần Đại Việt Group DVG"
+    },
+    {
+      "symbol": "DVC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "TM dịch vụ Cảng Hải Phòng",
+      "organ_name": "Công ty Cổ phần Thương mại dịch vụ Tổng Hợp Cảng Hải Phòng"
+    },
+    {
+      "symbol": "DUS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dịch vụ Đô thị Đà Lạt",
+      "organ_name": "Công ty Cổ phần Dịch vụ Đô thị Đà Lạt"
+    },
+    {
+      "symbol": "DTP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược phẩm CPC1 Hà Nội",
+      "organ_name": "Công ty Cổ phần Dược phẩm CPC1 Hà Nội"
+    },
+    {
+      "symbol": "DTI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Đức Trung",
+      "organ_name": "Công ty Cổ phần Đầu tư Đức Trung"
+    },
+    {
+      "symbol": "DTH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vật tư Y tế Thanh Hóa",
+      "organ_name": "Công ty Cổ phần Dược - Vật tư Y tế Thanh Hóa"
+    },
+    {
+      "symbol": "DTE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đại Trường Thành Holdings",
+      "organ_name": "Công ty Cổ phần Đầu tư Năng lượng Đại Trường Thành Holdings"
+    },
+    {
+      "symbol": "DTC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Viglacera Đông Triều",
+      "organ_name": "Công ty Cổ phần Viglacera Đông Triều"
+    },
+    {
+      "symbol": "DTB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công trình Đô thị Bảo Lộc",
+      "organ_name": "Công ty Cổ phần Công trình Đô thị Bảo Lộc"
+    },
+    {
+      "symbol": "DSP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dịch vụ Du lịch Phú Thọ",
+      "organ_name": "Công ty Cổ phần Dịch vụ Du lịch Phú Thọ"
+    },
+    {
+      "symbol": "DSG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Kính Đáp Cầu",
+      "organ_name": "Công ty Cổ phần Kính Đáp Cầu"
+    },
+    {
+      "symbol": "DSD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "DHC Suối Đôi",
+      "organ_name": "Công ty cổ phần DHC Suối Đôi"
+    },
+    {
+      "symbol": "DRI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Cao su Đắk Lắk",
+      "organ_name": "Công ty Cổ phần Đầu tư Cao su Đắk Lắk"
+    },
+    {
+      "symbol": "DRG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cao su Đắk Lắk",
+      "organ_name": "Công ty Cổ phần Cao su Đắk Lắk"
+    },
+    {
+      "symbol": "DPS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Phát triển Sóc Sơn",
+      "organ_name": "Công ty Cổ phần Đầu tư Phát triển Sóc Sơn"
+    },
+    {
+      "symbol": "DPP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược Đồng Nai",
+      "organ_name": "Công ty Cổ phần Dược Đồng Nai"
+    },
+    {
+      "symbol": "DPH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược phẩm Hải Phòng",
+      "organ_name": "Công ty Cổ phần Dược phẩm Hải Phòng"
+    },
+    {
+      "symbol": "DPC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nhựa Đà Nẵng",
+      "organ_name": "Công ty Cổ phần Nhựa Đà Nẵng"
+    },
+    {
+      "symbol": "DP2",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược phẩm TW 2",
+      "organ_name": "Công ty Cổ phần Dược phẩm Trung ương 2"
+    },
+    {
+      "symbol": "DP1",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược phẩm Trung ương CPC1",
+      "organ_name": "Công ty Cổ phần Dược phẩm Trung ương CPC1"
+    },
+    {
+      "symbol": "DOP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vận tải XD Đồng Tháp",
+      "organ_name": "Công ty Cổ phần Vận tải Xăng dầu Đồng Tháp"
+    },
+    {
+      "symbol": "DOC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vật tư nông nghiệp Đồng Nai",
+      "organ_name": "Công ty Cổ phần Vật tư nông nghiệp Đồng Nai"
+    },
+    {
+      "symbol": "DNW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Đồng Nai",
+      "organ_name": "Công ty Cổ phần Cấp nước Đồng Nai"
+    },
+    {
+      "symbol": "DNT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Du lịch Đồng Nai",
+      "organ_name": "Công ty Cổ phần Du lịch Đồng Nai"
+    },
+    {
+      "symbol": "DNN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Đà Nẵng",
+      "organ_name": "Công ty Cổ phần Cấp nước Đà Nẵng"
+    },
+    {
+      "symbol": "DNM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Y tế Danameco",
+      "organ_name": "Tổng Công ty Cổ phần Y tế Danameco"
+    },
+    {
+      "symbol": "DNL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Logistics Cảng Đà Nẵng",
+      "organ_name": "Công ty Cổ phần Logistics Cảng Đà Nẵng"
+    },
+    {
+      "symbol": "DNH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy điện Đa Nhim-Hàm Thuận-Đa Mi",
+      "organ_name": "Công ty Cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi"
+    },
+    {
+      "symbol": "DNE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường Đô thị Đà Nẵng",
+      "organ_name": "Công ty Cổ phần Môi trường Đô thị Đà Nẵng"
+    },
+    {
+      "symbol": "DND",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XD và Vật liệu Đồng Nai",
+      "organ_name": "Công ty Cổ phần Đầu tư Xây dựng và Vật liệu Đồng Nai"
+    },
+    {
+      "symbol": "DNA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Điện nước An Giang",
+      "organ_name": "Công ty Cổ phần Điện nước An Giang"
+    },
+    {
+      "symbol": "DMS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dầu khí DMC-miền Nam",
+      "organ_name": "Công ty Cổ phần Hóa phẩm dầu khí DMC - Miền Nam"
+    },
+    {
+      "symbol": "DMN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Domenal",
+      "organ_name": "Công ty Cổ phần Domenal"
+    },
+    {
+      "symbol": "DM7",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dệt may 7",
+      "organ_name": "Công ty Cổ phần Dệt may 7"
+    },
+    {
+      "symbol": "DLT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Du lịch và TM - Vinacomin",
+      "organ_name": "Công ty Cổ phần Du lịch và Thương mại - Vinacomin"
+    },
+    {
+      "symbol": "DLR",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Địa ốc Đà Lạt",
+      "organ_name": "Công ty Cổ phần Địa ốc Đà Lạt"
+    },
+    {
+      "symbol": "DLD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Du lịch Đắk Lắk",
+      "organ_name": "Công ty Cổ phần Du lịch Đắk Lắk"
+    },
+    {
+      "symbol": "DKW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước sinh hoạt Châu Thành",
+      "organ_name": "Công ty Cổ phần Cấp nước sinh hoạt Châu Thành"
+    },
+    {
+      "symbol": "DKC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chợ Lạng Sơn",
+      "organ_name": "Công ty Cổ phần Chợ Lạng Sơn"
+    },
+    {
+      "symbol": "DID",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "DIC - Đồng Tiến",
+      "organ_name": "Công ty Cổ phần DIC - Đồng Tiến"
+    },
+    {
+      "symbol": "DIC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "ĐT và TM DIC",
+      "organ_name": "Công ty Cổ phần Đầu tư và Thương mại DIC"
+    },
+    {
+      "symbol": "DHN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược Hà Nội",
+      "organ_name": "Công ty Cổ phần Dược phẩm Hà Nội"
+    },
+    {
+      "symbol": "DHD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược Vật Tư Y Tế Hải Dương",
+      "organ_name": "Công ty Cổ phần Dược Vật Tư Y Tế Hải Dương"
+    },
+    {
+      "symbol": "DHB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đạm Hà Bắc",
+      "organ_name": "Công ty Cổ phần Phân đạm và Hóa chất Hà Bắc"
+    },
+    {
+      "symbol": "DGT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công trình GT Đồng Nai",
+      "organ_name": "Công ty Cổ phần Công trình Giao thông Đồng Nai"
+    },
+    {
+      "symbol": "DFF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Đua Fat",
+      "organ_name": "Công ty Cổ phần Tập đoàn Đua Fat"
+    },
+    {
+      "symbol": "DFC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xích líp Đông Anh",
+      "organ_name": "Công ty Cổ phần Xích líp Đông Anh"
+    },
+    {
+      "symbol": "DDV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "DAP - Vinachem",
+      "organ_name": "Công ty Cổ phần DAP - Vinachem"
+    },
+    {
+      "symbol": "DDN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược - TB Y tế Đà Nẵng",
+      "organ_name": "Công ty Cổ phần Dược - Thiết bị y tế Đà Nẵng"
+    },
+    {
+      "symbol": "DDM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Hàng hải Đông Đô",
+      "organ_name": "Công ty Cổ phần Hàng hải Đông Đô"
+    },
+    {
+      "symbol": "DDH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đảm bảo GTĐT Hải Phòng",
+      "organ_name": "Công ty Cổ phần Đảm bảo giao thông đường thủy Hải Phòng"
+    },
+    {
+      "symbol": "DDB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "TM & XD Đông Dương",
+      "organ_name": "Công ty Cổ Phần Thương Mại Và Xây Dựng Đông Dương"
+    },
+    {
+      "symbol": "DCT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tấm lợp VLXD Đồng Nai",
+      "organ_name": "Công ty Cổ phần Tấm lợp Vật liệu Xây dựng Đồng Nai"
+    },
+    {
+      "symbol": "DCS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đại Châu",
+      "organ_name": "Công ty Cổ phần Tập đoàn Đại Châu"
+    },
+    {
+      "symbol": "DCR",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Gạch men COSEVCO",
+      "organ_name": "Công ty Cổ phần Gạch men COSEVCO"
+    },
+    {
+      "symbol": "DCH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Địa chính Hà Nội",
+      "organ_name": "Công ty Cổ phần Địa chính Hà Nội"
+    },
+    {
+      "symbol": "DCG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "May Đáp Cầu",
+      "organ_name": "Công ty Cổ phần Tổng Công ty May Đáp Cầu"
+    },
+    {
+      "symbol": "DCF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XD và Thiết kế số 1",
+      "organ_name": "Công ty Cổ phần Xây dựng và Thiết kế số 1"
+    },
+    {
+      "symbol": "DC1",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Phát triển Xây dựng số 1 (DIC1)",
+      "organ_name": "Công ty Cổ phần Đầu tư Phát triển Xây dựng số 1"
+    },
+    {
+      "symbol": "DBM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "BAMEPHARM",
+      "organ_name": "Công ty Cổ phần Dược - Vật tư Y tế Đắk Lắk"
+    },
+    {
+      "symbol": "DAS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thiết bị Dầu khí Đà Nẵng",
+      "organ_name": "Công ty Cổ phần Máy - Thiết bị Dầu khí Đà Nẵng"
+    },
+    {
+      "symbol": "DAN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược Danapha",
+      "organ_name": "Công ty Cổ phần Dược Danapha"
+    },
+    {
+      "symbol": "DAG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "TĐ Nhựa Đông Á",
+      "organ_name": "Công ty Cổ phần Tập đoàn Nhựa Đông Á"
+    },
+    {
+      "symbol": "DAC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "CTCP 382 Đông Anh",
+      "organ_name": "Công ty Cổ phần 382 Đông Anh"
+    },
+    {
+      "symbol": "CYC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Gạch men Chang YIH",
+      "organ_name": "Công ty Cổ phần Gạch men Chang Yih"
+    },
+    {
+      "symbol": "CTX",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "CONSTREXIM",
+      "organ_name": "Tổng Công ty Cổ phần Đầu tư Xây dựng và Thương mại Việt Nam"
+    },
+    {
+      "symbol": "CTW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp thoát nước Cần Thơ",
+      "organ_name": "Công ty Cổ phần Cấp thoát nước Cần Thơ"
+    },
+    {
+      "symbol": "CTN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VINAVICO",
+      "organ_name": "Công ty Cổ phần Xây dựng Công trình ngầm"
+    },
+    {
+      "symbol": "CTA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng Vinavico",
+      "organ_name": "Công ty Cổ phần Vinavico"
+    },
+    {
+      "symbol": "CT6",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công trình 6",
+      "organ_name": "Công ty Cổ phần Công trình 6"
+    },
+    {
+      "symbol": "CT3",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng công trình 3",
+      "organ_name": "Công ty Cổ phần Đầu tư và Xây dựng công trình 3"
+    },
+    {
+      "symbol": "CSI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán Kiến thiết VN",
+      "organ_name": "Công ty Cổ phần Chứng khoán Kiến thiết Việt Nam"
+    },
+    {
+      "symbol": "CQT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xi măng Quán Triều VVMI",
+      "organ_name": "Công ty Cổ phần Xi măng Quán Triều VVMI"
+    },
+    {
+      "symbol": "CQN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cảng Quảng Ninh",
+      "organ_name": "Công ty Cổ phần Cảng Quảng Ninh"
+    },
+    {
+      "symbol": "CPI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Cảng Cái Lân",
+      "organ_name": "Công ty Cổ phần Đầu tư Cảng Cái Lân"
+    },
+    {
+      "symbol": "CPH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "PV mai táng Hải Phòng",
+      "organ_name": "Công ty Cổ phần Phục vụ Mai táng Hải Phòng"
+    },
+    {
+      "symbol": "CPA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cà phê Phước An",
+      "organ_name": "Công ty Cổ phần Cà phê Phước An"
+    },
+    {
+      "symbol": "CNT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn CNT",
+      "organ_name": "Công ty Cổ phần Tập đoàn CNT"
+    },
+    {
+      "symbol": "CNN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng Coninco",
+      "organ_name": "Công ty Cổ phần Tư vấn Công nghệ, Thiết bị và Kiểm định Xây dựng - CONINCO"
+    },
+    {
+      "symbol": "CNC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công nghệ cao Traphaco",
+      "organ_name": "Công ty Cổ phần Công nghệ cao Traphaco"
+    },
+    {
+      "symbol": "CNA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tổng công ty Chè Nghệ An - CTCP",
+      "organ_name": "Công ty Cổ phần Tổng công ty Chè Nghệ An"
+    },
+    {
+      "symbol": "CMW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp nước Cà Mau",
+      "organ_name": "Công ty Cổ phần Cấp nước Cà Mau"
+    },
+    {
+      "symbol": "CMT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "CN mạng và Truyền thông",
+      "organ_name": "Công ty Cổ phần Công nghệ mạng và Truyền thông"
+    },
+    {
+      "symbol": "CMP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cảng Chân Mây",
+      "organ_name": "Công ty Cổ phần Cảng Chân Mây"
+    },
+    {
+      "symbol": "CMN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Colusa -  Miliket",
+      "organ_name": "Công ty Cổ phần Lương thực Thực phẩm Colusa - Miliket"
+    },
+    {
+      "symbol": "CMM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Camimex",
+      "organ_name": "Công ty Cổ phần Camimex"
+    },
+    {
+      "symbol": "CMK",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cơ khí Mạo Khê - Vinacomin",
+      "organ_name": "Công ty Cổ phần Cơ khí Mạo Khê - Vinacomin"
+    },
+    {
+      "symbol": "CMI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "CMISTONE Việt Nam",
+      "organ_name": "Công ty Cổ phần CMISTONE Việt Nam"
+    },
+    {
+      "symbol": "CMF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thực phẩm Cholimex",
+      "organ_name": "Công ty Cổ phần Thực phẩm Cholimex"
+    },
+    {
+      "symbol": "CMD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VLXD và Nội thất TP.HCM",
+      "organ_name": "Công ty Cổ phần Vật liệu xây dựng và Trang trí nội thất TP Hồ Chí Minh"
+    },
+    {
+      "symbol": "CLX",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XNK và ĐT Chợ Lớn (CHOLIMEX)",
+      "organ_name": "Công ty Cổ phần Xuất nhập khẩu và Đầu tư Chợ Lớn (CHOLIMEX)"
+    },
+    {
+      "symbol": "CLG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cotec Land",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển Nhà đất Cotec"
+    },
+    {
+      "symbol": "CKD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đông Anh Licogi",
+      "organ_name": "Công ty Cổ phần Cơ khí Đông Anh Licogi"
+    },
+    {
+      "symbol": "CKA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cơ khí An Giang",
+      "organ_name": "Công ty Cổ phần Cơ khí An Giang"
+    },
+    {
+      "symbol": "CK8",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cơ khí 120",
+      "organ_name": "Công ty Cổ phần Cơ khí 120"
+    },
+    {
+      "symbol": "CIP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XL và SX công nghiệp",
+      "organ_name": "Công ty Cổ phần Xây lắp và Sản xuất Công nghiệp"
+    },
+    {
+      "symbol": "CID",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng và Phát triển Cơ sở Hạ tầng",
+      "organ_name": "Công ty Cổ phần Xây dựng và Phát triển Cơ sở Hạ tầng"
+    },
+    {
+      "symbol": "CI5",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư Xây dựng số 5",
+      "organ_name": "Công ty Cổ phần Đầu tư Xây dựng số 5"
+    },
+    {
+      "symbol": "CHS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chiếu sáng TPHCM",
+      "organ_name": "Công ty Cổ phần Chiếu sáng Công cộng Thành phố Hồ Chí Minh"
+    },
+    {
+      "symbol": "CHC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nội thất Cẩm Hà",
+      "organ_name": "Công ty Cổ phần Cẩm Hà"
+    },
+    {
+      "symbol": "CH5",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng số 5 Hà Nội",
+      "organ_name": "Công ty Cổ phần Xây dựng số 5 Hà Nội"
+    },
+    {
+      "symbol": "CGV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vinaceglass JSC",
+      "organ_name": "Công ty Cổ phần Vinaceglass"
+    },
+    {
+      "symbol": "CFV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cà phê Thắng Lợi",
+      "organ_name": "Công ty Cổ phần Cà phê Thắng Lợi"
+    },
+    {
+      "symbol": "CFM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư CFM",
+      "organ_name": "Công ty Cổ phần Đầu tư CFM"
+    },
+    {
+      "symbol": "CEN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "CENCON Việt Nam",
+      "organ_name": "Công ty Cổ phần CENCON Việt Nam"
+    },
+    {
+      "symbol": "CDR",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng Cao su Đồng Nai",
+      "organ_name": "Công ty Cổ phần Xây dựng Cao su Đồng Nai"
+    },
+    {
+      "symbol": "CDP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược phẩm TW Codupha",
+      "organ_name": "Công ty Cổ phần Dược phẩm Trung ương Codupha"
+    },
+    {
+      "symbol": "CDO",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tư vấn Thiết kế và PT Đô thị",
+      "organ_name": "Công ty Cổ phần Tư vấn Thiết kế và Phát triển Đô thị"
+    },
+    {
+      "symbol": "CDH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "CTCC và DV Du lịch Hải Phòng",
+      "organ_name": "Công ty Cổ phần Công trình Công cộng và Dịch vụ Du lịch Hải Phòng"
+    },
+    {
+      "symbol": "CDG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VLXD Cầu Đuống",
+      "organ_name": "Công ty Cổ phần Cầu Đuống"
+    },
+    {
+      "symbol": "CCV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XD CN và đô thị Việt Nam",
+      "organ_name": "Công ty Cổ phần Tư vấn Xây dựng Công nghiệp và Đô thị Việt Nam"
+    },
+    {
+      "symbol": "CCT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cảng Cần Thơ",
+      "organ_name": "Công ty Cổ phần Cảng Cần Thơ"
+    },
+    {
+      "symbol": "CCP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cảng Cửa Cấm",
+      "organ_name": "Công ty Cổ phần Cảng Cửa Cấm Hải Phòng"
+    },
+    {
+      "symbol": "CCM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xi măng Cần Thơ",
+      "organ_name": "Công ty Cổ phần Khoáng sản và Xi măng Cần Thơ"
+    },
+    {
+      "symbol": "CCC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây Dựng CDC",
+      "organ_name": "Công ty Cổ Phần Xây Dựng CDC"
+    },
+    {
+      "symbol": "CCA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XNK Thuỷ sản Cần Thơ",
+      "organ_name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Cần Thơ"
+    },
+    {
+      "symbol": "CC4",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "ĐT và XD số 4",
+      "organ_name": "Công ty Cổ phần Đầu tư và Xây dựng số 4"
+    },
+    {
+      "symbol": "CC1",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "TCT Xây dựng số 1",
+      "organ_name": "Tổng Công ty Xây dựng số 1 - CTCP"
+    },
+    {
+      "symbol": "CBS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Mía đường Cao Bằng",
+      "organ_name": "Công ty Cổ phần Mía đường Cao Bằng"
+    },
+    {
+      "symbol": "CBI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Gang thép Cao Bằng",
+      "organ_name": "Công ty Cổ phần Gang thép Cao Bằng"
+    },
+    {
+      "symbol": "CAT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy sản Cà Mau",
+      "organ_name": "Công ty Cổ phần Thủy sản Cà Mau"
+    },
+    {
+      "symbol": "CAD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy sản Cadovimex",
+      "organ_name": "Công ty Cổ phần Chế biến và Xuất khẩu Thủy sản Cadovimex"
+    },
+    {
+      "symbol": "C92",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng và Đầu tư 492",
+      "organ_name": "Công ty Cổ phần Xây dựng và Đầu tư 492"
+    },
+    {
+      "symbol": "C4G",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tập Đoàn Cienco4",
+      "organ_name": "Công ty Cổ phần Tập Đoàn Cienco4"
+    },
+    {
+      "symbol": "C22",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công ty 22",
+      "organ_name": "Công ty Cổ phần 22"
+    },
+    {
+      "symbol": "C21",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thế kỷ 21",
+      "organ_name": "Công ty Cổ phần Thế kỷ 21"
+    },
+    {
+      "symbol": "C12",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cầu 12",
+      "organ_name": "Công ty Cổ phần Cầu 12"
+    },
+    {
+      "symbol": "BWS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp Nước Bà Rịa Vũng Tàu",
+      "organ_name": "Công ty Cổ phần Cấp Nước Bà Rịa - Vũng Tàu"
+    },
+    {
+      "symbol": "BWA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp thoát nước và Xây dựng Bảo Lộc",
+      "organ_name": "Công ty Cổ phần Cấp thoát nước và Xây dựng Bảo Lộc"
+    },
+    {
+      "symbol": "BVN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bông Việt Nam",
+      "organ_name": "Công ty Cổ phần Bông Việt Nam"
+    },
+    {
+      "symbol": "BVL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "BV Land",
+      "organ_name": "Công ty Cổ phần BV Land"
+    },
+    {
+      "symbol": "BVG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Group Bắc Việt",
+      "organ_name": "Công ty Cổ phần Group Bắc Việt"
+    },
+    {
+      "symbol": "BVB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Ngân hàng Bản Việt - BVBank",
+      "organ_name": "Ngân hàng Thương mại Cổ phần Bản Việt"
+    },
+    {
+      "symbol": "BTV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "DV Du lịch Bến Thành",
+      "organ_name": "Công ty Cổ phần Dịch vụ Du lịch Bến Thành"
+    },
+    {
+      "symbol": "BTU",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công trình Đô thị Bến Tre",
+      "organ_name": "Công ty Cổ phần Công trình Đô thị Bến Tre"
+    },
+    {
+      "symbol": "BTN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Gạch Tuy Nen Bình Định",
+      "organ_name": "Công ty Cổ phần Đầu tư Bitco Bình Định"
+    },
+    {
+      "symbol": "BTH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Biến thế và Vật liệu Điện Hà Nội",
+      "organ_name": "Công ty Cổ phần Chế tạo Biến thế và Vật liệu Điện Hà Nội"
+    },
+    {
+      "symbol": "BTG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bao bì Tiền Giang",
+      "organ_name": "Công ty Cổ phần Bao bì Tiền Giang"
+    },
+    {
+      "symbol": "BTD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bê tông ly tâm Thủ Đức",
+      "organ_name": "Công ty Cổ phần Bê tông ly tâm Thủ Đức"
+    },
+    {
+      "symbol": "BTB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bia Hà Nội - Thái Bình",
+      "organ_name": "Công ty Cổ phần Bia Hà Nội - Thái Bình"
+    },
+    {
+      "symbol": "BT6",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bê tông 6",
+      "organ_name": "Công ty Cổ phần BETON 6"
+    },
+    {
+      "symbol": "BT1",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bảo vệ thực vật 1 TW",
+      "organ_name": "Công ty Cổ phần Bảo vệ thực vật 1 Trung ương"
+    },
+    {
+      "symbol": "BSQ",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bia Sài Gòn - Quảng Ngãi",
+      "organ_name": "Công ty Cổ phần Bia Sài Gòn - Quảng Ngãi"
+    },
+    {
+      "symbol": "BSP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bia Sài Gòn - Phú Thọ",
+      "organ_name": "Công ty Cổ phần Bia Sài Gòn - Phú Thọ"
+    },
+    {
+      "symbol": "BSL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bia Sài Gòn - Sông Lam",
+      "organ_name": "Công ty Cổ phần Bia Sài Gòn - Sông Lam"
+    },
+    {
+      "symbol": "BSH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bia Sài Gòn - Hà Nội",
+      "organ_name": "Công ty Cổ phần Bia Sài Gòn - Hà Nội"
+    },
+    {
+      "symbol": "BSG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xe khách Sài Gòn",
+      "organ_name": "Công ty Cổ phần Xe khách Sài Gòn"
+    },
+    {
+      "symbol": "BSD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bia, rượu Sài Gòn - Đồng Xuân",
+      "organ_name": "Công ty Cổ phần Bia, Rượu Sài Gòn - Đồng Xuân"
+    },
+    {
+      "symbol": "BSA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy điện Buôn Đôn",
+      "organ_name": "Công ty Cổ phần Thủy điện Buôn Đôn"
+    },
+    {
+      "symbol": "BRS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dịch vụ Đô thị Bà Rịa",
+      "organ_name": "Công ty Cổ phần Dịch vụ Đô thị Bà Rịa"
+    },
+    {
+      "symbol": "BRR",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cao su Bà Rịa",
+      "organ_name": "Công ty Cổ phần Cao su Bà Rịa"
+    },
+    {
+      "symbol": "BQB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bia Hà Nội - Quảng Bình",
+      "organ_name": "Công ty Cổ phần Bia Hà Nội - Quảng Bình"
+    },
+    {
+      "symbol": "BOT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "BOT Cầu Thái Hà",
+      "organ_name": "Công ty Cổ phần BOT Cầu Thái Hà"
+    },
+    {
+      "symbol": "BNW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nước sạch Bắc Ninh",
+      "organ_name": "Công ty Cổ phần Nước sạch Bắc Ninh"
+    },
+    {
+      "symbol": "BMV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bột mỳ Vinafood 1",
+      "organ_name": "Công ty Cổ phần Bột mỳ Vinafood 1"
+    },
+    {
+      "symbol": "BMS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán Bảo Minh",
+      "organ_name": "Công ty Cổ phần Chứng khoán Bảo Minh"
+    },
+    {
+      "symbol": "BMN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công ty 715",
+      "organ_name": "Công ty Cổ phần 715"
+    },
+    {
+      "symbol": "BMK",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Black Cat",
+      "organ_name": "Công ty Cổ Phần Kỹ thuật Nhiệt Mèo Đen"
+    },
+    {
+      "symbol": "BMJ",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Khoáng sản Miền Đông AHP",
+      "organ_name": "Công ty Cổ phần Khoáng sản Miền Đông AHP"
+    },
+    {
+      "symbol": "BMG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "May Bình Minh",
+      "organ_name": "Công ty Cổ phần May Bình Minh"
+    },
+    {
+      "symbol": "BMF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VLXD và Chất đốt Đồng Nai",
+      "organ_name": "Công ty Cổ phần Vật liệu Xây dựng và Chất đốt Đồng Nai"
+    },
+    {
+      "symbol": "BMD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Môi trường và DV Đô thị Bình Thuận",
+      "organ_name": "Công ty Cổ phần Môi trường và Dịch vụ Đô thị Bình Thuận"
+    },
+    {
+      "symbol": "BLT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Lương Thực Bình Định",
+      "organ_name": "Công ty Cổ phần Lương thực Bình Định"
+    },
+    {
+      "symbol": "BLN",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xe buýt Liên Ninh",
+      "organ_name": "Công ty Cổ phần Vận tải và Dịch vụ Liên Ninh"
+    },
+    {
+      "symbol": "BLI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bảo hiểm Nhà Rồng",
+      "organ_name": "Tổng Công ty Cổ phần Bảo hiểm Bảo Long"
+    },
+    {
+      "symbol": "BLF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy sản Bạc Liêu",
+      "organ_name": "Công ty Cổ phần Thủy sản Bạc Liêu"
+    },
+    {
+      "symbol": "BIO",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Vắc xin và Sinh phẩm Nha Trang",
+      "organ_name": "Công ty Cổ phần Vắc xin và Sinh phẩm Nha Trang"
+    },
+    {
+      "symbol": "BII",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Đầu tư và Phát triển Công nghiệp Bảo Thư",
+      "organ_name": "Công ty Cổ phần Đầu tư và Phát triển Công nghiệp Bảo Thư"
+    },
+    {
+      "symbol": "BIG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "BIG Invest Group",
+      "organ_name": "Công ty cổ phần BIG Invest Group"
+    },
+    {
+      "symbol": "BHP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bia Hà Nội - Hải Phòng",
+      "organ_name": "Công ty Cổ phần Bia Hà Nội - Hải Phòng"
+    },
+    {
+      "symbol": "BHK",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bia Hà Nội - Kim Bài",
+      "organ_name": "Công ty Cổ phần Bia Hà Nội - Kim Bài"
+    },
+    {
+      "symbol": "BHI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bảo hiểm Sài Gòn - Hà Nội",
+      "organ_name": "Tổng Công ty Cổ phần Bảo hiểm Sài Gòn - Hà Nội"
+    },
+    {
+      "symbol": "BHG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chè Biển Hồ",
+      "organ_name": "Công ty Cổ phần Chè Biển Hồ"
+    },
+    {
+      "symbol": "BHC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bê tông Biên Hòa",
+      "organ_name": "Công ty Cổ phần Bê tông Biên Hòa"
+    },
+    {
+      "symbol": "BHA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy điện Bắc Hà",
+      "organ_name": "Công ty Cổ phần Thủy điện Bắc Hà"
+    },
+    {
+      "symbol": "BGW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nước sạch Bắc Giang",
+      "organ_name": "Công ty Cổ phần Nước sạch Bắc Giang"
+    },
+    {
+      "symbol": "BGE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "BCG Energy",
+      "organ_name": "Công ty Cổ phần BCG Energy"
+    },
+    {
+      "symbol": "BEL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Điện tử Biên Hoà",
+      "organ_name": "Công ty Cổ phần Điện tử Biên Hòa"
+    },
+    {
+      "symbol": "BDW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cấp thoát nước Bình Định",
+      "organ_name": "Công ty Cổ phần Cấp thoát nước Bình Định"
+    },
+    {
+      "symbol": "BDT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "VLXD Đồng Tháp",
+      "organ_name": "Công ty Cổ phần Xây lắp và Vật liệu xây dựng Đồng Tháp"
+    },
+    {
+      "symbol": "BDG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "May mặc Bình Dương",
+      "organ_name": "Công ty Cổ phần May mặc Bình Dương"
+    },
+    {
+      "symbol": "BCV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Du lịch và Thương mại Bằng Giang Cao Bằng - Vimico",
+      "organ_name": "Công ty Cổ phần Du lịch và Thương mại Bằng Giang Cao Bằng - Vimico"
+    },
+    {
+      "symbol": "BCR",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "BCG Land",
+      "organ_name": "Công ty Cổ phần BCG Land"
+    },
+    {
+      "symbol": "BCP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược Enlie",
+      "organ_name": "Công ty Cổ phần Dược Enlie"
+    },
+    {
+      "symbol": "BCB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công ty 397",
+      "organ_name": "Công ty Cổ phần 397"
+    },
+    {
+      "symbol": "BCA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công ty B.C.H",
+      "organ_name": "Công ty cổ phần B.C.H"
+    },
+    {
+      "symbol": "BBT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bông Bạch Tuyết",
+      "organ_name": "Công ty Cổ phần Bông Bạch Tuyết"
+    },
+    {
+      "symbol": "BBM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bia Hà Nội - Nam Định",
+      "organ_name": "Công ty Cổ phần Bia Hà Nội - Nam Định"
+    },
+    {
+      "symbol": "BBH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bao bì Hoàng Thạch",
+      "organ_name": "Công ty Cổ phần Bao bì Hoàng Thạch"
+    },
+    {
+      "symbol": "BAL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bao bì Balpac",
+      "organ_name": "Công ty Cổ phần Bao bì Bia - Rượu - Nước giải khát"
+    },
+    {
+      "symbol": "AVG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Phân Bón Quốc Tế Âu Việt",
+      "organ_name": "Công ty Cổ phần Phân Bón Quốc Tế Âu Việt"
+    },
+    {
+      "symbol": "AVF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy sản Việt An",
+      "organ_name": "Công ty Cổ phần Việt An"
+    },
+    {
+      "symbol": "AVC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy điện A Vương",
+      "organ_name": "Công ty Cổ phần Thủy điện A Vương"
+    },
+    {
+      "symbol": "ATG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "An Trường An",
+      "organ_name": "Công ty Cổ phần An Trường An"
+    },
+    {
+      "symbol": "ATB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công ty An Thịnh",
+      "organ_name": "Công ty Cổ phần An Thịnh"
+    },
+    {
+      "symbol": "ATA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "NTACO",
+      "organ_name": "Công ty Cổ phần NTACO"
+    },
+    {
+      "symbol": "ASA",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Hàng tiêu dùng ASA",
+      "organ_name": "Công ty Cổ phần ASA"
+    },
+    {
+      "symbol": "ART",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán BOS",
+      "organ_name": "Công ty Cổ phần Chứng khoán BOS"
+    },
+    {
+      "symbol": "APT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy hải sản Sài Gòn",
+      "organ_name": "Công ty Cổ phần Kinh doanh thủy hải sản Sài Gòn"
+    },
+    {
+      "symbol": "APP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Phụ gia và SP Dầu mỏ",
+      "organ_name": "Công ty Cổ phần Phát triển Phụ gia và Sản phẩm dầu mỏ"
+    },
+    {
+      "symbol": "APL",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cơ khí và Thiết bị áp lực - VVMI",
+      "organ_name": "Công ty Cổ phần Cơ khí và Thiết bị áp lực - VVMI"
+    },
+    {
+      "symbol": "APF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nông sản Quảng Ngãi",
+      "organ_name": "Công ty Cổ phần Nông sản Thực phẩm Quảng Ngãi"
+    },
+    {
+      "symbol": "APC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chiếu xạ An Phú",
+      "organ_name": "Công ty Cổ phần Chiếu xạ An Phú"
+    },
+    {
+      "symbol": "ANT",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Rau quả thực phẩm An Giang",
+      "organ_name": "Công ty Cổ phần Rau quả Thực phẩm An Giang"
+    },
+    {
+      "symbol": "AMS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng AMECC",
+      "organ_name": "Công ty Cổ phần Cơ khí Xây dựng AMECC"
+    },
+    {
+      "symbol": "AMP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Armephaco",
+      "organ_name": "Công ty Cổ phần Armephaco"
+    },
+    {
+      "symbol": "AMD",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "FLC Stone",
+      "organ_name": "Công ty Cổ phần Đầu tư và Khoáng sản FLC Stone"
+    },
+    {
+      "symbol": "ALV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây dựng ALVICO",
+      "organ_name": "Công ty Cổ phần Xây dựng ALVICO"
+    },
+    {
+      "symbol": "AIG",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nguyên liệu Á Châu AIG",
+      "organ_name": "Công ty Cổ phần Nguyên liệu Á Châu AIG"
+    },
+    {
+      "symbol": "AIC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bảo hiểm Hàng không",
+      "organ_name": "Tổng Công ty Cổ phần Bảo hiểm Hàng không"
+    },
+    {
+      "symbol": "AGX",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Nông sản Xuất khẩu Sài Gòn",
+      "organ_name": "Công ty Cổ phần Thực phẩm Nông sản Xuất khẩu Sài Gòn"
+    },
+    {
+      "symbol": "AGP",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Dược phẩm AGIMEXPHARM",
+      "organ_name": "Công ty Cổ phần Dược phẩm AGIMEXPHARM"
+    },
+    {
+      "symbol": "AGF",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Thủy sản An Giang",
+      "organ_name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản An Giang"
+    },
+    {
+      "symbol": "AG1",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "28.1 JSC",
+      "organ_name": "Công ty Cổ phần 28.1"
+    },
+    {
+      "symbol": "AFX",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "XNK Nông sản Thực phẩm An Giang",
+      "organ_name": "Công ty Cổ phần Xuất Nhập khẩu Nông sản Thực phẩm An Giang"
+    },
+    {
+      "symbol": "ACV",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Cảng Hàng không VN",
+      "organ_name": "Tổng Công ty Cảng Hàng không Việt Nam - CTCP"
+    },
+    {
+      "symbol": "ACS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Xây lắp Thương mại 2",
+      "organ_name": "Công ty Cổ phần Xây lắp Thương mại 2"
+    },
+    {
+      "symbol": "ACM",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Tập đoàn Khoáng sản Á Cường",
+      "organ_name": "Công ty Cổ phần Tập đoàn Khoáng sản Á Cường"
+    },
+    {
+      "symbol": "ACE",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Bê tông An Giang",
+      "organ_name": "Công ty Cổ phần Bê tông ly tâm An Giang"
+    },
+    {
+      "symbol": "ABW",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán An Bình",
+      "organ_name": "Công ty Cổ phần Chứng khoán An Bình"
+    },
+    {
+      "symbol": "ABI",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "BH NH Nông Nghiệp",
+      "organ_name": "Công ty Cổ phần Bảo hiểm Ngân hàng Nông Nghiệp"
+    },
+    {
+      "symbol": "ABC",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Truyền thông VMG",
+      "organ_name": "Công ty Cổ phần Truyền thông VMG"
+    },
+    {
+      "symbol": "ABB",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Ngân hàng An Bình",
+      "organ_name": "Ngân hàng Thương mại Cổ phần An Bình"
+    },
+    {
+      "symbol": "AAS",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Chứng khoán SmartInvest",
+      "organ_name": "Công ty Cổ phần Chứng khoán SmartInvest"
+    },
+    {
+      "symbol": "AAH",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Than Hợp Nhất",
+      "organ_name": "Công ty Cổ phần Hợp Nhất"
+    },
+    {
+      "symbol": "A32",
+      "exchange": "UPCOM",
+      "type": "STOCK",
+      "organ_short_name": "Công ty 32",
+      "organ_name": "Công ty Cổ phần 32"
+    }
+  ],
+  "meta": {
+    "title": "Mã chứng khoán — Sàn UPCOM - Tải miễn phí",
+    "description": "Mã chứng khoán giao dịch trên sàn UPCOM (Unlisted Public Company Market). Chứa 887 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Mã chứng khoán — Sàn UPCOM | ListBase",
+    "seo_description": "Tải xuống Mã chứng khoán — Sàn UPCOM — 887 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 887 bản ghi / 5 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

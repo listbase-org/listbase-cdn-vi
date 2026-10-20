@@ -1,0 +1,1226 @@
+{
+  "id": "tech-ascii-table",
+  "name": "Bộ Dữ Liệu Bảng & Mã Tham Chiếu Ký Tự ASCII Hoàn Chỉnh",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "decimal",
+      "label": "Decimal",
+      "type": "number"
+    },
+    {
+      "key": "hex",
+      "label": "Hexadecimal",
+      "type": "string"
+    },
+    {
+      "key": "binary",
+      "label": "Binary",
+      "type": "string"
+    },
+    {
+      "key": "octal",
+      "label": "Octal",
+      "type": "string"
+    },
+    {
+      "key": "character",
+      "label": "Character",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "decimal": 0,
+      "hex": "00",
+      "binary": "00000000",
+      "octal": "000",
+      "character": "",
+      "description": "NUL (Rỗng)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 1,
+      "hex": "01",
+      "binary": "00000001",
+      "octal": "001",
+      "character": "",
+      "description": "SOH (Bắt đầu tiêu đề)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 2,
+      "hex": "02",
+      "binary": "00000010",
+      "octal": "002",
+      "character": "",
+      "description": "STX (Bắt đầu văn bản)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 3,
+      "hex": "03",
+      "binary": "00000011",
+      "octal": "003",
+      "character": "",
+      "description": "ETX (Kết thúc văn bản)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 4,
+      "hex": "04",
+      "binary": "00000100",
+      "octal": "004",
+      "character": "",
+      "description": "EOT (Kết thúc truyền)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 5,
+      "hex": "05",
+      "binary": "00000101",
+      "octal": "005",
+      "character": "",
+      "description": "ENQ (Yêu cầu)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 6,
+      "hex": "06",
+      "binary": "00000110",
+      "octal": "006",
+      "character": "",
+      "description": "ACK (Xác nhận)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 7,
+      "hex": "07",
+      "binary": "00000111",
+      "octal": "007",
+      "character": "",
+      "description": "BEL (Chuông)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 8,
+      "hex": "08",
+      "binary": "00001000",
+      "octal": "010",
+      "character": "",
+      "description": "BS (Xóa lùi)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 9,
+      "hex": "09",
+      "binary": "00001001",
+      "octal": "011",
+      "character": "",
+      "description": "HT (Tab ngang)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 10,
+      "hex": "0A",
+      "binary": "00001010",
+      "octal": "012",
+      "character": "",
+      "description": "LF (Xuống dòng)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 11,
+      "hex": "0B",
+      "binary": "00001011",
+      "octal": "013",
+      "character": "",
+      "description": "VT (Tab dọc)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 12,
+      "hex": "0C",
+      "binary": "00001100",
+      "octal": "014",
+      "character": "",
+      "description": "FF (Đẩy trang)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 13,
+      "hex": "0D",
+      "binary": "00001101",
+      "octal": "015",
+      "character": "",
+      "description": "CR (Về đầu dòng)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 14,
+      "hex": "0E",
+      "binary": "00001110",
+      "octal": "016",
+      "character": "",
+      "description": "SO (Dịch chuyển ra)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 15,
+      "hex": "0F",
+      "binary": "00001111",
+      "octal": "017",
+      "character": "",
+      "description": "SI (Dịch chuyển vào)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 16,
+      "hex": "10",
+      "binary": "00010000",
+      "octal": "020",
+      "character": "",
+      "description": "DLE (Thoát liên kết dữ liệu)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 17,
+      "hex": "11",
+      "binary": "00010001",
+      "octal": "021",
+      "character": "",
+      "description": "DC1 (Điều khiển thiết bị 1)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 18,
+      "hex": "12",
+      "binary": "00010010",
+      "octal": "022",
+      "character": "",
+      "description": "DC2 (Điều khiển thiết bị 2)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 19,
+      "hex": "13",
+      "binary": "00010011",
+      "octal": "023",
+      "character": "",
+      "description": "DC3 (Điều khiển thiết bị 3)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 20,
+      "hex": "14",
+      "binary": "00010100",
+      "octal": "024",
+      "character": "",
+      "description": "DC4 (Điều khiển thiết bị 4)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 21,
+      "hex": "15",
+      "binary": "00010101",
+      "octal": "025",
+      "character": "",
+      "description": "NAK (Phản hồi phủ định)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 22,
+      "hex": "16",
+      "binary": "00010110",
+      "octal": "026",
+      "character": "",
+      "description": "SYN (Nghỉ không đồng bộ)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 23,
+      "hex": "17",
+      "binary": "00010111",
+      "octal": "027",
+      "character": "",
+      "description": "ETB (Kết thúc khối truyền)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 24,
+      "hex": "18",
+      "binary": "00011000",
+      "octal": "030",
+      "character": "",
+      "description": "CAN (Hủy)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 25,
+      "hex": "19",
+      "binary": "00011001",
+      "octal": "031",
+      "character": "",
+      "description": "EM (Kết thúc phương tiện)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 26,
+      "hex": "1A",
+      "binary": "00011010",
+      "octal": "032",
+      "character": "",
+      "description": "SUB (Thay thế)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 27,
+      "hex": "1B",
+      "binary": "00011011",
+      "octal": "033",
+      "character": "",
+      "description": "ESC (Thoát)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 28,
+      "hex": "1C",
+      "binary": "00011100",
+      "octal": "034",
+      "character": "",
+      "description": "FS (Dấu tách tệp)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 29,
+      "hex": "1D",
+      "binary": "00011101",
+      "octal": "035",
+      "character": "",
+      "description": "GS (Dấu tách nhóm)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 30,
+      "hex": "1E",
+      "binary": "00011110",
+      "octal": "036",
+      "character": "",
+      "description": "RS (Dấu tách bản ghi)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 31,
+      "hex": "1F",
+      "binary": "00011111",
+      "octal": "037",
+      "character": "",
+      "description": "US (Dấu tách đơn vị)",
+      "category": "Điều khiển"
+    },
+    {
+      "decimal": 32,
+      "hex": "20",
+      "binary": "00100000",
+      "octal": "040",
+      "character": " ",
+      "description": "Khoảng trắng",
+      "category": "Có thể in"
+    },
+    {
+      "decimal": 33,
+      "hex": "21",
+      "binary": "00100001",
+      "octal": "041",
+      "character": "!",
+      "description": "Dấu chấm than",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 34,
+      "hex": "22",
+      "binary": "00100010",
+      "octal": "042",
+      "character": "\"",
+      "description": "Dấu ngoặc kép",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 35,
+      "hex": "23",
+      "binary": "00100011",
+      "octal": "043",
+      "character": "#",
+      "description": "Dấu thăng/Dấu số",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 36,
+      "hex": "24",
+      "binary": "00100100",
+      "octal": "044",
+      "character": "$",
+      "description": "Ký hiệu đô la",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 37,
+      "hex": "25",
+      "binary": "00100101",
+      "octal": "045",
+      "character": "%",
+      "description": "Ký hiệu phần trăm",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 38,
+      "hex": "26",
+      "binary": "00100110",
+      "octal": "046",
+      "character": "&",
+      "description": "Dấu và",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 39,
+      "hex": "27",
+      "binary": "00100111",
+      "octal": "047",
+      "character": "'",
+      "description": "Dấu ngoặc đơn",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 40,
+      "hex": "28",
+      "binary": "00101000",
+      "octal": "050",
+      "character": "(",
+      "description": "Dấu ngoặc đơn trái",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 41,
+      "hex": "29",
+      "binary": "00101001",
+      "octal": "051",
+      "character": ")",
+      "description": "Dấu ngoặc đơn phải",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 42,
+      "hex": "2A",
+      "binary": "00101010",
+      "octal": "052",
+      "character": "*",
+      "description": "Dấu sao",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 43,
+      "hex": "2B",
+      "binary": "00101011",
+      "octal": "053",
+      "character": "+",
+      "description": "Dấu cộng",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 44,
+      "hex": "2C",
+      "binary": "00101100",
+      "octal": "054",
+      "character": ",",
+      "description": "Dấu phẩy",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 45,
+      "hex": "2D",
+      "binary": "00101101",
+      "octal": "055",
+      "character": "-",
+      "description": "Dấu gạch nối/Trừ",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 46,
+      "hex": "2E",
+      "binary": "00101110",
+      "octal": "056",
+      "character": ".",
+      "description": "Dấu chấm câu/Dấu chấm",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 47,
+      "hex": "2F",
+      "binary": "00101111",
+      "octal": "057",
+      "character": "/",
+      "description": "Dấu gạch chéo",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 48,
+      "hex": "30",
+      "binary": "00110000",
+      "octal": "060",
+      "character": "0",
+      "description": "Chữ số không",
+      "category": "Chữ số"
+    },
+    {
+      "decimal": 49,
+      "hex": "31",
+      "binary": "00110001",
+      "octal": "061",
+      "character": "1",
+      "description": "Chữ số một",
+      "category": "Chữ số"
+    },
+    {
+      "decimal": 50,
+      "hex": "32",
+      "binary": "00110010",
+      "octal": "062",
+      "character": "2",
+      "description": "Chữ số hai",
+      "category": "Chữ số"
+    },
+    {
+      "decimal": 51,
+      "hex": "33",
+      "binary": "00110011",
+      "octal": "063",
+      "character": "3",
+      "description": "Chữ số ba",
+      "category": "Chữ số"
+    },
+    {
+      "decimal": 52,
+      "hex": "34",
+      "binary": "00110100",
+      "octal": "064",
+      "character": "4",
+      "description": "Chữ số bốn",
+      "category": "Chữ số"
+    },
+    {
+      "decimal": 53,
+      "hex": "35",
+      "binary": "00110101",
+      "octal": "065",
+      "character": "5",
+      "description": "Chữ số năm",
+      "category": "Chữ số"
+    },
+    {
+      "decimal": 54,
+      "hex": "36",
+      "binary": "00110110",
+      "octal": "066",
+      "character": "6",
+      "description": "Chữ số sáu",
+      "category": "Chữ số"
+    },
+    {
+      "decimal": 55,
+      "hex": "37",
+      "binary": "00110111",
+      "octal": "067",
+      "character": "7",
+      "description": "Chữ số bảy",
+      "category": "Chữ số"
+    },
+    {
+      "decimal": 56,
+      "hex": "38",
+      "binary": "00111000",
+      "octal": "070",
+      "character": "8",
+      "description": "Chữ số tám",
+      "category": "Chữ số"
+    },
+    {
+      "decimal": 57,
+      "hex": "39",
+      "binary": "00111001",
+      "octal": "071",
+      "character": "9",
+      "description": "Chữ số chín",
+      "category": "Chữ số"
+    },
+    {
+      "decimal": 58,
+      "hex": "3A",
+      "binary": "00111010",
+      "octal": "072",
+      "character": ":",
+      "description": "Dấu hai chấm",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 59,
+      "hex": "3B",
+      "binary": "00111011",
+      "octal": "073",
+      "character": ";",
+      "description": "Dấu chấm phẩy",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 60,
+      "hex": "3C",
+      "binary": "00111100",
+      "octal": "074",
+      "character": "<",
+      "description": "Nhỏ hơn",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 61,
+      "hex": "3D",
+      "binary": "00111101",
+      "octal": "075",
+      "character": "=",
+      "description": "Dấu bằng",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 62,
+      "hex": "3E",
+      "binary": "00111110",
+      "octal": "076",
+      "character": ">",
+      "description": "Lớn hơn",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 63,
+      "hex": "3F",
+      "binary": "00111111",
+      "octal": "077",
+      "character": "?",
+      "description": "Dấu hỏi",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 64,
+      "hex": "40",
+      "binary": "01000000",
+      "octal": "100",
+      "character": "@",
+      "description": "Ký tự @",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 65,
+      "hex": "41",
+      "binary": "01000001",
+      "octal": "101",
+      "character": "A",
+      "description": "Chữ A hoa",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 66,
+      "hex": "42",
+      "binary": "01000010",
+      "octal": "102",
+      "character": "B",
+      "description": "Chữ B hoa",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 67,
+      "hex": "43",
+      "binary": "01000011",
+      "octal": "103",
+      "character": "C",
+      "description": "Chữ C hoa",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 68,
+      "hex": "44",
+      "binary": "01000100",
+      "octal": "104",
+      "character": "D",
+      "description": "Chữ D hoa",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 69,
+      "hex": "45",
+      "binary": "01000101",
+      "octal": "105",
+      "character": "E",
+      "description": "Chữ E hoa",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 70,
+      "hex": "46",
+      "binary": "01000110",
+      "octal": "106",
+      "character": "F",
+      "description": "Chữ F hoa",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 71,
+      "hex": "47",
+      "binary": "01000111",
+      "octal": "107",
+      "character": "G",
+      "description": "Chữ G hoa",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 72,
+      "hex": "48",
+      "binary": "01001000",
+      "octal": "110",
+      "character": "H",
+      "description": "Chữ H hoa",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 73,
+      "hex": "49",
+      "binary": "01001001",
+      "octal": "111",
+      "character": "I",
+      "description": "Chữ I hoa",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 74,
+      "hex": "4A",
+      "binary": "01001010",
+      "octal": "112",
+      "character": "J",
+      "description": "Chữ J hoa",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 75,
+      "hex": "4B",
+      "binary": "01001011",
+      "octal": "113",
+      "character": "K",
+      "description": "Chữ K hoa",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 76,
+      "hex": "4C",
+      "binary": "01001100",
+      "octal": "114",
+      "character": "L",
+      "description": "Chữ L hoa",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 77,
+      "hex": "4D",
+      "binary": "01001101",
+      "octal": "115",
+      "character": "M",
+      "description": "Chữ M hoa",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 78,
+      "hex": "4E",
+      "binary": "01001110",
+      "octal": "116",
+      "character": "N",
+      "description": "Chữ N hoa",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 79,
+      "hex": "4F",
+      "binary": "01001111",
+      "octal": "117",
+      "character": "O",
+      "description": "Chữ O hoa",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 80,
+      "hex": "50",
+      "binary": "01010000",
+      "octal": "120",
+      "character": "P",
+      "description": "Chữ hoa P",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 81,
+      "hex": "51",
+      "binary": "01010001",
+      "octal": "121",
+      "character": "Q",
+      "description": "Chữ hoa Q",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 82,
+      "hex": "52",
+      "binary": "01010010",
+      "octal": "122",
+      "character": "R",
+      "description": "Chữ hoa R",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 83,
+      "hex": "53",
+      "binary": "01010011",
+      "octal": "123",
+      "character": "S",
+      "description": "Chữ hoa S",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 84,
+      "hex": "54",
+      "binary": "01010100",
+      "octal": "124",
+      "character": "T",
+      "description": "Chữ hoa T",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 85,
+      "hex": "55",
+      "binary": "01010101",
+      "octal": "125",
+      "character": "U",
+      "description": "Chữ hoa U",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 86,
+      "hex": "56",
+      "binary": "01010110",
+      "octal": "126",
+      "character": "V",
+      "description": "Chữ hoa V",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 87,
+      "hex": "57",
+      "binary": "01010111",
+      "octal": "127",
+      "character": "W",
+      "description": "Chữ hoa W",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 88,
+      "hex": "58",
+      "binary": "01011000",
+      "octal": "130",
+      "character": "X",
+      "description": "Chữ hoa X",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 89,
+      "hex": "59",
+      "binary": "01011001",
+      "octal": "131",
+      "character": "Y",
+      "description": "Chữ hoa Y",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 90,
+      "hex": "5A",
+      "binary": "01011010",
+      "octal": "132",
+      "character": "Z",
+      "description": "Chữ hoa Z",
+      "category": "Chữ hoa"
+    },
+    {
+      "decimal": 91,
+      "hex": "5B",
+      "binary": "01011011",
+      "octal": "133",
+      "character": "[",
+      "description": "Dấu ngoặc vuông trái",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 92,
+      "hex": "5C",
+      "binary": "01011100",
+      "octal": "134",
+      "character": "\\",
+      "description": "Dấu gạch chéo ngược",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 93,
+      "hex": "5D",
+      "binary": "01011101",
+      "octal": "135",
+      "character": "]",
+      "description": "Dấu ngoặc vuông phải",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 94,
+      "hex": "5E",
+      "binary": "01011110",
+      "octal": "136",
+      "character": "^",
+      "description": "Dấu mũ (caret/circumflex)",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 95,
+      "hex": "5F",
+      "binary": "01011111",
+      "octal": "137",
+      "character": "_",
+      "description": "Dấu gạch dưới",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 96,
+      "hex": "60",
+      "binary": "01100000",
+      "octal": "140",
+      "character": "`",
+      "description": "Dấu huyền",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 97,
+      "hex": "61",
+      "binary": "01100001",
+      "octal": "141",
+      "character": "a",
+      "description": "Chữ thường a",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 98,
+      "hex": "62",
+      "binary": "01100010",
+      "octal": "142",
+      "character": "b",
+      "description": "Chữ thường b",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 99,
+      "hex": "63",
+      "binary": "01100011",
+      "octal": "143",
+      "character": "c",
+      "description": "Chữ thường c",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 100,
+      "hex": "64",
+      "binary": "01100100",
+      "octal": "144",
+      "character": "d",
+      "description": "Chữ thường d",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 101,
+      "hex": "65",
+      "binary": "01100101",
+      "octal": "145",
+      "character": "e",
+      "description": "Chữ thường e",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 102,
+      "hex": "66",
+      "binary": "01100110",
+      "octal": "146",
+      "character": "f",
+      "description": "Chữ thường f",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 103,
+      "hex": "67",
+      "binary": "01100111",
+      "octal": "147",
+      "character": "g",
+      "description": "Chữ thường g",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 104,
+      "hex": "68",
+      "binary": "01101000",
+      "octal": "150",
+      "character": "h",
+      "description": "Chữ thường h",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 105,
+      "hex": "69",
+      "binary": "01101001",
+      "octal": "151",
+      "character": "i",
+      "description": "Chữ thường i",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 106,
+      "hex": "6A",
+      "binary": "01101010",
+      "octal": "152",
+      "character": "j",
+      "description": "Chữ thường j",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 107,
+      "hex": "6B",
+      "binary": "01101011",
+      "octal": "153",
+      "character": "k",
+      "description": "Chữ thường k",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 108,
+      "hex": "6C",
+      "binary": "01101100",
+      "octal": "154",
+      "character": "l",
+      "description": "Chữ thường l",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 109,
+      "hex": "6D",
+      "binary": "01101101",
+      "octal": "155",
+      "character": "m",
+      "description": "Chữ thường m",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 110,
+      "hex": "6E",
+      "binary": "01101110",
+      "octal": "156",
+      "character": "n",
+      "description": "Chữ thường n",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 111,
+      "hex": "6F",
+      "binary": "01101111",
+      "octal": "157",
+      "character": "o",
+      "description": "Chữ thường o",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 112,
+      "hex": "70",
+      "binary": "01110000",
+      "octal": "160",
+      "character": "p",
+      "description": "Chữ thường p",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 113,
+      "hex": "71",
+      "binary": "01110001",
+      "octal": "161",
+      "character": "q",
+      "description": "Chữ thường q",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 114,
+      "hex": "72",
+      "binary": "01110010",
+      "octal": "162",
+      "character": "r",
+      "description": "Chữ thường r",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 115,
+      "hex": "73",
+      "binary": "01110011",
+      "octal": "163",
+      "character": "s",
+      "description": "Chữ thường s",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 116,
+      "hex": "74",
+      "binary": "01110100",
+      "octal": "164",
+      "character": "t",
+      "description": "Chữ thường t",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 117,
+      "hex": "75",
+      "binary": "01110101",
+      "octal": "165",
+      "character": "u",
+      "description": "Chữ thường u",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 118,
+      "hex": "76",
+      "binary": "01110110",
+      "octal": "166",
+      "character": "v",
+      "description": "Chữ thường v",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 119,
+      "hex": "77",
+      "binary": "01110111",
+      "octal": "167",
+      "character": "w",
+      "description": "Chữ thường w",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 120,
+      "hex": "78",
+      "binary": "01111000",
+      "octal": "170",
+      "character": "x",
+      "description": "Chữ thường x",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 121,
+      "hex": "79",
+      "binary": "01111001",
+      "octal": "171",
+      "character": "y",
+      "description": "Chữ thường y",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 122,
+      "hex": "7A",
+      "binary": "01111010",
+      "octal": "172",
+      "character": "z",
+      "description": "Chữ thường z",
+      "category": "Chữ thường"
+    },
+    {
+      "decimal": 123,
+      "hex": "7B",
+      "binary": "01111011",
+      "octal": "173",
+      "character": "{",
+      "description": "Dấu ngoặc nhọn trái",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 124,
+      "hex": "7C",
+      "binary": "01111100",
+      "octal": "174",
+      "character": "|",
+      "description": "Dấu gạch đứng",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 125,
+      "hex": "7D",
+      "binary": "01111101",
+      "octal": "175",
+      "character": "}",
+      "description": "Dấu ngoặc nhọn phải",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 126,
+      "hex": "7E",
+      "binary": "01111110",
+      "octal": "176",
+      "character": "~",
+      "description": "Dấu ngã",
+      "category": "Ký hiệu"
+    },
+    {
+      "decimal": 127,
+      "hex": "7F",
+      "binary": "01111111",
+      "octal": "177",
+      "character": "",
+      "description": "DEL (Xóa)",
+      "category": "Điều khiển"
+    }
+  ],
+  "meta": {
+    "seo_title": "Bảng Ký Tự ASCII - Tải Miễn Phí (Excel/CSV/PDF)",
+    "seo_description": "Tải miễn phí bộ dữ liệu Bảng Ký Tự ASCII đầy đủ với 128 bản ghi. Nhận dữ liệu thập phân, thập lục phân, nhị phân và ký tự. Có sẵn định dạng Excel, CSV, PDF.",
+    "title": "Bộ Dữ Liệu Bảng & Mã Tham Chiếu Ký Tự ASCII Hoàn Chỉnh",
+    "description": "Bộ dữ liệu này cung cấp danh sách toàn diện 128 ký tự ASCII tiêu chuẩn, bao gồm các biểu diễn thập phân, thập lục phân, nhị phân và bát phân của chúng. Mỗi bản ghi cũng mô tả chi tiết ký tự, mô tả và danh mục của nó (ví dụ: Điều khiển, In được).",
+    "key_takeaways": [
+      "Truy cập tất cả 128 ký tự ASCII tiêu chuẩn và các biểu diễn số khác nhau của chúng.",
+      "Khám phá mô tả chi tiết và danh mục cho từng ký tự ASCII.",
+      "Tải xuống bảng ASCII đầy đủ để tham khảo và phát triển nhanh chóng.",
+      "Sử dụng dữ liệu toàn diện bao gồm các giá trị thập phân, thập lục phân, nhị phân và bát phân."
+    ],
+    "keywords": [
+      "tải bảng ASCII",
+      "mã ký tự ASCII",
+      "ASCII thập lục nhị phân bát phân",
+      "ASCII điều khiển in được",
+      "bộ dữ liệu ASCII csv",
+      "bảng ASCII excel"
+    ],
+    "use_cases": [
+      "Nhập tệp **CSV** vào cơ sở dữ liệu SQL hoặc các tập lệnh Python của bạn để dễ dàng tích hợp tra cứu mã hóa ký tự vào các ứng dụng.",
+      "Sử dụng tệp **Excel** để lọc theo danh mục (ví dụ: ký tự điều khiển) hoặc sắp xếp theo giá trị thập phân để phân tích và báo cáo nhanh chóng.",
+      "In phiên bản **PDF** để có một biểu đồ tham chiếu ngoại tuyến tiện dụng, lý tưởng cho môi trường giáo dục, hội thảo lập trình hoặc sử dụng trên bàn làm việc.",
+      "Tận dụng bộ dữ liệu này để xác thực đầu vào ký tự trong các quy trình xử lý dữ liệu hoặc để hiểu mã hóa ký tự trong các hệ thống khác nhau."
+    ]
+  },
+  "record_count": 128,
+  "title": "Bộ Dữ Liệu Bảng & Mã Tham Chiếu Ký Tự ASCII Hoàn Chỉnh"
+}

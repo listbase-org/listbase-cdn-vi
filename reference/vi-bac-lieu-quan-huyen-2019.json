@@ -1,0 +1,136 @@
+{
+  "id": "vi-bac-lieu-quan-huyen-2019",
+  "name": "Bạc Liêu — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Bạc Liêu — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 7 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Bạc Liêu theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 6 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/BL.json). (7 district-level units of Bạc Liêu under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "BL-01",
+      "name": "Bạc Liêu",
+      "name_full": "Thành phố Bạc Liêu",
+      "slug": "bac-lieu",
+      "division_type": "Thành phố",
+      "province_code": "BL",
+      "province_name": "Bạc Liêu",
+      "ward_count": 12
+    },
+    {
+      "code": "BL-02",
+      "name": "Đông Hải",
+      "name_full": "Huyện Đông Hải",
+      "slug": "dong-hai",
+      "division_type": "Huyện",
+      "province_code": "BL",
+      "province_name": "Bạc Liêu",
+      "ward_count": 11
+    },
+    {
+      "code": "BL-03",
+      "name": "Giá Rai",
+      "name_full": "Huyện Giá Rai",
+      "slug": "gia-rai",
+      "division_type": "Huyện",
+      "province_code": "BL",
+      "province_name": "Bạc Liêu",
+      "ward_count": 11
+    },
+    {
+      "code": "BL-04",
+      "name": "Hòa Bình",
+      "name_full": "Huyện Hòa Bình",
+      "slug": "hoa-binh",
+      "division_type": "Huyện",
+      "province_code": "BL",
+      "province_name": "Bạc Liêu",
+      "ward_count": 8
+    },
+    {
+      "code": "BL-05",
+      "name": "Hồng Dân",
+      "name_full": "Huyện Hồng Dân",
+      "slug": "hong-dan",
+      "division_type": "Huyện",
+      "province_code": "BL",
+      "province_name": "Bạc Liêu",
+      "ward_count": 9
+    },
+    {
+      "code": "BL-06",
+      "name": "Phước Long",
+      "name_full": "Huyện Phước Long",
+      "slug": "phuoc-long",
+      "division_type": "Huyện",
+      "province_code": "BL",
+      "province_name": "Bạc Liêu",
+      "ward_count": 8
+    },
+    {
+      "code": "BL-07",
+      "name": "Vĩnh Lợi",
+      "name_full": "Huyện Vĩnh Lợi",
+      "slug": "vinh-loi",
+      "division_type": "Huyện",
+      "province_code": "BL",
+      "province_name": "Bạc Liêu",
+      "ward_count": 8
+    }
+  ],
+  "meta": {
+    "title": "Bạc Liêu — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 7 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Bạc Liêu theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 6 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/BL.json). (7 district-level units of Bạc Liêu under the pre-2025-merger 3-tier hierarchy.) Chứa 7 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Bạc Liêu — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Bạc Liêu — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 7 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 7 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

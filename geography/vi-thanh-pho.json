@@ -1,0 +1,5016 @@
+{
+  "id": "vi-thanh-pho",
+  "name": "Thành phố và thị trấn Việt Nam",
+  "title": "Thành phố và thị trấn Việt Nam",
+  "description": "Các thành phố và khu dân cư của Việt Nam có dân số trên 500 người, kèm theo tỉnh/thành và tọa độ địa lý. Nguồn GeoNames (cities500).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 620,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "tinh_thanh",
+      "label": "Tinh Thanh",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "alternate_names",
+      "label": "Alternate Names",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ho Chi Minh City",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 3467331,
+      "latitude": 10.823,
+      "longitude": 106.6296,
+      "alternate_names": "Cathair Ho Chi Minh, Cidade de Ho Chi Minh, Ciudad Ho Chi Minh, HCMC, HCMV, Ho Chi Minh, Ho Chi Minh City, Ho Chi Minh Ville, Ho Chi Minh-borg, Ho Chi Minh-byen, Ho Chi Minhin kaupunki, Ho Chi Minhstad, Ho Ci Minovo Mesto, Ho Si Minh-varos, Ho Si Minh-város, Ho Či Minovo Město, Ho-Chi-Minh-Stadt, Ho-Chi-Minh-Ville, Ho-Ci-Min-urbo, Ho-Ĉi-Min-urbo, Hociminovo Mesto, Hosimina, Hosiminh, Hočiminovo Mesto, Hošimina, Hošiminh, Hô Chi Minh Ville, Hô-Chi-Minh-Ville, Hồ Chí Minhin kaupunki, Khoshimin, Kota Ho Chi Minh, Kota Hồ Chí Minh, SGN, Sai Gon, Saigon, Saïgon, Sài Gòn, TPHCM, Thanh pho Ho Chi Minh, Thành phố Hồ Chí Minh, hochimin, hochimin shi, hojjimin, hu zhi ming shi, hw z'y myn syty, mdynt hw tshy mynh, saigon, saygwn, Хошимин, הו צ'י מין סיטי, سايگون, مدينة هو تشي مينه, サイゴン, ホーチミン, ホーチミン市, 胡志明市, 호찌민, 호치민"
+    },
+    {
+      "name": "Hanoi",
+      "tinh_thanh": "Hanoi",
+      "population": 1431270,
+      "latitude": 21.0245,
+      "longitude": 105.8412,
+      "alternate_names": "Anoi, Anoy, Anòy, HAN, Ha Noi, Ha Nui, Hanoi, Hanoj, Hanoja, Hanojo, Hanojus, Hanoy, Hanoí, Hanoï, Hanòi, Hanói, Ho-nui-su, Hà Nội, Hò-nui-sṳ, Keicho, Khanoj, hano'i, hanoi, hanoy, hanwy, hanxy, he nei, he nei shi, hyanaya, khanwy, Ανόι, Ханой, Ханој, Հանոյ, האנוי, خانوي, هانوى, هانوي, هانوی, ھانۆی, ہنوئی, हनोई, হ্যানয়, ਹਨੋਈ, ହାନୋଇ, ஹனோய், ಹಾನೊಯ್, හැනෝයි, ฮานอย, ཧེ་ནོ།, ဟနွိုင်းမြို့, ჰანოი, ሀኖይ, ទីក្រុងហានូយ, Ḥanoi, ハノイ, 河內, 河內市, 하노이"
+    },
+    {
+      "name": "Da Nang",
+      "tinh_thanh": "Da Nang",
+      "population": 752493,
+      "latitude": 16.0678,
+      "longitude": 108.2208,
+      "alternate_names": "DAD, Da Nang, Danang, GJa Nang, Tourane, Turan, danan, danang, xian gang, Đà Nẵng, Да Нанг, ダナン, 岘港, 峴港, 다낭"
+    },
+    {
+      "name": "Haiphong",
+      "tinh_thanh": "Haiphong",
+      "population": 602695,
+      "latitude": 20.8648,
+      "longitude": 106.6834,
+      "alternate_names": "HPH, Hai Phong, Haiphong, Hajfong, Hải Phòng, Khajfon, hai fang shi, haifon, hayfwngh, hi fxng, Хайфон, هايفونغ, ไฮฟอง, ハイフォン, 海防市"
+    },
+    {
+      "name": "Biên Hòa",
+      "tinh_thanh": "Đồng Nai",
+      "population": 407208,
+      "latitude": 10.9447,
+      "longitude": 106.8243,
+      "alternate_names": "Bia Hoa, Bien Hoa, Bienhoa, Biên Hòa"
+    },
+    {
+      "name": "Huế",
+      "tinh_thanh": "Thừa Thiên-Huế",
+      "population": 287217,
+      "latitude": 16.4619,
+      "longitude": 107.5955,
+      "alternate_names": "Choue, HUI, Hue, Huje, Hujė, Hué, Huế, Khjue, Khjueh, Khue, Sun-fa-su, Sun-fa-sṳ, Thanh pho Hue, Thành phố Huế, fue, hue, hwyh, shun hua, shun hua shi, we, Χουέ, Хуе, Хюе, Хюэ, הואה, هوئه, ہوائے, เว้, ჰუე, フエ, 順化, 順化市, 顺化市, 후에"
+    },
+    {
+      "name": "Nha Trang",
+      "tinh_thanh": "Khánh Hòa",
+      "population": 283441,
+      "latitude": 12.2451,
+      "longitude": 109.1943,
+      "alternate_names": "INhatrang, Kanh-Hoa, NHA, Nacana, Nga-tsong-su, Ngà-tsông-sṳ, Nha Trang, Niacangas, Niačangas, Nja Chang, Njachang, nateulang, nha tranj, nha trng, nyachan, nyajjang, ya cang, ya zhuang, ya zhuang shi, Ņačana, Ња Чанг, Ня Чанг, Нячанг, نها ترانج, نها ترنگ, ญาจาง, ニャチャン, 芽庄市, 芽莊, 芽莊市, 나트랑, 냐짱"
+    },
+    {
+      "name": "Cần Thơ",
+      "tinh_thanh": "Can Tho",
+      "population": 259598,
+      "latitude": 10.0371,
+      "longitude": 105.7883,
+      "alternate_names": "Can Tho, Cần Thơ, Kan Tho, VCA, kanto, qin ju shi, カントー, 芹苴市"
+    },
+    {
+      "name": "Rạch Giá",
+      "tinh_thanh": "Thành Phố Rạch Giá",
+      "population": 228356,
+      "latitude": 10.0124,
+      "longitude": 105.0809,
+      "alternate_names": "Lit-ka-su, Li̍t-ka-sṳ, Rac'zja, Rach Gia, Rach Zhia, Racza, Racža, Rat'zja, Rạch Giá, VKG, Zhac Zhja, di shi shi, lagja, racha gya, rakkuza, rch gya, sak sa, Жаћ Жја, Ратьзя, Рацьзя, راچا گیا, رچ گیآ, สักซ้า, ラックザー, 迪石市, 락자"
+    },
+    {
+      "name": "Thị Xã Phú Mỹ",
+      "tinh_thanh": "Bà Rịa-Vũng Tàu",
+      "population": 221030,
+      "latitude": 10.5681,
+      "longitude": 107.13,
+      "alternate_names": "Phu My, Phu My town, Phú Mỹ"
+    },
+    {
+      "name": "Qui Nhon",
+      "tinh_thanh": "Phu Cat District",
+      "population": 210338,
+      "latitude": 13.7765,
+      "longitude": 109.2237,
+      "alternate_names": "Ki N'on, Ki N’on, Kin-hon, Kuinjon, Kwinhon, Qui Nhan, Qui Nhon, Qui Nhơn, Quinn Yan, Quinton, Quy Nhon, Quy Nhơn, UIH, gui ren shi, kku-inyeon, kuinyon, Куинён, クイニョン, 歸仁市, 꾸이년"
+    },
+    {
+      "name": "Vũng Tàu",
+      "tinh_thanh": "Bà Rịa-Vũng Tàu",
+      "population": 209683,
+      "latitude": 10.346,
+      "longitude": 107.0843,
+      "alternate_names": "Cap-Saint-Jacques, Cape Saint James, Saint James, VTG, Ville du Cap, Vung Tau, Vungtau, Vũng Tàu, Xa Vung Tau, bungttau, buntau, tou dun shi, Вунгтау, ブンタウ, 頭 頓市, 붕따우"
+    },
+    {
+      "name": "Sa Dec",
+      "tinh_thanh": "Sa Dec city",
+      "population": 203588,
+      "latitude": 10.2909,
+      "longitude": 105.7563,
+      "alternate_names": "Sa GJec, Sa Đéc"
+    },
+    {
+      "name": "Ðà Lạt",
+      "tinh_thanh": "Lâm Đồng",
+      "population": 197000,
+      "latitude": 11.9465,
+      "longitude": 108.4419,
+      "alternate_names": "DLI, Da Lat, Da lat, Dalat, Ðà Lạt, Далат"
+    },
+    {
+      "name": "Nam Định",
+      "tinh_thanh": "Nam Định",
+      "population": 193499,
+      "latitude": 20.4339,
+      "longitude": 106.1773,
+      "alternate_names": "Nam Din, Nam Dinh, Nam GJinh, Nam Định, Namdin', Thanh Pho Nam Dinh, Thành Phố Nam Định, Намдинь"
+    },
+    {
+      "name": "Vinh",
+      "tinh_thanh": "Nghệ An",
+      "population": 163759,
+      "latitude": 18.6734,
+      "longitude": 105.6923,
+      "alternate_names": "VII, Vin, Vin', Vinh, Vinis, bin, fynh, rong shi, vu~in, wiy, wyn, wyn  wytnam, Вин, Винь, Вінь, וין, فينه, وین، ویتنام, وینہ, วิญ, ヴィン, 荣市, 빈"
+    },
+    {
+      "name": "Đưc Trọng",
+      "tinh_thanh": "Lâm Đồng",
+      "population": 161232,
+      "latitude": 11.7356,
+      "longitude": 108.3733,
+      "alternate_names": "Duc Trong, Dyk Trong, Lien Nghia, Liên Nghĩa, Đưc Trọng, Дык Тронг"
+    },
+    {
+      "name": "La Gi",
+      "tinh_thanh": "Bình Thuận",
+      "population": 160652,
+      "latitude": 10.6599,
+      "longitude": 107.7721,
+      "alternate_names": "La Ghi, La Gi, Lag, Lagi"
+    },
+    {
+      "name": "Phan Thiết",
+      "tinh_thanh": "Bình Thuận",
+      "population": 160652,
+      "latitude": 10.9289,
+      "longitude": 108.1021,
+      "alternate_names": "Fan Thiet, Fant'et, Fanthit, Fantiet, Phan Thiet, Phan Thiết, Phan Tiet, Xa Phan Thiet, pan qie, Фантьет, 潘切"
+    },
+    {
+      "name": "Long Xuyên",
+      "tinh_thanh": "An Giang",
+      "population": 158153,
+      "latitude": 10.3864,
+      "longitude": 105.4352,
+      "alternate_names": "Cholong Xuyen, Chơlong Xuyen, Long Swiyen, Long Xuyen, Long Xuyên, Long-Shuyen"
+    },
+    {
+      "name": "Cần Giuộc",
+      "tinh_thanh": "Long An",
+      "population": 152200,
+      "latitude": 10.6086,
+      "longitude": 106.6714,
+      "alternate_names": "Can Duoc, Can Gioc, Can Giuoc, Cần Duộc, Cần Giuộc"
+    },
+    {
+      "name": "Bảo Lộc",
+      "tinh_thanh": "Thành Phố Bảo Lộc",
+      "population": 151915,
+      "latitude": 11.548,
+      "longitude": 107.8077,
+      "alternate_names": "Ap Thanh Tam, Ban Lao, Bao Loc, Baolok, Blao, Bảo Lộc, Cong Hinh, Баолок, Ấp Thánh Tâm"
+    },
+    {
+      "name": "Hạ Long",
+      "tinh_thanh": "Quảng Ninh",
+      "population": 148066,
+      "latitude": 20.9505,
+      "longitude": 107.0734,
+      "alternate_names": "Ha Long, Hon Cay, Hon Gai, Hon Gay, Hon Goi, Hong Gai, Honggay, Hạ Long, Hồng Gai, Khalong, Thanh Pho Ha Long, Thành Phố Hạ Long, xia long shi, Халонг, 下龙市"
+    },
+    {
+      "name": "Buôn Ma Thuột",
+      "tinh_thanh": "Đắk Lắk",
+      "population": 146975,
+      "latitude": 12.6675,
+      "longitude": 108.0378,
+      "alternate_names": "BMV, Ban Me Thaut, Ban Me Thnot, Ban Me Thot, Ban Me Thout, Ban Me Thuot, Ban Mê Thuột, Ban-me-Thurt, Benmethout, Buon Ma Thuot, Buon Me Thuot, Buôn Ma Thuột, Buôn Mê Thuột, Lac Giao, Lạc Giao, Me Thuot, Metuotas"
+    },
+    {
+      "name": "Cam Ranh",
+      "tinh_thanh": "Khánh Hòa",
+      "population": 146771,
+      "latitude": 11.9214,
+      "longitude": 109.1591,
+      "alternate_names": "Cam Linh, Cam Ranh Port, Kamran', Thon Cam Ranh, Thôn Cam Ranh, Камрань"
+    },
+    {
+      "name": "Cẩm Phả Mines",
+      "tinh_thanh": "Quảng Ninh",
+      "population": 135477,
+      "latitude": 21.0167,
+      "longitude": 107.3,
+      "alternate_names": "Cam Pha Mines, Cẩm Phả Mines"
+    },
+    {
+      "name": "Thái Nguyên",
+      "tinh_thanh": "Thái Nguyên",
+      "population": 133877,
+      "latitude": 21.5942,
+      "longitude": 105.8482,
+      "alternate_names": "Taj-Nguen, Thai Nguyen, Thanh Pho Thai Nguyen, Thành Phố Thái Nguyên, Thái Nguyên, Тай-Нгуен"
+    },
+    {
+      "name": "Quận Đức Thịnh",
+      "tinh_thanh": "Đồng Tháp",
+      "population": 132000,
+      "latitude": 10.3099,
+      "longitude": 105.7386,
+      "alternate_names": ""
+    },
+    {
+      "name": "Mỹ Tho",
+      "tinh_thanh": "Tiền Giang",
+      "population": 122310,
+      "latitude": 10.36,
+      "longitude": 106.36,
+      "alternate_names": "Mitho, My Tho, Mỹ Tho"
+    },
+    {
+      "name": "Sóc Trăng",
+      "tinh_thanh": "Sóc Trăng",
+      "population": 114453,
+      "latitude": 9.5999,
+      "longitude": 105.9719,
+      "alternate_names": "Khanh Hong, Khanh Hung, Khánh Hưng, SOA, Shokchang, Soc Trang, Sok Trang, Sóc Trăng, Шокчанг"
+    },
+    {
+      "name": "Pleiku",
+      "tinh_thanh": "Gia Lai",
+      "population": 114225,
+      "latitude": 13.9833,
+      "longitude": 108,
+      "alternate_names": "Gia Lai, PXU, Play Cu, Play Ku, Plei Cu, Pleiku, Plejku, Plây Cu, Plây Ku, Po-loi-ku, Pô-lòi-kú, Tinh Pleiku, Tỉnh Pleiku, bo lai gu shi, pel yku, plykw, ppeullaeikku, pureiku, Плеику, Плейку, پلیکو, เปล็ยกู, プレイク, 波來古市, 쁠래이꾸"
+    },
+    {
+      "name": "Thanh Hóa",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 112473,
+      "latitude": 19.8,
+      "longitude": 105.7667,
+      "alternate_names": "THD, Than Hoa, Thanh Hoa, Thanh Hóa, Than” Hoa"
+    },
+    {
+      "name": "Cà Mau",
+      "tinh_thanh": "Cà Mau",
+      "population": 111894,
+      "latitude": 9.1768,
+      "longitude": 105.1524,
+      "alternate_names": "CAH, Ca Mau, Camo, Cu Mau, Cà Mau, Kamao, Kamau, Quan Long, Quang Long, Song Kualon, Камау"
+    },
+    {
+      "name": "Bạc Liêu",
+      "tinh_thanh": "Bạc Liêu",
+      "population": 107911,
+      "latitude": 9.2941,
+      "longitude": 105.7278,
+      "alternate_names": "Bac Lieu, Bac-Lien, Bach Lieu, Bak Lieu, Bạc Liêu, Thanh Pho Bac Lieu, Thành Phố Bạc Liêu, Vinh Loi, Vĩnh Lợi"
+    },
+    {
+      "name": "Yên Vinh",
+      "tinh_thanh": "Nghệ An",
+      "population": 107082,
+      "latitude": 18.6667,
+      "longitude": 105.6667,
+      "alternate_names": "Yen Vinh, Yên Vinh"
+    },
+    {
+      "name": "Hòa Bình",
+      "tinh_thanh": "Hòa Bình",
+      "population": 105260,
+      "latitude": 20.8172,
+      "longitude": 105.3376,
+      "alternate_names": "Hao Binh, Hoa Bin, Hoa Binh, Hòa Bình, Thanh Pho Hoa Binh, Thành Phố Hòa Bình"
+    },
+    {
+      "name": "Vĩnh Long",
+      "tinh_thanh": "Thành Phố Vĩnh Long",
+      "population": 103314,
+      "latitude": 10.2537,
+      "longitude": 105.9722,
+      "alternate_names": "Vinh Long, Vĩnh Long, XVL"
+    },
+    {
+      "name": "Yên Bái",
+      "tinh_thanh": "Yên Bái",
+      "population": 96540,
+      "latitude": 21.7229,
+      "longitude": 104.9113,
+      "alternate_names": "Jenbaj, Yen Bai, Yen Bay, Yên Bái, Йенбай"
+    },
+    {
+      "name": "Sông Cầu",
+      "tinh_thanh": "Phú Yên",
+      "population": 94066,
+      "latitude": 13.4556,
+      "longitude": 109.2235,
+      "alternate_names": "Bong Cau, Bông Cầu, Song Cau, Song Ka, Song Ko, Songkau, Sông Cầu"
+    },
+    {
+      "name": "Việt Trì",
+      "tinh_thanh": "Phú Thọ",
+      "population": 93475,
+      "latitude": 21.3227,
+      "longitude": 105.402,
+      "alternate_names": "Viet Tri, Vietri, Việt Trì"
+    },
+    {
+      "name": "Phan Rang-Tháp Chàm",
+      "tinh_thanh": "Ninh Thuận",
+      "population": 91520,
+      "latitude": 11.5643,
+      "longitude": 108.9886,
+      "alternate_names": "PHA, Phan Rang, Phan Rang- Thap Cham, Phan Rang-Thap Cham, Phan Rang-Tháp Chàm, Phan Ranh"
+    },
+    {
+      "name": "Thủ Dầu Một",
+      "tinh_thanh": "Bình Dương",
+      "population": 91009,
+      "latitude": 10.9804,
+      "longitude": 106.6519,
+      "alternate_names": "Phu Cuong, Phú Cường, Thu Dau Mot, Thủ Dầu Một, Tkhuzaumot, thu seiwhmt, to~uzaumotto, tu long mu shi she, tujeoumos, tw dayw mwt, Тхузаумот, تو دائو موت, تھو داو مؤت, ถูเสิ่วหมต, トゥーザウモット, 土龍木市社, 투저우못"
+    },
+    {
+      "name": "Cung Kiệm",
+      "tinh_thanh": "Huyện Quế Võ",
+      "population": 80000,
+      "latitude": 21.187,
+      "longitude": 106.1608,
+      "alternate_names": "Cung Kiem, Cung Kiệm"
+    },
+    {
+      "name": "Củ Chi",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 75000,
+      "latitude": 10.9733,
+      "longitude": 106.4933,
+      "alternate_names": "Cu Chi, Củ Chi, Ku-Chi, Ку-Чи"
+    },
+    {
+      "name": "Móng Cái",
+      "tinh_thanh": "Quảng Ninh",
+      "population": 72960,
+      "latitude": 21.5247,
+      "longitude": 107.9662,
+      "alternate_names": "Mon Cay, Mon Gay, Mong Cai, Monkai, Móng Cái, Wangchieh"
+    },
+    {
+      "name": "Châu Đốc",
+      "tinh_thanh": "An Giang",
+      "population": 70239,
+      "latitude": 10.7,
+      "longitude": 105.1167,
+      "alternate_names": "Angiang, Chau Doc, Chau Phu, Chau Phú, Chaudok, Cho Dok, Châu Đốc"
+    },
+    {
+      "name": "Quận Đức Thành",
+      "tinh_thanh": "Đồng Tháp",
+      "population": 70000,
+      "latitude": 10.2587,
+      "longitude": 105.646,
+      "alternate_names": "Duc Thanh District"
+    },
+    {
+      "name": "Tuy Hòa",
+      "tinh_thanh": "Phú Yên",
+      "population": 69596,
+      "latitude": 13.0955,
+      "longitude": 109.3209,
+      "alternate_names": "Chau Thanh, TBB, Thanh pho Tuy Hoa, Thuy Hoa, Thành phố Tuy Hòa, Toy Hoa, Tuikhoa, Tuy Hoa, Tuy Hòa, sui he shi, to~uihoa, Туихоа, トゥイホア, 綏和市"
+    },
+    {
+      "name": "Tân An",
+      "tinh_thanh": "Long An",
+      "population": 64801,
+      "latitude": 10.5359,
+      "longitude": 106.4137,
+      "alternate_names": "Tan, Tan Am, Tan An, Tân An, Тан"
+    },
+    {
+      "name": "Thành Phố Uông Bí",
+      "tinh_thanh": "Quảng Ninh",
+      "population": 63829,
+      "latitude": 21.0343,
+      "longitude": 106.7705,
+      "alternate_names": "Thanh Pho Uong Bi, Thành Phố Uông Bí, Uong Bi, Uông Bí"
+    },
+    {
+      "name": "Cao Lãnh",
+      "tinh_thanh": "Đồng Tháp",
+      "population": 63770,
+      "latitude": 10.4602,
+      "longitude": 105.6329,
+      "alternate_names": "Cao Lanh, Cao Lãnh, Phong Thanh"
+    },
+    {
+      "name": "Bến Tre",
+      "tinh_thanh": "Bến Tre",
+      "population": 59442,
+      "latitude": 10.2415,
+      "longitude": 106.3758,
+      "alternate_names": "Ben Tre, Bến Tre, Truc Giang, Trúc Giang"
+    },
+    {
+      "name": "Tam Kỳ",
+      "tinh_thanh": "Quảng Nam",
+      "population": 59000,
+      "latitude": 15.5736,
+      "longitude": 108.474,
+      "alternate_names": "Tam Ky, Tam Kỳ, Tanky"
+    },
+    {
+      "name": "Hải Dương",
+      "tinh_thanh": "Hải Dương",
+      "population": 58030,
+      "latitude": 20.941,
+      "longitude": 106.333,
+      "alternate_names": "Hai Doong, Hai Duong, Hai dzung, Hai-Doung, Haidong, Haidöng, Hải Dương, Khajzyong, Thanh Pho Hai Duong, Thành Phố Hải Dương, Хайзыонг"
+    },
+    {
+      "name": "Trà Vinh",
+      "tinh_thanh": "Trà Vinh",
+      "population": 57408,
+      "latitude": 9.9472,
+      "longitude": 106.3423,
+      "alternate_names": "Phu Vinh, Phú Vinh, Tra Vin, Tra Vinh, Trà Vinh"
+    },
+    {
+      "name": "Lạng Sơn",
+      "tinh_thanh": "Lạng Sơn",
+      "population": 55981,
+      "latitude": 21.8526,
+      "longitude": 106.761,
+      "alternate_names": "Lang Son, Lạng Sơn, Thanh Pho Lang Son, Thành Phố Lạng Sơn"
+    },
+    {
+      "name": "Cần Giờ",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 55137,
+      "latitude": 10.4111,
+      "longitude": 106.9547,
+      "alternate_names": "Can Gio, Can Thanh, Cần Giờ, Cần Thạnh"
+    },
+    {
+      "name": "Bỉm Sơn",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 53754,
+      "latitude": 20.0781,
+      "longitude": 105.8603,
+      "alternate_names": "Bien Son, Bim Son, Biên Sơn, Bỉm Sơn"
+    },
+    {
+      "name": "Bắc Giang",
+      "tinh_thanh": "Bắc Giang",
+      "population": 53728,
+      "latitude": 21.2731,
+      "longitude": 106.1946,
+      "alternate_names": "Bac Giang, Bakziangas, Bakzjang, Bắc Giang, Pet-kong, Pet-kông, Phu Lang Thong, Phu Lang Thuong, Phu Long Thuong, Thuong, Vilojati Bak Giang, bagjang, bak gyang, bak zyang, bakuzan, bei jiang shi, Бакзянг, Вилояти Бак Гианг, باک زیانگ, باک گیانگ, バクザン, 北江市, 박장"
+    },
+    {
+      "name": "Thái Bình",
+      "tinh_thanh": "Thái Bình",
+      "population": 53071,
+      "latitude": 20.45,
+      "longitude": 106.34,
+      "alternate_names": "Kua Loc, Taibinh, Thai Bin, Thai Binh, Thanh Pho Thai Binh, Thành Phố Thái Bình, Thái Bình"
+    },
+    {
+      "name": "Hà Đông",
+      "tinh_thanh": "Hanoi",
+      "population": 50877,
+      "latitude": 20.9714,
+      "longitude": 105.7788,
+      "alternate_names": "Ha Dong, Hà Đông"
+    },
+    {
+      "name": "Phú Khương",
+      "tinh_thanh": "Tây Ninh Province",
+      "population": 47966,
+      "latitude": 11.2833,
+      "longitude": 106.1333,
+      "alternate_names": "Phu Khuong, Phú Khương"
+    },
+    {
+      "name": "Kon Tum",
+      "tinh_thanh": "Kon Tum",
+      "population": 47409,
+      "latitude": 14.3545,
+      "longitude": 108.0076,
+      "alternate_names": "Cong Tum, Công Tum, Kon Tum, Tinh Kontum, Tỉnh Kontum"
+    },
+    {
+      "name": "Bắc Ninh",
+      "tinh_thanh": "Bắc Ninh",
+      "population": 43564,
+      "latitude": 21.1861,
+      "longitude": 106.0763,
+      "alternate_names": "Bac Ninh, Bacht Ninh, Bak Nin, Bak Ninh, Bắc Ninh"
+    },
+    {
+      "name": "Cao Bằng",
+      "tinh_thanh": "Cao Bằng",
+      "population": 41112,
+      "latitude": 22.6657,
+      "longitude": 106.2579,
+      "alternate_names": "Cao Bang, Cao Bằng, Cao Pang, Kao Bang, Kao banh, Kaobang, Thanh Pho Cao Bang, Thành Phố Cao Bằng, Каобанг"
+    },
+    {
+      "name": "Sơn Tây",
+      "tinh_thanh": "Hanoi",
+      "population": 40636,
+      "latitude": 21.1405,
+      "longitude": 105.5069,
+      "alternate_names": "Son Tay, Son-Taj, Sontai, Sơn Tây, Сон-Тай"
+    },
+    {
+      "name": "Dien Bien Phu",
+      "tinh_thanh": "Ðiện Biên",
+      "population": 40282,
+      "latitude": 21.386,
+      "longitude": 103.023,
+      "alternate_names": "D'enb'enfu, D'enbenfu, DIN, Dien Bien Phu, Dienbienfu, Dienbjenfu, Dijen Bijen Fu, GJien Bien Phu, Thien-pien-fu, Thièn-piên-fú, deiy n beiyn fu, dian bian fu, dienbienfu, dienbienpu, dyn byn fw, dyyn byyn fw, Ðiện Biên Phủ, Điện Biên Phủ, Диенбиенфу, Дијен Бијен Фу, Дьенбьенфу, Дьєнбєнфу, دیئن بیئن فو, دیئن بیئن پھو, دین بین فو, เดียนเบียนฟู, ດຽນບຽນຟູ, ディエンビエンフー, 奠邊府, 디엔비엔푸"
+    },
+    {
+      "name": "Hưng Yên",
+      "tinh_thanh": "Hưng Yên",
+      "population": 40273,
+      "latitude": 20.6464,
+      "longitude": 106.0511,
+      "alternate_names": "Hong-Yen, Hung Yen, Hưng Yên"
+    },
+    {
+      "name": "Hà Tiên",
+      "tinh_thanh": "Kiến Giang",
+      "population": 40000,
+      "latitude": 10.3831,
+      "longitude": 104.4875,
+      "alternate_names": "Ha Tien, Hà Tiên, Khat'en, Хатьен"
+    },
+    {
+      "name": "Ninh Bình",
+      "tinh_thanh": "Ninh Bình",
+      "population": 36864,
+      "latitude": 20.2581,
+      "longitude": 105.9797,
+      "alternate_names": "Nin Bin, Nin' Bin', Ninbinh, Ninh Binh, Ninh Bình, Thanh Pho Ninh Binh, Thành Phố Ninh Bình, ninbin, Нинь Бинь, 닌빈"
+    },
+    {
+      "name": "Lào Cai",
+      "tinh_thanh": "Lào Cai",
+      "population": 36502,
+      "latitude": 22.4856,
+      "longitude": 103.9707,
+      "alternate_names": "Lao Cai, Lao Cai Lalawigan, Lao Kaj, Lao Kay, Laokai, Laokaj, Laokajus, Laos, Lo-kie-su, Lào Cai, Ló-kiê-sṳ, Vilojati Lao Kai, hla wkay, lao jie shi, laokkai, law kayy, layw kay, raokai, Вилояти Лао Каи, Лао Кај, Лаокай, لائو کای, لاو کائی, หล่าวกาย, ラオカイ, 老街市, 라오까이"
+    },
+    {
+      "name": "Tây Ninh",
+      "tinh_thanh": "Tây Ninh Province",
+      "population": 36456,
+      "latitude": 11.31,
+      "longitude": 106.0983,
+      "alternate_names": "Tai nin, Tay Ninh, Tehjnin', Tei Nin, Tây Ninh, Vilojati Tej Nin, tainin, tay nynha, tteoinin, xi ning shi, Вилояти Тей Нин, Тэйнинь, Тэйнінь, تای نینها, تاے ننہ, タイニン, 西寧市, 떠이닌"
+    },
+    {
+      "name": "Tuyên Quang",
+      "tinh_thanh": "Tuyên Quang",
+      "population": 36430,
+      "latitude": 21.8236,
+      "longitude": 105.2142,
+      "alternate_names": "Thanh Pho Tuyen Quang, Thành Phố Tuyên Quang, Tuyen Kang, Tuyen Kwang, Tuyen Quang, Tuyên Quang"
+    },
+    {
+      "name": "Quảng Ngãi",
+      "tinh_thanh": "Quảng Ngãi Province",
+      "population": 32992,
+      "latitude": 15.1205,
+      "longitude": 108.7923,
+      "alternate_names": "Kang Ngei, Kong-ngi-su, Kuangngaj, Kvang Ngaj, Kwang Ngai, Kóng-ngi-sṳ, Quang Ngai, Quảng Ngãi, Thanh pho Quang Ngai, Thành phố Quảng Ngãi, Vilojati Kuang Ngaj, guang yi shi, kkwang-eung-ai, kuangai, kwang ngay, Вилояти Куанг Нгай, Кванг Нгај, Куангнгай, کوانگ نگای, クアンガイ, 廣義市, 꽝응아이"
+    },
+    {
+      "name": "Hoi An",
+      "tinh_thanh": "Quảng Nam",
+      "population": 32757,
+      "latitude": 15.8794,
+      "longitude": 108.335,
+      "alternate_names": "Cidade Antiga de Hoi An, Faifo, Faifoh, Faifoo, Feifu, Hoi An, Hojanas, Hôi An, Hội An, Khoj An, Khoj An', Khojan, ho'i ena pracina sahara, hoi-ani, hoian, hui an, hui an shi, hwy an, hx yxan, Хой Ань, Хойан, Хоян, Хој Ан, הוי אן, هوي أن, ہؤئی آن, होइ एन प्राचीन सहर, ฮอยอัน, ჰოი-ანი, ホイアン, 會安, 會安市, 호이안"
+    },
+    {
+      "name": "Hà Giang",
+      "tinh_thanh": "Hà Giang",
+      "population": 32690,
+      "latitude": 22.8233,
+      "longitude": 104.9836,
+      "alternate_names": "Ha Giang, Hà Giang, Thanh Pho Ha Giang, Thành Phố Hà Giang"
+    },
+    {
+      "name": "Phủ Lý",
+      "tinh_thanh": "Hà Nam",
+      "population": 31801,
+      "latitude": 20.5453,
+      "longitude": 105.9122,
+      "alternate_names": "Fu Li, Ha-Nam, Phu Ly, Phu-li, Phủ Lý, Thanh Pho Phu Ly, Thành Phố Phủ Lý"
+    },
+    {
+      "name": "Đồng Hới",
+      "tinh_thanh": "Quảng Bình",
+      "population": 31040,
+      "latitude": 17.4688,
+      "longitude": 106.6223,
+      "alternate_names": "Dong Hoi, Dongkhoj, GJong Hoi, Kwang Binh, tong hai shi, Đồng Hới, Донгхой, 同海市"
+    },
+    {
+      "name": "Cát Bà",
+      "tinh_thanh": "Haiphong",
+      "population": 30000,
+      "latitude": 20.7278,
+      "longitude": 107.0482,
+      "alternate_names": "Apowan, Cac Ba, Cat Ba, Cát Bà, Kat Ba, Pho Cac Ba, Pho Cat Ba, Кат Ба"
+    },
+    {
+      "name": "Hà Tĩnh",
+      "tinh_thanh": "Hà Tĩnh",
+      "population": 27728,
+      "latitude": 18.3428,
+      "longitude": 105.9057,
+      "alternate_names": "Ha Thin, Ha Tin, Ha Tinh, Ho-tshin-su, Hà Tĩnh, Hò-tshin-sṳ, Kha Tin, Khatin', Province de Ha Tinh, Province de Hà Tĩnh, ha tiy, ha tyn, hattin, he jing shi, Ха Тин, Хатинь, ها تین, ہا تنہ, ห่าติ๋ญ, 河靜市, 하띤"
+    },
+    {
+      "name": "Vị Thanh",
+      "tinh_thanh": "Hậu Giang",
+      "population": 24477,
+      "latitude": 9.7845,
+      "longitude": 105.4701,
+      "alternate_names": "Duc Long, Vi Tanh, Vi Thanh, Vị Thanh, Đức Long"
+    },
+    {
+      "name": "Đồng Xoài",
+      "tinh_thanh": "Bình Phước",
+      "population": 23978,
+      "latitude": 11.535,
+      "longitude": 106.8832,
+      "alternate_names": "Ap Dong Xoai, Don Luan, Dong Xoa, Dong Xoai, Dong Xoi, Dồng Xoài, Đồng Xoài, Ấp Đồng Xoài"
+    },
+    {
+      "name": "Thị Trấn Tân Thành",
+      "tinh_thanh": "Đồng Tháp",
+      "population": 23109,
+      "latitude": 10.2562,
+      "longitude": 105.5928,
+      "alternate_names": ""
+    },
+    {
+      "name": "Sơn La",
+      "tinh_thanh": "Sơn La",
+      "population": 19054,
+      "latitude": 21.3256,
+      "longitude": 103.9188,
+      "alternate_names": "SQH, Son La, Son La Chau, Son Lu, Son-La, Sơn La, Thanh Pho Son La, Thành Phố Sơn La, shan luo shi, Сон-Ла, 山羅市"
+    },
+    {
+      "name": "Vĩnh Yên",
+      "tinh_thanh": "Vĩnh Phúc",
+      "population": 17876,
+      "latitude": 21.3089,
+      "longitude": 105.6049,
+      "alternate_names": "Vieh Yen, Vinh Yen, Vĩnh Yên, Yen"
+    },
+    {
+      "name": "Bắc Kạn",
+      "tinh_thanh": "Bắc Kạn",
+      "population": 17701,
+      "latitude": 22.147,
+      "longitude": 105.8348,
+      "alternate_names": "Bac Can, Bac Kan, Bak Kan, Bắc Cạn, Bắc Kạn"
+    },
+    {
+      "name": "Ðông Hà",
+      "tinh_thanh": "Quảng Trị",
+      "population": 17662,
+      "latitude": 16.8163,
+      "longitude": 107.1003,
+      "alternate_names": "Dong Ha, Dong Na, GJong Ha, Thi Xa Dong Ha, Thi Xã Ðòng Hà, Ðông Hà, Đông Hà"
+    },
+    {
+      "name": "Đinh Văn",
+      "tinh_thanh": "Huyện Lâm Hà",
+      "population": 16036,
+      "latitude": 11.7862,
+      "longitude": 108.2428,
+      "alternate_names": "Din' Van, Dinh Van, Đinh Văn, Динь Ван"
+    },
+    {
+      "name": "Bình Long",
+      "tinh_thanh": "Bình Phước",
+      "population": 15000,
+      "latitude": 11.6471,
+      "longitude": 106.6059,
+      "alternate_names": "An Loc, An Lôc, Binh Long, Bình Long, Hon Quan, Hớn Quản"
+    },
+    {
+      "name": "Dương Đông",
+      "tinh_thanh": "Kiến Giang",
+      "population": 15000,
+      "latitude": 10.2172,
+      "longitude": 103.9593,
+      "alternate_names": "Duong Dong, Duong-Dong, Dương Dông, Xom Duong Dong, Дуонг-Донг"
+    },
+    {
+      "name": "Sa Pa",
+      "tinh_thanh": "Lào Cai",
+      "population": 10554,
+      "latitude": 22.3402,
+      "longitude": 103.8441,
+      "alternate_names": "Chapa, Sapa, Сапа"
+    },
+    {
+      "name": "Ấp Tân Ngãi",
+      "tinh_thanh": "Bến Tre",
+      "population": 8887,
+      "latitude": 10.2333,
+      "longitude": 106.2833,
+      "alternate_names": "Ap Tan Ngai, Thanh Ngai, Thanh Ngãi, Ấp Tân Ngãi"
+    },
+    {
+      "name": "Phù Ninh",
+      "tinh_thanh": "",
+      "population": 4000,
+      "latitude": 21.0833,
+      "longitude": 105.95,
+      "alternate_names": "Ninh hiep, Phu Ninh, Phù Ninh"
+    },
+    {
+      "name": "Lao Chải",
+      "tinh_thanh": "Lào Cai",
+      "population": 2324,
+      "latitude": 22.3138,
+      "longitude": 103.8684,
+      "alternate_names": "Lao Chai, Lao Chaj, Lao Chải, Lao Tchay, Лао Чай"
+    },
+    {
+      "name": "Côn Sơn",
+      "tinh_thanh": "Bà Rịa-Vũng Tàu",
+      "population": 1500,
+      "latitude": 8.6864,
+      "longitude": 106.6082,
+      "alternate_names": "Con Son, Con Son City, Côn Sơn, Kon-Shon, Phu Hai City, Poulo Condore, Pulo Condore, Thi-xa Con-son, Thị-xã Côn-sơn, Кон-Шон"
+    },
+    {
+      "name": "Cát Cát",
+      "tinh_thanh": "Lào Cai",
+      "population": 1000,
+      "latitude": 22.3305,
+      "longitude": 103.8248,
+      "alternate_names": "Cat Cat, Cát Cát, Kat Kat, Кат Кат"
+    },
+    {
+      "name": "A Lưới",
+      "tinh_thanh": "Thừa Thiên-Huế",
+      "population": 0,
+      "latitude": 16.2723,
+      "longitude": 107.2339,
+      "alternate_names": "A Luoi, A Lưới"
+    },
+    {
+      "name": "A Yun Pa",
+      "tinh_thanh": "Gia Lai",
+      "population": 0,
+      "latitude": 13.4002,
+      "longitude": 108.435,
+      "alternate_names": "A Yun Pa"
+    },
+    {
+      "name": "An Biên",
+      "tinh_thanh": "Kiến Giang",
+      "population": 0,
+      "latitude": 9.8153,
+      "longitude": 105.0637,
+      "alternate_names": "An Bien, An Biên"
+    },
+    {
+      "name": "An Châu",
+      "tinh_thanh": "Bắc Giang",
+      "population": 0,
+      "latitude": 21.3346,
+      "longitude": 106.8493,
+      "alternate_names": "An Chau, An Châu"
+    },
+    {
+      "name": "An Châu",
+      "tinh_thanh": "An Giang",
+      "population": 0,
+      "latitude": 10.4456,
+      "longitude": 105.3862,
+      "alternate_names": "An Chau, An Châu"
+    },
+    {
+      "name": "An Dương",
+      "tinh_thanh": "Haiphong",
+      "population": 0,
+      "latitude": 20.8638,
+      "longitude": 106.6133,
+      "alternate_names": "An Duong, An Dương"
+    },
+    {
+      "name": "An Hòa",
+      "tinh_thanh": "Sa Dec city",
+      "population": 0,
+      "latitude": 10.2969,
+      "longitude": 105.7443,
+      "alternate_names": ""
+    },
+    {
+      "name": "An Lão",
+      "tinh_thanh": "Bình Định",
+      "population": 0,
+      "latitude": 14.6124,
+      "longitude": 108.8899,
+      "alternate_names": "An Lao, An Lão"
+    },
+    {
+      "name": "An Lão",
+      "tinh_thanh": "Haiphong",
+      "population": 0,
+      "latitude": 20.8229,
+      "longitude": 106.5558,
+      "alternate_names": "An Lao, An Lão"
+    },
+    {
+      "name": "An Nhơn",
+      "tinh_thanh": "Bình Định",
+      "population": 0,
+      "latitude": 13.8858,
+      "longitude": 109.1082,
+      "alternate_names": "An Nhon, An Nhơn, Bhin-Dinh, Bin Din, Binh Dinh"
+    },
+    {
+      "name": "An Phú",
+      "tinh_thanh": "An Giang",
+      "population": 0,
+      "latitude": 10.8159,
+      "longitude": 105.0904,
+      "alternate_names": "An Phu, An Phú"
+    },
+    {
+      "name": "Anh Son",
+      "tinh_thanh": "Huyện Anh Sơn",
+      "population": 0,
+      "latitude": 18.9696,
+      "longitude": 105.055,
+      "alternate_names": "Anh Son, Cho Do Luong, Cho Dô Lương, Do Luong, Đô Lương"
+    },
+    {
+      "name": "Ba Tri",
+      "tinh_thanh": "Bến Tre",
+      "population": 0,
+      "latitude": 10.0443,
+      "longitude": 106.5902,
+      "alternate_names": "Ba Tri"
+    },
+    {
+      "name": "Ba Tơ",
+      "tinh_thanh": "Quảng Ngãi Province",
+      "population": 0,
+      "latitude": 14.7636,
+      "longitude": 108.7322,
+      "alternate_names": "Ba To, Ba Tơ"
+    },
+    {
+      "name": "Ba Đồn",
+      "tinh_thanh": "Quảng Bình",
+      "population": 0,
+      "latitude": 17.7535,
+      "longitude": 106.4236,
+      "alternate_names": "Ba Don, Ba Đồn, Quang Trach, Quảng Trach"
+    },
+    {
+      "name": "Bo",
+      "tinh_thanh": "Hòa Bình",
+      "population": 0,
+      "latitude": 20.6726,
+      "longitude": 105.5362,
+      "alternate_names": "Bo"
+    },
+    {
+      "name": "Buôn Trấp",
+      "tinh_thanh": "Đắk Lắk",
+      "population": 0,
+      "latitude": 12.4848,
+      "longitude": 108.0298,
+      "alternate_names": "Ban Trap, Buon Trap, Buôn Trăp, Buôn Trấp"
+    },
+    {
+      "name": "Bác Ái",
+      "tinh_thanh": "Ninh Thuận",
+      "population": 0,
+      "latitude": 11.841,
+      "longitude": 108.9032,
+      "alternate_names": "Bac Ai, Bác Ái"
+    },
+    {
+      "name": "Bát Xát",
+      "tinh_thanh": "Lào Cai",
+      "population": 0,
+      "latitude": 22.5431,
+      "longitude": 103.8899,
+      "alternate_names": "Bat Xat, Bát Xát, Thi Tran Bat Xat, Thị Trấn Bát Xát"
+    },
+    {
+      "name": "Bình Gia",
+      "tinh_thanh": "Lạng Sơn",
+      "population": 0,
+      "latitude": 21.9609,
+      "longitude": 106.3645,
+      "alternate_names": "Binh Gia, Bình Gia, Pho Binh Gia, Phố Bình Gia"
+    },
+    {
+      "name": "Bình Minh",
+      "tinh_thanh": "Vĩnh Long",
+      "population": 0,
+      "latitude": 10.0682,
+      "longitude": 105.8222,
+      "alternate_names": "Binh Minh, Bình Minh, Cai Von, Cái Vồn"
+    },
+    {
+      "name": "Bình Mỹ",
+      "tinh_thanh": "Hà Nam",
+      "population": 0,
+      "latitude": 20.4912,
+      "longitude": 106.0096,
+      "alternate_names": "Binh My, Bình Mỹ"
+    },
+    {
+      "name": "Bình Sơn",
+      "tinh_thanh": "Quảng Ngãi Province",
+      "population": 0,
+      "latitude": 15.2978,
+      "longitude": 108.7612,
+      "alternate_names": "Binh Son, Bình Sơn, Chau O, Châu Ổ"
+    },
+    {
+      "name": "Bình Thủy",
+      "tinh_thanh": "Can Tho",
+      "population": 0,
+      "latitude": 10.0743,
+      "longitude": 105.7397,
+      "alternate_names": "Binh Thuy, Bình Thủy"
+    },
+    {
+      "name": "Bình Đại",
+      "tinh_thanh": "Bến Tre",
+      "population": 0,
+      "latitude": 10.1896,
+      "longitude": 106.6915,
+      "alternate_names": "Binh Dai, Bình Đại"
+    },
+    {
+      "name": "Bích Động",
+      "tinh_thanh": "Bắc Giang",
+      "population": 0,
+      "latitude": 21.2742,
+      "longitude": 106.1007,
+      "alternate_names": "Bich GJong, Bích Động"
+    },
+    {
+      "name": "Bù Đốp",
+      "tinh_thanh": "Bình Phước",
+      "population": 0,
+      "latitude": 11.9549,
+      "longitude": 106.8002,
+      "alternate_names": "Bo Duc, Bu Dop, Bô Dức, Bù Đốp, Quan Ba Duc, Quan Bo Duc, Quận Bá Đức, Quận Bố Đức, Xa Phuoc Loc, Xã Phươc Lộc"
+    },
+    {
+      "name": "Bút Sơn",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 19.858,
+      "longitude": 105.8548,
+      "alternate_names": "But Son, Bút Sơn"
+    },
+    {
+      "name": "Bẩn Yên Nhân",
+      "tinh_thanh": "Hưng Yên",
+      "population": 0,
+      "latitude": 20.9365,
+      "longitude": 106.0571,
+      "alternate_names": "Ban Yen Nhan, Bẩn Yên Nhân, My Hao, Mỹ Hào"
+    },
+    {
+      "name": "Bắc Hà",
+      "tinh_thanh": "Lào Cai",
+      "population": 0,
+      "latitude": 22.5391,
+      "longitude": 104.293,
+      "alternate_names": "Bac Ha, Bắc Hà, Pa Kha"
+    },
+    {
+      "name": "Bắc Sơn",
+      "tinh_thanh": "Lạng Sơn",
+      "population": 0,
+      "latitude": 21.9,
+      "longitude": 106.3208,
+      "alternate_names": "Bac Son, Bắc Sơn"
+    },
+    {
+      "name": "Bắc Yên",
+      "tinh_thanh": "Sơn La",
+      "population": 0,
+      "latitude": 21.2463,
+      "longitude": 104.4328,
+      "alternate_names": "Bac Yen, Bắc Yên"
+    },
+    {
+      "name": "Bằng Lũng",
+      "tinh_thanh": "Bắc Kạn",
+      "population": 0,
+      "latitude": 22.1578,
+      "longitude": 105.5956,
+      "alternate_names": "Bang Lung, Bằng Lũng"
+    },
+    {
+      "name": "Bến Cầu",
+      "tinh_thanh": "Tây Ninh Province",
+      "population": 0,
+      "latitude": 11.1105,
+      "longitude": 106.1792,
+      "alternate_names": "Ap Ben Cau, Ben Cau, Bến Cầu, Hieu Thien"
+    },
+    {
+      "name": "Bến Sung",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 19.6314,
+      "longitude": 105.5781,
+      "alternate_names": "Ben Sung, Bến Sung, Pho Ben Sung, Pho Beu Sung, Phố Bến Sung"
+    },
+    {
+      "name": "Bồng Sơn",
+      "tinh_thanh": "Bình Định",
+      "population": 0,
+      "latitude": 14.4291,
+      "longitude": 109.0156,
+      "alternate_names": "Bong Son, Bồng Sơn, Hoai Nhon, Hoài Nhon"
+    },
+    {
+      "name": "Bộc Bố",
+      "tinh_thanh": "Bắc Kạn",
+      "population": 0,
+      "latitude": 22.6121,
+      "longitude": 105.6671,
+      "alternate_names": "Boc Bo, Bộc Bố"
+    },
+    {
+      "name": "Cam Lâm",
+      "tinh_thanh": "Khánh Hòa",
+      "population": 0,
+      "latitude": 12.054,
+      "longitude": 109.16,
+      "alternate_names": "Cam Lam, Cam Lâm"
+    },
+    {
+      "name": "Cam Lộ",
+      "tinh_thanh": "Quảng Trị",
+      "population": 0,
+      "latitude": 16.808,
+      "longitude": 106.9941,
+      "alternate_names": "Cam Lo, Cam Lộ, Thon Cam Lo, Thôn Cam Lộ"
+    },
+    {
+      "name": "Cao Phong",
+      "tinh_thanh": "Hòa Bình",
+      "population": 0,
+      "latitude": 20.7045,
+      "longitude": 105.3206,
+      "alternate_names": "Cao Phong"
+    },
+    {
+      "name": "Cao Thượng",
+      "tinh_thanh": "Bắc Giang",
+      "population": 0,
+      "latitude": 21.3871,
+      "longitude": 106.1293,
+      "alternate_names": "Cao Thuong, Cao Thượng"
+    },
+    {
+      "name": "Chi Nê",
+      "tinh_thanh": "Hòa Bình",
+      "population": 0,
+      "latitude": 20.4906,
+      "longitude": 105.778,
+      "alternate_names": "Chi Ne, Chi Nê"
+    },
+    {
+      "name": "Châu Thành",
+      "tinh_thanh": "Trà Vinh",
+      "population": 0,
+      "latitude": 9.8699,
+      "longitude": 106.3494,
+      "alternate_names": "Chau Thanh, Châu Thành, Huong Chau Thanh, Hương Châu Thành"
+    },
+    {
+      "name": "Châu Thành",
+      "tinh_thanh": "Tây Ninh Province",
+      "population": 0,
+      "latitude": 11.3117,
+      "longitude": 106.0295,
+      "alternate_names": "Chau Thanh, Châu Thành"
+    },
+    {
+      "name": "Châu Thành",
+      "tinh_thanh": "Bến Tre",
+      "population": 0,
+      "latitude": 10.3012,
+      "longitude": 106.357,
+      "alternate_names": "Chau Thanh, Châu Thành"
+    },
+    {
+      "name": "Châu Thành",
+      "tinh_thanh": "Huyện Châu Thành",
+      "population": 0,
+      "latitude": 9.7007,
+      "longitude": 105.902,
+      "alternate_names": "Chau Thanh, Châu Thành"
+    },
+    {
+      "name": "Chí Thạnh",
+      "tinh_thanh": "Phú Yên",
+      "population": 0,
+      "latitude": 13.3085,
+      "longitude": 109.2152,
+      "alternate_names": "Chi Thanh, Chi Thank, Chí Thạnh, Chí Thậnk"
+    },
+    {
+      "name": "Chùa Hang",
+      "tinh_thanh": "Thái Nguyên",
+      "population": 0,
+      "latitude": 21.6238,
+      "longitude": 105.8417,
+      "alternate_names": "Chua Hang, Chùa Hang"
+    },
+    {
+      "name": "Chúc Sơn",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 20.9237,
+      "longitude": 105.7015,
+      "alternate_names": "Chuc Son, Chúc Sơn"
+    },
+    {
+      "name": "Chũ",
+      "tinh_thanh": "Bắc Giang",
+      "population": 0,
+      "latitude": 21.3738,
+      "longitude": 106.5665,
+      "alternate_names": "Chu, Chũ"
+    },
+    {
+      "name": "Chơn Thành",
+      "tinh_thanh": "Bình Phước",
+      "population": 0,
+      "latitude": 11.4282,
+      "longitude": 106.6354,
+      "alternate_names": "Ap Chon Thanh, Chon Thanh, Chơn Thành, Thanh Ghon, Ấp Chơn Thành"
+    },
+    {
+      "name": "Chư Prông",
+      "tinh_thanh": "Gia Lai",
+      "population": 0,
+      "latitude": 13.7568,
+      "longitude": 107.8862,
+      "alternate_names": "Chu Prong, Chư Prông"
+    },
+    {
+      "name": "Chư Sê",
+      "tinh_thanh": "Gia Lai",
+      "population": 0,
+      "latitude": 13.6915,
+      "longitude": 108.0802,
+      "alternate_names": "Chu Se, Chư Sê"
+    },
+    {
+      "name": "Chư Ty",
+      "tinh_thanh": "Gia Lai",
+      "population": 0,
+      "latitude": 13.8051,
+      "longitude": 107.6961,
+      "alternate_names": "Chu Ty, Chư Ty"
+    },
+    {
+      "name": "Chờ",
+      "tinh_thanh": "Bắc Ninh",
+      "population": 0,
+      "latitude": 21.1949,
+      "longitude": 105.9547,
+      "alternate_names": "Cho, Chờ"
+    },
+    {
+      "name": "Chợ Chu",
+      "tinh_thanh": "Thái Nguyên",
+      "population": 0,
+      "latitude": 21.9072,
+      "longitude": 105.6422,
+      "alternate_names": "Cho Chu, Chợ Chu"
+    },
+    {
+      "name": "Chợ Gạo",
+      "tinh_thanh": "Tiền Giang",
+      "population": 0,
+      "latitude": 10.3498,
+      "longitude": 106.4634,
+      "alternate_names": "Cho Gao, Chợ Gạo"
+    },
+    {
+      "name": "Chợ Lách",
+      "tinh_thanh": "Bến Tre",
+      "population": 0,
+      "latitude": 10.2603,
+      "longitude": 106.1189,
+      "alternate_names": "Cho Lach, Cholac, Chơ Lách, Chợ Lách"
+    },
+    {
+      "name": "Chợ Lầu",
+      "tinh_thanh": "Bình Thuận",
+      "population": 0,
+      "latitude": 11.2216,
+      "longitude": 108.5071,
+      "alternate_names": "Cho Lau, Chợ Lầu"
+    },
+    {
+      "name": "Chợ Mới",
+      "tinh_thanh": "Bắc Kạn",
+      "population": 0,
+      "latitude": 21.8837,
+      "longitude": 105.7728,
+      "alternate_names": "Cho Moi, Chợ Mới"
+    },
+    {
+      "name": "Chợ Mới",
+      "tinh_thanh": "An Giang",
+      "population": 0,
+      "latitude": 10.5512,
+      "longitude": 105.4044,
+      "alternate_names": "Cho Moi, Chợ Mới"
+    },
+    {
+      "name": "Con Cuông",
+      "tinh_thanh": "Nghệ An",
+      "population": 0,
+      "latitude": 19.05,
+      "longitude": 104.8812,
+      "alternate_names": "Con Cuong, Con Cuông"
+    },
+    {
+      "name": "Cành Nàng",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 20.348,
+      "longitude": 105.2288,
+      "alternate_names": "Canh Nang, Cành Nàng"
+    },
+    {
+      "name": "Cái Dầu",
+      "tinh_thanh": "An Giang",
+      "population": 0,
+      "latitude": 10.5698,
+      "longitude": 105.2295,
+      "alternate_names": "Cai Dau, Cái Dầu"
+    },
+    {
+      "name": "Cái Nhum",
+      "tinh_thanh": "Vĩnh Long",
+      "population": 0,
+      "latitude": 10.1741,
+      "longitude": 106.1105,
+      "alternate_names": "Cai Nhum, Cái Nhum, Minh Duc, Minh Đúc"
+    },
+    {
+      "name": "Cái Nước",
+      "tinh_thanh": "Cà Mau",
+      "population": 0,
+      "latitude": 8.9423,
+      "longitude": 105.0141,
+      "alternate_names": "Cai Nuoc, Cái Nước"
+    },
+    {
+      "name": "Cái Răng",
+      "tinh_thanh": "Can Tho",
+      "population": 0,
+      "latitude": 10.0009,
+      "longitude": 105.751,
+      "alternate_names": "Cai Rang, Chau Thanh, Châu Thành, Cái Răng"
+    },
+    {
+      "name": "Cái Tàu Hạ",
+      "tinh_thanh": "Đồng Tháp",
+      "population": 0,
+      "latitude": 10.2597,
+      "longitude": 105.8704,
+      "alternate_names": "Ai Tau Ha, Cai Tau Ha, Cao Tao Ha, Cái Tàu Hạ"
+    },
+    {
+      "name": "Cái Đôi Vàm",
+      "tinh_thanh": "Cà Mau",
+      "population": 0,
+      "latitude": 8.8571,
+      "longitude": 104.812,
+      "alternate_names": "Cai Doi Vam, Cái Đôi Vàm, Xom Cai Doi Vam, Xóm Cái Đôi Vàm"
+    },
+    {
+      "name": "Cô Tô",
+      "tinh_thanh": "Quảng Ninh",
+      "population": 0,
+      "latitude": 20.9727,
+      "longitude": 107.7658,
+      "alternate_names": "Co To, Cô Tô"
+    },
+    {
+      "name": "Cù Lao Dung",
+      "tinh_thanh": "Sóc Trăng",
+      "population": 0,
+      "latitude": 9.6731,
+      "longitude": 106.1487,
+      "alternate_names": "Cu Lao Dung, Cù Lao Dung"
+    },
+    {
+      "name": "Cần Đước",
+      "tinh_thanh": "Long An",
+      "population": 0,
+      "latitude": 10.5097,
+      "longitude": 106.6031,
+      "alternate_names": "Can Duoc, Cần Đước"
+    },
+    {
+      "name": "Cầu Diễn",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 21.0393,
+      "longitude": 105.7666,
+      "alternate_names": "Cau Dien, Cầu Diễn"
+    },
+    {
+      "name": "Cầu Giát",
+      "tinh_thanh": "Nghệ An",
+      "population": 0,
+      "latitude": 19.146,
+      "longitude": 105.6309,
+      "alternate_names": "Cau Giat, Cầu Giát, Quynh Luu"
+    },
+    {
+      "name": "Cầu Giấy",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 21.0323,
+      "longitude": 105.8007,
+      "alternate_names": "Cau Giay, Cầu Giấy"
+    },
+    {
+      "name": "Cầu Gồ",
+      "tinh_thanh": "Bắc Giang",
+      "population": 0,
+      "latitude": 21.4768,
+      "longitude": 106.1265,
+      "alternate_names": "Cau Go, Cầu Gồ"
+    },
+    {
+      "name": "Cầu Kè",
+      "tinh_thanh": "Trà Vinh",
+      "population": 0,
+      "latitude": 9.8724,
+      "longitude": 106.055,
+      "alternate_names": "Cau Ke, Cầu Kè, Huong Cau Ke, Hương Cầu Kè, Tam Can"
+    },
+    {
+      "name": "Cẩm Lệ",
+      "tinh_thanh": "Da Nang",
+      "population": 0,
+      "latitude": 16.0177,
+      "longitude": 108.2038,
+      "alternate_names": "Cam Le, Cẩm Lệ"
+    },
+    {
+      "name": "Cẩm Phả",
+      "tinh_thanh": "Cẩm Phả District",
+      "population": 0,
+      "latitude": 21.01,
+      "longitude": 107.2734,
+      "alternate_names": "Cam Pha, Cẩm Phả, Kamfa, VDO, jin pu shi, kam fa, kamufa, Камфа, كام فا, カムファ, 锦普市"
+    },
+    {
+      "name": "Cẩm Thủy",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 20.2087,
+      "longitude": 105.4695,
+      "alternate_names": "Cam Thuy, Cẩm Thủy, Huong Cam Thuy, Hương Cẩm Thủy"
+    },
+    {
+      "name": "Cẩm Xuyên",
+      "tinh_thanh": "Hà Tĩnh",
+      "population": 0,
+      "latitude": 18.2503,
+      "longitude": 106.0013,
+      "alternate_names": "Cam Xuyen, Cẩm Xuyên"
+    },
+    {
+      "name": "Cổ Lễ",
+      "tinh_thanh": "Nam Định",
+      "population": 0,
+      "latitude": 20.3234,
+      "longitude": 106.2658,
+      "alternate_names": "Co Le, Cổ Lễ"
+    },
+    {
+      "name": "Cổ Phúc",
+      "tinh_thanh": "Yên Bái",
+      "population": 0,
+      "latitude": 21.7558,
+      "longitude": 104.8277,
+      "alternate_names": "Co Phuc, Cổ Phúc"
+    },
+    {
+      "name": "Cờ Đỏ",
+      "tinh_thanh": "Can Tho",
+      "population": 0,
+      "latitude": 10.0938,
+      "longitude": 105.4292,
+      "alternate_names": "Co Do, Cờ Đỏ"
+    },
+    {
+      "name": "Củng Sơn",
+      "tinh_thanh": "Phú Yên",
+      "population": 0,
+      "latitude": 13.05,
+      "longitude": 108.9789,
+      "alternate_names": "Cung Son, Củng Sơn, Son Hoa, Sơn Hòa"
+    },
+    {
+      "name": "Di Linh",
+      "tinh_thanh": "Lâm Đồng",
+      "population": 0,
+      "latitude": 11.5815,
+      "longitude": 108.0764,
+      "alternate_names": "Di Linh, Djiring, Djring, Jiring"
+    },
+    {
+      "name": "Diêm Điền",
+      "tinh_thanh": "Thái Bình",
+      "population": 0,
+      "latitude": 20.5583,
+      "longitude": 106.5688,
+      "alternate_names": "Diem Dien, Diêm Điền, Diễm Điên, Giemdiem"
+    },
+    {
+      "name": "Diên Khánh",
+      "tinh_thanh": "Khánh Hòa",
+      "population": 0,
+      "latitude": 12.2549,
+      "longitude": 109.0933,
+      "alternate_names": "Dien Khanh, Diên Khánh, Kanh-Hoa, Kank Hoa, Khan' Hoa, Khanh Hoa, Khan’ Hoa"
+    },
+    {
+      "name": "Diễn Châu",
+      "tinh_thanh": "Nghệ An",
+      "population": 0,
+      "latitude": 18.9765,
+      "longitude": 105.6003,
+      "alternate_names": "Dien Chau, Diễn Châu, Phu Dien, Phu Dien Chau"
+    },
+    {
+      "name": "Duy Xuyên",
+      "tinh_thanh": "Quảng Nam",
+      "population": 0,
+      "latitude": 15.829,
+      "longitude": 108.2596,
+      "alternate_names": "Duy Xuyen, Duy Xuyên, Nam Phuoc, Nam Phước"
+    },
+    {
+      "name": "Duyên Hải",
+      "tinh_thanh": "Trà Vinh",
+      "population": 0,
+      "latitude": 9.635,
+      "longitude": 106.4924,
+      "alternate_names": "Duyen Hai, Duyên Hải"
+    },
+    {
+      "name": "Dĩ An",
+      "tinh_thanh": "Bình Dương",
+      "population": 0,
+      "latitude": 10.9068,
+      "longitude": 106.7694,
+      "alternate_names": "Di An, Dĩ An"
+    },
+    {
+      "name": "Dương Minh Châu",
+      "tinh_thanh": "Tây Ninh Province",
+      "population": 0,
+      "latitude": 11.3841,
+      "longitude": 106.2308,
+      "alternate_names": "Duong Minh Chau, Dương Minh Châu"
+    },
+    {
+      "name": "Dầu Tiếng",
+      "tinh_thanh": "Bình Dương",
+      "population": 0,
+      "latitude": 11.2741,
+      "longitude": 106.3588,
+      "alternate_names": "Dau Tieng, Dầu Tiếng, Quan Dau Tieng, Tri Tam, Tri Tâm, Xom Dau Tieng"
+    },
+    {
+      "name": "Ea Drăng",
+      "tinh_thanh": "Đắk Lắk",
+      "population": 0,
+      "latitude": 13.2045,
+      "longitude": 108.2103,
+      "alternate_names": "Ea Drang, Ea Drăng"
+    },
+    {
+      "name": "Ea Kar",
+      "tinh_thanh": "Đắk Lắk",
+      "population": 0,
+      "latitude": 12.8082,
+      "longitude": 108.449,
+      "alternate_names": "Ea Kar"
+    },
+    {
+      "name": "Ea Súp",
+      "tinh_thanh": "Đắk Lắk",
+      "population": 0,
+      "latitude": 13.0662,
+      "longitude": 107.8855,
+      "alternate_names": "Ea Sup, Ea Súp"
+    },
+    {
+      "name": "Ea T’ling",
+      "tinh_thanh": "Ðắk Nông",
+      "population": 0,
+      "latitude": 12.589,
+      "longitude": 107.8958,
+      "alternate_names": "Ea T'ling, Ea T’ling"
+    },
+    {
+      "name": "Gia Bình",
+      "tinh_thanh": "Bắc Ninh",
+      "population": 0,
+      "latitude": 21.0594,
+      "longitude": 106.1747,
+      "alternate_names": "Gia Binh, Gia Bình"
+    },
+    {
+      "name": "Gia Lộc",
+      "tinh_thanh": "Hải Dương",
+      "population": 0,
+      "latitude": 20.8678,
+      "longitude": 106.3,
+      "alternate_names": "Gia Loc, Gia Lộc"
+    },
+    {
+      "name": "Gia Nghĩa",
+      "tinh_thanh": "Ðắk Nông",
+      "population": 0,
+      "latitude": 12.0042,
+      "longitude": 107.6907,
+      "alternate_names": "Gia Nghia, Gia Nghĩa, Nghia Duc, Nghiã Đức, Quang Duc"
+    },
+    {
+      "name": "Gia Ray",
+      "tinh_thanh": "Đồng Nai",
+      "population": 0,
+      "latitude": 10.9261,
+      "longitude": 107.4017,
+      "alternate_names": "Gia Ray, Xa Gia Ray, Xã Gia Ray"
+    },
+    {
+      "name": "Gio Linh",
+      "tinh_thanh": "Quảng Trị",
+      "population": 0,
+      "latitude": 16.9248,
+      "longitude": 107.0844,
+      "alternate_names": "Gio Lin, Gio Linh"
+    },
+    {
+      "name": "Giồng Riềng",
+      "tinh_thanh": "Kiến Giang",
+      "population": 0,
+      "latitude": 9.9097,
+      "longitude": 105.3143,
+      "alternate_names": "Giong Rieng, Giồng Riềng, Kien Binh, Kiên Bình"
+    },
+    {
+      "name": "Giồng Trôm",
+      "tinh_thanh": "Bến Tre",
+      "population": 0,
+      "latitude": 10.1502,
+      "longitude": 106.5061,
+      "alternate_names": "Cho Giong Trom, Chợ Giồng Trôm, Giomtrom, Giong Trom, Giồng Trôm"
+    },
+    {
+      "name": "Gò Dầu",
+      "tinh_thanh": "Tây Ninh Province",
+      "population": 0,
+      "latitude": 11.0885,
+      "longitude": 106.2635,
+      "alternate_names": "Go Dau, Gò Dầu"
+    },
+    {
+      "name": "Gò Quao",
+      "tinh_thanh": "Kiến Giang",
+      "population": 0,
+      "latitude": 9.7332,
+      "longitude": 105.2739,
+      "alternate_names": "Go Quao, Gò Quao, Kien Hung, Kiên Hưng"
+    },
+    {
+      "name": "Gôi",
+      "tinh_thanh": "Nam Định",
+      "population": 0,
+      "latitude": 20.3333,
+      "longitude": 106.0783,
+      "alternate_names": "Goi, Gôi"
+    },
+    {
+      "name": "Hai BàTrưng",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 21.0134,
+      "longitude": 105.8477,
+      "alternate_names": "Hai BaTrung, Hai BàTrưng"
+    },
+    {
+      "name": "Hai Riêng",
+      "tinh_thanh": "Phú Yên",
+      "population": 0,
+      "latitude": 12.9791,
+      "longitude": 108.8973,
+      "alternate_names": "Hai Rieng, Hai Riêng"
+    },
+    {
+      "name": "Hiệp Đức",
+      "tinh_thanh": "Quảng Nam",
+      "population": 0,
+      "latitude": 15.5822,
+      "longitude": 108.1142,
+      "alternate_names": "Dong An, Doug An, Hiep Duc, Hiệp Đức, Tan An, Tân An"
+    },
+    {
+      "name": "Hoài Ân",
+      "tinh_thanh": "Bình Định",
+      "population": 0,
+      "latitude": 14.3635,
+      "longitude": 108.9648,
+      "alternate_names": "Hoai An, Hoài Ân, Tang Bat Ho, Tăng Bạt Hổ"
+    },
+    {
+      "name": "Hoàn Kiếm",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 21.0286,
+      "longitude": 105.8506,
+      "alternate_names": "Hoan Kiem, Hoàn Kiếm"
+    },
+    {
+      "name": "Hoàn Lão",
+      "tinh_thanh": "Quảng Bình",
+      "population": 0,
+      "latitude": 17.5844,
+      "longitude": 106.5343,
+      "alternate_names": "Bo Trach, Bố Trạch, Hoan Lao, Hoàn Lão"
+    },
+    {
+      "name": "Hoàng Sa",
+      "tinh_thanh": "Huyện Hoàng Sa",
+      "population": 0,
+      "latitude": 16.6666,
+      "longitude": 112.7254,
+      "alternate_names": ""
+    },
+    {
+      "name": "Hoàng Sa",
+      "tinh_thanh": "",
+      "population": 0,
+      "latitude": 16.8352,
+      "longitude": 112.3387,
+      "alternate_names": ""
+    },
+    {
+      "name": "Huyện Chiêm Hóa",
+      "tinh_thanh": "Tuyên Quang",
+      "population": 0,
+      "latitude": 22.1441,
+      "longitude": 105.2728,
+      "alternate_names": "Chiem Hoa, Chiêm Hóa, Huyen Chiem Hoa, Huyện Chiêm Hóa"
+    },
+    {
+      "name": "Huỳnh Hữu Nghĩa",
+      "tinh_thanh": "Sóc Trăng",
+      "population": 0,
+      "latitude": 9.6354,
+      "longitude": 105.8117,
+      "alternate_names": "Huynh Huu Nghia, Huỳnh Hữu Nghĩa"
+    },
+    {
+      "name": "Hà Lam",
+      "tinh_thanh": "Quảng Nam",
+      "population": 0,
+      "latitude": 15.7387,
+      "longitude": 108.3506,
+      "alternate_names": "Ha Lam, Hà Lam"
+    },
+    {
+      "name": "Hà Trung",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 20.0129,
+      "longitude": 105.8532,
+      "alternate_names": "Ha Trung, Hà Trung"
+    },
+    {
+      "name": "Hàng Trạm",
+      "tinh_thanh": "Hòa Bình",
+      "population": 0,
+      "latitude": 20.3947,
+      "longitude": 105.6224,
+      "alternate_names": "Hang Tram, Hàng Trạm"
+    },
+    {
+      "name": "Hát Lót",
+      "tinh_thanh": "Sơn La",
+      "population": 0,
+      "latitude": 21.1973,
+      "longitude": 104.106,
+      "alternate_names": "Hat Lot, Hát Lót, Thi Tran Hat Lot, Thị Trấn Hát Lót"
+    },
+    {
+      "name": "Hòa Bình",
+      "tinh_thanh": "Nghệ An",
+      "population": 0,
+      "latitude": 19.2639,
+      "longitude": 104.4723,
+      "alternate_names": "Cua Rao, Cus Rao, Hoa Binh, Hòa Bình, Kua Rao, Tuong Duong, Tương Dương"
+    },
+    {
+      "name": "Hòa Mạc",
+      "tinh_thanh": "Hà Nam",
+      "population": 0,
+      "latitude": 20.6417,
+      "longitude": 105.989,
+      "alternate_names": "Hoa Mac, Hoa Mao, Hòa Mạc"
+    },
+    {
+      "name": "Hòa Thành",
+      "tinh_thanh": "Tây Ninh Province",
+      "population": 0,
+      "latitude": 11.287,
+      "longitude": 106.1294,
+      "alternate_names": "Hoa Thanh, Hòa Thành"
+    },
+    {
+      "name": "Hòa Vang",
+      "tinh_thanh": "Da Nang",
+      "population": 0,
+      "latitude": 15.9876,
+      "longitude": 108.1389,
+      "alternate_names": "Hoa Vang, Hòa Vang"
+    },
+    {
+      "name": "Hòn Đất",
+      "tinh_thanh": "Kiến Giang",
+      "population": 0,
+      "latitude": 10.1846,
+      "longitude": 104.9296,
+      "alternate_names": "Hon Dat, Hòn Đất, Ngoc Hon Doc, Xom Hon Dat, Xóm Hòn Đất"
+    },
+    {
+      "name": "Hóc Môn",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 0,
+      "latitude": 10.8891,
+      "longitude": 106.5953,
+      "alternate_names": "Hoc Mon, Hóc Môn"
+    },
+    {
+      "name": "Hưng Hà",
+      "tinh_thanh": "Thái Bình",
+      "population": 0,
+      "latitude": 20.5904,
+      "longitude": 106.2245,
+      "alternate_names": "Hung Ha, Hưng Hà"
+    },
+    {
+      "name": "Hưng Hóa",
+      "tinh_thanh": "Phú Thọ",
+      "population": 0,
+      "latitude": 21.2549,
+      "longitude": 105.2953,
+      "alternate_names": "Hung Hoa, Huyen Tam Thanh, Huyện Tam Thanh, Hưng Hóa"
+    },
+    {
+      "name": "Hưng Nguyên",
+      "tinh_thanh": "Nghệ An",
+      "population": 0,
+      "latitude": 18.6716,
+      "longitude": 105.6288,
+      "alternate_names": "Hung Nguyen, Hưng Nguyên"
+    },
+    {
+      "name": "Hương Canh",
+      "tinh_thanh": "Vĩnh Phúc",
+      "population": 0,
+      "latitude": 21.2788,
+      "longitude": 105.647,
+      "alternate_names": "Huang Canh, Huong Canh, Hương Canh"
+    },
+    {
+      "name": "Hương Khê",
+      "tinh_thanh": "Hà Tĩnh",
+      "population": 0,
+      "latitude": 18.1767,
+      "longitude": 105.7002,
+      "alternate_names": "Huong Khe, Hương Khê, Thuong Thach"
+    },
+    {
+      "name": "Hương Sơn",
+      "tinh_thanh": "Thái Nguyên",
+      "population": 0,
+      "latitude": 21.4601,
+      "longitude": 105.9781,
+      "alternate_names": "Huong Son, Hương Sơn"
+    },
+    {
+      "name": "Hương Trà",
+      "tinh_thanh": "Thừa Thiên-Huế",
+      "population": 0,
+      "latitude": 16.5254,
+      "longitude": 107.4755,
+      "alternate_names": "Huong Tra, Hương Trà"
+    },
+    {
+      "name": "Hạ Hòa",
+      "tinh_thanh": "Phú Thọ",
+      "population": 0,
+      "latitude": 21.563,
+      "longitude": 105.0051,
+      "alternate_names": "Ha Hoa, Hạ Hoa, Hạ Hòa"
+    },
+    {
+      "name": "Hải Lăng",
+      "tinh_thanh": "Quảng Trị",
+      "population": 0,
+      "latitude": 16.6935,
+      "longitude": 107.2512,
+      "alternate_names": "Hai Lang, Hải Lăng, Thon Dien Sanh, Thôn Diên Sanh"
+    },
+    {
+      "name": "Hậu Lộc",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 19.9144,
+      "longitude": 105.8862,
+      "alternate_names": "Hau Loc, Hậu Lộc"
+    },
+    {
+      "name": "Hậu Nghĩa",
+      "tinh_thanh": "Long An",
+      "population": 0,
+      "latitude": 10.8943,
+      "longitude": 106.397,
+      "alternate_names": "Hau Nghia, Hậu Nghĩa"
+    },
+    {
+      "name": "Hồ",
+      "tinh_thanh": "Bắc Ninh",
+      "population": 0,
+      "latitude": 21.0631,
+      "longitude": 106.0857,
+      "alternate_names": "Ho, Hồ"
+    },
+    {
+      "name": "Hồ Xá",
+      "tinh_thanh": "Quảng Trị",
+      "population": 0,
+      "latitude": 17.0684,
+      "longitude": 107.0052,
+      "alternate_names": "Ho Xa, Hồ Xá, Vinh Linh, Vĩnh Linh"
+    },
+    {
+      "name": "Hợp Hòa",
+      "tinh_thanh": "Vĩnh Phúc",
+      "population": 0,
+      "latitude": 21.3753,
+      "longitude": 105.5426,
+      "alternate_names": "Hop Hoa, Hợp Hòa"
+    },
+    {
+      "name": "Hữu Lũng",
+      "tinh_thanh": "Lạng Sơn",
+      "population": 0,
+      "latitude": 21.5056,
+      "longitude": 106.3446,
+      "alternate_names": "Huu Lung, Hữu Lũng, Lang Met"
+    },
+    {
+      "name": "Ia Kha",
+      "tinh_thanh": "Gia Lai",
+      "population": 0,
+      "latitude": 13.9624,
+      "longitude": 107.8448,
+      "alternate_names": "Ia Kha"
+    },
+    {
+      "name": "Ia Pa",
+      "tinh_thanh": "Gia Lai",
+      "population": 0,
+      "latitude": 13.5336,
+      "longitude": 108.4553,
+      "alternate_names": "Ia Pa"
+    },
+    {
+      "name": "K Bang",
+      "tinh_thanh": "Gia Lai",
+      "population": 0,
+      "latitude": 14.1445,
+      "longitude": 108.5991,
+      "alternate_names": "K Bang"
+    },
+    {
+      "name": "Khe Sanh",
+      "tinh_thanh": "Quảng Trị",
+      "population": 0,
+      "latitude": 16.6283,
+      "longitude": 106.7388,
+      "alternate_names": "Huong Hoa, Khe Sanh"
+    },
+    {
+      "name": "Khe Tre",
+      "tinh_thanh": "Thừa Thiên-Huế",
+      "population": 0,
+      "latitude": 16.1691,
+      "longitude": 107.7179,
+      "alternate_names": "Khe Tre"
+    },
+    {
+      "name": "Khoái Châu",
+      "tinh_thanh": "Hưng Yên",
+      "population": 0,
+      "latitude": 20.8391,
+      "longitude": 105.9775,
+      "alternate_names": "Khoai Chau, Khoái Châu"
+    },
+    {
+      "name": "Khánh Hải",
+      "tinh_thanh": "Ninh Thuận",
+      "population": 0,
+      "latitude": 11.591,
+      "longitude": 109.0405,
+      "alternate_names": "Khanh Hai, Khánh Hải"
+    },
+    {
+      "name": "Khánh Vĩnh",
+      "tinh_thanh": "Khánh Hòa",
+      "population": 0,
+      "latitude": 12.2835,
+      "longitude": 108.9047,
+      "alternate_names": "Khanh Vinh, Khánh Vĩnh"
+    },
+    {
+      "name": "Khâm Đức",
+      "tinh_thanh": "Quảng Nam",
+      "population": 0,
+      "latitude": 15.4451,
+      "longitude": 107.7934,
+      "alternate_names": "Kham Duc, Khâm Đức"
+    },
+    {
+      "name": "Khóm 2",
+      "tinh_thanh": "Huyện Lai Vung",
+      "population": 0,
+      "latitude": 10.2896,
+      "longitude": 105.6648,
+      "alternate_names": ""
+    },
+    {
+      "name": "Kim Bài",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 20.8527,
+      "longitude": 105.7696,
+      "alternate_names": "Kim Bai, Kim Bài"
+    },
+    {
+      "name": "Kim Sơn",
+      "tinh_thanh": "Nghệ An",
+      "population": 0,
+      "latitude": 19.6041,
+      "longitude": 104.919,
+      "alternate_names": "Kim Son, Kim Sơn, Que Phong, Quế Phong"
+    },
+    {
+      "name": "Kim Tân",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 20.1305,
+      "longitude": 105.6745,
+      "alternate_names": "Kim Tan, Kim Tân, Thach Thanh, Thạch Thành"
+    },
+    {
+      "name": "Kinh Môn",
+      "tinh_thanh": "Hải Dương",
+      "population": 0,
+      "latitude": 20.9896,
+      "longitude": 106.5551,
+      "alternate_names": "Kinh Mon, Kinh Môn, Phu-Kinh-Mon"
+    },
+    {
+      "name": "Kiên Lương",
+      "tinh_thanh": "Kien Luong Town",
+      "population": 0,
+      "latitude": 10.2862,
+      "longitude": 104.6462,
+      "alternate_names": "Kien Luong, Kiên Lương"
+    },
+    {
+      "name": "Kiến Giang",
+      "tinh_thanh": "Quảng Bình",
+      "population": 0,
+      "latitude": 17.2233,
+      "longitude": 106.7901,
+      "alternate_names": "Kien Giang, Kiến Giang, Le Thuy, Let Thuy, Lệ Thủy, Tan Hau, Tân Hậu"
+    },
+    {
+      "name": "Kon Dơng",
+      "tinh_thanh": "Gia Lai",
+      "population": 0,
+      "latitude": 14.0389,
+      "longitude": 108.2501,
+      "alternate_names": "Kon Dong, Kon Dơng"
+    },
+    {
+      "name": "Krông Klang",
+      "tinh_thanh": "Quảng Trị",
+      "population": 0,
+      "latitude": 16.6891,
+      "longitude": 106.8874,
+      "alternate_names": "Krong Klang, Krông Klang"
+    },
+    {
+      "name": "Krông Kmar",
+      "tinh_thanh": "Đắk Lắk",
+      "population": 0,
+      "latitude": 12.5045,
+      "longitude": 108.3329,
+      "alternate_names": "Krong Kmar, Krông Kmar"
+    },
+    {
+      "name": "Krông Năng",
+      "tinh_thanh": "Đắk Lắk",
+      "population": 0,
+      "latitude": 12.9517,
+      "longitude": 108.3443,
+      "alternate_names": "Krong Nang, Krông Năng"
+    },
+    {
+      "name": "Kông Chro",
+      "tinh_thanh": "Gia Lai",
+      "population": 0,
+      "latitude": 13.7753,
+      "longitude": 108.5256,
+      "alternate_names": "Kong Chro, Kông Chro"
+    },
+    {
+      "name": "Kẻ Sặt",
+      "tinh_thanh": "Hải Dương",
+      "population": 0,
+      "latitude": 20.9101,
+      "longitude": 106.1477,
+      "alternate_names": "Ke Sat, Kẻ Sặt"
+    },
+    {
+      "name": "Kế Sách",
+      "tinh_thanh": "Sóc Trăng",
+      "population": 0,
+      "latitude": 9.7674,
+      "longitude": 105.9857,
+      "alternate_names": "Ke Sach, Kế Sách"
+    },
+    {
+      "name": "Kỳ Anh",
+      "tinh_thanh": "Hà Tĩnh",
+      "population": 0,
+      "latitude": 18.0624,
+      "longitude": 106.2983,
+      "alternate_names": "Ky Anh, Kỳ Anh"
+    },
+    {
+      "name": "Kỳ Sơn",
+      "tinh_thanh": "Hòa Bình",
+      "population": 0,
+      "latitude": 20.8867,
+      "longitude": 105.3524,
+      "alternate_names": "Ky Son, Kỳ Sơn"
+    },
+    {
+      "name": "Lai Châu",
+      "tinh_thanh": "Lai Châu",
+      "population": 0,
+      "latitude": 22.3964,
+      "longitude": 103.4582,
+      "alternate_names": "Lai Chau, Lai Châu, Muang Lay"
+    },
+    {
+      "name": "Lai Cách",
+      "tinh_thanh": "Hải Dương",
+      "population": 0,
+      "latitude": 20.9325,
+      "longitude": 106.2476,
+      "alternate_names": "Lai Cach, Lai Cách"
+    },
+    {
+      "name": "Lai Vung",
+      "tinh_thanh": "Huyện Lai Vung",
+      "population": 0,
+      "latitude": 10.287,
+      "longitude": 105.6617,
+      "alternate_names": "Lai Vung"
+    },
+    {
+      "name": "Lang Chánh",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 20.1561,
+      "longitude": 105.2422,
+      "alternate_names": "Huong Lang Chanh, Hương Lang Chánh, Lang Chanh, Lang Chieng Trai, Lang Chánh, Làng Chiêng Trai"
+    },
+    {
+      "name": "Lim",
+      "tinh_thanh": "Bắc Ninh",
+      "population": 0,
+      "latitude": 21.1439,
+      "longitude": 106.0202,
+      "alternate_names": "Lim"
+    },
+    {
+      "name": "Liên Chiểu",
+      "tinh_thanh": "Da Nang",
+      "population": 0,
+      "latitude": 16.0727,
+      "longitude": 108.1582,
+      "alternate_names": "Lien Chieu, Liên Chiểu"
+    },
+    {
+      "name": "Liên Hương",
+      "tinh_thanh": "Bình Thuận",
+      "population": 0,
+      "latitude": 11.2276,
+      "longitude": 108.7237,
+      "alternate_names": "Lien Huong, Liên Hương, Long Huong"
+    },
+    {
+      "name": "Liên Quan",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 21.0572,
+      "longitude": 105.5792,
+      "alternate_names": "Lien Quan, Liên Quan"
+    },
+    {
+      "name": "Liễu Đề",
+      "tinh_thanh": "Nam Định",
+      "population": 0,
+      "latitude": 20.2209,
+      "longitude": 106.1875,
+      "alternate_names": "Lien De, Lieu De, Lieu Đê, Liễu Đề"
+    },
+    {
+      "name": "Long Hồ",
+      "tinh_thanh": "Vĩnh Long",
+      "population": 0,
+      "latitude": 10.1928,
+      "longitude": 106.0123,
+      "alternate_names": "Long Ho, Long Hồ"
+    },
+    {
+      "name": "Long Khánh",
+      "tinh_thanh": "Đồng Nai",
+      "population": 0,
+      "latitude": 10.9266,
+      "longitude": 107.2478,
+      "alternate_names": "Long Khanh, Long Khánh"
+    },
+    {
+      "name": "Long Mỹ",
+      "tinh_thanh": "Hậu Giang",
+      "population": 0,
+      "latitude": 9.6814,
+      "longitude": 105.5723,
+      "alternate_names": "Long My, Long Mỹ"
+    },
+    {
+      "name": "Long Phú",
+      "tinh_thanh": "Sóc Trăng",
+      "population": 0,
+      "latitude": 9.6103,
+      "longitude": 106.1188,
+      "alternate_names": "Bang Long, Bàng Long, Huong Long Phu, Hương Long Phú, Long Phu, Long Phú"
+    },
+    {
+      "name": "Long Thành",
+      "tinh_thanh": "Đồng Nai",
+      "population": 0,
+      "latitude": 10.7891,
+      "longitude": 106.9503,
+      "alternate_names": "Long Thanh, Long Thành"
+    },
+    {
+      "name": "Lái Thiêu",
+      "tinh_thanh": "Bình Dương",
+      "population": 0,
+      "latitude": 10.9051,
+      "longitude": 106.6995,
+      "alternate_names": "Lai Thieu, Lái Thiêu"
+    },
+    {
+      "name": "Lâm",
+      "tinh_thanh": "Nam Định",
+      "population": 0,
+      "latitude": 20.3277,
+      "longitude": 106.0121,
+      "alternate_names": "Lam, Lâm"
+    },
+    {
+      "name": "Lâm Thao",
+      "tinh_thanh": "Phú Thọ",
+      "population": 0,
+      "latitude": 21.3201,
+      "longitude": 105.2916,
+      "alternate_names": "Lam Thao, Lâm Thao"
+    },
+    {
+      "name": "Lý Sơn",
+      "tinh_thanh": "Quảng Ngãi Province",
+      "population": 0,
+      "latitude": 15.372,
+      "longitude": 109.1189,
+      "alternate_names": "Ly Son, Lý Sơn"
+    },
+    {
+      "name": "Lũng Hồ",
+      "tinh_thanh": "Hà Giang",
+      "population": 0,
+      "latitude": 22.9848,
+      "longitude": 105.2398,
+      "alternate_names": "Lang Ho, Lung Ho, Làng Ho, Lũng Hồ"
+    },
+    {
+      "name": "Lương Bằng",
+      "tinh_thanh": "Hưng Yên",
+      "population": 0,
+      "latitude": 20.74,
+      "longitude": 106.06,
+      "alternate_names": "Luong Bang, Lương Bằng"
+    },
+    {
+      "name": "Lương Sơn",
+      "tinh_thanh": "Hòa Bình",
+      "population": 0,
+      "latitude": 20.8715,
+      "longitude": 105.5257,
+      "alternate_names": "Luong Son, Lương Sơn"
+    },
+    {
+      "name": "Lạc Dương",
+      "tinh_thanh": "Lâm Đồng",
+      "population": 0,
+      "latitude": 12.004,
+      "longitude": 108.419,
+      "alternate_names": "Binh Ninh, Lac Duong, Lạc Dương"
+    },
+    {
+      "name": "Lấp Vò",
+      "tinh_thanh": "Đồng Tháp",
+      "population": 0,
+      "latitude": 10.3616,
+      "longitude": 105.5192,
+      "alternate_names": "Lap Vo, Lấp Vò"
+    },
+    {
+      "name": "Lập Thạch",
+      "tinh_thanh": "Vĩnh Phúc",
+      "population": 0,
+      "latitude": 21.4154,
+      "longitude": 105.4608,
+      "alternate_names": "Lap Thach, Lập Thạch"
+    },
+    {
+      "name": "Lắk",
+      "tinh_thanh": "Đắk Lắk",
+      "population": 0,
+      "latitude": 12.4109,
+      "longitude": 108.1768,
+      "alternate_names": "Don Lac, Lac Thien, Lak, Lạc Thiện, Lắk, Poste du Lac, Toa Quan Truong Lac Thien, Toà Quận Trưởng Lạc Thiện"
+    },
+    {
+      "name": "Lộc Bình",
+      "tinh_thanh": "Lạng Sơn",
+      "population": 0,
+      "latitude": 21.7587,
+      "longitude": 106.9233,
+      "alternate_names": "Loc Binh, Loc Rinh, Lok-binh, Lộc Bình"
+    },
+    {
+      "name": "Lộc Ninh",
+      "tinh_thanh": "Bình Phước",
+      "population": 0,
+      "latitude": 11.8448,
+      "longitude": 106.5907,
+      "alternate_names": "Loc Nin', Loc Ninh, Loc Nin’, Lok Nin, Lộc Ninh"
+    },
+    {
+      "name": "Lộc Thắng",
+      "tinh_thanh": "Lâm Đồng",
+      "population": 0,
+      "latitude": 11.6284,
+      "longitude": 107.8351,
+      "alternate_names": "Loc Thang, Lộc Thắng"
+    },
+    {
+      "name": "Ma Lâm",
+      "tinh_thanh": "Bình Thuận",
+      "population": 0,
+      "latitude": 11.073,
+      "longitude": 108.13,
+      "alternate_names": "Ma Lam, Ma Lâm"
+    },
+    {
+      "name": "Ma Đa Gui",
+      "tinh_thanh": "Lâm Đồng",
+      "population": 0,
+      "latitude": 11.387,
+      "longitude": 107.5351,
+      "alternate_names": "Ma Da Gui, Ma Đa Gui, Madagui"
+    },
+    {
+      "name": "Me",
+      "tinh_thanh": "Ninh Bình",
+      "population": 0,
+      "latitude": 20.347,
+      "longitude": 105.8362,
+      "alternate_names": "Me"
+    },
+    {
+      "name": "Minh Long",
+      "tinh_thanh": "Quảng Ngãi Province",
+      "population": 0,
+      "latitude": 14.9322,
+      "longitude": 108.7033,
+      "alternate_names": "Ming Long, Minh Long, Poste de Minh Long"
+    },
+    {
+      "name": "Minh Lương",
+      "tinh_thanh": "Kiến Giang",
+      "population": 0,
+      "latitude": 9.9025,
+      "longitude": 105.1595,
+      "alternate_names": "Minh Hoa, Minh Hòa, Minh Luong, Minh Lương"
+    },
+    {
+      "name": "Mê Linh",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 21.1831,
+      "longitude": 105.7204,
+      "alternate_names": "Me Linh, Mê Linh"
+    },
+    {
+      "name": "Mù Cang Chải",
+      "tinh_thanh": "Yên Bái",
+      "population": 0,
+      "latitude": 21.8513,
+      "longitude": 104.0895,
+      "alternate_names": "Mu Cang Chai, Mù Cang Chải"
+    },
+    {
+      "name": "Măng Đen",
+      "tinh_thanh": "Huyện Kon Plông",
+      "population": 0,
+      "latitude": 14.6006,
+      "longitude": 108.2909,
+      "alternate_names": "Mang GJen, Măng Đen"
+    },
+    {
+      "name": "Mường Chiên",
+      "tinh_thanh": "Sơn La",
+      "population": 0,
+      "latitude": 21.8424,
+      "longitude": 103.5661,
+      "alternate_names": "Muong Chien, Mường Chiên, Quinh Nhai, Quynh Nhai, Quỳnh Nhai"
+    },
+    {
+      "name": "Mường Chà",
+      "tinh_thanh": "Ðiện Biên",
+      "population": 0,
+      "latitude": 21.7617,
+      "longitude": 103.0978,
+      "alternate_names": "Muong Cha, Mường Chà, Thi Tran Muong Cha, Thị Trấn Mường Chà"
+    },
+    {
+      "name": "Mường Khến",
+      "tinh_thanh": "Hòa Bình",
+      "population": 0,
+      "latitude": 20.6144,
+      "longitude": 105.2795,
+      "alternate_names": "Muong Khen, Mường Khến"
+    },
+    {
+      "name": "Mường Lát",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 20.5292,
+      "longitude": 104.6014,
+      "alternate_names": "Gian Canh, Muong Lat, Mường Lát"
+    },
+    {
+      "name": "Mường Nhé",
+      "tinh_thanh": "Ðiện Biên",
+      "population": 0,
+      "latitude": 22.1924,
+      "longitude": 102.4579,
+      "alternate_names": "Muong Nhe, Muong Nhie, Mường Nhié, Mường Nhé"
+    },
+    {
+      "name": "Mường Xén",
+      "tinh_thanh": "Nghệ An",
+      "population": 0,
+      "latitude": 19.398,
+      "longitude": 104.1524,
+      "alternate_names": "Ky Son, Kỳ Sơn, Muong Sen, Muong Xen, Muong Xén, Mường Xén"
+    },
+    {
+      "name": "Mường Ảng",
+      "tinh_thanh": "Ðiện Biên",
+      "population": 0,
+      "latitude": 21.5199,
+      "longitude": 103.2229,
+      "alternate_names": "Muong Ang, Mường Ảng, Thi Tran Muong Ang, Thị Trấn Mường Ảng"
+    },
+    {
+      "name": "Mỏ Cày",
+      "tinh_thanh": "Bến Tre",
+      "population": 0,
+      "latitude": 10.1331,
+      "longitude": 106.3352,
+      "alternate_names": "Mo Cay, Mỏ Cày"
+    },
+    {
+      "name": "Mộ Đức",
+      "tinh_thanh": "Quảng Ngãi Province",
+      "population": 0,
+      "latitude": 14.9551,
+      "longitude": 108.8859,
+      "alternate_names": "Mo Duc, Mộ Đức"
+    },
+    {
+      "name": "Mộc Châu",
+      "tinh_thanh": "Sơn La",
+      "population": 0,
+      "latitude": 20.852,
+      "longitude": 104.6218,
+      "alternate_names": "Moc Chau, Mộc Châu, Na Bo"
+    },
+    {
+      "name": "Một Ngàn",
+      "tinh_thanh": "Hậu Giang",
+      "population": 0,
+      "latitude": 9.924,
+      "longitude": 105.6296,
+      "alternate_names": "Mot Ngan, Một Ngàn"
+    },
+    {
+      "name": "Mỹ Lộc",
+      "tinh_thanh": "Nam Định",
+      "population": 0,
+      "latitude": 20.4411,
+      "longitude": 106.1024,
+      "alternate_names": "My Loc, Mỹ Lộc"
+    },
+    {
+      "name": "Mỹ Phước",
+      "tinh_thanh": "Tiền Giang",
+      "population": 0,
+      "latitude": 10.4771,
+      "longitude": 106.1926,
+      "alternate_names": "My Phuoc, Mỹ Phước"
+    },
+    {
+      "name": "Mỹ Thọ",
+      "tinh_thanh": "Đồng Tháp",
+      "population": 0,
+      "latitude": 10.4427,
+      "longitude": 105.6951,
+      "alternate_names": "My Tho, Mỹ Thọ"
+    },
+    {
+      "name": "Mỹ Xuyên",
+      "tinh_thanh": "Sóc Trăng",
+      "population": 0,
+      "latitude": 9.5601,
+      "longitude": 105.9898,
+      "alternate_names": "My Xuyen, Mỹ Xuyên"
+    },
+    {
+      "name": "M’Đrăk",
+      "tinh_thanh": "Đắk Lắk",
+      "population": 0,
+      "latitude": 12.7462,
+      "longitude": 108.7428,
+      "alternate_names": "M'Drak, M’Đrăk"
+    },
+    {
+      "name": "Nam Giang",
+      "tinh_thanh": "Nam Định",
+      "population": 0,
+      "latitude": 20.3332,
+      "longitude": 106.1775,
+      "alternate_names": "Nam Giang"
+    },
+    {
+      "name": "Nam Sách",
+      "tinh_thanh": "Hải Dương",
+      "population": 0,
+      "latitude": 20.992,
+      "longitude": 106.3361,
+      "alternate_names": "Nam Sach, Nam Sách"
+    },
+    {
+      "name": "Nam Đàn",
+      "tinh_thanh": "Nghệ An",
+      "population": 0,
+      "latitude": 18.698,
+      "longitude": 105.4988,
+      "alternate_names": "Nam Dan, Nam Đàn"
+    },
+    {
+      "name": "Neo",
+      "tinh_thanh": "Bắc Giang",
+      "population": 0,
+      "latitude": 21.2005,
+      "longitude": 106.2474,
+      "alternate_names": "Neo"
+    },
+    {
+      "name": "Nga Sơn",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 20.0072,
+      "longitude": 105.9704,
+      "alternate_names": "Nga Son, Nga Sơn"
+    },
+    {
+      "name": "Nghi Xuân",
+      "tinh_thanh": "Hà Tĩnh",
+      "population": 0,
+      "latitude": 18.6621,
+      "longitude": 105.7558,
+      "alternate_names": "Nghi Xuan, Nghi Xuân, Uy Vien"
+    },
+    {
+      "name": "Nghèn",
+      "tinh_thanh": "Hà Tĩnh",
+      "population": 0,
+      "latitude": 18.4512,
+      "longitude": 105.7797,
+      "alternate_names": "Nghen, Nghèn"
+    },
+    {
+      "name": "Nghĩa Hành",
+      "tinh_thanh": "Quảng Ngãi Province",
+      "population": 0,
+      "latitude": 15.0457,
+      "longitude": 108.7772,
+      "alternate_names": "Cho Chua, Chợ Chùa, Nghia Hanh, Nghĩa Hành"
+    },
+    {
+      "name": "Ngã Bảy",
+      "tinh_thanh": "Hậu Giang",
+      "population": 0,
+      "latitude": 9.8137,
+      "longitude": 105.821,
+      "alternate_names": "Nga Bay, Ngã Bảy"
+    },
+    {
+      "name": "Ngã Sáu",
+      "tinh_thanh": "Hậu Giang",
+      "population": 0,
+      "latitude": 9.923,
+      "longitude": 105.8054,
+      "alternate_names": "Nga Sau, Ngã Sáu"
+    },
+    {
+      "name": "Ngô Đồng",
+      "tinh_thanh": "Nam Định",
+      "population": 0,
+      "latitude": 20.283,
+      "longitude": 106.4435,
+      "alternate_names": "Ngo Dong, Ngô Dong, Ngô Đồng"
+    },
+    {
+      "name": "Ngũ Hành Sơn",
+      "tinh_thanh": "Da Nang",
+      "population": 0,
+      "latitude": 16.0162,
+      "longitude": 108.2533,
+      "alternate_names": "Ngu Hanh Son, Ngũ Hành Sơn"
+    },
+    {
+      "name": "Ngọc Hiển",
+      "tinh_thanh": "Cà Mau",
+      "population": 0,
+      "latitude": 8.6572,
+      "longitude": 105.0602,
+      "alternate_names": "Ngoc Hien, Ngọc Hiển"
+    },
+    {
+      "name": "Ngọc Lặc",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 20.0919,
+      "longitude": 105.3676,
+      "alternate_names": "Huong Ngoc Lac, Hương Ngọc Lac, Ngoc Lac, Ngọc Lac, Ngọc Lặc"
+    },
+    {
+      "name": "Nho Quan",
+      "tinh_thanh": "Ninh Bình",
+      "population": 0,
+      "latitude": 20.3228,
+      "longitude": 105.7519,
+      "alternate_names": "Nho Quan, Pho Nho Quan, Phu Nho Quan, Phủ Nho Quan"
+    },
+    {
+      "name": "Nhà Bàng",
+      "tinh_thanh": "An Giang",
+      "population": 0,
+      "latitude": 10.6177,
+      "longitude": 105.0034,
+      "alternate_names": "Nh Bang, Nh Bàng, Nha Ban, Nha Bang, Nhà Bàng"
+    },
+    {
+      "name": "Nhà Bè",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 0,
+      "latitude": 10.6967,
+      "longitude": 106.7403,
+      "alternate_names": "Lazaret, Nha Be, Nha Bè, Nhà Bè"
+    },
+    {
+      "name": "Nhơn Trạch",
+      "tinh_thanh": "Đồng Nai",
+      "population": 0,
+      "latitude": 10.7229,
+      "longitude": 106.8834,
+      "alternate_names": "Nhon Trach, Nhơn Trạch, Phu Thanh"
+    },
+    {
+      "name": "Như Quỳnh",
+      "tinh_thanh": "Hưng Yên",
+      "population": 0,
+      "latitude": 20.9817,
+      "longitude": 105.9849,
+      "alternate_names": "Nhu Quynh, Như Quỳnh, Phu Quynh"
+    },
+    {
+      "name": "Ninh Giang",
+      "tinh_thanh": "Hải Dương",
+      "population": 0,
+      "latitude": 20.7308,
+      "longitude": 106.3979,
+      "alternate_names": "Ninh Giang, Vinh-Ninh"
+    },
+    {
+      "name": "Ninh Hòa",
+      "tinh_thanh": "Khánh Hòa",
+      "population": 0,
+      "latitude": 12.4919,
+      "longitude": 109.1249,
+      "alternate_names": "Ninh Hoa, Ninh Hòa"
+    },
+    {
+      "name": "Nàng Mau",
+      "tinh_thanh": "Hậu Giang",
+      "population": 0,
+      "latitude": 9.7513,
+      "longitude": 105.5345,
+      "alternate_names": "Nang Mau, Nàng Mau"
+    },
+    {
+      "name": "Nông Cống",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 19.624,
+      "longitude": 105.6494,
+      "alternate_names": "Nong Cong, Nông Cống"
+    },
+    {
+      "name": "Núi Sập",
+      "tinh_thanh": "An Giang",
+      "population": 0,
+      "latitude": 10.2648,
+      "longitude": 105.2668,
+      "alternate_names": "Nui Sap, Núi Sập"
+    },
+    {
+      "name": "Núi Thành",
+      "tinh_thanh": "Quảng Nam",
+      "population": 0,
+      "latitude": 15.4319,
+      "longitude": 108.6595,
+      "alternate_names": "Nui Thanh, Núi Thành"
+    },
+    {
+      "name": "Núi Đèo",
+      "tinh_thanh": "Haiphong",
+      "population": 0,
+      "latitude": 20.9157,
+      "longitude": 106.6744,
+      "alternate_names": "Nui Deo, Núi Đèo"
+    },
+    {
+      "name": "Núi Đối",
+      "tinh_thanh": "Haiphong",
+      "population": 0,
+      "latitude": 20.7508,
+      "longitude": 106.6689,
+      "alternate_names": "Nui Doi, Núi Đối"
+    },
+    {
+      "name": "Năm Căn",
+      "tinh_thanh": "Cà Mau",
+      "population": 0,
+      "latitude": 8.759,
+      "longitude": 104.9929,
+      "alternate_names": "Nam Ca, Nam Can, Năm Că, Năm Căn"
+    },
+    {
+      "name": "Phong Châu",
+      "tinh_thanh": "Phú Thọ",
+      "population": 0,
+      "latitude": 21.4068,
+      "longitude": 105.3123,
+      "alternate_names": "Huyen Phong Chau, Huyện Phong Châu, Phong Chau, Phong Châu"
+    },
+    {
+      "name": "Phong Thổ",
+      "tinh_thanh": "Lai Châu",
+      "population": 0,
+      "latitude": 22.5443,
+      "longitude": 103.2978,
+      "alternate_names": "Muong So, Phong Tho, Phong Thổ"
+    },
+    {
+      "name": "Phong Điền",
+      "tinh_thanh": "Thừa Thiên-Huế",
+      "population": 0,
+      "latitude": 16.5832,
+      "longitude": 107.3644,
+      "alternate_names": "Phong Dien, Phong Điền"
+    },
+    {
+      "name": "Phong Điền",
+      "tinh_thanh": "Can Tho",
+      "population": 0,
+      "latitude": 9.9975,
+      "longitude": 105.6673,
+      "alternate_names": "Phong Dien, Phong Điền"
+    },
+    {
+      "name": "Phát Diệm",
+      "tinh_thanh": "Ninh Bình",
+      "population": 0,
+      "latitude": 20.0905,
+      "longitude": 106.0832,
+      "alternate_names": "Fak Diem, Phat Diem, Phát Diệm"
+    },
+    {
+      "name": "Phù Cát",
+      "tinh_thanh": "Bình Định",
+      "population": 0,
+      "latitude": 14.0032,
+      "longitude": 109.058,
+      "alternate_names": "Ngo May, Ngô Mây, Phu Cat, Phù Cát"
+    },
+    {
+      "name": "Phù Mỹ",
+      "tinh_thanh": "Bình Định",
+      "population": 0,
+      "latitude": 14.1718,
+      "longitude": 109.0489,
+      "alternate_names": "Phu My, Phù Mỹ"
+    },
+    {
+      "name": "Phù Yên",
+      "tinh_thanh": "Sơn La",
+      "population": 0,
+      "latitude": 21.2633,
+      "longitude": 104.6444,
+      "alternate_names": "Phu Yen, Phù Yên"
+    },
+    {
+      "name": "Phùng",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 21.089,
+      "longitude": 105.659,
+      "alternate_names": "Phung, Phùng"
+    },
+    {
+      "name": "Phú Hòa",
+      "tinh_thanh": "Gia Lai",
+      "population": 0,
+      "latitude": 14.1,
+      "longitude": 107.969,
+      "alternate_names": "Phu Hoa, Phú Hòa"
+    },
+    {
+      "name": "Phú Lộc",
+      "tinh_thanh": "Sóc Trăng",
+      "population": 0,
+      "latitude": 9.4284,
+      "longitude": 105.7411,
+      "alternate_names": "Huyen Thanh Tri, Huyện Thạnh Trị, Phu Loc, Phú Lộc, Thanh Tr, Thạnh Tr"
+    },
+    {
+      "name": "Phú Lộc",
+      "tinh_thanh": "Thừa Thiên-Huế",
+      "population": 0,
+      "latitude": 16.2803,
+      "longitude": 107.859,
+      "alternate_names": "Cao Doi Xa, Cao Đôi Xa, Phu Loc, Phú Lộc, Quan Phu Loc, Quan Phú Lộc"
+    },
+    {
+      "name": "Phú Mỹ",
+      "tinh_thanh": "An Giang",
+      "population": 0,
+      "latitude": 10.5924,
+      "longitude": 105.3557,
+      "alternate_names": "Phu My, Phú Mỹ"
+    },
+    {
+      "name": "Phú Ninh",
+      "tinh_thanh": "Quảng Nam",
+      "population": 0,
+      "latitude": 15.5547,
+      "longitude": 108.4114,
+      "alternate_names": "Phu Ninh, Phú Ninh"
+    },
+    {
+      "name": "Phú Phong",
+      "tinh_thanh": "Bình Định",
+      "population": 0,
+      "latitude": 13.9096,
+      "longitude": 108.919,
+      "alternate_names": "Phu Phong, Phú Phong"
+    },
+    {
+      "name": "Phú Quý",
+      "tinh_thanh": "Bình Thuận",
+      "population": 0,
+      "latitude": 10.5166,
+      "longitude": 108.9329,
+      "alternate_names": "Phu Quy, Phú Quý"
+    },
+    {
+      "name": "Phú Thái",
+      "tinh_thanh": "Hải Dương",
+      "population": 0,
+      "latitude": 20.9628,
+      "longitude": 106.5095,
+      "alternate_names": "Phu Thai, Phú Thái"
+    },
+    {
+      "name": "Phú Thọ",
+      "tinh_thanh": "Phú Thọ",
+      "population": 0,
+      "latitude": 21.3996,
+      "longitude": 105.2222,
+      "alternate_names": "Pho Tho, Phu Tho, Phu To, Phú Thọ, Thi Xa Phu Tho, Thị Xã Phú Thọ"
+    },
+    {
+      "name": "Phú Túc",
+      "tinh_thanh": "Gia Lai",
+      "population": 0,
+      "latitude": 13.1968,
+      "longitude": 108.6904,
+      "alternate_names": "Ban Ba M'La, Ban Ba M’La, Phu Tuc, Phú Túc"
+    },
+    {
+      "name": "Phú Vang",
+      "tinh_thanh": "Thừa Thiên-Huế",
+      "population": 0,
+      "latitude": 16.4391,
+      "longitude": 107.7144,
+      "alternate_names": "Phu Vang, Phú Vang"
+    },
+    {
+      "name": "Phú Xuyên",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 20.7455,
+      "longitude": 105.9136,
+      "alternate_names": "Phu Xuyen, Phú Xuyên"
+    },
+    {
+      "name": "Phúc Thọ",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 21.1034,
+      "longitude": 105.5455,
+      "alternate_names": "Phuc Tho, Phúc Thọ"
+    },
+    {
+      "name": "Phúc Yên",
+      "tinh_thanh": "Vĩnh Phúc",
+      "population": 0,
+      "latitude": 21.237,
+      "longitude": 105.7048,
+      "alternate_names": "Phuc Yen, Phúc Yên"
+    },
+    {
+      "name": "Phước An",
+      "tinh_thanh": "Đắk Lắk",
+      "population": 0,
+      "latitude": 12.713,
+      "longitude": 108.3015,
+      "alternate_names": "Phuoc An, Phước An"
+    },
+    {
+      "name": "Phước Dân",
+      "tinh_thanh": "Ninh Thuận",
+      "population": 0,
+      "latitude": 11.527,
+      "longitude": 108.93,
+      "alternate_names": "Phuoc Dan, Phước Dân"
+    },
+    {
+      "name": "Phố Châu",
+      "tinh_thanh": "Hà Tĩnh",
+      "population": 0,
+      "latitude": 18.5133,
+      "longitude": 105.4241,
+      "alternate_names": "Cho Pho, Pho Chau, Phố Châu"
+    },
+    {
+      "name": "Phố Mới",
+      "tinh_thanh": "Bắc Ninh",
+      "population": 0,
+      "latitude": 21.1533,
+      "longitude": 106.1516,
+      "alternate_names": "Pho Moi, Phố Mới"
+    },
+    {
+      "name": "Phụng Hiệp",
+      "tinh_thanh": "Hậu Giang",
+      "population": 0,
+      "latitude": 9.7797,
+      "longitude": 105.7338,
+      "alternate_names": "Cay Duong, Cây Dương, Phung Hiep, Phung Niep, Phuong Heip, Phụng Hiệp"
+    },
+    {
+      "name": "Phủ Thông",
+      "tinh_thanh": "Bắc Kạn",
+      "population": 0,
+      "latitude": 22.2731,
+      "longitude": 105.8794,
+      "alternate_names": "Phu Thong, Phủ Thông"
+    },
+    {
+      "name": "Plei Kần",
+      "tinh_thanh": "Kon Tum",
+      "population": 0,
+      "latitude": 14.705,
+      "longitude": 107.6862,
+      "alternate_names": "Plei Can, Plei Cần, Plei Kan, Plei Kần, Polei Kan, Pơlei Kan"
+    },
+    {
+      "name": "Prao",
+      "tinh_thanh": "Quảng Nam",
+      "population": 0,
+      "latitude": 15.9244,
+      "longitude": 107.6481,
+      "alternate_names": "Prao"
+    },
+    {
+      "name": "Pác Miầu",
+      "tinh_thanh": "Cao Bằng",
+      "population": 0,
+      "latitude": 22.8297,
+      "longitude": 105.4933,
+      "alternate_names": "Bao Lam, Bảo Lâm, Pac Miau, Pac Mieu, Pác Miầu, Păc Miều"
+    },
+    {
+      "name": "Quan Hóa",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 20.3848,
+      "longitude": 105.1002,
+      "alternate_names": "Quan Hoa, Quan Hóa"
+    },
+    {
+      "name": "Quan Sơn",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 20.2591,
+      "longitude": 104.9452,
+      "alternate_names": "Quan Son, Quan Sơn"
+    },
+    {
+      "name": "Quy Đạt",
+      "tinh_thanh": "Quảng Bình",
+      "population": 0,
+      "latitude": 17.8046,
+      "longitude": 105.9704,
+      "alternate_names": "Oui Dat, Qui Dat, Qui Đạt, Quy Dat, Quy Đạt"
+    },
+    {
+      "name": "Quán Hành",
+      "tinh_thanh": "Nghệ An",
+      "population": 0,
+      "latitude": 18.7793,
+      "longitude": 105.646,
+      "alternate_names": "Nghi Loc, Nghi Lộc, Quan Hanh, Quán Hành"
+    },
+    {
+      "name": "Quán Hàu",
+      "tinh_thanh": "Quảng Bình",
+      "population": 0,
+      "latitude": 17.4044,
+      "longitude": 106.6407,
+      "alternate_names": "Quan Hau, Quang Ninh, Quán Hàu, Quảng Ninh"
+    },
+    {
+      "name": "Quán Lào",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 19.9715,
+      "longitude": 105.6511,
+      "alternate_names": "Quan Lao, Quán Lào"
+    },
+    {
+      "name": "Quảng Hà",
+      "tinh_thanh": "Quảng Ninh",
+      "population": 0,
+      "latitude": 21.4506,
+      "longitude": 107.7559,
+      "alternate_names": "Quang Ha, Quảng Hà"
+    },
+    {
+      "name": "Quảng Phú",
+      "tinh_thanh": "Đắk Lắk",
+      "population": 0,
+      "latitude": 12.8196,
+      "longitude": 108.0774,
+      "alternate_names": "Quang Phu, Quảng Phú"
+    },
+    {
+      "name": "Quảng Xương",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 19.7295,
+      "longitude": 105.7827,
+      "alternate_names": "Quang Xuong, Quảng Xương"
+    },
+    {
+      "name": "Quảng Yên",
+      "tinh_thanh": "Quảng Ninh",
+      "population": 0,
+      "latitude": 20.9421,
+      "longitude": 106.8027,
+      "alternate_names": "Kang Yen, Kwang Yen, Quang Yen, Quảng Yên"
+    },
+    {
+      "name": "Quận Ba",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 0,
+      "latitude": 10.7749,
+      "longitude": 106.6863,
+      "alternate_names": "Quan 3, Quan Ba, Quận 3, Quận Ba"
+    },
+    {
+      "name": "Quận Bình Thạnh",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 0,
+      "latitude": 10.8033,
+      "longitude": 106.6967,
+      "alternate_names": ""
+    },
+    {
+      "name": "Quận Bảy",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 0,
+      "latitude": 10.7118,
+      "longitude": 106.7364,
+      "alternate_names": "Phu My, Phú Mỹ, Quan 7, Quan Bay, Quận 7, Quận Bảy"
+    },
+    {
+      "name": "Quận Bốn",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 0,
+      "latitude": 10.7668,
+      "longitude": 106.7057,
+      "alternate_names": "Quan 4, Quan Bon, Quận 4, Quận Bốn"
+    },
+    {
+      "name": "Quận Chín",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 0,
+      "latitude": 10.8397,
+      "longitude": 106.7709,
+      "alternate_names": "Quan 9, Quan Chin, Quận 9, Quận Chín"
+    },
+    {
+      "name": "Quận Hai",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 0,
+      "latitude": 10.7916,
+      "longitude": 106.7495,
+      "alternate_names": "Quan 2, Quan Hai, Quận 2, Quận Hai"
+    },
+    {
+      "name": "Quận Lấp Vò",
+      "tinh_thanh": "",
+      "population": 0,
+      "latitude": 10.3555,
+      "longitude": 105.5812,
+      "alternate_names": ""
+    },
+    {
+      "name": "Quận Mười",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 0,
+      "latitude": 10.7682,
+      "longitude": 106.6663,
+      "alternate_names": "Quan 10, Quan Muoi, Quận 10, Quận Mười"
+    },
+    {
+      "name": "Quận Mười Một",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 0,
+      "latitude": 10.7638,
+      "longitude": 106.6436,
+      "alternate_names": "Quan 11, Quan Muoi Mot, Quận 11, Quận Mười Một"
+    },
+    {
+      "name": "Quận Một",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 0,
+      "latitude": 10.7807,
+      "longitude": 106.6994,
+      "alternate_names": "Quan 1, Quan Mot, Quận 1, Quận Một"
+    },
+    {
+      "name": "Quận Năm",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 0,
+      "latitude": 10.7557,
+      "longitude": 106.6675,
+      "alternate_names": "Quan 5, Quan Nam, Quận 5, Quận Năm"
+    },
+    {
+      "name": "Quận Phú Nhuận",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 0,
+      "latitude": 10.7948,
+      "longitude": 106.6763,
+      "alternate_names": "Quan Phu Nhuan, Quận Phú Nhuận"
+    },
+    {
+      "name": "Quận Sáu",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 0,
+      "latitude": 10.7468,
+      "longitude": 106.649,
+      "alternate_names": "Quan 6, Quan Sau, Quận 6, Quận Sáu"
+    },
+    {
+      "name": "Quận Tân Phú",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 0,
+      "latitude": 10.7838,
+      "longitude": 106.637,
+      "alternate_names": ""
+    },
+    {
+      "name": "Quế",
+      "tinh_thanh": "Hà Nam",
+      "population": 0,
+      "latitude": 20.5806,
+      "longitude": 105.8727,
+      "alternate_names": "Que, Quế"
+    },
+    {
+      "name": "Quế Sơn",
+      "tinh_thanh": "Quảng Nam",
+      "population": 0,
+      "latitude": 15.6736,
+      "longitude": 108.2201,
+      "alternate_names": "Dong Phu, Que Son, Quế Sơn, Đông Phú"
+    },
+    {
+      "name": "Quốc Oai",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 20.9902,
+      "longitude": 105.6409,
+      "alternate_names": "Quoc Oai, Quốc Oai"
+    },
+    {
+      "name": "Quỳ Châu",
+      "tinh_thanh": "Nghệ An",
+      "population": 0,
+      "latitude": 19.5521,
+      "longitude": 105.0939,
+      "alternate_names": "Ke Bon, Phu Qui Chau, Qui Chau, Quy Chau, Quí Châu, Quỳ Châu, Qùy Chau"
+    },
+    {
+      "name": "Quỳ Hợp",
+      "tinh_thanh": "Nghệ An",
+      "population": 0,
+      "latitude": 19.3255,
+      "longitude": 105.1825,
+      "alternate_names": "Qui Hop, Quy Hop, Quì Hợp, Quỳ Hợp"
+    },
+    {
+      "name": "Quỳnh Côi",
+      "tinh_thanh": "Thái Bình",
+      "population": 0,
+      "latitude": 20.6619,
+      "longitude": 106.3274,
+      "alternate_names": "Quynh Coi, Quỳnh Côi"
+    },
+    {
+      "name": "Rừng Thông",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 19.8191,
+      "longitude": 105.7328,
+      "alternate_names": "Rung Thong, Rừng Thông"
+    },
+    {
+      "name": "Sa Rài",
+      "tinh_thanh": "Đồng Tháp",
+      "population": 0,
+      "latitude": 10.8702,
+      "longitude": 105.4658,
+      "alternate_names": "Sa Rai, Sa Rài"
+    },
+    {
+      "name": "Sa Thầy",
+      "tinh_thanh": "Kon Tum",
+      "population": 0,
+      "latitude": 14.4138,
+      "longitude": 107.7934,
+      "alternate_names": "Sa Thay, Sa Thầy"
+    },
+    {
+      "name": "Si Ma Cai",
+      "tinh_thanh": "Lào Cai",
+      "population": 0,
+      "latitude": 22.6951,
+      "longitude": 104.2786,
+      "alternate_names": "Ngam Pang, Si Ma Cai, Si Ma Kai, Sin Ma Kai, Sin Ma Kay"
+    },
+    {
+      "name": "Sóc Sơn",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 21.2578,
+      "longitude": 105.8489,
+      "alternate_names": "Soc Son, Sóc Sơn"
+    },
+    {
+      "name": "Sông Mã",
+      "tinh_thanh": "Sơn La",
+      "population": 0,
+      "latitude": 21.0509,
+      "longitude": 103.7499,
+      "alternate_names": "Ban Na Nhiu, Bản Na Nhiu, Song Ma, Sông Mã"
+    },
+    {
+      "name": "Sông Thao",
+      "tinh_thanh": "Phú Thọ",
+      "population": 0,
+      "latitude": 21.4213,
+      "longitude": 105.1337,
+      "alternate_names": "Huyen Song Thao, Huyện Sông Thao, Song Thao, Sông Thao"
+    },
+    {
+      "name": "Sơn Dương",
+      "tinh_thanh": "Tuyên Quang",
+      "population": 0,
+      "latitude": 21.6968,
+      "longitude": 105.399,
+      "alternate_names": "Dong Chau, Huyen Son Duong, Huyên Sơn Dương, Son Duong, Sơn Dương, Thuong Chau, Thượng Châu"
+    },
+    {
+      "name": "Sơn Hà",
+      "tinh_thanh": "Quảng Ngãi Province",
+      "population": 0,
+      "latitude": 15.0419,
+      "longitude": 108.4697,
+      "alternate_names": "La Lang, Le Lang, Son Ha, Sơn Hà"
+    },
+    {
+      "name": "Sơn Thịnh",
+      "tinh_thanh": "Yên Bái",
+      "population": 0,
+      "latitude": 21.5625,
+      "longitude": 104.5948,
+      "alternate_names": "Son Thinh, Sơn Thịnh, Van Chan, Văn Chấn"
+    },
+    {
+      "name": "Sơn Trà",
+      "tinh_thanh": "Da Nang",
+      "population": 0,
+      "latitude": 16.0607,
+      "longitude": 108.2326,
+      "alternate_names": "Son Tra, Sơn Trà"
+    },
+    {
+      "name": "Sơn Tịnh",
+      "tinh_thanh": "Quảng Ngãi Province",
+      "population": 0,
+      "latitude": 15.1586,
+      "longitude": 108.7958,
+      "alternate_names": "Son Tinh, Sơn Tịnh"
+    },
+    {
+      "name": "Sịa",
+      "tinh_thanh": "Thừa Thiên-Huế",
+      "population": 0,
+      "latitude": 16.5745,
+      "longitude": 107.5107,
+      "alternate_names": "Sia, Sịa"
+    },
+    {
+      "name": "Tam Bình",
+      "tinh_thanh": "Vĩnh Long",
+      "population": 0,
+      "latitude": 10.0481,
+      "longitude": 106.0002,
+      "alternate_names": "Tam Binh, Tam Bình"
+    },
+    {
+      "name": "Tam Điệp",
+      "tinh_thanh": "Ninh Bình",
+      "population": 0,
+      "latitude": 20.1563,
+      "longitude": 105.9174,
+      "alternate_names": "Tam Diep, Tam Điệp"
+    },
+    {
+      "name": "Tam Đường",
+      "tinh_thanh": "Lai Châu",
+      "population": 0,
+      "latitude": 22.3181,
+      "longitude": 103.6262,
+      "alternate_names": "Tam Duong, Tam Đường"
+    },
+    {
+      "name": "Tam Đảo",
+      "tinh_thanh": "Vĩnh Phúc",
+      "population": 0,
+      "latitude": 21.3932,
+      "longitude": 105.6144,
+      "alternate_names": "Tam Dao, Tam Đảo, Trai Ngau"
+    },
+    {
+      "name": "Than Uyên",
+      "tinh_thanh": "Lai Châu",
+      "population": 0,
+      "latitude": 21.9591,
+      "longitude": 103.88,
+      "alternate_names": "Muong Than, Than Huyen, Than Uven, Than Uvên, Than Uyen, Than Uyên"
+    },
+    {
+      "name": "Thanh Ba",
+      "tinh_thanh": "Phú Thọ",
+      "population": 0,
+      "latitude": 21.4988,
+      "longitude": 105.141,
+      "alternate_names": "Huyen Thanh Hoa, Huyện Thanh Hòa, Thanh Ba"
+    },
+    {
+      "name": "Thanh Bình",
+      "tinh_thanh": "Đồng Tháp",
+      "population": 0,
+      "latitude": 10.5619,
+      "longitude": 105.4841,
+      "alternate_names": "Thanh Binh, Thanh Bình"
+    },
+    {
+      "name": "Thanh Chương",
+      "tinh_thanh": "Nghệ An",
+      "population": 0,
+      "latitude": 18.7788,
+      "longitude": 105.3336,
+      "alternate_names": "Thanh Chuong, Thanh Chương"
+    },
+    {
+      "name": "Thanh Hà",
+      "tinh_thanh": "Hải Dương",
+      "population": 0,
+      "latitude": 20.8982,
+      "longitude": 106.4261,
+      "alternate_names": "Thanh Ha, Thanh Hà"
+    },
+    {
+      "name": "Thanh Khê",
+      "tinh_thanh": "Da Nang",
+      "population": 0,
+      "latitude": 16.0706,
+      "longitude": 108.191,
+      "alternate_names": "Thanh Khe, Thanh Khê"
+    },
+    {
+      "name": "Thanh Lưu",
+      "tinh_thanh": "Hà Nam",
+      "population": 0,
+      "latitude": 20.474,
+      "longitude": 105.9527,
+      "alternate_names": "Thanh Liem, Thanh Liêm, Thanh Luu, Thanh Lưu"
+    },
+    {
+      "name": "Thanh Miện",
+      "tinh_thanh": "Hải Dương",
+      "population": 0,
+      "latitude": 20.7871,
+      "longitude": 106.2462,
+      "alternate_names": "Thanh Mien, Thanh Miện"
+    },
+    {
+      "name": "Thanh Nê",
+      "tinh_thanh": "Thái Bình",
+      "population": 0,
+      "latitude": 20.3881,
+      "longitude": 106.4383,
+      "alternate_names": "Thanh Ne, Thanh Nê"
+    },
+    {
+      "name": "Thanh Sơn",
+      "tinh_thanh": "Phú Thọ",
+      "population": 0,
+      "latitude": 21.1987,
+      "longitude": 105.1789,
+      "alternate_names": "Huyen Thanh Son, Huyện Thanh Sơn, Thanh Son, Thanh Sơn"
+    },
+    {
+      "name": "Thanh Thủy",
+      "tinh_thanh": "Phú Thọ",
+      "population": 0,
+      "latitude": 21.1755,
+      "longitude": 105.2839,
+      "alternate_names": "Thanh Thuy, Thanh Thủy"
+    },
+    {
+      "name": "Thanh Xuân",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 20.9947,
+      "longitude": 105.7998,
+      "alternate_names": "Thanh Xuan, Thanh Xuân"
+    },
+    {
+      "name": "Thiên Tồn",
+      "tinh_thanh": "Ninh Bình",
+      "population": 0,
+      "latitude": 20.2991,
+      "longitude": 105.952,
+      "alternate_names": "Thien Ton, Thiên Tồn"
+    },
+    {
+      "name": "Thuận Nam",
+      "tinh_thanh": "Bình Thuận",
+      "population": 0,
+      "latitude": 10.85,
+      "longitude": 107.8786,
+      "alternate_names": "Thuan Nam, Thuận Nam"
+    },
+    {
+      "name": "Thành Phố Bà Rịa",
+      "tinh_thanh": "Bà Rịa-Vũng Tàu",
+      "population": 0,
+      "latitude": 10.4963,
+      "longitude": 107.1684,
+      "alternate_names": "Ba Ria, Bà Rịa, Thanh Pho Ba Ria, Thành Phố Bà Rịa"
+    },
+    {
+      "name": "Thường Tín",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 20.8687,
+      "longitude": 105.8612,
+      "alternate_names": "Thuong Tin, Thường Tín"
+    },
+    {
+      "name": "Thường Xuân",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 19.9029,
+      "longitude": 105.3472,
+      "alternate_names": "Thuong Xuan, Thường Xuân"
+    },
+    {
+      "name": "Thạch Hà",
+      "tinh_thanh": "Hà Tĩnh",
+      "population": 0,
+      "latitude": 18.3679,
+      "longitude": 105.8612,
+      "alternate_names": "Thach Ha, Thạch Hà"
+    },
+    {
+      "name": "Thạnh Hóa",
+      "tinh_thanh": "Long An",
+      "population": 0,
+      "latitude": 10.6574,
+      "longitude": 106.1808,
+      "alternate_names": "Thanh Hoa, Thạnh Hóa"
+    },
+    {
+      "name": "Thạnh Mỹ",
+      "tinh_thanh": "Quảng Nam",
+      "population": 0,
+      "latitude": 15.7489,
+      "longitude": 107.8368,
+      "alternate_names": "My Hiep, Mỹ Hiệp, Thanh My, Thạnh Mỹ"
+    },
+    {
+      "name": "Thạnh Mỹ",
+      "tinh_thanh": "Lâm Đồng",
+      "population": 0,
+      "latitude": 11.7616,
+      "longitude": 108.4947,
+      "alternate_names": "Thanh My, Thạnh Mỹ"
+    },
+    {
+      "name": "Thạnh Phú",
+      "tinh_thanh": "Bến Tre",
+      "population": 0,
+      "latitude": 9.9483,
+      "longitude": 106.5163,
+      "alternate_names": "Huong Thanh Phu, Hương Thạnh Phú, Phu, Phú, Thanh Phu, Thạnh Phú"
+    },
+    {
+      "name": "Thắng",
+      "tinh_thanh": "Bắc Giang",
+      "population": 0,
+      "latitude": 21.355,
+      "longitude": 105.9834,
+      "alternate_names": "Thang, Thắng"
+    },
+    {
+      "name": "Thị Trấn Bảo Lạc",
+      "tinh_thanh": "Cao Bằng",
+      "population": 0,
+      "latitude": 22.9492,
+      "longitude": 105.6805,
+      "alternate_names": "Bao Lac, Bảo Lạc, Thi Tran Bao Lac, Thị Trấn Bảo Lạc"
+    },
+    {
+      "name": "Thị Trấn Cao Lộc",
+      "tinh_thanh": "Lạng Sơn",
+      "population": 0,
+      "latitude": 21.8665,
+      "longitude": 106.7683,
+      "alternate_names": "Thi Tran Cao Loc, Thị Trấn Cao Lộc"
+    },
+    {
+      "name": "Thị Trấn Giá Rai",
+      "tinh_thanh": "Bạc Liêu",
+      "population": 0,
+      "latitude": 9.2379,
+      "longitude": 105.4552,
+      "alternate_names": "Thi Tran Gia Rai, Thị Trấn Giá Rai"
+    },
+    {
+      "name": "Thị Trấn Gành Hào",
+      "tinh_thanh": "Bạc Liêu",
+      "population": 0,
+      "latitude": 9.0318,
+      "longitude": 105.4211,
+      "alternate_names": "Thi Tran Ganh Hao, Thị Trấn Gành Hào"
+    },
+    {
+      "name": "Thị Trấn Hòa Bình",
+      "tinh_thanh": "Bạc Liêu",
+      "population": 0,
+      "latitude": 9.2847,
+      "longitude": 105.6292,
+      "alternate_names": "Thi Tran Hoa Binh, Thị Trấn Hòa Bình"
+    },
+    {
+      "name": "Thị Trấn Hùng Quốc",
+      "tinh_thanh": "Cao Bằng",
+      "population": 0,
+      "latitude": 22.829,
+      "longitude": 106.3234,
+      "alternate_names": "Thi Tran Hung Quoc, Thị Trấn Hùng Quốc"
+    },
+    {
+      "name": "Thị Trấn Khánh Yên",
+      "tinh_thanh": "Lào Cai",
+      "population": 0,
+      "latitude": 22.0893,
+      "longitude": 104.2515,
+      "alternate_names": "Khanh Yen, Khanh Yen Thuong, Khánh Yên Thượng, Muong Xac, Mương Xác, Thi Tran Khanh Yen, Thị Trấn Khánh Yên"
+    },
+    {
+      "name": "Thị Trấn Long Điền",
+      "tinh_thanh": "Bà Rịa-Vũng Tàu",
+      "population": 0,
+      "latitude": 10.4856,
+      "longitude": 107.2123,
+      "alternate_names": "Thi Tran Long GJien, Thị Trấn Long Điền"
+    },
+    {
+      "name": "Thị Trấn Mèo Vạc",
+      "tinh_thanh": "Hà Giang",
+      "population": 0,
+      "latitude": 23.1641,
+      "longitude": 105.4099,
+      "alternate_names": "Meo Vac, Mieu Vac, Mieu Yac, Mèo Vạc, Thi Tran Meo Vac, Thị Trấn Mèo Vạc"
+    },
+    {
+      "name": "Thị Trấn Mường Khương",
+      "tinh_thanh": "Lào Cai",
+      "population": 0,
+      "latitude": 22.7614,
+      "longitude": 104.1216,
+      "alternate_names": "Muong Khuong, Mường Khương, Thi Tran Muong Khuong, Thị Trấn Mường Khương"
+    },
+    {
+      "name": "Thị Trấn Mường Tè",
+      "tinh_thanh": "Lai Châu",
+      "population": 0,
+      "latitude": 22.3807,
+      "longitude": 102.8201,
+      "alternate_names": "Thi Tran Muong Te, Thị Trấn Mường Tè"
+    },
+    {
+      "name": "Thị Trấn Na Hang",
+      "tinh_thanh": "Tuyên Quang",
+      "population": 0,
+      "latitude": 22.3492,
+      "longitude": 105.3824,
+      "alternate_names": "Na Hang, Thi Tran Na Hang, Thị Trấn Na Hang"
+    },
+    {
+      "name": "Thị Trấn Na Sầm",
+      "tinh_thanh": "Lạng Sơn",
+      "population": 0,
+      "latitude": 22.0564,
+      "longitude": 106.6151,
+      "alternate_names": "Na Cha, Na Cham, Na Sam, Na Sầm, Thi Tran Na Sam, Thị Trấn Na Sầm"
+    },
+    {
+      "name": "Thị Trấn Ngan Dừa",
+      "tinh_thanh": "Bạc Liêu",
+      "population": 0,
+      "latitude": 9.567,
+      "longitude": 105.4502,
+      "alternate_names": "Thi Tran Ngan Dua, Thị Trấn Ngan Dừa"
+    },
+    {
+      "name": "Thị Trấn Nguyên Bình",
+      "tinh_thanh": "Cao Bằng",
+      "population": 0,
+      "latitude": 22.65,
+      "longitude": 105.9599,
+      "alternate_names": "Nguyen Binh, Nguyên Bình, Thi Tran Nguyen Binh, Thị Trấn Nguyên Bình"
+    },
+    {
+      "name": "Thị Trấn Ngải Giao",
+      "tinh_thanh": "Bà Rịa-Vũng Tàu",
+      "population": 0,
+      "latitude": 10.6471,
+      "longitude": 107.2458,
+      "alternate_names": "Ngai Giao, Ngải Giao, Thi Tran Ngai Giao, Thị Trấn Ngải Giao"
+    },
+    {
+      "name": "Thị Trấn Nước Hai",
+      "tinh_thanh": "Cao Bằng",
+      "population": 0,
+      "latitude": 22.7374,
+      "longitude": 106.1522,
+      "alternate_names": "Hoa An, Nouc Hai, Nuoc Hai, Nước Hai, Thi Tran Nuoc Hai, Thị Trấn Nước Hai"
+    },
+    {
+      "name": "Thị Trấn Phú Mỹ",
+      "tinh_thanh": "Huyện Tân Thành",
+      "population": 0,
+      "latitude": 10.6036,
+      "longitude": 107.054,
+      "alternate_names": "Thi Tran Phu My, Thị Trấn Phú Mỹ"
+    },
+    {
+      "name": "Thị Trấn Phước Bửu",
+      "tinh_thanh": "Bà Rịa-Vũng Tàu",
+      "population": 0,
+      "latitude": 10.5347,
+      "longitude": 107.402,
+      "alternate_names": "Ap Phuoc Buu, Lang Phuoc Buu, Làng Phước Bửu, Phuoc Buu, Thi Tran Phuoc Buu, Thị Trấn Phước Bửu"
+    },
+    {
+      "name": "Thị Trấn Phước Long",
+      "tinh_thanh": "Bạc Liêu",
+      "population": 0,
+      "latitude": 9.4375,
+      "longitude": 105.4622,
+      "alternate_names": "Thi Tran Phuoc Long, Thị Trấn Phước Long"
+    },
+    {
+      "name": "Thị Trấn Phố Lu",
+      "tinh_thanh": "Lào Cai",
+      "population": 0,
+      "latitude": 22.3192,
+      "longitude": 104.1872,
+      "alternate_names": "Pho Lu, Phu-Lu, Phố Lu, Thi Tran Pho Lu, Thị Trấn Phố Lu"
+    },
+    {
+      "name": "Thị Trấn Phố Ràng",
+      "tinh_thanh": "Lào Cai",
+      "population": 0,
+      "latitude": 22.2343,
+      "longitude": 104.4764,
+      "alternate_names": "Bao Yen, Bảo Yên, Lang Pho Rang, Làng Pho Rang, Thi Tran Pho Rang, Thị Trấn Phố Ràng"
+    },
+    {
+      "name": "Thị Trấn Quảng Uyên",
+      "tinh_thanh": "Cao Bằng",
+      "population": 0,
+      "latitude": 22.695,
+      "longitude": 106.4424,
+      "alternate_names": "Quang Uyen, Quảng Uyên, Thi Tran Quang Uyen, Thị Trấn Quảng Uyên"
+    },
+    {
+      "name": "Thị Trấn Sìn Hồ",
+      "tinh_thanh": "Lai Châu",
+      "population": 0,
+      "latitude": 22.3665,
+      "longitude": 103.2344,
+      "alternate_names": "Sin Ho, Sinh Ho, Sinh Hồ, Thi Tran Sin Ho, Thị Trấn Sìn Hồ, Tsin Ho, Tsin Hô, Tsinh Ho, Tsinh Hô"
+    },
+    {
+      "name": "Thị Trấn Tam Sơn",
+      "tinh_thanh": "Hà Giang",
+      "population": 0,
+      "latitude": 23.0674,
+      "longitude": 104.9893,
+      "alternate_names": "Thi Tran Tam Son, Thị Trấn Tam Sơn"
+    },
+    {
+      "name": "Thị Trấn Thanh Nhật",
+      "tinh_thanh": "Cao Bằng",
+      "population": 0,
+      "latitude": 22.6875,
+      "longitude": 106.67,
+      "alternate_names": "Ha Lang, Hạ Lang, Thi Tran Thanh Nhat, Thị Trấn Thanh Nhật"
+    },
+    {
+      "name": "Thị Trấn Thuận Châu",
+      "tinh_thanh": "Sơn La",
+      "population": 0,
+      "latitude": 21.4385,
+      "longitude": 103.69,
+      "alternate_names": "Ban Chieng Ly, Ban Dhieng Ly, Bản Chiêng Lý, Thi Tran Thuan Chau, Thuan Chau, Thị Trấn Thuận Châu"
+    },
+    {
+      "name": "Thị Trấn Thông Nông",
+      "tinh_thanh": "Cao Bằng",
+      "population": 0,
+      "latitude": 22.7841,
+      "longitude": 105.9832,
+      "alternate_names": "Thi Tran Thong Nong, Thị Trấn Thông Nông"
+    },
+    {
+      "name": "Thị Trấn Thất Khê",
+      "tinh_thanh": "Lạng Sơn",
+      "population": 0,
+      "latitude": 22.2553,
+      "longitude": 106.4736,
+      "alternate_names": "That Ke, That Khe, Thi Tran That Khe, Thất Khê, Thị Trấn Thất Khê"
+    },
+    {
+      "name": "Thị Trấn Trùng Khánh",
+      "tinh_thanh": "Cao Bằng",
+      "population": 0,
+      "latitude": 22.8351,
+      "longitude": 106.525,
+      "alternate_names": "Thi Tran Trung Khanh, Thị Trấn Trùng Khánh, Trung Khanh, Trung Khanh Phu, Trùng Khánh, Trùng Khánh Phủ"
+    },
+    {
+      "name": "Thị Trấn Trạm Tấu",
+      "tinh_thanh": "Yên Bái",
+      "population": 0,
+      "latitude": 21.4666,
+      "longitude": 104.3797,
+      "alternate_names": "Tham Tau, Thi Tran Tram Tau, Thị Trấn Trạm Tấu, Tram Tau, Trạm Tấu"
+    },
+    {
+      "name": "Thị Trấn Tuần Giáo",
+      "tinh_thanh": "Ðiện Biên",
+      "population": 0,
+      "latitude": 21.5899,
+      "longitude": 103.4218,
+      "alternate_names": "Thi Tran Tuan Giao, Thị Trấn Tuần Giáo"
+    },
+    {
+      "name": "Thị Trấn Tà Lùng",
+      "tinh_thanh": "Cao Bằng",
+      "population": 0,
+      "latitude": 22.4979,
+      "longitude": 106.5669,
+      "alternate_names": "Ta Lung, Thi Tran Ta Lung, Thị Trấn Tà Lùng, Tà Lùng"
+    },
+    {
+      "name": "Thị Trấn Tân Yên",
+      "tinh_thanh": "Tuyên Quang",
+      "population": 0,
+      "latitude": 22.0655,
+      "longitude": 105.0345,
+      "alternate_names": "Tan Yen, Thi Tran Tan Yen, Thị Trấn Tân Yên, Tân Yên"
+    },
+    {
+      "name": "Thị Trấn Tủa Chùa",
+      "tinh_thanh": "Ðiện Biên",
+      "population": 0,
+      "latitude": 21.8577,
+      "longitude": 103.3426,
+      "alternate_names": "Thi Tran Tua Chua, Thị Trấn Tủa Chùa"
+    },
+    {
+      "name": "Thị Trấn Vinh Quang",
+      "tinh_thanh": "Hà Giang",
+      "population": 0,
+      "latitude": 22.7408,
+      "longitude": 104.6796,
+      "alternate_names": "Thi Tran Vinh Quang, Thị Trấn Vinh Quang"
+    },
+    {
+      "name": "Thị Trấn Việt Lâm",
+      "tinh_thanh": "Hà Giang",
+      "population": 0,
+      "latitude": 22.6249,
+      "longitude": 104.9599,
+      "alternate_names": "Thi Tran Viet Lam, Thị Trấn Việt Lâm"
+    },
+    {
+      "name": "Thị Trấn Việt Quang",
+      "tinh_thanh": "Hà Giang",
+      "population": 0,
+      "latitude": 22.4151,
+      "longitude": 104.8068,
+      "alternate_names": "Thi Tran Viet Quang, Thị Trấn Việt Quang"
+    },
+    {
+      "name": "Thị Trấn Vĩnh Lộc",
+      "tinh_thanh": "Tuyên Quang",
+      "population": 0,
+      "latitude": 22.1436,
+      "longitude": 105.2719,
+      "alternate_names": "Thi Tran Vinh Loc, Thị Trấn Vĩnh Lộc"
+    },
+    {
+      "name": "Thị Trấn Vĩnh Tuy",
+      "tinh_thanh": "Hà Giang",
+      "population": 0,
+      "latitude": 22.2744,
+      "longitude": 104.8909,
+      "alternate_names": "Thi Tran Vinh Tuy, Thị Trấn Vĩnh Tuy, Vinh Tuy, Vĩnh Tuy"
+    },
+    {
+      "name": "Thị Trấn Vị Xuyên",
+      "tinh_thanh": "Hà Giang",
+      "population": 0,
+      "latitude": 22.6676,
+      "longitude": 104.9819,
+      "alternate_names": "Thi Tran Vi Xuyen, Thị Trấn Vị Xuyên"
+    },
+    {
+      "name": "Thị Trấn Xuân Hoà",
+      "tinh_thanh": "Cao Bằng",
+      "population": 0,
+      "latitude": 22.9024,
+      "longitude": 106.0774,
+      "alternate_names": "Thi Tran Xuan Hoa, Thị Trấn Xuân Hoà"
+    },
+    {
+      "name": "Thị Trấn Yên Minh",
+      "tinh_thanh": "Hà Giang",
+      "population": 0,
+      "latitude": 23.1179,
+      "longitude": 105.1416,
+      "alternate_names": "Thi Tran Yen Minh, Thị Trấn Yên Minh, Yen Minh, Yên Minh"
+    },
+    {
+      "name": "Thị Trấn Yên Thế",
+      "tinh_thanh": "Yên Bái",
+      "population": 0,
+      "latitude": 22.1107,
+      "longitude": 104.7675,
+      "alternate_names": "Thi Tran Yen The, Thị Trấn Yên Thế"
+    },
+    {
+      "name": "Thị Trấn Điện Biên",
+      "tinh_thanh": "Ðiện Biên",
+      "population": 0,
+      "latitude": 21.2596,
+      "longitude": 103.0344,
+      "alternate_names": "Thi Tran GJien Bien, Thị Trấn Điện Biên"
+    },
+    {
+      "name": "Thị Trấn Đông Khê",
+      "tinh_thanh": "Cao Bằng",
+      "population": 0,
+      "latitude": 22.4294,
+      "longitude": 106.4319,
+      "alternate_names": "Dong Khe, Thi Tran GJong Khe, Thị Trấn Đông Khê, Ðông Khê"
+    },
+    {
+      "name": "Thị Trấn Đất Đỏ",
+      "tinh_thanh": "Bà Rịa-Vũng Tàu",
+      "population": 0,
+      "latitude": 10.4909,
+      "longitude": 107.2701,
+      "alternate_names": "Phuoc Tho, Thi Tran Dat Do, Thị Trấn Đất Đỏ, Xa Phuoc Tho, Xã Phước Thọ"
+    },
+    {
+      "name": "Thị Trấn Đồng Văn",
+      "tinh_thanh": "Hà Giang",
+      "population": 0,
+      "latitude": 23.2784,
+      "longitude": 105.3629,
+      "alternate_names": "Dong Van, Dong Vang, Dồng Văn, Thi Tran GJong Van, Thị Trấn Đồng Văn"
+    },
+    {
+      "name": "Thọ Xuân",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 19.9313,
+      "longitude": 105.5218,
+      "alternate_names": "Quan Phu, Tho Xuan, Thọ Xuân"
+    },
+    {
+      "name": "Thống Nhất",
+      "tinh_thanh": "Đồng Nai",
+      "population": 0,
+      "latitude": 10.9505,
+      "longitude": 107.1457,
+      "alternate_names": "Thong Nhat, Thống Nhất"
+    },
+    {
+      "name": "Thốt Nốt",
+      "tinh_thanh": "Can Tho",
+      "population": 0,
+      "latitude": 10.2721,
+      "longitude": 105.5338,
+      "alternate_names": "Tho Not, Thot Not, Thốt Nốt"
+    },
+    {
+      "name": "Thới Bình",
+      "tinh_thanh": "Cà Mau",
+      "population": 0,
+      "latitude": 9.3558,
+      "longitude": 105.0993,
+      "alternate_names": "Thoi Binh, Thot Binh, Thới Bình"
+    },
+    {
+      "name": "Thới Lai",
+      "tinh_thanh": "Can Tho",
+      "population": 0,
+      "latitude": 10.0652,
+      "longitude": 105.5586,
+      "alternate_names": "Thoi Lai, Thới Lai"
+    },
+    {
+      "name": "Thủ Thừa",
+      "tinh_thanh": "Long An",
+      "population": 0,
+      "latitude": 10.6023,
+      "longitude": 106.4021,
+      "alternate_names": "Cho Thu Thua, Thu Thua, Thủ Thừa"
+    },
+    {
+      "name": "Thủ Đức",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 0,
+      "latitude": 10.8486,
+      "longitude": 106.7721,
+      "alternate_names": "Thu Duc, Thủ Đức"
+    },
+    {
+      "name": "Thứ Mười Một",
+      "tinh_thanh": "Kiến Giang",
+      "population": 0,
+      "latitude": 9.6114,
+      "longitude": 104.9465,
+      "alternate_names": "Thu Muoi Mot, Thứ Mười Một"
+    },
+    {
+      "name": "Thứa",
+      "tinh_thanh": "Bắc Ninh",
+      "population": 0,
+      "latitude": 21.0194,
+      "longitude": 106.2004,
+      "alternate_names": "Thua, Thứa"
+    },
+    {
+      "name": "Tiên Lãng",
+      "tinh_thanh": "Haiphong",
+      "population": 0,
+      "latitude": 20.7246,
+      "longitude": 106.5539,
+      "alternate_names": "Tien Lang, Tiên Lãng"
+    },
+    {
+      "name": "Tiên Phước",
+      "tinh_thanh": "Quảng Nam",
+      "population": 0,
+      "latitude": 15.4882,
+      "longitude": 108.3074,
+      "alternate_names": "Phuoc An, Phước An, Tien Ky, Tien Phuoc, Tiên Kỳ, Tiên Phước"
+    },
+    {
+      "name": "Tiền Hải",
+      "tinh_thanh": "Thái Bình",
+      "population": 0,
+      "latitude": 20.4056,
+      "longitude": 106.5036,
+      "alternate_names": "Ngoai De, Ngoại Đê, Tien Hai, Tiền Hải"
+    },
+    {
+      "name": "Tiểu Cần",
+      "tinh_thanh": "Trà Vinh",
+      "population": 0,
+      "latitude": 9.8117,
+      "longitude": 106.1907,
+      "alternate_names": "Tieu Can, Tiểu Cần"
+    },
+    {
+      "name": "Tri Tôn",
+      "tinh_thanh": "An Giang",
+      "population": 0,
+      "latitude": 10.4202,
+      "longitude": 105.0007,
+      "alternate_names": "Tri Ton, Tri Tôn"
+    },
+    {
+      "name": "Triệu Sơn",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 19.8191,
+      "longitude": 105.6039,
+      "alternate_names": "Trieu Son, Triệu Sơn"
+    },
+    {
+      "name": "Trà Bồng",
+      "tinh_thanh": "Quảng Ngãi Province",
+      "population": 0,
+      "latitude": 15.2557,
+      "longitude": 108.5172,
+      "alternate_names": "Tra Bong, Tra Xuan, Trà Bồng, Trà Xuân"
+    },
+    {
+      "name": "Trà Cú",
+      "tinh_thanh": "Trà Vinh",
+      "population": 0,
+      "latitude": 9.6977,
+      "longitude": 106.2583,
+      "alternate_names": "Huong Tra Cu, Hương Trà Cú, Tra Cu, Trà Cú"
+    },
+    {
+      "name": "Trà My",
+      "tinh_thanh": "Quảng Nam",
+      "population": 0,
+      "latitude": 15.3397,
+      "longitude": 108.2207,
+      "alternate_names": "Hau Duc, Hậu Đúc, Tien Tra, Tiên Trà, Tra Mi, Tra My, Trà Mi, Trà My"
+    },
+    {
+      "name": "Trà Ôn",
+      "tinh_thanh": "Vĩnh Long",
+      "population": 0,
+      "latitude": 9.9626,
+      "longitude": 105.9217,
+      "alternate_names": "Tra On, Trà Ôn"
+    },
+    {
+      "name": "Tràm Chim",
+      "tinh_thanh": "Đồng Tháp",
+      "population": 0,
+      "latitude": 10.67,
+      "longitude": 105.5647,
+      "alternate_names": "Tram Chim, Tràm Chim"
+    },
+    {
+      "name": "Trâu Quỳ",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 21.0195,
+      "longitude": 105.9369,
+      "alternate_names": "Trau Quy, Trâu Quỳ"
+    },
+    {
+      "name": "Trôi",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 21.0695,
+      "longitude": 105.7065,
+      "alternate_names": "Troi, Trôi"
+    },
+    {
+      "name": "Trảng Bom",
+      "tinh_thanh": "Đồng Nai",
+      "population": 0,
+      "latitude": 10.9536,
+      "longitude": 107.0059,
+      "alternate_names": "Trang Bom, Trảng Bom, Xa Trang Bom, Xã Trảng Bôm"
+    },
+    {
+      "name": "Trảng Bàng",
+      "tinh_thanh": "Tây Ninh Province",
+      "population": 0,
+      "latitude": 11.0299,
+      "longitude": 106.3575,
+      "alternate_names": "Trang Bang, Trảng Bàng"
+    },
+    {
+      "name": "Trần Cao",
+      "tinh_thanh": "Hưng Yên",
+      "population": 0,
+      "latitude": 20.7295,
+      "longitude": 106.1797,
+      "alternate_names": "Tran Cao, Trần Cao"
+    },
+    {
+      "name": "Trần Văn Thời",
+      "tinh_thanh": "Cà Mau",
+      "population": 0,
+      "latitude": 9.0771,
+      "longitude": 104.9791,
+      "alternate_names": "Tran Van Thoi, Trần Văn Thời"
+    },
+    {
+      "name": "Trới",
+      "tinh_thanh": "Quảng Ninh",
+      "population": 0,
+      "latitude": 21.0314,
+      "longitude": 106.991,
+      "alternate_names": "Troi, Trới"
+    },
+    {
+      "name": "Tuy Phước",
+      "tinh_thanh": "Bình Định",
+      "population": 0,
+      "latitude": 13.8274,
+      "longitude": 109.1665,
+      "alternate_names": "Trung Tin, Trung Tín, Tuy Phuoc, Tuy Phươc, Tuy Phước"
+    },
+    {
+      "name": "Tánh Linh",
+      "tinh_thanh": "Bình Thuận",
+      "population": 0,
+      "latitude": 11.0842,
+      "longitude": 107.6809,
+      "alternate_names": "Lac Tanh, Lạc Tánh, Tanh Linh, Thanh Linh, Tánh Linh, Xa Lac Tanh, Xã Lạc Tánh"
+    },
+    {
+      "name": "Tân Biên",
+      "tinh_thanh": "Tây Ninh Province",
+      "population": 0,
+      "latitude": 11.5444,
+      "longitude": 106.0116,
+      "alternate_names": "Tan Bien, Tân Biên"
+    },
+    {
+      "name": "Tân Châu",
+      "tinh_thanh": "An Giang",
+      "population": 0,
+      "latitude": 10.7983,
+      "longitude": 105.2389,
+      "alternate_names": "Tan Chau, Tân Châu"
+    },
+    {
+      "name": "Tân Châu",
+      "tinh_thanh": "Tây Ninh Province",
+      "population": 0,
+      "latitude": 11.552,
+      "longitude": 106.1724,
+      "alternate_names": "Tan Chau, Tân Châu"
+    },
+    {
+      "name": "Tân Hiệp",
+      "tinh_thanh": "Tiền Giang",
+      "population": 0,
+      "latitude": 10.449,
+      "longitude": 106.3439,
+      "alternate_names": "Ben Tranh, Tan Hiep, Tân Hiệp"
+    },
+    {
+      "name": "Tân Hiệp",
+      "tinh_thanh": "Kiến Giang",
+      "population": 0,
+      "latitude": 10.1171,
+      "longitude": 105.2858,
+      "alternate_names": "Tan Hiep, Tân Hiệp"
+    },
+    {
+      "name": "Tân Hòa",
+      "tinh_thanh": "Tiền Giang",
+      "population": 0,
+      "latitude": 10.3191,
+      "longitude": 106.7113,
+      "alternate_names": "Tan Hoa, Tân Hòa"
+    },
+    {
+      "name": "Tân Hưng",
+      "tinh_thanh": "Long An",
+      "population": 0,
+      "latitude": 10.8348,
+      "longitude": 105.6613,
+      "alternate_names": "Tan Hung, Tân Hưng"
+    },
+    {
+      "name": "Tân Kỳ",
+      "tinh_thanh": "Nghệ An",
+      "population": 0,
+      "latitude": 19.0476,
+      "longitude": 105.2681,
+      "alternate_names": "Tan Ky, Tân Kỳ"
+    },
+    {
+      "name": "Tân Phú",
+      "tinh_thanh": "Đồng Nai",
+      "population": 0,
+      "latitude": 11.2722,
+      "longitude": 107.4365,
+      "alternate_names": "Tan Phu, Tân Phú"
+    },
+    {
+      "name": "Tân Phú",
+      "tinh_thanh": "Bình Phước",
+      "population": 0,
+      "latitude": 11.4512,
+      "longitude": 106.8681,
+      "alternate_names": "Tan Phu, Tân Phú"
+    },
+    {
+      "name": "Tân Sơn",
+      "tinh_thanh": "Ninh Thuận",
+      "population": 0,
+      "latitude": 11.7752,
+      "longitude": 108.7848,
+      "alternate_names": "Tan Son, Tân Sơn"
+    },
+    {
+      "name": "Tân Thạnh",
+      "tinh_thanh": "Long An",
+      "population": 0,
+      "latitude": 10.6067,
+      "longitude": 106.0471,
+      "alternate_names": "Tan Thanh, Tân Thạnh"
+    },
+    {
+      "name": "Tân Trụ",
+      "tinh_thanh": "Long An",
+      "population": 0,
+      "latitude": 10.5127,
+      "longitude": 106.5076,
+      "alternate_names": "Ap Tan Thuan, Tan Tru, Tân Trụ, Ấp Tân Thuận"
+    },
+    {
+      "name": "Tân Túc",
+      "tinh_thanh": "Ho Chi Minh",
+      "population": 0,
+      "latitude": 10.6954,
+      "longitude": 106.5913,
+      "alternate_names": "Binh Chanh, Bình Chánh, Tan Tuc, Tân Túc"
+    },
+    {
+      "name": "Tân Việt",
+      "tinh_thanh": "Cao Bằng",
+      "population": 0,
+      "latitude": 22.8641,
+      "longitude": 105.4591,
+      "alternate_names": "Tan Viet, Tân Việt"
+    },
+    {
+      "name": "Tây Hồ",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 21.069,
+      "longitude": 105.8105,
+      "alternate_names": "Tay Ho, Tây Hồ"
+    },
+    {
+      "name": "Tây Trà",
+      "tinh_thanh": "Quảng Ngãi Province",
+      "population": 0,
+      "latitude": 15.1695,
+      "longitude": 108.36,
+      "alternate_names": "Tay Tra, Tây Trà"
+    },
+    {
+      "name": "Tây Đằng",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 21.1981,
+      "longitude": 105.4222,
+      "alternate_names": "Huyen Ba Vi, Huyện Ba Vì, Tay Dang, Tây Dắng, Tây Dằng, Tây Đằng"
+    },
+    {
+      "name": "Tô Hạp",
+      "tinh_thanh": "Khánh Hòa",
+      "population": 0,
+      "latitude": 12.0058,
+      "longitude": 108.9487,
+      "alternate_names": "To Hap, Tô Hạp"
+    },
+    {
+      "name": "Tĩnh Gia",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 19.4464,
+      "longitude": 105.7786,
+      "alternate_names": "Tinh Gia, Tĩnh Gia"
+    },
+    {
+      "name": "Tư Nghĩa",
+      "tinh_thanh": "Quảng Ngãi Province",
+      "population": 0,
+      "latitude": 15.0845,
+      "longitude": 108.826,
+      "alternate_names": "La Ha, La Hà, Tu Nghia, Tư Nghĩa"
+    },
+    {
+      "name": "Tầm Vu",
+      "tinh_thanh": "Long An",
+      "population": 0,
+      "latitude": 10.4411,
+      "longitude": 106.4679,
+      "alternate_names": "Tam Vu, Tầm Vu"
+    },
+    {
+      "name": "Tứ Kỳ",
+      "tinh_thanh": "Hải Dương",
+      "population": 0,
+      "latitude": 20.8191,
+      "longitude": 106.4066,
+      "alternate_names": "Tu Ky, Tứ Kỳ"
+    },
+    {
+      "name": "U Minh",
+      "tinh_thanh": "Cà Mau",
+      "population": 0,
+      "latitude": 9.4129,
+      "longitude": 104.9735,
+      "alternate_names": "U Minh"
+    },
+    {
+      "name": "Uyen Hung",
+      "tinh_thanh": "Gia Lai",
+      "population": 0,
+      "latitude": 11.0842,
+      "longitude": 106.7883,
+      "alternate_names": ""
+    },
+    {
+      "name": "Vân Canh",
+      "tinh_thanh": "Bình Định",
+      "population": 0,
+      "latitude": 13.6195,
+      "longitude": 108.9981,
+      "alternate_names": "Van Canh, Vân Canh"
+    },
+    {
+      "name": "Vân Tùng",
+      "tinh_thanh": "Bắc Kạn",
+      "population": 0,
+      "latitude": 22.4308,
+      "longitude": 105.9969,
+      "alternate_names": "Ngan Son, Ngân Sơn, Van Tung, Vân Tùng"
+    },
+    {
+      "name": "Vân Đình",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 20.7351,
+      "longitude": 105.7724,
+      "alternate_names": "Van Dinh, Vân Đình"
+    },
+    {
+      "name": "Võ Xu",
+      "tinh_thanh": "Bình Thuận",
+      "population": 0,
+      "latitude": 11.1869,
+      "longitude": 107.5602,
+      "alternate_names": "Vo Xu, Võ Xu, Xo Xu, Xõ Xu"
+    },
+    {
+      "name": "Văn Giang",
+      "tinh_thanh": "Hưng Yên",
+      "population": 0,
+      "latitude": 20.943,
+      "longitude": 105.9312,
+      "alternate_names": "Van Giang, Văn Giang"
+    },
+    {
+      "name": "Văn Quan",
+      "tinh_thanh": "Lạng Sơn",
+      "population": 0,
+      "latitude": 21.8652,
+      "longitude": 106.5392,
+      "alternate_names": "Van Quan, Văn Quan"
+    },
+    {
+      "name": "Văn Điển",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 20.9463,
+      "longitude": 105.845,
+      "alternate_names": "Van Dien, Văn Điển"
+    },
+    {
+      "name": "Vĩnh An",
+      "tinh_thanh": "Đồng Nai",
+      "population": 0,
+      "latitude": 11.089,
+      "longitude": 107.0352,
+      "alternate_names": "Vinh An, Vĩnh An"
+    },
+    {
+      "name": "Vĩnh Bình",
+      "tinh_thanh": "Tiền Giang",
+      "population": 0,
+      "latitude": 10.345,
+      "longitude": 106.5806,
+      "alternate_names": "Hoa Dong, Vinh Binh, Vinh Loi, Vĩnh Bình"
+    },
+    {
+      "name": "Vĩnh Châu",
+      "tinh_thanh": "Sóc Trăng",
+      "population": 0,
+      "latitude": 9.3244,
+      "longitude": 105.9801,
+      "alternate_names": "Vinh Chau, Vĩnh Châu"
+    },
+    {
+      "name": "Vĩnh Hưng",
+      "tinh_thanh": "Long An",
+      "population": 0,
+      "latitude": 10.8907,
+      "longitude": 105.7849,
+      "alternate_names": "Vinh Hung, Vĩnh Hưng"
+    },
+    {
+      "name": "Vĩnh Lộc",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 20.0544,
+      "longitude": 105.6157,
+      "alternate_names": "Nhan Lo, Vinh Loc, Vĩnh Lộc"
+    },
+    {
+      "name": "Vĩnh Thuận",
+      "tinh_thanh": "Kiến Giang",
+      "population": 0,
+      "latitude": 9.508,
+      "longitude": 105.2575,
+      "alternate_names": "Vinh Thuan, Vĩnh Thuận"
+    },
+    {
+      "name": "Vĩnh Thạnh",
+      "tinh_thanh": "Bình Định",
+      "population": 0,
+      "latitude": 14.1088,
+      "longitude": 108.7838,
+      "alternate_names": "Vinh Thanh, Vinh Thinh, Vĩnh Thạnh"
+    },
+    {
+      "name": "Vĩnh Thạnh",
+      "tinh_thanh": "Can Tho",
+      "population": 0,
+      "latitude": 10.2226,
+      "longitude": 105.3984,
+      "alternate_names": "Vinh Thanh, Vĩnh Thạnh"
+    },
+    {
+      "name": "Vĩnh Trụ",
+      "tinh_thanh": "Hà Nam",
+      "population": 0,
+      "latitude": 20.5602,
+      "longitude": 106.0281,
+      "alternate_names": "Vinh Tru, Vĩnh Trụ"
+    },
+    {
+      "name": "Vĩnh Tường",
+      "tinh_thanh": "Vĩnh Phúc",
+      "population": 0,
+      "latitude": 21.2165,
+      "longitude": 105.5125,
+      "alternate_names": "Vinh Tuong, Vĩnh Tường"
+    },
+    {
+      "name": "Vũ Quang",
+      "tinh_thanh": "Hà Tĩnh",
+      "population": 0,
+      "latitude": 18.3838,
+      "longitude": 105.5059,
+      "alternate_names": "Vu Quang, Vũ Quang"
+    },
+    {
+      "name": "Vũ Thư",
+      "tinh_thanh": "Thái Bình",
+      "population": 0,
+      "latitude": 20.4367,
+      "longitude": 106.2912,
+      "alternate_names": "Vu Thu, Vũ Thư"
+    },
+    {
+      "name": "Vũng Liêm",
+      "tinh_thanh": "Vĩnh Long",
+      "population": 0,
+      "latitude": 10.0958,
+      "longitude": 106.1855,
+      "alternate_names": "Vung Liem, Vũng Liêm"
+    },
+    {
+      "name": "Vương",
+      "tinh_thanh": "Hưng Yên",
+      "population": 0,
+      "latitude": 20.7011,
+      "longitude": 106.1175,
+      "alternate_names": "Vuong, Vương"
+    },
+    {
+      "name": "Vạn Giã",
+      "tinh_thanh": "Khánh Hòa",
+      "population": 0,
+      "latitude": 12.692,
+      "longitude": 109.2207,
+      "alternate_names": "Van Gia, Van Ninh, Vạn Giã, Vạn Ninh"
+    },
+    {
+      "name": "Vạn Hà",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 19.8866,
+      "longitude": 105.6788,
+      "alternate_names": "Van Ha, Vạn Hà"
+    },
+    {
+      "name": "Vụ Bản",
+      "tinh_thanh": "Hòa Bình",
+      "population": 0,
+      "latitude": 20.4642,
+      "longitude": 105.4435,
+      "alternate_names": "Vi Ban, Vi Bản, Vu Ban, Vụ Bản"
+    },
+    {
+      "name": "Xuân Trường",
+      "tinh_thanh": "Nam Định",
+      "population": 0,
+      "latitude": 20.2923,
+      "longitude": 106.3328,
+      "alternate_names": "Xuan Truong, Xuân Trường"
+    },
+    {
+      "name": "Xã Hòa Long",
+      "tinh_thanh": "Đồng Tháp",
+      "population": 0,
+      "latitude": 10.2743,
+      "longitude": 105.6668,
+      "alternate_names": ""
+    },
+    {
+      "name": "Yên Bình",
+      "tinh_thanh": "Hà Giang",
+      "population": 0,
+      "latitude": 22.4099,
+      "longitude": 104.5795,
+      "alternate_names": "Yen Binh, Yên Bình"
+    },
+    {
+      "name": "Yên Châu",
+      "tinh_thanh": "Sơn La",
+      "population": 0,
+      "latitude": 21.0458,
+      "longitude": 104.301,
+      "alternate_names": "Muong Vat, Yen Chau, Yên Châu"
+    },
+    {
+      "name": "Yên Cát",
+      "tinh_thanh": "Thanh Hóa",
+      "population": 0,
+      "latitude": 19.6633,
+      "longitude": 105.4285,
+      "alternate_names": "Yen Cat, Yên Cát"
+    },
+    {
+      "name": "Yên Lạc",
+      "tinh_thanh": "Vĩnh Phúc",
+      "population": 0,
+      "latitude": 21.2365,
+      "longitude": 105.573,
+      "alternate_names": "Yen Lac, Yên Lac, Yên Lạc"
+    },
+    {
+      "name": "Yên Lập",
+      "tinh_thanh": "Phú Thọ",
+      "population": 0,
+      "latitude": 21.347,
+      "longitude": 105.0574,
+      "alternate_names": "Huyen Yen Lap, Huyện Yên Lập, Yen Lap, Yên Lập"
+    },
+    {
+      "name": "Yên Mỹ",
+      "tinh_thanh": "Hưng Yên",
+      "population": 0,
+      "latitude": 20.8856,
+      "longitude": 106.0356,
+      "alternate_names": "Yen My, Yên Mỹ"
+    },
+    {
+      "name": "Yên Ninh",
+      "tinh_thanh": "Ninh Bình",
+      "population": 0,
+      "latitude": 20.184,
+      "longitude": 106.0612,
+      "alternate_names": "Yen Ninh, Yên Ninh"
+    },
+    {
+      "name": "Yên Phú",
+      "tinh_thanh": "Hà Giang",
+      "population": 0,
+      "latitude": 22.7322,
+      "longitude": 105.3714,
+      "alternate_names": "Yen Phu, Yên Phú"
+    },
+    {
+      "name": "Yên Thành",
+      "tinh_thanh": "Nghệ An",
+      "population": 0,
+      "latitude": 18.9986,
+      "longitude": 105.4712,
+      "alternate_names": "Yen Thanh, Yên Thành"
+    },
+    {
+      "name": "Yên Thịnh",
+      "tinh_thanh": "Ninh Bình",
+      "population": 0,
+      "latitude": 20.1624,
+      "longitude": 106.007,
+      "alternate_names": "Yen Thinh, Yên Thịnh"
+    },
+    {
+      "name": "Yên Định",
+      "tinh_thanh": "Nam Định",
+      "population": 0,
+      "latitude": 20.2015,
+      "longitude": 106.2958,
+      "alternate_names": "Yen Dinh, Yên Định"
+    },
+    {
+      "name": "Yến Lạc",
+      "tinh_thanh": "Bắc Kạn",
+      "population": 0,
+      "latitude": 22.2369,
+      "longitude": 106.1815,
+      "alternate_names": "Yen Lac, Yên Lạc, Yến Lạc"
+    },
+    {
+      "name": "Ái Tử",
+      "tinh_thanh": "Quảng Trị",
+      "population": 0,
+      "latitude": 16.7689,
+      "longitude": 107.165,
+      "alternate_names": "Ai Tu, Thon Ai Tu, Thôn Ái Tử, Ái Tử"
+    },
+    {
+      "name": "Ân Thi",
+      "tinh_thanh": "Hưng Yên",
+      "population": 0,
+      "latitude": 20.8183,
+      "longitude": 106.0912,
+      "alternate_names": "An Thi, Ân Thi"
+    },
+    {
+      "name": "Ít Ong",
+      "tinh_thanh": "Sơn La",
+      "population": 0,
+      "latitude": 21.5175,
+      "longitude": 104.027,
+      "alternate_names": "Ban Hit Ong, Ban It Ong, Bản It Ong, It Ong, Ít Ong"
+    },
+    {
+      "name": "Ô Môn",
+      "tinh_thanh": "Can Tho",
+      "population": 0,
+      "latitude": 10.1097,
+      "longitude": 105.6232,
+      "alternate_names": "O Mon, Phong Phu, Phong Phú, Ô Môn"
+    },
+    {
+      "name": "Điện Biên Đông",
+      "tinh_thanh": "Ðiện Biên",
+      "population": 0,
+      "latitude": 21.2967,
+      "longitude": 103.2201,
+      "alternate_names": "Dien Bien Dong, Điện Biên Đông"
+    },
+    {
+      "name": "Điện Bàn",
+      "tinh_thanh": "Quảng Nam",
+      "population": 0,
+      "latitude": 15.8885,
+      "longitude": 108.2545,
+      "alternate_names": "Dien Ban, Kwang Nam, Quang Nam, Vinh Dien, Vĩnh Điện, Điện Bàn"
+    },
+    {
+      "name": "Đoan Hùng",
+      "tinh_thanh": "Phú Thọ",
+      "population": 0,
+      "latitude": 21.6225,
+      "longitude": 105.1846,
+      "alternate_names": "Doan Hung, Huyen Doan Hung, Huyện Đoan Hùng, Phu Doan, Đoan Hùng"
+    },
+    {
+      "name": "Đu",
+      "tinh_thanh": "Thái Nguyên",
+      "population": 0,
+      "latitude": 21.7385,
+      "longitude": 105.7039,
+      "alternate_names": "Du, Đu"
+    },
+    {
+      "name": "Đà Bắc",
+      "tinh_thanh": "Hòa Bình",
+      "population": 0,
+      "latitude": 20.8771,
+      "longitude": 105.2542,
+      "alternate_names": "Da Bac, Đà Bắc"
+    },
+    {
+      "name": "Đình Lập",
+      "tinh_thanh": "Lạng Sơn",
+      "population": 0,
+      "latitude": 21.5463,
+      "longitude": 107.0981,
+      "alternate_names": "Dinh Lap, Đình Lập"
+    },
+    {
+      "name": "Đông Anh",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 21.1396,
+      "longitude": 105.8493,
+      "alternate_names": "Dong Anh, Đông Anh"
+    },
+    {
+      "name": "Đông Hưng",
+      "tinh_thanh": "Thái Bình",
+      "population": 0,
+      "latitude": 20.5565,
+      "longitude": 106.3553,
+      "alternate_names": "Dong Hung, Đông Hưng"
+    },
+    {
+      "name": "Đông Thành",
+      "tinh_thanh": "Long An",
+      "population": 0,
+      "latitude": 10.8922,
+      "longitude": 106.3061,
+      "alternate_names": "Dong Thanh, Đông Thành"
+    },
+    {
+      "name": "Đăk Đoa",
+      "tinh_thanh": "Gia Lai",
+      "population": 0,
+      "latitude": 13.995,
+      "longitude": 108.1121,
+      "alternate_names": "Dak Doa, Đak Đoa, Đăk Đoa"
+    },
+    {
+      "name": "Đạ Tẻh",
+      "tinh_thanh": "Lâm Đồng",
+      "population": 0,
+      "latitude": 11.5115,
+      "longitude": 107.4909,
+      "alternate_names": "Da Teh, Đạ Tẻh"
+    },
+    {
+      "name": "Đại Lộc",
+      "tinh_thanh": "Quảng Nam",
+      "population": 0,
+      "latitude": 15.8821,
+      "longitude": 108.1209,
+      "alternate_names": "Ai Nghia, Dai Loc, Ái Nghĩa, Đại Lộc"
+    },
+    {
+      "name": "Đại Nghĩa",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 20.6867,
+      "longitude": 105.7447,
+      "alternate_names": "Dai Nghia, Đại Nghĩa"
+    },
+    {
+      "name": "Đầm Dơi",
+      "tinh_thanh": "Huyện Đầm Dơi",
+      "population": 0,
+      "latitude": 8.9921,
+      "longitude": 105.196,
+      "alternate_names": "Dam Doi, Tan Long, Tân Long, Xom Tan Long, Đầm Dơi"
+    },
+    {
+      "name": "Đắk Glei",
+      "tinh_thanh": "Kon Tum",
+      "population": 0,
+      "latitude": 15.0864,
+      "longitude": 107.7358,
+      "alternate_names": "Dak Glei, Đắk Glei"
+    },
+    {
+      "name": "Đắk Hà",
+      "tinh_thanh": "Kon Tum",
+      "population": 0,
+      "latitude": 14.5135,
+      "longitude": 107.921,
+      "alternate_names": "Dak Ha, Đắk Hà"
+    },
+    {
+      "name": "Đắk Mil",
+      "tinh_thanh": "Ðắk Nông",
+      "population": 0,
+      "latitude": 12.4496,
+      "longitude": 107.6224,
+      "alternate_names": "Dak Mil, Duc Lap, Duc Minh, Tram de Dak Mil, Đắk Mil, Đức Lập, Đức Minh"
+    },
+    {
+      "name": "Đắk Mâm",
+      "tinh_thanh": "Ðắk Nông",
+      "population": 0,
+      "latitude": 12.4579,
+      "longitude": 107.8625,
+      "alternate_names": "Dak Mam, Đắk Mâm"
+    },
+    {
+      "name": "Đắk Rve",
+      "tinh_thanh": "Kon Tum",
+      "population": 0,
+      "latitude": 14.5072,
+      "longitude": 108.2473,
+      "alternate_names": "Dak Rve, Đắk Rve"
+    },
+    {
+      "name": "Đắk Song",
+      "tinh_thanh": "Ðắk Nông",
+      "population": 0,
+      "latitude": 12.2552,
+      "longitude": 107.6092,
+      "alternate_names": "Dak Song, Dao Thong, Xuong Cua May Dak Song, Xưởng Cưa Máy Dak Song, Đak Song, Đắk Song"
+    },
+    {
+      "name": "Đắk Tô",
+      "tinh_thanh": "Kon Tum",
+      "population": 0,
+      "latitude": 14.6609,
+      "longitude": 107.8389,
+      "alternate_names": "Dac To, Dak To, Dak Tô, Quan Dak To, Quận Dak To, Đắc Tô, Đắk Tô"
+    },
+    {
+      "name": "Đống Đa",
+      "tinh_thanh": "Hanoi",
+      "population": 0,
+      "latitude": 21.0201,
+      "longitude": 105.831,
+      "alternate_names": "Dong Da, Đống Đa"
+    },
+    {
+      "name": "Đồi Ngô",
+      "tinh_thanh": "Bắc Giang",
+      "population": 0,
+      "latitude": 21.3063,
+      "longitude": 106.3867,
+      "alternate_names": "GJoi Ngo, Đồi Ngô"
+    },
+    {
+      "name": "Đồng Lê",
+      "tinh_thanh": "Quảng Bình",
+      "population": 0,
+      "latitude": 17.8839,
+      "longitude": 106.0254,
+      "alternate_names": "Dong Le, Đồng Lê"
+    },
+    {
+      "name": "Đồng Mỏ",
+      "tinh_thanh": "Lạng Sơn",
+      "population": 0,
+      "latitude": 21.657,
+      "longitude": 106.5783,
+      "alternate_names": "Dong Mo, Đồng Mỏ"
+    },
+    {
+      "name": "Đồng Nai",
+      "tinh_thanh": "Lâm Đồng",
+      "population": 0,
+      "latitude": 11.5798,
+      "longitude": 107.3652,
+      "alternate_names": "Dong Nai, Đồng Nai"
+    },
+    {
+      "name": "Đồng Xuân",
+      "tinh_thanh": "Phú Yên",
+      "population": 0,
+      "latitude": 13.3773,
+      "longitude": 109.1081,
+      "alternate_names": "Dong Xuan, La Hai, Đồng Xuân"
+    },
+    {
+      "name": "Đức Phong",
+      "tinh_thanh": "Bình Phước",
+      "population": 0,
+      "latitude": 11.8135,
+      "longitude": 107.2443,
+      "alternate_names": "Bu Dang, Bù Đăng, Duc Phong, Đức Phong"
+    },
+    {
+      "name": "Đức Phổ",
+      "tinh_thanh": "Quảng Ngãi Province",
+      "population": 0,
+      "latitude": 14.8135,
+      "longitude": 108.9593,
+      "alternate_names": "Duc Pho, Pho Duc, Đức Phổ"
+    },
+    {
+      "name": "Đức Thọ",
+      "tinh_thanh": "Hà Tĩnh",
+      "population": 0,
+      "latitude": 18.5396,
+      "longitude": 105.583,
+      "alternate_names": "Duc Tho, Đưc Thọ, Đức Thọ"
+    }
+  ],
+  "meta": {
+    "title": "Thành phố và thị trấn Việt Nam - Tải miễn phí",
+    "description": "Các thành phố và khu dân cư của Việt Nam có dân số trên 500 người, kèm theo tỉnh/thành và tọa độ địa lý. Nguồn GeoNames (cities500). Chứa 620 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Thành phố và thị trấn Việt Nam | ListBase",
+    "seo_description": "Tải xuống Thành phố và thị trấn Việt Nam — 620 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 620 bản ghi / 6 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

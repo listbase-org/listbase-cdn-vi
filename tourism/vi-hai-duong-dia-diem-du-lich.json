@@ -1,0 +1,126 @@
+{
+  "id": "vi-hai-duong-dia-diem-du-lich",
+  "name": "Địa điểm du lịch Hải Dương",
+  "title": "Địa điểm du lịch Hải Dương",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Hải Dương (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "number"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 291,
+      "ten_dia_diem": "Đảo Cò Chi Lăng Nam",
+      "vi_tri": "Hải Dương",
+      "tinh_truoc_sap_nhap_2025": "Hải Dương",
+      "mo_ta": "Đảo Cò Chi Lăng Nam (Hải Dương) là một khu vực bảo tồn thiên nhiên nổi bật với hàng nghìn con cò sinh sống. Đây là địa điểm du lịch sinh thái lý tưởng, với không gian yên bình và cảnh quan tuyệt đẹp.",
+      "danh_gia": "3.3",
+      "danh_gia_diem": 3.3,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpzhFtGutS_W02Fr-0hiSq89Y7JzA_vKdnSA&s",
+      "tu_khoa": "du lịch, thiên nhiên, cảnh đẹp"
+    },
+    {
+      "stt": 292,
+      "ten_dia_diem": "Chùa Côn Sơn",
+      "vi_tri": "Hải Dương",
+      "tinh_truoc_sap_nhap_2025": "Hải Dương",
+      "mo_ta": "Chùa Côn Sơn (Hải Dương) là di tích lịch sử và văn hóa, nổi bật với kiến trúc cổ kính và không gian thanh tịnh. Nơi đây là một trong những địa điểm du lịch tâm linh nổi tiếng ở miền Bắc.",
+      "danh_gia": "3.5",
+      "danh_gia_diem": 3.5,
+      "anh": "https://consonkiepbac.org.vn/wp-content/uploads/2021/03/Cuu-pham-3.jpg",
+      "tu_khoa": "lịch sử, văn hóa, khám phá"
+    },
+    {
+      "stt": 293,
+      "ten_dia_diem": "Làng rối nước Thanh Hải",
+      "vi_tri": "Hải Dương",
+      "tinh_truoc_sap_nhap_2025": "Hải Dương",
+      "mo_ta": "Làng rối nước Thanh Hải (Hải Dương) là nơi bảo tồn và phát triển nghệ thuật rối nước truyền thống. Du khách có thể thưởng thức những màn rối đặc sắc trong không gian văn hóa dân gian đậm đà.",
+      "danh_gia": "4.1",
+      "danh_gia_diem": 4.1,
+      "anh": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/06_2021/lang-roi-nuoc-thanh-hai-sa.png",
+      "tu_khoa": "địa danh nổi tiếng, biểu tượng"
+    },
+    {
+      "stt": 294,
+      "ten_dia_diem": "Đền Kiếp Bạc",
+      "vi_tri": "Hải Dương",
+      "tinh_truoc_sap_nhap_2025": "Hải Dương",
+      "mo_ta": "Đền Kiếp Bạc (Hải Dương) là nơi thờ Hưng Đạo Đại Vương Trần Quốc Tuấn, người có công lớn trong chiến tranh chống Nguyên. Đền mang đậm giá trị lịch sử và văn hóa.",
+      "danh_gia": "3.1",
+      "danh_gia_diem": 3.1,
+      "anh": "https://vietsensetravel.com/view/at_den-kiep-bac_910af4a7a9046696946822e976e0a962.jpg",
+      "tu_khoa": "thư giãn, yên bình, du lịch sinh thái"
+    },
+    {
+      "stt": 295,
+      "ten_dia_diem": "Chợ Đông Ngô Quyền",
+      "vi_tri": "Hải Dương",
+      "tinh_truoc_sap_nhap_2025": "Hải Dương",
+      "mo_ta": "Chợ Đông Ngô Quyền (Hải Phòng) là chợ truyền thống nổi tiếng với đa dạng mặt hàng và không khí tấp nập. Chợ là nơi giao thương của người dân địa phương và du khách.",
+      "danh_gia": "3.5",
+      "danh_gia_diem": 3.5,
+      "anh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5VsYHUiMpVj0SqNQ-3n5vB7orjjCW2v9jzw&s",
+      "tu_khoa": "bảo tồn, động vật, thực vật"
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch Hải Dương - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành Hải Dương (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch Hải Dương | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch Hải Dương — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

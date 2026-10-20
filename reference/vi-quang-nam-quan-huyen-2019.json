@@ -1,0 +1,246 @@
+{
+  "id": "vi-quang-nam-quan-huyen-2019",
+  "name": "Quảng Nam — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Quảng Nam — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 18 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Quảng Nam theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 16 Huyện, 2 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/QNA.json). (18 district-level units of Quảng Nam under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "QNA-01",
+      "name": "Bắc Trà My",
+      "name_full": "Huyện Bắc Trà My",
+      "slug": "bac-tra-my",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 13
+    },
+    {
+      "code": "QNA-02",
+      "name": "Đại Lộc",
+      "name_full": "Huyện Đại Lộc",
+      "slug": "dai-loc",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 18
+    },
+    {
+      "code": "QNA-03",
+      "name": "Điện Bàn",
+      "name_full": "Huyện Điện Bàn",
+      "slug": "dien-ban",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 20
+    },
+    {
+      "code": "QNA-04",
+      "name": "Đông Giang",
+      "name_full": "Huyện Đông Giang",
+      "slug": "dong-giang",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 11
+    },
+    {
+      "code": "QNA-05",
+      "name": "Duy Xuyên",
+      "name_full": "Huyện Duy Xuyên",
+      "slug": "duy-xuyen",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 15
+    },
+    {
+      "code": "QNA-06",
+      "name": "Hiệp Đức",
+      "name_full": "Huyện Hiệp Đức",
+      "slug": "hiep-duc",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 12
+    },
+    {
+      "code": "QNA-07",
+      "name": "Hội An",
+      "name_full": "Thành phố Hội An",
+      "slug": "hoi-an",
+      "division_type": "Thành phố",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 13
+    },
+    {
+      "code": "QNA-08",
+      "name": "Nam Giang",
+      "name_full": "Huyện Nam Giang",
+      "slug": "nam-giang",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 12
+    },
+    {
+      "code": "QNA-09",
+      "name": "Nam Trà My",
+      "name_full": "Huyện Nam Trà My",
+      "slug": "nam-tra-my",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 10
+    },
+    {
+      "code": "QNA-10",
+      "name": "Nông Sơn",
+      "name_full": "Huyện Nông Sơn",
+      "slug": "nong-son",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 7
+    },
+    {
+      "code": "QNA-11",
+      "name": "Núi Thành",
+      "name_full": "Huyện Núi Thành",
+      "slug": "nui-thanh",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 17
+    },
+    {
+      "code": "QNA-12",
+      "name": "Phú Ninh",
+      "name_full": "Huyện Phú Ninh",
+      "slug": "phu-ninh",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 11
+    },
+    {
+      "code": "QNA-13",
+      "name": "Phước Sơn",
+      "name_full": "Huyện Phước Sơn",
+      "slug": "phuoc-son",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 12
+    },
+    {
+      "code": "QNA-14",
+      "name": "Quế Sơn",
+      "name_full": "Huyện Quế Sơn",
+      "slug": "que-son",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 15
+    },
+    {
+      "code": "QNA-15",
+      "name": "Tam Kỳ",
+      "name_full": "Thành phố Tam Kỳ",
+      "slug": "tam-ky",
+      "division_type": "Thành phố",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 13
+    },
+    {
+      "code": "QNA-16",
+      "name": "Tây Giang",
+      "name_full": "Huyện Tây Giang",
+      "slug": "tay-giang",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 10
+    },
+    {
+      "code": "QNA-17",
+      "name": "Thăng Bình",
+      "name_full": "Huyện Thăng Bình",
+      "slug": "thang-binh",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 22
+    },
+    {
+      "code": "QNA-18",
+      "name": "Tiên Phước",
+      "name_full": "Huyện Tiên Phước",
+      "slug": "tien-phuoc",
+      "division_type": "Huyện",
+      "province_code": "QNA",
+      "province_name": "Quảng Nam",
+      "ward_count": 15
+    }
+  ],
+  "meta": {
+    "title": "Quảng Nam — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 18 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Quảng Nam theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 16 Huyện, 2 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/QNA.json). (18 district-level units of Quảng Nam under the pre-2025-merger 3-tier hierarchy.) Chứa 18 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Quảng Nam — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Quảng Nam — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 18 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 18 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

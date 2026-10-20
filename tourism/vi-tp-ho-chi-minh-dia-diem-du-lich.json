@@ -1,0 +1,126 @@
+{
+  "id": "vi-tp-ho-chi-minh-dia-diem-du-lich",
+  "name": "Địa điểm du lịch TP. Hồ Chí Minh",
+  "title": "Địa điểm du lịch TP. Hồ Chí Minh",
+  "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành TP. Hồ Chí Minh (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ten_dia_diem",
+      "label": "Ten Dia Diem",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh_truoc_sap_nhap_2025",
+      "label": "Tinh Truoc Sap Nhap 2025",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia",
+      "label": "Danh Gia",
+      "type": "string"
+    },
+    {
+      "key": "danh_gia_diem",
+      "label": "Danh Gia Diem",
+      "type": "number"
+    },
+    {
+      "key": "anh",
+      "label": "Anh",
+      "type": "string"
+    },
+    {
+      "key": "tu_khoa",
+      "label": "Tu Khoa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 136,
+      "ten_dia_diem": "Chợ Bến Thành",
+      "vi_tri": "TP. Hồ Chí Minh",
+      "tinh_truoc_sap_nhap_2025": "TP. Hồ Chí Minh",
+      "mo_ta": "Đây là một trong những địa điểm du lịch Thành phố Hồ Chí Minh nổi tiếng nhất nằm ngay trung tâm thành phố và luôn tấp nập người ra vào mua bán, du khách check in mỗi ngày. Chợ Bến Thành buôn bán tất tần tật những mặt hàng từ thực phẩm, vải vóc, quần áo, đồ gia dụng, đặc sản Sài Gòn,… và quan trọng là khu ẩm thực cực kỳ hấp dẫn ở chợ và những góc check in ấn tượng sẽ làm bạn luôn muốn lưu lại nơi đây thật lâu.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "http://surl.li/xyzzzd",
+      "tu_khoa": "trung tâm, mua bán, chợ"
+    },
+    {
+      "stt": 137,
+      "ten_dia_diem": "Dinh Đọc Lập",
+      "vi_tri": "TP. Hồ Chí Minh",
+      "tinh_truoc_sap_nhap_2025": "TP. Hồ Chí Minh",
+      "mo_ta": "Nơi đây đã được công nhận là 1 trong 10 di tích quốc gia đặc biệt của Việt Nam vào năm 2009. Dinh Độc Lập là nơi trưng bày và lưu giữ những hình ảnh, hiện vật giá trị từ những năm của thế kỷ 19 theo từng chủ đề khác nhau. Đặc biệt nơi đây vẫn còn giữ nguyên nội thất của những căn phòng quan trọng như phòng khánh tiết, phòng nội các,....",
+      "danh_gia": "5.0/5",
+      "danh_gia_diem": 5,
+      "anh": "http://surl.li/okcots",
+      "tu_khoa": "di tích, trừng bày"
+    },
+    {
+      "stt": 138,
+      "ten_dia_diem": "Nhà thờ Đức Bà",
+      "vi_tri": "TP. Hồ Chí Minh",
+      "tinh_truoc_sap_nhap_2025": "TP. Hồ Chí Minh",
+      "mo_ta": "Cũng nằm ngay trung tâm quận 1, nhà thờ Đức Bà là địa điểm du lịch thành phố Hồ Chí Minh mà bạn nhất định phải ghé đến. Nhà thờ Đức Bà là một công trình kiến trúc độc đáo mang đậm phong cách Châu Âu, là nơi sinh hoạt và tổ chức các buổi Thánh lễ cho những người theo đạo Công giáo ở Sài Thành.",
+      "danh_gia": "4.8/5",
+      "danh_gia_diem": 4.8,
+      "anh": "http://surl.li/elnblm",
+      "tu_khoa": "quận 1, độc đáo"
+    },
+    {
+      "stt": 139,
+      "ten_dia_diem": "Bảo tàng lịch sử Việt Nam",
+      "vi_tri": "TP. Hồ Chí Minh",
+      "tinh_truoc_sap_nhap_2025": "TP. Hồ Chí Minh",
+      "mo_ta": "Bảo tàng lịch sử Việt Nam được xây dựng và hoạt động từ những năm đầu thế kỷ 20, là nơi lưu giữ và bảo tồn những hình ảnh, cổ vật từ thuở sơ khai đến nay. Bảo tàng lịch sử Việt Nam thu hút phần lớn những du khách yêu lịch sử và kiến trúc pha trộn giữa 2 phong cách Á – Âu độc đáo.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "http://surl.li/tvoyhe",
+      "tu_khoa": "lịch sử, bảo tồn, cổ vật, Á - Âu"
+    },
+    {
+      "stt": 140,
+      "ten_dia_diem": "Địa đạo Củ Chi",
+      "vi_tri": "TP. Hồ Chí Minh",
+      "tinh_truoc_sap_nhap_2025": "TP. Hồ Chí Minh",
+      "mo_ta": "Nơi đây là di tích quốc gia đặc biệt, gắn liền với lịch sử chiến tranh Việt Nam, từng là căn cứ địa quan trọng và cũng là nơi sinh hoạt chung bao gồm bệnh xá, nhà bếp, nơi làm việc,… của quân đội ta trong cuộc kháng chiến chống quân xâm lược, giành lại toàn vẹn lãnh thổ. Bên cạnh đó, bên trong địa đạo Củ Chi còn tái hiện tại cuộc sống của họ qua những qua những mô hình người và vật rất chân thật, ấn tượng. Nơi đây là một trong những điểm đến hấp dẫn của những tour Hồ Chí Minh mà bạn không nên bỏ qua trong chuyến đi của mình.",
+      "danh_gia": "4.5/5",
+      "danh_gia_diem": 4.5,
+      "anh": "http://surl.li/ebxvcg",
+      "tu_khoa": "di tích, lịch sử, mô hình, ấn tượng."
+    }
+  ],
+  "meta": {
+    "title": "Địa điểm du lịch TP. Hồ Chí Minh - Tải miễn phí",
+    "description": "Danh sách các địa điểm du lịch nổi bật của tỉnh/thành TP. Hồ Chí Minh (đúng 5 địa điểm mỗi tỉnh, theo cấu trúc 63 tỉnh thành TRƯỚC sáp nhập tháng 7/2025), kèm mô tả, điểm đánh giá, ảnh và từ khóa. Lát cắt theo tỉnh của bộ dữ liệu vi-dia-diem-du-lich. Chứa 5 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Địa điểm du lịch TP. Hồ Chí Minh | ListBase",
+    "seo_description": "Tải xuống Địa điểm du lịch TP. Hồ Chí Minh — 5 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 5 bản ghi / 9 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}

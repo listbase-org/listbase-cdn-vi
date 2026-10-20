@@ -1,0 +1,206 @@
+{
+  "id": "vi-quang-ngai-quan-huyen-2019",
+  "name": "Quảng Ngãi — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "title": "Quảng Ngãi — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025)",
+  "description": "Danh sách 14 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Quảng Ngãi theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 13 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/QNG.json). (14 district-level units of Quảng Ngãi under the pre-2025-merger 3-tier hierarchy.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_full",
+      "label": "Name Full",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "division_type",
+      "label": "Division Type",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "province_name",
+      "label": "Province Name",
+      "type": "string"
+    },
+    {
+      "key": "ward_count",
+      "label": "Ward Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "QNG-01",
+      "name": "Ba Tơ",
+      "name_full": "Huyện Ba Tơ",
+      "slug": "ba-to",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 20
+    },
+    {
+      "code": "QNG-02",
+      "name": "Bình Sơn",
+      "name_full": "Huyện Bình Sơn",
+      "slug": "binh-son",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 25
+    },
+    {
+      "code": "QNG-03",
+      "name": "Đức Phổ",
+      "name_full": "Huyện Đức Phổ",
+      "slug": "duc-pho",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 15
+    },
+    {
+      "code": "QNG-04",
+      "name": "Lý Sơn",
+      "name_full": "Huyện Lý Sơn",
+      "slug": "ly-son",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 3
+    },
+    {
+      "code": "QNG-05",
+      "name": "Minh Long",
+      "name_full": "Huyện Minh Long",
+      "slug": "minh-long",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 5
+    },
+    {
+      "code": "QNG-06",
+      "name": "Mộ Đức",
+      "name_full": "Huyện Mộ Đức",
+      "slug": "mo-duc",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 13
+    },
+    {
+      "code": "QNG-07",
+      "name": "Nghĩa Hành",
+      "name_full": "Huyện Nghĩa Hành",
+      "slug": "nghia-hanh",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 12
+    },
+    {
+      "code": "QNG-08",
+      "name": "Quảng Ngãi",
+      "name_full": "Thành phố Quảng Ngãi",
+      "slug": "quang-ngai",
+      "division_type": "Thành phố",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 17
+    },
+    {
+      "code": "QNG-09",
+      "name": "Sơn Hà",
+      "name_full": "Huyện Sơn Hà",
+      "slug": "son-ha",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 14
+    },
+    {
+      "code": "QNG-10",
+      "name": "Sơn Tây",
+      "name_full": "Huyện Sơn Tây",
+      "slug": "son-tay",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 9
+    },
+    {
+      "code": "QNG-11",
+      "name": "Sơn Tịnh",
+      "name_full": "Huyện Sơn Tịnh",
+      "slug": "son-tinh",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 19
+    },
+    {
+      "code": "QNG-12",
+      "name": "Tây Trà",
+      "name_full": "Huyện Tây Trà",
+      "slug": "tay-tra",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 9
+    },
+    {
+      "code": "QNG-13",
+      "name": "Trà Bồng",
+      "name_full": "Huyện Trà Bồng",
+      "slug": "tra-bong",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 10
+    },
+    {
+      "code": "QNG-14",
+      "name": "Tư Nghĩa",
+      "name_full": "Huyện Tư Nghĩa",
+      "slug": "tu-nghia",
+      "division_type": "Huyện",
+      "province_code": "QNG",
+      "province_name": "Quảng Ngãi",
+      "ward_count": 16
+    }
+  ],
+  "meta": {
+    "title": "Quảng Ngãi — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) - Tải miễn phí",
+    "description": "Danh sách 14 đơn vị hành chính cấp huyện (quận, huyện, thị xã, thành phố thuộc tỉnh) thuộc Quảng Ngãi theo cấu trúc TRƯỚC khi sắp xếp lại tháng 7/2025. Phân loại: 13 Huyện, 1 Thành phố. Cấp huyện đã bị xóa bỏ trong Nghị quyết 60/NQ-TW (7/2025); đây là ảnh chụp lịch sử. Tập con nghiêm ngặt của bộ dữ liệu toàn quốc vi-quan-huyen-2019 (710 bản ghi), tách theo province_code do chính nguồn cung cấp (mỗi tỉnh một tệp data/QNG.json). (14 district-level units of Quảng Ngãi under the pre-2025-merger 3-tier hierarchy.) Chứa 14 bản ghi. Tải xuống định dạng Excel, CSV, PDF.",
+    "seo_title": "Quảng Ngãi — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) | ListBase",
+    "seo_description": "Tải xuống Quảng Ngãi — Quận, huyện, thị xã (cấu trúc trước sáp nhập 2025) — 14 bản ghi. Có sẵn định dạng Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Chứa 14 bản ghi / 8 trường",
+      "Tải miễn phí định dạng Excel, CSV và PDF",
+      "Nguồn dữ liệu: open data"
+    ]
+  }
+}
