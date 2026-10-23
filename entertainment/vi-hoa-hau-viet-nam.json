@@ -1,0 +1,208 @@
+{
+  "id": "vi-hoa-hau-viet-nam",
+  "name": "Danh sách Hoa hậu Việt Nam qua các năm",
+  "title": "Danh sách Hoa hậu Việt Nam qua các năm",
+  "description": "Hoa hậu, Á hậu 1, Á hậu 2 cuộc thi Hoa hậu Việt Nam từ năm 1988, kèm địa điểm tổ chức và số thí sinh.",
+  "category": "entertainment",
+  "source": "https://vi.wikipedia.org/wiki/Hoa_h%E1%BA%ADu_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Hoa_h%E1%BA%ADu_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "miss",
+      "label": "Miss",
+      "type": "string"
+    },
+    {
+      "key": "first_runner_up",
+      "label": "First Runner Up",
+      "type": "string"
+    },
+    {
+      "key": "second_runner_up",
+      "label": "Second Runner Up",
+      "type": "string"
+    },
+    {
+      "key": "venue",
+      "label": "Venue",
+      "type": "string"
+    },
+    {
+      "key": "contestants",
+      "label": "Contestants",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1988",
+      "miss": "Bùi Bích Phương ( Hà Nội )",
+      "first_runner_up": "Nguyễn Thu Mai † ( Hà Nội )",
+      "second_runner_up": "—",
+      "venue": "Nhà văn hóa Thanh Niên, Hà Nội",
+      "contestants": "Không rõ"
+    },
+    {
+      "year": "1990",
+      "miss": "Nguyễn Diệu Hoa ( Hà Nội )",
+      "first_runner_up": "Trần Vân Anh ( Thành phố Hồ Chí Minh )",
+      "second_runner_up": "Trần Thu Hằng ( Hà Nội )",
+      "venue": "Cung Văn hóa Lao động Hữu nghị Việt Xô , Hà Nội",
+      "contestants": "Không rõ"
+    },
+    {
+      "year": "1992",
+      "miss": "Hà Kiều Anh ( Thành phố Hồ Chí Minh )",
+      "first_runner_up": "Vi Thị Đông ( Hà Nội )",
+      "second_runner_up": "Nguyễn Minh Phương ( Tuyên Quang )",
+      "venue": "Nhà thi đấu Phan Đình Phùng , Thành phố Hồ Chí Minh",
+      "contestants": "21"
+    },
+    {
+      "year": "1994",
+      "miss": "Nguyễn Thu Thuỷ † ( Hà Nội )",
+      "first_runner_up": "Tô Hương Lan ( Tuyên Quang )",
+      "second_runner_up": "Trịnh Kim Chi ( Thành phố Hồ Chí Minh )",
+      "venue": "Cung Văn hóa Lao động Hữu nghị Việt Xô, Hà Nội",
+      "contestants": "Không rõ"
+    },
+    {
+      "year": "1996",
+      "miss": "Nguyễn Thiên Nga ( Thành phố Hồ Chí Minh )",
+      "first_runner_up": "Vũ Minh Thúy ( Hải Phòng )",
+      "second_runner_up": "Đỗ Vân Anh ( Hà Nội )",
+      "venue": "Cung Văn hóa Lao động Hữu nghị Việt Xô, Hà Nội",
+      "contestants": "Không rõ"
+    },
+    {
+      "year": "1998",
+      "miss": "Nguyễn Thị Ngọc Khánh ( Thành phố Hồ Chí Minh )",
+      "first_runner_up": "Vũ Thị Thu ( Quảng Ninh )",
+      "second_runner_up": "Ngô Thúy Hà ( Hà Nội )",
+      "venue": "Nhà thi đấu Phan Đình Phùng , Thành phố Hồ Chí Minh",
+      "contestants": "23"
+    },
+    {
+      "year": "2000",
+      "miss": "Phan Thu Ngân ( Thành phố Hồ Chí Minh )",
+      "first_runner_up": "Lê Thanh Nga ( Thái Nguyên )",
+      "second_runner_up": "Nguyễn Ngọc Oanh ( Hải Phòng )",
+      "venue": "Nhà thi đấu Phan Đình Phùng , Thành phố Hồ Chí Minh",
+      "contestants": "22"
+    },
+    {
+      "year": "2002",
+      "miss": "Phạm Thị Mai Phương ( Hải Phòng )",
+      "first_runner_up": "Bùi Thị Hoàng Oanh ( Thành phố Hồ Chí Minh )",
+      "second_runner_up": "Nguyễn Thị Mai Hương ( Hải Phòng )",
+      "venue": "Nhà thi đấu Phan Đình Phùng , Thành phố Hồ Chí Minh",
+      "contestants": "22"
+    },
+    {
+      "year": "2004",
+      "miss": "Nguyễn Thị Huyền ( Hải Phòng )",
+      "first_runner_up": "Trịnh Chân Trân ( Thành phố Hồ Chí Minh )",
+      "second_runner_up": "Nguyễn Thị Ngọc Bích ( Bến Tre )",
+      "venue": "Công viên nhạc nước Tuần Châu , Hạ Long , Quảng Ninh",
+      "contestants": "21"
+    },
+    {
+      "year": "2006",
+      "miss": "Mai Phương Thúy ( Hà Nội )",
+      "first_runner_up": "Lưu Bảo Anh ( Cần Thơ )",
+      "second_runner_up": "Lương Thị Ngọc Lan ( Thành phố Hồ Chí Minh )",
+      "venue": "Vinpearl , Nha Trang , Khánh Hòa",
+      "contestants": "34"
+    },
+    {
+      "year": "2008",
+      "miss": "Trần Thị Thùy Dung ( Đà Nẵng )",
+      "first_runner_up": "Phan Hoàng Minh Thư ( Lâm Đồng )",
+      "second_runner_up": "Nguyễn Thụy Vân ( Hà Nội )",
+      "venue": "Quảng trường sông Hoài, Hội An , Đà Nẵng",
+      "contestants": "30"
+    },
+    {
+      "year": "2010",
+      "miss": "Đặng Thị Ngọc Hân ( Hà Nội )",
+      "first_runner_up": "Vũ Thị Hoàng My ( Đồng Nai )",
+      "second_runner_up": "Đặng Thị Thùy Trang ( Hà Nội )",
+      "venue": "Tuần Châu , Quảng Ninh",
+      "contestants": "37"
+    },
+    {
+      "year": "2012",
+      "miss": "Đặng Thu Thảo ( Bạc Liêu )",
+      "first_runner_up": "Dương Tú Anh ( Hà Nội )",
+      "second_runner_up": "Đỗ Hoàng Anh ( Hà Nội )",
+      "venue": "Cung thể thao Tiên Sơn , Đà Nẵng",
+      "contestants": "40"
+    },
+    {
+      "year": "2014",
+      "miss": "Nguyễn Cao Kỳ Duyên ( Nam Định )",
+      "first_runner_up": "Nguyễn Trần Huyền My ( Hà Nội )",
+      "second_runner_up": "Nguyễn Lâm Diễm Trang ( Vĩnh Long )",
+      "venue": "Vinpearl Resort, Phú Quốc , An Giang",
+      "contestants": "40"
+    },
+    {
+      "year": "2016",
+      "miss": "Đỗ Mỹ Linh ( Hà Nội )",
+      "first_runner_up": "Ngô Thanh Thanh Tú ( Hà Nội )",
+      "second_runner_up": "Huỳnh Thị Thùy Dung ( Thành phố Hồ Chí Minh )",
+      "venue": "Nhà thi đấu Phú Thọ , Thành phố Hồ Chí Minh",
+      "contestants": "36"
+    },
+    {
+      "year": "2018",
+      "miss": "Trần Tiểu Vy ( Quảng Nam )",
+      "first_runner_up": "Bùi Phương Nga ( Hà Nội )",
+      "second_runner_up": "Nguyễn Thị Thúy An ( Kiên Giang )",
+      "venue": "Nhà thi đấu Phú Thọ , Thành phố Hồ Chí Minh",
+      "contestants": "44"
+    },
+    {
+      "year": "2020",
+      "miss": "Đỗ Thị Hà ( Thanh Hóa )",
+      "first_runner_up": "Phạm Ngọc Phương Anh ( Thành phố Hồ Chí Minh )",
+      "second_runner_up": "Nguyễn Lê Ngọc Thảo ( Thành phố Hồ Chí Minh )",
+      "venue": "Nhà thi đấu Phú Thọ , Thành phố Hồ Chí Minh",
+      "contestants": "60"
+    },
+    {
+      "year": "2022",
+      "miss": "Huỳnh Thị Thanh Thủy ( Đà Nẵng )",
+      "first_runner_up": "Trịnh Thùy Linh ( Thanh Hóa )",
+      "second_runner_up": "Lê Nguyễn Ngọc Hằng ( Thành phố Hồ Chí Minh )",
+      "venue": "Nhà thi đấu Phú Thọ , Thành phố Hồ Chí Minh",
+      "contestants": "58"
+    },
+    {
+      "year": "2024",
+      "miss": "Hà Trúc Linh ( Phú Yên )",
+      "first_runner_up": "Trần Ngọc Châu Anh ( Hà Nội )",
+      "second_runner_up": "Nguyễn Thị Vân Nhi ( Hải Phòng )",
+      "venue": "Sân khấu mặt nước, sông Hương , Cố đô Huế , Huế",
+      "contestants": "41"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách Hoa hậu Việt Nam qua các năm - Free Download",
+    "description": "Hoa hậu, Á hậu 1, Á hậu 2 cuộc thi Hoa hậu Việt Nam từ năm 1988, kèm địa điểm tổ chức và số thí sinh. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách Hoa hậu Việt Nam qua các năm | ListBase",
+    "seo_description": "Download Danh sách Hoa hậu Việt Nam qua các năm — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Hoa_h%E1%BA%ADu_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}

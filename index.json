@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-23T02:09:21.651Z",
-  "total_datasets": 488,
-  "total_records": 117411,
+  "generated": "2026-10-23T02:09:23.841Z",
+  "total_datasets": 489,
+  "total_records": 117430,
   "categories": [
     {
       "id": "agriculture",
@@ -19,6 +19,10 @@
     {
       "id": "education",
       "dataset_count": 2
+    },
+    {
+      "id": "entertainment",
+      "dataset_count": 1
     },
     {
       "id": "environment",
@@ -570,6 +574,33 @@
         "xlsx": {
           "name": "vi-truong-hoc_VI.xlsx",
           "size": 10044
+        }
+      }
+    },
+    {
+      "id": "vi-hoa-hau-viet-nam",
+      "name": "Danh sách Hoa hậu Việt Nam qua các năm",
+      "category": "entertainment",
+      "record_count": 19,
+      "columns": [
+        "year",
+        "miss",
+        "first_runner_up",
+        "second_runner_up",
+        "venue",
+        "contestants"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Hoa_h%E1%BA%ADu_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 8092,
+      "files": {
+        "csv": {
+          "name": "vi-hoa-hau-viet-nam_VI.csv",
+          "size": 3772
+        },
+        "xlsx": {
+          "name": "vi-hoa-hau-viet-nam_VI.xlsx",
+          "size": 8463
         }
       }
     },
