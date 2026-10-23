@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-23T02:08:50.851Z",
-  "total_datasets": 478,
-  "total_records": 116461,
+  "generated": "2026-10-23T02:09:00.028Z",
+  "total_datasets": 479,
+  "total_records": 116819,
   "categories": [
     {
       "id": "agriculture",
@@ -15,6 +15,10 @@
     {
       "id": "education",
       "dataset_count": 2
+    },
+    {
+      "id": "environment",
+      "dataset_count": 1
     },
     {
       "id": "finance",
@@ -500,6 +504,30 @@
         "xlsx": {
           "name": "vi-truong-hoc_VI.xlsx",
           "size": 10044
+        }
+      }
+    },
+    {
+      "id": "vi-sach-do-dong-vat",
+      "name": "Danh mục Sách đỏ động vật Việt Nam",
+      "category": "environment",
+      "record_count": 358,
+      "columns": [
+        "name",
+        "scientific_name",
+        "status"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_m%E1%BB%A5c_s%C3%A1ch_%C4%91%E1%BB%8F_%C4%91%E1%BB%99ng_v%E1%BA%ADt_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 49580,
+      "files": {
+        "csv": {
+          "name": "vi-sach-do-dong-vat_VI.csv",
+          "size": 22803
+        },
+        "xlsx": {
+          "name": "vi-sach-do-dong-vat_VI.xlsx",
+          "size": 21413
         }
       }
     },

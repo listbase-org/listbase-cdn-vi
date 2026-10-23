@@ -1,0 +1,1831 @@
+{
+  "id": "vi-sach-do-dong-vat",
+  "name": "Danh mục Sách đỏ động vật Việt Nam",
+  "title": "Danh mục Sách đỏ động vật Việt Nam",
+  "description": "Các loài động vật có trong Sách đỏ Việt Nam với tên khoa học và mức độ đe dọa (E, V, R, T...).",
+  "category": "environment",
+  "source": "https://vi.wikipedia.org/wiki/Danh_m%E1%BB%A5c_s%C3%A1ch_%C4%91%E1%BB%8F_%C4%91%E1%BB%99ng_v%E1%BA%ADt_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_m%E1%BB%A5c_s%C3%A1ch_%C4%91%E1%BB%8F_%C4%91%E1%BB%99ng_v%E1%BA%ADt_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 358,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "scientific_name",
+      "label": "Scientific Name",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ác là",
+      "scientific_name": "Pica pica sericera (Gould, 1845)",
+      "status": "V"
+    },
+    {
+      "name": "Báo gấm",
+      "scientific_name": "Pardofelis nebulosa (Griffth, 1821)",
+      "status": "V"
+    },
+    {
+      "name": "Báo hoa mai Đông Dương",
+      "scientific_name": "Panthera pardus delacouri (Pocock, 1930)",
+      "status": "E"
+    },
+    {
+      "name": "Báo lửa",
+      "scientific_name": "Catopuma temminckii (Vigors et Horsfield, 1827)",
+      "status": "E"
+    },
+    {
+      "name": "Bào ngư hình bầu dục",
+      "scientific_name": "Haliotis ovina (Gmelin, 1791)",
+      "status": "V"
+    },
+    {
+      "name": "Bào ngư vành tai",
+      "scientific_name": "Haliotis asinina Linnaeus, 1758",
+      "status": "V"
+    },
+    {
+      "name": "Bồ câu nâu",
+      "scientific_name": "Columba punicea (Blyth, 1842)",
+      "status": "T"
+    },
+    {
+      "name": "Bồ câu Nicoba",
+      "scientific_name": "Caloenas nicobarica nicobarica (Linnaeus, 1758)",
+      "status": "T"
+    },
+    {
+      "name": "Bọ lá",
+      "scientific_name": "Phyllium succiforlium (Linnaeus, ????)",
+      "status": "E"
+    },
+    {
+      "name": "Bọ ngựa châu Âu",
+      "scientific_name": "Mantis religiosa (Linnaeus, ????)",
+      "status": "V"
+    },
+    {
+      "name": "Bồ nông chân xám",
+      "scientific_name": "Pelecanus philippensis (Gmelin, 1789)",
+      "status": "R"
+    },
+    {
+      "name": "Bò rừng",
+      "scientific_name": "Bos javanicus (S’Alton, 1823)",
+      "status": "V"
+    },
+    {
+      "name": "Bò tót Đông Dương",
+      "scientific_name": "Bos gaurus readei",
+      "status": "E"
+    },
+    {
+      "name": "Bò xám",
+      "scientific_name": "Bos sauveli (Urbain, 1937)",
+      "status": "E"
+    },
+    {
+      "name": "Bồng chanh rừng",
+      "scientific_name": "Alcedo hercules (Laubmann, 1917)",
+      "status": "T"
+    },
+    {
+      "name": "Bướm đuôi dài xanh lá chuối",
+      "scientific_name": "Argemo maenas (Donbleday 1847)",
+      "status": "R"
+    },
+    {
+      "name": "Bướm khế",
+      "scientific_name": "Attacus atlas (Linnaeus 1758)",
+      "status": "R"
+    },
+    {
+      "name": "Bướm phượng cánh đuôi nheo",
+      "scientific_name": "Leptocircu curius (Fabricius, ????)",
+      "status": "T"
+    },
+    {
+      "name": "Bướm phượng cánh kiếm",
+      "scientific_name": "Pathysa antiphates (Cramer, ????)",
+      "status": "E"
+    },
+    {
+      "name": "Bướm phượng cánh sau vàng",
+      "scientific_name": "Troides helena hephaestus (Fldr, ????)",
+      "status": "E"
+    },
+    {
+      "name": "Cá anh vũ",
+      "scientific_name": "Semilabeo notabilis (Peters, 1880)",
+      "status": "V"
+    },
+    {
+      "name": "Cá Atêlêôp Nhật Bản",
+      "scientific_name": "Ateleopus japonicus (Bleeker, 1842)",
+      "status": "R"
+    },
+    {
+      "name": "Cá bám đá liền",
+      "scientific_name": "Sinogastromyzon tonkinensis (Pellegrin et Chevey, 1935)",
+      "status": "R"
+    },
+    {
+      "name": "Cá bò râu",
+      "scientific_name": "Anacanthus barbatus (Gray, 1836)",
+      "status": "R"
+    },
+    {
+      "name": "Cá bò xanh hoa đỏ",
+      "scientific_name": "Oxymonacanthus longirostris (Bloch et Schneider, 1801)",
+      "status": "R"
+    },
+    {
+      "name": "Cá bống bớp",
+      "scientific_name": "Bostrichthys sinenesis Lacepede, 1802",
+      "status": "T"
+    },
+    {
+      "name": "Cá cháo biển",
+      "scientific_name": "Elops saurus Linaeus, 1866",
+      "status": "R"
+    },
+    {
+      "name": "Cá cháo lớn",
+      "scientific_name": "Megalops cyprinoides (Broussonet, 1782)",
+      "status": "R"
+    },
+    {
+      "name": "Cá chào mào gai",
+      "scientific_name": "Satyrichchthys rieffeli (Kaup, 1859)",
+      "status": "R"
+    },
+    {
+      "name": "Cá cháy",
+      "scientific_name": "Hilsa reevesii (Richardson, 1846)",
+      "status": "V"
+    },
+    {
+      "name": "Cá chày đất",
+      "scientific_name": "Spinibarbus caldwelli (Nichols, 1925)",
+      "status": "V"
+    },
+    {
+      "name": "Cá chép gốc",
+      "scientific_name": "Procypris merus (Lin, 1933)",
+      "status": "E"
+    },
+    {
+      "name": "Cá chìa vôi không vây",
+      "scientific_name": "Solenognathus hardwickii (Gray, 1830)",
+      "status": "T"
+    },
+    {
+      "name": "Cá chìa vôi mõm nhọn",
+      "scientific_name": "Syngnathus acus (Linnaeus, 1758)",
+      "status": "V"
+    },
+    {
+      "name": "Cá chìa vôi mõm răng cưa",
+      "scientific_name": "Trachyrhamphus serratus (Temminck et Schlegel, 1846)",
+      "status": "V"
+    },
+    {
+      "name": "Cá chiên",
+      "scientific_name": "Bagarius bagarius (Hamilton et Buchanan, 1822)",
+      "status": "V"
+    },
+    {
+      "name": "Cá chình hoa",
+      "scientific_name": "Anguilla marmorata (Quoy et Gaimrd, 1824)",
+      "status": "R"
+    },
+    {
+      "name": "Cá chình Nhật Bản",
+      "scientific_name": "Anguilla japonica (Temminck et. Schlegel, 1846)",
+      "status": "E"
+    },
+    {
+      "name": "Cá cờ Mặt Trăng",
+      "scientific_name": "Velifer hypselopterus (Bleeker, 1879)",
+      "status": "R"
+    },
+    {
+      "name": "Cá cóc Tam Đảo",
+      "scientific_name": "Paramesotriton deloustali (Bourret, 1934)",
+      "status": "E"
+    },
+    {
+      "name": "Cá còm",
+      "scientific_name": "Notopterus chitala (Hamilton – Buchanan, 1822)",
+      "status": "T"
+    },
+    {
+      "name": "Cà cuống",
+      "scientific_name": "Lethocerus indicus (Lepetetier et Serville, 1775)",
+      "status": "R"
+    },
+    {
+      "name": "Cá dao cạo",
+      "scientific_name": "Solenostomus paradoxus (Pallas, 1870)",
+      "status": "R"
+    },
+    {
+      "name": "Cá đao răng ngựa",
+      "scientific_name": "Pristis cuspidatus (Latham, 1794)",
+      "status": "R"
+    },
+    {
+      "name": "Cá đao răng nhỏ",
+      "scientific_name": "Pristis microdon (Latham, 1794)",
+      "status": "R"
+    },
+    {
+      "name": "Cá dây lưng gù",
+      "scientific_name": "Zen cypho (Fowler, 1934)",
+      "status": "R"
+    },
+    {
+      "name": "Cá dây Nhật Bản",
+      "scientific_name": "Zeus japonicus (Cuvier et Valenciennes, 1835)",
+      "status": "R"
+    },
+    {
+      "name": "Cá đuối điện Bắc bộ",
+      "scientific_name": "Narcine tonkinensis (Nguyên, 1970)",
+      "status": "R"
+    },
+    {
+      "name": "Cá duồng bay",
+      "scientific_name": "Cirrhinus microlepis (Sauvage, 1878)",
+      "status": "T"
+    },
+    {
+      "name": "Cá duồng xanh",
+      "scientific_name": "Cosmocheilusharmandi (Sauvage, 1878)",
+      "status": "T"
+    },
+    {
+      "name": "Cá ét mọi",
+      "scientific_name": "Morulius chrysophekadion (Bleeker, 1850)",
+      "status": "T"
+    },
+    {
+      "name": "Cá giống mõm tròn",
+      "scientific_name": "Rhina ancylostoma (Bloch et Schneider, 1801)",
+      "status": "T"
+    },
+    {
+      "name": "Cá hô",
+      "scientific_name": "Catlocarpiosiamensis (Bouleger, 1898)",
+      "status": "T"
+    },
+    {
+      "name": "Cá hoả",
+      "scientific_name": "Labeo tonkinensis (Pellegrin et Chevey,1936)",
+      "status": "V"
+    },
+    {
+      "name": "Cá hường sông",
+      "scientific_name": "Datnioies quadrifasciatus (Sevastianov, 1809)",
+      "status": "R"
+    },
+    {
+      "name": "Cá kim",
+      "scientific_name": "Schindlerria praematura (Schindler, 1930)",
+      "status": "R"
+    },
+    {
+      "name": "Cá lăng chấm",
+      "scientific_name": "Hemibagrus elongatus (Gubther, 1864)",
+      "status": "V"
+    },
+    {
+      "name": "Cá lợ lớn",
+      "scientific_name": "Cyrinus muntitaentiata (Pellgrin et Chevey, 1936)",
+      "status": "E"
+    },
+    {
+      "name": "Cá lóc bông",
+      "scientific_name": "Ophiccephalus micropeltes (Cuvier et Valencienes, 1931)",
+      "status": "T"
+    },
+    {
+      "name": "Cá lưỡi dong",
+      "scientific_name": "Antennarius malas (Bleeker, 1857)",
+      "status": "R"
+    },
+    {
+      "name": "Cá măng giả",
+      "scientific_name": "Luciocyprinus langsoni (Vaillant, 1904)",
+      "status": "V"
+    },
+    {
+      "name": "Cá măng rổ",
+      "scientific_name": "Toxotes chatareus (Haminton)",
+      "status": "T"
+    },
+    {
+      "name": "Cá măng sữa",
+      "scientific_name": "Chanos chanos (Forskal, 1775)",
+      "status": "T"
+    },
+    {
+      "name": "Cá mập trắng lớn",
+      "scientific_name": "Carcharodon carcharias (Linnaeus,1758)",
+      "status": "T"
+    },
+    {
+      "name": "Cá Mặt Trăng",
+      "scientific_name": "Mola mola (Linnaeus, 1758)",
+      "status": "R"
+    },
+    {
+      "name": "Cá Mặt Trăng đuôi nhọn",
+      "scientific_name": "Masturus lanceolatus (Lienard, 1840)",
+      "status": "T"
+    },
+    {
+      "name": "Cá may",
+      "scientific_name": "Gyrinocheilus aymonieri (Tirant, 1883)",
+      "status": "R"
+    },
+    {
+      "name": "Cá mòi chấm",
+      "scientific_name": "Clupanodon punctatus (Temminck et Schleget, 1846)",
+      "status": "V"
+    },
+    {
+      "name": "Cá mòi cờ",
+      "scientific_name": "Clupanodon thrissa (Linnaeus, 1758)",
+      "status": "V"
+    },
+    {
+      "name": "Cá mòi đường",
+      "scientific_name": "Albula vulpes (Linnaeus, 1758)",
+      "status": "R"
+    },
+    {
+      "name": "Cá mòi không răng",
+      "scientific_name": "Anodontostoma chacunda (Hamilton, 1822)",
+      "status": "E"
+    },
+    {
+      "name": "Cá mòi mõm tròn",
+      "scientific_name": "Nematalosa nasus (Bloch, 1795)",
+      "status": "E"
+    },
+    {
+      "name": "Cá mơn",
+      "scientific_name": "Scleropages formusus (Muller – Schlegel, 1844)",
+      "status": "E"
+    },
+    {
+      "name": "Cá nàng tiên",
+      "scientific_name": "Dugong dugon (Mullr, 1776)",
+      "status": "E"
+    },
+    {
+      "name": "Cá ngạnh",
+      "scientific_name": "Cranoglanis sinensis (Peters, 1880)",
+      "status": "V"
+    },
+    {
+      "name": "Cá ngựa",
+      "scientific_name": "Torbrevifilis (Peters, 1880)",
+      "status": "V"
+    },
+    {
+      "name": "Cá ngựa chấm",
+      "scientific_name": "Hipocampus trimaculatus (Leach, 1814)",
+      "status": "V"
+    },
+    {
+      "name": "Cá ngựa gai",
+      "scientific_name": "Hippocampus histrix (Kaup, 1856)",
+      "status": "V"
+    },
+    {
+      "name": "Cá ngựa Kenlô",
+      "scientific_name": "Hippocampus kelloggi (Jordan et Snyder, 1902)",
+      "status": "V"
+    },
+    {
+      "name": "Cá ngựa đen",
+      "scientific_name": "Hippocamus kuda (Bleeker, 1852)",
+      "status": "V"
+    },
+    {
+      "name": "Cá ngựa Nhật",
+      "scientific_name": "Hipocampus japonicus (Kaup, 1856)",
+      "status": "R"
+    },
+    {
+      "name": "Cá ngựa xám",
+      "scientific_name": "Tortambroides (Bleeker, 1854)",
+      "status": "V"
+    },
+    {
+      "name": "Cá nhám đuôi dài",
+      "scientific_name": "Alopias pelagicus (Nakamura, 1935)",
+      "status": "R"
+    },
+    {
+      "name": "Cá nhám lông nhung",
+      "scientific_name": "Cephaloscyllium umbratile (Jordan et Fowler, 1903)",
+      "status": "R"
+    },
+    {
+      "name": "Cá nhám nâu",
+      "scientific_name": "Etmopterus lucifer (Jordan et Snyder, 1902)",
+      "status": "R"
+    },
+    {
+      "name": "Cá nhám nhu mì",
+      "scientific_name": "Stegostoma facsciatum (Hermann, 1973)",
+      "status": "R"
+    },
+    {
+      "name": "Cá nhám voi",
+      "scientific_name": "Rhincodon typus (Smith,1829)",
+      "status": "R"
+    },
+    {
+      "name": "Cá pạo",
+      "scientific_name": "Labeo graffeuilli (Pellegrin et Chevey,1936)",
+      "status": "V"
+    },
+    {
+      "name": "Cá rầm xanh",
+      "scientific_name": "Altigena lemassoni (Pelleg rin et Chevey, 1936)",
+      "status": "V"
+    },
+    {
+      "name": "Cá sấu hoa cà",
+      "scientific_name": "Crocodylus porosus (Schneider, 1801)",
+      "status": "E"
+    },
+    {
+      "name": "Cá sấu Xiêm",
+      "scientific_name": "Crocodylus siamensis (Schneider, 1801)",
+      "status": "E"
+    },
+    {
+      "name": "Cá sỉnh gai",
+      "scientific_name": "Onychostoma laticeps (Gunther,1986)",
+      "status": "V"
+    },
+    {
+      "name": "Cá toàn đầu",
+      "scientific_name": "Chimaera phantasma (Jordan. Et Snyder, 1900)",
+      "status": "E"
+    },
+    {
+      "name": "Cá tra dầu",
+      "scientific_name": "Pangasianodon gigas (Chevey, 1930)",
+      "status": "R"
+    },
+    {
+      "name": "Cá trà sóc",
+      "scientific_name": "Probarbus jullieni (Sauvage, 1880)",
+      "status": "T"
+    },
+    {
+      "name": "Cánh kiến đỏ",
+      "scientific_name": "Kerria lacca (Kerr, 1782)",
+      "status": "V"
+    },
+    {
+      "name": "Cáo",
+      "scientific_name": "Vulpes vulpes (Linnaeus, 1758)",
+      "status": "E"
+    },
+    {
+      "name": "Cầu gai đá",
+      "scientific_name": "Heterocentrotus mammillatus (Linnaeus, 1758)",
+      "status": "V"
+    },
+    {
+      "name": "Chồn bay",
+      "scientific_name": "Cynocephalus variegatus (Audebert, 1799)",
+      "status": "R"
+    },
+    {
+      "name": "Cầy gấm",
+      "scientific_name": "Prionodon pardicolor (Hodgron, 1841)",
+      "status": "R"
+    },
+    {
+      "name": "Cầy giông sọc",
+      "scientific_name": "Viverra megaspila (Blyth, 1862)",
+      "status": "E"
+    },
+    {
+      "name": "Cầy giông Tây Nguyên",
+      "scientific_name": "Viverra tainguyensis (Sokotov, Rozhnov, Pham Trong Anh, 1997)",
+      "status": "V"
+    },
+    {
+      "name": "Cầy mực",
+      "scientific_name": "Arictis binturong (Raffles, 1821)",
+      "status": "V"
+    },
+    {
+      "name": "Cầy rái cá",
+      "scientific_name": "Cynogale lowei (Pocock, 1933)",
+      "status": "E"
+    },
+    {
+      "name": "Cầy tai trắng",
+      "scientific_name": "Arctogalidia trivirgata (Gray, 1832)",
+      "status": "R"
+    },
+    {
+      "name": "Cầy vằn bắc",
+      "scientific_name": "Hemigulus owstoni (Thomas, 1912)",
+      "status": "V"
+    },
+    {
+      "name": "Chân bơi",
+      "scientific_name": "Heliopais personatus (Gray, 1849)",
+      "status": "R"
+    },
+    {
+      "name": "Cheo cheo Nam Dương",
+      "scientific_name": "Tragulus kanchil (Osbeck, 1765)",
+      "status": "V"
+    },
+    {
+      "name": "Cheo cheo Napu",
+      "scientific_name": "Tragulus napu (Cuvier, 1822)",
+      "status": "E"
+    },
+    {
+      "name": "Chim điên bụng trắng",
+      "scientific_name": "Sula leucogaster poltus (Forster, 1844)",
+      "status": "T"
+    },
+    {
+      "name": "Chim yến hàng",
+      "scientific_name": "Collocalia fuciphaga germaini Oustalet, 1871",
+      "status": "T"
+    },
+    {
+      "name": "Chim yến núi",
+      "scientific_name": "Collocalia brevirostris innominata Hume, 1873",
+      "status": "R"
+    },
+    {
+      "name": "Chó rừng Xiêm",
+      "scientific_name": "Canis aureus (Linnaeus, 1758)",
+      "status": "E"
+    },
+    {
+      "name": "Choắt chân màng lớn",
+      "scientific_name": "Limnodromus semipalmatus (Blyth, 1848)",
+      "status": "R"
+    },
+    {
+      "name": "Chuột mù",
+      "scientific_name": "Typhlomys cinereus Milne – Edward, 1877",
+      "status": "R"
+    },
+    {
+      "name": "Chuột nhắt cây",
+      "scientific_name": "Vandeleuria oleracea (Bennett, 1832)",
+      "status": "R"
+    },
+    {
+      "name": "Hạc cổ đen",
+      "scientific_name": "Xenorhynchus asiaticus (Latham, 1790)",
+      "status": "E"
+    },
+    {
+      "name": "Giang sen (Cò lạo Ấn Độ)",
+      "scientific_name": "Mycteria leucocephala (Pennant, 1769)",
+      "status": "R"
+    },
+    {
+      "name": "Cò lạo xám",
+      "scientific_name": "Mycteria cinerea (Raffles, 1882)",
+      "status": "V"
+    },
+    {
+      "name": "Cò nhạn",
+      "scientific_name": "Anastomus oscitans (Boddaert, 1783)",
+      "status": "R"
+    },
+    {
+      "name": "Cò quăm cánh xanh",
+      "scientific_name": "Pseudibis davisoni (Hume, 1875)",
+      "status": "V"
+    },
+    {
+      "name": "Cò quăm lớn",
+      "scientific_name": "Psendibis gigantea (Oustalet, 1877)",
+      "status": "E"
+    },
+    {
+      "name": "Cò thìa mặt đen",
+      "scientific_name": "Platalea mino Temmink et Schlegel, 1849",
+      "status": "R"
+    },
+    {
+      "name": "Cốc biển bụng trắng",
+      "scientific_name": "Fregata andrewsi Mathews, 1914",
+      "status": "V"
+    },
+    {
+      "name": "Cốc đế",
+      "scientific_name": "Phalacrocorax carbo sinensis (Blumenbach, 1789)",
+      "status": "R"
+    },
+    {
+      "name": "Cóc gai mắt",
+      "scientific_name": "Megophrys longipes (Boulenger, 1885)",
+      "status": "T"
+    },
+    {
+      "name": "Cóc mày gai núi",
+      "scientific_name": "Megophrys palpebralespinosa , Bourret, 1937",
+      "status": "R"
+    },
+    {
+      "name": "Cóc mày phê",
+      "scientific_name": "Megophrys feae (Boulenger, 1887)",
+      "status": "R"
+    },
+    {
+      "name": "Cóc rừng",
+      "scientific_name": "Bufo galeatus Gunther, 1864",
+      "status": "R"
+    },
+    {
+      "name": "Cóc tía",
+      "scientific_name": "Bombina maxima (Boulenger, 1905)",
+      "status": "V"
+    },
+    {
+      "name": "Công lục Java",
+      "scientific_name": "Pavo muticus imperator Delacour, 1949",
+      "status": "E"
+    },
+    {
+      "name": "Cu li lớn",
+      "scientific_name": "Nycticebus coucang (Boddaert, 1785)",
+      "status": "V"
+    },
+    {
+      "name": "Cu li nhỏ",
+      "scientific_name": "Nycticebus pygmaeus Bonhote, 1907",
+      "status": "V"
+    },
+    {
+      "name": "Cú lợn rừng",
+      "scientific_name": "Phodilus badius saturatus Robinson, 1927",
+      "status": "T"
+    },
+    {
+      "name": "Cu xanh Seimun",
+      "scientific_name": "Treron seinundi modestus (Delacour, 1926)",
+      "status": "R"
+    },
+    {
+      "name": "Cua núi An nam",
+      "scientific_name": "Tiwaripotamon annamense (Balls, 1914)",
+      "status": "R"
+    },
+    {
+      "name": "Cua núi Cúc Phương",
+      "scientific_name": "Potamiscus cuphuongensis Dang, 1975",
+      "status": "R"
+    },
+    {
+      "name": "Cua núi Kim Bôi",
+      "scientific_name": "Ranguna (Ranguna) kimboiensis Dang, 1975",
+      "status": "R"
+    },
+    {
+      "name": "Cua núi mai nhẵn",
+      "scientific_name": "Hainanpotamon glabrum (= Orientalia glabra) (Dang, 1967)",
+      "status": "R"
+    },
+    {
+      "name": "Cua núi mai ráp",
+      "scientific_name": "Potamiscus tannanti (Rathbun, 1904)",
+      "status": "R"
+    },
+    {
+      "name": "Cua núi Phúc Sơn",
+      "scientific_name": "Ranguna (Runguna) fruhstorferi (Balss, 1914)",
+      "status": "R"
+    },
+    {
+      "name": "Đẹn đuôi gai",
+      "scientific_name": "Aipysurus eydouxii (Gray, 1849)",
+      "status": "V"
+    },
+    {
+      "name": "Đẹn mỏ",
+      "scientific_name": "Enhydrina schistosa (Daudin, 1803)",
+      "status": "V"
+    },
+    {
+      "name": "Đẹn vảy bụng không đều",
+      "scientific_name": "Thalassophina viperina Schimidt, 1852",
+      "status": "V"
+    },
+    {
+      "name": "Dơi cánh lông",
+      "scientific_name": "Harpiocephalus harpia (Temminck, 1840)",
+      "status": "R"
+    },
+    {
+      "name": "Dơi chó tai ngắn",
+      "scientific_name": "Cynopterus brachyotis (Muller, 1838)",
+      "status": "R"
+    },
+    {
+      "name": "Dơi io",
+      "scientific_name": "Ia io Thomas,1902",
+      "status": "R"
+    },
+    {
+      "name": "Dơi lá quạt",
+      "scientific_name": "Rhinolophus paradoxolophus (Bourret, 1951)",
+      "status": "R"
+    },
+    {
+      "name": "Dơi lá Sa đen",
+      "scientific_name": "Rhinolophus borneensis Peters, 1861",
+      "status": "R"
+    },
+    {
+      "name": "Đồi mồi",
+      "scientific_name": "Eretmochelys imbricata (Linnaeus, 1766)",
+      "status": "E"
+    },
+    {
+      "name": "Đồi mồi dứa",
+      "scientific_name": "Chelonia mydas (Linnaeus, 1758)",
+      "status": "E"
+    },
+    {
+      "name": "Dơi mũi Nêquam",
+      "scientific_name": "Hipposideros nequam Anderseen, 1918",
+      "status": "R"
+    },
+    {
+      "name": "Dơi tai Siligô",
+      "scientific_name": "Myotis siligorensis (Horsfield,1855)",
+      "status": "R"
+    },
+    {
+      "name": "Dơi thùy Frit",
+      "scientific_name": "Coelops frithii Blyth, 1848",
+      "status": "R"
+    },
+    {
+      "name": "Dơi thùy tai to",
+      "scientific_name": "Paracoelops megalotis Dorst, 1947",
+      "status": "R"
+    },
+    {
+      "name": "Dù dì phương đông",
+      "scientific_name": "Ketupa zeylonensis orientalis Delacour, 1926",
+      "status": "T"
+    },
+    {
+      "name": "Đuôi cụt bụng đỏ",
+      "scientific_name": "Pitta nympha Temminck et Schlegel, 1850",
+      "status": "R"
+    },
+    {
+      "name": "Đuôi cụt bụng vằn",
+      "scientific_name": "Pitta ellioti (Oustalet, 1784)",
+      "status": "T"
+    },
+    {
+      "name": "Đuôi cụt đầu đỏ",
+      "scientific_name": "Pitta cyanea willoughbyi (Delacour, 1926)",
+      "status": "R"
+    },
+    {
+      "name": "Đuôi cụt nâu",
+      "scientific_name": "Pitta phayrei obscura (Delacour, 1927)",
+      "status": "R"
+    },
+    {
+      "name": "Ếch gai",
+      "scientific_name": "Rana spinosa (David, 1875)",
+      "status": "T"
+    },
+    {
+      "name": "Ếch giun",
+      "scientific_name": "Ichthyophis glutinosus (linnaeus, 1754)",
+      "status": "V"
+    },
+    {
+      "name": "Ếch vạch",
+      "scientific_name": "Rana microlineata Bourret, 1937",
+      "status": "T"
+    },
+    {
+      "name": "Ếch xanh",
+      "scientific_name": "Rana andersoni Boulenger, 1882",
+      "status": "T"
+    },
+    {
+      "name": "Gà lôi hông tía",
+      "scientific_name": "Lophura diardi (Bonnaparte, 1858)",
+      "status": "T"
+    },
+    {
+      "name": "Gà lôi lam đuôi trắng",
+      "scientific_name": "Lophura hatinhensis (Vo Quy et Do Ngoc Quang, 1975)",
+      "status": "E"
+    },
+    {
+      "name": "Gà lôi lam mào đen",
+      "scientific_name": "Lophura imperialis (Delacour et Jabouille, 1924)",
+      "status": "E"
+    },
+    {
+      "name": "Gà lôi lam mào trắng",
+      "scientific_name": "Lophura edwardsi (Oustalet, 1896)",
+      "status": "E"
+    },
+    {
+      "name": "Gà lôi tía",
+      "scientific_name": "Tragopan temminkinensis (Delacour et jabouille, 1930)",
+      "status": "R"
+    },
+    {
+      "name": "Gà lôi trắng",
+      "scientific_name": "Lophura nycthemera (Linnaeus, 1758)",
+      "status": "T"
+    },
+    {
+      "name": "Gà so cổ hung",
+      "scientific_name": "Arborophila davidi (Delacour, 1927)",
+      "status": "E"
+    },
+    {
+      "name": "Gà tiền mặt đỏ",
+      "scientific_name": "Polyplectron germaini (Elliot, 1866)",
+      "status": "T"
+    },
+    {
+      "name": "Gấu chó",
+      "scientific_name": "Ursus malayanus (Raffles, 1821)",
+      "status": "E"
+    },
+    {
+      "name": "Gấu ngựa",
+      "scientific_name": "Ursus thibetanus (G. Cuvier, 1823)",
+      "status": "E"
+    },
+    {
+      "name": "Già đẫy Java",
+      "scientific_name": "Leptoptilos javanicus (Horsfield, 1821)",
+      "status": "R"
+    },
+    {
+      "name": "Già đẫy lớn",
+      "scientific_name": "Leptoptilos dubius (Gmelin, 1789)",
+      "status": "E"
+    },
+    {
+      "name": "Giải",
+      "scientific_name": "Pelochelys bibroni (Owen, 1853)",
+      "status": "V"
+    },
+    {
+      "name": "Giun lạ",
+      "scientific_name": "Pheretima anomala (Michaelsel, 1907)",
+      "status": "T"
+    },
+    {
+      "name": "Giun xanh",
+      "scientific_name": "Pheretima perelae (Thai, 1982)",
+      "status": "T"
+    },
+    {
+      "name": "Gõ kiến xanh đầu đỏ",
+      "scientific_name": "Picus rabieri (Oustalet, 1898)",
+      "status": "T"
+    },
+    {
+      "name": "Hạc cổ trắng",
+      "scientific_name": "Ciconia episcopus (Bodaert, 1783)",
+      "status": "R"
+    },
+    {
+      "name": "Hải sâm lựu",
+      "scientific_name": "Thelenota ananas (Jaeger, 1833)",
+      "status": "E"
+    },
+    {
+      "name": "Hải sâm mít",
+      "scientific_name": "Actinopyga echinites (Jaeger, 1883)",
+      "status": "V"
+    },
+    {
+      "name": "Hải sâm mít hoa",
+      "scientific_name": "Actinopyga mauritiana (Quoy et Gaimard, 1883)",
+      "status": "V"
+    },
+    {
+      "name": "Hải sâm vú",
+      "scientific_name": "Microthele nobilis (Selenka, 1876)",
+      "status": "E"
+    },
+    {
+      "name": "Heo vòi",
+      "scientific_name": "Tapirus indicus Desmarest, 1819",
+      "status": "E"
+    },
+    {
+      "name": "Hổ Đông Dương",
+      "scientific_name": "Panthera tigris corbetti (Mazák, 1968)",
+      "status": "E"
+    },
+    {
+      "name": "Hoặn lớn",
+      "scientific_name": "Rhacophorus nigropalmatus feae (Boulenger, 1893)",
+      "status": "T"
+    },
+    {
+      "name": "Hoẵng Nam bộ",
+      "scientific_name": "Muntiacus muntjak annamensis ( Kloss, 1928)",
+      "status": "V"
+    },
+    {
+      "name": "Hồng hoàng",
+      "scientific_name": "Buceros bicornis (Linnaeus, 1758)",
+      "status": "T"
+    },
+    {
+      "name": "Hù lào",
+      "scientific_name": "Strix leptogrammica laotiana (Delacour, 1926)",
+      "status": "R"
+    },
+    {
+      "name": "Hù lưng nâu",
+      "scientific_name": "Strix leptogrammica ticehursti (Delacour, 1930)",
+      "status": "R"
+    },
+    {
+      "name": "Hươu sao Việt Nam",
+      "scientific_name": "Cervus nippon pseudaxis (J. F. T. Eydoux & L. F. A. Souleyet, 1841)",
+      "status": "V"
+    },
+    {
+      "name": "Hươu vàng",
+      "scientific_name": "Cervus porcinus (Zimmermann, 1777)",
+      "status": "E"
+    },
+    {
+      "name": "Hươu xạ Cao Bằng",
+      "scientific_name": "Moschus berezovxki (Flerov, 1929)",
+      "status": "E"
+    },
+    {
+      "name": "Khách đuôi cờ",
+      "scientific_name": "Temnurus temnurus (Temminck, 1825)",
+      "status": "T"
+    },
+    {
+      "name": "Khỉ đuôi lợn",
+      "scientific_name": "Macaca nemestrina (Linnaeus, 1766)",
+      "status": "V"
+    },
+    {
+      "name": "Khỉ mặt đỏ ( khỉ cộc )",
+      "scientific_name": "Macaca arctoides (Geoffroy, 1831)",
+      "status": "V"
+    },
+    {
+      "name": "Khỉ mốc miền Đông",
+      "scientific_name": "Macaca assamensis (M’Clelland, 1839)",
+      "status": "V"
+    },
+    {
+      "name": "Khướu đầu đen",
+      "scientific_name": "Garrulax milleti (Robinson et Klos, 1919)",
+      "status": "R"
+    },
+    {
+      "name": "Khướu đầu đen má xám",
+      "scientific_name": "Garrulax yersini (Robinson et Kloss, 1919)",
+      "status": "R"
+    },
+    {
+      "name": "Khướu đầu xám",
+      "scientific_name": "Garrulax vassali (Grant, 1906)",
+      "status": "T"
+    },
+    {
+      "name": "Khướu đuôi đỏ",
+      "scientific_name": "Garrulax formosus greenwayi Delacour et Jabouille, 1930",
+      "status": "R"
+    },
+    {
+      "name": "Khướu mỏ dài",
+      "scientific_name": "Jabouillea danjoui (Robinson et Klos, 1919)",
+      "status": "T"
+    },
+    {
+      "name": "Khướu mỏ dẹt lưng đen",
+      "scientific_name": "Paradoxornis davidianus tonkinensis (Delacour, 1927)",
+      "status": "T"
+    },
+    {
+      "name": "Khướu mỏ dẹt to",
+      "scientific_name": "Paradoxornis ruficeps magnirostris (Delacour, 1927)",
+      "status": "T"
+    },
+    {
+      "name": "Khướu ngực đốm",
+      "scientific_name": "Garrulax merulinus (Blyth, 1851)",
+      "status": "R"
+    },
+    {
+      "name": "Khướu vẩy",
+      "scientific_name": "Garrulax squamatus (Gould, 1835)",
+      "status": "R"
+    },
+    {
+      "name": "Khướu xám",
+      "scientific_name": "Garrulax maesi maesi (Oustalet, 1890)",
+      "status": "T"
+    },
+    {
+      "name": "Kỳ đà hoa",
+      "scientific_name": "Varanus salvator (Laurenti, 1768)",
+      "status": "V"
+    },
+    {
+      "name": "Kỳ đà vân",
+      "scientific_name": "Varanus bengalensis nebulosus (Gray, 1831)",
+      "status": "V"
+    },
+    {
+      "name": "Le khoang cổ",
+      "scientific_name": "Nettapus coromandelianus coromandelianus (Gmelin, 1788)",
+      "status": "T"
+    },
+    {
+      "name": "Mang lớn",
+      "scientific_name": "Megamuntiacus vuquangensis (Do Tuoc, Vu Van Dung, Shanthini Dawson, P. Arctander và John mackinnon, 1994)",
+      "status": "V"
+    },
+    {
+      "name": "Mèo cá",
+      "scientific_name": "Prionailurus viverrinus (Bennett, 1833)",
+      "status": "R"
+    },
+    {
+      "name": "Mèo gấm",
+      "scientific_name": "Pardofelis marmorata (Martin, 1837)",
+      "status": "V"
+    },
+    {
+      "name": "Mèo ri",
+      "scientific_name": "Felis chaus (Guldenstaedt, 1776)",
+      "status": "E"
+    },
+    {
+      "name": "Mi Langbian",
+      "scientific_name": "Crocias langbianis (Goldenstolpe, 1939)",
+      "status": "E"
+    },
+    {
+      "name": "Mỏ rộng đen",
+      "scientific_name": "Carydon sumatranus (Deignan, 1947)",
+      "status": "R"
+    },
+    {
+      "name": "Mỏ rộng xanh",
+      "scientific_name": "Psarisomus dalhousiae dalhousiae (Jameson, 1835)",
+      "status": "T"
+    },
+    {
+      "name": "Mỏ rộng xồm",
+      "scientific_name": "Calyptomena viridis continentis Robinson et Klooss, 1923",
+      "status": "R"
+    },
+    {
+      "name": "Mòng bể mỏ đen",
+      "scientific_name": "Larus saundersi , 1871",
+      "status": "R"
+    },
+    {
+      "name": "Nai cà tông Xiêm",
+      "scientific_name": "Panolia eldii siamensis (M’Clelland, 1842)",
+      "status": "E"
+    },
+    {
+      "name": "Ngan cánh trắng",
+      "scientific_name": "Carina scutulata (S. Muller, 1839)",
+      "status": "V"
+    },
+    {
+      "name": "Nhàn đầu xám",
+      "scientific_name": "Anous stolidus pileatus (Scopoli, 1786)",
+      "status": "T"
+    },
+    {
+      "name": "Nhàn mào",
+      "scientific_name": "Sterna bergii cristata (Stephens, 1826)",
+      "status": "E"
+    },
+    {
+      "name": "Nhông cát Gutta",
+      "scientific_name": "Leiolepis guttata (Curier, 1829)",
+      "status": "T"
+    },
+    {
+      "name": "Niệc cổ hung",
+      "scientific_name": "Aceros nipalensis (Hodgson, 1829)",
+      "status": "E"
+    },
+    {
+      "name": "Niệc đầu trắng",
+      "scientific_name": "Berenicornis comatus (Raffles, 1822)",
+      "status": "E"
+    },
+    {
+      "name": "Niệc mỏ vằn",
+      "scientific_name": "Rhyticeros undulatus ticehursti (Deignan, 1914)",
+      "status": "T"
+    },
+    {
+      "name": "Niệc nâu",
+      "scientific_name": "Ptilolaemus tickelli indochinensis (Delacour et Jabouille, 1927)",
+      "status": "T"
+    },
+    {
+      "name": "Oanh",
+      "scientific_name": "Acanthosaura lepidogaster (Cuvier, 1829)",
+      "status": "T"
+    },
+    {
+      "name": "Ô tác",
+      "scientific_name": "Eupodotis bengalensis blandini Delacour, 1928",
+      "status": "V"
+    },
+    {
+      "name": "Ốc anh vũ",
+      "scientific_name": "Nautilus pompilus Linnaeus, 1758",
+      "status": "E"
+    },
+    {
+      "name": "Ốc bản đồ",
+      "scientific_name": "Cypraea mappa Linnaeus, 1758",
+      "status": "T"
+    },
+    {
+      "name": "Ốc đụn cái",
+      "scientific_name": "Tectus niloticus (Linnaeus, 1767)",
+      "status": "E"
+    },
+    {
+      "name": "Ốc đụn đực",
+      "scientific_name": "Trochus pyramis (Born, 1778)",
+      "status": "E"
+    },
+    {
+      "name": "Ốc heo",
+      "scientific_name": "Cypraea testudinaria (Linnaeus, 1758)",
+      "status": "T"
+    },
+    {
+      "name": "Ốc kim khôi",
+      "scientific_name": "Cassis cornata (Linnaeus, 1758)",
+      "status": "V"
+    },
+    {
+      "name": "Ốc kim khôi đỏ",
+      "scientific_name": "Cypraecassis rufa (Linnaeus, 1758)",
+      "status": "E"
+    },
+    {
+      "name": "Ốc sứ Cura",
+      "scientific_name": "Cypraca scurra (Gmelin, 1791)",
+      "status": "R"
+    },
+    {
+      "name": "Ốc sứ Hiti",
+      "scientific_name": "Cypraea histrio Gmelin, 1791",
+      "status": "R"
+    },
+    {
+      "name": "Ốc sứ Lắc tê",
+      "scientific_name": "Procalpur lacteus (Lamarck, 1810)",
+      "status": "R"
+    },
+    {
+      "name": "Ốc sứ mắt trĩ",
+      "scientific_name": "Cypraea argus Linnaeus, 1758",
+      "status": "R"
+    },
+    {
+      "name": "Ốc sứ Padi",
+      "scientific_name": "Cypraea spadicea Swainson, 1823",
+      "status": "R"
+    },
+    {
+      "name": "Ốc sứ trắng nhỏ",
+      "scientific_name": "Ovula costellata (Lamarck, 1810)",
+      "status": "R"
+    },
+    {
+      "name": "Ốc sứ Trung Hoa",
+      "scientific_name": "Cyraca chinensis (Gmelin, 1791)",
+      "status": "T"
+    },
+    {
+      "name": "Ốc sứ Tuđu",
+      "scientific_name": "Cypraea turdus Lamarck, 1810",
+      "status": "R"
+    },
+    {
+      "name": "Ốc sứ Veru",
+      "scientific_name": "Calpurnus verrucosus (Linnaeus, 1758)",
+      "status": "T"
+    },
+    {
+      "name": "Ốc tù và",
+      "scientific_name": "Charonia tritonis (Linnaeus, 1758)",
+      "status": "V"
+    },
+    {
+      "name": "Ốc vặn hình côn",
+      "scientific_name": "Stenomelania reevei (Barot, 1874)",
+      "status": "V"
+    },
+    {
+      "name": "Ốc vặn hình tháp",
+      "scientific_name": "Antimelania swinhoei (Adams, 1870)",
+      "status": "V"
+    },
+    {
+      "name": "Ốc vặn vệt nâu",
+      "scientific_name": "Sulcospira proteus (Bavay et Dautzenberg, 1910)",
+      "status": "R"
+    },
+    {
+      "name": "Ốc xà cừ",
+      "scientific_name": "Turbo marmoratus Linnaeus, 1758",
+      "status": "E"
+    },
+    {
+      "name": "Ốc xoắn vách",
+      "scientific_name": "Epitonium scalare (Linnaeus, 1758)",
+      "status": "R"
+    },
+    {
+      "name": "Phướn đất",
+      "scientific_name": "Carpococcyx renauldi (Oustalet, 1896)",
+      "status": "T"
+    },
+    {
+      "name": "Quạ khoang",
+      "scientific_name": "Corvus torquatus Lesson 1831",
+      "status": "E"
+    },
+    {
+      "name": "Rái cá lông mũi",
+      "scientific_name": "Lutra sumatrana (Gray, 1865)",
+      "status": "V"
+    },
+    {
+      "name": "Rái cá lông mượt",
+      "scientific_name": "Lutrogale perspicillata (Geoffory, 1826)",
+      "status": "V"
+    },
+    {
+      "name": "Rái cá thường",
+      "scientific_name": "Lutra lutra (Linnaues, 1758)",
+      "status": "V"
+    },
+    {
+      "name": "Rái cá vuốt bé",
+      "scientific_name": "Aonyx cinerea (Illiger, 1815)",
+      "status": "V"
+    },
+    {
+      "name": "Rắn cạp nong",
+      "scientific_name": "Bungarus fasciatus (Schneider, 1801)",
+      "status": "T"
+    },
+    {
+      "name": "Rắn hổ mang Ấn Độ",
+      "scientific_name": "Naja naja (Linnaeus, 1758)",
+      "status": "T"
+    },
+    {
+      "name": "Rắn hổ mang chúa",
+      "scientific_name": "Ophiophagus hannah (Cantor, 1836)",
+      "status": "E"
+    },
+    {
+      "name": "Rắn hổ trâu",
+      "scientific_name": "Ptyas mucosus (Linnaeus, 1758)",
+      "status": "V"
+    },
+    {
+      "name": "Rắn lai",
+      "scientific_name": "Gonysoma oxycephalum (Boie, 1827)",
+      "status": "T"
+    },
+    {
+      "name": "Rắn lục đầu bạc",
+      "scientific_name": "Azemiops feae (Boulenger, 1888)",
+      "status": "R"
+    },
+    {
+      "name": "Rắn lục mũi hếch",
+      "scientific_name": "Deinaglistrodon acutus (Gunther, 1864)",
+      "status": "R"
+    },
+    {
+      "name": "Rắn lục núi",
+      "scientific_name": "Trimeresurus monticola (Gunther, 1864)",
+      "status": "R"
+    },
+    {
+      "name": "Rắn lục sừng",
+      "scientific_name": "Trimeresurus cornutus (Smith, 1930)",
+      "status": "R"
+    },
+    {
+      "name": "Rắn ráo",
+      "scientific_name": "Ptyas korros (Schlegel, 1837)",
+      "status": "T"
+    },
+    {
+      "name": "Rắn rào răng chó",
+      "scientific_name": "Boiga cynodon (Boie, 1827)",
+      "status": "T"
+    },
+    {
+      "name": "Rắn sọc đốm đỏ",
+      "scientific_name": "Elaphe porphyracea (Cantor, 1839)",
+      "status": "T"
+    },
+    {
+      "name": "Rắn sọc khoanh",
+      "scientific_name": "Elaphe moellendorffii (Boettger, 1886)",
+      "status": "T"
+    },
+    {
+      "name": "Rắn sọc xanh",
+      "scientific_name": "Elaphe prasina (Blyth, 1854)",
+      "status": "T"
+    },
+    {
+      "name": "Rắn xe điếu nâu",
+      "scientific_name": "Achalinus rufescens (Boulenger, 1888)",
+      "status": "R"
+    },
+    {
+      "name": "Rắn xe điếu xám",
+      "scientific_name": "Achalinus spinalis (Peters, 1869)",
+      "status": "R"
+    },
+    {
+      "name": "Rồng đất",
+      "scientific_name": "Physignathus cocincinus (Curier, 1829)",
+      "status": "V"
+    },
+    {
+      "name": "Rùa da",
+      "scientific_name": "Dermochelys coriacea (Linnaeus, 1766)",
+      "status": "E"
+    },
+    {
+      "name": "Rùa đất lớn",
+      "scientific_name": "Geoemyda grandis Gray, 1860",
+      "status": "V"
+    },
+    {
+      "name": "Rùa đầu to",
+      "scientific_name": "Platysternum megacephalum (Gray, 1831)",
+      "status": "R"
+    },
+    {
+      "name": "Rùa hộp ba vạch",
+      "scientific_name": "Cuora trifasciata (Bell, 1825)",
+      "status": "E"
+    },
+    {
+      "name": "Rùa hộp lưng đen",
+      "scientific_name": "Cuora amboinensis (Daudin, 1802)",
+      "status": "V"
+    },
+    {
+      "name": "Rùa hộp trán vàng",
+      "scientific_name": "Cistoclemmys galbinifrons (Bourret, 1939)",
+      "status": "V"
+    },
+    {
+      "name": "Rùa núi vàng",
+      "scientific_name": "Indotestudo elongata (Blyth, 1853)",
+      "status": "V"
+    },
+    {
+      "name": "Rùa núi viền",
+      "scientific_name": "Manoruia impressa (Gunther, 1882)",
+      "status": "V"
+    },
+    {
+      "name": "Rùa răng",
+      "scientific_name": "Hieremys annandalei (Boulenger, 1903)",
+      "status": "V"
+    },
+    {
+      "name": "Sả hung",
+      "scientific_name": "Halcyon coromando coromando (Latham, 1790)",
+      "status": "R"
+    },
+    {
+      "name": "Sả mỏ rộng",
+      "scientific_name": "Pelargopsis capensis burmanica (Sharp, 1870)",
+      "status": "T"
+    },
+    {
+      "name": "Sam đuôi tam giác",
+      "scientific_name": "Tachypleus tridentatus (Leach, ????)",
+      "status": "T"
+    },
+    {
+      "name": "San hô đỏ Êlati",
+      "scientific_name": "Corallium elatius (S. Ridl, 1882)",
+      "status": "V"
+    },
+    {
+      "name": "San hô đỏ Kô-noi",
+      "scientific_name": "Corallium konojci (Kishinouye, 1903)",
+      "status": "T"
+    },
+    {
+      "name": "San hô đỏ Nhật Bản",
+      "scientific_name": "Corallium japonicus (Kishinouye, 1903)",
+      "status": "V"
+    },
+    {
+      "name": "San hô trúc",
+      "scientific_name": "Isis hipputis (Linnaeus, 1758)",
+      "status": "R"
+    },
+    {
+      "name": "Sao la",
+      "scientific_name": "Pseudoryx nghetinhesis (Vu Van Dung, Peter Arlander, John Mackinnon, Do Tuoc, Nguyen Ngoc Chinh, Pham Mong Giao, 1993)",
+      "status": "E"
+    },
+    {
+      "name": "Sẻ thông họng vàng",
+      "scientific_name": "Carduelis monguilloti (Delacour, 1927)",
+      "status": "T"
+    },
+    {
+      "name": "Sếu cổ trụi",
+      "scientific_name": "Grus antigone sharpii Blanfordii, 1929",
+      "status": "V"
+    },
+    {
+      "name": "Sóc bay đen trắng",
+      "scientific_name": "Hylopetes alboniger (Hodgson, 1836)",
+      "status": "R"
+    },
+    {
+      "name": "Sóc bay lông tai",
+      "scientific_name": "Belomys pearsonii (Gray, 1842)",
+      "status": "R"
+    },
+    {
+      "name": "Sóc bay nhỏ",
+      "scientific_name": "Hylopetes phayrei (Blyth, 1859)",
+      "status": "R"
+    },
+    {
+      "name": "Sóc bay sao",
+      "scientific_name": "Petaurista elegans (Muler, 1839)",
+      "status": "E"
+    },
+    {
+      "name": "Sóc bay trâu",
+      "scientific_name": "Petaurista petaurita (Pallas, 1766)",
+      "status": "R"
+    },
+    {
+      "name": "Sóc đen Côn Đảo",
+      "scientific_name": "Ratufa bicolor condorensis Kloss, 1921",
+      "status": "R"
+    },
+    {
+      "name": "Sóc đỏ",
+      "scientific_name": "Callosciurus finlaysoni (Horsfield, 1823)",
+      "status": "R"
+    },
+    {
+      "name": "Sói lửa",
+      "scientific_name": "Cuon alpinus (Pallas, 1811)",
+      "status": "E"
+    },
+    {
+      "name": "Sơn dương",
+      "scientific_name": "Capricornis sumatraensis (Bechstein, 1799)",
+      "status": "V"
+    },
+    {
+      "name": "Tắc kè",
+      "scientific_name": "Gekko gecko (Linnaeus 1758)",
+      "status": "T"
+    },
+    {
+      "name": "Tê giác Sumatra",
+      "scientific_name": "Dicerorhinus sumatrensis (Fischer, 1819)",
+      "status": "E"
+    },
+    {
+      "name": "Tê giác Việt Nam",
+      "scientific_name": "Rhinoceros sondaicus Desmarest, 1822",
+      "status": "E"
+    },
+    {
+      "name": "Tê tê",
+      "scientific_name": "Manis pentadactyla Linnaeus, 1758",
+      "status": "V"
+    },
+    {
+      "name": "Thỏ rừng Trung Hoa",
+      "scientific_name": "Lepus sinensis Gray, 1832",
+      "status": "E"
+    },
+    {
+      "name": "Tôm hùm bông",
+      "scientific_name": "Panulirus ornatus (Pabricius, 1798)",
+      "status": "V"
+    },
+    {
+      "name": "Tôm hùm đá",
+      "scientific_name": "Panulirus homarus (Linnaeus, 1758)",
+      "status": "V"
+    },
+    {
+      "name": "Tôm hùm đỏ",
+      "scientific_name": "Panulirus longipes (A.M Edwards, 1868)",
+      "status": "V"
+    },
+    {
+      "name": "Tôm hùm sen",
+      "scientific_name": "Panulirus versicolor (Latreille, 1804)",
+      "status": "V"
+    },
+    {
+      "name": "Trai cánh dày",
+      "scientific_name": "Cristaria herculea (Middendorff, 1848)",
+      "status": "V"
+    },
+    {
+      "name": "Trai cánh mỏng",
+      "scientific_name": "Cristaria bialata (Lea, 1857)",
+      "status": "V"
+    },
+    {
+      "name": "Trai cóc bầu dục",
+      "scientific_name": "Lamprotula liedtkei (Rolle, 1904)",
+      "status": "R"
+    },
+    {
+      "name": "Trai cóc dày",
+      "scientific_name": "Gibbosula crassa (Wood, 1815)",
+      "status": "R"
+    },
+    {
+      "name": "Trai cóc hình lá",
+      "scientific_name": "Lamprotula blaisei (Dautzenberg et Fischer, 1905)",
+      "status": "R"
+    },
+    {
+      "name": "Trai cóc hình tai",
+      "scientific_name": "Lamprotula leai (Gray, 1857)",
+      "status": "V"
+    },
+    {
+      "name": "Trai cóc Mẫu Sơn",
+      "scientific_name": "Contradents semmelincki fultoni (Haas, 1930)",
+      "status": "R"
+    },
+    {
+      "name": "Trai cóc nhẵn",
+      "scientific_name": "Cuneopis (Procuneopsis) demangei Haas, 1929",
+      "status": "K"
+    },
+    {
+      "name": "Trai cóc tròn",
+      "scientific_name": "Lamprotula nodulosa (Wood, 1815)",
+      "status": "R"
+    },
+    {
+      "name": "Trai cóc vuông",
+      "scientific_name": "Protunio messageri Bavay et Dautzenberg, 1901",
+      "status": "R"
+    },
+    {
+      "name": "Trai điệp",
+      "scientific_name": "Sinohyriopsis cumingii (Len, 1852)",
+      "status": "V"
+    },
+    {
+      "name": "Trai ngọc môi đen",
+      "scientific_name": "Pinctada margaritifera (Linaeus, 1758)",
+      "status": "T"
+    },
+    {
+      "name": "Trai ngọc môi vàng",
+      "scientific_name": "Pinctada maxima (Jameson, 1901)",
+      "status": "T"
+    },
+    {
+      "name": "Trai Suilla",
+      "scientific_name": "Pilsbryoconcha suilla (Martens, 1902)",
+      "status": "K"
+    },
+    {
+      "name": "Trai tai gấu",
+      "scientific_name": "Hippopus hippopus (Linnaeus, 1758)",
+      "status": "R"
+    },
+    {
+      "name": "Trai tai tượng khổng lồ",
+      "scientific_name": "Tridacna gigas (Linnaeus, 1758)",
+      "status": "R"
+    },
+    {
+      "name": "Trai vỏ nâu",
+      "scientific_name": "Chamberlainia hainesiana (Lea, 1856)",
+      "status": "V"
+    },
+    {
+      "name": "Trăn cộc",
+      "scientific_name": "Python curtus Schlegel, 1872",
+      "status": "E"
+    },
+    {
+      "name": "Trăn đất",
+      "scientific_name": "Python molurus (Linnaeus, 1758)",
+      "status": "V"
+    },
+    {
+      "name": "Trăn gấm",
+      "scientific_name": "Python reticulatus (Schneider, 1801)",
+      "status": "V"
+    },
+    {
+      "name": "Trâu nước hoang dã",
+      "scientific_name": "Bubalus bubalis (Linnaeus. 1758)",
+      "status": "E"
+    },
+    {
+      "name": "Trèo cây lưng đen",
+      "scientific_name": "Sitta formosa Blyth, 1843",
+      "status": "T"
+    },
+    {
+      "name": "Trèo cây mỏ vàng",
+      "scientific_name": "Sitta solangiae. (Delacour et Jabouille, 1930)",
+      "status": "T"
+    },
+    {
+      "name": "Trĩ đỏ khoang cổ",
+      "scientific_name": "Phasianus colchicus Linnaeus, 1758",
+      "status": "R"
+    },
+    {
+      "name": "Trĩ sao",
+      "scientific_name": "Rheinartia ocellata ocellata (Elliot, 1871)",
+      "status": "T"
+    },
+    {
+      "name": "Triết bụng trắng",
+      "scientific_name": "Mustela nivalis Linnaeus, 1766",
+      "status": "E"
+    },
+    {
+      "name": "Trùng trục có khía",
+      "scientific_name": "Lanceolaria fruhstorferi (Bavay et Dautzenberg, 1901)",
+      "status": "R"
+    },
+    {
+      "name": "Vạc hoa",
+      "scientific_name": "Gorsachius magnificus (Ogilvie Grant, 1899)",
+      "status": "R"
+    },
+    {
+      "name": "Vẹm vỏ xanh",
+      "scientific_name": "Perna viridis (Linnaeus, 1758)",
+      "status": "T"
+    },
+    {
+      "name": "Vích",
+      "scientific_name": "Caretta olivacea (Eschscholtz, 1829)",
+      "status": "E"
+    },
+    {
+      "name": "Vịt đầu đen",
+      "scientific_name": "Aythya baeri (Radde, 1863)",
+      "status": "R"
+    },
+    {
+      "name": "Vịt mỏ ngọn",
+      "scientific_name": "Mergus squamatus Gould, 1864",
+      "status": "E"
+    },
+    {
+      "name": "Voi Việt Nam",
+      "scientific_name": "Elephas maximus Linnaeus, 1758",
+      "status": "V"
+    },
+    {
+      "name": "Voọc đầu trắng",
+      "scientific_name": "Trachypithecus francoisi poliocephalus (Trouessart, 1911)",
+      "status": "E"
+    },
+    {
+      "name": "Voọc đen má trắng",
+      "scientific_name": "Trachypithecus francoisi francoisi (Pousargues, 1898)",
+      "status": "V"
+    },
+    {
+      "name": "Voọc Hà Tĩnh",
+      "scientific_name": "Trachypithecus francoisi hatinhensis (Dao, 1970)",
+      "status": "E"
+    },
+    {
+      "name": "Voọc mông trắng",
+      "scientific_name": "Trachypithecus francoisi delacouri (Osgood, 1932)",
+      "status": "E"
+    },
+    {
+      "name": "Voọc mũi hếch Bắc Bộ",
+      "scientific_name": "Rhinopithecus avunculus (Dollman, 1912)",
+      "status": "E"
+    },
+    {
+      "name": "Voọc ngũ sắc",
+      "scientific_name": "Pygathrix nemaeus nigripes (Milne-Edwards, 1871)",
+      "status": "V"
+    },
+    {
+      "name": "Voọc vá",
+      "scientific_name": "Pygathrix nemaeus (Linnaeus, 1771)",
+      "status": "E"
+    },
+    {
+      "name": "Voọc xám Đông Dương",
+      "scientific_name": "Trachypithecus phayrei crepusculus (Elliot, 1909)",
+      "status": "V"
+    },
+    {
+      "name": "Vượn đen bạc má",
+      "scientific_name": "Hylobates concolor leucogenis (Ogilby, 1840)",
+      "status": "E"
+    },
+    {
+      "name": "Vượn đen tuyền",
+      "scientific_name": "Hylobates concolor concolor (Harlan, 1826)",
+      "status": "E"
+    },
+    {
+      "name": "Vượn tay trắng",
+      "scientific_name": "Hylobates lar (Linnaeus, 1771)",
+      "status": "E"
+    }
+  ],
+  "meta": {
+    "title": "Danh mục Sách đỏ động vật Việt Nam - Free Download",
+    "description": "Các loài động vật có trong Sách đỏ Việt Nam với tên khoa học và mức độ đe dọa (E, V, R, T...). Contains 358 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh mục Sách đỏ động vật Việt Nam | ListBase",
+    "seo_description": "Download Danh mục Sách đỏ động vật Việt Nam — 358 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 358 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_m%E1%BB%A5c_s%C3%A1ch_%C4%91%E1%BB%8F_%C4%91%E1%BB%99ng_v%E1%BA%ADt_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}
