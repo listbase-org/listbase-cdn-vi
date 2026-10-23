@@ -1,0 +1,296 @@
+{
+  "id": "vi-bo-truong-bo-y-te",
+  "name": "Danh sách Bộ trưởng Bộ Y tế Việt Nam",
+  "title": "Danh sách Bộ trưởng Bộ Y tế Việt Nam",
+  "description": "Các Bộ trưởng Bộ Y tế Việt Nam qua các thời kỳ từ năm 1945 đến nay, kèm nhiệm kỳ và chức vụ.",
+  "category": "health",
+  "source": "https://vi.wikipedia.org/wiki/B%E1%BB%99_tr%C6%B0%E1%BB%9Fng_B%E1%BB%99_Y_t%E1%BA%BF_%28Vi%E1%BB%87t_Nam%29",
+  "source_url": "https://vi.wikipedia.org/wiki/B%E1%BB%99_tr%C6%B0%E1%BB%9Fng_B%E1%BB%99_Y_t%E1%BA%BF_%28Vi%E1%BB%87t_Nam%29",
+  "updated": "2026-10",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    },
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "string"
+    },
+    {
+      "key": "tenure",
+      "label": "Tenure",
+      "type": "string"
+    },
+    {
+      "key": "position",
+      "label": "Position",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "period": "Bộ trưởng Bộ Y tế (1945-1946)",
+      "no": "1",
+      "name": "GS. Tiến sĩ Phạm Ngọc Thạch (1909-1968)",
+      "start": "2 tháng 9 năm 1945",
+      "end": "1 tháng 1 năm 1946",
+      "tenure": "121 ngày",
+      "position": "Bộ trưởng Bộ Y tế",
+      "notes": "Đảng viên Đảng Cộng sản Việt Nam"
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1945-1946)",
+      "no": "2",
+      "name": "BS. Trương Đình Tri (?-1947)",
+      "start": "1 tháng 1 năm 1946",
+      "end": "2 tháng 3 năm 1946 (Sáp nhập Bộ)",
+      "tenure": "33 ngày",
+      "position": "Bộ trưởng Bộ Y tế",
+      "notes": "Đảng viên Đảng Việt Nam Cách mệnh Đồng minh Hội"
+    },
+    {
+      "period": "Giám đốc Nha Y tế Trung ương thuộc Bộ Xã hội (1946)",
+      "no": "(2)",
+      "name": "BS. Vũ Đình Tụng (1895-1973)",
+      "start": "27 tháng 3 năm 1946",
+      "end": "3 tháng 11 năm 1946 (Tái lập Bộ)",
+      "tenure": "221 ngày",
+      "position": "Giám đốc Nha Y tế Trung ương",
+      "notes": "Đảng viên Đảng Dân chủ Việt Nam"
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1946-nay)",
+      "no": "3",
+      "name": "GS. Tiến sĩ Hoàng Tích Trý (1903-1958)",
+      "start": "3 tháng 11 năm 1946",
+      "end": "27 tháng 5 năm 1959",
+      "tenure": "12 năm, 205 ngày",
+      "position": "Bộ trưởng Bộ Y tế",
+      "notes": ""
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1946-nay)",
+      "no": "(1)",
+      "name": "GS. Tiến sĩ Phạm Ngọc Thạch (1909-1968)",
+      "start": "27 tháng 5 năm 1959",
+      "end": "7 tháng 11 năm 1968",
+      "tenure": "9 năm, 164 ngày",
+      "position": "Bộ trưởng Bộ Y tế",
+      "notes": "Qua đời khi đang tại nhiệm"
+    },
+    {
+      "period": "Bộ tưởng Bộ Y tế Xã hội và Thương binh của Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam (1969-1976)",
+      "no": "",
+      "name": "BS. Dương Quỳnh Hoa (1930-2006)",
+      "start": "6 tháng 6 năm 1969",
+      "end": "2 tháng 7 năm 1976",
+      "tenure": "7 năm, 26 ngày",
+      "position": "Bộ trưởng Bộ Y tế Xã hội và Thương binh",
+      "notes": "Kiêm phụ trách Xã hội và Thương binh"
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1969-nay)",
+      "no": "-",
+      "name": "GS. Tiến sĩ Nguyễn Văn Hưởng (1906-1998)",
+      "start": "7 tháng 11 năm 1968",
+      "end": "26 tháng 3 năm 1969",
+      "tenure": "139 ngày",
+      "position": "Quyền Bộ trưởng Bộ Y tế",
+      "notes": ""
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1969-nay)",
+      "no": "4",
+      "name": "GS. Tiến sĩ Nguyễn Văn Hưởng (1906-1998)",
+      "start": "26 tháng 3 năm 1969",
+      "end": "1 tháng 4 năm 1974",
+      "tenure": "5 năm, 6 ngày",
+      "position": "Bộ trưởng Bộ Y tế",
+      "notes": "Thôi làm Bộ trưởng vì lý do sức khỏe"
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1969-nay)",
+      "no": "5",
+      "name": "BS. Vũ Văn Cẩn (1914-1982)",
+      "start": "1 tháng 4 năm 1974",
+      "end": "1 tháng 4 năm 1982",
+      "tenure": "8 năm, 0 ngày",
+      "position": "Bộ trưởng Bộ Y tế",
+      "notes": ""
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1969-nay)",
+      "no": "6",
+      "name": "TS. Đặng Hồi Xuân (1929-1988)",
+      "start": "1 tháng 4 năm 1982",
+      "end": "9 tháng 9 năm 1988",
+      "tenure": "6 năm, 161 ngày",
+      "position": "Bộ trưởng Bộ Y tế",
+      "notes": "Tử nạn máy bay gần sân bay Đôn Mường , Băng Cốc , Thái Lan ."
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1969-nay)",
+      "no": "-",
+      "name": "GS. Tiến sĩ Phạm Song (1931-2011)",
+      "start": "9 tháng 9 năm 1988",
+      "end": "11 tháng 11 năm 1988",
+      "tenure": "63 ngày",
+      "position": "Quyền Bộ trưởng Bộ Y tế",
+      "notes": ""
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1969-nay)",
+      "no": "7",
+      "name": "GS. Tiến sĩ Phạm Song (1931-2011)",
+      "start": "11 tháng 11 năm 1988",
+      "end": "8 tháng 10 năm 1992",
+      "tenure": "4 năm, 29 ngày",
+      "position": "Bộ trưởng Bộ Y tế",
+      "notes": ""
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1969-nay)",
+      "no": "8",
+      "name": "GS. Tiến sĩ Nguyễn Trọng Nhân (1930-2017)",
+      "start": "8 tháng 10 năm 1992",
+      "end": "21 tháng 10 năm 1995",
+      "tenure": "3 năm, 13 ngày",
+      "position": "Bộ trưởng Bộ Y tế",
+      "notes": ""
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1969-nay)",
+      "no": "9",
+      "name": "GS. Tiến sĩ Đỗ Nguyên Phương (1937-2008)",
+      "start": "21 tháng 10 năm 1995",
+      "end": "12 tháng 8 năm 2002",
+      "tenure": "6 năm, 295 ngày",
+      "position": "Bộ trưởng Bộ Y tế",
+      "notes": ""
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1969-nay)",
+      "no": "10",
+      "name": "Tiến sĩ Trần Thị Trung Chiến (sinh 1946)",
+      "start": "12 tháng 8 năm 2002",
+      "end": "2 tháng 8 năm 2007",
+      "tenure": "4 năm, 355 ngày",
+      "position": "Bộ trưởng Bộ Y tế",
+      "notes": "Nữ Bộ trưởng Bộ Y tế đầu tiên"
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1969-nay)",
+      "no": "11",
+      "name": "TS. Nguyễn Quốc Triệu (1951-2025)",
+      "start": "2 tháng 8 năm 2007",
+      "end": "3 tháng 8 năm 2011",
+      "tenure": "4 năm, 1 ngày",
+      "position": "Bộ trưởng Bộ Y tế",
+      "notes": ""
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1969-nay)",
+      "no": "12",
+      "name": "PGS. Tiến sĩ Nguyễn Thị Kim Tiến (sinh 1959)",
+      "start": "3 tháng 8 năm 2011",
+      "end": "22 tháng 11 năm 2019",
+      "tenure": "8 năm, 111 ngày",
+      "position": "Bộ trưởng Bộ Y tế",
+      "notes": "Khai trừ khỏi Đảng"
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1969-nay)",
+      "no": "-",
+      "name": "TS. Vũ Đức Đam (sinh 1963)",
+      "start": "5 tháng 11 năm 2019",
+      "end": "7 tháng 7 năm 2020",
+      "tenure": "245 ngày",
+      "position": "Phó Thủ tướng Chính phủ phụ trách Bộ Y tế",
+      "notes": "Miễn nhiệm, thôi các chức vụ trong Đảng nhà Nhà nước"
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1969-nay)",
+      "no": "-",
+      "name": "GS. Tiến sĩ Nguyễn Thanh Long (sinh 1966)",
+      "start": "7 tháng 7 năm 2020",
+      "end": "12 tháng 11 năm 2020",
+      "tenure": "129 ngày",
+      "position": "Quyền Bộ trưởng Bộ Y tế",
+      "notes": "Bị cách chức, khai trừ khỏi Đảng. 18 năm tù do nhận hối lộ"
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1969-nay)",
+      "no": "13",
+      "name": "GS. Tiến sĩ Nguyễn Thanh Long (sinh 1966)",
+      "start": "12 tháng 11 năm 2020",
+      "end": "7 tháng 6 năm 2022",
+      "tenure": "1 năm, 207 ngày",
+      "position": "Bộ trưởng Bộ Y tế",
+      "notes": "Bị cách chức, khai trừ khỏi Đảng. 18 năm tù do nhận hối lộ"
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1969-nay)",
+      "no": "-",
+      "name": "Đỗ Xuân Tuyên (sinh 1966)",
+      "start": "7 tháng 6 năm 2022",
+      "end": "15 tháng 7 năm 2022",
+      "tenure": "38 ngày",
+      "position": "Thứ trưởng Thường trực phụ trách Bộ Y tế",
+      "notes": ""
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1969-nay)",
+      "no": "-",
+      "name": "ThS. Kinh tế Đào Hồng Lan (sinh 1971)",
+      "start": "15 tháng 7 năm 2022",
+      "end": "21 tháng 10 năm 2022",
+      "tenure": "98 ngày",
+      "position": "Quyền Bộ trưởng Bộ Y tế",
+      "notes": "Nữ Bộ trưởng Bộ Y tế đầu tiên không xuất phát từ ngành Y."
+    },
+    {
+      "period": "Bộ trưởng Bộ Y tế (1969-nay)",
+      "no": "14",
+      "name": "ThS. Kinh tế Đào Hồng Lan (sinh 1971)",
+      "start": "21 tháng 10 năm 2022",
+      "end": "nay",
+      "tenure": "4 năm, 2 ngày",
+      "position": "Bộ trưởng Bộ Y tế",
+      "notes": "Nữ Bộ trưởng Bộ Y tế đầu tiên không xuất phát từ ngành Y."
+    }
+  ],
+  "meta": {
+    "title": "Danh sách Bộ trưởng Bộ Y tế Việt Nam - Free Download",
+    "description": "Các Bộ trưởng Bộ Y tế Việt Nam qua các thời kỳ từ năm 1945 đến nay, kèm nhiệm kỳ và chức vụ. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách Bộ trưởng Bộ Y tế Việt Nam | ListBase",
+    "seo_description": "Download Danh sách Bộ trưởng Bộ Y tế Việt Nam — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/B%E1%BB%99_tr%C6%B0%E1%BB%9Fng_B%E1%BB%99_Y_t%E1%BA%BF_%28Vi%E1%BB%87t_Nam%29"
+    ]
+  }
+}

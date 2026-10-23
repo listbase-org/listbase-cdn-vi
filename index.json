@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-23T02:09:19.356Z",
-  "total_datasets": 487,
-  "total_records": 117388,
+  "generated": "2026-10-23T02:09:21.651Z",
+  "total_datasets": 488,
+  "total_records": 117411,
   "categories": [
     {
       "id": "agriculture",
@@ -35,6 +35,10 @@
     {
       "id": "geography",
       "dataset_count": 40
+    },
+    {
+      "id": "health",
+      "dataset_count": 1
     },
     {
       "id": "history",
@@ -2279,6 +2283,35 @@
         "xlsx": {
           "name": "vi-vuon-quoc-gia_VI.xlsx",
           "size": 9975
+        }
+      }
+    },
+    {
+      "id": "vi-bo-truong-bo-y-te",
+      "name": "Danh sách Bộ trưởng Bộ Y tế Việt Nam",
+      "category": "health",
+      "record_count": 23,
+      "columns": [
+        "period",
+        "no",
+        "name",
+        "start",
+        "end",
+        "tenure",
+        "position",
+        "notes"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/B%E1%BB%99_tr%C6%B0%E1%BB%9Fng_B%E1%BB%99_Y_t%E1%BA%BF_%28Vi%E1%BB%87t_Nam%29",
+      "updated": "2026-10",
+      "size": 10653,
+      "files": {
+        "csv": {
+          "name": "vi-bo-truong-bo-y-te_VI.csv",
+          "size": 5413
+        },
+        "xlsx": {
+          "name": "vi-bo-truong-bo-y-te_VI.xlsx",
+          "size": 8849
         }
       }
     },
