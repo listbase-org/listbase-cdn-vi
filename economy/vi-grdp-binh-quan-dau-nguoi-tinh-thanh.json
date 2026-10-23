@@ -1,0 +1,424 @@
+{
+  "id": "vi-grdp-binh-quan-dau-nguoi-tinh-thanh",
+  "name": "Danh sách 63 tỉnh thành Việt Nam theo GRDP bình quân đầu người",
+  "title": "Danh sách 63 tỉnh thành Việt Nam theo GRDP bình quân đầu người",
+  "description": "GRDP bình quân đầu người của 63 tỉnh, thành phố Việt Nam (triệu VNĐ và USD/người/năm, dựa theo số dân năm 2022).",
+  "category": "economy",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%91%C6%A1n_v%E1%BB%8B_h%C3%A0nh_ch%C3%ADnh_Vi%E1%BB%87t_Nam_theo_GRDP_b%C3%ACnh_qu%C3%A2n_%C4%91%E1%BA%A7u_ng%C6%B0%E1%BB%9Di",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%91%C6%A1n_v%E1%BB%8B_h%C3%A0nh_ch%C3%ADnh_Vi%E1%BB%87t_Nam_theo_GRDP_b%C3%ACnh_qu%C3%A2n_%C4%91%E1%BA%A7u_ng%C6%B0%E1%BB%9Di",
+  "updated": "2026-10",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "grdp_per_capita_million_vnd",
+      "label": "Grdp Per Capita Million Vnd",
+      "type": "string"
+    },
+    {
+      "key": "grdp_per_capita_usd",
+      "label": "Grdp Per Capita Usd",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "stt": "1",
+      "province": "Bà Rịa – Vũng Tàu",
+      "grdp_per_capita_million_vnd": "335,47",
+      "grdp_per_capita_usd": "14.228"
+    },
+    {
+      "stt": "2",
+      "province": "Quảng Ninh",
+      "grdp_per_capita_million_vnd": "198,78",
+      "grdp_per_capita_usd": "8.490"
+    },
+    {
+      "stt": "3",
+      "province": "Hải Phòng",
+      "grdp_per_capita_million_vnd": "173,93",
+      "grdp_per_capita_usd": "7.517"
+    },
+    {
+      "stt": "4",
+      "province": "Bình Dương",
+      "grdp_per_capita_million_vnd": "164,95",
+      "grdp_per_capita_usd": "7.339"
+    },
+    {
+      "stt": "5",
+      "province": "Bắc Ninh",
+      "grdp_per_capita_million_vnd": "163,82",
+      "grdp_per_capita_usd": "7.450"
+    },
+    {
+      "stt": "6",
+      "province": "Thành phố Hồ Chí Minh",
+      "grdp_per_capita_million_vnd": "157,54",
+      "grdp_per_capita_usd": "6.890"
+    },
+    {
+      "stt": "7",
+      "province": "Hà Nội",
+      "grdp_per_capita_million_vnd": "141,94",
+      "grdp_per_capita_usd": "6.093"
+    },
+    {
+      "stt": "8",
+      "province": "Đồng Nai",
+      "grdp_per_capita_million_vnd": "132,98",
+      "grdp_per_capita_usd": "5.741"
+    },
+    {
+      "stt": "9",
+      "province": "Vĩnh Phúc",
+      "grdp_per_capita_million_vnd": "127,80",
+      "grdp_per_capita_usd": "5.494"
+    },
+    {
+      "stt": "10",
+      "province": "Thái Nguyên",
+      "grdp_per_capita_million_vnd": "111,65",
+      "grdp_per_capita_usd": "4.831"
+    },
+    {
+      "stt": "11",
+      "province": "Hưng Yên",
+      "grdp_per_capita_million_vnd": "101,80",
+      "grdp_per_capita_usd": "4.396"
+    },
+    {
+      "stt": "12",
+      "province": "Đà Nẵng",
+      "grdp_per_capita_million_vnd": "101,41",
+      "grdp_per_capita_usd": "4.409"
+    },
+    {
+      "stt": "13",
+      "province": "Quảng Ngãi",
+      "grdp_per_capita_million_vnd": "97,40",
+      "grdp_per_capita_usd": "4.197"
+    },
+    {
+      "stt": "14",
+      "province": "Long An",
+      "grdp_per_capita_million_vnd": "90,16",
+      "grdp_per_capita_usd": "3.874"
+    },
+    {
+      "stt": "15",
+      "province": "Lào Cai",
+      "grdp_per_capita_million_vnd": "87,80",
+      "grdp_per_capita_usd": "3.790"
+    },
+    {
+      "stt": "16",
+      "province": "Hải Dương",
+      "grdp_per_capita_million_vnd": "87,25",
+      "grdp_per_capita_usd": "3.734"
+    },
+    {
+      "stt": "17",
+      "province": "Hà Nam",
+      "grdp_per_capita_million_vnd": "86,54",
+      "grdp_per_capita_usd": "3.739"
+    },
+    {
+      "stt": "18",
+      "province": "Cần Thơ",
+      "grdp_per_capita_million_vnd": "85,96",
+      "grdp_per_capita_usd": "3.697"
+    },
+    {
+      "stt": "19",
+      "province": "Tây Ninh",
+      "grdp_per_capita_million_vnd": "85,76",
+      "grdp_per_capita_usd": "3.701"
+    },
+    {
+      "stt": "20",
+      "province": "Bình Phước",
+      "grdp_per_capita_million_vnd": "85,38",
+      "grdp_per_capita_usd": "3.657"
+    },
+    {
+      "stt": "21",
+      "province": "Bắc Giang",
+      "grdp_per_capita_million_vnd": "82,33",
+      "grdp_per_capita_usd": "3.542"
+    },
+    {
+      "stt": "22",
+      "province": "Ninh Bình",
+      "grdp_per_capita_million_vnd": "80,86",
+      "grdp_per_capita_usd": "3.481"
+    },
+    {
+      "stt": "23",
+      "province": "Ninh Thuận",
+      "grdp_per_capita_million_vnd": "77,62",
+      "grdp_per_capita_usd": "3.300"
+    },
+    {
+      "stt": "24",
+      "province": "Bình Thuận",
+      "grdp_per_capita_million_vnd": "77,58",
+      "grdp_per_capita_usd": "3.320"
+    },
+    {
+      "stt": "25",
+      "province": "Lâm Đồng",
+      "grdp_per_capita_million_vnd": "77,35",
+      "grdp_per_capita_usd": "3.338"
+    },
+    {
+      "stt": "26",
+      "province": "Khánh Hòa",
+      "grdp_per_capita_million_vnd": "76,68",
+      "grdp_per_capita_usd": "3.305"
+    },
+    {
+      "stt": "27",
+      "province": "Quảng Nam",
+      "grdp_per_capita_million_vnd": "76,64",
+      "grdp_per_capita_usd": "3.292"
+    },
+    {
+      "stt": "28",
+      "province": "Bình Định",
+      "grdp_per_capita_million_vnd": "70,70",
+      "grdp_per_capita_usd": "3.038"
+    },
+    {
+      "stt": "29",
+      "province": "Trà Vinh",
+      "grdp_per_capita_million_vnd": "70,33",
+      "grdp_per_capita_usd": "3.054"
+    },
+    {
+      "stt": "30",
+      "province": "Hà Tĩnh",
+      "grdp_per_capita_million_vnd": "69,69",
+      "grdp_per_capita_usd": "3.128"
+    },
+    {
+      "stt": "31",
+      "province": "Thanh Hóa",
+      "grdp_per_capita_million_vnd": "67,81",
+      "grdp_per_capita_usd": "2.917"
+    },
+    {
+      "stt": "32",
+      "province": "Hậu Giang",
+      "grdp_per_capita_million_vnd": "66,60",
+      "grdp_per_capita_usd": "2.832"
+    },
+    {
+      "stt": "33",
+      "province": "Kiên Giang",
+      "grdp_per_capita_million_vnd": "66,37",
+      "grdp_per_capita_usd": "2.846"
+    },
+    {
+      "stt": "34",
+      "province": "Vĩnh Long",
+      "grdp_per_capita_million_vnd": "66,14",
+      "grdp_per_capita_usd": "2.965"
+    },
+    {
+      "stt": "35",
+      "province": "Hoà Bình",
+      "grdp_per_capita_million_vnd": "64,74",
+      "grdp_per_capita_usd": "2.832"
+    },
+    {
+      "stt": "36",
+      "province": "Tiền Giang",
+      "grdp_per_capita_million_vnd": "63,30",
+      "grdp_per_capita_usd": "2.796"
+    },
+    {
+      "stt": "37",
+      "province": "Quảng Trị",
+      "grdp_per_capita_million_vnd": "62,74",
+      "grdp_per_capita_usd": "2.700"
+    },
+    {
+      "stt": "38",
+      "province": "Đồng Tháp",
+      "grdp_per_capita_million_vnd": "62,00",
+      "grdp_per_capita_usd": "2.678"
+    },
+    {
+      "stt": "39",
+      "province": "Cà Mau",
+      "grdp_per_capita_million_vnd": "61,80",
+      "grdp_per_capita_usd": "2.617"
+    },
+    {
+      "stt": "40",
+      "province": "Thái Bình",
+      "grdp_per_capita_million_vnd": "59,80",
+      "grdp_per_capita_usd": "2.531"
+    },
+    {
+      "stt": "41",
+      "province": "Đắk Nông",
+      "grdp_per_capita_million_vnd": "59,6",
+      "grdp_per_capita_usd": "2.562"
+    },
+    {
+      "stt": "42",
+      "province": "Phú Thọ",
+      "grdp_per_capita_million_vnd": "59,34",
+      "grdp_per_capita_usd": "2.532"
+    },
+    {
+      "stt": "43",
+      "province": "Bạc Liêu",
+      "grdp_per_capita_million_vnd": "59,24",
+      "grdp_per_capita_usd": "2.605"
+    },
+    {
+      "stt": "44",
+      "province": "Phú Yên",
+      "grdp_per_capita_million_vnd": "57,96",
+      "grdp_per_capita_usd": "2.475"
+    },
+    {
+      "stt": "45",
+      "province": "Huế",
+      "grdp_per_capita_million_vnd": "56,72",
+      "grdp_per_capita_usd": "2.449"
+    },
+    {
+      "stt": "46",
+      "province": "Đắk Lắk",
+      "grdp_per_capita_million_vnd": "55,61",
+      "grdp_per_capita_usd": "2.437"
+    },
+    {
+      "stt": "47",
+      "province": "Sóc Trăng",
+      "grdp_per_capita_million_vnd": "54,77",
+      "grdp_per_capita_usd": "2.357"
+    },
+    {
+      "stt": "48",
+      "province": "Quảng Bình",
+      "grdp_per_capita_million_vnd": "54,71",
+      "grdp_per_capita_usd": "2.356"
+    },
+    {
+      "stt": "49",
+      "province": "Gia Lai",
+      "grdp_per_capita_million_vnd": "53,45",
+      "grdp_per_capita_usd": "2.353"
+    },
+    {
+      "stt": "50",
+      "province": "An Giang",
+      "grdp_per_capita_million_vnd": "53,34",
+      "grdp_per_capita_usd": "2.316"
+    },
+    {
+      "stt": "51",
+      "province": "Kon Tum",
+      "grdp_per_capita_million_vnd": "53,15",
+      "grdp_per_capita_usd": "2.253"
+    },
+    {
+      "stt": "52",
+      "province": "Lạng Sơn",
+      "grdp_per_capita_million_vnd": "51,71",
+      "grdp_per_capita_usd": "2.223"
+    },
+    {
+      "stt": "53",
+      "province": "Nghệ An",
+      "grdp_per_capita_million_vnd": "51,37",
+      "grdp_per_capita_usd": "2.210"
+    },
+    {
+      "stt": "54",
+      "province": "Tuyên Quang",
+      "grdp_per_capita_million_vnd": "51,16",
+      "grdp_per_capita_usd": "2.217"
+    },
+    {
+      "stt": "55",
+      "province": "Bến Tre",
+      "grdp_per_capita_million_vnd": "49,05",
+      "grdp_per_capita_usd": "2.106"
+    },
+    {
+      "stt": "56",
+      "province": "Nam Định",
+      "grdp_per_capita_million_vnd": "48,98",
+      "grdp_per_capita_usd": "2.106"
+    },
+    {
+      "stt": "57",
+      "province": "Sơn La",
+      "grdp_per_capita_million_vnd": "48,55",
+      "grdp_per_capita_usd": "2.132"
+    },
+    {
+      "stt": "58",
+      "province": "Yên Bái",
+      "grdp_per_capita_million_vnd": "47,50",
+      "grdp_per_capita_usd": "2.039"
+    },
+    {
+      "stt": "59",
+      "province": "Lai Châu",
+      "grdp_per_capita_million_vnd": "47,47",
+      "grdp_per_capita_usd": "2.125"
+    },
+    {
+      "stt": "60",
+      "province": "Bắc Kạn",
+      "grdp_per_capita_million_vnd": "46,90",
+      "grdp_per_capita_usd": "1.989"
+    },
+    {
+      "stt": "61",
+      "province": "Điện Biên",
+      "grdp_per_capita_million_vnd": "39,70",
+      "grdp_per_capita_usd": "1.706"
+    },
+    {
+      "stt": "62",
+      "province": "Cao Bằng",
+      "grdp_per_capita_million_vnd": "39,57",
+      "grdp_per_capita_usd": "1.712"
+    },
+    {
+      "stt": "63",
+      "province": "Hà Giang",
+      "grdp_per_capita_million_vnd": "33,54",
+      "grdp_per_capita_usd": "1.474"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách 63 tỉnh thành Việt Nam theo GRDP bình quân đầu người - Free Download",
+    "description": "GRDP bình quân đầu người của 63 tỉnh, thành phố Việt Nam (triệu VNĐ và USD/người/năm, dựa theo số dân năm 2022). Contains 63 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách 63 tỉnh thành Việt Nam theo GRDP bình quân đầu người | ListBase",
+    "seo_description": "Download Danh sách 63 tỉnh thành Việt Nam theo GRDP bình quân đầu người — 63 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 63 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%91%C6%A1n_v%E1%BB%8B_h%C3%A0nh_ch%C3%ADnh_Vi%E1%BB%87t_Nam_theo_GRDP_b%C3%ACnh_qu%C3%A2n_%C4%91%E1%BA%A7u_ng%C6%B0%E1%BB%9Di"
+    ]
+  }
+}

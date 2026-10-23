@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-23T02:09:07.286Z",
-  "total_datasets": 482,
-  "total_records": 117175,
+  "generated": "2026-10-23T02:09:09.684Z",
+  "total_datasets": 483,
+  "total_records": 117238,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -449,6 +449,31 @@
         "xlsx": {
           "name": "vi-rap-chieu-phim_VI.xlsx",
           "size": 7726
+        }
+      }
+    },
+    {
+      "id": "vi-grdp-binh-quan-dau-nguoi-tinh-thanh",
+      "name": "Danh sách 63 tỉnh thành Việt Nam theo GRDP bình quân đầu người",
+      "category": "economy",
+      "record_count": 63,
+      "columns": [
+        "stt",
+        "province",
+        "grdp_per_capita_million_vnd",
+        "grdp_per_capita_usd"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%91%C6%A1n_v%E1%BB%8B_h%C3%A0nh_ch%C3%ADnh_Vi%E1%BB%87t_Nam_theo_GRDP_b%C3%ACnh_qu%C3%A2n_%C4%91%E1%BA%A7u_ng%C6%B0%E1%BB%9Di",
+      "updated": "2026-10",
+      "size": 11571,
+      "files": {
+        "csv": {
+          "name": "vi-grdp-binh-quan-dau-nguoi-tinh-thanh_VI.csv",
+          "size": 2274
+        },
+        "xlsx": {
+          "name": "vi-grdp-binh-quan-dau-nguoi-tinh-thanh_VI.xlsx",
+          "size": 9134
         }
       }
     },
