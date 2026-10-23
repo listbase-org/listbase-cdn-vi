@@ -1,0 +1,1857 @@
+{
+  "id": "vi-bao-chi",
+  "name": "Danh sách báo chí Việt Nam",
+  "title": "Danh sách báo chí Việt Nam",
+  "description": "Danh sách các tờ báo, tạp chí tại Việt Nam theo lĩnh vực, kèm cơ quan chủ quản và trang web.",
+  "category": "society",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_b%C3%A1o_ch%C3%AD_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_b%C3%A1o_ch%C3%AD_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 258,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "publisher",
+      "label": "Publisher",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "field",
+      "label": "Field",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Báo Ảnh Việt Nam",
+      "publisher": "Thông tấn xã Việt Nam",
+      "website": "https://vietnam.vnanet.vn/",
+      "field": "Tin tức – Tổng hợp",
+      "notes": ""
+    },
+    {
+      "name": "Báo Lao động",
+      "publisher": "Tổng Liên đoàn Lao động Việt Nam",
+      "website": "https://laodong.vn/",
+      "field": "Tin tức – Tổng hợp",
+      "notes": ""
+    },
+    {
+      "name": "Báo Nhân Dân",
+      "publisher": "Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam",
+      "website": "https://nhandan.vn/",
+      "field": "Tin tức – Tổng hợp",
+      "notes": ""
+    },
+    {
+      "name": "Báo Đại biểu nhân dân",
+      "publisher": "Văn phòng Quốc hội",
+      "website": "https://daibieunhandan.vn/",
+      "field": "Tin tức – Tổng hợp",
+      "notes": ""
+    },
+    {
+      "name": "Báo Người lao động",
+      "publisher": "Thành ủy Thành phố Hồ Chí Minh",
+      "website": "https://nld.com.vn/",
+      "field": "Tin tức – Tổng hợp",
+      "notes": ""
+    },
+    {
+      "name": "Báo Tin tức và Dân tộc",
+      "publisher": "Thông tấn xã Việt Nam",
+      "website": "https://baotintuc.vn/",
+      "field": "Tin tức – Tổng hợp",
+      "notes": ""
+    },
+    {
+      "name": "Báo VietNamNet",
+      "publisher": "Bộ Dân tộc và Tôn giáo",
+      "website": "https://vietnamnet.vn/",
+      "field": "Tin tức – Tổng hợp",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Cộng sản",
+      "publisher": "Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam",
+      "website": "https://tapchicongsan.org.vn/",
+      "field": "Tin tức – Tổng hợp",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Lao động và Công đoàn",
+      "publisher": "Tổng Liên đoàn Lao động Việt Nam",
+      "website": "https://laodongcongdoan.vn",
+      "field": "Tin tức – Tổng hợp",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Văn hiến",
+      "publisher": "Viện nghiên cứu bảo tồn và phát huy văn hóa dân tộc",
+      "website": "http://vanhienplus.vn/",
+      "field": "Tin tức – Tổng hợp",
+      "notes": ""
+    },
+    {
+      "name": "Việt Nam News",
+      "publisher": "Thông tấn xã Việt Nam",
+      "website": "https://vietnamnews.vn/",
+      "field": "Tin tức – Tổng hợp",
+      "notes": ""
+    },
+    {
+      "name": "Le Courrier du Vietnam",
+      "publisher": "Thông tấn xã Việt Nam",
+      "website": "https://lecourrier.vn/",
+      "field": "Tin tức – Tổng hợp",
+      "notes": ""
+    },
+    {
+      "name": "Báo Biên phòng",
+      "publisher": "Bộ Tư lệnh Bộ đội Biên phòng",
+      "website": "https://bienphong.com.vn/",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Báo Công an nhân dân",
+      "publisher": "Bộ Công an",
+      "website": "http://cand.com.vn/",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Báo Hải quân Việt Nam",
+      "publisher": "Bộ Tư lệnh Quân chủng Hải quân",
+      "website": "https://baohaiquanvietnam.vn/",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Báo Phòng không – Không quân",
+      "publisher": "Bộ Tư lệnh Quân chủng Phòng không – Không quân",
+      "website": "http://phongkhongkhongquan.vn/",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Báo Quân đội nhân dân",
+      "publisher": "Tổng cục Chính trị Quân đội nhân dân Việt Nam",
+      "website": "https://qdnd.vn/",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Báo Quân khu 1",
+      "publisher": "Bộ Tư lệnh Quân khu 1",
+      "website": "https://baoquankhu1.vn/",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Báo Quân khu 2",
+      "publisher": "Bộ Tư lệnh Quân khu 2",
+      "website": "http://quankhu2.vn/ Lưu trữ ngày 14 tháng 12 năm 2015 tại Wayback Machine",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Báo Quân khu 3",
+      "publisher": "Bộ Tư lệnh Quân khu 3",
+      "website": "http://quankhu3.vn/",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Báo Quân khu 4",
+      "publisher": "Bộ Tư lệnh Quân khu 4",
+      "website": "http://baoquankhu4.com.vn/",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Báo Quân khu 5",
+      "publisher": "Bộ Tư lệnh Quân khu 5",
+      "website": "http://baoquankhu5.vn/",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Báo Quân khu 7",
+      "publisher": "Bộ Tư lệnh Quân khu 7",
+      "website": "https://baoquankhu7.vn/",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Báo Quân khu 9",
+      "publisher": "Bộ Tư lệnh Quân khu 9",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Báo Quốc phòng Thủ đô",
+      "publisher": "Bộ Tư lệnh Thủ đô Hà Nội",
+      "website": "http://quocphongthudo.vn/",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Cảnh sát nhân dân",
+      "publisher": "Học viện Cảnh sát nhân dân",
+      "website": "http://csnd.vn/ Lưu trữ ngày 8 tháng 5 năm 2021 tại Wayback Machine",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Công an nhân dân",
+      "publisher": "Bộ Công an",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Công nghiệp Quốc phòng và Kinh tế",
+      "publisher": "Tổng cục Công nghiệp Quốc phòng",
+      "website": "http://tapchi.vdi.org.vn/ Lưu trữ ngày 23 tháng 5 năm 2021 tại Wayback Machine",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Giáo dục lý luận Chính trị Quân sự",
+      "publisher": "Học viện Chính trị",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Hải quân",
+      "publisher": "Bộ Tư lệnh Quân chủng Hải quân",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Hậu cần Quân đội",
+      "publisher": "Tổng cục Hậu cần, Quân đội nhân dân Việt Nam",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học Biên phòng",
+      "publisher": "Bộ Tư lệnh Biên phòng",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học Giáo dục Biên phòng",
+      "publisher": "Học viện Biên phòng",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học Quân sự Lục quân",
+      "publisher": "Trường Sĩ quan Lục quân 1",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Kiến thức Quốc phòng hiện đại",
+      "publisher": "Tổng cục Tình báo, Quân đội nhân dân Việt Nam",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học và Chiến thuật",
+      "publisher": "Trường Sĩ quan Lục quân 2",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học và Giáo dục An ninh",
+      "publisher": "Học viện An ninh nhân dân",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học và Giáo dục CSND",
+      "publisher": "Trường đại học An ninh nhân dân",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học và Giáo dục Phòng cháy chữa cháy",
+      "publisher": "Trường đại học Phòng cháy chữa cháy",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học và Giáo dục trật tự Xã hội",
+      "publisher": "Học viện Cảnh sát nhân dân",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học và Kỹ thuật",
+      "publisher": "Học viện Kỹ thuật Quân sự",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Kỹ thuật và Trang bị",
+      "publisher": "Tổng cục Kỹ thuật, Quân đội nhân dân Việt Nam",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Lịch sử Quân sự",
+      "publisher": "Viện Lịch sử Quân sự",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nghệ thuật Quân sự Việt Nam",
+      "publisher": "Học viện Quốc phòng",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nghiên cứu Chiến thuật chiến dịch",
+      "publisher": "Học viện Lục quân",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nghiên cứu khoa học Hậu cần Quân sự",
+      "publisher": "Học viện Hậu cần",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nghiên cứu Khoa học và Công nghệ Quân sự",
+      "publisher": "Viện Khoa học và Công nghệ Quân sự",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Phòng không – Không quân",
+      "publisher": "Bộ Tư lệnh Quân chủng Phòng không – Không quân",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Quan hệ quốc phòng",
+      "publisher": "Viện Quan hệ về Quốc phòng",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Quốc phòng toàn dân",
+      "publisher": "Tổng cục chính trị Quân đội nhân dân Việt Nam",
+      "website": "http://tapchiqptd.vn/ Lưu trữ ngày 7 tháng 12 năm 2018 tại Wayback Machine",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Văn nghệ Quân đội",
+      "publisher": "Tổng cục Chính trị Quân đội nhân dân Việt Nam",
+      "website": "http://vannghequandoi.com.vn/",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Y học Quân sự",
+      "publisher": "Viện Y học dự phòng Quân đội, Cục Quân y, Quân đội nhân dân Việt Nam",
+      "website": "http://yhqs.vn/",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Y dược Lâm sàng 108",
+      "publisher": "Bệnh viện Trung ương Quân đội 108",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Y dược học Quân sự",
+      "publisher": "Học viện Quân y",
+      "website": "",
+      "field": "An ninh – Quốc phòng",
+      "notes": ""
+    },
+    {
+      "name": "Báo Công an TP. HCM",
+      "publisher": "Công an TP. HCM",
+      "website": "",
+      "field": "Trước đây",
+      "notes": "Hiện đã sáp nhập vào Báo Công an Nhân dân"
+    },
+    {
+      "name": "Báo Bảo vệ pháp luật",
+      "publisher": "Viện Kiểm sát nhân dân Tối cao",
+      "website": "https://baovephapluat.vn/",
+      "field": "Pháp luật – Tư pháp",
+      "notes": ""
+    },
+    {
+      "name": "Báo Công lý",
+      "publisher": "Tòa án nhân dân Tối cao",
+      "website": "https://congly.vn/",
+      "field": "Pháp luật – Tư pháp",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Đời sống và Pháp luật",
+      "publisher": "Hội Luật gia Việt Nam",
+      "website": "https://nguoiduatin.vn",
+      "field": "Pháp luật – Tư pháp",
+      "notes": ""
+    },
+    {
+      "name": "Báo Pháp luật Việt Nam",
+      "publisher": "Bộ Tư pháp",
+      "website": "https://baophapluat.vn/",
+      "field": "Pháp luật – Tư pháp",
+      "notes": ""
+    },
+    {
+      "name": "Báo Pháp luật TP.HCM",
+      "publisher": "Ủy ban nhân dân Thành phố Hồ Chí Minh",
+      "website": "https://plo.vn/",
+      "field": "Pháp luật – Tư pháp",
+      "notes": ""
+    },
+    {
+      "name": "Báo Thanh tra",
+      "publisher": "Thanh tra Chính phủ",
+      "website": "https://thanhtra.com.vn/",
+      "field": "Pháp luật – Tư pháp",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Dân chủ và Pháp luật",
+      "publisher": "Bộ Tư pháp",
+      "website": "https://tcdcpl.moj.gov.vn/",
+      "field": "Pháp luật – Tư pháp",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Kiểm sát",
+      "publisher": "Viện Kiểm sát nhân dân Tối cao",
+      "website": "https://kiemsat.vn",
+      "field": "Pháp luật – Tư pháp",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Luật học",
+      "publisher": "Đại học Luật Hà Nội",
+      "website": "https://tapchi.hlu.edu.vn/",
+      "field": "Pháp luật – Tư pháp",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nghề luật",
+      "publisher": "Học viện Tư pháp",
+      "website": "",
+      "field": "Pháp luật – Tư pháp",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nghiên cứu lập pháp",
+      "publisher": "Văn phòng Quốc hội",
+      "website": "http://lapphap.vn/ Lưu trữ ngày 28 tháng 9 năm 2022 tại Wayback Machine",
+      "field": "Pháp luật – Tư pháp",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Pháp luật và Phát triển",
+      "publisher": "Viện nghiên cứu Pháp luật và Kinh tế ASEAN",
+      "website": "https://phapluatphattrien.vn/ Lưu trữ ngày 23 tháng 5 năm 2021 tại Wayback Machine",
+      "field": "Pháp luật – Tư pháp",
+      "notes": "Năm 2020, chuyển đổi cơ quan chủ quản từ Hội Luật gia Việt Nam sang Viện nghiên cứu Pháp luật và Kinh tế ASEAN để thực hiện QHBC"
+    },
+    {
+      "name": "Tạp chí Pháp lý",
+      "publisher": "Viện Khoa học Pháp lý và Kinh doanh Quốc tế (IBLA), Hội Luật gia Việt Nam",
+      "website": "https://phaply.net.vn/",
+      "field": "Pháp luật – Tư pháp",
+      "notes": "Năm 2020, chuyển đổi cơ quan chủ quản từ Hội Luật gia Việt Nam sang Viện Khoa học Pháp lý và Kinh doanh Quốc tế để thực hiện QHBC"
+    },
+    {
+      "name": "Tạp chí Tòa án",
+      "publisher": "Tòa án nhân dân Tối cao",
+      "website": "https://tapchitoaan.vn/",
+      "field": "Pháp luật – Tư pháp",
+      "notes": ""
+    },
+    {
+      "name": "Đặc san Bạch dương",
+      "publisher": "Hội hữu nghị Việt – Nga",
+      "website": "",
+      "field": "Chính trị – Hành chính – Đối ngoại",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Giáo dục lý luận",
+      "publisher": "Học viện Chính trị khu vực I",
+      "website": "",
+      "field": "Chính trị – Hành chính – Đối ngoại",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học Chính trị",
+      "publisher": "Học viện Chính trị khu vực II",
+      "website": "",
+      "field": "Chính trị – Hành chính – Đối ngoại",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Lịch sử Đảng",
+      "publisher": "Viện Lịch sử Đảng, Học viện Chính trị Quốc gia Hồ Chí Minh",
+      "website": "",
+      "field": "Chính trị – Hành chính – Đối ngoại",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Lý luận Chính trị",
+      "publisher": "Học viện Chính trị Quốc gia Hồ Chí Minh",
+      "website": "http://lyluanchinhtri.vn/",
+      "field": "Chính trị – Hành chính – Đối ngoại",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Lý luận Chính trị và Truyền thông",
+      "publisher": "Học viện Báo chí và Tuyên truyền",
+      "website": "https://lyluanchinhtrivatruyenthong.vn/",
+      "field": "Chính trị – Hành chính – Đối ngoại",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Chính trị và Phát triển",
+      "publisher": "Nhà xuất bản Chính trị quốc gia – Sự thật",
+      "website": "http://chinhtrivaphattrien.vn/",
+      "field": "Chính trị – Hành chính – Đối ngoại",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Sinh hoạt lý luận",
+      "publisher": "Học viện Chính trị khu vực III",
+      "website": "",
+      "field": "Chính trị – Hành chính – Đối ngoại",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Quản lý Nhà nước",
+      "publisher": "Học viện Hành chính và Quản trị công",
+      "website": "",
+      "field": "Chính trị – Hành chính – Đối ngoại",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Việt – Mỹ",
+      "publisher": "Hội Việt – Mỹ",
+      "website": "https://vietmy.net.vn/",
+      "field": "Chính trị – Hành chính – Đối ngoại",
+      "notes": ""
+    },
+    {
+      "name": "Báo Thế giới và Việt Nam",
+      "publisher": "Bộ Ngoại giao Việt Nam",
+      "website": "https://baoquocte.vn",
+      "field": "Chính trị – Hành chính – Đối ngoại",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nghiên cứu quốc tế",
+      "publisher": "Học viện Ngoại giao",
+      "website": "",
+      "field": "Chính trị – Hành chính – Đối ngoại",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Thời đại",
+      "publisher": "Liên hiệp các tổ chức hữu nghị Việt Nam",
+      "website": "https://thoidai.com.vn/",
+      "field": "Chính trị – Hành chính – Đối ngoại",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Vận tải ô tô",
+      "publisher": "Hiệp hội Vận tải ô tô Việt Nam",
+      "website": "https://banduong.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Báo Công Thương",
+      "publisher": "Bộ Công Thương",
+      "website": "https://congthuong.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Báo Tài chính - Đầu tư",
+      "publisher": "Bộ Tài chính",
+      "website": "https://thoibaotaichinhvietnam.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Diễn đàn doanh nghiệp",
+      "publisher": "Liên đoàn Thương mại và Công nghiệp Việt Nam",
+      "website": "https://diendandoanhnghiep.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": "Năm 2020, chuyển đổi từ báo thành tạp chí và sáp nhập với 3 tạp chí khác thuộc VCCI để thực hiện QHBC"
+    },
+    {
+      "name": "Tạp chí Kinh tế - Tài chính",
+      "publisher": "Bộ Tài chính",
+      "website": "https://tapchikinhtetaichinh.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Kinh doanh",
+      "publisher": "Liên minh Hợp tác xã Việt Nam",
+      "website": "https://vnbusiness.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Kinh tế nông thôn",
+      "publisher": "Hội Làm vườn Việt Nam",
+      "website": "https://kinhtenongthon.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Báo Nông nghiệp và Môi trường",
+      "publisher": "Bộ Nông nghiệp và Môi trường",
+      "website": "https://nongnghiepmoitruong.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Báo Nông thôn Ngày nay",
+      "publisher": "Hội Nông dân Việt Nam",
+      "website": "https://danviet.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Báo Xây dựng",
+      "publisher": "Bộ Xây dựng",
+      "website": "https://baoxaydung.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Môi trường",
+      "publisher": "Viện Chiến lược, Chính sách nông nghiệp và môi trường",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Bảo vệ thực vật",
+      "publisher": "Viện Bảo vệ thực vật",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Bất động sản Việt Nam",
+      "publisher": "Hiệp hội Bất động sản Việt Nam",
+      "website": "https://reatimes.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Biển và Bờ",
+      "publisher": "Hội Cảng Đường thủy Thềm lục địa Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Cầu đường Việt Nam",
+      "publisher": "Hội Khoa học Kỹ thuật Cầu đường Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Chăn nuôi",
+      "publisher": "Hội Chăn nuôi Việt Nam",
+      "website": "http://nhachannuoi.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Chế tạo máy Việt Nam",
+      "publisher": "Hiệp hội Doanh nghiệp Cơ khí Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Con đường xanh",
+      "publisher": "Hội Bảo vệ môi trường Giao thông vận tải",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Công nghiệp kỹ thuật Điện Việt Nam",
+      "publisher": "Hiệp hội Công nghiệp Kỹ thuật Điện Việt Nam",
+      "website": "http://www.velina.org/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Công nghiệp mỏ",
+      "publisher": "Hội Khoa học kỹ thuật Mỏ Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Công nghiệp tàu thủy Việt Nam",
+      "publisher": "Hội Khoa học công nghiệp tàu thủy",
+      "website": "http://congnghieptauthuyvietnam.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Công Thương",
+      "publisher": "Bộ Công Thương",
+      "website": "https://tapchicongthuong.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Cơ khí Việt Nam",
+      "publisher": "Hội Cơ khí Việt Nam",
+      "website": "http://cokhivietnam.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Dân tộc và Thời đại",
+      "publisher": "Hội Dân tộc học Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nhà đầu tư",
+      "publisher": "Hiệp hội Doanh nghiệp Đầu tư nước ngoài",
+      "website": "https://nhadautu.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Doanh nghiệp và Hội nhập",
+      "publisher": "Hiệp hội Doanh nghiệp nhỏ và vừa Việt Nam",
+      "website": "https://doanhnghiephoinhap.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Doanh nghiệp và Thương hiệu nông thôn",
+      "publisher": "Hiệp hội Doanh nghiệp nhỏ và vừa ngành nghề nông thôn Việt Nam",
+      "website": "http://doanhnghiepthuonghieu.vn/ Lưu trữ ngày 28 tháng 4 năm 2021 tại Wayback Machine",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Doanh nghiệp và Thương mại",
+      "publisher": "Hiệp hội công nghiệp hỗ trợ Việt Nam",
+      "website": "https://doanhnghiepvathuongmai.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Đại – Trực tràng học",
+      "publisher": "Hội Hậu môn trực tràng học Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Địa chất",
+      "publisher": "Viện Khoa học Địa chất và Khoáng sản",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Kinh doanh và Tiếp thị",
+      "publisher": "Viện Đào tạo, Tư vấn và Phát triển Kinh tế (IDE), Liên hiệp các Hội Khoa học và Kỹ thuật Việt Nam",
+      "website": "https://kinhdoanhvaphattrien.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Điện tử và Tin học",
+      "publisher": "Hiệp hội Doanh nghiệp Điện tử Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Điện và Đời sống",
+      "publisher": "Hội Điện lực Việt Nam",
+      "website": "http://dienvadoisong.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Đồ uống Việt Nam",
+      "publisher": "Hiệp hội rượu bia – nước giải khát Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Đông Nam Á",
+      "publisher": "Hội Nghiên cứu Đông Nam Á Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Đời mới",
+      "publisher": "Hội Người mù Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Thương hiệu và Sản phẩm",
+      "publisher": "Hội Khoa học các sản phẩm thiên nhiên Việt Nam",
+      "website": "https://thuonghieusanpham.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Hoá học và ứng dụng",
+      "publisher": "Hội Hóa học Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Hướng nghiệp và Hoà nhập",
+      "publisher": "Hiệp hội Doanh nghiệp của Thương binh và Người khuyết tật Việt Nam",
+      "website": "https://hoanhap.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí In và Truyền thông",
+      "publisher": "Hiệp hội In Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Kế toán",
+      "publisher": "Hội Kế toán Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khí tượng thủy văn",
+      "publisher": "Viện Khoa học Khí tượng Thủy văn và Biến đổi khí hậu",
+      "website": "http://tapchikttv.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học công nghệ Hàng hải",
+      "publisher": "Trường Đại học Hàng hải",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học công nghệ xây dựng",
+      "publisher": "Viện Khoa học Công nghệ Xây dựng, Bộ Xây dựng",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học Đất",
+      "publisher": "Hội Khoa học Đất Việt Nam",
+      "website": "http://tapchikhoahocdat.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học Đo đạc và Bản đồ",
+      "publisher": "Viện Nghiên cứu khoa học Đo đạc và Bản đồ",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học công nghệ chăn nuôi",
+      "publisher": "Hội Khoa học Công nghệ chăn nuôi Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học và công nghệ Nhiệt",
+      "publisher": "Hội Khoa học Kỹ thuật Nhiệt Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học và công nghệ nông nghiệp Việt Nam",
+      "publisher": "Viện Khoa học Nông nghiệp Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học và đào tạo ngân hàng",
+      "publisher": "Học viện Ngân hàng",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nghiên cứu khoa học Kiểm toán",
+      "publisher": "Kiểm toán Nhà nước",
+      "website": "http://www.khoahockiemtoan.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Kiến trúc Việt Nam",
+      "publisher": "Viện Kiến trúc, Quy hoạch đô thị và nông thôn, Bộ Xây dựng",
+      "website": "https://tapchikientruc.com.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Kinh tế châu Á – Thái Bình Dương",
+      "publisher": "Trung tâm kinh tế châu Á – Thái Bình Dương",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Kinh tế và Môi trường",
+      "publisher": "Hội Kinh tế môi trường Việt Nam",
+      "website": "https://kinhtemoitruong.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Doanh nghiệp và Tiếp thị",
+      "publisher": "Hội Marketing Việt Nam",
+      "website": "https://doanhnghieptiepthi.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": "Năm 2020, chuyển đổi từ báo thành tạp chí và thay đổi tên gọi từ Báo Kinh doanh và Pháp luật thành Tạp chí Doanh nghiệp và Tiếp thị để thực hiện QHBC"
+    },
+    {
+      "name": "Tạp chí Môi trường và cuộc sống",
+      "publisher": "Hội Nước và Môi trường Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Mỹ phẩm",
+      "publisher": "Hiệp hội tinh dầu hương liệu mỹ phẩm Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Năng lượng Việt Nam",
+      "publisher": "Hiệp hội Năng lượng Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nghiên cứu tài chính kế toán",
+      "publisher": "Học viện Tài chính",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Ngôn ngữ và đời sống",
+      "publisher": "Hội Ngôn ngữ học Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Người đô thị",
+      "publisher": "Viện nghiên cứu đô thị và phát triển hạ tầng",
+      "website": "https://nguoidothi.net.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Chất lượng và cuộc sống",
+      "publisher": "Hội Khoa học và Kỹ thuật về Tiêu chuẩn và Chất lượng Việt Nam",
+      "website": "https://chatluongvacuocsong.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": "Năm 2020, chuyển đổi từ báo thành tạp chí và thay đổi tên gọi từ Báo Người tiêu dùng thành Tạp chí Chất lượng và cuộc sống để thực hiện QHBC"
+    },
+    {
+      "name": "Tạp chí Nhà thầu và thị trường xây dựng",
+      "publisher": "Hiệp hội Nhà thầu Xây dựng Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nhịp cầu Đầu tư",
+      "publisher": "Hội liên lạc với người Việt Nam ở nước ngoài",
+      "website": "https://nhipcaudautu.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nông nghiệp và Môi trường",
+      "publisher": "Bộ Nông nghiệp và Môi trường",
+      "website": "http://nnmt.net.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Phân tích hoá lý và sinh học",
+      "publisher": "Hội Khoa học kỹ thuật phân tích hoá lý và sinh học Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Quê hương ngày nay",
+      "publisher": "Hiệp hội Phân bón Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Sở hữu trí tuệ và sáng tạo",
+      "publisher": "Hội Sở hữu Trí tuệ Việt Nam",
+      "website": "https://sohuutritue.net.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Tài chính doanh nghiệp",
+      "publisher": "Hội Tư vấn Thuế Việt Nam",
+      "website": "https://taichinhdoanhnghiep.net.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Tài chính – Bảo hiểm",
+      "publisher": "Hiệp hội Bảo hiểm Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Tem",
+      "publisher": "Hội Tem Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Than Việt Nam",
+      "publisher": "Tổng công ty Than Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Kinh tế và Đồ uống",
+      "publisher": "Hiệp hội Chè Việt Nam",
+      "website": "https://kinhtedouong.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Thế giới Di sản",
+      "publisher": "Hội Di sản Văn hoá Việt Nam",
+      "website": "http://thegioidisan.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Thế giới Vàng",
+      "publisher": "Hiệp hội Kinh doanh Vàng Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Thị trường tài chính tiền tệ",
+      "publisher": "Hiệp hội Ngân hàng Việt Nam",
+      "website": "http://thitruongtaichinhtiente.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Thời trang Vàng",
+      "publisher": "Hội Mỹ nghệ kim hoàn Việt Nam",
+      "website": "https://thoitrangvang.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Thủy sản Việt Nam",
+      "publisher": "Hội Thủy sản Việt Nam",
+      "website": "https://thuysanvietnam.com.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Thương mại hàng hải",
+      "publisher": "Hiệp hội Cảng biển Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Thương mại Thủy sản – Vietfish",
+      "publisher": "Hiệp hội Chế biến và Xuất khẩu Thủy sản Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Thương trường",
+      "publisher": "Hiệp hội các nhà bán lẻ Việt Nam",
+      "website": "https://thuongtruong.com.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Sức khỏe Trẻ em",
+      "publisher": "Hội Cứu trợ Trẻ em Tàn tật Việt Nam",
+      "website": "https://suckhoetreem.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Vật lý ngày nay",
+      "publisher": "Hội Vật lý Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Vật lý và tuổi trẻ",
+      "publisher": "Hội Vật lý Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Vietnam Logistics Review",
+      "publisher": "Hiệp hội Doanh nghiệp Dịch vụ Logistics Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Việt Nam hương sắc",
+      "publisher": "Hội Sinh vật cảnh Việt Nam",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Quy hoạch xây dựng",
+      "publisher": "Viện Kiến trúc, Quy hoạch đô thị nông thôn, Bộ Xây dựng",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Xây dựng",
+      "publisher": "Bộ Xây dựng",
+      "website": "https://tapchixaydung.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Xây dựng và Đô thị",
+      "publisher": "Học viện Cán bộ quản lý xây dựng và đô thị, Bộ Xây dựng",
+      "website": "",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Kinh tế Việt Nam",
+      "publisher": "Hội Khoa học Kinh tế Việt Nam",
+      "website": "https://vneconomy.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": "Năm 2020, chuyển đổi từ báo thành tạp chí để thực hiện QHBC"
+    },
+    {
+      "name": "Tạp chí Mekong - ASEAN",
+      "publisher": "Hội Phát triển Hợp tác Kinh tế Việt Nam – ASEAN",
+      "website": "https://mekongasean.vn",
+      "field": "Kinh tế – Tài chính",
+      "notes": "Năm 2020, chuyển đổi từ báo thành tạp chí để thực hiện QHBC"
+    },
+    {
+      "name": "Thời báo Ngân hàng",
+      "publisher": "Ngân hàng Nhà nước",
+      "website": "https://thoibaonganhang.vn/",
+      "field": "Kinh tế – Tài chính",
+      "notes": ""
+    },
+    {
+      "name": "Báo Dân trí",
+      "publisher": "Bộ Nội vụ",
+      "website": "https://dantri.com.vn",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí điện tử Sinh thái nông nghiệp",
+      "publisher": "Viện Nghiên cứu Công nghệ Hỗ trợ Nông nghiệp",
+      "website": "https://sinhthainongnghiep.net.vn/",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khảo cổ học",
+      "publisher": "Viện Khảo cổ học",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học Xã hội",
+      "publisher": "Viện Hàn lâm Khoa học Xã hội Việt Nam",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Tổ chức nhà nước và Lao động",
+      "publisher": "Bộ Nội vụ",
+      "website": "https://tcnnld.vn",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nghiên cứu Con người",
+      "publisher": "Viện Nghiên cứu Con người",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nghiên cứu Trung Quốc",
+      "publisher": "Viện Nghiên cứu Trung Quốc",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nghiên cứu Văn học",
+      "publisher": "Viện Văn học",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Ngôn ngữ",
+      "publisher": "Viện Ngôn ngữ học",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nhà nước và Pháp luật",
+      "publisher": "Viện Nhà nước và Pháp luật",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Văn hóa dân gian",
+      "publisher": "Viện Văn hóa",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Phát triển bền vững Vùng",
+      "publisher": "Viện Khoa học Xã hội Việt Nam",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Tâm lý học",
+      "publisher": "Viện Tâm lý học",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Những vấn đề Kinh tế thế giới",
+      "publisher": "Viện Khoa học Xã hội Việt Nam",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chi Nghiên cứu Kinh tế",
+      "publisher": "Viện Kinh tế Việt Nam",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nghiên cứu Đông Bắc Á",
+      "publisher": "Viện Nghiên cứu Đông Bắc Á",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chi Nghiên cứu Tôn giáo",
+      "publisher": "Viện Nghiên cứu Tôn giáo",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nghiên cứu Lịch sử",
+      "publisher": "Viện Sử học",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Dân tộc học",
+      "publisher": "Viện Dân tộc học",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Châu Mỹ ngày nay",
+      "publisher": "Viện Nghiên cứu Châu Mỹ",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Hán Nôm",
+      "publisher": "Viện Nghiên cứu Hán Nôm",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Thông tin Khoa học Xã hội",
+      "publisher": "Viện Khoa học Xã hội Việt Nam",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nghiên cứu Đông Nam Á",
+      "publisher": "Viện Đông Nam Á",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Triết học",
+      "publisher": "Viện Triết học",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Vietnam’s Socio – Economic Development",
+      "publisher": "Viện Kinh tế Việt Nam",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nghiên cứu châu Âu",
+      "publisher": "Viện Nghiên cứu Châu Âu",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Xã hội học",
+      "publisher": "Viện Xã hội học",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nghiên cứu Gia đình và Giới",
+      "publisher": "Viện Nghiên cứu Gia đình và Giới",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chi Khoa học Xã hội miền Trung",
+      "publisher": "Viện Khoa học Xã hội Việt Nam",
+      "website": "",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Tiếp thị và Gia đình",
+      "publisher": "Hiệp hội Quảng cáo Việt Nam",
+      "website": "https://tiepthigiadinh.vn",
+      "field": "Dân sinh – Xã hội",
+      "notes": ""
+    },
+    {
+      "name": "Báo Sức khoẻ và Đời sống",
+      "publisher": "Bộ Y tế",
+      "website": "https://suckhoedoisong.vn",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Sức khỏe Cộng đồng",
+      "publisher": "Hội Giáo dục và Chăm sóc Sức khỏe Cộng đồng Việt Nam",
+      "website": "https://suckhoecongdongonline.vn",
+      "field": "Y tế – Cộng đồng",
+      "notes": "Năm 2020, chuyển đổi từ báo thành tạp chí để thực hiện QHBC"
+    },
+    {
+      "name": "Tạp chí Y dược học",
+      "publisher": "Bộ Y tế",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nội tiết và các rối loạn chuyển hoá",
+      "publisher": "Bệnh viện Nội tiết",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Châm cứu Việt Nam",
+      "publisher": "Viện Châm cứu Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nghiên cứu y dược học cổ truyền Việt Nam",
+      "publisher": "Viện Y học cổ truyền Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Dược liệu",
+      "publisher": "Viện Dược liệu",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Y học thảm hoạ và Bỏng",
+      "publisher": "Viện Bỏng quốc gia",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Kiểm nghiệm thuốc",
+      "publisher": "Viện Kiểm nghiệm thuộc Trung ương",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Y học lâm sàng",
+      "publisher": "Bệnh viện Bạch Mai",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Chính sách y tế",
+      "publisher": "Viện Chiến lược và Chính sách y tế",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Phòng chống các bệnh sốt rét và các bệnh ký sinh trùng",
+      "publisher": "Viện sốt rét và ký sinh trùng côn trùng Trung ương",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Thông tin y dược",
+      "publisher": "Viện thông tin – thư viện y học Trung ương",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Đông y Việt Nam",
+      "publisher": "Trung ương Hội Đông y Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Dinh dưỡng và Thực phẩm",
+      "publisher": "Hội Dinh dưỡng Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Y tế công cộng",
+      "publisher": "Hội Y tế công cộng Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Thuốc và Sức khoẻ",
+      "publisher": "Hội Dược học Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Reveu Pharmaceutique",
+      "publisher": "Hội Dược học Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Trí tuệ",
+      "publisher": "Hiệp hội các trường đại học cao đẳng ngoài công lập Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Cây thuốc quý",
+      "publisher": "Hội Dược liệu Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học kỹ thuật thú y",
+      "publisher": "Hội Thú y Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Tiêu hoá Việt Nam",
+      "publisher": "Hội Khoa học tiêu hoá Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Ung thư Việt Nam",
+      "publisher": "Hội Phòng chống bệnh không lây nhiễm Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nhãn khoa",
+      "publisher": "Hội Nhãn khoa Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Phụ sản",
+      "publisher": "Hội Phụ sản Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Tai mũi họng",
+      "publisher": "Hội Tai mũi họng Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Thực phẩm và Đời sống",
+      "publisher": "Hội KHKT An toàn thực phẩm Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Tim mạch học Việt Nam",
+      "publisher": "Hội Tim mạch học Quốc gia Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Ung thư học",
+      "publisher": "Hội Ung thư Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Gia đình Việt Nam",
+      "publisher": "Hội Kế hoạch hoá gia đình Việt Nam",
+      "website": "https://giadinhonline.vn",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Thiết bị giáo dục",
+      "publisher": "Hiệp hội thiết bị giáo dục Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Giáo chức Việt Nam",
+      "publisher": "Hội Cựu giáo chức Việt Nam",
+      "website": "https://tapchigiaochuc.com.vn/",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Gan mật Việt Nam",
+      "publisher": "Hội Gan mật Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Người bảo trợ",
+      "publisher": "Hội Bảo trợ trẻ em tàn tật Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Tin học và Đời sống",
+      "publisher": "Hội Tin học Việt Nam",
+      "website": "https://congnghevadoisong.vn",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Biển Việt Nam",
+      "publisher": "Hội Khoa học kỹ thuật Biển Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Rừng và Đời sống",
+      "publisher": "Hội Khoa học Lâm nghiệp Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Tự động hóa ngày nay",
+      "publisher": "Hội KHKT tự động Việt Nam",
+      "website": "https://tudonghoangaynay.vn/",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nhi khoa",
+      "publisher": "Hội Nhi khoa Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Thương gia và Thị trường",
+      "publisher": "Hiệp hội Thương mại điện tử Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Kính và Kiến trúc",
+      "publisher": "Hiệp hội kính và Thủy tinh Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Ánh sáng và Cuộc sống",
+      "publisher": "Hội Chiếu sáng đô thị Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Gỗ Việt",
+      "publisher": "Hiệp hội Gỗ và Lâm sản Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Thương gia",
+      "publisher": "Hiệp hội Phát triển hàng tiêu dùng Việt Nam",
+      "website": "https://thuonggiaonline.vn",
+      "field": "Y tế – Cộng đồng",
+      "notes": "Năm 2020, chuyển đổi cơ quan chủ quản từ Hiệp hội Doanh nghiệp Thành phố Hà Nội sang Hiệp hội Phát triển hàng tiêu dùng Việt Nam để thực hiện QHBC"
+    },
+    {
+      "name": "Tạp chí Reveu Madicale",
+      "publisher": "Tổng hội Y học Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Y học Việt Nam",
+      "publisher": "Tổng hội Y dược học Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Nội khoa",
+      "publisher": "Hội Nội khoa Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Sinh lý học Việt Nam",
+      "publisher": "Hội Sinh lý học Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Y học dự phòng",
+      "publisher": "Hội Y học dự phòng Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Ngoại khoa",
+      "publisher": "Hội Ngoại khoa Việt Nam",
+      "website": "",
+      "field": "Y tế – Cộng đồng",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Khoa học và Công nghệ Việt Nam",
+      "publisher": "Bộ Khoa học và Công nghệ",
+      "website": "https://vjst.vn/",
+      "field": "Văn hóa – Khoa giáo",
+      "notes": ""
+    },
+    {
+      "name": "Tạp chí Điện tử và Ứng dụng",
+      "publisher": "Hội Vô tuyến - Điện tử Việt Nam",
+      "website": "https://dientuungdung.vn/",
+      "field": "Khoa học - Công nghệ số",
+      "notes": "Tháng 8/2022, đổi tên từ Tạp chí Điện tử thành Tạp chí Điện tử và Ứng dụng"
+    },
+    {
+      "name": "Thời báo VTV",
+      "publisher": "Đài Truyền hình Việt Nam",
+      "website": "https://vtv.vn",
+      "field": "Phát thanh – Truyền hình",
+      "notes": ""
+    },
+    {
+      "name": "Báo Điện tử Tiếng nói Việt Nam",
+      "publisher": "Đài Tiếng nói Việt Nam",
+      "website": "http://vov.vn/",
+      "field": "Phát thanh – Truyền hình",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "Danh sách báo chí Việt Nam - Free Download",
+    "description": "Danh sách các tờ báo, tạp chí tại Việt Nam theo lĩnh vực, kèm cơ quan chủ quản và trang web. Contains 258 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách báo chí Việt Nam | ListBase",
+    "seo_description": "Download Danh sách báo chí Việt Nam — 258 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 258 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_b%C3%A1o_ch%C3%AD_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}

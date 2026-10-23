@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-23T02:09:26.294Z",
-  "total_datasets": 490,
-  "total_records": 117484,
+  "generated": "2026-10-23T02:09:28.827Z",
+  "total_datasets": 491,
+  "total_records": 117742,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "sports",
@@ -11588,6 +11588,32 @@
         "xlsx": {
           "name": "science-solubility-rules_VI.xlsx",
           "size": 9165
+        }
+      }
+    },
+    {
+      "id": "vi-bao-chi",
+      "name": "Danh sách báo chí Việt Nam",
+      "category": "society",
+      "record_count": 258,
+      "columns": [
+        "name",
+        "publisher",
+        "website",
+        "field",
+        "notes"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_b%C3%A1o_ch%C3%AD_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 60652,
+      "files": {
+        "csv": {
+          "name": "vi-bao-chi_VI.csv",
+          "size": 33995
+        },
+        "xlsx": {
+          "name": "vi-bao-chi_VI.xlsx",
+          "size": 18745
         }
       }
     },
