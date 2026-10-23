@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-23T02:09:09.684Z",
-  "total_datasets": 483,
-  "total_records": 117238,
+  "generated": "2026-10-23T02:09:12.193Z",
+  "total_datasets": 484,
+  "total_records": 117302,
   "categories": [
     {
       "id": "agriculture",
@@ -59,6 +59,10 @@
     {
       "id": "science",
       "dataset_count": 9
+    },
+    {
+      "id": "society",
+      "dataset_count": 1
     },
     {
       "id": "sports",
@@ -11400,6 +11404,31 @@
         "xlsx": {
           "name": "science-solubility-rules_VI.xlsx",
           "size": 9165
+        }
+      }
+    },
+    {
+      "id": "vi-hdi-tinh-thanh",
+      "name": "Chỉ số phát triển con người (HDI) các tỉnh thành Việt Nam",
+      "category": "society",
+      "record_count": 64,
+      "columns": [
+        "rank",
+        "province",
+        "hdi",
+        "level"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%91%C6%A1n_v%E1%BB%8B_h%C3%A0nh_ch%C3%ADnh_Vi%E1%BB%87t_Nam_theo_HDI",
+      "updated": "2026-10",
+      "size": 9324,
+      "files": {
+        "csv": {
+          "name": "vi-hdi-tinh-thanh_VI.csv",
+          "size": 2462
+        },
+        "xlsx": {
+          "name": "vi-hdi-tinh-thanh_VI.xlsx",
+          "size": 8786
         }
       }
     },

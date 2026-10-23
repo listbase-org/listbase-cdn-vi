@@ -1,0 +1,430 @@
+{
+  "id": "vi-hdi-tinh-thanh",
+  "name": "Chỉ số phát triển con người (HDI) các tỉnh thành Việt Nam",
+  "title": "Chỉ số phát triển con người (HDI) các tỉnh thành Việt Nam",
+  "description": "Xếp hạng chỉ số phát triển con người (HDI) của các tỉnh, thành phố Việt Nam theo báo cáo HDI giai đoạn 2016–2020 của Tổng cục Thống kê.",
+  "category": "society",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%91%C6%A1n_v%E1%BB%8B_h%C3%A0nh_ch%C3%ADnh_Vi%E1%BB%87t_Nam_theo_HDI",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%91%C6%A1n_v%E1%BB%8B_h%C3%A0nh_ch%C3%ADnh_Vi%E1%BB%87t_Nam_theo_HDI",
+  "updated": "2026-10",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "hdi",
+      "label": "Hdi",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": "1",
+      "province": "Hà Nội",
+      "hdi": "0,799",
+      "level": "Cao"
+    },
+    {
+      "rank": "2",
+      "province": "Thành phố Hồ Chí Minh",
+      "hdi": "0,795",
+      "level": "Cao"
+    },
+    {
+      "rank": "3",
+      "province": "Bà Rịa – Vũng Tàu",
+      "hdi": "0,793",
+      "level": "Cao"
+    },
+    {
+      "rank": "4",
+      "province": "Hải Phòng",
+      "hdi": "0,782",
+      "level": "Cao"
+    },
+    {
+      "rank": "5",
+      "province": "Đà Nẵng",
+      "hdi": "0,779",
+      "level": "Cao"
+    },
+    {
+      "rank": "6",
+      "province": "Quảng Ninh",
+      "hdi": "0,769",
+      "level": "Cao"
+    },
+    {
+      "rank": "7",
+      "province": "Bắc Ninh",
+      "hdi": "0,768",
+      "level": "Cao"
+    },
+    {
+      "rank": "8",
+      "province": "Đồng Nai",
+      "hdi": "0,753",
+      "level": "Cao"
+    },
+    {
+      "rank": "9",
+      "province": "Vĩnh Phúc",
+      "hdi": "0,751",
+      "level": "Cao"
+    },
+    {
+      "rank": "10",
+      "province": "Hưng Yên",
+      "hdi": "0,745",
+      "level": "Cao"
+    },
+    {
+      "rank": "11",
+      "province": "Thái Nguyên",
+      "hdi": "0,743",
+      "level": "Cao"
+    },
+    {
+      "rank": "12",
+      "province": "Bình Dương",
+      "hdi": "0,736",
+      "level": "Cao"
+    },
+    {
+      "rank": "13",
+      "province": "Hải Dương",
+      "hdi": "0,735",
+      "level": "Cao"
+    },
+    {
+      "rank": "14",
+      "province": "Hà Nam",
+      "hdi": "0,729",
+      "level": "Cao"
+    },
+    {
+      "rank": "15",
+      "province": "Ninh Bình",
+      "hdi": "0,727",
+      "level": "Cao"
+    },
+    {
+      "rank": "16",
+      "province": "Cần Thơ",
+      "hdi": "0,719",
+      "level": "Cao"
+    },
+    {
+      "rank": "17",
+      "province": "Bắc Giang",
+      "hdi": "0,714",
+      "level": "Cao"
+    },
+    {
+      "rank": "18",
+      "province": "Hà Tĩnh",
+      "hdi": "0,713",
+      "level": "Cao"
+    },
+    {
+      "rank": "19",
+      "province": "Thái Bình",
+      "hdi": "0,711",
+      "level": "Cao"
+    },
+    {
+      "rank": "20",
+      "province": "Khánh Hòa",
+      "hdi": "0,707",
+      "level": "Cao"
+    },
+    {
+      "rank": "–",
+      "province": "Việt Nam",
+      "hdi": "0,706",
+      "level": "Cao"
+    },
+    {
+      "rank": "21",
+      "province": "Quảng Nam",
+      "hdi": "0,703",
+      "level": "Cao"
+    },
+    {
+      "rank": "21",
+      "province": "Phú Thọ",
+      "hdi": "0,703",
+      "level": "Cao"
+    },
+    {
+      "rank": "23",
+      "province": "Long An",
+      "hdi": "0,702",
+      "level": "Cao"
+    },
+    {
+      "rank": "23",
+      "province": "Bình Định",
+      "hdi": "0,702",
+      "level": "Cao"
+    },
+    {
+      "rank": "25",
+      "province": "Vĩnh Long",
+      "hdi": "0,699",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "26",
+      "province": "Lâm Đồng",
+      "hdi": "0,698",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "27",
+      "province": "Hòa Bình",
+      "hdi": "0,697",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "27",
+      "province": "Thanh Hóa",
+      "hdi": "0,697",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "29",
+      "province": "Nghệ An",
+      "hdi": "0,696",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "30",
+      "province": "Quảng Ngãi",
+      "hdi": "0,694",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "31",
+      "province": "Nam Định",
+      "hdi": "0,691",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "32",
+      "province": "Quảng Bình",
+      "hdi": "0,690",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "33",
+      "province": "Bình Phước",
+      "hdi": "0,686",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "34",
+      "province": "Tây Ninh",
+      "hdi": "0,685",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "35",
+      "province": "Bình Thuận",
+      "hdi": "0,684",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "36",
+      "province": "Phú Yên",
+      "hdi": "0,683",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "37",
+      "province": "Thừa Thiên – Huế",
+      "hdi": "0,681",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "38",
+      "province": "Tiền Giang",
+      "hdi": "0,679",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "39",
+      "province": "Lạng Sơn",
+      "hdi": "0,674",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "39",
+      "province": "Hậu Giang",
+      "hdi": "0,674",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "41",
+      "province": "Tuyên Quang",
+      "hdi": "0,673",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "41",
+      "province": "Trà Vinh",
+      "hdi": "0,673",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "43",
+      "province": "Quảng Trị",
+      "hdi": "0,671",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "44",
+      "province": "Đồng Tháp",
+      "hdi": "0,670",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "45",
+      "province": "Cà Mau",
+      "hdi": "0,668",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "46",
+      "province": "Bến Tre",
+      "hdi": "0,664",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "46",
+      "province": "Bắc Kạn",
+      "hdi": "0,664",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "48",
+      "province": "Lào Cai",
+      "hdi": "0,663",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "49",
+      "province": "Kiên Giang",
+      "hdi": "0,658",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "50",
+      "province": "Đắk Nông",
+      "hdi": "0,657",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "51",
+      "province": "Ninh Thuận",
+      "hdi": "0,654",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "52",
+      "province": "Bạc Liêu",
+      "hdi": "0,652",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "53",
+      "province": "An Giang",
+      "hdi": "0,651",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "54",
+      "province": "Yên Bái",
+      "hdi": "0,649",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "55",
+      "province": "Đắk Lắk",
+      "hdi": "0,648",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "56",
+      "province": "Sóc Trăng",
+      "hdi": "0,647",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "57",
+      "province": "Cao Bằng",
+      "hdi": "0,641",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "58",
+      "province": "Kon Tum",
+      "hdi": "0,640",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "59",
+      "province": "Sơn La",
+      "hdi": "0,633",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "60",
+      "province": "Gia Lai",
+      "hdi": "0,624",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "61",
+      "province": "Điện Biên",
+      "hdi": "0,602",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "62",
+      "province": "Hà Giang",
+      "hdi": "0,591",
+      "level": "Trung bình"
+    },
+    {
+      "rank": "63",
+      "province": "Lai Châu",
+      "hdi": "0,582",
+      "level": "Trung bình"
+    }
+  ],
+  "meta": {
+    "title": "Chỉ số phát triển con người (HDI) các tỉnh thành Việt Nam - Free Download",
+    "description": "Xếp hạng chỉ số phát triển con người (HDI) của các tỉnh, thành phố Việt Nam theo báo cáo HDI giai đoạn 2016–2020 của Tổng cục Thống kê. Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Chỉ số phát triển con người (HDI) các tỉnh thành Việt Nam | ListBase",
+    "seo_description": "Download Chỉ số phát triển con người (HDI) các tỉnh thành Việt Nam — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%91%C6%A1n_v%E1%BB%8B_h%C3%A0nh_ch%C3%ADnh_Vi%E1%BB%87t_Nam_theo_HDI"
+    ]
+  }
+}
