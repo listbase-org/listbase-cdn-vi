@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-23T02:09:28.827Z",
-  "total_datasets": 491,
-  "total_records": 117742,
+  "generated": "2026-10-23T02:09:31.204Z",
+  "total_datasets": 492,
+  "total_records": 117978,
   "categories": [
     {
       "id": "agriculture",
@@ -51,6 +51,10 @@
     {
       "id": "language",
       "dataset_count": 6
+    },
+    {
+      "id": "law",
+      "dataset_count": 1
     },
     {
       "id": "math",
@@ -2888,6 +2892,35 @@
         "xlsx": {
           "name": "vi-ngon-ngu-the-gioi_VI.xlsx",
           "size": 22974
+        }
+      }
+    },
+    {
+      "id": "vi-quan-chuc-bi-ky-luat",
+      "name": "Danh sách quan chức Việt Nam bị kỷ luật",
+      "category": "law",
+      "record_count": 236,
+      "columns": [
+        "announced",
+        "name",
+        "former_position",
+        "violation",
+        "party_discipline",
+        "criminal_penalty",
+        "assets_investigated",
+        "notes"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_quan_ch%E1%BB%A9c_Vi%E1%BB%87t_Nam_b%E1%BB%8B_k%E1%BB%B7_lu%E1%BA%ADt",
+      "updated": "2026-10",
+      "size": 218067,
+      "files": {
+        "csv": {
+          "name": "vi-quan-chuc-bi-ky-luat_VI.csv",
+          "size": 170321
+        },
+        "xlsx": {
+          "name": "vi-quan-chuc-bi-ky-luat_VI.xlsx",
+          "size": 26259
         }
       }
     },

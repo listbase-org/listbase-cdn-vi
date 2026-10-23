@@ -1,0 +1,2426 @@
+{
+  "id": "vi-quan-chuc-bi-ky-luat",
+  "name": "Danh sách quan chức Việt Nam bị kỷ luật",
+  "title": "Danh sách quan chức Việt Nam bị kỷ luật",
+  "description": "Danh sách quan chức Việt Nam bị kỷ luật Đảng và/hoặc xử lý hình sự từ năm 2017, kèm nội dung vi phạm và hình thức xử lý.",
+  "category": "law",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_quan_ch%E1%BB%A9c_Vi%E1%BB%87t_Nam_b%E1%BB%8B_k%E1%BB%B7_lu%E1%BA%ADt",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_quan_ch%E1%BB%A9c_Vi%E1%BB%87t_Nam_b%E1%BB%8B_k%E1%BB%B7_lu%E1%BA%ADt",
+  "updated": "2026-10",
+  "record_count": 236,
+  "columns": [
+    {
+      "key": "announced",
+      "label": "Announced",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "former_position",
+      "label": "Former Position",
+      "type": "string"
+    },
+    {
+      "key": "violation",
+      "label": "Violation",
+      "type": "string"
+    },
+    {
+      "key": "party_discipline",
+      "label": "Party Discipline",
+      "type": "string"
+    },
+    {
+      "key": "criminal_penalty",
+      "label": "Criminal Penalty",
+      "type": "string"
+    },
+    {
+      "key": "assets_investigated",
+      "label": "Assets Investigated",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "announced": "2017",
+      "name": "Đinh La Thăng",
+      "former_position": "Ủy viên Bộ Chính trị",
+      "violation": "Sai phạm khi giữ chức Chủ tịch Tập đoàn Dầu khí Quốc gia Việt Nam",
+      "party_discipline": "Khai trừ khỏi Đảng",
+      "criminal_penalty": "Tổng cộng 30 năm tù giam",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2017",
+      "name": "Nguyễn Xuân Anh",
+      "former_position": "Bí thư Thành uỷ Đà Nẵng",
+      "violation": "Chịu trách nhiệm chính về những vi phạm, khuyết điểm của Ban Thường vụ Thành ủy nhiệm kì 2015 - 2020 . Vi phạm nguyên tắc tập trung dân chủ và các quy định của Đảng, Nhà nước về công tác cán bộ; chủ trì xem xét, quyết định một số nhân sự có biểu hiện áp đặt; trực tiếp chỉ đạo nhiều công việc cụ thể của chính quyền . Những việc làm của ông Nguyễn Xuân Anh đã gây phân tâm, ảnh hưởng đến sự đoàn kết, thống nhất trong Ban Thường vụ Thành ủy .",
+      "party_discipline": "Thi hành kỉ luật bằng hình thức cách chức Bí thư Thành ủy Đà Nẵng , Ủy viên Ban Thường vụ, Ủy viên Ban Chấp hành Đảng bộ thành phố Đà Nẵng nhiệm kỳ 2015 - 2020 và Ủy viên Ban Chấp hành Trung ương Đảng khóa XII.",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2018",
+      "name": "Nguyễn Bắc Son",
+      "former_position": "Bộ trưởng Bộ Thông tin và Truyền thông",
+      "violation": "Liên quan vụ án MobiFone mua AVG, Bị bắt với tội danh Vi phạm quy định về quản lý và sử dụng vốn đầu tư công gây hậu quả nghiêm trọng. Khởi tố bổ sung về tội danh \"Nhận hối lộ\" .",
+      "party_discipline": "Khai trừ khỏi Đảng",
+      "criminal_penalty": "Tù chung thân.",
+      "assets_investigated": "3 triệu USD",
+      "notes": "Xóa tư cách nguyên bộ trưởng Bộ Thông tin và Truyền thông nhiệm kỳ 2011-2016."
+    },
+    {
+      "announced": "2018",
+      "name": "Nguyễn Thanh Nghị",
+      "former_position": "Bộ trưởng Bộ Xây dựng",
+      "violation": "Liên quan việc quy hoạch, quản lý, sử dụng đất đai, khoáng sản, môi trường ở tỉnh Kiên Giang (giai đoạn 2011 - 2017) đã gây thất thoát hơn 2.300 tỷ đồng.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Kiểm điểm rút kinh nghiệm."
+    },
+    {
+      "announced": "2018",
+      "name": "Trương Minh Tuấn",
+      "former_position": "Bộ trưởng Bộ Thông tin và Truyền thông",
+      "violation": "Liên quan vụ án MobiFone mua AVG",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "Bị bắt với tội danh Vi phạm quy định về quản lý và sử dụng vốn đầu tư công gây hậu quả nghiêm trọng. Khởi tố bổ sung về tội danh \"Nhận hối lộ\" .",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2018",
+      "name": "Tất Thành Cang",
+      "former_position": "Phó Bí thư Thành uỷ TPHCM",
+      "violation": "Vi phạm: quyết định không đúng thẩm quyền, vi phạm các quy định của Nhà nước về quản lý tài sản, đầu tư trong các doanh nghiệp nhà nước, về kinh doanh bất động sản, không bảo đảm quy trình, nguyên tắc xử lý công việc của Đảng bộ TP và thiếu kiểm tra trong triển khai thực hiện các quyết định của mình",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "Bị bắt, khởi tố vì tội tội \"Vi phạm quy định về quản lý, sử dụng tài sản Nhà nước gây thất thoát lãng phí\" .",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2019",
+      "name": "Nguyễn Văn Hiến",
+      "former_position": "Đô đốc Hải quân Thứ trưởng Bộ Quốc Phòng",
+      "violation": "Liên quan trách nhiệm vụ án Út Trọc",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "4 năm tù về tội \"thiếu trách nhiệm gây hậu quả nghiêm trọng\"",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2020",
+      "name": "Hoàng Trung Hải",
+      "former_position": "Ủy viên Bộ Chính trị",
+      "violation": "Vi phạm, khuyết điểm nghiêm trọng trong quá trình chỉ đạo thực hiện Dự án mở rộng sản xuất giai đoạn II - Công ty Gang thép Thái Nguyên",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2020",
+      "name": "Nguyễn Văn Bình",
+      "former_position": "Ủy viên Bộ Chính trị Trưởng Ban Kinh tế Trung ương",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để xảy ra nhiều vi phạm, khuyết điểm trong việc ban hành và tổ chức thực hiện một số nghị quyết, quy định, quyết định về hoạt động tín dụng ngân hàng",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2020",
+      "name": "Lê Thanh Hải",
+      "former_position": "Ủy viên Bộ Chính trị Bí thư Thành uỷ TPHCM",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để xảy ra nhiều vi phạm, khuyết điểm nghiêm trọng trong quá trình thực hiện dự án đầu tư Khu đô thị mới Thủ Thiêm , gây hậu quả rất nghiêm trọng, làm thiệt hại lớn tiền và tài sản của Nhà nước, ảnh hưởng xấu đến phát triển kinh tế - xã hội và đời sống của một bộ phận nhân dân thành phố, gây bức xúc trong xã hội.",
+      "party_discipline": "Cách chức Bí thư Thành ủy TP.HCM nhiệm kỳ 2010-2015",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2020",
+      "name": "Vũ Huy Hoàng",
+      "former_position": "Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam Bộ trưởng Bộ Công Thương",
+      "violation": "Liên quan đến trường hợp của ông Trịnh Xuân Thanh",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "Khởi tố để điều tra về tội \"vi phạm quy định về quản lý, sử dụng tài sản Nhà nước gây thất thoát, lãng phí\"",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2020",
+      "name": "Nguyễn Đức Chung",
+      "former_position": "Chủ tịch UBND Thành phố Hà Nội",
+      "violation": "Vai trò chủ mưu trong vụ đánh cắp nhiều tài liệu mật về vụ án Nhật Cường",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "5 năm tù về tội \"Chiếm đoạt tài liệu bí mật nhà nước\" 8 năm tù với cáo buộc để công ty gia đình mua chế phẩm Redoxy-3C về bán cho thành phố",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2020",
+      "name": "Lê Hoàng Quân",
+      "former_position": "Chủ tịch UBND TPHCM",
+      "violation": "Để xảy ra nhiều vi phạm, khuyết điểm nghiêm trọng trong quá trình thực hiện dự án đầu tư Khu đô thị mới Thủ Thiêm , gây hậu quả rất nghiêm trọng, làm thiệt hại lớn tiền và tài sản của Nhà nước",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2021",
+      "name": "Trần Tuấn Anh",
+      "former_position": "Bộ trưởng Bộ Công Thương",
+      "violation": "Thiếu trách nhiệm trong lãnh đạo, chỉ đạo thanh tra, kiểm tra, để xảy ra nhiều vi phạm, khuyết điểm trong tham mưu, thực hiện bổ sung quy hoạch, quản lý phát triển năng lượng điện, nhất là các dự án điện mặt trời, điện gió, thủy điện nhỏ và vừa; trong xây dựng cơ chế, chính sách về giá điện, giá xăng dầu",
+      "party_discipline": "?",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2021",
+      "name": "Nguyễn Văn Sơn",
+      "former_position": "Tư lệnh Cảnh sát biển Việt Nam",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Tư lệnh Cảnh sát biển và nhiều cán bộ, đảng viên, trong đó có cán bộ, lãnh đạo chủ chốt Bộ Tư lệnh và lãnh đạo, chỉ huy các đơn vị trực thuộc, thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác quản lý, sử dụng tài chính, thực hiện dự án đầu tư xây dựng cơ bản, mua sắm vật tư, trang bị kỹ thuật và trong đấu tranh phòng, chống buôn lậu, giữ gìn an ninh, trật tự, an toàn trên biển.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "Khởi tố, bắt tạm giam",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2021",
+      "name": "Nguyễn Thị Kim Tiến",
+      "former_position": "Bộ trưởng Bộ Y tế",
+      "violation": "Vi phạm các nguyên tắc hoạt động của Đảng, Quy chế làm việc của Ban cán sự đảng; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Bộ Y tế, Cục Quản lý Dược, nhiều đơn vị, cơ sở khám chữa bệnh và cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong công tác xây dựng, ban hành thể chế, chính sách; trong việc cấp phép nhập khẩu thuốc, thực hiện liên doanh liên kết, đấu thầu, mua sắm thuốc, trang thiết bị y tế và vật tư tiêu hao; để nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2021",
+      "name": "Trương Quốc Cường",
+      "former_position": "Thứ trưởng Bộ Y tế",
+      "violation": "Liên quan đến vụ án thuốc ung thư giả của VN-Pharma .",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "Bị bắt, khởi tố",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2021-03",
+      "name": "Phan Đăng Tuất",
+      "former_position": "Bí thư Đảng ủy, Chủ tịch HĐQT Tổng Công ty cổ phần Bia - Rượu - Nước giải khát Sài Gòn (SABECO) .",
+      "violation": "Liên quan đến các sai phạm trong quản lý, sử dụng khu đất số 2-4-6 Hai Bà Trưng, Quận 1 , Thành phố Hồ Chí Minh",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ hai của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-03",
+      "name": "Lê Văn Phước",
+      "former_position": "Tỉnh ủy viên, Bí thư Ban cán sự đảng, Chánh án Tòa án nhân dân tỉnh Phú Yên",
+      "violation": "Vi phạm rất nghiêm trọng các quy định của Đảng, pháp luật của Nhà nước trong công tác quản lý, sử dụng tài chính của đơn vị.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ hai của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-05",
+      "name": "Lâm Văn Tâm",
+      "former_position": "Đảng ủy viên Cục Hậu cần, Trưởng phòng Quân nhu, Cục Hậu cần Quân khu 9 , Ủy viên Ban Thường vụ Huyện ủy, Chỉ huy trưởng Ban Chỉ huy quân sự huyện Phước Long",
+      "violation": "Thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong lãnh đạo, chỉ huy công tác huấn luyện, diễn tập; quản lý, sử dụng tài chính và đầu tư, mua sắm trang thiết bị, gây thất thoát, lãng phí ngân sách Nhà nước, ảnh hưởng xấu đến uy tín của tổ chức đảng và Quân đội.",
+      "party_discipline": "Cách chức tất cả các chức vụ trong Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ ba của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-05",
+      "name": "Lê Hoàng Giữ",
+      "former_position": "Ủy viên Ban Thường vụ Đảng ủy Cục Chính trị, Phó Chủ nhiệm Chính trị Quân khu 9 , Tỉnh ủy viên, Phó Bí thư Thường trực Đảng ủy, Chính ủy Bộ Chỉ huy Quân sự tỉnh Bạc Liêu",
+      "violation": "Thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong lãnh đạo, chỉ huy công tác huấn luyện, diễn tập; quản lý, sử dụng tài chính và đầu tư, mua sắm trang thiết bị, gây thất thoát, lãng phí ngân sách Nhà nước, ảnh hưởng xấu đến uy tín của tổ chức đảng và Quân đội.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ ba của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-05",
+      "name": "Đỗ Minh Đẩu",
+      "former_position": "Ủy viên Ban Thường vụ Tỉnh ủy, Phó Bí thư Đảng ủy, Chỉ huy trưởng Bộ Chỉ huy quân sự tỉnh Bạc Liêu",
+      "violation": "Thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong lãnh đạo, chỉ huy công tác huấn luyện, diễn tập; quản lý, sử dụng tài chính và đầu tư, mua sắm trang thiết bị, gây thất thoát, lãng phí ngân sách Nhà nước, ảnh hưởng xấu đến uy tín của tổ chức đảng và Quân đội.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ ba của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-05",
+      "name": "Trần Văn Tài",
+      "former_position": "Đảng ủy viên, Phó Tư lệnh Quân khu 9 , Ủy viên Ban Thường vụ Tỉnh ủy, Phó Bí thư Đảng ủy, Chỉ huy trưởng Bộ Chỉ huy quân sự tỉnh Bạc Liêu",
+      "violation": "Thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong lãnh đạo, chỉ huy công tác huấn luyện, diễn tập; quản lý, sử dụng tài chính và đầu tư, mua sắm trang thiết bị, gây thất thoát, lãng phí ngân sách Nhà nước, ảnh hưởng xấu đến uy tín của tổ chức đảng và Quân đội.",
+      "party_discipline": "Xem xét thi hành kỷ luật",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ ba của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-05",
+      "name": "Bùi Trường Giang",
+      "former_position": "Ủy viên Ban Thường vụ Đảng ủy Khối các cơ quan Trung ương , Bí thư Đảng ủy Cơ quan, Phó Trưởng Ban Tuyên giáo Trung ương",
+      "violation": "Vi phạm quy định về trách nhiệm nêu gương của cán bộ, đảng viên trong rèn luyện, giữ gìn phẩm chất đạo đức, lối sống.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ ba của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-05",
+      "name": "Đặng Hoàng Đa",
+      "former_position": "Thiếu tướng , Phó Cục trưởng Cục Xây dựng phong trào toàn dân bảo vệ An ninh Tổ quốc , Bộ Công an Ủy viên Ban Thường vụ Tỉnh ủy, Giám đốc Công an tỉnh Sóc Trăng",
+      "violation": "Vi phạm các quy định của Đảng, Nhà nước và ngành Công an trong quản lý, sử dụng tài chính và công tác cán bộ của đơn vị",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ ba của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-05",
+      "name": "Võ Thanh Hà",
+      "former_position": "Bí thư Đảng ủy, Chủ tịch HĐQT Tổng Công ty Lương thực Miền Nam, Bí thư Đảng ủy, Chủ tịch HĐQT Tổng Công ty cổ phần Bia - Rượu - Nước giải khát Sài Gòn (SABECO).",
+      "violation": "Liên quan đến các sai phạm trong quản lý, sử dụng khu đất số 2-4-6 Hai Bà Trưng, Quận 1, Thành phố Hồ Chí Minh",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ ba của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Trần Văn Nam",
+      "former_position": "Ủy viên Trung ương Đảng, Bí thư Tỉnh ủy Bình Dương , Trưởng Đoàn đại biểu Quốc hội khóa XIV tỉnh",
+      "violation": "Chịu trách nhiệm người đứng đầu về các vi phạm, khuyết điểm của Ban Thường vụ Tỉnh ủy nhiệm kỳ 2015-2020; chịu trách nhiệm trực tiếp khi giữ chức vụ Phó Chủ tịch UBND tỉnh đã ký văn bản áp dụng giá đất tính thu tiền sử dụng đất, vi phạm quy định pháp luật về đất đai, gây thất thoát lớn ngân sách nhà nước; thực hiện trái chủ trương về phương án sử dụng 43 ha đất tại Tổng Công ty 3/2; hợp thức việc chuyển nhượng trái phép Dự án Tân Phú cho tư nhân; để Tổng Công ty 3/2 đưa 145 ha đất góp vốn vào Công ty Tân Thành trái pháp luật.",
+      "party_discipline": "",
+      "criminal_penalty": "Bị bắt, khởi tố",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Phạm Văn Cành",
+      "former_position": "Phó Bí thư Thường trực Tỉnh ủy Bình Dương",
+      "violation": "Chịu trách nhiệm về các vi phạm, khuyết điểm của Ban Thường vụ Tỉnh ủy nhiệm kỳ 2015-2020; chịu trách nhiệm trực tiếp trong việc ký văn bản nhằm hợp thức việc chuyển nhượng trái phép Dự án Tân Phú cho tư nhân và để xảy ra các vi phạm tại Tổng Công ty 3/2.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Trần Thanh Liêm",
+      "former_position": "Phó Bí thư Tỉnh ủy, Bí thư Ban cán sự đảng, Chủ tịch UBND tỉnh Bình Dương",
+      "violation": "Chịu trách nhiệm về các vi phạm, khuyết điểm của Ban Thường vụ Tỉnh ủy nhiệm kỳ 2015-2020; chịu trách nhiệm người đứng đầu về những vi phạm, khuyết điểm của Ban cán sự đảng UBND tỉnh nhiệm kỳ 2016-2021; chịu trách nhiệm trong việc bổ sung văn bản nhằm hợp thức việc chuyển nhượng trái phép Dự án Tân Phú cho tư nhân.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Nguyễn Thanh Trúc",
+      "former_position": "Tỉnh ủy viên, Uỷ viên Ban cán sự đảng, Phó Chủ tịch UBND tỉnh Bình Dương",
+      "violation": "Chịu trách nhiệm trực tiếp trong việc thẩm định, tham mưu, trình ký văn bản áp dụng giá đất tính thu tiền sử dụng đất, vi phạm quy định pháp luật về đất đai, gây thất thoát lớn ngân sách nhà nước.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Trần Xuân Lâm",
+      "former_position": "Tỉnh ủy viên, Chánh Thanh tra tỉnh Bình Dương",
+      "violation": "Chịu trách nhiệm trực tiếp trong việc thẩm định, tham mưu, trình ký văn bản áp dụng giá đất tính thu tiền sử dụng đất, vi phạm quy định pháp luật về đất đai, gây thất thoát lớn ngân sách nhà nước.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Võ Văn Lượng",
+      "former_position": "Uỷ viên Ban cán sự đảng, Chánh Văn phòng UBND tỉnh Bình Dương",
+      "violation": "Chịu trách nhiệm trực tiếp trong việc thẩm định, tham mưu, trình ký văn bản áp dụng giá đất tính thu tiền sử dụng đất, vi phạm quy định pháp luật về đất đai, gây thất thoát lớn ngân sách nhà nước.",
+      "party_discipline": "Cách chức tất cả các chức vụ trong Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Nguyễn Văn Đông",
+      "former_position": "Uỷ viên Ban Thường vụ Tỉnh ủy, Bí thư Thành ủy Thủ Dầu Một, Chánh Văn phòng Tỉnh ủy Bình Dương",
+      "violation": "Chịu trách nhiệm người đứng đầu về những vi phạm, khuyết điểm của Văn phòng Tỉnh ủy Bình Dương, chịu trách nhiệm trực tiếp trong việc bổ sung văn bản nhằm hợp thức việc chuyển nhượng trái phép Dự án Tân Phú cho tư nhân.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Ngô Dũng Phương",
+      "former_position": "Đảng ủy viên, Trưởng Phòng Tài chính Đảng, Văn phòng Tỉnh ủy Bình Dương",
+      "violation": "Chịu trách nhiệm với những vi phạm tại Tổng Công ty 3/2, chịu trách nhiệm trực tiếp trong việc bổ sung văn bản nhằm hợp thức việc chuyển nhượng trái phép Dự án Tân Phú cho tư nhân.",
+      "party_discipline": "Cách chức tất cả các chức vụ trong Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Lê Văn Trang",
+      "former_position": "Bí thư Đảng ủy, Cục trưởng Cục Thuế tỉnh Bình Dương",
+      "violation": "Chịu trách nhiệm với những vi phạm, khuyết điểm trong việc đề xuất áp dụng giá đất để tính tiền sử dụng đất giao cho Tổng Công ty 3/2 và việc chuyển nhượng, góp vốn bằng quyền sử dụng đất trái quy định của pháp luật, gây hậu quả rất nghiêm trọng, làm thất thoát lớn tiền, tài sản của Nhà nước.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Võ Thanh Bình",
+      "former_position": "Phó Bí thư Đảng ủy, Phó Cục trưởng Cục Thuế tỉnh Bình Dương",
+      "violation": "Chịu trách nhiệm với những vi phạm, khuyết điểm trong việc đề xuất áp dụng giá đất để tính tiền sử dụng đất giao cho Tổng Công ty 3/2 và việc chuyển nhượng, góp vốn bằng quyền sử dụng đất trái quy định của pháp luật, gây hậu quả rất nghiêm trọng, làm thất thoát lớn tiền, tài sản của Nhà nước.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Nguyễn Văn Minh",
+      "former_position": "Chủ tịch Hội đồng quản trị Tổng Công ty 3/2",
+      "violation": "Chịu trách nhiệm với những vi phạm, khuyết điểm trong việc đề xuất áp dụng giá đất để tính tiền sử dụng đất giao cho Tổng Công ty 3/2 và việc chuyển nhượng, góp vốn bằng quyền sử dụng đất trái quy định của pháp luật, gây hậu quả rất nghiêm trọng, làm thất thoát lớn tiền, tài sản của Nhà nước.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Trần Nguyên Vũ",
+      "former_position": "Tổng Giám đốc Tổng Công ty 3/2",
+      "violation": "Chịu trách nhiệm với những vi phạm, khuyết điểm trong việc đề xuất áp dụng giá đất để tính tiền sử dụng đất giao cho Tổng Công ty 3/2 và việc chuyển nhượng, góp vốn bằng quyền sử dụng đất trái quy định của pháp luật, gây hậu quả rất nghiêm trọng, làm thất thoát lớn tiền, tài sản của Nhà nước.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Huỳnh Công Phát",
+      "former_position": "Bí thư Đảng ủy, thành viên Hội đồng thành viên, Phó Tổng Giám đốc Tổng Công ty 3/2",
+      "violation": "Chịu trách nhiệm với những vi phạm, khuyết điểm trong việc đề xuất áp dụng giá đất để tính tiền sử dụng đất giao cho Tổng Công ty 3/2 và việc chuyển nhượng, góp vốn bằng quyền sử dụng đất trái quy định của pháp luật, gây hậu quả rất nghiêm trọng, làm thất thoát lớn tiền, tài sản của Nhà nước.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Huỳnh Thanh Hải",
+      "former_position": "Ủy viên Ban Chấp hành Đảng bộ Khối các cơ quan và doanh nghiệp tỉnh, Phó Tổng Giám đốc Tổng Công ty 3/2",
+      "violation": "Chịu trách nhiệm với những vi phạm, khuyết điểm trong việc đề xuất áp dụng giá đất để tính tiền sử dụng đất giao cho Tổng Công ty 3/2 và việc chuyển nhượng, góp vốn bằng quyền sử dụng đất trái quy định của pháp luật, gây hậu quả rất nghiêm trọng, làm thất thoát lớn tiền, tài sản của Nhà nước.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Nguyễn Thế Sự",
+      "former_position": "Trưởng Ban Kiểm soát Tổng Công ty 3/2",
+      "violation": "Chịu trách nhiệm với những vi phạm, khuyết điểm trong việc đề xuất áp dụng giá đất để tính tiền sử dụng đất giao cho Tổng Công ty 3/2 và việc chuyển nhượng, góp vốn bằng quyền sử dụng đất trái quy định của pháp luật, gây hậu quả rất nghiêm trọng, làm thất thoát lớn tiền, tài sản của Nhà nước.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Nguyễn Quốc Trụ",
+      "former_position": "Bí thư Đảng ủy, Cục trưởng Cục Quản lý thị trường tỉnh Phú Thọ",
+      "violation": "Chịu trách nhiệm người đứng đầu về những vi phạm, khuyết điểm của Đảng ủy và Cục Quản lý thị trường tỉnh; chịu trách nhiệm trực tiếp trong việc bao che cho vi phạm của cấp dưới, báo cáo sai sự thật với lãnh đạo cấp trên.",
+      "party_discipline": "Cách chức tất cả các chức vụ trong Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Hà Thanh Bình",
+      "former_position": "Phó Bí thư Đảng ủy, Phó Cục trưởng Cục Quản lý thị trường tỉnh Phú Thọ",
+      "violation": "Chịu trách nhiệm về những vi phạm, khuyết điểm của Đảng ủy và Cục Quản lý thị trường tỉnh; chịu trách nhiệm trực tiếp trong việc thực hiện chức trách, nhiệm vụ cá nhân được phân công.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Dương Tuấn Anh",
+      "former_position": "Uỷ viên Ban Thường vụ, Chủ nhiệm UBKT Đảng ủy, Phó Cục trưởng Cục Quản lý thị trường tỉnh Phú Thọ",
+      "violation": "Chịu trách nhiệm về những vi phạm, khuyết điểm của Đảng ủy và Cục Quản lý thị trường tỉnh; chịu trách nhiệm trực tiếp trong việc thực hiện chức trách, nhiệm vụ cá nhân được phân công.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-06",
+      "name": "Vi Ngọc Khang",
+      "former_position": "Đảng ủy viên, Bí thư Chi bộ Nghiệp vụ - Thanh tra, Phó Cục trưởng Cục Quản lý thị trường tỉnh Phú Thọ",
+      "violation": "Lợi dụng chức vụ, quyền hạn, lập hồ sơ, tài liệu giả, bỏ lọt hành vi, tang vật, phương tiện vi phạm trong khi kiểm tra, vi phạm pháp luật trong công tác xử lý vi phạm hành chính, gây hậu quả nghiêm trọng, làm thất thoát ngân sách nhà nước.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tư của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-08",
+      "name": "Nguyễn Văn Tứ",
+      "former_position": "Thành ủy viên nhiệm kỳ 2015-2020, Bí thư Đảng ủy, Giám đốc Sở Kế hoạch và Đầu tư, Chánh Văn phòng Thành ủy Hà Nội",
+      "violation": "Chịu trách nhiệm chính, trách nhiệm người đứng đầu đối với các vi phạm, khuyết điểm của Đảng ủy Cơ quan Sở Kế hoạch và Đầu tư; làm trái quy định về đấu thầu.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ năm của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-08",
+      "name": "Nguyễn Thế Hùng",
+      "former_position": "Thành uỷ viên, nguyên Uỷ viên BCSĐ, Phó Chủ tịch UBND Thành phố Hà Nội",
+      "violation": "Chịu trách nhiệm về những vi phạm, khuyết điểm của BCSĐ UBND Thành phố nhiệm kỳ 2016-2021 và chịu trách nhiệm cá nhân trong việc thực hiện chức trách, nhiệm vụ được giao.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ năm của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-08",
+      "name": "Nguyễn Doãn Toản",
+      "former_position": "Uỷ viên Ban Thường vụ, Trưởng Ban Dân vận Thành uỷ, Ủy viên BCSĐ, Phó Chủ tịch UBND Thành phố Hà Nội",
+      "violation": "Chịu trách nhiệm về những vi phạm, khuyết điểm của BCSĐ UBND Thành phố nhiệm kỳ 2016-2021 và chịu trách nhiệm cá nhân trong việc thực hiện chức trách, nhiệm vụ được giao.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ năm của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-08",
+      "name": "Nguyễn Mạnh Quyền",
+      "former_position": "Bí thư Đảng ủy, Giám đốc Sở Kế hoạch và Đầu tư Thành phố Hà Nội",
+      "violation": "Chịu trách nhiệm về những vi phạm, khuyết điểm của BCSĐ UBND Thành phố nhiệm kỳ 2016-2021 và chịu trách nhiệm cá nhân trong việc thực hiện chức trách, nhiệm vụ được giao.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ năm của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-08",
+      "name": "Hà Minh Hải",
+      "former_position": "Bí thư Đảng ủy, Giám đốc Sở Tài chính Thành phố Hà Nội",
+      "violation": "Chịu trách nhiệm về những vi phạm, khuyết điểm của BCSĐ UBND Thành phố nhiệm kỳ 2016-2021 và chịu trách nhiệm cá nhân trong việc thực hiện chức trách, nhiệm vụ được giao.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ năm của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-08",
+      "name": "Nguyễn An Huy",
+      "former_position": "Thành ủy viên nhiệm kỳ 2015-2020, Chánh Thanh tra Thành phố Hà Nội",
+      "violation": "Chịu trách nhiệm chính, trách nhiệm người đứng đầu đối với những vi phạm, khuyết điểm trong quá trình thanh tra việc mua, quản lý, sử dụng chế phẩm Redoxy-3C.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ năm của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-08",
+      "name": "Nguyễn Thành Tài",
+      "former_position": "Ủy viên Ban Thường vụ Thành ủy, Phó Chủ tịch Thường trực UBND Thành phố Hồ Chí Minh",
+      "violation": "Chịu trách nhiệm trực tiếp trong việc chấp thuận thay đổi chủ trương, chuyển nhượng quyền đầu tư dự án không qua đấu giá cho doanh nghiệp; ký các văn bản duyệt giá trị quyền sử dụng đất, giá trị công trình xây dựng trên đất và xác định giá thuê đất, giao đất có thu tiền sử dụng đất... trái pháp luật.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ năm của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-08",
+      "name": "Trần Vĩnh Tuyến",
+      "former_position": "Ủy viên Ban Thường vụ Thành ủy, Phó Chủ tịch UBND Thành phố Hồ Chí Minh",
+      "violation": "Chịu trách nhiệm trực tiếp trong việc ký quyết định đồng ý cho chuyển nhượng dự án trái pháp luật.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ năm của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-08",
+      "name": "Trần Trọng Tuấn",
+      "former_position": "Thành ủy viên, Giám đốc Sở Xây dựng Thành phố Hồ Chí Minh",
+      "violation": "Chịu trách nhiệm trực tiếp trong việc ký Tờ trình tham mưu cho đồng chí Trần Vĩnh Tuyến ký Quyết định chấp thuận chuyển nhượng dự án trái pháp luật.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ năm của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-08",
+      "name": "Nguyễn Hoài Nam",
+      "former_position": "Bí thư Quận ủy Quận 2 , Phó Giám đốc Sở Tài nguyên và Môi trường Thành phố Hồ Chí Minh",
+      "violation": "Chịu trách nhiệm trực tiếp khi ký Tờ trình Giám đốc Sở Tài nguyên và Môi trường tham mưu cho đồng chí Nguyễn Thành Tài ký Quyết định giao đất, cho thuê đất trái pháp luật.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ năm của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-08",
+      "name": "Lê Tấn Hùng",
+      "former_position": "Bí thư Đảng ủy, Tổng Giám đốc Công ty Nông nghiệp Sài Gòn (SAGRI)",
+      "violation": "Chịu trách nhiệm chính về các vi phạm của Tổng Công ty Nông nghiệp Sài Gòn (SAGRI); chịu trách nhiệm trực tiếp khi chỉ đạo hoàn thiện các thủ tục và ký văn bản đề nghị UBND Thành phố Hồ Chí Minh cho chuyển nhượng dự án trái pháp luật; ký khống các hợp đồng, chỉ đạo hợp thức trái quy định để tham ô số tiền 13,346 tỷ đồng của Nhà nước.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ năm của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-08",
+      "name": "Tề Trí Dũng",
+      "former_position": "Phó Bí thư Đảng ủy, Tổng Giám đốc, Thành viên HĐTV Công ty IPC, Chủ tịch HĐQT Công ty SADECO",
+      "violation": "Chịu trách nhiệm chính về những vi phạm của Công ty IPC và Công ty SADECO; chịu trách nhiệm trực tiếp trong việc cố ý phát hành cổ phần cho cổ đông chiến lược, sử dụng tiền của Công ty SADECO đi tham quan, du lịch nước ngoài, duyệt chi nhiều khoản tiền trái quy định, tham ô số tiền 1,727 tỷ đồng.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ năm của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Hoàng Văn Tiền",
+      "former_position": "Tỉnh ủy viên, Bí thư BCSĐ, Bí thư Đảng ủy, Chánh án TAND tỉnh Quảng Ninh",
+      "violation": "Vi phạm các quy định của Đảng, pháp luật Nhà nước; vi phạm các Quy chế làm việc của Tỉnh ủy, BCSĐ TAND tỉnh; vi phạm nguyên tắc tập trung dân chủ, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo trong việc xét, quyết định giảm thời hạn chấp hành án phạt tù cho phạm nhân Phan Sào Nam khi không đủ điều kiện.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ sáu của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Phạm Thị Hương Giang",
+      "former_position": "Uỷ viên BCSĐ, Phó Bí thư Đảng ủy, Phó Chánh án TAND tỉnh Quảng Ninh",
+      "violation": "Vi phạm các quy định của Đảng, pháp luật Nhà nước; vi phạm các Quy chế làm việc của Tỉnh ủy, BCSĐ TAND tỉnh; vi phạm nguyên tắc tập trung dân chủ, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo trong việc xét, quyết định giảm thời hạn chấp hành án phạt tù cho phạm nhân Phan Sào Nam khi không đủ điều kiện.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ sáu của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Nguyễn Trí Chinh",
+      "former_position": "Uỷ viên BCSĐ, Phó Chánh án TAND tỉnh Quảng Ninh",
+      "violation": "Vi phạm các quy định của Đảng, pháp luật Nhà nước; vi phạm các Quy chế làm việc của Tỉnh ủy, BCSĐ TAND tỉnh; vi phạm nguyên tắc tập trung dân chủ, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo trong việc xét, quyết định giảm thời hạn chấp hành án phạt tù cho phạm nhân Phan Sào Nam khi không đủ điều kiện.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ sáu của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Nguyễn Thúy Hằng",
+      "former_position": "Bí thư Chi bộ, Chánh Tòa Dân sự tỉnh Quảng Ninh",
+      "violation": "Vi phạm các quy định của Đảng, pháp luật Nhà nước; vi phạm các Quy chế làm việc của Tỉnh ủy, BCSĐ TAND tỉnh; vi phạm nguyên tắc tập trung dân chủ, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo trong việc xét, quyết định giảm thời hạn chấp hành án phạt tù cho phạm nhân Phan Sào Nam khi không đủ điều kiện.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ sáu của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Nguyễn Thị Thu Hiền",
+      "former_position": "Phó Trưởng Phòng Kiểm tra nghiệp vụ và Thi hành án, TAND tỉnh Quảng Ninh.",
+      "violation": "Vi phạm các quy định của Đảng, pháp luật Nhà nước; vi phạm các Quy chế làm việc của Tỉnh ủy, BCSĐ TAND tỉnh; vi phạm nguyên tắc tập trung dân chủ, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo trong việc xét, quyết định giảm thời hạn chấp hành án phạt tù cho phạm nhân Phan Sào Nam khi không đủ điều kiện.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ sáu của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Nguyễn Huy Ban",
+      "former_position": "Bí thư BCSĐ, Tổng Giám đốc Bảo hiểm xã hội (BHXH) Việt Nam",
+      "violation": "Vi phạm các quy định của Đảng, pháp luật Nhà nước trong việc cho Công ty Cho thuê tài chính II thuộc Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam (ALC II) vay vốn từ Quỹ BHXH trái quy định, gây hậu quả rất nghiêm trọng, thiệt hại lớn tiền của Nhà nước.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ sáu của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Lê Bạch Hồng",
+      "former_position": "Thứ trưởng Bộ Lao động - Thương binh và Xã hội , Bí thư BCSĐ, Tổng Giám đốc BHXH Việt Nam",
+      "violation": "Vi phạm các quy định của Đảng, pháp luật Nhà nước trong việc cho Công ty Cho thuê tài chính II thuộc Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam (ALC II) vay vốn từ Quỹ BHXH trái quy định, gây hậu quả rất nghiêm trọng, thiệt hại lớn tiền của Nhà nước.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ sáu của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Vũ Liên Oanh",
+      "former_position": "Tỉnh ủy viên, nguyên Bí thư Đảng ủy, Giám đốc Sở Giáo dục và Đào tạo tỉnh Quảng Ninh",
+      "violation": "Vi phạm các quy định của Đảng, pháp luật Nhà nước và quy chế làm việc; thiếu trách nhiệm trong lãnh đạo, chỉ đạo, kiểm tra, giám sát, để xảy ra nhiều vi phạm trong thực hiện các dự án đầu tư xây dựng, mua sắm trang thiết bị giáo dục cho các trường học.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ sáu của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Nguyễn Phước Tường",
+      "former_position": "Đảng ủy viên, Trưởng Ban Kế hoạch - Tài chính kiêm Kế toán trưởng BHXH Việt Nam",
+      "violation": "Vi phạm các quy định của Đảng, pháp luật Nhà nước trong chỉ đạo lập, thẩm định các tờ trình, tham mưu Lãnh đạo BHXH Việt Nam cho Công ty ALC II vay vốn từ Quỹ BHXH trái quy định, gây thiệt hại lớn tiền của Nhà nước.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ sáu của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Đặng Đình Lương",
+      "former_position": "Đại tá , Bí thư Đảng ủy, nguyên Chủ tịch Hội đồng thành viên Tổng Công ty Hợp tác kinh tế, Quân khu IV",
+      "violation": "Vi phạm nghiêm trọng các quy định của Đảng, pháp luật Nhà nước và kỷ luật Quân đội trong lãnh đạo, chỉ huy, quản lý, sử dụng ngân sách nhà nước.",
+      "party_discipline": "Cách chức tất cả các chức vụ trong Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ sáu của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Nguyễn Chính Nghĩa",
+      "former_position": "Đại tá, Bí thư Đảng ủy, Chủ tịch Hội đồng thành viên Tổng Công ty Hợp tác kinh tế, Quân khu IV",
+      "violation": "Vi phạm nghiêm trọng các quy định của Đảng, pháp luật Nhà nước và kỷ luật Quân đội trong lãnh đạo, chỉ huy, quản lý, sử dụng ngân sách nhà nước.",
+      "party_discipline": "Cách chức tất cả các chức vụ trong Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ sáu của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Nguyễn Văn Lịch",
+      "former_position": "Thượng tá , Bí thư Chi bộ, Trưởng Phòng Tổ chức Lao động - Tiền lương Tổng Công ty Hợp tác kinh tế, Quân khu IV",
+      "violation": "Vi phạm nghiêm trọng các quy định của Đảng, pháp luật Nhà nước và kỷ luật Quân đội trong lãnh đạo, chỉ huy, quản lý, sử dụng ngân sách nhà nước.",
+      "party_discipline": "Cách chức tất cả các chức vụ trong Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ sáu của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Lê Duy Ái",
+      "former_position": "Đại tá, Bí thư Đảng ủy, Phó Giám đốc Công ty Phát triển miền núi",
+      "violation": "Vi phạm nghiêm trọng các quy định của Đảng, pháp luật Nhà nước và kỷ luật Quân đội trong lãnh đạo, chỉ huy, quản lý, sử dụng ngân sách nhà nước.",
+      "party_discipline": "Cách chức tất cả các chức vụ trong Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ sáu của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Bùi Trường Thắng",
+      "former_position": "Đảng ủy viên, Phó Tổng Giám đốc Tổng Công ty Cổ phần Bia - Rượu - Nước giải khát Hà Nội, Phó Vụ trưởng Vụ Công nghiệp nhẹ (nay là Cục Công nghiệp), Bộ Công Thương",
+      "violation": "vi phạm trong việc tham mưu quản lý, sử dụng khu đất số 2-4-6 Hai Bà Trưng, Quận 1 , Thành phố Hồ Chí Minh .",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ sáu của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Nguyễn Quang Đạm",
+      "former_position": "Trung tướng, Phó Bí thư Đảng ủy, Tư lệnh CSB Việt Nam",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Tư lệnh CSB và nhiều cán bộ, đảng viên, trong đó có cán bộ, lãnh đạo chủ chốt Bộ Tư lệnh và lãnh đạo, chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác quản lý, sử dụng tài chính, thực hiện dự án đầu tư xây dựng cơ bản, mua sắm vật tư, trang bị kỹ thuật và trong đấu tranh phòng, chống buôn lậu, giữ gìn an ninh, trật tự, an toàn trên biển.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ bảy của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Nguyễn Văn Hưng",
+      "former_position": "Đại tá, Đảng uỷ viên, Phó Tư lệnh CSB Việt Nam",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Tư lệnh CSB và nhiều cán bộ, đảng viên, trong đó có cán bộ, lãnh đạo chủ chốt Bộ Tư lệnh và lãnh đạo, chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác quản lý, sử dụng tài chính, thực hiện dự án đầu tư xây dựng cơ bản, mua sắm vật tư, trang bị kỹ thuật và trong đấu tranh phòng, chống buôn lậu, giữ gìn an ninh, trật tự, an toàn trên biển.",
+      "party_discipline": "Cách chức tất cả các chức vụ trong Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ bảy của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Ngô Bình Minh",
+      "former_position": "Thiếu tướng, Đảng ủy viên CSB Việt Nam, Phó Bí thư Đảng uỷ, Tư lệnh Vùng CSB 1",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Tư lệnh CSB và nhiều cán bộ, đảng viên, trong đó có cán bộ, lãnh đạo chủ chốt Bộ Tư lệnh và lãnh đạo, chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác quản lý, sử dụng tài chính, thực hiện dự án đầu tư xây dựng cơ bản, mua sắm vật tư, trang bị kỹ thuật và trong đấu tranh phòng, chống buôn lậu, giữ gìn an ninh, trật tự, an toàn trên biển.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ bảy của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Phùng Danh Thoại",
+      "former_position": "Đại tá, Đảng uỷ viên, Bí thư Chi bộ, Trưởng Phòng Xăng dầu, Cục Hậu cần",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Tư lệnh CSB và nhiều cán bộ, đảng viên, trong đó có cán bộ, lãnh đạo chủ chốt Bộ Tư lệnh và lãnh đạo, chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác quản lý, sử dụng tài chính, thực hiện dự án đầu tư xây dựng cơ bản, mua sắm vật tư, trang bị kỹ thuật và trong đấu tranh phòng, chống buôn lậu, giữ gìn an ninh, trật tự, an toàn trên biển.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ bảy của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Lưu Thế Đức",
+      "former_position": "Thiếu tá, Đảng ủy viên, Phó Đoàn trưởng Đoàn Trinh sát số 2.",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Tư lệnh CSB và nhiều cán bộ, đảng viên, trong đó có cán bộ, lãnh đạo chủ chốt Bộ Tư lệnh và lãnh đạo, chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác quản lý, sử dụng tài chính, thực hiện dự án đầu tư xây dựng cơ bản, mua sắm vật tư, trang bị kỹ thuật và trong đấu tranh phòng, chống buôn lậu, giữ gìn an ninh, trật tự, an toàn trên biển.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ bảy của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Hoàng Văn Đồng",
+      "former_position": "Trung tướng, Bí thư Đảng ủy, nguyên Chính ủy Đảng ủy CSB Việt Nam nhiệm kỳ 2015-2020",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Tư lệnh CSB và nhiều cán bộ, đảng viên, trong đó có cán bộ, lãnh đạo chủ chốt Bộ Tư lệnh và lãnh đạo, chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác quản lý, sử dụng tài chính, thực hiện dự án đầu tư xây dựng cơ bản, mua sắm vật tư, trang bị kỹ thuật và trong đấu tranh phòng, chống buôn lậu, giữ gìn an ninh, trật tự, an toàn trên biển.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ bảy của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Doãn Bảo Quyết",
+      "former_position": "Thiếu tướng, Ủy viên Ban Thường vụ Đảng uỷ, Phó Chính ủy Đảng ủy CSB Việt Nam nhiệm kỳ 2015-2020",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Tư lệnh CSB và nhiều cán bộ, đảng viên, trong đó có cán bộ, lãnh đạo chủ chốt Bộ Tư lệnh và lãnh đạo, chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác quản lý, sử dụng tài chính, thực hiện dự án đầu tư xây dựng cơ bản, mua sắm vật tư, trang bị kỹ thuật và trong đấu tranh phòng, chống buôn lậu, giữ gìn an ninh, trật tự, an toàn trên biển.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ bảy của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Phạm Kim Hậu",
+      "former_position": "Thiếu tướng, Phó Tư lệnh - Tham mưu trưởng CSB Việt Nam nhiệm kỳ 2015-2020",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Tư lệnh CSB và nhiều cán bộ, đảng viên, trong đó có cán bộ, lãnh đạo chủ chốt Bộ Tư lệnh và lãnh đạo, chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác quản lý, sử dụng tài chính, thực hiện dự án đầu tư xây dựng cơ bản, mua sắm vật tư, trang bị kỹ thuật và trong đấu tranh phòng, chống buôn lậu, giữ gìn an ninh, trật tự, an toàn trên biển.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ bảy của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Trần Văn Nam",
+      "former_position": "Thiếu tướng, Ủy viên Ban Thường vụ Đảng ủy, Phó Tư lệnh CSB Việt Nam nhiệm kỳ 2015-2020",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Tư lệnh CSB và nhiều cán bộ, đảng viên, trong đó có cán bộ, lãnh đạo chủ chốt Bộ Tư lệnh và lãnh đạo, chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác quản lý, sử dụng tài chính, thực hiện dự án đầu tư xây dựng cơ bản, mua sắm vật tư, trang bị kỹ thuật và trong đấu tranh phòng, chống buôn lậu, giữ gìn an ninh, trật tự, an toàn trên biển.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ bảy của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Bùi Trung Dũng",
+      "former_position": "Thiếu tướng, Đảng uỷ viên, Phó Tư lệnh CSB Việt Nam",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Tư lệnh CSB và nhiều cán bộ, đảng viên, trong đó có cán bộ, lãnh đạo chủ chốt Bộ Tư lệnh và lãnh đạo, chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác quản lý, sử dụng tài chính, thực hiện dự án đầu tư xây dựng cơ bản, mua sắm vật tư, trang bị kỹ thuật và trong đấu tranh phòng, chống buôn lậu, giữ gìn an ninh, trật tự, an toàn trên biển.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ bảy của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Đào Hồng Nghiệp",
+      "former_position": "Thiếu tướng, Tư lệnh Vùng CSB 2",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Tư lệnh CSB và nhiều cán bộ, đảng viên, trong đó có cán bộ, lãnh đạo chủ chốt Bộ Tư lệnh và lãnh đạo, chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác quản lý, sử dụng tài chính, thực hiện dự án đầu tư xây dựng cơ bản, mua sắm vật tư, trang bị kỹ thuật và trong đấu tranh phòng, chống buôn lậu, giữ gìn an ninh, trật tự, an toàn trên biển.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ bảy của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Lê Xuân Thanh",
+      "former_position": "Thiếu tướng, Phó Bí thư Đảng uỷ, Tư lệnh Vùng CSB 3",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Tư lệnh CSB và nhiều cán bộ, đảng viên, trong đó có cán bộ, lãnh đạo chủ chốt Bộ Tư lệnh và lãnh đạo, chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác quản lý, sử dụng tài chính, thực hiện dự án đầu tư xây dựng cơ bản, mua sắm vật tư, trang bị kỹ thuật và trong đấu tranh phòng, chống buôn lậu, giữ gìn an ninh, trật tự, an toàn trên biển.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ bảy của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Lê Văn Minh",
+      "former_position": "Phó Bí thư Đảng uỷ, Tư lệnh Vùng CSB 4.",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Tư lệnh CSB và nhiều cán bộ, đảng viên, trong đó có cán bộ, lãnh đạo chủ chốt Bộ Tư lệnh và lãnh đạo, chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác quản lý, sử dụng tài chính, thực hiện dự án đầu tư xây dựng cơ bản, mua sắm vật tư, trang bị kỹ thuật và trong đấu tranh phòng, chống buôn lậu, giữ gìn an ninh, trật tự, an toàn trên biển.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ bảy của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-09",
+      "name": "Nguyễn Hữu Chiến",
+      "former_position": "Tỉnh ủy viên, Giám đốc Sở Kế hoạch và Đầu tư, Bí thư Đảng ủy, Giám đốc Sở Tài nguyên và Môi trường tỉnh Lạng Sơn",
+      "violation": "Thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để xảy ra vi phạm nghiêm trọng trong thực hiện các Dự án xử lý, cải tạo và phục hồi môi trường điểm tồn lưu hoá chất bảo vệ thực vật; nhiều cán bộ lãnh đạo chủ chốt bị kỷ luật, một số bị xử lý hình sự. Chịu trách nhiệm người đứng đầu về vi phạm, khuyết điểm của Đảng ủy, chịu trách nhiệm trực tiếp về những vi phạm, khuyết điểm trong việc ký các hợp đồng, quyết định thực hiện Dự án, để cấp dưới làm trái quy định của Đảng và pháp luật Nhà nước.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ bảy của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-11",
+      "name": "Nguyễn Trường Sơn",
+      "former_position": "Ủy viên Ban cán sự đảng, Thứ trưởng Bộ Y tế",
+      "violation": "Vi phạm các nguyên tắc hoạt động của Đảng, Quy chế làm việc của Ban cán sự đảng; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Bộ Y tế, Cục Quản lý Dược, nhiều đơn vị, cơ sở khám chữa bệnh và cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong công tác xây dựng, ban hành thể chế, chính sách; trong việc cấp phép nhập khẩu thuốc, thực hiện liên doanh liên kết, đấu thầu, mua sắm thuốc, trang thiết bị y tế và vật tư tiêu hao; để nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tám và Kỳ họp thứ 15 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-11",
+      "name": "Nguyễn Quang Tuấn",
+      "former_position": "Bí thư Đảng ủy, Giám đốc, Giám đốc Bệnh viện Tim Hà Nội",
+      "violation": "Vi phạm các nguyên tắc hoạt động của Đảng, Quy chế làm việc của Ban cán sự đảng; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Bộ Y tế, Cục Quản lý Dược, nhiều đơn vị, cơ sở khám chữa bệnh và cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong công tác xây dựng, ban hành thể chế, chính sách; trong việc cấp phép nhập khẩu thuốc, thực hiện liên doanh liên kết, đấu thầu, mua sắm thuốc, trang thiết bị y tế và vật tư tiêu hao; để nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tám của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-11",
+      "name": "Nguyễn Quốc Anh",
+      "former_position": "Bí thư Đảng ủy, nguyên Giám đốc Bệnh viện Tim Hà Nội",
+      "violation": "Vi phạm các nguyên tắc hoạt động của Đảng, Quy chế làm việc của Ban cán sự đảng; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Bộ Y tế, Cục Quản lý Dược, nhiều đơn vị, cơ sở khám chữa bệnh và cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong công tác xây dựng, ban hành thể chế, chính sách; trong việc cấp phép nhập khẩu thuốc, thực hiện liên doanh liên kết, đấu thầu, mua sắm thuốc, trang thiết bị y tế và vật tư tiêu hao; để nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tám của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-11",
+      "name": "Nguyễn Ngọc Hiền",
+      "former_position": "Phó Bí thư Đảng ủy, Phó Giám đốc Bệnh viện Tim Hà Nội",
+      "violation": "Vi phạm các nguyên tắc hoạt động của Đảng, Quy chế làm việc của Ban cán sự đảng; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Bộ Y tế, Cục Quản lý Dược, nhiều đơn vị, cơ sở khám chữa bệnh và cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong công tác xây dựng, ban hành thể chế, chính sách; trong việc cấp phép nhập khẩu thuốc, thực hiện liên doanh liên kết, đấu thầu, mua sắm thuốc, trang thiết bị y tế và vật tư tiêu hao; để nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tám của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-11",
+      "name": "Nguyễn Chiến Thắng",
+      "former_position": "Bí thư Chi bộ, Giám đốc Ban Quản lý dự án công trình y tế trọng điểm, Giám đốc Ban Quản lý dự án chuyên ngành xây dựng công trình y tế, Bộ Y tế .",
+      "violation": "Vi phạm các nguyên tắc hoạt động của Đảng, Quy chế làm việc của Ban cán sự đảng; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Bộ Y tế, Cục Quản lý Dược, nhiều đơn vị, cơ sở khám chữa bệnh và cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong công tác xây dựng, ban hành thể chế, chính sách; trong việc cấp phép nhập khẩu thuốc, thực hiện liên doanh liên kết, đấu thầu, mua sắm thuốc, trang thiết bị y tế và vật tư tiêu hao; để nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Cách chức tất cả các chức vụ trong Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tám của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-11",
+      "name": "Nguyễn Thế Thịnh",
+      "former_position": "Bí thư Chi bộ, Cục trưởng Cục Quản lý Y, Dược cổ truyền",
+      "violation": "Vi phạm các nguyên tắc hoạt động của Đảng, Quy chế làm việc của Ban cán sự đảng; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Bộ Y tế, Cục Quản lý Dược, nhiều đơn vị, cơ sở khám chữa bệnh và cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong công tác xây dựng, ban hành thể chế, chính sách; trong việc cấp phép nhập khẩu thuốc, thực hiện liên doanh liên kết, đấu thầu, mua sắm thuốc, trang thiết bị y tế và vật tư tiêu hao; để nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tám của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-11",
+      "name": "Vũ Tuấn Cường",
+      "former_position": "Đảng ủy viên Bộ Y tế, Bí thư Đảng ủy, Cục trưởng Cục Quản lý Dược",
+      "violation": "Vi phạm các nguyên tắc hoạt động của Đảng, Quy chế làm việc của Ban cán sự đảng; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Bộ Y tế, Cục Quản lý Dược, nhiều đơn vị, cơ sở khám chữa bệnh và cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong công tác xây dựng, ban hành thể chế, chính sách; trong việc cấp phép nhập khẩu thuốc, thực hiện liên doanh liên kết, đấu thầu, mua sắm thuốc, trang thiết bị y tế và vật tư tiêu hao; để nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tám của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-11",
+      "name": "Nguyễn Trí Dũng",
+      "former_position": "Bí thư Chi bộ, Giám đốc Trung tâm mua sắm tập trung thuốc Quốc gia.",
+      "violation": "Vi phạm các nguyên tắc hoạt động của Đảng, Quy chế làm việc của Ban cán sự đảng; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Bộ Y tế, Cục Quản lý Dược, nhiều đơn vị, cơ sở khám chữa bệnh và cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong công tác xây dựng, ban hành thể chế, chính sách; trong việc cấp phép nhập khẩu thuốc, thực hiện liên doanh liên kết, đấu thầu, mua sắm thuốc, trang thiết bị y tế và vật tư tiêu hao; để nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ tám của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Phạm Văn Trên",
+      "former_position": "Đại tá, Phó Bí thư Đảng ủy, Chỉ huy trưởng Bộ đội Biên phòng tỉnh Trà Vinh",
+      "violation": "Vi phạm các nguyên tắc, quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy Bộ đội Biên phòng tỉnh và nhiều cán bộ, đảng viên liên quan, trong đó có cán bộ lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác đấu tranh phòng, chống buôn lậu, trong quản lý, sử dụng tài chính, tài sản.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ chín của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Nguyễn Văn Hùng",
+      "former_position": "Thượng tá, Đảng ủy viên Bộ đội Biên phòng tỉnh Trà Vinh, Phó Bí thư Đảng ủy, Đồn trưởng Đồn Biên phòng cửa khẩu cảng Trường Long Hòa",
+      "violation": "Vi phạm các nguyên tắc, quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy Bộ đội Biên phòng tỉnh và nhiều cán bộ, đảng viên liên quan, trong đó có cán bộ lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác đấu tranh phòng, chống buôn lậu, trong quản lý, sử dụng tài chính, tài sản.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ chín của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Sơn Hoàng Ngự",
+      "former_position": "Thượng úy, cán bộ Đồn Biên phòng cửa khẩu cảng Trường Long Hòa",
+      "violation": "Vi phạm các nguyên tắc, quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy Bộ đội Biên phòng tỉnh và nhiều cán bộ, đảng viên liên quan, trong đó có cán bộ lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác đấu tranh phòng, chống buôn lậu, trong quản lý, sử dụng tài chính, tài sản.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ chín của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Lê Văn Phương",
+      "former_position": "Phó Trưởng Phòng Cảnh sát giao thông đường thủy, Công an tỉnh Trà Vinh",
+      "violation": "Vi phạm các nguyên tắc, quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy Bộ đội Biên phòng tỉnh và nhiều cán bộ, đảng viên liên quan, trong đó có cán bộ lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác đấu tranh phòng, chống buôn lậu, trong quản lý, sử dụng tài chính, tài sản.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ chín của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Phạm Hồ Hải",
+      "former_position": "Trưởng đại diện Cảng vụ hàng hải Cần Thơ tại Duyên Hải, tỉnh Trà Vinh .",
+      "violation": "Vi phạm các nguyên tắc, quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy Bộ đội Biên phòng tỉnh và nhiều cán bộ, đảng viên liên quan, trong đó có cán bộ lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác đấu tranh phòng, chống buôn lậu, trong quản lý, sử dụng tài chính, tài sản.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ chín của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Nguyễn Văn Ri",
+      "former_position": "Đại tá, Bí thư Đảng ủy, nguyên Chính ủy Bộ đội Biên phòng tỉnh Trà Vinh",
+      "violation": "Vi phạm các nguyên tắc, quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy Bộ đội Biên phòng tỉnh và nhiều cán bộ, đảng viên liên quan, trong đó có cán bộ lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác đấu tranh phòng, chống buôn lậu, trong quản lý, sử dụng tài chính, tài sản.",
+      "party_discipline": "Cách chức tất cả các chức vụ trong Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ chín của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Nguyễn Quốc Viễn",
+      "former_position": "Thượng tá, hó Tham mưu trưởng Bộ đội Biên phòng tỉnh Trà Vinh, Bí thư Đảng ủy Phòng Tham mưu, Phó Bí thư Đảng ủy, Đồn trưởng Đồn Biên phòng Long Vĩnh",
+      "violation": "Vi phạm các nguyên tắc, quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy Bộ đội Biên phòng tỉnh và nhiều cán bộ, đảng viên liên quan, trong đó có cán bộ lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác đấu tranh phòng, chống buôn lậu, trong quản lý, sử dụng tài chính, tài sản.",
+      "party_discipline": "Cách chức tất cả các chức vụ trong Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ chín của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Nguyễn Minh Sơn",
+      "former_position": "Thiếu tá, Đảng ủy viên Bộ đội Biên phòng tỉnh Trà Vin, Phó Bí thư Đảng ủy, Đồn trưởng Đồn Biên phòng Long Vĩnh.",
+      "violation": "Vi phạm các nguyên tắc, quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy Bộ đội Biên phòng tỉnh và nhiều cán bộ, đảng viên liên quan, trong đó có cán bộ lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác đấu tranh phòng, chống buôn lậu, trong quản lý, sử dụng tài chính, tài sản.",
+      "party_discipline": "Cách chức tất cả các chức vụ trong Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ chín của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Đỗ Hữu Lộc",
+      "former_position": "Tỉnh ủy viên, Bí thư Đảng ủy, Chính ủy Bộ đội Biên phòng tỉnh Trà Vinh.",
+      "violation": "Vi phạm các nguyên tắc, quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy Bộ đội Biên phòng tỉnh và nhiều cán bộ, đảng viên liên quan, trong đó có cán bộ lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống; vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong công tác đấu tranh phòng, chống buôn lậu, trong quản lý, sử dụng tài chính, tài sản.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ chín của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Nguyễn Minh Tuấn",
+      "former_position": "Bí thư Chi bộ, Vụ trưởng Vụ Trang thiết bị và Công trình y tế , Bộ Y tế",
+      "violation": "Vi phạm quy định của Đảng, pháp luật Nhà nước trong việc phê duyệt, giao tổ chức thực hiện, ký hợp đồng, đánh giá, nghiệm thu, chuyển giao, quản lý, kiểm tra, giám sát, thanh quyết toán kinh phí thực hiện Đề tài khoa học nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 của Học viện Quân y; trong truyền thông, xác nhận và đề nghị khen thưởng đối với Học viện Quân y, Công ty Cổ phần Công nghệ Việt Á và một số cá nhân.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ chín và Kỳ họp thứ 15 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Nguyễn Nam Liên",
+      "former_position": "Phó Bí thư Đảng ủy, Trưởng Ban Tổ chức Đảng ủy Bộ, Bí thư Đảng ủy, Vụ trưởng Vụ Kế hoạch - Tài chính, Bộ Y tế",
+      "violation": "Vi phạm quy định của Đảng, pháp luật Nhà nước trong việc phê duyệt, giao tổ chức thực hiện, ký hợp đồng, đánh giá, nghiệm thu, chuyển giao, quản lý, kiểm tra, giám sát, thanh quyết toán kinh phí thực hiện Đề tài khoa học nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 của Học viện Quân y; trong truyền thông, xác nhận và đề nghị khen thưởng đối với Học viện Quân y, Công ty Cổ phần Công nghệ Việt Á và một số cá nhân.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ chín và Kỳ họp thứ 15 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Nguyễn Huy Quang",
+      "former_position": "Ủy viên Ban Thường vụ, Chủ nhiệm Ủy ban Kiểm tra Đảng ủy Bộ, Bí thư Chi bộ, Vụ trưởng Vụ Pháp chế",
+      "violation": "Liên quan đến vi phạm của Ban cán sự đảng Bộ Y tế nhiệm kỳ 2016 – 2021",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ chín của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Trần Quý Tường",
+      "former_position": "Bí thư Chi bộ, Cục trưởng Cục Công nghệ thông tin , Bộ Y tế .",
+      "violation": "Liên quan đến vi phạm của Ban cán sự đảng Bộ Y tế nhiệm kỳ 2016 – 2021",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ chín của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Lê Hùng Sơn",
+      "former_position": "Tỉnh ủy viên, Bí thư Huyện ủy, Chủ tịch UBND huyện Cô Tô",
+      "violation": "Vi phạm Quy chế làm việc, thiếu tu dưỡng, rèn luyện, vi phạm nghiêm trọng phẩm chất chính trị, đạo đức lối sống, vi phạm Quy định về những điều đảng viên không được làm, Quy định về trách nhiệm nêu gương, quan hệ bất chính với cán bộ thuộc quyền.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ chín của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Đàm Quang Vinh",
+      "former_position": "Tỉnh ủy viên, Bí thư Đảng ủy, Chánh Thanh tra tỉnh Lào Cai",
+      "violation": "Không trung thực trong việc báo cáo, kê khai lý lịch, sử dụng văn bằng không hợp pháp, vi phạm tiêu chuẩn đảng viên, tiêu chuẩn cấp ủy viên và Quy định về những điều đảng viên không được làm.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ chín của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Vũ Anh Tuấn",
+      "former_position": "Ủy viên Ban Thường vụ Tỉnh ủy Quảng Ninh, Bí thư Đảng ủy Than Quảng Ninh, Phó Tổng Giám đốc Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát để nhiều tổ chức đảng, lãnh đạo và cán bộ các đơn vị cấp dưới vi phạm quy định của Đảng, pháp luật của Nhà nước về quản lý, khai thác than tại tỉnh Quảng Ninh trong thời gian dài; nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 10 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Bùi Văn Ngợi",
+      "former_position": "Ủy viên Ban Thường vụ, Trưởng Ban Tuyên giáo Đảng ủy Than Quảng Ninh, Bí thư Đảng ủy Công ty Than Hạ Long",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát để nhiều tổ chức đảng, lãnh đạo và cán bộ các đơn vị cấp dưới vi phạm quy định của Đảng, pháp luật của Nhà nước về quản lý, khai thác than tại tỉnh Quảng Ninh trong thời gian dài; nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 10 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Đỗ Cảnh Dương",
+      "former_position": "Ủy viên Ban Thường vụ Đảng ủy Bộ Tài nguyên và Môi trường , Bí thư Đảng ủy, Tổng cục trưởng Tổng cục Địa chất và Khoáng sản Việt Nam",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát để nhiều tổ chức đảng, lãnh đạo và cán bộ các đơn vị cấp dưới vi phạm quy định của Đảng, pháp luật của Nhà nước về quản lý, khai thác than tại tỉnh Quảng Ninh trong thời gian dài; nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 10 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Lại Hồng Thanh",
+      "former_position": "Phó Bí thư Đảng ủy, Phó Tổng cục trưởng Tổng cục Địa chất và Khoáng sản Việt Nam .",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát để nhiều tổ chức đảng, lãnh đạo và cán bộ các đơn vị cấp dưới vi phạm quy định của Đảng, pháp luật của Nhà nước về quản lý, khai thác than tại tỉnh Quảng Ninh trong thời gian dài; nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 10 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Ngô Hoàng Ngân",
+      "former_position": "Phó Bí thư Thường trực Tỉnh ủy, Trưởng Đoàn đại biểu Quốc hội tỉnh Quảng Ninh, Bí thư Đảng ủy Than Quảng Ninh nhiệm kỳ 2015-2020, Phó Tổng Giám đốc Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam (giai đoạn từ tháng 11/2013 đến tháng 5/2016)",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát để nhiều tổ chức đảng, lãnh đạo và cán bộ các đơn vị cấp dưới vi phạm quy định của Đảng, pháp luật của Nhà nước về quản lý, khai thác than tại tỉnh Quảng Ninh trong thời gian dài; nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 10 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Nguyễn Linh Ngọc",
+      "former_position": "Ủy viên Ban cán sự đảng, nguyên Thứ trưởng Bộ Tài nguyên và Môi trường",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát để nhiều tổ chức đảng, lãnh đạo và cán bộ các đơn vị cấp dưới vi phạm quy định của Đảng, pháp luật của Nhà nước về quản lý, khai thác than tại tỉnh Quảng Ninh trong thời gian dài; nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 10 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Cao Hoàng Phương",
+      "former_position": "Đảng ủy viên Tổng cục, Bí thư Chi bộ, Vụ trưởng Vụ Khoáng sản, Tổng cục Địa chất và Khoáng sản Việt Nam .",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát để nhiều tổ chức đảng, lãnh đạo và cán bộ các đơn vị cấp dưới vi phạm quy định của Đảng, pháp luật của Nhà nước về quản lý, khai thác than tại tỉnh Quảng Ninh trong thời gian dài; nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 10 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Trịnh Minh Cương",
+      "former_position": "Bí thư Chi bộ, Cục trưởng Cục Kiểm soát hoạt động khoáng sản miền Bắc, Tổng cục Địa chất và Khoáng sản Việt Nam .",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát để nhiều tổ chức đảng, lãnh đạo và cán bộ các đơn vị cấp dưới vi phạm quy định của Đảng, pháp luật của Nhà nước về quản lý, khai thác than tại tỉnh Quảng Ninh trong thời gian dài; nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 10 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Nguyễn Thị Xuân Thu",
+      "former_position": "Bí thư Đảng đoàn, Chủ tịch Hội Chữ thập đỏ Việt Nam",
+      "violation": "Vi phạm các nguyên tắc hoạt động của Đảng, Quy chế làm việc của Đảng đoàn; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Ban Thường vụ, Thường trực Trung ương Hội, một số đơn vị và cá nhân có nhiều vi phạm, khuyết điểm trong công tác tổ chức - cán bộ; quản lý tài chính; quy hoạch, sắp xếp và quản lý các cơ quan báo chí trực thuộc Cơ quan Trung ương Hội.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 10 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Nguyễn Hải Anh",
+      "former_position": "Ủy viên Đảng đoàn, Phó Chủ tịch, Tổng Thư ký, Bí thư Đảng ủy Cơ quan Trung ương Hội Chữ thập đỏ Việt Nam",
+      "violation": "Vi phạm các nguyên tắc hoạt động của Đảng, Quy chế làm việc của Đảng đoàn; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Ban Thường vụ, Thường trực Trung ương Hội, một số đơn vị và cá nhân có nhiều vi phạm, khuyết điểm trong công tác tổ chức - cán bộ; quản lý tài chính; quy hoạch, sắp xếp và quản lý các cơ quan báo chí trực thuộc Cơ quan Trung ương Hội.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 10 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Trần Quốc Hùng",
+      "former_position": "Ủy viên Đảng đoàn, Phó Chủ tịch Hội Chữ thập đỏ Việt Nam",
+      "violation": "Vi phạm các nguyên tắc hoạt động của Đảng, Quy chế làm việc của Đảng đoàn; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Ban Thường vụ, Thường trực Trung ương Hội, một số đơn vị và cá nhân có nhiều vi phạm, khuyết điểm trong công tác tổ chức - cán bộ; quản lý tài chính; quy hoạch, sắp xếp và quản lý các cơ quan báo chí trực thuộc Cơ quan Trung ương Hội.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 10 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Đặng Minh Châu",
+      "former_position": "Ủy viên Đảng đoàn, Trưởng Ban Tổ chức, Chánh Văn phòng Đảng đoàn Hội Chữ thập đỏ Việt Nam",
+      "violation": "Vi phạm các nguyên tắc hoạt động của Đảng, Quy chế làm việc của Đảng đoàn; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Ban Thường vụ, Thường trực Trung ương Hội, một số đơn vị và cá nhân có nhiều vi phạm, khuyết điểm trong công tác tổ chức - cán bộ; quản lý tài chính; quy hoạch, sắp xếp và quản lý các cơ quan báo chí trực thuộc Cơ quan Trung ương Hội.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 10 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2021-12",
+      "name": "Đinh Bá Tuấn",
+      "former_position": "Bí thư Chi bộ, Tổng Biên tập Tạp chí điện tử Nhân đạo và Đời sống.",
+      "violation": "Vi phạm các nguyên tắc hoạt động của Đảng, Quy chế làm việc của Đảng đoàn; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Ban Thường vụ, Thường trực Trung ương Hội, một số đơn vị và cá nhân có nhiều vi phạm, khuyết điểm trong công tác tổ chức - cán bộ; quản lý tài chính; quy hoạch, sắp xếp và quản lý các cơ quan báo chí trực thuộc Cơ quan Trung ương Hội.",
+      "party_discipline": "Cách chức tất cả các chức vụ trong Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 10 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-01",
+      "name": "Võ Thành Thống",
+      "former_position": "Ủy viên Ban cán sự đảng, Thứ trưởng Bộ Kế hoạch và Đầu tư , Phó Bí thư Thành ủy, Bí thư Ban cán sự đảng, Chủ tịch UBND Thành phố Cần Thơ",
+      "violation": "Vi phạm nguyên tắc, quy định của Đảng và quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo để UBND Thành phố và một số tổ chức, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong việc mua sắm trang thiết bị y tế, thuốc chữa bệnh, thực hiện dự án đầu tư, cải tạo, nâng cấp bệnh viện; nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 11 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-01",
+      "name": "Lê Văn Tâm",
+      "former_position": "Ủy viên Ban Thường vụ Thành ủy, Phó Bí thư Ban cán sự đảng, Phó Chủ tịch Thường trực UBND Thành phố Cần Thơ",
+      "violation": "Vi phạm nguyên tắc, quy định của Đảng và quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo để UBND Thành phố và một số tổ chức, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong việc mua sắm trang thiết bị y tế, thuốc chữa bệnh, thực hiện dự án đầu tư, cải tạo, nâng cấp bệnh viện; nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 11 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-01",
+      "name": "Nguyễn Văn Hồng",
+      "former_position": "Thành ủy viên, Ủy viên Ban cán sự đảng, Phó Chủ tịch UBND Thành phố Cần Thơ, Giám đốc Sở Kế hoạch và Đầu tư",
+      "violation": "Vi phạm nguyên tắc, quy định của Đảng và quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo để UBND Thành phố và một số tổ chức, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong việc mua sắm trang thiết bị y tế, thuốc chữa bệnh, thực hiện dự án đầu tư, cải tạo, nâng cấp bệnh viện; nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 11 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-01",
+      "name": "Hồ Văn Gia",
+      "former_position": "Giám đốc Sở Tư pháp, nguyên Ủy viên Ban cán sự đảng, Chánh Văn phòng UBND Thành phố Cần Thơ",
+      "violation": "Vi phạm nguyên tắc, quy định của Đảng và quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo để UBND Thành phố và một số tổ chức, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong việc mua sắm trang thiết bị y tế, thuốc chữa bệnh, thực hiện dự án đầu tư, cải tạo, nâng cấp bệnh viện; nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 11 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-01",
+      "name": "Lê Dương Cẩm Thúy",
+      "former_position": "Đảng ủy viên, Phó Giám đốc Sở Kế hoạch và Đầu tư thành phố Cần Thơ",
+      "violation": "Vi phạm nguyên tắc, quy định của Đảng và quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo để UBND Thành phố và một số tổ chức, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong việc mua sắm trang thiết bị y tế, thuốc chữa bệnh, thực hiện dự án đầu tư, cải tạo, nâng cấp bệnh viện; nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 11 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-01",
+      "name": "Lương Tấn Thành",
+      "former_position": "Cán bộ Ban Quản lý dự án các công trình y tế, Sở Y tế thành phố Cần Thơ.",
+      "violation": "Vi phạm nguyên tắc, quy định của Đảng và quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo để UBND Thành phố và một số tổ chức, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong việc mua sắm trang thiết bị y tế, thuốc chữa bệnh, thực hiện dự án đầu tư, cải tạo, nâng cấp bệnh viện; nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 11 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-01",
+      "name": "Hồ Phương Quỳnh",
+      "former_position": "Cán bộ Ban Quản lý dự án các công trình y tế, Sở Y tế thành phố Cần Thơ.",
+      "violation": "Vi phạm nguyên tắc, quy định của Đảng và quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo để UBND Thành phố và một số tổ chức, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong việc mua sắm trang thiết bị y tế, thuốc chữa bệnh, thực hiện dự án đầu tư, cải tạo, nâng cấp bệnh viện; nhiều cán bộ, đảng viên bị kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 11 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-01",
+      "name": "Nguyễn Hùng Sơn",
+      "former_position": "Thượng tá, Tỉnh ủy viên, Phó Bí thư Đảng ủy, Chỉ huy trưởng Bộ đội Biên phòng tỉnh Bà Rịa - Vũng Tàu",
+      "violation": "Vi phạm nguyên tắc của Đảng và quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy BĐBP tỉnh và nhiều cán bộ, đảng viên, trong đó có lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống, vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong quản lý, sử dụng tài chính, tài sản và công tác đấu tranh phòng, chống buôn lậu.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 11 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-01",
+      "name": "Đinh Quốc Tuấn",
+      "former_position": "Đại tá, Bí thư Đảng ủy, Chính ủy Bộ đội Biên phòng tỉnh Bà Rịa - Vũng Tàu",
+      "violation": "Vi phạm nguyên tắc của Đảng và quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy BĐBP tỉnh và nhiều cán bộ, đảng viên, trong đó có lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống, vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong quản lý, sử dụng tài chính, tài sản và công tác đấu tranh phòng, chống buôn lậu.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 11 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-01",
+      "name": "Nguyễn Văn Tiến",
+      "former_position": "Đại tá, Đảng ủy viên, Phó Chỉ huy trưởng Bộ đội Biên phòng tỉnh Bà Rịa - Vũng Tàu",
+      "violation": "Vi phạm nguyên tắc của Đảng và quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy BĐBP tỉnh và nhiều cán bộ, đảng viên, trong đó có lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống, vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong quản lý, sử dụng tài chính, tài sản và công tác đấu tranh phòng, chống buôn lậu.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 11 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-01",
+      "name": "Bùi Nam Đĩnh",
+      "former_position": "Đại tá, Bí thư Đảng ủy, Chính ủy Bộ đội Biên phòng tỉnh Bà Rịa - Vũng Tàu",
+      "violation": "Vi phạm nguyên tắc của Đảng và quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy BĐBP tỉnh và nhiều cán bộ, đảng viên, trong đó có lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống, vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong quản lý, sử dụng tài chính, tài sản và công tác đấu tranh phòng, chống buôn lậu.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 11 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-01",
+      "name": "Đào Quang Hiển",
+      "former_position": "Đại tá, Ủy viên Ban Thường vụ Đảng ủy, Phó Chỉ huy trưởng - Tham mưu trưởng Bộ đội Biên phòng tỉnh Bà Rịa - Vũng Tàu",
+      "violation": "Vi phạm nguyên tắc của Đảng và quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy BĐBP tỉnh và nhiều cán bộ, đảng viên, trong đó có lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống, vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong quản lý, sử dụng tài chính, tài sản và công tác đấu tranh phòng, chống buôn lậu.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 11 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-01",
+      "name": "Trần Văn Trường",
+      "former_position": "Đại tá, Đảng ủy viên, Phó Chỉ huy trưởng Bộ đội Biên phòng tỉnh Bà Rịa - Vũng Tàu",
+      "violation": "Vi phạm nguyên tắc của Đảng và quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy BĐBP tỉnh và nhiều cán bộ, đảng viên, trong đó có lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống, vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong quản lý, sử dụng tài chính, tài sản và công tác đấu tranh phòng, chống buôn lậu.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 11 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-01",
+      "name": "Nguyễn Quốc Hùng",
+      "former_position": "Đại tá, Đảng ủy viên, Phó Chỉ huy trưởng Bộ đội Biên phòng Thành phố Hồ Chí Minh. Đảng ủy viên, Phó Chỉ huy trưởng Bộ đội Biên phòng tỉnh Bà Rịa - Vũng Tàu",
+      "violation": "Vi phạm nguyên tắc của Đảng và quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy BĐBP tỉnh và nhiều cán bộ, đảng viên, trong đó có lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống, vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong quản lý, sử dụng tài chính, tài sản và công tác đấu tranh phòng, chống buôn lậu.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 11 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-01",
+      "name": "Lương Văn Hoan",
+      "former_position": "Trung tá, Chi ủy viên Phòng Hậu cần, Trưởng Ban Tài chính, Bộ đội Biên phòng tỉnh Bà Rịa - Vũng Tàu.",
+      "violation": "Vi phạm nguyên tắc của Đảng và quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy BĐBP tỉnh và nhiều cán bộ, đảng viên, trong đó có lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc thiếu tu dưỡng, rèn luyện phẩm chất chính trị, đạo đức, lối sống, vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Quốc phòng trong quản lý, sử dụng tài chính, tài sản và công tác đấu tranh phòng, chống buôn lậu.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 11 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Đỗ Quyết",
+      "former_position": "Trung tướng, Phó Bí thư Đảng ủy, Giám đốc Học viện Quân y",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và quy chế làm việc của cấp ủy; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để một số cán bộ, lãnh đạo Học viện vi phạm nghiêm trọng các quy định của Đảng, pháp luật của Nhà nước, quy định của Quân ủy Trung ương, Bộ Quốc phòng trong quá trình đề xuất, tổ chức thực hiện nhiệm vụ khoa học, công nghệ cấp quốc gia nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 phục vụ công tác phòng chống dịch và việc mua sắm vật tư, kít xét nghiệm từ Công ty Cổ phần Công nghệ Việt Á .",
+      "party_discipline": "Xem xét kỷ luật",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 12 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Hoàng Văn Lương",
+      "former_position": "Thiếu tướng, Uỷ viên Ban Thường vụ Đảng ủy, Phó Giám đốc Học viện Quân y , Giám đốc Viện Nghiên cứu Y Dược học Quân sự",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và quy chế làm việc của cấp ủy; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để một số cán bộ, lãnh đạo Học viện vi phạm nghiêm trọng các quy định của Đảng, pháp luật của Nhà nước, quy định của Quân ủy Trung ương, Bộ Quốc phòng trong quá trình đề xuất, tổ chức thực hiện nhiệm vụ khoa học, công nghệ cấp quốc gia nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 phục vụ công tác phòng chống dịch và việc mua sắm vật tư, kít xét nghiệm từ Công ty Cổ phần Công nghệ Việt Á .",
+      "party_discipline": "Xem xét kỷ luật",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 12 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Hồ Tú Điền",
+      "former_position": "Đại tá, Phó Bí thư Đảng ủy, Chỉ huy trưởng Bộ đội Biên phòng tỉnh Kiên Giang nhiệm kỳ 2015 - 2020.",
+      "violation": "Vi phạm nguyên tắc của Đảng và Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy BĐBP tỉnh và nhiều cán bộ, đảng viên, trong đó có lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc suy thoái về phẩm chất chính trị, đạo đức, lối sống, vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Quân ủy Trung ương, Bộ Quốc phòng trong công tác cán bộ; trong quản lý, sử dụng tài chính, tài sản, đất quốc phòng, đầu tư xây dựng; trong công tác đấu tranh phòng, chống buôn lậu và gian lận thương mại; phòng, chống tham nhũng, tiêu cực.",
+      "party_discipline": "Cách chức tất cả các chức vụ trong Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 12 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Phạm Văn Sáng",
+      "former_position": "Đại tá, Phó Bí thư Đảng ủy, Chỉ huy trưởng Bộ đội Biên phòng tỉnh Kiên Giang.",
+      "violation": "Vi phạm nguyên tắc của Đảng và Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy BĐBP tỉnh và nhiều cán bộ, đảng viên, trong đó có lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc suy thoái về phẩm chất chính trị, đạo đức, lối sống, vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Quân ủy Trung ương, Bộ Quốc phòng trong công tác cán bộ; trong quản lý, sử dụng tài chính, tài sản, đất quốc phòng, đầu tư xây dựng; trong công tác đấu tranh phòng, chống buôn lậu và gian lận thương mại; phòng, chống tham nhũng, tiêu cực.",
+      "party_discipline": "Cách chức",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 12 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Nguyễn Văn Phương",
+      "former_position": "Đại tá, Đảng ủy viên, Phó Chỉ huy trưởng Bộ đội Biên phòng tỉnh Kiên Giang",
+      "violation": "Vi phạm nguyên tắc của Đảng và Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy BĐBP tỉnh và nhiều cán bộ, đảng viên, trong đó có lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc suy thoái về phẩm chất chính trị, đạo đức, lối sống, vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Quân ủy Trung ương, Bộ Quốc phòng trong công tác cán bộ; trong quản lý, sử dụng tài chính, tài sản, đất quốc phòng, đầu tư xây dựng; trong công tác đấu tranh phòng, chống buôn lậu và gian lận thương mại; phòng, chống tham nhũng, tiêu cực.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 12 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Phạm Chánh Kính",
+      "former_position": "Đại tá, Đảng ủy viên, Phó Chỉ huy trưởng Bộ đội Biên phòng tỉnh Kiên Giang.",
+      "violation": "Vi phạm nguyên tắc của Đảng và Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy BĐBP tỉnh và nhiều cán bộ, đảng viên, trong đó có lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc suy thoái về phẩm chất chính trị, đạo đức, lối sống, vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Quân ủy Trung ương, Bộ Quốc phòng trong công tác cán bộ; trong quản lý, sử dụng tài chính, tài sản, đất quốc phòng, đầu tư xây dựng; trong công tác đấu tranh phòng, chống buôn lậu và gian lận thương mại; phòng, chống tham nhũng, tiêu cực.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 12 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Huỳnh Văn Đông",
+      "former_position": "Đại tá, Bí thư Đảng ủy, Chính ủy Bộ đội Biên phòng tỉnh Kiên Giang",
+      "violation": "Vi phạm nguyên tắc của Đảng và Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy BĐBP tỉnh và nhiều cán bộ, đảng viên, trong đó có lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc suy thoái về phẩm chất chính trị, đạo đức, lối sống, vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Quân ủy Trung ương, Bộ Quốc phòng trong công tác cán bộ; trong quản lý, sử dụng tài chính, tài sản, đất quốc phòng, đầu tư xây dựng; trong công tác đấu tranh phòng, chống buôn lậu và gian lận thương mại; phòng, chống tham nhũng, tiêu cực.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 12 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Bùi Minh Trí",
+      "former_position": "Đại tá, Phó Chỉ huy trưởng Bộ đội Biên phòng tỉnh Kiên Giang",
+      "violation": "Vi phạm nguyên tắc của Đảng và Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Bộ Chỉ huy BĐBP tỉnh và nhiều cán bộ, đảng viên, trong đó có lãnh đạo chủ chốt và chỉ huy các đơn vị trực thuộc suy thoái về phẩm chất chính trị, đạo đức, lối sống, vi phạm các quy định của Đảng, pháp luật của Nhà nước và quy định của Quân ủy Trung ương, Bộ Quốc phòng trong công tác cán bộ; trong quản lý, sử dụng tài chính, tài sản, đất quốc phòng, đầu tư xây dựng; trong công tác đấu tranh phòng, chống buôn lậu và gian lận thương mại; phòng, chống tham nhũng, tiêu cực.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 12 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Nguyễn Viết Lượng",
+      "former_position": "Trung tướng, Bí thư Đảng ủy, Chính ủy Học viện Quân y",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và quy chế làm việc của cấp ủy; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để một số cán bộ, lãnh đạo Học viện vi phạm nghiêm trọng các quy định của Đảng, pháp luật của Nhà nước, quy định của Quân ủy Trung ương, Bộ Quốc phòng trong quá trình đề xuất, tổ chức thực hiện nhiệm vụ khoa học, công nghệ cấp quốc gia nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 phục vụ công tác phòng chống dịch và việc mua sắm vật tư, kít xét nghiệm từ Công ty Cổ phần Công nghệ Việt Á .",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 13 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Nguyễn Tùng Linh",
+      "former_position": "Đại tá, Đảng ủy viên Học viện, Bí thư Chi bộ, Trưởng Phòng Khoa học Quân sự Học viện Quân y",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và quy chế làm việc của cấp ủy; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để một số cán bộ, lãnh đạo Học viện vi phạm nghiêm trọng các quy định của Đảng, pháp luật của Nhà nước, quy định của Quân ủy Trung ương, Bộ Quốc phòng trong quá trình đề xuất, tổ chức thực hiện nhiệm vụ khoa học, công nghệ cấp quốc gia nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 phục vụ công tác phòng chống dịch và việc mua sắm vật tư, kít xét nghiệm từ Công ty Cổ phần Công nghệ Việt Á .",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 13 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Ngô Anh Tuấn",
+      "former_position": "Thiếu tá, Phó Bí thư Chi bộ, Trưởng Phòng Tài chính Học viện Quân y",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và quy chế làm việc của cấp ủy; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để một số cán bộ, lãnh đạo Học viện vi phạm nghiêm trọng các quy định của Đảng, pháp luật của Nhà nước, quy định của Quân ủy Trung ương, Bộ Quốc phòng trong quá trình đề xuất, tổ chức thực hiện nhiệm vụ khoa học, công nghệ cấp quốc gia nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 phục vụ công tác phòng chống dịch và việc mua sắm vật tư, kít xét nghiệm từ Công ty Cổ phần Công nghệ Việt Á .",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 13 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Lê Trường Minh",
+      "former_position": "Thiếu tá, Chi ủy viên, Trưởng Ban Hóa dược, Phòng Trang bị, Vật tư, Học viện Quân y",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và quy chế làm việc của cấp ủy; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để một số cán bộ, lãnh đạo Học viện vi phạm nghiêm trọng các quy định của Đảng, pháp luật của Nhà nước, quy định của Quân ủy Trung ương, Bộ Quốc phòng trong quá trình đề xuất, tổ chức thực hiện nhiệm vụ khoa học, công nghệ cấp quốc gia nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 phục vụ công tác phòng chống dịch và việc mua sắm vật tư, kít xét nghiệm từ Công ty Cổ phần Công nghệ Việt Á .",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 13 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Phạm Nhật Quang",
+      "former_position": "Đại tá, Bí thư Chi bộ Tổng hợp Kế hoạch - Thanh tra, Chánh Thanh tra Học viện Quân y",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và quy chế làm việc của cấp ủy; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để một số cán bộ, lãnh đạo Học viện vi phạm nghiêm trọng các quy định của Đảng, pháp luật của Nhà nước, quy định của Quân ủy Trung ương, Bộ Quốc phòng trong quá trình đề xuất, tổ chức thực hiện nhiệm vụ khoa học, công nghệ cấp quốc gia nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 phục vụ công tác phòng chống dịch và việc mua sắm vật tư, kít xét nghiệm từ Công ty Cổ phần Công nghệ Việt Á .",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 13 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Chu Đức Thành",
+      "former_position": "Đại tá, Phó Bí thư Đảng ủy, Chánh Văn phòng Học viện Quân y",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và quy chế làm việc của cấp ủy; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để một số cán bộ, lãnh đạo Học viện vi phạm nghiêm trọng các quy định của Đảng, pháp luật của Nhà nước, quy định của Quân ủy Trung ương, Bộ Quốc phòng trong quá trình đề xuất, tổ chức thực hiện nhiệm vụ khoa học, công nghệ cấp quốc gia nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 phục vụ công tác phòng chống dịch và việc mua sắm vật tư, kít xét nghiệm từ Công ty Cổ phần Công nghệ Việt Á .",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 13 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Nguyễn Văn Tâm",
+      "former_position": "Trung úy, Chi bộ Viện Nghiên cứu Y Dược học Quân sự, Học viện Quân y .",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và quy chế làm việc của cấp ủy; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để một số cán bộ, lãnh đạo Học viện vi phạm nghiêm trọng các quy định của Đảng, pháp luật của Nhà nước, quy định của Quân ủy Trung ương, Bộ Quốc phòng trong quá trình đề xuất, tổ chức thực hiện nhiệm vụ khoa học, công nghệ cấp quốc gia nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 phục vụ công tác phòng chống dịch và việc mua sắm vật tư, kít xét nghiệm từ Công ty Cổ phần Công nghệ Việt Á .",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 13 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Nguyễn Thành Trung",
+      "former_position": "Trung úy, Chi bộ Viện Nghiên cứu Y Dược học Quân sự, Học viện Quân y .",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và quy chế làm việc của cấp ủy; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để một số cán bộ, lãnh đạo Học viện vi phạm nghiêm trọng các quy định của Đảng, pháp luật của Nhà nước, quy định của Quân ủy Trung ương, Bộ Quốc phòng trong quá trình đề xuất, tổ chức thực hiện nhiệm vụ khoa học, công nghệ cấp quốc gia nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 phục vụ công tác phòng chống dịch và việc mua sắm vật tư, kít xét nghiệm từ Công ty Cổ phần Công nghệ Việt Á .",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 13 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Hồ Anh Sơn",
+      "former_position": "Thượng tá, Bí thư Chi bộ, Phó Giám đốc Viện Nghiên cứu Y Dược học Quân sự, Học viện Quân y .",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và quy chế làm việc của cấp ủy; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để một số cán bộ, lãnh đạo Học viện vi phạm nghiêm trọng các quy định của Đảng, pháp luật của Nhà nước, quy định của Quân ủy Trung ương, Bộ Quốc phòng trong quá trình đề xuất, tổ chức thực hiện nhiệm vụ khoa học, công nghệ cấp quốc gia nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 phục vụ công tác phòng chống dịch và việc mua sắm vật tư, kít xét nghiệm từ Công ty Cổ phần Công nghệ Việt Á .",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 13 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Nguyễn Văn Hiệu",
+      "former_position": "Đại tá, Phó Bí thư Chi bộ, Trưởng Phòng Trang bị, Vật tư Học viện Quân y",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và quy chế làm việc của cấp ủy; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để một số cán bộ, lãnh đạo Học viện vi phạm nghiêm trọng các quy định của Đảng, pháp luật của Nhà nước, quy định của Quân ủy Trung ương, Bộ Quốc phòng trong quá trình đề xuất, tổ chức thực hiện nhiệm vụ khoa học, công nghệ cấp quốc gia nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 phục vụ công tác phòng chống dịch và việc mua sắm vật tư, kít xét nghiệm từ Công ty Cổ phần Công nghệ Việt Á .",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 13 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Nguyễn Hùng Anh",
+      "former_position": "Ủy viên Ban Thường vụ Đảng ủy Cơ quan Tổng cục, Bí thư Đảng ủy, Cục trưởng Cục Điều tra chống buôn lậu, Tổng cục Hải quan",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, quản lý, giáo dục đảng viên, để một số cán bộ, đảng viên suy thoái về phẩm chất chính trị, đạo đức, lối sống; vi phạm quy định của Đảng, pháp luật Nhà nước trong công tác cán bộ; đấu tranh phòng, chống buôn lậu; xử lý vi phạm hành chính, xử lý tang vật; quản lý, sử dụng tài chính, tài sản.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 13 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Nguyễn Phi Hùng",
+      "former_position": "Ủy viên Ban Thường vụ Đảng ủy Cơ quan Tổng cục, nguyên Bí thư Đảng ủy, Cục trưởng Cục Điều tra chống buôn lậu, Tổng cục Hải quan",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, quản lý, giáo dục đảng viên, để một số cán bộ, đảng viên suy thoái về phẩm chất chính trị, đạo đức, lối sống; vi phạm quy định của Đảng, pháp luật Nhà nước trong công tác cán bộ; đấu tranh phòng, chống buôn lậu; xử lý vi phạm hành chính, xử lý tang vật; quản lý, sử dụng tài chính, tài sản.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 13 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Nguyễn Văn Ổn",
+      "former_position": "Đảng ủy viên, Phó Cục trưởng Cục Điều tra chống buôn lậu, Tổng cục Hải quan .",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, quản lý, giáo dục đảng viên, để một số cán bộ, đảng viên suy thoái về phẩm chất chính trị, đạo đức, lối sống; vi phạm quy định của Đảng, pháp luật Nhà nước trong công tác cán bộ; đấu tranh phòng, chống buôn lậu; xử lý vi phạm hành chính, xử lý tang vật; quản lý, sử dụng tài chính, tài sản.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 13 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Ngô Văn Thụy",
+      "former_position": "Bí thư Chi bộ, Đội trưởng Đội 3, Cục Điều tra chống buôn lậu, Tổng cục Hải quan .",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, quản lý, giáo dục đảng viên, để một số cán bộ, đảng viên suy thoái về phẩm chất chính trị, đạo đức, lối sống; vi phạm quy định của Đảng, pháp luật Nhà nước trong công tác cán bộ; đấu tranh phòng, chống buôn lậu; xử lý vi phạm hành chính, xử lý tang vật; quản lý, sử dụng tài chính, tài sản.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 13 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Trần Hồng Quảng",
+      "former_position": "Phó Bí thư Thường trực Tỉnh ủy, Bí thư Đảng đoàn, Chủ tịch Hội đồng nhân dân tỉnh Ninh Bình",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ, Quy chế làm việc, quy định về những điều đảng viên không được làm và trách nhiệm nêu gương; vi phạm các quy định của Đảng, pháp luật Nhà nước trong quản lý đầu tư, xây dựng và công tác cán bộ.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 13 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-03",
+      "name": "Trịnh Xuân Hồng",
+      "former_position": "Tỉnh ủy viên, Uỷ viên Đảng đoàn, Chánh Văn phòng Hội đồng nhân dân tỉnh Ninh Bình.",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ, Quy chế làm việc, quy định về những điều đảng viên không được làm và trách nhiệm nêu gương; vi phạm các quy định của Đảng, pháp luật Nhà nước trong quản lý đầu tư, xây dựng và công tác cán bộ.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 13 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-04",
+      "name": "Nguyễn Thành Nhân",
+      "former_position": "Phó Bí thư Đảng ủy, Ủy viên Hội đồng quản trị, Tổng Giám đốc Liên hiệp Hợp tác xã Thương mại Thành phố Hồ Chí Minh (Saigon Co.op)",
+      "violation": "Thiếu trách nhiệm, vi phạm nguyên tắc tập trung dân chủ và Quy chế làm việc; buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Hội đồng quản trị, Ban Kiểm soát và nhiều cán bộ, đảng viên vi phạm quy định của Đảng, pháp luật của Nhà nước trong việc ký kết hợp đồng hợp tác đầu tư, huy động vốn, tăng vốn điều lệ, tổ chức Đại hội thường niên. Đồng chí Diệp Dũng đã vi phạm quy định của Đảng, pháp luật của Nhà nước, vi phạm Quy định những điều đảng viên không được làm và trách nhiệm nêu gương trong thực hiện chức trách, nhiệm vụ được giao.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 14 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-04",
+      "name": "Nguyễn Vũ Toàn",
+      "former_position": "Đảng ủy viên, Ủy viên Hội đồng quản trị, Phó Tổng Giám đốc Saigon Co.op",
+      "violation": "Thiếu trách nhiệm, vi phạm nguyên tắc tập trung dân chủ và Quy chế làm việc; buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Hội đồng quản trị, Ban Kiểm soát và nhiều cán bộ, đảng viên vi phạm quy định của Đảng, pháp luật của Nhà nước trong việc ký kết hợp đồng hợp tác đầu tư, huy động vốn, tăng vốn điều lệ, tổ chức Đại hội thường niên. Đồng chí Diệp Dũng đã vi phạm quy định của Đảng, pháp luật của Nhà nước, vi phạm Quy định những điều đảng viên không được làm và trách nhiệm nêu gương trong thực hiện chức trách, nhiệm vụ được giao.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 14 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-04",
+      "name": "Nguyễn Thanh Hùng",
+      "former_position": "Ủy viên Hội đồng quản trị Saigon Co.op, Phó Bí thư Chi bộ, Chủ tịch Hội đồng quản trị kiêm Giám đốc Hợp tác xã Củ Chi",
+      "violation": "Thiếu trách nhiệm, vi phạm nguyên tắc tập trung dân chủ và Quy chế làm việc; buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Hội đồng quản trị, Ban Kiểm soát và nhiều cán bộ, đảng viên vi phạm quy định của Đảng, pháp luật của Nhà nước trong việc ký kết hợp đồng hợp tác đầu tư, huy động vốn, tăng vốn điều lệ, tổ chức Đại hội thường niên. Đồng chí Diệp Dũng đã vi phạm quy định của Đảng, pháp luật của Nhà nước, vi phạm Quy định những điều đảng viên không được làm và trách nhiệm nêu gương trong thực hiện chức trách, nhiệm vụ được giao.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 14 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-04",
+      "name": "Hồ Ngọc Hoàng Dũng",
+      "former_position": "Thành viên Ban Kiểm soát Saigon Co.op, Chủ tịch Hội đồng quản trị kiêm Giám đốc Hợp tác xã Phường 6, Quận 4.",
+      "violation": "Thiếu trách nhiệm, vi phạm nguyên tắc tập trung dân chủ và Quy chế làm việc; buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Hội đồng quản trị, Ban Kiểm soát và nhiều cán bộ, đảng viên vi phạm quy định của Đảng, pháp luật của Nhà nước trong việc ký kết hợp đồng hợp tác đầu tư, huy động vốn, tăng vốn điều lệ, tổ chức Đại hội thường niên. Đồng chí Diệp Dũng đã vi phạm quy định của Đảng, pháp luật của Nhà nước, vi phạm Quy định những điều đảng viên không được làm và trách nhiệm nêu gương trong thực hiện chức trách, nhiệm vụ được giao.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 14 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-04",
+      "name": "Hàng Thanh Dân",
+      "former_position": "Ủy viên Hội đồng quản trị Saigon Co.op, Bí thư Chi bộ, Chủ tịch Hội đồng quản trị kiêm Giám đốc Hợp tác xã Thương mại Quận 3.",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và Quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Ban cán sự đảng Uỷ ban nhân dân tỉnh, Ủy ban nhân dân tỉnh và nhiều tổ chức, cá nhân vi phạm các quy định của Đảng, pháp luật của Nhà nước trong quản lý, sử dụng đất, thực hiện một số dự án; một số cán bộ, đảng viên trong đó có cả lãnh đạo chủ chốt của tỉnh bị khởi tố, bắt tạm giam.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 14 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-04",
+      "name": "Lê Nguyễn Thanh Danh",
+      "former_position": "Phó Bí thư Đảng ủy, Phó Giám đốc Sở Tài nguyên và Môi trường Tỉnh Bình Thuận",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và Quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Ban cán sự đảng Uỷ ban nhân dân tỉnh, Ủy ban nhân dân tỉnh và nhiều tổ chức, cá nhân vi phạm các quy định của Đảng, pháp luật của Nhà nước trong quản lý, sử dụng đất, thực hiện một số dự án; một số cán bộ, đảng viên trong đó có cả lãnh đạo chủ chốt của tỉnh bị khởi tố, bắt tạm giam.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 14 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-04",
+      "name": "Ngô Hiếu Toàn",
+      "former_position": "Đảng ủy viên, Phó Giám đốc Sở Tài chính tỉnh Bình Thuận.",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và Quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Ban cán sự đảng Uỷ ban nhân dân tỉnh, Ủy ban nhân dân tỉnh và nhiều tổ chức, cá nhân vi phạm các quy định của Đảng, pháp luật của Nhà nước trong quản lý, sử dụng đất, thực hiện một số dự án; một số cán bộ, đảng viên trong đó có cả lãnh đạo chủ chốt của tỉnh bị khởi tố, bắt tạm giam.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 14 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-04",
+      "name": "Lê Tuấn Phong",
+      "former_position": "Phó Bí thư Tỉnh ủy, Bí thư Ban cán sự đảng, Chủ tịch UBND tỉnh Bình Thuận",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và Quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Ban cán sự đảng Uỷ ban nhân dân tỉnh, Ủy ban nhân dân tỉnh và nhiều tổ chức, cá nhân vi phạm các quy định của Đảng, pháp luật của Nhà nước trong quản lý, sử dụng đất, thực hiện một số dự án; một số cán bộ, đảng viên trong đó có cả lãnh đạo chủ chốt của tỉnh bị khởi tố, bắt tạm giam.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 14 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-04",
+      "name": "Nguyễn Trần Nam",
+      "former_position": "Ủy viên Ban cán sự đảng, Thứ trưởng Bộ Xây dựng .",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và Quy chế làm việc, thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Ban cán sự đảng Uỷ ban nhân dân tỉnh, Ủy ban nhân dân tỉnh và nhiều tổ chức, cá nhân vi phạm các quy định của Đảng, pháp luật của Nhà nước trong quản lý, sử dụng đất, thực hiện một số dự án; một số cán bộ, đảng viên trong đó có cả lãnh đạo chủ chốt của tỉnh bị khởi tố, bắt tạm giam.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 14 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-04",
+      "name": "Đặng Công Huẩn",
+      "former_position": "Ủy viên Ban cán sự đảng, Phó Tổng Thanh tra Chính phủ",
+      "violation": "Vi phạm trong chỉ đạo thanh tra, giải quyết tố cáo và kiểm toán tại tỉnh Bình Thuận.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 14 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-04",
+      "name": "Vũ Văn Họa",
+      "former_position": "Ủy viên Ban cán sự đảng, Phó Tổng Kiểm toán Nhà nước",
+      "violation": "Vi phạm trong chỉ đạo thanh tra, giải quyết tố cáo và kiểm toán tại tỉnh Bình Thuận.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 14 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-04",
+      "name": "Hồ Thanh Đình",
+      "former_position": "Trung tướng, Ủy viên Đảng ủy Công an Trung ương, Bí thư Đảng ủy, Cục trưởng Cục Cảnh sát quản lý trại giam, cơ sở giáo dục bắt buộc, trường giáo dưỡng, Bộ Công an",
+      "violation": "Thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát trong việc đề nghị xét giảm thời hạn chấp hành án phạt tù đối với phạm nhân Phan Sào Nam vi phạm quy định của Đảng, pháp luật của Nhà nước và quy định của Bộ Công an.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 14 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-04",
+      "name": "Tống Mạnh Chinh",
+      "former_position": "Thiếu tướng, Bí thư Đảng ủy, Giám đốc Bệnh viện 30-4, Bộ Công an",
+      "violation": "Vi phạm quy định trong đấu thầu, mua sắm trang thiết bị y tế và thanh quyết toán bảo hiểm y tế.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 14 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-04",
+      "name": "Đinh Chung Phụng",
+      "former_position": "Ủy viên Ban Thường vụ Tỉnh ủy, Ủy viên Ban cán sự đảng, Phó Chủ tịch Thường trực UBND tỉnh Ninh Bình",
+      "violation": "Vi phạm các quy định của Đảng, pháp luật Nhà nước trong quản lý đầu tư, xây dựng.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 14 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-04",
+      "name": "Nguyễn Cao Sơn",
+      "former_position": "Tỉnh ủy viên, Ủy viên Ban cán sự đảng, Phó Chủ tịch UBND tỉnh Ninh Bình, Giám đốc Sở Kế hoạch và Đầu tư tỉnh Ninh Bình",
+      "violation": "Vi phạm các quy định của Đảng, pháp luật Nhà nước trong quản lý đầu tư, xây dựng.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 14 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-05",
+      "name": "Trịnh Thanh Hùng",
+      "former_position": "Ủy viên Ban Chấp hành Đảng bộ, Phó Bí thư Chi bộ, Phó Vụ trưởng Vụ Khoa học và Công nghệ các ngành kinh tế - kỹ thuật, Bộ Khoa học và Công nghệ.",
+      "violation": "Vi phạm quy định của Đảng, pháp luật Nhà nước trong việc phê duyệt, giao tổ chức thực hiện, ký hợp đồng, đánh giá, nghiệm thu, chuyển giao, quản lý, kiểm tra, giám sát, thanh quyết toán kinh phí thực hiện Đề tài khoa học nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 của Học viện Quân y; trong truyền thông, xác nhận và đề nghị khen thưởng đối với Học viện Quân y, Công ty Cổ phần Công nghệ Việt Á và một số cá nhân.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 15 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-05",
+      "name": "Phạm Công Tạc",
+      "former_position": "Ủy viên Ban cán sự đảng, Thứ trưởng Bộ Khoa học và Công nghệ",
+      "violation": "Vi phạm quy định của Đảng, pháp luật Nhà nước trong việc phê duyệt, giao tổ chức thực hiện, ký hợp đồng, đánh giá, nghiệm thu, chuyển giao, quản lý, kiểm tra, giám sát, thanh quyết toán kinh phí thực hiện Đề tài khoa học nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 của Học viện Quân y; trong truyền thông, xác nhận và đề nghị khen thưởng đối với Học viện Quân y, Công ty Cổ phần Công nghệ Việt Á và một số cá nhân.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 15 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-05",
+      "name": "Nguyễn Thiện Thành",
+      "former_position": "Bí thư Chi bộ, Giám đốc Văn phòng các chương trình trọng điểm cấp Nhà nước",
+      "violation": "Vi phạm quy định của Đảng, pháp luật Nhà nước trong việc phê duyệt, giao tổ chức thực hiện, ký hợp đồng, đánh giá, nghiệm thu, chuyển giao, quản lý, kiểm tra, giám sát, thanh quyết toán kinh phí thực hiện Đề tài khoa học nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 của Học viện Quân y; trong truyền thông, xác nhận và đề nghị khen thưởng đối với Học viện Quân y, Công ty Cổ phần Công nghệ Việt Á và một số cá nhân.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 15 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-05",
+      "name": "Lê Bách Quang",
+      "former_position": "Chủ tịch các Hội đồng tư vấn, Hội đồng nghiệm thu Đề tài khoa học nghiên cứu chế tạo bộ sinh phẩm xét nghiệm phát hiện Covid-19.",
+      "violation": "Vi phạm quy định của Đảng, pháp luật Nhà nước trong việc phê duyệt, giao tổ chức thực hiện, ký hợp đồng, đánh giá, nghiệm thu, chuyển giao, quản lý, kiểm tra, giám sát, thanh quyết toán kinh phí thực hiện Đề tài khoa học nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 của Học viện Quân y; trong truyền thông, xác nhận và đề nghị khen thưởng đối với Học viện Quân y, Công ty Cổ phần Công nghệ Việt Á và một số cá nhân.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 15 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-05",
+      "name": "Nguyễn Đình Hậu",
+      "former_position": "Ủy viên Ban Chấp hành Đảng bộ nhiệm kỳ 2015 - 2020, Bí thư Chi bộ, Vụ trưởng Vụ Khoa học và Công nghệ các ngành kinh tế - kỹ thuật, Bộ Khoa học và Công nghệ .",
+      "violation": "Vi phạm quy định của Đảng, pháp luật Nhà nước trong việc phê duyệt, giao tổ chức thực hiện, ký hợp đồng, đánh giá, nghiệm thu, chuyển giao, quản lý, kiểm tra, giám sát, thanh quyết toán kinh phí thực hiện Đề tài khoa học nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 của Học viện Quân y; trong truyền thông, xác nhận và đề nghị khen thưởng đối với Học viện Quân y, Công ty Cổ phần Công nghệ Việt Á và một số cá nhân.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 15 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-05",
+      "name": "Đặng Đức Anh",
+      "former_position": "Ủy viên Ban Chấp hành Đảng bộ quận Hai Bà Trưng , thành phố Hà Nội, Bí thư Đảng ủy, Viện trưởng Viện Vệ sinh dịch tễ Trung ương.",
+      "violation": "Vi phạm quy định của Đảng, pháp luật Nhà nước trong việc phê duyệt, giao tổ chức thực hiện, ký hợp đồng, đánh giá, nghiệm thu, chuyển giao, quản lý, kiểm tra, giám sát, thanh quyết toán kinh phí thực hiện Đề tài khoa học nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 của Học viện Quân y; trong truyền thông, xác nhận và đề nghị khen thưởng đối với Học viện Quân y, Công ty Cổ phần Công nghệ Việt Á và một số cá nhân.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 15 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-05",
+      "name": "Đỗ Xuân Tuyên",
+      "former_position": "Ủy viên Ban Chấp hành Đảng bộ Khối các cơ quan Trung ương, Phó Bí thư Ban cán sự đảng, Bí thư Đảng ủy, Thứ trưởng Bộ Y tế",
+      "violation": "Vi phạm quy định của Đảng, pháp luật Nhà nước trong việc phê duyệt, giao tổ chức thực hiện, ký hợp đồng, đánh giá, nghiệm thu, chuyển giao, quản lý, kiểm tra, giám sát, thanh quyết toán kinh phí thực hiện Đề tài khoa học nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 của Học viện Quân y; trong truyền thông, xác nhận và đề nghị khen thưởng đối với Học viện Quân y, Công ty Cổ phần Công nghệ Việt Á và một số cá nhân.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 15 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-05",
+      "name": "Nguyễn Mạnh Cường",
+      "former_position": "Ủy viên Ban Thường vụ, Chủ nhiệm UBKT Đảng ủy Bộ, Bí thư Đảng ủy, Chánh Thanh tra Bộ Y tế",
+      "violation": "Vi phạm quy định của Đảng, pháp luật Nhà nước trong việc phê duyệt, giao tổ chức thực hiện, ký hợp đồng, đánh giá, nghiệm thu, chuyển giao, quản lý, kiểm tra, giám sát, thanh quyết toán kinh phí thực hiện Đề tài khoa học nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 của Học viện Quân y; trong truyền thông, xác nhận và đề nghị khen thưởng đối với Học viện Quân y, Công ty Cổ phần Công nghệ Việt Á và một số cá nhân.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 15 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-05",
+      "name": "Lê Hải Trà",
+      "former_position": "Bí thư Đảng ủy, Tổng Giám đốc Sở Giao dịch chứng khoán Thành phố Hồ Chí Minh .",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để một số tổ chức, cá nhân thuộc Ủy ban Chứng khoán Nhà nước có nhiều vi phạm, khuyết điểm trong việc tham mưu xây dựng thể chế, chính sách và thực hiện công tác quản lý nhà nước về hoạt động chứng khoán và thị trường chứng khoán, để một số tổ chức, cá nhân vi phạm pháp luật, thao túng thị trường, thu lợi bất chính.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 15 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-05",
+      "name": "Trần Văn Dũng",
+      "former_position": "Ủy viên Ban Chấp hành Đảng bộ Bộ Tài chính, Bí thư Đảng ủy Cơ quan, Chủ tịch Ủy ban Chứng khoán Nhà nước .",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để một số tổ chức, cá nhân thuộc Ủy ban Chứng khoán Nhà nước có nhiều vi phạm, khuyết điểm trong việc tham mưu xây dựng thể chế, chính sách và thực hiện công tác quản lý nhà nước về hoạt động chứng khoán và thị trường chứng khoán, để một số tổ chức, cá nhân vi phạm pháp luật, thao túng thị trường, thu lợi bất chính.",
+      "party_discipline": "Cách chức tất cả các chức vụ trong Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 15 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-05",
+      "name": "Vũ Bằng",
+      "former_position": "Bí thư Đảng ủy Cơ quan, Chủ tịch Ủy ban Chứng khoán Nhà nước",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để một số tổ chức, cá nhân thuộc Ủy ban Chứng khoán Nhà nước có nhiều vi phạm, khuyết điểm trong việc tham mưu xây dựng thể chế, chính sách và thực hiện công tác quản lý nhà nước về hoạt động chứng khoán và thị trường chứng khoán, để một số tổ chức, cá nhân vi phạm pháp luật, thao túng thị trường, thu lợi bất chính.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 15 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-05",
+      "name": "Nguyễn Thành Long",
+      "former_position": "Ủy viên Ban Chấp hành Đảng bộ Bộ Tài chính, Bí thư Đảng ủy Sở Giao dịch Chứng khoán Hà Nội , Chủ tịch Hội đồng Thành viên Sở Giao dịch Chứng khoán Việt Nam",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để một số tổ chức, cá nhân thuộc Ủy ban Chứng khoán Nhà nước có nhiều vi phạm, khuyết điểm trong việc tham mưu xây dựng thể chế, chính sách và thực hiện công tác quản lý nhà nước về hoạt động chứng khoán và thị trường chứng khoán, để một số tổ chức, cá nhân vi phạm pháp luật, thao túng thị trường, thu lợi bất chính.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 15 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-05",
+      "name": "Nguyễn Sơn",
+      "former_position": "Bí thư Đảng ủy, Chủ tịch Hội đồng quản trị Trung tâm Lưu ký chứng khoán Việt Nam.",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ và Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để một số tổ chức, cá nhân thuộc Ủy ban Chứng khoán Nhà nước có nhiều vi phạm, khuyết điểm trong việc tham mưu xây dựng thể chế, chính sách và thực hiện công tác quản lý nhà nước về hoạt động chứng khoán và thị trường chứng khoán, để một số tổ chức, cá nhân vi phạm pháp luật, thao túng thị trường, thu lợi bất chính.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 15 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-05",
+      "name": "Nguyễn Thế Quyết",
+      "former_position": "Ủy viên Ban Thường vụ Đảng ủy, Phó Tổng cục trưởng Tổng cục Hậu cần - Kỹ thuật, Bộ Công an",
+      "violation": "Thiếu trách nhiệm trong lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để xảy ra nhiều vi phạm trong quản lý đầu tư, xây dựng và thanh lý một số hợp đồng kinh tế.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 15 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-06",
+      "name": "Võ Văn Hoan",
+      "former_position": "Thành ủy viên, Ủy viên Ban cán sự đảng, Phó Chủ tịch UBND Thành phố, Bí thư Đảng ủy, Chánh Văn phòng UBND Thành phố Hồ Chí Minh .",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ, Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để UBND Thành phố và nhiều tổ chức, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong quản lý tài chính, tài sản nhà nước; xảy ra nhiều vụ án, vụ việc trên địa bàn Thành phố; nhiều tổ chức đảng, đảng viên bị xử lý kỷ luật; nhiều cán bộ, đảng viên trong đó có cả lãnh đạo chủ chốt của UBND Thành phố và các sở, ngành,... bị xử lý hình sự.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 16 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-06",
+      "name": "Lê Minh Chuẩn",
+      "former_position": "Uỷ viên Ban Chấp hành Đảng bộ Khối Doanh nghiệp Trung ương, Bí thư Đảng ủy, Chủ tịch Hội đồng thành viên Tập đoàn Công nghiệp Than – Khoáng sản Việt Nam",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ, Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Hội đồng thành viên, một số cán bộ Lãnh đạo Tập đoàn và đơn vị cấp dưới vi phạm quy định của Đảng, pháp luật của Nhà nước trong sản xuất, kinh doanh, đầu tư một số dự án, trong quản lý, khai thác than tại tỉnh Quảng Ninh; nhiều cán bộ, đảng viên bị xử lý kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 16 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-06",
+      "name": "Đặng Thanh Hải",
+      "former_position": "Phó Bí thư Đảng ủy, Thành viên Hội đồng Thành viên, Tổng Giám đốc Tập đoàn Công nghiệp Than – Khoáng sản Việt Nam",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ, Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Hội đồng thành viên, một số cán bộ Lãnh đạo Tập đoàn và đơn vị cấp dưới vi phạm quy định của Đảng, pháp luật của Nhà nước trong sản xuất, kinh doanh, đầu tư một số dự án, trong quản lý, khai thác than tại tỉnh Quảng Ninh; nhiều cán bộ, đảng viên bị xử lý kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 16 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-06",
+      "name": "Nguyễn Ngọc Cơ",
+      "former_position": "Phó Tổng Giám đốc, Đảng ủy viên Tập đoàn Công nghiệp Than – Khoáng sản Việt Nam",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ, Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Hội đồng thành viên, một số cán bộ Lãnh đạo Tập đoàn và đơn vị cấp dưới vi phạm quy định của Đảng, pháp luật của Nhà nước trong sản xuất, kinh doanh, đầu tư một số dự án, trong quản lý, khai thác than tại tỉnh Quảng Ninh; nhiều cán bộ, đảng viên bị xử lý kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 16 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022-06",
+      "name": "Phan Xuân Thủy",
+      "former_position": "Đảng ủy viên, Phó Tổng Giám đốc Tập đoàn Công nghiệp Than – Khoáng sản Việt Nam",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ, Quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, thiếu kiểm tra, giám sát, để Hội đồng thành viên, một số cán bộ Lãnh đạo Tập đoàn và đơn vị cấp dưới vi phạm quy định của Đảng, pháp luật của Nhà nước trong sản xuất, kinh doanh, đầu tư một số dự án, trong quản lý, khai thác than tại tỉnh Quảng Ninh; nhiều cán bộ, đảng viên bị xử lý kỷ luật, một số bị xử lý hình sự.",
+      "party_discipline": "",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Ra quyết định tại Kỳ họp thứ 16 của Ủy ban Kiểm tra Trung ương khóa XIII"
+    },
+    {
+      "announced": "2022",
+      "name": "Nguyễn Thanh Long",
+      "former_position": "Bộ trưởng Bộ Y tế",
+      "violation": "Liên quan Vụ án sai phạm tại Công ty cổ phần Công nghệ Việt Á",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "Bị bắt tạm giam",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022",
+      "name": "Chu Ngọc Anh",
+      "former_position": "Bộ trưởng Bộ Khoa học và Công nghệ Chủ tịch UBND Thành phố Hà Nội",
+      "violation": "Liên quan Vụ án sai phạm tại Công ty cổ phần Công nghệ Việt Á",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "Bị bắt tạm giam",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022",
+      "name": "Nguyễn Thành Phong",
+      "former_position": "Chủ tịch UBND TPHCM",
+      "violation": "Vi phạm nguyên tắc tập trung dân chủ, quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo. Hậu quả là UBND thành phố và nhiều tổ chức, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong quản lý tài chính, tài sản nhà nước, xảy ra nhiều vụ án, vụ việc trên địa bàn, nhiều tổ chức đảng và đảng viên bị xử lý kỷ luật",
+      "party_discipline": "Uỷ ban kiểm tra Trung ương đề nghị Bộ Chính trị kỷ luật",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022",
+      "name": "Tô Anh Dũng",
+      "former_position": "Thứ trưởng Bộ Ngoại giao",
+      "violation": "Liên quan Vụ chuyến bay \"giải cứu\" công dân trở về nước do đại dịch COVID-19",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "Bị bắt, khởi tố",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022",
+      "name": "Phạm Công Tạc",
+      "former_position": "Thứ trưởng Bộ Khoa học và Công nghệ",
+      "violation": "Liên quan Vụ án sai phạm tại Công ty cổ phần Công nghệ Việt Á",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "Bị bắt, khởi tố",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Lê Trung Chinh",
+      "former_position": "Phó Bí thư Thành ủy, Bí thư Ban cán sự đảng, Chủ tịch UBND Thành phố Đà Nẵng",
+      "violation": "Vi phạm quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo để UBND Thành phố và một số tổ chức, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong mua sắm, quản lý, sử dụng sinh phẩm, hóa chất, vật tư, trang thiết bị y tế; trong quản lý, sử dụng các nguồn hỗ trợ; để xảy ra vụ án tại Trung tâm Kiểm soát bệnh tật (CDC) của Thành phố.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Huỳnh Đức Thơ",
+      "former_position": "Phó Bí thư Thành ủy, Bí thư Ban cán sự đảng, Chủ tịch UBND Thành phố Đà Nẵng",
+      "violation": "Vi phạm quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo để UBND Thành phố và một số tổ chức, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong mua sắm, quản lý, sử dụng sinh phẩm, hóa chất, vật tư, trang thiết bị y tế; trong quản lý, sử dụng các nguồn hỗ trợ; để xảy ra vụ án tại Trung tâm Kiểm soát bệnh tật (CDC) của Thành phố.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Hồ Kỳ Minh",
+      "former_position": "Ủy viên Ban Thường vụ Thành ủy, Phó Bí thư Ban cán sự đảng, Phó Chủ tịch Thường trực UBND Thành phố Đà Nẵng",
+      "violation": "Vi phạm quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo để UBND Thành phố và một số tổ chức, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong mua sắm, quản lý, sử dụng sinh phẩm, hóa chất, vật tư, trang thiết bị y tế; trong quản lý, sử dụng các nguồn hỗ trợ; để xảy ra vụ án tại Trung tâm Kiểm soát bệnh tật (CDC) của Thành phố.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Ngô Thị Kim Yến",
+      "former_position": "Thành ủy viên, Ủy viên Ban cán sự đảng, Phó Chủ tịch UBND UBND Thành phố Đà Nẵng. Bí thư Đảng ủy, Giám đốc Sở Y tế Thành phố Đà Nẵng",
+      "violation": "Vi phạm quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo để UBND Thành phố và một số tổ chức, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong mua sắm, quản lý, sử dụng sinh phẩm, hóa chất, vật tư, trang thiết bị y tế; trong quản lý, sử dụng các nguồn hỗ trợ; để xảy ra vụ án tại Trung tâm Kiểm soát bệnh tật (CDC) của Thành phố.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Trần Văn Miên",
+      "former_position": "Thành ủy viên, Ủy viên Ban cán sự đảng, Phó Chủ tịch UBND Thành phố Đà Nẵng",
+      "violation": "Vi phạm quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo để UBND Thành phố và một số tổ chức, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong mua sắm, quản lý, sử dụng sinh phẩm, hóa chất, vật tư, trang thiết bị y tế; trong quản lý, sử dụng các nguồn hỗ trợ; để xảy ra vụ án tại Trung tâm Kiểm soát bệnh tật (CDC) của Thành phố.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Nguyễn Văn Phụng",
+      "former_position": "Thành ủy viên, Bí thư Đảng ủy, Giám đốc Sở Tài chính Thành phố Đà Nẵng",
+      "violation": "Vi phạm quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo để UBND Thành phố và một số tổ chức, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong mua sắm, quản lý, sử dụng sinh phẩm, hóa chất, vật tư, trang thiết bị y tế; trong quản lý, sử dụng các nguồn hỗ trợ; để xảy ra vụ án tại Trung tâm Kiểm soát bệnh tật (CDC) của Thành phố.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Tôn Thất Thạnh",
+      "former_position": "Bí thư Đảng ủy, Giám đốc CDC Thành phố Đà Nẵng",
+      "violation": "Vi phạm quy chế làm việc; thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo để UBND Thành phố và một số tổ chức, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong mua sắm, quản lý, sử dụng sinh phẩm, hóa chất, vật tư, trang thiết bị y tế; trong quản lý, sử dụng các nguồn hỗ trợ; để xảy ra vụ án tại Trung tâm Kiểm soát bệnh tật (CDC) của Thành phố.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Phùng Ngọc Tấn",
+      "former_position": "Bí thư Chi bộ, Quyền Trưởng Ban Tổ chức cán bộ, Viện Hàn lâm Khoa học xã hội Việt Nam .",
+      "violation": "Liên quan đến vi phạm của Ban Thường vụ Đảng ủy Viện Hàn lâm Khoa học xã hội Việt Nam",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Nguyễn Quang Thuấn",
+      "former_position": "Phó Chủ tịch Hội đồng Lý luận Trung ương, Bí thư Đảng ủy, Chủ tịch Viện Hàn lâm Khoa học xã hội Việt Nam .",
+      "violation": "Liên quan đến vi phạm của Ban Thường vụ Đảng ủy Viện Hàn lâm Khoa học xã hội Việt Nam",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Phạm Văn Đức",
+      "former_position": "Phó Bí thư Đảng ủy, Phó Chủ tịch Viện Hàn lâm, Giám đốc Học viện Khoa học xã hội",
+      "violation": "Liên quan đến vi phạm của Ban Thường vụ Đảng ủy Viện Hàn lâm Khoa học xã hội Việt Nam",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Võ Quang Trọng",
+      "former_position": "Ủy viên Ban Thường vụ Đảng ủy Viện Hàn lâm, Giám đốc Bảo tàng Dân tộc học Việt Nam",
+      "violation": "Liên quan đến vi phạm của Ban Thường vụ Đảng ủy Viện Hàn lâm Khoa học xã hội Việt Nam",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Trần Minh Tuấn",
+      "former_position": "Ủy viên Ban Thường vụ Đảng ủy Viện Hàn lâm , Trưởng Ban Tổ chức cán bộ, Phó Giám đốc Thường trực Học viện Khoa học xã hội , Viện Hàn lâm Khoa học xã hội Việt Nam .",
+      "violation": "Liên quan đến vi phạm của Ban Thường vụ Đảng ủy Viện Hàn lâm Khoa học xã hội Việt Nam",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Mai Văn Trinh",
+      "former_position": "Ủy viên Ban Chấp hành Đảng bộ Bộ, Cục trưởng Cục Cơ sở vật chất, Cục trưởng Cục Quản lý chất lượng, Ủy viên Thường trực Ban Chỉ đạo kỳ thi Trung học phổ thông Quốc gia năm 2018 và năm 2021",
+      "violation": "Thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Bộ Giáo dục và Đào tạo và một số tập thể, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong công tác cán bộ; xây dựng, ban hành thể chế, chính sách; thực hiện một số dự án đầu tư công; trong biên soạn, thẩm định, xuất bản, phát hành sách giáo khoa; tổ chức kỳ thi tốt nghiệp Trung học phổ thông quốc gia năm 2018 và năm 2021.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": "Thực hiện kết luận của Ủy ban kiểm tra Trung ương tại Kỳ họp thứ 19 khóa XIII đối với Ban cán sự đảng Bộ Giáo dục và Đào tạo nhiệm kỳ 2016 - 2021"
+    },
+    {
+      "announced": "2022-10",
+      "name": "Nguyễn Huy Bằng",
+      "former_position": "Ủy viên Ban Thường vụ Đảng ủy, Chủ nhiệm UBKT Đảng ủy Bộ, Chánh Thanh tra Bộ Giáo dục và Đào tạo",
+      "violation": "Thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Bộ Giáo dục và Đào tạo và một số tập thể, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong công tác cán bộ; xây dựng, ban hành thể chế, chính sách; thực hiện một số dự án đầu tư công; trong biên soạn, thẩm định, xuất bản, phát hành sách giáo khoa; tổ chức kỳ thi tốt nghiệp Trung học phổ thông quốc gia năm 2018 và năm 2021.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Trần Thanh Khiết",
+      "former_position": "Ủy viên Ban Chấp hành Đảng bộ Bộ Giáo dục và Đào tạo , Giám đốc Ban Quản lý các dự án",
+      "violation": "Thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Bộ Giáo dục và Đào tạo và một số tập thể, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong công tác cán bộ; xây dựng, ban hành thể chế, chính sách; thực hiện một số dự án đầu tư công; trong biên soạn, thẩm định, xuất bản, phát hành sách giáo khoa; tổ chức kỳ thi tốt nghiệp Trung học phổ thông quốc gia năm 2018 và năm 2021.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Trần Tú Khánh",
+      "former_position": "Ủy viên Ban Chấp hành Đảng bộ Bộ, Vụ trưởng Vụ Kế hoạch Tài chính, Bộ Giáo dục và Đào tạo .",
+      "violation": "Thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Bộ Giáo dục và Đào tạo và một số tập thể, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong công tác cán bộ; xây dựng, ban hành thể chế, chính sách; thực hiện một số dự án đầu tư công; trong biên soạn, thẩm định, xuất bản, phát hành sách giáo khoa; tổ chức kỳ thi tốt nghiệp Trung học phổ thông quốc gia năm 2018 và năm 2021.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Nguyễn Hữu Độ",
+      "former_position": "Ủy viên Ban cán sự đảng, Thứ trưởng Bộ Giáo dục và Đào tạo .",
+      "violation": "Thiếu trách nhiệm, buông lỏng lãnh đạo, chỉ đạo, để Bộ Giáo dục và Đào tạo và một số tập thể, cá nhân vi phạm quy định của Đảng, pháp luật của Nhà nước trong công tác cán bộ; xây dựng, ban hành thể chế, chính sách; thực hiện một số dự án đầu tư công; trong biên soạn, thẩm định, xuất bản, phát hành sách giáo khoa; tổ chức kỳ thi tốt nghiệp Trung học phổ thông quốc gia năm 2018 và năm 2021.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Nguyễn Hữu Hảo",
+      "former_position": "Tỉnh ủy viên, Ủy viên Đảng đoàn, Trưởng Ban Kinh tế - Ngân sách, Hội đồng nhân dân tỉnh, Bí thư Huyện ủy, Chủ tịch UBND huyện Cam Lâm",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc, quy định về những điều đảng viên không được làm và trách nhiệm nêu gương; vi phạm pháp luật về đất đai, xây dựng, gây hậu quả rất nghiêm trọng, khó khắc phục, nguy cơ thất thu ngân sách nhà nước, ảnh hưởng đến quy hoạch, hạ tầng, quản lý đất đai, trật tự xây dựng và sự phát triển của địa phương, gây bức xúc trong dư luận, ảnh hưởng xấu đến uy tín của tổ chức đảng và chính quyền địa phương.",
+      "party_discipline": "Đề nghị kỷ luật",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Lương Dự",
+      "former_position": "Tỉnh ủy viên, Bí thư Huyện ủy, Chủ tịch Hội đồng nhân dân huyện Cam Lâm, tỉnh Khánh Hòa",
+      "violation": "Vi phạm nguyên tắc, quy chế làm việc, quy định về những điều đảng viên không được làm và trách nhiệm nêu gương; vi phạm pháp luật về đất đai, xây dựng, gây hậu quả rất nghiêm trọng, khó khắc phục, nguy cơ thất thu ngân sách nhà nước, ảnh hưởng đến quy hoạch, hạ tầng, quản lý đất đai, trật tự xây dựng và sự phát triển của địa phương, gây bức xúc trong dư luận, ảnh hưởng xấu đến uy tín của tổ chức đảng và chính quyền địa phương.",
+      "party_discipline": "Đề nghị kỷ luật",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Hà Quang Dĩnh",
+      "former_position": "Tỉnh uỷ viên, nguyên Bí thư Ban cán sự đảng, nguyên Chánh án Tòa án nhân dân tỉnh Hoà Bình .",
+      "violation": "Vi phạm quy định của Đảng, cố ý làm trái quy định pháp luật trong hoạt động tố tụng; vi phạm quy định về những điều đảng viên không được làm và trách nhiệm nêu gương, quy chế làm việc; tiêu cực, suy thoái về tư tưởng chính trị, đạo đức, lối sống.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Trần Đình Thành",
+      "former_position": "Bí thư Tỉnh ủy Đồng Nai",
+      "violation": "Liên quan đến vụ án \"vi phạm quy định về đấu thầu gây hậu quả nghiêm trọng\" xảy ra tại Bệnh viện Đa khoa tỉnh Đồng Nai, Công ty cổ phần Tiến Bộ Quốc Tế (AIC) và các đơn vị liên quan.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2022-10",
+      "name": "Đinh Quốc Thái",
+      "former_position": "Chủ tịch UBND tỉnh Đồng Nai",
+      "violation": "Liên quan đến vụ án \"vi phạm quy định về đấu thầu gây hậu quả nghiêm trọng\" xảy ra tại Bệnh viện Đa khoa tỉnh Đồng Nai, Công ty cổ phần Tiến Bộ Quốc Tế (AIC) và các đơn vị liên quan.",
+      "party_discipline": "Xóa tư cách chức vụ Chủ tịch UBND tỉnh Đồng Nai",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2023",
+      "name": "Nguyễn Huy Ban",
+      "former_position": "Bí thư BCSĐ, Tổng Giám đốc Bảo hiểm xã hội (BHXH) Việt Nam",
+      "violation": "Vi phạm các quy định của Đảng, pháp luật Nhà nước trong việc cho Công ty Cho thuê tài chính II thuộc Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam (ALC II) vay vốn từ Quỹ BHXH trái quy định, gây hậu quả rất nghiêm trọng, thiệt hại lớn tiền của Nhà nước.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "Bị bắt, khởi tố",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "",
+      "name": "Lê Bạch Hồng",
+      "former_position": "Thứ trưởng Bộ Lao động - Thương binh và Xã hội , Bí thư BCSĐ, Tổng Giám đốc BHXH Việt Nam",
+      "violation": "Vi phạm các quy định của Đảng, pháp luật Nhà nước trong việc cho Công ty Cho thuê tài chính II thuộc Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam (ALC II) vay vốn từ Quỹ BHXH trái quy định, gây hậu quả rất nghiêm trọng, thiệt hại lớn tiền của Nhà nước.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "Bị bắt, khởi tố",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "",
+      "name": "Đỗ Xuân Tuyên",
+      "former_position": "Ủy viên Ban Chấp hành Đảng bộ Khối các cơ quan Trung ương, Phó Bí thư Ban cán sự đảng, Bí thư Đảng ủy, Thứ trưởng Bộ Y tế",
+      "violation": "Vi phạm quy định của Đảng, pháp luật Nhà nước trong việc phê duyệt, giao tổ chức thực hiện, ký hợp đồng, đánh giá, nghiệm thu, chuyển giao, quản lý, kiểm tra, giám sát, thanh quyết toán kinh phí thực hiện Đề tài khoa học nghiên cứu chế tạo bộ sinh phẩm xét nghiệm Covid-19 của Học viện Quân y; trong truyền thông, xác nhận và đề nghị khen thưởng đối với Học viện Quân y, Công ty Cổ phần Công nghệ Việt Á và một số cá nhân.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2024",
+      "name": "Nguyễn Xuân Phúc",
+      "former_position": "Nguyên Ủy viên Bộ Chính trị, nguyên Chủ tịch nước, nguyên Thủ tướng",
+      "violation": "Vi phạm quy định của Đảng, Nhà nước trong thực hiện chức trách, nhiệm vụ được giao, trong phòng, chống tham nhũng, tiêu cực; vi phạm quy định những điều đảng viên không được làm và trách nhiệm nêu gương; gây hậu quả nghiêm trọng, dư luận xấu, ảnh hưởng đến uy tín của Đảng và Nhà nước.",
+      "party_discipline": "Cảnh cáo",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2024",
+      "name": "Trương Hòa Bình",
+      "former_position": "Nguyên Ủy viên Bộ Chính trị, nguyên Phó Thủ tướng Thường trực",
+      "violation": "Thiếu trách nhiệm trong lãnh đạo, chỉ đạo; vi phạm quy định của Đảng, Nhà nước trong thực hiện chức trách, nhiệm vụ được giao, trong phòng, chống tham nhũng, tiêu cực; vi phạm quy định những điều đảng viên không được làm và trách nhiệm nêu gương; gây hậu quả nghiêm trọng, dư luận xấu, ảnh hưởng đến uy tín của Đảng và Nhà nước.",
+      "party_discipline": "Cảnh cáo (12/2024), sau đó bị cách chức tất cả các chức vụ trong Đảng (4/2025)",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2024",
+      "name": "Trương Thị Mai",
+      "former_position": "Nguyên Ủy viên Bộ Chính trị, nguyên Thường trực Ban Bí thư, nguyên Trưởng ban Dân vận Trung ương",
+      "violation": "Vi phạm quy định của Đảng, Nhà nước trong thực hiện chức trách, nhiệm vụ được giao; vi phạm quy định về kiểm soát quyền lực trong công tác cán bộ, quy định những điều đảng viên không được làm và trách nhiệm nêu gương; gây hậu quả nghiêm trọng, ảnh hưởng đến uy tín của Đảng và Nhà nước.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2024",
+      "name": "Trần Tuấn Anh",
+      "former_position": "Ủy viên Bộ Chính trị, Trưởng ban Kinh tế Trung ương, nguyên Bộ trưởng Bộ Công Thương",
+      "violation": "Vi phạm quy định của Đảng, pháp luật Nhà nước trong thực hiện chức trách, nhiệm vụ được giao, trong phòng, chống tham nhũng, tiêu cực; vi phạm quy định những điều đảng viên không được làm và trách nhiệm nêu gương.",
+      "party_discipline": "Bị đề nghị kỷ luật",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2024",
+      "name": "Trịnh Đình Dũng",
+      "former_position": "Nguyên Ủy viên Ban Chấp hành Trung ương Đảng, nguyên Phó Thủ tướng Chính phủ",
+      "violation": "Thiếu trách nhiệm trong lãnh đạo, chỉ đạo; vi phạm quy định của Đảng, Nhà nước trong thực hiện chức trách, nhiệm vụ được giao, trong phòng, chống tham nhũng, tiêu cực; vi phạm quy định những điều đảng viên không được làm và trách nhiệm nêu gương.",
+      "party_discipline": "Khiển trách",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2024",
+      "name": "Lê Duy Thành",
+      "former_position": "Phó Bí thư Tỉnh ủy, Chủ tịch UBND tỉnh Vĩnh Phúc",
+      "violation": "Suy thoái về tư tưởng chính trị, đạo đức, lối sống; vi phạm nghiêm trọng quy định của Đảng, pháp luật của Nhà nước trong thực hiện chức trách, nhiệm vụ được giao; vi phạm quy định những điều đảng viên không được làm và trách nhiệm nêu gương, gây hậu quả rất nghiêm trọng, dư luận bức xúc, ảnh hưởng rất xấu đến uy tín của tổ chức đảng và chính quyền địa phương.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "Bị bắt, khởi tố",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2024",
+      "name": "Đặng Văn Minh",
+      "former_position": "Phó Bí thư Tỉnh ủy, Chủ tịch UBND tỉnh Quảng Ngãi",
+      "violation": "Suy thoái về tư tưởng chính trị, đạo đức, lối sống; vi phạm nghiêm trọng quy định của Đảng, pháp luật của Nhà nước trong thực hiện chức trách, nhiệm vụ được giao; vi phạm quy định những điều đảng viên không được làm và trách nhiệm nêu gương, gây hậu quả rất nghiêm trọng, dư luận bức xúc, ảnh hưởng rất xấu đến uy tín của tổ chức đảng và chính quyền địa phương.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "Bị bắt, khởi tố",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2024",
+      "name": "Cao Khoa",
+      "former_position": "Nguyên Phó Bí thư Tỉnh ủy, nguyên Chủ tịch UBND tỉnh Quảng Ngãi",
+      "violation": "Suy thoái về tư tưởng chính trị, đạo đức, lối sống; vi phạm nghiêm trọng quy định của Đảng, pháp luật của Nhà nước trong thực hiện chức trách, nhiệm vụ được giao; vi phạm quy định những điều đảng viên không được làm và trách nhiệm nêu gương, gây hậu quả rất nghiêm trọng, dư luận bức xúc, ảnh hưởng rất xấu đến uy tín của tổ chức đảng và chính quyền địa phương.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "Bị bắt, khởi tố",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2024",
+      "name": "Phạm Đình Cự",
+      "former_position": "Nguyên Phó Bí thư Tỉnh ủy, nguyên Chủ tịch UBND tỉnh Phú Yên",
+      "violation": "Suy thoái về tư tưởng chính trị, đạo đức, lối sống; vi phạm nghiêm trọng quy định của Đảng, pháp luật của Nhà nước trong thực hiện chức trách, nhiệm vụ được giao; vi phạm quy định những điều đảng viên không được làm và trách nhiệm nêu gương, gây hậu quả rất nghiêm trọng, dư luận bức xúc, ảnh hưởng rất xấu đến uy tín của tổ chức đảng và chính quyền địa phương.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "Bị bắt, khởi tố",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2024",
+      "name": "Hà Hoàng Việt Phương",
+      "former_position": "Ủy viên Ban Thường vụ Tỉnh ủy, Trưởng Ban Quản lý Khu Kinh tế Dung Quất và các Khu công nghiệp Quảng Ngãi",
+      "violation": "Suy thoái về tư tưởng chính trị, đạo đức, lối sống; vi phạm nghiêm trọng quy định của Đảng, pháp luật của Nhà nước trong thực hiện chức trách, nhiệm vụ được giao; vi phạm quy định những điều đảng viên không được làm và trách nhiệm nêu gương, gây hậu quả rất nghiêm trọng, dư luận bức xúc, ảnh hưởng rất xấu đến uy tín của tổ chức đảng và chính quyền địa phương.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2024",
+      "name": "Nguyễn Thế Bình",
+      "former_position": "Tỉnh ủy viên, Giám đốc Sở Giáo dục và Đào tạo tỉnh Hà Giang",
+      "violation": "Suy thoái về tư tưởng chính trị, đạo đức, lối sống; vi phạm nghiêm trọng quy định của Đảng, pháp luật của Nhà nước trong thực hiện chức trách, nhiệm vụ được giao; vi phạm quy định những điều đảng viên không được làm và trách nhiệm nêu gương, gây hậu quả rất nghiêm trọng, dư luận bức xúc, ảnh hưởng rất xấu đến uy tín của tổ chức đảng và chính quyền địa phương.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    },
+    {
+      "announced": "2024",
+      "name": "Nguyễn Tư Sơn",
+      "former_position": "Nguyên Tỉnh ủy viên, nguyên Giám đốc Sở Giáo dục và Đào tạo tỉnh Gia Lai",
+      "violation": "Suy thoái về tư tưởng chính trị, đạo đức, lối sống; vi phạm nghiêm trọng quy định của Đảng, pháp luật của Nhà nước trong thực hiện chức trách, nhiệm vụ được giao; vi phạm quy định những điều đảng viên không được làm và trách nhiệm nêu gương, gây hậu quả rất nghiêm trọng, dư luận bức xúc, ảnh hưởng rất xấu đến uy tín của tổ chức đảng và chính quyền địa phương.",
+      "party_discipline": "Khai trừ Đảng",
+      "criminal_penalty": "",
+      "assets_investigated": "",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "Danh sách quan chức Việt Nam bị kỷ luật - Free Download",
+    "description": "Danh sách quan chức Việt Nam bị kỷ luật Đảng và/hoặc xử lý hình sự từ năm 2017, kèm nội dung vi phạm và hình thức xử lý. Contains 236 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách quan chức Việt Nam bị kỷ luật | ListBase",
+    "seo_description": "Download Danh sách quan chức Việt Nam bị kỷ luật — 236 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 236 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_quan_ch%E1%BB%A9c_Vi%E1%BB%87t_Nam_b%E1%BB%8B_k%E1%BB%B7_lu%E1%BA%ADt"
+    ]
+  }
+}
