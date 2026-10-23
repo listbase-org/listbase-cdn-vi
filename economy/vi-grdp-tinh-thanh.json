@@ -1,0 +1,424 @@
+{
+  "id": "vi-grdp-tinh-thanh",
+  "name": "Danh sách 63 tỉnh thành Việt Nam theo GRDP",
+  "title": "Danh sách 63 tỉnh thành Việt Nam theo GRDP",
+  "description": "Tổng sản phẩm trên địa bàn (GRDP) của 63 tỉnh, thành phố Việt Nam (cấu trúc trước sáp nhập 2025), tính theo tỉ VNĐ và tỉ USD.",
+  "category": "economy",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%91%C6%A1n_v%E1%BB%8B_h%C3%A0nh_ch%C3%ADnh_Vi%E1%BB%87t_Nam_theo_GRDP",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%91%C6%A1n_v%E1%BB%8B_h%C3%A0nh_ch%C3%ADnh_Vi%E1%BB%87t_Nam_theo_GRDP",
+  "updated": "2026-10",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "grdp_billion_vnd",
+      "label": "Grdp Billion Vnd",
+      "type": "string"
+    },
+    {
+      "key": "grdp_billion_usd",
+      "label": "Grdp Billion Usd",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": "1",
+      "province": "Thành phố Hồ Chí Minh",
+      "grdp_billion_vnd": "1.479.227",
+      "grdp_billion_usd": "63,65"
+    },
+    {
+      "stt": "2",
+      "province": "Thủ đô Hà Nội",
+      "grdp_billion_vnd": "1.195.989",
+      "grdp_billion_usd": "51,39"
+    },
+    {
+      "stt": "3",
+      "province": "Vĩnh Phúc",
+      "grdp_billion_vnd": "153.121",
+      "grdp_billion_usd": "6,62"
+    },
+    {
+      "stt": "4",
+      "province": "Bắc Ninh",
+      "grdp_billion_vnd": "248.376",
+      "grdp_billion_usd": "11,11"
+    },
+    {
+      "stt": "5",
+      "province": "Quảng Ninh",
+      "grdp_billion_vnd": "269.244",
+      "grdp_billion_usd": "11,55"
+    },
+    {
+      "stt": "6",
+      "province": "Hải Dương",
+      "grdp_billion_vnd": "169.187",
+      "grdp_billion_usd": "7,36"
+    },
+    {
+      "stt": "7",
+      "province": "Hải Phòng",
+      "grdp_billion_vnd": "365.585",
+      "grdp_billion_usd": "15,97"
+    },
+    {
+      "stt": "8",
+      "province": "Hưng Yên",
+      "grdp_billion_vnd": "132.121",
+      "grdp_billion_usd": "5,72"
+    },
+    {
+      "stt": "9",
+      "province": "Thái Bình",
+      "grdp_billion_vnd": "110.800",
+      "grdp_billion_usd": "4,80"
+    },
+    {
+      "stt": "10",
+      "province": "Hà Nam",
+      "grdp_billion_vnd": "76.403",
+      "grdp_billion_usd": "3,53"
+    },
+    {
+      "stt": "11",
+      "province": "Nam Định",
+      "grdp_billion_vnd": "91.966",
+      "grdp_billion_usd": "4,00"
+    },
+    {
+      "stt": "12",
+      "province": "Ninh Bình",
+      "grdp_billion_vnd": "81.775",
+      "grdp_billion_usd": "3,52"
+    },
+    {
+      "stt": "13",
+      "province": "Hà Giang",
+      "grdp_billion_vnd": "30.571",
+      "grdp_billion_usd": "1,31"
+    },
+    {
+      "stt": "14",
+      "province": "Cao Bằng",
+      "grdp_billion_vnd": "21.635",
+      "grdp_billion_usd": "0,94"
+    },
+    {
+      "stt": "15",
+      "province": "Bắc Kạn",
+      "grdp_billion_vnd": "15.014",
+      "grdp_billion_usd": "0,65"
+    },
+    {
+      "stt": "16",
+      "province": "Tuyên Quang",
+      "grdp_billion_vnd": "41.713",
+      "grdp_billion_usd": "1,79"
+    },
+    {
+      "stt": "17",
+      "province": "Lào Cai",
+      "grdp_billion_vnd": "67.960",
+      "grdp_billion_usd": "2,96"
+    },
+    {
+      "stt": "18",
+      "province": "Yên Bái",
+      "grdp_billion_vnd": "40.212",
+      "grdp_billion_usd": "1,73"
+    },
+    {
+      "stt": "19",
+      "province": "Thái Nguyên",
+      "grdp_billion_vnd": "150.195",
+      "grdp_billion_usd": "6,43"
+    },
+    {
+      "stt": "20",
+      "province": "Lạng Sơn",
+      "grdp_billion_vnd": "41.487",
+      "grdp_billion_usd": "1,75"
+    },
+    {
+      "stt": "21",
+      "province": "Bắc Giang",
+      "grdp_billion_vnd": "155.876",
+      "grdp_billion_usd": "6,68"
+    },
+    {
+      "stt": "22",
+      "province": "Phú Thọ",
+      "grdp_billion_vnd": "89.398",
+      "grdp_billion_usd": "3,83"
+    },
+    {
+      "stt": "23",
+      "province": "Điện Biên",
+      "grdp_billion_vnd": "25.238",
+      "grdp_billion_usd": "1,09"
+    },
+    {
+      "stt": "24",
+      "province": "Lai Châu",
+      "grdp_billion_vnd": "23.943",
+      "grdp_billion_usd": "1,03"
+    },
+    {
+      "stt": "25",
+      "province": "Sơn La",
+      "grdp_billion_vnd": "64.508",
+      "grdp_billion_usd": "2,78"
+    },
+    {
+      "stt": "26",
+      "province": "Hoà Bình",
+      "grdp_billion_vnd": "67.684",
+      "grdp_billion_usd": "2,48"
+    },
+    {
+      "stt": "27",
+      "province": "Thanh Hóa",
+      "grdp_billion_vnd": "252.672",
+      "grdp_billion_usd": "10,91"
+    },
+    {
+      "stt": "28",
+      "province": "Nghệ An",
+      "grdp_billion_vnd": "175.740",
+      "grdp_billion_usd": "8,01"
+    },
+    {
+      "stt": "29",
+      "province": "Hà Tĩnh",
+      "grdp_billion_vnd": "94.887",
+      "grdp_billion_usd": "4,12"
+    },
+    {
+      "stt": "30",
+      "province": "Quảng Bình",
+      "grdp_billion_vnd": "50.117",
+      "grdp_billion_usd": "2,16"
+    },
+    {
+      "stt": "31",
+      "province": "Quảng Trị",
+      "grdp_billion_vnd": "40.823",
+      "grdp_billion_usd": "1,76"
+    },
+    {
+      "stt": "32",
+      "province": "Huế",
+      "grdp_billion_vnd": "66.348",
+      "grdp_billion_usd": "2,85"
+    },
+    {
+      "stt": "33",
+      "province": "Đà Nẵng",
+      "grdp_billion_vnd": "125.219",
+      "grdp_billion_usd": "5,42"
+    },
+    {
+      "stt": "34",
+      "province": "Quảng Nam",
+      "grdp_billion_vnd": "116.374",
+      "grdp_billion_usd": "5,06"
+    },
+    {
+      "stt": "35",
+      "province": "Quảng Ngãi",
+      "grdp_billion_vnd": "121.668",
+      "grdp_billion_usd": "5,29"
+    },
+    {
+      "stt": "36",
+      "province": "Bình Định",
+      "grdp_billion_vnd": "106.349",
+      "grdp_billion_usd": "4,61"
+    },
+    {
+      "stt": "37",
+      "province": "Phú Yên",
+      "grdp_billion_vnd": "50.496",
+      "grdp_billion_usd": "2,18"
+    },
+    {
+      "stt": "38",
+      "province": "Khánh Hòa",
+      "grdp_billion_vnd": "96.441",
+      "grdp_billion_usd": "4,20"
+    },
+    {
+      "stt": "39",
+      "province": "Ninh Thuận",
+      "grdp_billion_vnd": "45.972",
+      "grdp_billion_usd": "1,98"
+    },
+    {
+      "stt": "40",
+      "province": "Bình Thuận",
+      "grdp_billion_vnd": "96.724",
+      "grdp_billion_usd": "4,17"
+    },
+    {
+      "stt": "41",
+      "province": "Kon Tum",
+      "grdp_billion_vnd": "30.413",
+      "grdp_billion_usd": "1,31"
+    },
+    {
+      "stt": "42",
+      "province": "Gia Lai",
+      "grdp_billion_vnd": "107.052",
+      "grdp_billion_usd": "4,54"
+    },
+    {
+      "stt": "43",
+      "province": "Đắk Lắk",
+      "grdp_billion_vnd": "108.178",
+      "grdp_billion_usd": "4,68"
+    },
+    {
+      "stt": "44",
+      "province": "Đắk Nông",
+      "grdp_billion_vnd": "39.939",
+      "grdp_billion_usd": "1,72"
+    },
+    {
+      "stt": "45",
+      "province": "Lâm Đồng",
+      "grdp_billion_vnd": "103.500",
+      "grdp_billion_usd": "4,45"
+    },
+    {
+      "stt": "46",
+      "province": "Bình Phước",
+      "grdp_billion_vnd": "87.112",
+      "grdp_billion_usd": "3,76"
+    },
+    {
+      "stt": "47",
+      "province": "Tây Ninh",
+      "grdp_billion_vnd": "102.387",
+      "grdp_billion_usd": "4,40"
+    },
+    {
+      "stt": "48",
+      "province": "Bình Dương",
+      "grdp_billion_vnd": "459.032",
+      "grdp_billion_usd": "19,28"
+    },
+    {
+      "stt": "49",
+      "province": "Đồng Nai",
+      "grdp_billion_vnd": "434.990",
+      "grdp_billion_usd": "18,35"
+    },
+    {
+      "stt": "50",
+      "province": "Bà Rịa – Vũng Tàu",
+      "grdp_billion_vnd": "390.293",
+      "grdp_billion_usd": "16,79"
+    },
+    {
+      "stt": "51",
+      "province": "Long An",
+      "grdp_billion_vnd": "156.364",
+      "grdp_billion_usd": "6,74"
+    },
+    {
+      "stt": "52",
+      "province": "Tiền Giang",
+      "grdp_billion_vnd": "112.819",
+      "grdp_billion_usd": "5,02"
+    },
+    {
+      "stt": "53",
+      "province": "Bến Tre",
+      "grdp_billion_vnd": "63.586",
+      "grdp_billion_usd": "2,74"
+    },
+    {
+      "stt": "54",
+      "province": "Trà Vinh",
+      "grdp_billion_vnd": "72.441",
+      "grdp_billion_usd": "3,14"
+    },
+    {
+      "stt": "55",
+      "province": "Vĩnh Long",
+      "grdp_billion_vnd": "78.936",
+      "grdp_billion_usd": "3,08"
+    },
+    {
+      "stt": "56",
+      "province": "Đồng Tháp",
+      "grdp_billion_vnd": "100.172",
+      "grdp_billion_usd": "4,36"
+    },
+    {
+      "stt": "57",
+      "province": "An Giang",
+      "grdp_billion_vnd": "102.720",
+      "grdp_billion_usd": "4,68"
+    },
+    {
+      "stt": "58",
+      "province": "Kiên Giang",
+      "grdp_billion_vnd": "116.042",
+      "grdp_billion_usd": "5,05"
+    },
+    {
+      "stt": "59",
+      "province": "Cần Thơ",
+      "grdp_billion_vnd": "107.695",
+      "grdp_billion_usd": "4,65"
+    },
+    {
+      "stt": "60",
+      "province": "Hậu Giang",
+      "grdp_billion_vnd": "48.065",
+      "grdp_billion_usd": "2,07"
+    },
+    {
+      "stt": "61",
+      "province": "Sóc Trăng",
+      "grdp_billion_vnd": "65.709",
+      "grdp_billion_usd": "2,83"
+    },
+    {
+      "stt": "62",
+      "province": "Bạc Liêu",
+      "grdp_billion_vnd": "55.633",
+      "grdp_billion_usd": "2,39"
+    },
+    {
+      "stt": "63",
+      "province": "Cà Mau",
+      "grdp_billion_vnd": "73.529",
+      "grdp_billion_usd": "3,19"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách 63 tỉnh thành Việt Nam theo GRDP - Free Download",
+    "description": "Tổng sản phẩm trên địa bàn (GRDP) của 63 tỉnh, thành phố Việt Nam (cấu trúc trước sáp nhập 2025), tính theo tỉ VNĐ và tỉ USD. Contains 63 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách 63 tỉnh thành Việt Nam theo GRDP | ListBase",
+    "seo_description": "Download Danh sách 63 tỉnh thành Việt Nam theo GRDP — 63 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 63 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%91%C6%A1n_v%E1%BB%8B_h%C3%A0nh_ch%C3%ADnh_Vi%E1%BB%87t_Nam_theo_GRDP"
+    ]
+  }
+}
