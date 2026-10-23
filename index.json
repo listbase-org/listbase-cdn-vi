@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-23T02:09:23.841Z",
-  "total_datasets": 489,
-  "total_records": 117430,
+  "generated": "2026-10-23T02:09:26.294Z",
+  "total_datasets": 490,
+  "total_records": 117484,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "environment",
@@ -601,6 +601,33 @@
         "xlsx": {
           "name": "vi-hoa-hau-viet-nam_VI.xlsx",
           "size": 8463
+        }
+      }
+    },
+    {
+      "id": "vi-phim-doanh-thu-cao-nhat",
+      "name": "Danh sách phim Việt Nam có doanh thu cao nhất",
+      "category": "entertainment",
+      "record_count": 54,
+      "columns": [
+        "rank",
+        "title",
+        "year",
+        "gross_billion_vnd",
+        "genre",
+        "director"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_phim_Vi%E1%BB%87t_Nam_c%C3%B3_doanh_thu_cao_nh%E1%BA%A5t",
+      "updated": "2026-10",
+      "size": 13184,
+      "files": {
+        "csv": {
+          "name": "vi-phim-doanh-thu-cao-nhat_VI.csv",
+          "size": 4665
+        },
+        "xlsx": {
+          "name": "vi-phim-doanh-thu-cao-nhat_VI.xlsx",
+          "size": 9952
         }
       }
     },

@@ -1,0 +1,488 @@
+{
+  "id": "vi-phim-doanh-thu-cao-nhat",
+  "name": "Danh sách phim Việt Nam có doanh thu cao nhất",
+  "title": "Danh sách phim Việt Nam có doanh thu cao nhất",
+  "description": "Bảng xếp hạng các phim điện ảnh Việt Nam có doanh thu phòng vé cao nhất (tỷ VNĐ), kèm năm phát hành, thể loại và đạo diễn.",
+  "category": "entertainment",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_phim_Vi%E1%BB%87t_Nam_c%C3%B3_doanh_thu_cao_nh%E1%BA%A5t",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_phim_Vi%E1%BB%87t_Nam_c%C3%B3_doanh_thu_cao_nh%E1%BA%A5t",
+  "updated": "2026-10",
+  "record_count": 54,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "gross_billion_vnd",
+      "label": "Gross Billion Vnd",
+      "type": "number"
+    },
+    {
+      "key": "genre",
+      "label": "Genre",
+      "type": "string"
+    },
+    {
+      "key": "director",
+      "label": "Director",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": "1",
+      "title": "Mưa đỏ",
+      "year": "2025",
+      "gross_billion_vnd": "714",
+      "genre": "Lịch sử / Chiến tranh / Chính kịch",
+      "director": "Đặng Thái Huyền"
+    },
+    {
+      "rank": "2",
+      "title": "Mai",
+      "year": "2024",
+      "gross_billion_vnd": "551",
+      "genre": "Tâm lý/Tình cảm",
+      "director": "Trấn Thành"
+    },
+    {
+      "rank": "3",
+      "title": "Lật mặt 7: Một điều ước",
+      "year": "2024",
+      "gross_billion_vnd": "483",
+      "genre": "Tâm lý/Tình cảm gia đình",
+      "director": "Lý Hải"
+    },
+    {
+      "rank": "4",
+      "title": "Nhà bà Nữ",
+      "year": "2023",
+      "gross_billion_vnd": "475",
+      "genre": "Hài / Chính kịch",
+      "director": "Trấn Thành"
+    },
+    {
+      "rank": "5",
+      "title": "Trại buôn người",
+      "year": "2026",
+      "gross_billion_vnd": "473",
+      "genre": "Hành động /Gay cấn",
+      "director": "Dương Bảo Anh, Mèo Bích Trang"
+    },
+    {
+      "rank": "6",
+      "title": "Thỏ ơi!!",
+      "year": "2026",
+      "gross_billion_vnd": "450",
+      "genre": "Lãng mạn / Giật gân /Chính kịch",
+      "director": "Trấn Thành"
+    },
+    {
+      "rank": "7",
+      "title": "Bố già",
+      "year": "2021",
+      "gross_billion_vnd": "427",
+      "genre": "Hài / Chính kịch",
+      "director": "Trấn Thành , Vũ Ngọc Đãng"
+    },
+    {
+      "rank": "8",
+      "title": "Bộ tứ báo thủ",
+      "year": "2025",
+      "gross_billion_vnd": "332",
+      "genre": "Hài / Tình cảm",
+      "director": "Trấn Thành"
+    },
+    {
+      "rank": "9",
+      "title": "Lật mặt 6: Tấm vé định mệnh",
+      "year": "2023",
+      "gross_billion_vnd": "273",
+      "genre": "Hành động / Hài",
+      "director": "Lý Hải"
+    },
+    {
+      "rank": "10",
+      "title": "Tử chiến trên không",
+      "year": "2025",
+      "gross_billion_vnd": "252",
+      "genre": "Lịch sử / Hành động / Giật gân",
+      "director": "Hàm Trần"
+    },
+    {
+      "rank": "11",
+      "title": "Thám tử Kiên: Kỳ án không đầu",
+      "year": "2025",
+      "gross_billion_vnd": "249",
+      "genre": "Hành động /Trinh thám",
+      "director": "Victor Vũ"
+    },
+    {
+      "rank": "12",
+      "title": "Nhà gia tiên",
+      "year": "2025",
+      "gross_billion_vnd": "243",
+      "genre": "Gia đình/Tâm linh/ Hài",
+      "director": "Huỳnh Lập"
+    },
+    {
+      "rank": "13",
+      "title": "Lật mặt 8: Vòng tay nắng",
+      "year": "2025",
+      "gross_billion_vnd": "232",
+      "genre": "Tâm lý/Tình cảm gia đình",
+      "director": "Lý Hải"
+    },
+    {
+      "rank": "14",
+      "title": "Nụ hôn bạc tỷ",
+      "year": "2025",
+      "gross_billion_vnd": "212",
+      "genre": "Lãng mạn / Hài",
+      "director": "Thu Trang"
+    },
+    {
+      "rank": "15",
+      "title": "Nghỉ hè sợ nghỉ hưu",
+      "year": "2026",
+      "gross_billion_vnd": "208",
+      "genre": "Gia đình/Tâm linh/Chính kịch/ Hài",
+      "director": "Huỳnh Lập"
+    },
+    {
+      "rank": "16",
+      "title": "Truy tìm long diên hương",
+      "year": "2025",
+      "gross_billion_vnd": "207",
+      "genre": "Hành động / Hài",
+      "director": "Dương Minh Chiến"
+    },
+    {
+      "rank": "17",
+      "title": "Phí phông: Quỷ máu rừng thiêng",
+      "year": "2026",
+      "gross_billion_vnd": "201",
+      "genre": "Kinh dị/Tâm linh",
+      "director": "Đỗ Quốc Trung"
+    },
+    {
+      "rank": "18",
+      "title": "Hai Phượng",
+      "year": "2019",
+      "gross_billion_vnd": "200",
+      "genre": "Hành động",
+      "director": "Lê Văn Kiệt"
+    },
+    {
+      "rank": "19",
+      "title": "Cua lại vợ bầu",
+      "year": "2019",
+      "gross_billion_vnd": "192",
+      "genre": "Lãng mạn / Hài",
+      "director": "Nhất Trung"
+    },
+    {
+      "rank": "20",
+      "title": "Mắt biếc",
+      "year": "2019",
+      "gross_billion_vnd": "180",
+      "genre": "Lãng mạn",
+      "director": "Victor Vũ"
+    },
+    {
+      "rank": "21",
+      "title": "Tiệc trăng máu",
+      "year": "2020",
+      "gross_billion_vnd": "175",
+      "genre": "Hài / Chính kịch",
+      "director": "Nguyễn Quang Dũng"
+    },
+    {
+      "rank": "22",
+      "title": "Địa đạo: Mặt trời trong bóng tối",
+      "year": "2025",
+      "gross_billion_vnd": "173",
+      "genre": "Lịch sử / Chiến tranh / Chính kịch",
+      "director": "Bùi Thạc Chuyên"
+    },
+    {
+      "rank": "23",
+      "title": "Mang mẹ đi bỏ",
+      "year": "2025",
+      "gross_billion_vnd": "172",
+      "genre": "Tâm lý/Tình cảm gia đình",
+      "director": "Mo Hong-jin"
+    },
+    {
+      "rank": "24",
+      "title": "Em chưa 18",
+      "year": "2017",
+      "gross_billion_vnd": "171",
+      "genre": "Lãng mạn / Hài",
+      "director": "Lê Thanh Sơn"
+    },
+    {
+      "rank": "25",
+      "title": "Gái già lắm chiêu 3",
+      "year": "2020",
+      "gross_billion_vnd": "165",
+      "genre": "Lãng mạn / Hài",
+      "director": "Bảo Nhân , Namcito"
+    },
+    {
+      "rank": "26",
+      "title": "Lật mặt: 48h",
+      "year": "2021",
+      "gross_billion_vnd": "157",
+      "genre": "Hành động",
+      "director": "Lý Hải"
+    },
+    {
+      "rank": "27",
+      "title": "Quỷ nhập tràng",
+      "year": "2025",
+      "gross_billion_vnd": "150",
+      "genre": "Kinh dị/Giật gân",
+      "director": "Pom Nguyễn"
+    },
+    {
+      "rank": "28",
+      "title": "Ma xó",
+      "year": "2026",
+      "gross_billion_vnd": "146",
+      "genre": "Kinh dị /Tâm linh",
+      "director": "Phan Bá Hỷ"
+    },
+    {
+      "rank": "29",
+      "title": "Đất rừng phương Nam",
+      "year": "2023",
+      "gross_billion_vnd": "140",
+      "genre": "Tâm lý/Chính kịch",
+      "director": "Nguyễn Quang Dũng"
+    },
+    {
+      "rank": "30",
+      "title": "Quỷ nhập tràng 2",
+      "year": "2026",
+      "gross_billion_vnd": "134",
+      "genre": "Kinh dị/Giật gân",
+      "director": "Pom Nguyễn"
+    },
+    {
+      "rank": "31",
+      "title": "Làm giàu với ma",
+      "year": "2024",
+      "gross_billion_vnd": "128",
+      "genre": "Hài /Tâm lý",
+      "director": "Trung Lùn"
+    },
+    {
+      "rank": "32",
+      "title": "Ma da",
+      "year": "2024",
+      "gross_billion_vnd": "127",
+      "genre": "Kinh dị",
+      "director": "Nguyễn Hữu Hoàng"
+    },
+    {
+      "rank": "33",
+      "title": "Thiên đường máu",
+      "year": "2025",
+      "gross_billion_vnd": "126",
+      "genre": "Hành động / Tội phạm / Giật gân / Chính kịch",
+      "director": "Hoàng Tuấn Cường"
+    },
+    {
+      "rank": "34",
+      "title": "Heo 5 móng",
+      "year": "2026",
+      "gross_billion_vnd": "125",
+      "genre": "Kinh dị /Tâm Linh",
+      "director": "Lưu Thành Luân"
+    },
+    {
+      "rank": "35",
+      "title": "Siêu lừa gặp siêu lầy",
+      "year": "2023",
+      "gross_billion_vnd": "122",
+      "genre": "Hài / Chính kịch",
+      "director": "Võ Thanh Hòa"
+    },
+    {
+      "rank": "36",
+      "title": "Hẹn em ngày nhật thực",
+      "year": "2026",
+      "gross_billion_vnd": "119",
+      "genre": "Tình cảm/Tâm lý",
+      "director": "Lê Thiện Viễn"
+    },
+    {
+      "rank": "37",
+      "title": "Lật mặt 4: Nhà có khách",
+      "year": "2019",
+      "gross_billion_vnd": "118",
+      "genre": "Kinh dị / Hài",
+      "director": "Lý Hải"
+    },
+    {
+      "rank": "38",
+      "title": "Chị chị em em 2",
+      "year": "2023",
+      "gross_billion_vnd": "117",
+      "genre": "Hài / Chính kịch",
+      "director": "Vũ Ngọc Đãng"
+    },
+    {
+      "rank": "38",
+      "title": "Cám",
+      "year": "2024",
+      "gross_billion_vnd": "117",
+      "genre": "Kinh dị",
+      "director": "Trần Hữu Tấn"
+    },
+    {
+      "rank": "40",
+      "title": "Chị dâu",
+      "year": "2024",
+      "gross_billion_vnd": "113",
+      "genre": "Hài /Tâm lý",
+      "director": "Khương Ngọc"
+    },
+    {
+      "rank": "40",
+      "title": "Tài",
+      "year": "2026",
+      "gross_billion_vnd": "113",
+      "genre": "Hài /Hành động",
+      "director": "Mai Tài Phến"
+    },
+    {
+      "rank": "42",
+      "title": "Nhà ba tôi một phòng",
+      "year": "2026",
+      "gross_billion_vnd": "111",
+      "genre": "Hài /Tâm lý/ Chính kịch",
+      "director": "Trường Giang"
+    },
+    {
+      "rank": "43",
+      "title": "Chị Mười Ba: 3 ngày sinh tử",
+      "year": "2020",
+      "gross_billion_vnd": "109",
+      "genre": "Hài /Hành động",
+      "director": "Võ Thanh Hòa"
+    },
+    {
+      "rank": "43",
+      "title": "Siêu sao siêu ngố",
+      "year": "2018",
+      "gross_billion_vnd": "109",
+      "genre": "Hài /Lãng mạn",
+      "director": "Đức Thịnh"
+    },
+    {
+      "rank": "43",
+      "title": "Quỷ cẩu",
+      "year": "2023",
+      "gross_billion_vnd": "109",
+      "genre": "Kinh dị",
+      "director": "Lưu Thành Luân"
+    },
+    {
+      "rank": "46",
+      "title": "Đèn âm hồn",
+      "year": "2025",
+      "gross_billion_vnd": "106",
+      "genre": "Kinh dị /Tâm linh",
+      "director": "Hoàng Nam"
+    },
+    {
+      "rank": "47",
+      "title": "Gặp lại chị bầu",
+      "year": "2024",
+      "gross_billion_vnd": "105",
+      "genre": "Lãng mạn/Chính kịch",
+      "director": "Đoàn Nhất Trung"
+    },
+    {
+      "rank": "48",
+      "title": "Báu vật trời cho",
+      "year": "2026",
+      "gross_billion_vnd": "104",
+      "genre": "Hài /Lãng mạn/ Chính kịch",
+      "director": "Lê Thanh Sơn"
+    },
+    {
+      "rank": "49",
+      "title": "Em là bà nội của anh",
+      "year": "2015",
+      "gross_billion_vnd": "102",
+      "genre": "Hài /Lãng mạn",
+      "director": "Phan Gia Nhật Linh"
+    },
+    {
+      "rank": "50",
+      "title": "Làm giàu với ma 2: Cuộc chiến hột xoàn",
+      "year": "2025",
+      "gross_billion_vnd": "101",
+      "genre": "Hài /Hành động",
+      "director": "Trung Lùn"
+    },
+    {
+      "rank": "50",
+      "title": "Để Mai tính 2",
+      "year": "2014",
+      "gross_billion_vnd": "101",
+      "genre": "Hài /Lãng mạn",
+      "director": "Charlie Nguyễn"
+    },
+    {
+      "rank": "52",
+      "title": "Người vợ cuối cùng",
+      "year": "2023",
+      "gross_billion_vnd": "100",
+      "genre": "Tâm lý/Tình cảm",
+      "director": "Victor Vũ"
+    },
+    {
+      "rank": "52",
+      "title": "Em và Trịnh",
+      "year": "2022",
+      "gross_billion_vnd": "100",
+      "genre": "Lãng mạn/ Chính kịch",
+      "director": "Phan Gia Nhật Linh"
+    },
+    {
+      "rank": "52",
+      "title": "Trạng Quỳnh",
+      "year": "2019",
+      "gross_billion_vnd": "100",
+      "genre": "Hài /Phiêu lưu/Cổ trang",
+      "director": "Đức Thịnh"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách phim Việt Nam có doanh thu cao nhất - Free Download",
+    "description": "Bảng xếp hạng các phim điện ảnh Việt Nam có doanh thu phòng vé cao nhất (tỷ VNĐ), kèm năm phát hành, thể loại và đạo diễn. Contains 54 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách phim Việt Nam có doanh thu cao nhất | ListBase",
+    "seo_description": "Download Danh sách phim Việt Nam có doanh thu cao nhất — 54 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 54 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_phim_Vi%E1%BB%87t_Nam_c%C3%B3_doanh_thu_cao_nh%E1%BA%A5t"
+    ]
+  }
+}
