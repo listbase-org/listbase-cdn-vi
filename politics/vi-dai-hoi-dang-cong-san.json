@@ -1,0 +1,176 @@
+{
+  "id": "vi-dai-hoi-dang-cong-san",
+  "name": "Các kỳ Đại hội đại biểu toàn quốc Đảng Cộng sản Việt Nam",
+  "title": "Các kỳ Đại hội đại biểu toàn quốc Đảng Cộng sản Việt Nam",
+  "description": "Danh sách các kỳ Đại hội đại biểu toàn quốc của Đảng Cộng sản Việt Nam: thời gian, địa điểm, số đại biểu, số đảng viên và nội dung chính.",
+  "category": "politics",
+  "source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%99i_%C4%90%E1%BA%A1i_bi%E1%BB%83u_to%C3%A0n_qu%E1%BB%91c_%C4%90%E1%BA%A3ng_C%E1%BB%99ng_s%E1%BA%A3n_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%99i_%C4%90%E1%BA%A1i_bi%E1%BB%83u_to%C3%A0n_qu%E1%BB%91c_%C4%90%E1%BA%A3ng_C%E1%BB%99ng_s%E1%BA%A3n_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "congress",
+      "label": "Congress",
+      "type": "string"
+    },
+    {
+      "key": "time",
+      "label": "Time",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "delegates",
+      "label": "Delegates",
+      "type": "number"
+    },
+    {
+      "key": "party_members",
+      "label": "Party Members",
+      "type": "number"
+    },
+    {
+      "key": "content",
+      "label": "Content",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "congress": "Hội nghị thành lập Đảng",
+      "time": "06/01-07/02/1930",
+      "location": "Hương Cảng",
+      "delegates": "7",
+      "party_members": "565",
+      "content": "Hội nghị thành lập Đảng Cộng sản Việt Nam. Với tư cách là phái viên của Quốc tế Cộng sản có đầy đủ quyền quyết định mọi vấn đề liên quan đến phong trào cách mạng ở Đông Dương, Nguyễn Ái Quốc đã triệu tập hội nghị đại biểu của Đông Dương Cộng sản Đảng và An Nam Cộng sản Đảng để bàn việc thống nhất thành một đảng. Hội nghị nhất trí hợp nhất Đông Dương Cộng sản Đảng và An Nam Cộng sản Đảng để lập ra một đảng duy nhất lấy tên Đảng Cộng sản Việt Nam."
+    },
+    {
+      "congress": "Lần thứ I",
+      "time": "27-31/3/1935",
+      "location": "Ma Cao",
+      "delegates": "13",
+      "party_members": "600",
+      "content": "Đại hội khôi phục lại hệ thống tổ chức của Đảng sau khi bị tê liệt gần như hoàn toàn bởi khủng bố trắng của Pháp sau Xô-viết Nghệ Tĩnh"
+    },
+    {
+      "congress": "Lần thứ II",
+      "time": "11 - 19/2/ 1951",
+      "location": "Tuyên Quang",
+      "delegates": "158 (53 dự khuyết)",
+      "party_members": "766.349",
+      "content": "Khởi xướng Cải cách ruộng đất tại miền Bắc Việt Nam . Hoàn chỉnh đường lối kháng chiến chống thực dân Pháp và sự can thiệp của Mỹ. Biểu dương khích lệ tinh thần toàn đảng, toàn quân, toàn dân. Đại hội thể hiện được năng lực tư duy của Đảng."
+    },
+    {
+      "congress": "Lần thứ III",
+      "time": "5 - 10/9/ 1960",
+      "location": "Hà Nội",
+      "delegates": "525 (51 dự khuyết)",
+      "party_members": "500.000",
+      "content": "Đề ra đường lối cách mạng của cả nước và nhiệm vụ riêng cho cách mạng 2 miền: Xây dựng Chủ nghĩa Xã hội ở miền Bắc, tiến hành Cách mạng Dân tộc Dân chủ ở miền Nam."
+    },
+    {
+      "congress": "Lần thứ IV",
+      "time": "14 - 20/12/ 1976",
+      "location": "Hà Nội",
+      "delegates": "1008",
+      "party_members": "1.550.000",
+      "content": "Đại hội đầu tiên sau thống nhất."
+    },
+    {
+      "congress": "Lần thứ V",
+      "time": "27 - 31/3/ 1982",
+      "location": "Hà Nội",
+      "delegates": "1033",
+      "party_members": "1.727.000",
+      "content": "Đường lối xây dựng Chủ nghĩa xã hội trong thời kì quá độ bắt đầu có sự điều chỉnh, bổ sung, phát triển , cụ thể hóa theo từng chặng đường, từng giai đoạn cho phù hợp với những điều kiện lịch sử."
+    },
+    {
+      "congress": "Lần thứ VI",
+      "time": "15 - 18/12/ 1986",
+      "location": "Hà Nội",
+      "delegates": "1129",
+      "party_members": "2.109.613",
+      "content": "Khởi xướng chính sách đổi mới ."
+    },
+    {
+      "congress": "Lần thứ VII",
+      "time": "24 - 27/6/ 1991",
+      "location": "Hà Nội",
+      "delegates": "1176",
+      "party_members": "2.155.022",
+      "content": "Đề ra Cương lĩnh xây dựng đất nước trong thời kì quá độ lên Chủ nghĩa xã hội. Mở rộng quan hệ đối ngoại theo hướng đa phương hóa, đa dạng hóa."
+    },
+    {
+      "congress": "Lần thứ VIII",
+      "time": "28/6 - 1/7/ 1996",
+      "location": "Hà Nội",
+      "delegates": "1198",
+      "party_members": "2.130.000",
+      "content": "Đại hội đã tổng kết đánh giá, kiểm điểm 10 năm thực hiện đường lối đổi mới của đại hội VI và 5 năm thực hiện Nghị quyết Đại hội 7, đề ra chủ trương, nhiệm vụ nhằm kế thừa, phát huy những thành tựu, ưu điểm đã đạt được; điều chỉnh bổ sung, phát triển đường lối đổi mới để tiếp tục đưa sự nghiệp đổi mới của đất nước tiến lên."
+    },
+    {
+      "congress": "Lần thứ IX",
+      "time": "19 - 22/4/ 2001",
+      "location": "Hà Nội",
+      "delegates": "1168",
+      "party_members": "2,4 triệu",
+      "content": "Đại hội khẳng định tiếp tục nắm vững 2 nhiệm vụ chiến lược là xây dựng và bảo vệ Tổ quốc xã hội chủ nghĩa, đẩy mạnh công nghiệp hóa , hiện đại hóa đất nước. Tạo nền tảng để đến năm 2020 Việt Nam cơ bản trở thành một nước công nghiệp theo hướng hiện đại."
+    },
+    {
+      "congress": "Lần thứ X",
+      "time": "18 - 25/4/ 2006",
+      "location": "Hà Nội",
+      "delegates": "1176",
+      "party_members": "3,1 triệu",
+      "content": "Đảng viên làm kinh tế tư nhân không giới hạn về quy mô - Việc Đại hội ra Nghị quyết cho phép Đảng viên của Đảng được làm kinh tế tư nhân, kể cả kinh tế tư bản tư nhân là bước tiến quan trọng trong nhận thức của Đảng Cộng sản Việt Nam sau 20 năm đổi mới, thể hiện bước đột phá trong thay đổi tư duy của Đảng Cộng sản Việt Nam. Đại hội cũng làm rõ mối quan hệ giữa các thành phần kinh tế trong nền kinh tế Việt Nam."
+    },
+    {
+      "congress": "Lần thứ XI",
+      "time": "12 - 19/1/ 2011",
+      "location": "Hà Nội",
+      "delegates": "1377",
+      "party_members": "3,6 triệu",
+      "content": "[Đây là đại hội đầu tiên tổ chức trước Tết Nguyên Đán ]. Đại hội đề ra \"Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011)\", trong đó đề ra đường lối xây dựng Đảng, tổng kết và ghi nhận thành tựu phát triển kinh tế đã đạt được."
+    },
+    {
+      "congress": "Lần thứ XII",
+      "time": "20 - 28/1/ 2016",
+      "location": "Hà Nội",
+      "delegates": "1510",
+      "party_members": "hơn 4,5 triệu",
+      "content": "Tiếp tục tăng cường xây dựng Đảng trong sạch, vững mạnh; phát huy sức mạnh toàn dân tộc và dân chủ xã hội chủ nghĩa; đẩy mạnh toàn diện, đồng bộ công cuộc đổi mới; bảo vệ vững chắc Tổ quốc, giữ vững môi trường hòa bình , ổn định; phấn đấu sớm đưa Việt Nam cơ bản trở thành nước công nghiệp theo hướng hiện đại."
+    },
+    {
+      "congress": "Lần thứ XIII",
+      "time": "25/1 - 1/2/ 2021",
+      "location": "Hà Nội",
+      "delegates": "1587",
+      "party_members": "~5.300.000 (tính đến 10/2020)",
+      "content": "Tăng cường xây dựng, chỉnh đốn Đảng và hệ thống chính trị trong sạch, vững mạnh; phát huy ý chí, khát vọng, sức mạnh đại đoàn kết toàn dân tộc kết hợp với sức mạnh thời đại; đẩy mạnh đổi mới sáng tạo, phát triển nhanh và bền vững đất nước; bảo vệ vững chắc Tổ quốc, giữ vững môi trường hòa bình, ổn định; phấn đấu đến giữa thế kỷ XXI nước ta trở thành nước phát triển, theo định hướng xã hội chủ nghĩa.\""
+    },
+    {
+      "congress": "Lần thứ XIV",
+      "time": "19/1 - 23/1/ 2026",
+      "location": "Hà Nội",
+      "delegates": "1586",
+      "party_members": "",
+      "content": "Dưới lá cờ vẻ vang của Đảng, chung sức đồng lòng quyết tâm thực hiện thắng lợi các mục tiêu phát triển đất nước đến năm 2030; tự cường, tự tin, tiến mạnh trong kỷ nguyên vươn mình của dân tộc, vì hòa bình, độc lập, dân chủ, giàu mạnh, phồn vinh, hạnh phúc, vững bước đi lên chủ nghĩa xã hội.\""
+    }
+  ],
+  "meta": {
+    "title": "Các kỳ Đại hội đại biểu toàn quốc Đảng Cộng sản Việt Nam - Free Download",
+    "description": "Danh sách các kỳ Đại hội đại biểu toàn quốc của Đảng Cộng sản Việt Nam: thời gian, địa điểm, số đại biểu, số đảng viên và nội dung chính. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Các kỳ Đại hội đại biểu toàn quốc Đảng Cộng sản Việt Nam | ListBase",
+    "seo_description": "Download Các kỳ Đại hội đại biểu toàn quốc Đảng Cộng sản Việt Nam — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%99i_%C4%90%E1%BA%A1i_bi%E1%BB%83u_to%C3%A0n_qu%E1%BB%91c_%C4%90%E1%BA%A3ng_C%E1%BB%99ng_s%E1%BA%A3n_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}

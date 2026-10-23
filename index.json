@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-23T02:09:17.048Z",
-  "total_datasets": 486,
-  "total_records": 117373,
+  "generated": "2026-10-23T02:09:19.356Z",
+  "total_datasets": 487,
+  "total_records": 117388,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "reference",
@@ -2965,6 +2965,33 @@
         "xlsx": {
           "name": "vi-chu-tich-nuoc_VI.xlsx",
           "size": 8752
+        }
+      }
+    },
+    {
+      "id": "vi-dai-hoi-dang-cong-san",
+      "name": "Các kỳ Đại hội đại biểu toàn quốc Đảng Cộng sản Việt Nam",
+      "category": "politics",
+      "record_count": 15,
+      "columns": [
+        "congress",
+        "time",
+        "location",
+        "delegates",
+        "party_members",
+        "content"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%99i_%C4%90%E1%BA%A1i_bi%E1%BB%83u_to%C3%A0n_qu%E1%BB%91c_%C4%90%E1%BA%A3ng_C%E1%BB%99ng_s%E1%BA%A3n_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 10549,
+      "files": {
+        "csv": {
+          "name": "vi-dai-hoi-dang-cong-san_VI.csv",
+          "size": 6236
+        },
+        "xlsx": {
+          "name": "vi-dai-hoi-dang-cong-san_VI.xlsx",
+          "size": 9444
         }
       }
     },
