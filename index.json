@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-23T02:09:12.193Z",
-  "total_datasets": 484,
-  "total_records": 117302,
+  "generated": "2026-10-23T02:09:14.569Z",
+  "total_datasets": 485,
+  "total_records": 117355,
   "categories": [
     {
       "id": "agriculture",
@@ -51,6 +51,10 @@
     {
       "id": "music",
       "dataset_count": 2
+    },
+    {
+      "id": "politics",
+      "dataset_count": 1
     },
     {
       "id": "reference",
@@ -2930,6 +2934,37 @@
         "xlsx": {
           "name": "music-piano-chords_VI.xlsx",
           "size": 11078
+        }
+      }
+    },
+    {
+      "id": "vi-nguoi-dung-dau-chinh-phu",
+      "name": "Danh sách người đứng đầu Chính phủ Việt Nam",
+      "category": "politics",
+      "record_count": 53,
+      "columns": [
+        "state",
+        "no",
+        "name",
+        "start",
+        "end",
+        "days",
+        "title",
+        "cabinet",
+        "party",
+        "notes"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_ng%C6%B0%E1%BB%9Di_%C4%91%E1%BB%A9ng_%C4%91%E1%BA%A7u_ch%C3%ADnh_ph%E1%BB%A7_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 24485,
+      "files": {
+        "csv": {
+          "name": "vi-nguoi-dung-dau-chinh-phu_VI.csv",
+          "size": 13194
+        },
+        "xlsx": {
+          "name": "vi-nguoi-dung-dau-chinh-phu_VI.xlsx",
+          "size": 10777
         }
       }
     },
