@@ -1,0 +1,292 @@
+{
+  "id": "vi-chu-tich-nuoc",
+  "name": "Danh sách Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+  "title": "Danh sách Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+  "description": "Các Chủ tịch nước (và Chủ tịch Hội đồng Nhà nước) CHXHCN Việt Nam từ 1976 đến nay với nhiệm kỳ, khóa Quốc hội và ghi chú.",
+  "category": "politics",
+  "source": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_t%E1%BB%8Bch_n%C6%B0%E1%BB%9Bc_C%E1%BB%99ng_h%C3%B2a_x%C3%A3_h%E1%BB%99i_ch%E1%BB%A7_ngh%C4%A9a_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_t%E1%BB%8Bch_n%C6%B0%E1%BB%9Bc_C%E1%BB%99ng_h%C3%B2a_x%C3%A3_h%E1%BB%99i_ch%E1%BB%A7_ngh%C4%A9a_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "office",
+      "label": "Office",
+      "type": "string"
+    },
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "string"
+    },
+    {
+      "key": "tenure",
+      "label": "Tenure",
+      "type": "string"
+    },
+    {
+      "key": "national_assembly",
+      "label": "National Assembly",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "constituency",
+      "label": "Constituency",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "office": "Chủ tịch nước (1976–1981)",
+      "no": "1",
+      "name": "Tôn Đức Thắng (1888–1980)",
+      "start": "2 tháng 7 năm 1976",
+      "end": "30 tháng 3 năm 1980",
+      "tenure": "3 năm, 272 ngày",
+      "national_assembly": "VI",
+      "party": "Đảng Cộng sản Việt Nam",
+      "constituency": "Sài Gòn – Chợ Lớn , Hà Nội",
+      "notes": "Mất khi tại chức"
+    },
+    {
+      "office": "Chủ tịch nước (1976–1981)",
+      "no": "—",
+      "name": "Nguyễn Hữu Thọ (1910–1996)",
+      "start": "30 tháng 3 năm 1980",
+      "end": "4 tháng 7 năm 1981",
+      "tenure": "1 năm, 96 ngày",
+      "national_assembly": "VI",
+      "party": "Đảng Cộng sản Việt Nam",
+      "constituency": "Thành phố Hồ Chí Minh",
+      "notes": "Quyền Chủ tịch nước sau khi Chủ tịch Tôn Đức Thắng qua đời"
+    },
+    {
+      "office": "Chủ tịch Hội đồng Nhà nước (1981–1992)",
+      "no": "2",
+      "name": "Trường Chinh (1907–1988)",
+      "start": "4 tháng 7 năm 1981",
+      "end": "18 tháng 6 năm 1987",
+      "tenure": "5 năm, 349 ngày",
+      "national_assembly": "VII",
+      "party": "Đảng Cộng sản Việt Nam",
+      "constituency": "Hà Nội",
+      "notes": ""
+    },
+    {
+      "office": "Chủ tịch Hội đồng Nhà nước (1981–1992)",
+      "no": "3",
+      "name": "Võ Chí Công (1912–2011)",
+      "start": "18 tháng 6 năm 1987",
+      "end": "23 tháng 9 năm 1992",
+      "tenure": "5 năm, 97 ngày",
+      "national_assembly": "VIII",
+      "party": "Đảng Cộng sản Việt Nam",
+      "constituency": "Quảng Nam – Đà Nẵng",
+      "notes": ""
+    },
+    {
+      "office": "Chủ tịch nước (1992–nay)",
+      "no": "4",
+      "name": "Đại tướng Lê Đức Anh (1920–2019)",
+      "start": "23 tháng 9 năm 1992",
+      "end": "23 tháng 9 năm 1997",
+      "tenure": "5 năm, 0 ngày",
+      "national_assembly": "IX",
+      "party": "Đảng Cộng sản Việt Nam",
+      "constituency": "Thừa Thiên – Huế",
+      "notes": "Đại tướng Quân đội đầu tiên giữ chức"
+    },
+    {
+      "office": "Chủ tịch nước (1992–nay)",
+      "no": "5",
+      "name": "Trần Đức Lương (1937–2025)",
+      "start": "24 tháng 9 năm 1997",
+      "end": "27 tháng 6 năm 2006",
+      "tenure": "8 năm, 276 ngày",
+      "national_assembly": "X , XI",
+      "party": "Đảng Cộng sản Việt Nam",
+      "constituency": "Quảng Ngãi , Hải Phòng",
+      "notes": "Từ chức"
+    },
+    {
+      "office": "Chủ tịch nước (1992–nay)",
+      "no": "6",
+      "name": "Nguyễn Minh Triết (1942–)",
+      "start": "27 tháng 6 năm 2006",
+      "end": "25 tháng 7 năm 2011",
+      "tenure": "5 năm, 28 ngày",
+      "national_assembly": "XI , XII",
+      "party": "Đảng Cộng sản Việt Nam",
+      "constituency": "Thành phố Hồ Chí Minh",
+      "notes": ""
+    },
+    {
+      "office": "Chủ tịch nước (1992–nay)",
+      "no": "7",
+      "name": "Trương Tấn Sang (1949–)",
+      "start": "25 tháng 7 năm 2011",
+      "end": "2 tháng 4 năm 2016",
+      "tenure": "4 năm, 252 ngày",
+      "national_assembly": "XIII",
+      "party": "Đảng Cộng sản Việt Nam",
+      "constituency": "Thành phố Hồ Chí Minh",
+      "notes": ""
+    },
+    {
+      "office": "Chủ tịch nước (1992–nay)",
+      "no": "8",
+      "name": "Đại tướng Trần Đại Quang (1956–2018)",
+      "start": "2 tháng 4 năm 2016",
+      "end": "21 tháng 9 năm 2018",
+      "tenure": "2 năm, 172 ngày",
+      "national_assembly": "XIV",
+      "party": "Đảng Cộng sản Việt Nam",
+      "constituency": "Ninh Bình",
+      "notes": "Đại tướng Công an đầu tiên giữ chức; mất khi tại chức"
+    },
+    {
+      "office": "Chủ tịch nước (1992–nay)",
+      "no": "—",
+      "name": "Đặng Thị Ngọc Thịnh (1959–)",
+      "start": "21 tháng 9 năm 2018",
+      "end": "23 tháng 10 năm 2018",
+      "tenure": "32 ngày",
+      "national_assembly": "XIV",
+      "party": "Đảng Cộng sản Việt Nam",
+      "constituency": "Vĩnh Long",
+      "notes": "Người phụ nữ đầu tiên đảm nhiệm chức vụ Quyền Chủ tịch nước"
+    },
+    {
+      "office": "Chủ tịch nước (1992–nay)",
+      "no": "9",
+      "name": "Nguyễn Phú Trọng (1944–2024)",
+      "start": "23 tháng 10 năm 2018",
+      "end": "5 tháng 4 năm 2021",
+      "tenure": "2 năm, 164 ngày",
+      "national_assembly": "XIV",
+      "party": "Đảng Cộng sản Việt Nam",
+      "constituency": "Hà Nội",
+      "notes": "Kiêm nhiệm cùng chức Tổng Bí thư"
+    },
+    {
+      "office": "Chủ tịch nước (1992–nay)",
+      "no": "10",
+      "name": "Nguyễn Xuân Phúc (1954–)",
+      "start": "5 tháng 4 năm 2021",
+      "end": "18 tháng 1 năm 2023",
+      "tenure": "1 năm, 288 ngày",
+      "national_assembly": "XV",
+      "party": "Đảng Cộng sản Việt Nam",
+      "constituency": "Thành phố Hồ Chí Minh",
+      "notes": "Từ chức Kỷ luật Cảnh cáo (tháng 12/2024) Kỷ luật Cách tất cả các chức vụ trong Đảng (tháng 7/2025)"
+    },
+    {
+      "office": "Chủ tịch nước (1992–nay)",
+      "no": "—",
+      "name": "Võ Thị Ánh Xuân (1970–)",
+      "start": "18 tháng 1 năm 2023",
+      "end": "2 tháng 3 năm 2023",
+      "tenure": "43 ngày",
+      "national_assembly": "XV",
+      "party": "Đảng Cộng sản Việt Nam",
+      "constituency": "An Giang",
+      "notes": "Người phụ nữ thứ hai đảm nhiệm chức vụ Quyền Chủ tịch nước"
+    },
+    {
+      "office": "Chủ tịch nước (1992–nay)",
+      "no": "11",
+      "name": "Võ Văn Thưởng (1970–)",
+      "start": "2 tháng 3 năm 2023",
+      "end": "21 tháng 3 năm 2024",
+      "tenure": "1 năm, 19 ngày",
+      "national_assembly": "XV",
+      "party": "Đảng Cộng sản Việt Nam",
+      "constituency": "Đà Nẵng",
+      "notes": "Từ chức ; trẻ nhất khi nhậm chức ở tuổi 52 Kỷ luật Cách tất cả các chức vụ trong Đảng (tháng 7/2025)"
+    },
+    {
+      "office": "Chủ tịch nước (1992–nay)",
+      "no": "—",
+      "name": "Võ Thị Ánh Xuân (1970–)",
+      "start": "21 tháng 3 năm 2024",
+      "end": "22 tháng 5 năm 2024",
+      "tenure": "62 ngày",
+      "national_assembly": "XV",
+      "party": "Đảng Cộng sản Việt Nam",
+      "constituency": "An Giang",
+      "notes": "Người đầu tiên hai lần giữ chức vụ Quyền Chủ tịch nước"
+    },
+    {
+      "office": "Chủ tịch nước (1992–nay)",
+      "no": "12",
+      "name": "Đại tướng Tô Lâm (1957–)",
+      "start": "22 tháng 5 năm 2024",
+      "end": "21 tháng 10 năm 2024",
+      "tenure": "152 ngày",
+      "national_assembly": "XV",
+      "party": "Đảng Cộng sản Việt Nam",
+      "constituency": "Hưng Yên",
+      "notes": "Đại tướng Công an thứ hai giữ chức; Chủ tịch nước có nhiệm kỳ ngắn nhất Việt Nam"
+    },
+    {
+      "office": "Chủ tịch nước (1992–nay)",
+      "no": "13",
+      "name": "Đại tướng Lương Cường (1957–)",
+      "start": "21 tháng 10 năm 2024",
+      "end": "7 tháng 4 năm 2026",
+      "tenure": "1 năm, 168 ngày",
+      "national_assembly": "XV",
+      "party": "Đảng Cộng sản Việt Nam",
+      "constituency": "Thanh Hóa",
+      "notes": "Đại tướng quân đội thứ hai giữ chức"
+    },
+    {
+      "office": "Chủ tịch nước (1992–nay)",
+      "no": "(12)",
+      "name": "Đại tướng Tô Lâm (1957–)",
+      "start": "7 tháng 4 năm 2026",
+      "end": "—",
+      "tenure": "193 ngày",
+      "national_assembly": "XVI",
+      "party": "Đảng Cộng sản Việt Nam",
+      "constituency": "Hà Nội",
+      "notes": "Kiêm nhiệm cùng chức Tổng Bí thư; Chủ tịch nước đầu tiên tái cử không liên tục"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam - Free Download",
+    "description": "Các Chủ tịch nước (và Chủ tịch Hội đồng Nhà nước) CHXHCN Việt Nam từ 1976 đến nay với nhiệm kỳ, khóa Quốc hội và ghi chú. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam | ListBase",
+    "seo_description": "Download Danh sách Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_t%E1%BB%8Bch_n%C6%B0%E1%BB%9Bc_C%E1%BB%99ng_h%C3%B2a_x%C3%A3_h%E1%BB%99i_ch%E1%BB%A7_ngh%C4%A9a_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-23T02:09:14.569Z",
-  "total_datasets": 485,
-  "total_records": 117355,
+  "generated": "2026-10-23T02:09:17.048Z",
+  "total_datasets": 486,
+  "total_records": 117373,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "reference",
@@ -2934,6 +2934,37 @@
         "xlsx": {
           "name": "music-piano-chords_VI.xlsx",
           "size": 11078
+        }
+      }
+    },
+    {
+      "id": "vi-chu-tich-nuoc",
+      "name": "Danh sách Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "category": "politics",
+      "record_count": 18,
+      "columns": [
+        "office",
+        "no",
+        "name",
+        "start",
+        "end",
+        "tenure",
+        "national_assembly",
+        "party",
+        "constituency",
+        "notes"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_t%E1%BB%8Bch_n%C6%B0%E1%BB%9Bc_C%E1%BB%99ng_h%C3%B2a_x%C3%A3_h%E1%BB%99i_ch%E1%BB%A7_ngh%C4%A9a_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 10835,
+      "files": {
+        "csv": {
+          "name": "vi-chu-tich-nuoc_VI.csv",
+          "size": 4901
+        },
+        "xlsx": {
+          "name": "vi-chu-tich-nuoc_VI.xlsx",
+          "size": 8752
         }
       }
     },
