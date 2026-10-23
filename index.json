@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-23T02:09:00.028Z",
-  "total_datasets": 479,
-  "total_records": 116819,
+  "generated": "2026-10-23T02:09:02.446Z",
+  "total_datasets": 480,
+  "total_records": 117102,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "finance",
@@ -504,6 +504,36 @@
         "xlsx": {
           "name": "vi-truong-hoc_VI.xlsx",
           "size": 10044
+        }
+      }
+    },
+    {
+      "id": "vi-bao-ap-thap-nhiet-doi",
+      "name": "Bão và áp thấp nhiệt đới ảnh hưởng Việt Nam (1975 – nay)",
+      "category": "environment",
+      "record_count": 283,
+      "columns": [
+        "year",
+        "storm",
+        "affected_regions",
+        "landfall",
+        "landfall_wind",
+        "min_pressure_land",
+        "meteorological_impact",
+        "socioeconomic_impact",
+        "notes"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_xo%C3%A1y_thu%E1%BA%ADn_nhi%E1%BB%87t_%C4%91%E1%BB%9Bi_t%E1%BA%A1i_Vi%E1%BB%87t_Nam_%281945_%E2%80%93_nay%29",
+      "updated": "2026-10",
+      "size": 197504,
+      "files": {
+        "csv": {
+          "name": "vi-bao-ap-thap-nhiet-doi_VI.csv",
+          "size": 132710
+        },
+        "xlsx": {
+          "name": "vi-bao-ap-thap-nhiet-doi_VI.xlsx",
+          "size": 43780
         }
       }
     },
