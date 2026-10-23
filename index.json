@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-23T02:09:02.446Z",
-  "total_datasets": 480,
-  "total_records": 117102,
+  "generated": "2026-10-23T02:09:04.983Z",
+  "total_datasets": 481,
+  "total_records": 117112,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "finance",
@@ -534,6 +534,30 @@
         "xlsx": {
           "name": "vi-bao-ap-thap-nhiet-doi_VI.xlsx",
           "size": 43780
+        }
+      }
+    },
+    {
+      "id": "vi-bao-thiet-hai-lon-nhat",
+      "name": "Các cơn bão gây thiệt hại kinh tế lớn nhất tại Việt Nam",
+      "category": "environment",
+      "record_count": 10,
+      "columns": [
+        "rank",
+        "storm",
+        "damage_billion_vnd"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_xo%C3%A1y_thu%E1%BA%ADn_nhi%E1%BB%87t_%C4%91%E1%BB%9Bi_t%E1%BA%A1i_Vi%E1%BB%87t_Nam_%281945_%E2%80%93_nay%29",
+      "updated": "2026-10",
+      "size": 3279,
+      "files": {
+        "csv": {
+          "name": "vi-bao-thiet-hai-lon-nhat_VI.csv",
+          "size": 500
+        },
+        "xlsx": {
+          "name": "vi-bao-thiet-hai-lon-nhat_VI.xlsx",
+          "size": 7088
         }
       }
     },

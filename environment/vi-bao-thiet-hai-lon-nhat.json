@@ -1,0 +1,91 @@
+{
+  "id": "vi-bao-thiet-hai-lon-nhat",
+  "name": "Các cơn bão gây thiệt hại kinh tế lớn nhất tại Việt Nam",
+  "title": "Các cơn bão gây thiệt hại kinh tế lớn nhất tại Việt Nam",
+  "description": "Xếp hạng các cơn bão gây thiệt hại lớn nhất tại Việt Nam (tỷ đồng), nguồn tổng hợp Cục Quản lý đê điều và Phòng, chống thiên tai.",
+  "category": "environment",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_xo%C3%A1y_thu%E1%BA%ADn_nhi%E1%BB%87t_%C4%91%E1%BB%9Bi_t%E1%BA%A1i_Vi%E1%BB%87t_Nam_%281945_%E2%80%93_nay%29",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_xo%C3%A1y_thu%E1%BA%ADn_nhi%E1%BB%87t_%C4%91%E1%BB%9Bi_t%E1%BA%A1i_Vi%E1%BB%87t_Nam_%281945_%E2%80%93_nay%29",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "storm",
+      "label": "Storm",
+      "type": "string"
+    },
+    {
+      "key": "damage_billion_vnd",
+      "label": "Damage Billion Vnd",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": "1",
+      "storm": "Yagi (bão số 3 năm 2024)",
+      "damage_billion_vnd": "84.544"
+    },
+    {
+      "rank": "2",
+      "storm": "Bualoi (bão số 10 năm 2025)",
+      "damage_billion_vnd": "23.898"
+    },
+    {
+      "rank": "3",
+      "storm": "Damrey (bão số 12 năm 2017)",
+      "damage_billion_vnd": "22.680"
+    },
+    {
+      "rank": "4",
+      "storm": "Matmo (bão số 11 năm 2025)",
+      "damage_billion_vnd": "21.013"
+    },
+    {
+      "rank": "5",
+      "storm": "Doksuri (bão số 10 năm 2017)",
+      "damage_billion_vnd": "18.402"
+    },
+    {
+      "rank": "6",
+      "storm": "Ketsana (bão số 9 năm 2009)",
+      "damage_billion_vnd": "16.078"
+    },
+    {
+      "rank": "7",
+      "storm": "Wutip (bão số 10 năm 2013)",
+      "damage_billion_vnd": "13.605"
+    },
+    {
+      "rank": "8",
+      "storm": "Molave (bão số 9 năm 2020)",
+      "damage_billion_vnd": "13.271"
+    },
+    {
+      "rank": "9",
+      "storm": "ATNĐ tháng 10 năm 2017",
+      "damage_billion_vnd": "13.142"
+    },
+    {
+      "rank": "10",
+      "storm": "Kalmaegi (bão số 13 năm 2025)",
+      "damage_billion_vnd": "13.097"
+    }
+  ],
+  "meta": {
+    "title": "Các cơn bão gây thiệt hại kinh tế lớn nhất tại Việt Nam - Free Download",
+    "description": "Xếp hạng các cơn bão gây thiệt hại lớn nhất tại Việt Nam (tỷ đồng), nguồn tổng hợp Cục Quản lý đê điều và Phòng, chống thiên tai. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Các cơn bão gây thiệt hại kinh tế lớn nhất tại Việt Nam | ListBase",
+    "seo_description": "Download Các cơn bão gây thiệt hại kinh tế lớn nhất tại Việt Nam — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_xo%C3%A1y_thu%E1%BA%ADn_nhi%E1%BB%87t_%C4%91%E1%BB%9Bi_t%E1%BA%A1i_Vi%E1%BB%87t_Nam_%281945_%E2%80%93_nay%29"
+    ]
+  }
+}
