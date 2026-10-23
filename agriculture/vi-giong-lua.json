@@ -1,0 +1,3808 @@
+{
+  "id": "vi-giong-lua",
+  "name": "Danh sách giống lúa tại Việt Nam",
+  "title": "Danh sách giống lúa tại Việt Nam",
+  "description": "Danh sách các giống lúa (lúa nếp, lúa tẻ) tại Việt Nam kèm địa phương, theo Wikipedia tiếng Việt.",
+  "category": "agriculture",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_gi%E1%BB%91ng_l%C3%BAa_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_gi%E1%BB%91ng_l%C3%BAa_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 627,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "locality",
+      "label": "Locality",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": "1",
+      "name": "Lúa a cuốc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "2",
+      "name": "Ba lá Nghệ An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "3",
+      "name": "Ba tháng nước Nghệ An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "4",
+      "name": "Bake",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "5",
+      "name": "Balo",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "6",
+      "name": "Bằng muộn Nghệ An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "7",
+      "name": "Bầu dâu Phú Thọ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "8",
+      "name": "Bầu đỏ Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "9",
+      "name": "Bầu đỏ Thái Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "10",
+      "name": "Bầu Hà Đông",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "11",
+      "name": "Bầu Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "12",
+      "name": "Bầu hương Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "13",
+      "name": "Bầu quái",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "14",
+      "name": "Bầu quảng Phú Thọ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "15",
+      "name": "Bầu Thái Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "16",
+      "name": "Bầu Thái Bình trắng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "17",
+      "name": "Bầu Thanh Hoá",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "18",
+      "name": "Bầu Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "19",
+      "name": "Bầu Yên Sơn",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "20",
+      "name": "Beo cại nác",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "21",
+      "name": "Bèo cằn cứu",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "22",
+      "name": "Bèo cú",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "23",
+      "name": "Bèo đàng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "24",
+      "name": "Bèo mù cú",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "25",
+      "name": "Biàu cẩu căm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "26",
+      "name": "Blao blo non",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "27",
+      "name": "Blao co cẩm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "28",
+      "name": "Blao diến",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "29",
+      "name": "Blao hung",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "30",
+      "name": "Blao pe ngoon",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "31",
+      "name": "Blao tỏm pỉ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "32",
+      "name": "Blau cẩm (Nếp cẩm - người Mán)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "33",
+      "name": "Blau hung",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "34",
+      "name": "B'lầu mặc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "35",
+      "name": "Blẩu sang bua (Nếp nương cẩm)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "36",
+      "name": "Ble blu",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "37",
+      "name": "Ble sa",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "38",
+      "name": "B'le sang",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "39",
+      "name": "Ble xa",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "40",
+      "name": "Blin xa",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "41",
+      "name": "Lúa cẩm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "42",
+      "name": "Cẩm panh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "43",
+      "name": "Cẩm vỏ vàng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "44",
+      "name": "Canh nông Bắc Giang",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "45",
+      "name": "Canh nông Bắc Ninh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "46",
+      "name": "Canh nông Mỹ Tho",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "47",
+      "name": "Canh nông Nghệ An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "48",
+      "name": "Canh nông Tuyên Quang",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "49",
+      "name": "Câu Phú Xuyên",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "50",
+      "name": "Câu Thái Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "51",
+      "name": "Chăm lai Tây Bắc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "52",
+      "name": "Chăm lượng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "53",
+      "name": "Chanh Phú Thọ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "54",
+      "name": "Chanh Sơn Tây",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "55",
+      "name": "Chiêm bắc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "56",
+      "name": "Chiêm bò",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "57",
+      "name": "Chiêm chanh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "58",
+      "name": "Chiêm chanh 198A",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "59",
+      "name": "Chiêm chớ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "60",
+      "name": "Chiêm cò Nghệ An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "61",
+      "name": "Chiêm cườm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "62",
+      "name": "Chiêm di đông",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "63",
+      "name": "Chiêm đỏ dạng 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "64",
+      "name": "Chiêm đỏ dạng 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "65",
+      "name": "Chiêm khẩn lo",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "66",
+      "name": "Chiêm lốc Nghệ An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "67",
+      "name": "Chiêm nam 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "68",
+      "name": "Chiêm Nam Ninh tràng đá",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "69",
+      "name": "Chiêm ngân",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "70",
+      "name": "Chiêm Ngân Sơn",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "71",
+      "name": "Chiêm ngâu",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "72",
+      "name": "Chiêm Nghệ An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "73",
+      "name": "Chiêm ngù Nghệ An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "74",
+      "name": "Chiêm nhỡ Bắc Ninh 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "75",
+      "name": "Chiêm Phú Xuyên",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "76",
+      "name": "Chiêm quáo Nghệ An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "77",
+      "name": "Chiêm râu",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "78",
+      "name": "Chiêm râu Tây Bắc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "79",
+      "name": "Chiêm sách",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "80",
+      "name": "Chiêm sành Cẩm Khê",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "81",
+      "name": "Chiêm số 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "82",
+      "name": "Chiêm số 1 Thanh Hoá",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "83",
+      "name": "Chiêm tăng sản",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "84",
+      "name": "Chiêm tây",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "85",
+      "name": "Chiêm thanh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "86",
+      "name": "Chiêm thống nhất 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "87",
+      "name": "Chiêm thống nhất 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "88",
+      "name": "Chiêm Thừa Thiên",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "89",
+      "name": "Chiêm tía chân",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "90",
+      "name": "Chiêm tía chân Thái Nguyên",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "91",
+      "name": "Chiêm trắng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "92",
+      "name": "Chiêm trắng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "93",
+      "name": "Chiêm trắng chân",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "94",
+      "name": "Chiêm trắng vỏ 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "95",
+      "name": "Chiêm trắng vỏ 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "96",
+      "name": "Chiêm trắng vỏ Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "97",
+      "name": "Chiêm tứ thời",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "98",
+      "name": "Chiêm viên",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "99",
+      "name": "Chiêm xiêm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "100",
+      "name": "Chọn từ dòng 37",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "101",
+      "name": "Chua tan",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "102",
+      "name": "Lúa Chùm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "103",
+      "name": "Chùm quảng 1-1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "104",
+      "name": "Chùm quảng 1-2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "105",
+      "name": "Chùm quảng 1-3",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "106",
+      "name": "Chùm quảng 1-4",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "107",
+      "name": "Chùm quảng 2-1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "108",
+      "name": "Chùm quảng 2-2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "109",
+      "name": "Chùm quảng 2-3",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "110",
+      "name": "Chùm quảng 2-4",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "111",
+      "name": "Chùm quảng 2-5",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "112",
+      "name": "Cút Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "113",
+      "name": "Cút Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "114",
+      "name": "Cút hương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "115",
+      "name": "Đài trung 65",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "116",
+      "name": "Lúa Da Dư (Thừa Thiên Huế)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "117",
+      "name": "Dep trar xang dạng 3",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "118",
+      "name": "Lúa di",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "119",
+      "name": "Di càng Nam Định",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "120",
+      "name": "Di cao cổ Kiến An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "121",
+      "name": "Di đỏ Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "122",
+      "name": "Di đỏ Hòa Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "123",
+      "name": "Di đông Nam Định",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "124",
+      "name": "Di hương Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "125",
+      "name": "Di hương Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "126",
+      "name": "Di hương Kiến An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "127",
+      "name": "Di thau ton",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "128",
+      "name": "Di trắng Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "129",
+      "name": "Di trắng Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "130",
+      "name": "Di trắng Hải Phòng B",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "131",
+      "name": "Di trắng Hòa Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "132",
+      "name": "Di trắng Nam Định",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "133",
+      "name": "Di trắng Sơn Tây",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "134",
+      "name": "Di vàng Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "135",
+      "name": "Diêu tu",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "136",
+      "name": "Đốc phụng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "137",
+      "name": "Dòng chiêm 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "138",
+      "name": "Dòng chiêm 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "139",
+      "name": "Dòng chiêm 3",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "140",
+      "name": "Dòng chiêm 4",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "141",
+      "name": "Dòng chiêm 5",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "142",
+      "name": "Dong trắng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "143",
+      "name": "Lúa dự",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "144",
+      "name": "Dự báo Hòa Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "145",
+      "name": "Dự cao cây",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "146",
+      "name": "Dự chiêm 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "147",
+      "name": "Dự chiêm 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "148",
+      "name": "Dự day blat",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "149",
+      "name": "Dự đen Thái Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "150",
+      "name": "Dự Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "151",
+      "name": "Dự hương Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "152",
+      "name": "Dự hương Nam Định",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "153",
+      "name": "Dự lùn Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "154",
+      "name": "Dự lùn Nam Định",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "155",
+      "name": "Dự lùn thơm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "156",
+      "name": "Dự lùn thơm Thái Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "157",
+      "name": "Dự nghển",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "158",
+      "name": "Dự nghển Hòa Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "159",
+      "name": "Dự nghển Hoà Bình B",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "160",
+      "name": "Dự Ninh Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "161",
+      "name": "Dự sớm Nam Định",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "162",
+      "name": "Dự Thanh Hóa",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "163",
+      "name": "Dự thơm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "164",
+      "name": "Dự thơm đen Thái Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "165",
+      "name": "Dự thơm Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "166",
+      "name": "Dự thơm Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "167",
+      "name": "Dự thơm Ninh Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "168",
+      "name": "Dự thơm Thái Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "169",
+      "name": "Dự trắng Nam Định",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "170",
+      "name": "Dự trục Nam Định",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "171",
+      "name": "Dự vàng Nam Định",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "172",
+      "name": "Lúa đồi (Quảng Nam)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "173",
+      "name": "Lúa đúc (Quảng Nam)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "174",
+      "name": "Lúa Gie",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "175",
+      "name": "Ghê nưnh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "176",
+      "name": "Gié hoa Hà Tĩnh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "177",
+      "name": "Gié hoa Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "178",
+      "name": "Gié lài",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "179",
+      "name": "Gié nước Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "180",
+      "name": "Gié rõ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "181",
+      "name": "Gié thanh 172",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "182",
+      "name": "Gin plat",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "183",
+      "name": "Hạnh phúc 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "184",
+      "name": "Lúa hẻo",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "185",
+      "name": "Lúa hẻo (Quảng Nam)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "186",
+      "name": "Hiên đỏ Kiến An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "187",
+      "name": "Hoa vàng Thái bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "188",
+      "name": "Lúa hoang 1",
+      "locality": "",
+      "note": "Oryza rufipogon"
+    },
+    {
+      "stt": "189",
+      "name": "Lúa hoang 2",
+      "locality": "",
+      "note": "Oryza nivara"
+    },
+    {
+      "stt": "190",
+      "name": "Lúa hoang 3",
+      "locality": "",
+      "note": "Oryza officinalis"
+    },
+    {
+      "stt": "191",
+      "name": "Lúa hoang 4",
+      "locality": "",
+      "note": "Oryza granulata"
+    },
+    {
+      "stt": "192",
+      "name": "Hom Bình Lục",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "193",
+      "name": "Hom Nam Định",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "194",
+      "name": "Hom Nam Hà",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "195",
+      "name": "Hom trụ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "196",
+      "name": "Hưng sớm Thanh Hoá",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "197",
+      "name": "Ken trắng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "198",
+      "name": "Kén vàng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "199",
+      "name": "Khẩu ba tràng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "200",
+      "name": "Khẩu bai",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "201",
+      "name": "Khẩu buộp",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "202",
+      "name": "Khẩu cẩm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "203",
+      "name": "Kháu cặm cai",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "204",
+      "name": "Kháu cặm cỏ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "205",
+      "name": "Kháu cặm kỵ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "206",
+      "name": "Kháu cặm ngân",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "207",
+      "name": "Khẩu cẩm panh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "208",
+      "name": "Kháu căm pạnh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "209",
+      "name": "Khẩu căm pạnh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "210",
+      "name": "Kháu cẩm pạnh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "211",
+      "name": "Kháu cẩm phạnh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "212",
+      "name": "Kháu cẩm pị",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "213",
+      "name": "Kháu cẩm pị (ruộng)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "214",
+      "name": "Kháu cẩm pưng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "215",
+      "name": "Khẩu cảng (Nếp cẩm)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "216",
+      "name": "Khẩu cáy",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "217",
+      "name": "Khẩu chiến",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "218",
+      "name": "Khâu đắm đọi (nếp đen)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "219",
+      "name": "Khâu đắm đòi (nếp nương)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "220",
+      "name": "Khẩu đang đanh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "221",
+      "name": "Kháu điển lư",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "222",
+      "name": "Khẩu đo rón",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "223",
+      "name": "Khẩu dòi",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "224",
+      "name": "Khẩu đương phọng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "225",
+      "name": "Khẩu giòi cả",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "226",
+      "name": "Khẩu lang",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "227",
+      "name": "Khẩu lao",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "228",
+      "name": "Khẩu lếch",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "229",
+      "name": "Khẩu lếch",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "230",
+      "name": "Khẩu lếch (Nếp nương)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "231",
+      "name": "Khẩu lếch 1 (Nếp nương)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "232",
+      "name": "Khẩu lếch 2 (Nếp cẩm nương) dạng 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "233",
+      "name": "Khẩu lếch dạng 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "234",
+      "name": "Khẩu lếch lón",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "235",
+      "name": "Khẩu lói",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "236",
+      "name": "Khẩu ma",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "237",
+      "name": "Khẩu ma puống",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "238",
+      "name": "Khẩu mắc đươi",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "239",
+      "name": "Khẩu mắc vài",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "240",
+      "name": "Khẩu mang (Hà Giang)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "241",
+      "name": "Khẩu mèo",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "242",
+      "name": "Khẩu mô lai",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "243",
+      "name": "Khẩu mỡ me",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "244",
+      "name": "Khẩu mua khao",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "245",
+      "name": "Khẩu nậm cưm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "246",
+      "name": "Khẩu nậm xít",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "247",
+      "name": "Khẩu nghia cạn",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "248",
+      "name": "Khẩu nguyệt",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "249",
+      "name": "Khẩu nồng đăm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "250",
+      "name": "Khẩu nông hay",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "251",
+      "name": "Khẩu nua chia",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "252",
+      "name": "Khẩu nua khao",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "253",
+      "name": "Khẩu nưa lầy dạng 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "254",
+      "name": "Khẩu nua moong",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "255",
+      "name": "Khẩu nua tẩu",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "256",
+      "name": "Khâu pai lả",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "257",
+      "name": "Khẩu pe đanh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "258",
+      "name": "Khẩu pe lanh mùa",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "259",
+      "name": "Kháu phách",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "260",
+      "name": "Kháu rẫy",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "261",
+      "name": "Khẩu ruốc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "262",
+      "name": "Khẩu say khon dạng 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "263",
+      "name": "Khẩu sen păn (Nếp nương)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "264",
+      "name": "Khẩu tắc tó",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "265",
+      "name": "Khẩu tan đanh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "266",
+      "name": "Khẩu tan đón dạng 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "267",
+      "name": "Khẩu tan Hang (Điện Biên)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "268",
+      "name": "Khẩu tan lương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "269",
+      "name": "Khẩu tan Pỏm (Điện Biên)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "270",
+      "name": "Khẩu tan vang",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "271",
+      "name": "Khẩu tiệp",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "272",
+      "name": "Khẩu tum muôi",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "273",
+      "name": "Khẩu vai",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "274",
+      "name": "Khẩu xẹp",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "275",
+      "name": "Khẩu xiên păn (Nếp cẩm)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "276",
+      "name": "Lúa lai rai",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "277",
+      "name": "Lúa lào đinh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "278",
+      "name": "Lọ cắm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "279",
+      "name": "Lọ cẩm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "280",
+      "name": "Lọ dầm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "281",
+      "name": "Ló đếp cẩm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "282",
+      "name": "Lọ hạt cau",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "283",
+      "name": "Lọ khướt dầm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "284",
+      "name": "Lúa lốc nếp cẩm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "285",
+      "name": "Lúa lốc nếp Mộc Châu",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "286",
+      "name": "Lốc nước",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "287",
+      "name": "Lốc Vĩnh Phú",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "288",
+      "name": "Lúa den (Nếp nương)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "289",
+      "name": "Lúa mẻ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "290",
+      "name": "Mác đươi",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "291",
+      "name": "M'bết k'rop",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "292",
+      "name": "Mố trắng Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "293",
+      "name": "Nàng cóc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "294",
+      "name": "Nàng hương Bình Chánh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "295",
+      "name": "Nàng phệt",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "296",
+      "name": "Nàng thơm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "297",
+      "name": "Nàng thướt",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "298",
+      "name": "Nanh chồn",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "299",
+      "name": "Ne diêm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "300",
+      "name": "Ne nương (Nếp nương cẩm)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "301",
+      "name": "Lúa nếp a đoá",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "302",
+      "name": "Lúa nếp a tụt",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "303",
+      "name": "Nếp áo dài",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "304",
+      "name": "Nếp bã trầu",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "305",
+      "name": "Nếp bồ hóng Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "306",
+      "name": "Nếp Brau",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "307",
+      "name": "Nếp cái chiêm 1 (Sài Đường)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "308",
+      "name": "Nếp cái chiêm 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "309",
+      "name": "Nếp cái dóc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "310",
+      "name": "Nếp cái Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "311",
+      "name": "Nếp cái hoa vàng Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "312",
+      "name": "Nếp cái mùa",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "313",
+      "name": "Nếp cái nương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "314",
+      "name": "Nếp cái trắng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "314",
+      "name": "Nếp cẩm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "316",
+      "name": "Nếp cặm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "317",
+      "name": "Nếp cẩm (Blao co cẩm)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "318",
+      "name": "Nếp cẩm (lầu mặc)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "319",
+      "name": "Nếp cẩm (lúa ngom)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "320",
+      "name": "Nếp cẩm (Mây chả)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "321",
+      "name": "Nếp cẩm có râu",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "322",
+      "name": "Nếp cẩm dạng 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "323",
+      "name": "Nếp cẩm dạng 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "324",
+      "name": "Nếp cẩm den",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "325",
+      "name": "Nếp cẩm đen",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "326",
+      "name": "Nếp cẩm đen (nương)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "327",
+      "name": "Nếp cẩm nương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "328",
+      "name": "Nếp cẩm riệu",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "329",
+      "name": "Nếp cao cây",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "330",
+      "name": "Nếp cau",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "331",
+      "name": "Nếp chân",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "332",
+      "name": "Nếp chạo",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "333",
+      "name": "Nếp chiêm Phú Thọ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "334",
+      "name": "Nếp con",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "335",
+      "name": "Nếp con giòi Phù Yên (Sơn La)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "336",
+      "name": "Nếp dài",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "337",
+      "name": "Nếp dâu Thừa Thiên",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "338",
+      "name": "Nếp đen Hưng Yên",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "339",
+      "name": "Nếp Đinh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "340",
+      "name": "Nếp đỏ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "341",
+      "name": "Nếp đuôi trâu Phù Yên (Sơn La)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "342",
+      "name": "Nếp Go rơ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "343",
+      "name": "Nếp Hải Hậu",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "344",
+      "name": "Nếp hạt cau Nghệ An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "345",
+      "name": "Nếp hạt tròn",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "346",
+      "name": "Nếp héo",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "347",
+      "name": "Nếp hoa vàng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "348",
+      "name": "Nếp hoa vàng (Vĩnh Phúc)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "349",
+      "name": "Nếp hoa vàng Thanh Hoá",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "350",
+      "name": "Nếp hương Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "351",
+      "name": "Nếp Kal (Dieo kal)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "352",
+      "name": "Nếp Kanghen",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "353",
+      "name": "Nếp khẩu doi",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "354",
+      "name": "Nếp Krụ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "355",
+      "name": "Nếp lùn",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "356",
+      "name": "Nếp Mao Breng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "357",
+      "name": "Nếp mây",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "358",
+      "name": "Nếp mèo đen",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "359",
+      "name": "Nếp mỡ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "360",
+      "name": "Nếp mỏ quạ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "361",
+      "name": "Nếp Mộc Châu",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "362",
+      "name": "Nếp Nậm Mằn sông Mã (Sơn La)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "363",
+      "name": "Nếp ngo",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "364",
+      "name": "Nếp nhung",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "365",
+      "name": "Nếp nồng đỏ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "366",
+      "name": "Nếp nương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "367",
+      "name": "Nếp nương có đuôi",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "368",
+      "name": "Nếp nương dạng 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "369",
+      "name": "Nếp nương dạng 3",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "370",
+      "name": "Nếp nương vỏ trấu vàng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "371",
+      "name": "Nếp ốc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "372",
+      "name": "Nếp pai",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "373",
+      "name": "Nếp pâng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "374",
+      "name": "Nếp Prao ôn",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "375",
+      "name": "Nếp Quảng Nam",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "376",
+      "name": "Nếp Quýt",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "377",
+      "name": "Nếp quýt Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "378",
+      "name": "Nếp râu",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "379",
+      "name": "Nếp râu Thừa Thiên B",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "380",
+      "name": "Nếp ròng Nghệ An 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "381",
+      "name": "Nếp rừng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "382",
+      "name": "Nếp ruộng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "383",
+      "name": "Nếp ruộng nương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "384",
+      "name": "Nếp sấp",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "385",
+      "name": "Nếp sớm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "386",
+      "name": "Nếp tan Mường Chanh Mai Sơn (Sơn La)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "387",
+      "name": "Nếp tan Ngọc Chiến Mường la (Sơn La)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "388",
+      "name": "Nếp Tằn pầu Mai Sơn (Sơn La)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "389",
+      "name": "Nếp tẻ lau",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "390",
+      "name": "Nếp than",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "391",
+      "name": "Nếp than Lâm Đồng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "392",
+      "name": "Nếp thầu dầu",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "393",
+      "name": "Nếp tí lau",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "394",
+      "name": "Nếp tróc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "395",
+      "name": "Nếp vải",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "396",
+      "name": "Nếp vằn",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "397",
+      "name": "Nếp vàng 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "398",
+      "name": "Nếp vàng 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "399",
+      "name": "Nếp vàng ong",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "400",
+      "name": "Nếp vỏ đen",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "401",
+      "name": "Nếp voong",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "402",
+      "name": "Nếp xấp",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "403",
+      "name": "Nếp xoắn Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "404",
+      "name": "Ngo hieng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "405",
+      "name": "Ngọ hiêng (cẩm)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "406",
+      "name": "Ngó hiêng (nếp nương)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "407",
+      "name": "Ngọ klọoc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "408",
+      "name": "Ngo lai",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "409",
+      "name": "Ngo oạch",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "410",
+      "name": "Ngọn thiềng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "411",
+      "name": "Nha Trang",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "412",
+      "name": "Nhen plút",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "413",
+      "name": "Nhỏ đỏ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "414",
+      "name": "Nhỏ sớm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "415",
+      "name": "Nhông trắng Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "416",
+      "name": "Lúa nhum",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "417",
+      "name": "Nông nghiệp 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "418",
+      "name": "Pau cẩm (Lúa cẩm)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "419",
+      "name": "Pàu đằng quại",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "420",
+      "name": "Pê xa",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "421",
+      "name": "Plào cô cắm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "422",
+      "name": "Plau la",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "423",
+      "name": "Plau sang",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "424",
+      "name": "Plẩu tăng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "425",
+      "name": "Plẩu tâu đằng dạng 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "426",
+      "name": "Plề lẩu xám",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "427",
+      "name": "Plề plậu xá",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "428",
+      "name": "Plề sáng lọi",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "429",
+      "name": "Po le po lau xi",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "430",
+      "name": "Râu ấn Độ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "431",
+      "name": "Ré Bắc Ninh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "432",
+      "name": "Ré bằng Hà Đông",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "433",
+      "name": "Ré bầu",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "434",
+      "name": "Ré chanh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "435",
+      "name": "Ré nam 64",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "436",
+      "name": "Ré nước Thanh Hoá",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "437",
+      "name": "Ré quảng Hà Tĩnh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "438",
+      "name": "Ré Thái Nguyên",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "439",
+      "name": "Ré thanh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "440",
+      "name": "Ré thanh Hà Đông 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "441",
+      "name": "Ré thanh Hà Đông 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "442",
+      "name": "Ré thơm Hà Đông",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "443",
+      "name": "Sài đường 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "444",
+      "name": "Sài đường 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "445",
+      "name": "Sài đường Hà Nam 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "446",
+      "name": "Sài đường Hà Nam 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "447",
+      "name": "Sài đường Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "448",
+      "name": "Sài đường Kiến An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "449",
+      "name": "Sài đường Thái Nguyên",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "450",
+      "name": "Sài đường Thanh Hoá 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "451",
+      "name": "Sài đường Thanh Hoá 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "452",
+      "name": "Sài đường Tuyên Quang",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "453",
+      "name": "Sài đường Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "454",
+      "name": "Sài Gòn 3",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "455",
+      "name": "Sài Gòn 4",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "456",
+      "name": "Sài Gòn sớm Hà Nam",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "457",
+      "name": "Sài Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "458",
+      "name": "San pa toong",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "459",
+      "name": "Số mà khừa",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "460",
+      "name": "Sòi Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "461",
+      "name": "Sòi Nam Định",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "462",
+      "name": "Sòi trắng gạo Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "463",
+      "name": "Sớm cánh Bắc Giang",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "464",
+      "name": "Sớm câu 70A",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "465",
+      "name": "Tám áp bẹ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "466",
+      "name": "Tám ấp bẹ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "467",
+      "name": "Tám áp bẹ Ninh Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "468",
+      "name": "Tám áp bẹ Thái Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "469",
+      "name": "Tám bắc Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "470",
+      "name": "Tám bèo Bắc Ninh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "471",
+      "name": "Tám canh nông Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "472",
+      "name": "Tám cao Bắc Ninh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "473",
+      "name": "Tám cao cây",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "474",
+      "name": "Tám cao Sơn Tây",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "475",
+      "name": "Tám cao Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "476",
+      "name": "Tám cau",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "477",
+      "name": "Tám cha",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "478",
+      "name": "Tám chiêm Hà Nam",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "479",
+      "name": "Tám chòng Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "480",
+      "name": "Tám cổ ngỗng Hà Nam",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "481",
+      "name": "Tám cổ ngỗng Nam Định",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "482",
+      "name": "Tám cổ rụt",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "483",
+      "name": "Tám con",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "484",
+      "name": "Tám dâu Kiến An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "485",
+      "name": "Tám dâu Thái Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "486",
+      "name": "Tám ĐC M90",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "487",
+      "name": "Tám đen",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "488",
+      "name": "Tám đen 516A",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "489",
+      "name": "Tám đen Bắc Ninh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "490",
+      "name": "Tám đen Hà Đông",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "491",
+      "name": "Tám đen Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "492",
+      "name": "Tám đen Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "493",
+      "name": "Tám đen Sơn Tây",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "494",
+      "name": "Tám đen Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "495",
+      "name": "Tám di Bắc Ninh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "496",
+      "name": "Tám đỏ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "497",
+      "name": "Tám đỏ Hà Đông",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "498",
+      "name": "Tám đỏ Sơn Tây",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "499",
+      "name": "Tám đỏ Thanh Hóa",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "500",
+      "name": "Tám đột biến",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "501",
+      "name": "Tám đứng Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "502",
+      "name": "Tám giả Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "503",
+      "name": "Tám Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "504",
+      "name": "Tám Hải Giang",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "505",
+      "name": "Tám hoa vàng Bắc Ninh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "506",
+      "name": "Tám không thơm Thái Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "507",
+      "name": "Tám lấp Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "508",
+      "name": "Tám lấp Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "509",
+      "name": "Tám lấp Kiến An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "510",
+      "name": "Tám lúc Tây Bắc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "511",
+      "name": "Tám lùn Hà Đông",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "512",
+      "name": "Tám lùn Hòa Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "513",
+      "name": "Tám lùn Kiến An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "514",
+      "name": "Tám lùn Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "515",
+      "name": "Tám mê Lai Châu",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "516",
+      "name": "Tám muộn Bắc Ninh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "517",
+      "name": "Tám muộn Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "518",
+      "name": "Tám nghệ Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "519",
+      "name": "Tám nghệ hạt đỏ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "520",
+      "name": "Tám nghệ Thái Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "521",
+      "name": "Tám nghệ Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "522",
+      "name": "Tám nghển",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "523",
+      "name": "Tám Nghĩa Hồng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "524",
+      "name": "Tám Nghĩa Lạc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "525",
+      "name": "Tám Nghĩa Sơn",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "526",
+      "name": "Tám Ngọc Vạch",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "527",
+      "name": "Tám nhe Tây Bắc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "528",
+      "name": "Tám nhỡ Bắc Ninh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "529",
+      "name": "Tám nhỡ Thái Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "530",
+      "name": "Tám nhỡ Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "531",
+      "name": "Tám nòi Hà Đông",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "532",
+      "name": "Tám nòi Sơn Tây",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "533",
+      "name": "Tám on Vĩnh Phú",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "534",
+      "name": "Tám quạt",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "535",
+      "name": "Tám râu Bắc Giang",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "536",
+      "name": "Tám râu Bắc Ninh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "537",
+      "name": "Tám râu Hòa Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "538",
+      "name": "Tám râu Hồng Quảng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "539",
+      "name": "Tám râu Kiến An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "540",
+      "name": "Tám rúc Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "541",
+      "name": "Tám ruối Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "542",
+      "name": "Tám sớm Bắc Ninh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "543",
+      "name": "Tám sớm Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "544",
+      "name": "Tám son Nam Định",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "545",
+      "name": "Tám tây Bắc Ninh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "546",
+      "name": "Tám tây Sơn Tây",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "547",
+      "name": "Tám tẻ Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "548",
+      "name": "Tám thơm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "549",
+      "name": "Tám thơm áp bẹ",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "550",
+      "name": "Tám thơm Bắc Giang",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "551",
+      "name": "Tám thơm Hà Đông",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "552",
+      "name": "Tám thơm Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "553",
+      "name": "Tám thơm Hòa Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "554",
+      "name": "Tám thơm Hồng Quảng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "555",
+      "name": "Tám thơm Ninh Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "556",
+      "name": "Tám thơm Thái Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "557",
+      "name": "Tám thơm Thanh Hóa",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "558",
+      "name": "Tám thơm Trung Quốc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "559",
+      "name": "Tám thơm vay",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "560",
+      "name": "Tám thơm Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "561",
+      "name": "Tám tiêu",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "562",
+      "name": "Tám trắng Bắc Giang",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "563",
+      "name": "Tám trắng Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "564",
+      "name": "Tám trâu Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "565",
+      "name": "Tám trâu Kiến An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "566",
+      "name": "Tám trâu Sơn Tây",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "567",
+      "name": "Tám trâu Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "568",
+      "name": "Tám tròn Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "569",
+      "name": "Tám vuốt",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "570",
+      "name": "Tám xoan",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "571",
+      "name": "Tám xoan (tám thơm)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "572",
+      "name": "Tám xoan Bắc Ninh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "573",
+      "name": "Tám xoan có râu Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "574",
+      "name": "Tám xoan D12",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "575",
+      "name": "Tám xoan Hà Nam",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "576",
+      "name": "Tám xoan Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "577",
+      "name": "Tám xoan Hải Hậu",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "578",
+      "name": "Tám xoan Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "579",
+      "name": "Tám xoan Sơn Tây",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "580",
+      "name": "Tám xoan Thái Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "581",
+      "name": "Tám xoan Vĩnh Phúc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "582",
+      "name": "Tám Xuân Bắc",
+      "locality": "huyện Xuân Trường , tỉnh Nam Định",
+      "note": ""
+    },
+    {
+      "stt": "583",
+      "name": "Tám Xuân Đài",
+      "locality": "huyện Xuân Trường , tỉnh Nam Định",
+      "note": ""
+    },
+    {
+      "stt": "584",
+      "name": "Tám Xuân Hồng",
+      "locality": "huyện Xuân Trường , tỉnh Nam Định",
+      "note": ""
+    },
+    {
+      "stt": "585",
+      "name": "Tan lanh",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "586",
+      "name": "Tan lương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "587",
+      "name": "Tan nọi",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "588",
+      "name": "Tàu hương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "589",
+      "name": "Tẻ cây Hoà Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "590",
+      "name": "Tẻ chảo",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "591",
+      "name": "Tẻ dai nương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "592",
+      "name": "Tẻ đen",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "593",
+      "name": "Tẻ dong Ninh Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "594",
+      "name": "Tẻ hoa cà",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "595",
+      "name": "Tẻ khá trắng Hoà Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "596",
+      "name": "Tẻ luối dai nương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "597",
+      "name": "Tẻ mèo Mộc châu (Sơn La)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "598",
+      "name": "Lúa tẻ nương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "599",
+      "name": "Tẻ tép",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "600",
+      "name": "Tép 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "601",
+      "name": "Tép 2",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "602",
+      "name": "Tép 4",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "603",
+      "name": "Tép 6",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "604",
+      "name": "Tép 62",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "605",
+      "name": "Tép dong",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "606",
+      "name": "Tép Hải Dương",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "607",
+      "name": "Tép Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "608",
+      "name": "Tép lai 60",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "609",
+      "name": "Tép lai Hải Phòng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "610",
+      "name": "Tép Nghệ An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "611",
+      "name": "Tép Thái Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "612",
+      "name": "Tép trắng",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "613",
+      "name": "Tép trắng 176T - 1",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "614",
+      "name": "Tép trắng 76",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "615",
+      "name": "Tép trắng Thái Nguyên",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "616",
+      "name": "Tiền miên",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "617",
+      "name": "Tiêu đôi",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "618",
+      "name": "Trâu đỏ Hoà Bình",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "619",
+      "name": "Lúa trì (Quảng Nam)",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "620",
+      "name": "Văn háu xiêm",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "621",
+      "name": "Ven lụa Nghệ An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "622",
+      "name": "Ven lùn Thanh Hoá",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "623",
+      "name": "Ven Nghệ An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "624",
+      "name": "Ven thương Nghệ An",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "625",
+      "name": "Xê nương Tây Bắc",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "626",
+      "name": "Xương gà đen",
+      "locality": "",
+      "note": ""
+    },
+    {
+      "stt": "627",
+      "name": "Xương gà trắng",
+      "locality": "",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Danh sách giống lúa tại Việt Nam - Free Download",
+    "description": "Danh sách các giống lúa (lúa nếp, lúa tẻ) tại Việt Nam kèm địa phương, theo Wikipedia tiếng Việt. Contains 627 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách giống lúa tại Việt Nam | ListBase",
+    "seo_description": "Download Danh sách giống lúa tại Việt Nam — 627 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 627 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_gi%E1%BB%91ng_l%C3%BAa_t%E1%BA%A1i_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}

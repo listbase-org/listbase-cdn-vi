@@ -1,9 +1,13 @@
 {
   "lang": "vi",
-  "generated": "2026-10-20T03:58:09.508Z",
-  "total_datasets": 477,
-  "total_records": 115834,
+  "generated": "2026-10-23T02:08:50.851Z",
+  "total_datasets": 478,
+  "total_records": 116461,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 5
@@ -74,6 +78,31 @@
     }
   ],
   "datasets": [
+    {
+      "id": "vi-giong-lua",
+      "name": "Danh sách giống lúa tại Việt Nam",
+      "category": "agriculture",
+      "record_count": 627,
+      "columns": [
+        "stt",
+        "name",
+        "locality",
+        "note"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_gi%E1%BB%91ng_l%C3%BAa_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 69309,
+      "files": {
+        "csv": {
+          "name": "vi-giong-lua_VI.csv",
+          "size": 20615
+        },
+        "xlsx": {
+          "name": "vi-giong-lua_VI.xlsx",
+          "size": 23779
+        }
+      }
+    },
     {
       "id": "vi-bao-tang",
       "name": "Bảo tàng tại Việt Nam (Museums in Vietnam)",
