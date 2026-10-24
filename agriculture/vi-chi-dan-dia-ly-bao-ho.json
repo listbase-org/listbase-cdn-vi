@@ -1,0 +1,471 @@
+{
+  "id": "vi-chi-dan-dia-ly-bao-ho",
+  "name": "Danh sách chỉ dẫn địa lý được bảo hộ ở Việt Nam",
+  "title": "Danh sách chỉ dẫn địa lý được bảo hộ ở Việt Nam",
+  "description": "Các chỉ dẫn địa lý (đặc sản nông sản, thực phẩm, sản phẩm truyền thống) đã được cấp văn bằng bảo hộ tại Việt Nam, kèm số văn bằng, ngày cấp và khu vực địa lý.",
+  "category": "agriculture",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_ch%E1%BB%89_d%E1%BA%ABn_%C4%91%E1%BB%8Ba_l%C3%BD_%C4%91%C6%B0%E1%BB%A3c_b%E1%BA%A3o_h%E1%BB%99_%E1%BB%9F_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_ch%E1%BB%89_d%E1%BA%ABn_%C4%91%E1%BB%8Ba_l%C3%BD_%C4%91%C6%B0%E1%BB%A3c_b%E1%BA%A3o_h%E1%BB%99_%E1%BB%9F_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "certificate_no",
+      "label": "Certificate No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "granted_date",
+      "label": "Granted Date",
+      "type": "string"
+    },
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 1,
+      "certificate_no": 1,
+      "name": "Nước mắm Phú Quốc",
+      "granted_date": "01-06-2001",
+      "area": "huyện Phú Quốc, tỉnh Kiên Giang"
+    },
+    {
+      "stt": 2,
+      "certificate_no": 2,
+      "name": "Chè Shan tuyết Mộc Châu",
+      "granted_date": "09-08-2010",
+      "area": "huyện Mộc Châu và huyện Vân Hồ, tỉnh Sơn La"
+    },
+    {
+      "stt": 3,
+      "certificate_no": 3,
+      "name": "Rượu Cognac",
+      "granted_date": "13-05-2002",
+      "area": "Pháp"
+    },
+    {
+      "stt": 4,
+      "certificate_no": 4,
+      "name": "Cà phê Buôn Ma Thuột",
+      "granted_date": "14-10-2005",
+      "area": "thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+    },
+    {
+      "stt": 5,
+      "certificate_no": 5,
+      "name": "Bưởi Đoan Hùng",
+      "granted_date": "08-02-2006",
+      "area": "tỉnh Phú Thọ"
+    },
+    {
+      "stt": 6,
+      "certificate_no": 6,
+      "name": "Thanh long Bình Thuận",
+      "granted_date": "15-11-2006",
+      "area": "tỉnh Bình Thuận"
+    },
+    {
+      "stt": 7,
+      "certificate_no": 7,
+      "name": "Hồi Lạng Sơn",
+      "granted_date": "15-02-2007",
+      "area": "tỉnh Lạng Sơn"
+    },
+    {
+      "stt": 8,
+      "certificate_no": 8,
+      "name": "rượu Pisco",
+      "granted_date": "23-05-2007",
+      "area": "Peru"
+    },
+    {
+      "stt": 9,
+      "certificate_no": 9,
+      "name": "Vải thiều Thanh Hà",
+      "granted_date": "25-05-2007",
+      "area": "huyện Thanh Hà, tỉnh Hải Dương"
+    },
+    {
+      "stt": 10,
+      "certificate_no": 10,
+      "name": "Nước mắm Phan Thiết",
+      "granted_date": "30-05-2007",
+      "area": "tỉnh Bình Thuận"
+    },
+    {
+      "stt": 11,
+      "certificate_no": 11,
+      "name": "Gạo tám xoan Hải Hậu",
+      "granted_date": "31-05-2007",
+      "area": "huyện Hải Hậu, tỉnh Nam Định"
+    },
+    {
+      "stt": 12,
+      "certificate_no": 12,
+      "name": "Cam Vinh",
+      "granted_date": "31-05-2007",
+      "area": "tỉnh Nghệ An"
+    },
+    {
+      "stt": 13,
+      "certificate_no": 13,
+      "name": "Trà Tân Cương",
+      "granted_date": "20-09-2007",
+      "area": "thành phố Thái Nguyên, tỉnh Thái Nguyên"
+    },
+    {
+      "stt": 14,
+      "certificate_no": 14,
+      "name": "Gạo một bụi đỏ Hồng Dân",
+      "granted_date": "25-06-2008",
+      "area": "tỉnh Bạc Liêu"
+    },
+    {
+      "stt": 15,
+      "certificate_no": 15,
+      "name": "Vải thiều Lục Ngạn",
+      "granted_date": "25-06-2008",
+      "area": "tỉnh Bắc Giang"
+    },
+    {
+      "stt": 16,
+      "certificate_no": 16,
+      "name": "Xoài cát Hòa Lộc",
+      "granted_date": "03-09-2009",
+      "area": "tỉnh Tiền Giang"
+    },
+    {
+      "stt": 17,
+      "certificate_no": 17,
+      "name": "Chuối ngự Đại Hoàng",
+      "granted_date": "30-09-2009",
+      "area": "huyện Lý Nhân, tỉnh Hà Nam"
+    },
+    {
+      "stt": 18,
+      "certificate_no": 18,
+      "name": "Quế vỏ Văn Yên",
+      "granted_date": "07-01-2010",
+      "area": "huyện Văn Yên, tỉnh Yên Bái"
+    },
+    {
+      "stt": 19,
+      "certificate_no": 19,
+      "name": "Mắm tôm Hậu Lộc",
+      "granted_date": "25-06-2010",
+      "area": "huyện Hậu Lộc, tỉnh Thanh Hóa"
+    },
+    {
+      "stt": 20,
+      "certificate_no": 20,
+      "name": "Nón lá Huế",
+      "granted_date": "19-07-2010",
+      "area": "tỉnh Thừa Thiên-Huế"
+    },
+    {
+      "stt": 21,
+      "certificate_no": 21,
+      "name": "Hồng không hạt Bắc Kạn",
+      "granted_date": "08-09-2010",
+      "area": "tỉnh Bắc Kạn"
+    },
+    {
+      "stt": 22,
+      "certificate_no": 22,
+      "name": "Bưởi Phúc Trạch",
+      "granted_date": "09-11-2010",
+      "area": "huyện Hương Khê, tỉnh Hà Tĩnh"
+    },
+    {
+      "stt": 23,
+      "certificate_no": 23,
+      "name": "Rượu Scotch whisky",
+      "granted_date": "19-11-2010",
+      "area": "Scotland, UK"
+    },
+    {
+      "stt": 24,
+      "certificate_no": 24,
+      "name": "Thuốc lào Tiên Lãng",
+      "granted_date": "19-11-2010",
+      "area": "huyện Tiên Lãng, thành phố Hải Phòng"
+    },
+    {
+      "stt": 25,
+      "certificate_no": 25,
+      "name": "Gạo nàng Nhen thơm Bảy Núi",
+      "granted_date": "10-01-2011",
+      "area": "huyện Tịnh Biên, tỉnh An Giang"
+    },
+    {
+      "stt": 26,
+      "certificate_no": 26,
+      "name": "Hạt dẻ Trùng Khánh",
+      "granted_date": "21-03-2011",
+      "area": "huyện Trùng Khánh, tỉnh Cao Bằng"
+    },
+    {
+      "stt": 27,
+      "certificate_no": 27,
+      "name": "Mãng cầu Bà Đen",
+      "granted_date": "10-08-2011",
+      "area": "tỉnh Tây Ninh"
+    },
+    {
+      "stt": 28,
+      "certificate_no": 28,
+      "name": "Cói Nga Sơn",
+      "granted_date": "13-10-2011",
+      "area": "huyện Nga Sơn, tỉnh Thanh Hóa"
+    },
+    {
+      "stt": 29,
+      "certificate_no": 29,
+      "name": "Quế vỏ Trà My",
+      "granted_date": "13-10-2011",
+      "area": "tỉnh Quảng Nam"
+    },
+    {
+      "stt": 30,
+      "certificate_no": 30,
+      "name": "Nho Ninh Thuận",
+      "granted_date": "07-02 2012",
+      "area": "tỉnh Ninh Thuận"
+    },
+    {
+      "stt": 31,
+      "certificate_no": 31,
+      "name": "Bưởi Tân Triều",
+      "granted_date": "14-11-2012",
+      "area": "tỉnh Đồng Nai"
+    },
+    {
+      "stt": 32,
+      "certificate_no": 32,
+      "name": "Hồng không hạt Bảo Lâm",
+      "granted_date": "14-11-2012",
+      "area": "tỉnh Lạng Sơn"
+    },
+    {
+      "stt": 33,
+      "certificate_no": 33,
+      "name": "Quýt Bắc Kạn",
+      "granted_date": "14-11-2012",
+      "area": "tỉnh Bắc Kạn"
+    },
+    {
+      "stt": 34,
+      "certificate_no": 34,
+      "name": "Xoài tròn Yên Châu",
+      "granted_date": "30-11-2012",
+      "area": "tỉnh Sơn La"
+    },
+    {
+      "stt": 35,
+      "certificate_no": 35,
+      "name": "tỉnh Sơn La Mèo Vạc",
+      "granted_date": "01-03-2013",
+      "area": "tỉnh Hà Giang"
+    },
+    {
+      "stt": 36,
+      "certificate_no": 36,
+      "name": "Bưởi năm roi Bình Minh",
+      "granted_date": "29-08-2013",
+      "area": "tỉnh Vĩnh Long"
+    },
+    {
+      "stt": 37,
+      "certificate_no": 37,
+      "name": "Chả mực Hạ Long",
+      "granted_date": "12-12-2013",
+      "area": "thành phố Hạ Long, tỉnh Quảng Ninh"
+    },
+    {
+      "stt": 38,
+      "certificate_no": 38,
+      "name": "Muối Bạc Liêu",
+      "granted_date": "12-12-2013",
+      "area": "tỉnh Bạc Liêu"
+    },
+    {
+      "stt": 39,
+      "certificate_no": 39,
+      "name": "Bưởi Luận Văn",
+      "granted_date": "18-12-2013",
+      "area": "huyện Thọ Xuân, tỉnh Thanh Hóa"
+    },
+    {
+      "stt": 40,
+      "certificate_no": 40,
+      "name": "Hoa mai vàng Yên Tử",
+      "granted_date": "18-12-2013",
+      "area": "thành phố Uông Bí, tỉnh Quảng Ninh"
+    },
+    {
+      "stt": 41,
+      "certificate_no": 41,
+      "name": "Ngán Quảng Ninh",
+      "granted_date": "19-03-2014",
+      "area": "tỉnh Quảng Ninh"
+    },
+    {
+      "stt": 42,
+      "certificate_no": 42,
+      "name": "Tơ tằm Isan Thái Lan",
+      "granted_date": "18-09-2014",
+      "area": "Thái Lan"
+    },
+    {
+      "stt": 43,
+      "certificate_no": 43,
+      "name": "Gạo Điện Biên",
+      "granted_date": "25-09-2014",
+      "area": "tỉnh Điện Biên"
+    },
+    {
+      "stt": 44,
+      "certificate_no": 44,
+      "name": "Vú sữa Lò Rèn Vĩnh Kim",
+      "granted_date": "28-10-2014",
+      "area": "huyện Châu Thành (huyện Tiền Giang)"
+    },
+    {
+      "stt": 45,
+      "certificate_no": 45,
+      "name": "Tiêu Quảng Trị",
+      "granted_date": "28-10-2014",
+      "area": "tỉnh Quảng Trị"
+    },
+    {
+      "stt": 46,
+      "certificate_no": 46,
+      "name": "Cam Cao Phong",
+      "granted_date": "05-11-2014",
+      "area": "tỉnh Hòa Bình"
+    },
+    {
+      "stt": 47,
+      "certificate_no": 47,
+      "name": "Sá sùng Vân Đồn",
+      "granted_date": "12-11-2015",
+      "area": "huyện Vân Đồn, tỉnh Quảng Ninh"
+    },
+    {
+      "stt": 48,
+      "certificate_no": 48,
+      "name": "Chôm chôm Long Khánh",
+      "granted_date": "08-06-2016",
+      "area": "tỉnh Đồng Nai"
+    },
+    {
+      "stt": 49,
+      "certificate_no": 49,
+      "name": "Sâm củ Ngọc Linh",
+      "granted_date": "16-08-2016",
+      "area": "tỉnh Kon Tum và tỉnh Quảng Nam"
+    },
+    {
+      "stt": 50,
+      "certificate_no": 50,
+      "name": "Thuốc lào Vĩnh Bảo",
+      "granted_date": "19-08-2016",
+      "area": "huyện Vĩnh Bảo, thành phố Hải Phòng"
+    },
+    {
+      "stt": 51,
+      "certificate_no": 51,
+      "name": "Quế Thường Xuân",
+      "granted_date": "10-10-2016",
+      "area": "huyện Thường Xuân, tỉnh Thanh Hóa"
+    },
+    {
+      "stt": 52,
+      "certificate_no": 52,
+      "name": "Cam sành Hà Giang",
+      "granted_date": "10-10-2016",
+      "area": "tỉnh Hà Giang"
+    },
+    {
+      "stt": 53,
+      "certificate_no": 53,
+      "name": "Đường thốt nốt Kampong Speu",
+      "granted_date": "28-12-2016",
+      "area": "Campuchia"
+    },
+    {
+      "stt": 54,
+      "certificate_no": 54,
+      "name": "Hạt tiêu Kampot",
+      "granted_date": "28-12-2016",
+      "area": "Campuchia"
+    },
+    {
+      "stt": 55,
+      "certificate_no": 55,
+      "name": "Nhãn lồng Hưng Yên",
+      "granted_date": "23-01-2017",
+      "area": "tỉnh Hưng Yên"
+    },
+    {
+      "stt": 56,
+      "certificate_no": 56,
+      "name": "Hồng không hạt Quản Bạ",
+      "granted_date": "05-07-2017",
+      "area": "huyện Quản Bạ, tỉnh Hà Giang"
+    },
+    {
+      "stt": 57,
+      "certificate_no": 57,
+      "name": "Gạo tẻ Già Dui Xín Mần",
+      "granted_date": "28-09-2017",
+      "area": "huyện Xín Mần, tỉnh Hà Giang"
+    },
+    {
+      "stt": 58,
+      "certificate_no": 58,
+      "name": "Cà phê Sơn La",
+      "granted_date": "28-09-2017",
+      "area": "tỉnh Sơn La"
+    },
+    {
+      "stt": 59,
+      "certificate_no": 59,
+      "name": "Thịt cừu Ninh Thuận",
+      "granted_date": "24-10-2017",
+      "area": "tỉnh Ninh Thuận"
+    },
+    {
+      "stt": 60,
+      "certificate_no": 60,
+      "name": "Gạo nếp Khẩu Tan Đón Thẩm Dương",
+      "granted_date": "08-12-2017",
+      "area": "huyện Văn Bàn, tỉnh Lào Cai"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách chỉ dẫn địa lý được bảo hộ ở Việt Nam - Free Download",
+    "description": "Các chỉ dẫn địa lý (đặc sản nông sản, thực phẩm, sản phẩm truyền thống) đã được cấp văn bằng bảo hộ tại Việt Nam, kèm số văn bằng, ngày cấp và khu vực địa lý. Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách chỉ dẫn địa lý được bảo hộ ở Việt Nam | ListBase",
+    "seo_description": "Download Danh sách chỉ dẫn địa lý được bảo hộ ở Việt Nam — 60 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 60 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_ch%E1%BB%89_d%E1%BA%ABn_%C4%91%E1%BB%8Ba_l%C3%BD_%C4%91%C6%B0%E1%BB%A3c_b%E1%BA%A3o_h%E1%BB%99_%E1%BB%9F_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}

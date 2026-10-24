@@ -1,12 +1,12 @@
 {
   "lang": "vi",
-  "generated": "2026-10-23T02:09:31.204Z",
-  "total_datasets": 492,
-  "total_records": 117978,
+  "generated": "2026-10-24T02:15:01.194Z",
+  "total_datasets": 493,
+  "total_records": 118038,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -106,6 +106,32 @@
     }
   ],
   "datasets": [
+    {
+      "id": "vi-chi-dan-dia-ly-bao-ho",
+      "name": "Danh sách chỉ dẫn địa lý được bảo hộ ở Việt Nam",
+      "category": "agriculture",
+      "record_count": 60,
+      "columns": [
+        "stt",
+        "certificate_no",
+        "name",
+        "granted_date",
+        "area"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_ch%E1%BB%89_d%E1%BA%ABn_%C4%91%E1%BB%8Ba_l%C3%BD_%C4%91%C6%B0%E1%BB%A3c_b%E1%BA%A3o_h%E1%BB%99_%E1%BB%9F_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 13019,
+      "files": {
+        "csv": {
+          "name": "vi-chi-dan-dia-ly-bao-ho_VI.csv",
+          "size": 4705
+        },
+        "xlsx": {
+          "name": "vi-chi-dan-dia-ly-bao-ho_VI.xlsx",
+          "size": 9842
+        }
+      }
+    },
     {
       "id": "vi-giong-lua",
       "name": "Danh sách giống lúa tại Việt Nam",
