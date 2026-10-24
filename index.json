@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-24T02:15:33.225Z",
-  "total_datasets": 503,
-  "total_records": 119649,
+  "generated": "2026-10-24T02:15:35.719Z",
+  "total_datasets": 504,
+  "total_records": 119694,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -11972,6 +11972,32 @@
         "xlsx": {
           "name": "vi-hdi-tinh-thanh_VI.xlsx",
           "size": 8786
+        }
+      }
+    },
+    {
+      "id": "vi-nha-vo-dich-bong-da-quoc-gia",
+      "name": "Danh sách nhà vô địch giải bóng đá vô địch quốc gia Việt Nam",
+      "category": "sports",
+      "record_count": 45,
+      "columns": [
+        "season",
+        "competition",
+        "champion",
+        "runner_up",
+        "third_place"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_nh%C3%A0_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 13636,
+      "files": {
+        "csv": {
+          "name": "vi-nha-vo-dich-bong-da-quoc-gia_VI.csv",
+          "size": 6504
+        },
+        "xlsx": {
+          "name": "vi-nha-vo-dich-bong-da-quoc-gia_VI.xlsx",
+          "size": 8990
         }
       }
     },
