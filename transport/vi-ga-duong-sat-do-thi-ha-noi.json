@@ -1,0 +1,832 @@
+{
+  "id": "vi-ga-duong-sat-do-thi-ha-noi",
+  "name": "Danh sách nhà ga đường sắt đô thị Hà Nội",
+  "title": "Danh sách nhà ga đường sắt đô thị Hà Nội",
+  "description": "Các nhà ga của hệ thống đường sắt đô thị (metro) Hà Nội, kèm tuyến, ký hiệu ga, vị trí, kiểu nhà ga và thời điểm mở cửa.",
+  "category": "transport",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_nh%C3%A0_ga_%C4%91%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_%C4%91%C3%B4_th%E1%BB%8B_t%E1%BA%A1i_H%C3%A0_N%E1%BB%99i",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_nh%C3%A0_ga_%C4%91%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_%C4%91%C3%B4_th%E1%BB%8B_t%E1%BA%A1i_H%C3%A0_N%E1%BB%99i",
+  "updated": "2026-10",
+  "record_count": 97,
+  "columns": [
+    {
+      "key": "station",
+      "label": "Station",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "station_code",
+      "label": "Station Code",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "structure",
+      "label": "Structure",
+      "type": "string"
+    },
+    {
+      "key": "opened",
+      "label": "Opened",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "station": "An Khánh 1",
+      "lines": "T5; T7",
+      "station_code": "",
+      "location": "huyện Hoài Đức",
+      "structure": "Mặt đất; Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "An Khánh 2",
+      "lines": "T5",
+      "station_code": "",
+      "location": "huyện Hoài Đức",
+      "structure": "Mặt đất",
+      "opened": ""
+    },
+    {
+      "station": "Bách Khoa",
+      "lines": "T2",
+      "station_code": "",
+      "location": "Hai Bà Trưng",
+      "structure": "Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "Bách Thảo",
+      "lines": "T2",
+      "station_code": "",
+      "location": "Ba Đình",
+      "structure": "Ngầm",
+      "opened": "2029"
+    },
+    {
+      "station": "Bạch Mai",
+      "lines": "T1",
+      "station_code": "",
+      "location": "Đống Đa",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Biên Giang",
+      "lines": "T2A",
+      "station_code": "",
+      "location": "Hà Đông",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Bưởi",
+      "lines": "T2",
+      "station_code": "",
+      "location": "Cầu Giấy",
+      "structure": "Ngầm",
+      "opened": "2029"
+    },
+    {
+      "station": "Cát Linh",
+      "lines": "T2A; T3 T10",
+      "station_code": "T2A-C01; T3-S10 -",
+      "location": "Đống Đa",
+      "structure": "Trên cao; Ngầm Ngầm",
+      "opened": "6.11.2021; - -"
+    },
+    {
+      "station": "Cầu Dền",
+      "lines": "T2",
+      "station_code": "",
+      "location": "Hai Bà Trưng",
+      "structure": "Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "Cầu Diễn",
+      "lines": "T3",
+      "station_code": "T3-S04",
+      "location": "Nam Từ Liêm",
+      "structure": "Trên cao",
+      "opened": "8.8.2024"
+    },
+    {
+      "station": "Cầu Đuống",
+      "lines": "T1",
+      "station_code": "",
+      "location": "Long Biên",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Cầu Giấy",
+      "lines": "T3",
+      "station_code": "T3-S08",
+      "location": "Ba Đình",
+      "structure": "Trên cao",
+      "opened": "8.8.2024"
+    },
+    {
+      "station": "Chùa Bộc",
+      "lines": "T2",
+      "station_code": "",
+      "location": "Đống Đa",
+      "structure": "Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "Chùa Hà",
+      "lines": "T3; T4",
+      "station_code": "T3-S07; -",
+      "location": "Cầu Giấy",
+      "structure": "Trên cao Ngầm",
+      "opened": "8.8.2024; -"
+    },
+    {
+      "station": "Công viên Thống Nhất",
+      "lines": "T1",
+      "station_code": "",
+      "location": "Đống Đa",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Đại học Quốc gia",
+      "lines": "T3; T8",
+      "station_code": "T3-S06; -",
+      "location": "Cầu Giấy",
+      "structure": "Trên cao Ngầm",
+      "opened": "8.8.2024; -"
+    },
+    {
+      "station": "Đô La",
+      "lines": "T2A",
+      "station_code": "",
+      "location": "Hà Đông",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Đồng Bãi",
+      "lines": "T5",
+      "station_code": "",
+      "location": "huyện Thạch Thất",
+      "structure": "Mặt đất",
+      "opened": ""
+    },
+    {
+      "station": "Đồng Bụt",
+      "lines": "T5",
+      "station_code": "",
+      "location": "huyện Quốc Oai",
+      "structure": "Mặt đất",
+      "opened": ""
+    },
+    {
+      "station": "Đông Phương Yên",
+      "lines": "T2A",
+      "station_code": "",
+      "location": "huyện Chương Mỹ",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Đồng Trúc",
+      "lines": "T5",
+      "station_code": "",
+      "location": "huyện Thạch Thất",
+      "structure": "Mặt đất",
+      "opened": ""
+    },
+    {
+      "station": "Đức Giang",
+      "lines": "T1",
+      "station_code": "",
+      "location": "Long Biên",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Gia Lâm",
+      "lines": "T1",
+      "station_code": "",
+      "location": "Long Biên",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Giáp Bát",
+      "lines": "T1",
+      "station_code": "",
+      "location": "Hoàng Mai",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Hà Đông",
+      "lines": "T2A",
+      "station_code": "T2A-C09",
+      "location": "Hà Đông",
+      "structure": "Trên cao",
+      "opened": "6.11.2021"
+    },
+    {
+      "station": "Hà Nội",
+      "lines": "T1; T3",
+      "station_code": "-; T3-S12",
+      "location": "Đống Đa",
+      "structure": "Trên cao; Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "Hàng Bài; (kết nối với Trần Hưng Đạo)",
+      "lines": "T3",
+      "station_code": "T3-S13",
+      "location": "Hoàn Kiếm",
+      "structure": "Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "Hàng Đậu; (kết nối với Long Biên Nam)",
+      "lines": "T2",
+      "station_code": "",
+      "location": "Ba Đình",
+      "structure": "Ngầm",
+      "opened": "2029"
+    },
+    {
+      "station": "Hoàn Kiếm",
+      "lines": "T2",
+      "station_code": "",
+      "location": "Hoàn Kiếm",
+      "structure": "Ngầm",
+      "opened": "2029"
+    },
+    {
+      "station": "Hoàng Đạo Thúy",
+      "lines": "T2; T4; T5",
+      "station_code": "",
+      "location": "Cầu Giấy",
+      "structure": "Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "Hoàng Liệt",
+      "lines": "T1",
+      "station_code": "",
+      "location": "Hoàng Mai",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Hồ Tây",
+      "lines": "T2",
+      "station_code": "",
+      "location": "Ba Đình",
+      "structure": "Ngầm",
+      "opened": "2029"
+    },
+    {
+      "station": "Kim Liên",
+      "lines": "T2",
+      "station_code": "",
+      "location": "Đống Đa",
+      "structure": "Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "Kim Mã",
+      "lines": "T3; T5",
+      "station_code": "T3-S09; -",
+      "location": "Ba Đình",
+      "structure": "Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "Kim Ngưu",
+      "lines": "T3",
+      "station_code": "T3-S15",
+      "location": "Hai Bà Trưng",
+      "structure": "Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "La Khê",
+      "lines": "T2A; T7",
+      "station_code": "T2A-C10; -",
+      "location": "Hà Đông",
+      "structure": "Trên cao",
+      "opened": "6.11.2021"
+    },
+    {
+      "station": "La Thành",
+      "lines": "T2A",
+      "station_code": "T2A-C02",
+      "location": "Đống Đa",
+      "structure": "Trên cao",
+      "opened": "6.11.2021"
+    },
+    {
+      "station": "Láng",
+      "lines": "T2A",
+      "station_code": "T2A-C04",
+      "location": "Đống Đa",
+      "structure": "Trên cao",
+      "opened": "6.11.2021"
+    },
+    {
+      "station": "Lê Đức Thọ",
+      "lines": "T3",
+      "station_code": "T3-S05",
+      "location": "Cầu Giấy",
+      "structure": "Trên cao",
+      "opened": "8.8.2024"
+    },
+    {
+      "station": "Lê Đức Thọ",
+      "lines": "T5",
+      "station_code": "",
+      "location": "Nam Từ Liêm",
+      "structure": "Mặt đất",
+      "opened": ""
+    },
+    {
+      "station": "Long Biên Bắc",
+      "lines": "T1",
+      "station_code": "",
+      "location": "Long Biên",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Long Biên Nam; (kết nối với Hàng Đậu)",
+      "lines": "T1",
+      "station_code": "",
+      "location": "Ba Đình",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Mai Đình",
+      "lines": "T2",
+      "station_code": "",
+      "location": "huyện Sóc Sơn",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Mai Động",
+      "lines": "T3",
+      "station_code": "T3-S16",
+      "location": "Hoàng Mai",
+      "structure": "Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "Mai Lĩnh",
+      "lines": "T2A",
+      "station_code": "",
+      "location": "Hà Đông",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Mễ Trì",
+      "lines": "T5",
+      "station_code": "",
+      "location": "Nam Từ Liêm",
+      "structure": "Mặt đất",
+      "opened": ""
+    },
+    {
+      "station": "Minh Khai",
+      "lines": "T3",
+      "station_code": "T3-S02",
+      "location": "Bắc Từ Liêm",
+      "structure": "Trên cao",
+      "opened": "8.8.2024"
+    },
+    {
+      "station": "Nam Đông Sơn",
+      "lines": "T2A",
+      "station_code": "",
+      "location": "huyện Chương Mỹ",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Nam Thăng Long",
+      "lines": "T2",
+      "station_code": "",
+      "location": "Bắc Từ Liêm",
+      "structure": "Trên cao",
+      "opened": "2029"
+    },
+    {
+      "station": "Ngã Tư Sở",
+      "lines": "T2",
+      "station_code": "",
+      "location": "Đống Đa",
+      "structure": "Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "Ngoại Giao Đoàn",
+      "lines": "T2",
+      "station_code": "",
+      "location": "Bắc Từ Liêm",
+      "structure": "Trên cao",
+      "opened": "2029"
+    },
+    {
+      "station": "Ngọc Hòa",
+      "lines": "T2A",
+      "station_code": "",
+      "location": "huyện Chương Mỹ",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Ngọc Hồi",
+      "lines": "T1; T6 T1A",
+      "station_code": "",
+      "location": "huyện Thanh Trì",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Ngọc Mỹ",
+      "lines": "T5",
+      "station_code": "",
+      "location": "huyện Quốc Oai",
+      "structure": "Mặt đất",
+      "opened": ""
+    },
+    {
+      "station": "Nguyên Khê",
+      "lines": "T2",
+      "station_code": "",
+      "location": "huyện Đông Anh",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Nhổn",
+      "lines": "T3; T7",
+      "station_code": "T3-S01; -",
+      "location": "Bắc Từ Liêm",
+      "structure": "Trên cao; Ngầm",
+      "opened": "8.8.2024; -"
+    },
+    {
+      "station": "Nội Bài",
+      "lines": "T2; T6",
+      "station_code": "",
+      "location": "huyện Sóc Sơn",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Phú Diễn",
+      "lines": "T3; T6; T8",
+      "station_code": "T3-S03; -; -",
+      "location": "Bắc Từ Liêm",
+      "structure": "Trên cao",
+      "opened": "8.8.2024; -; -"
+    },
+    {
+      "station": "Phú Nghĩa",
+      "lines": "T2A",
+      "station_code": "",
+      "location": "huyện Chương Mỹ",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Phùng Hưng",
+      "lines": "T1",
+      "station_code": "",
+      "location": "Hoàn Kiếm",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Phùng Khoang",
+      "lines": "T2A",
+      "station_code": "T2A-C07",
+      "location": "Hà Đông",
+      "structure": "Trên cao",
+      "opened": "6.11.2021"
+    },
+    {
+      "station": "Phương Liệt",
+      "lines": "T1",
+      "station_code": "",
+      "location": "Thanh Xuân",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Quần Ngựa",
+      "lines": "T2; T5",
+      "station_code": "",
+      "location": "Ba Đình",
+      "structure": "Ngầm",
+      "opened": "2029 -"
+    },
+    {
+      "station": "Quốc Oai",
+      "lines": "T5",
+      "station_code": "",
+      "location": "huyện Quốc Oai",
+      "structure": "Mặt đất",
+      "opened": ""
+    },
+    {
+      "station": "Sài Sơn",
+      "lines": "T5",
+      "station_code": "",
+      "location": "huyện Quốc Oai",
+      "structure": "Mặt đất",
+      "opened": ""
+    },
+    {
+      "station": "Song Phương",
+      "lines": "T5",
+      "station_code": "",
+      "location": "huyện Hoài Đức",
+      "structure": "Mặt đất",
+      "opened": ""
+    },
+    {
+      "station": "Tam Trinh",
+      "lines": "T3",
+      "station_code": "T3-S18",
+      "location": "Hoàng Mai",
+      "structure": "Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "Tân Mai",
+      "lines": "T3; T4",
+      "station_code": "T3-S17; -",
+      "location": "Hoàng Mai",
+      "structure": "Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "Tây Hồ Tây",
+      "lines": "T2",
+      "station_code": "",
+      "location": "Tây Hồ",
+      "structure": "Trên cao",
+      "opened": "2029"
+    },
+    {
+      "station": "Tây Mỗ",
+      "lines": "T5; T6",
+      "station_code": "",
+      "location": "Nam Từ Liêm",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Thạch Bình",
+      "lines": "T5",
+      "station_code": "",
+      "location": "huyện Thạch Thất",
+      "structure": "Mặt đất",
+      "opened": ""
+    },
+    {
+      "station": "Thái Hà",
+      "lines": "T2A",
+      "station_code": "T2A-C03",
+      "location": "Đống Đa",
+      "structure": "Trên cao",
+      "opened": "6.11.2021"
+    },
+    {
+      "station": "Thượng Đình",
+      "lines": "T2; T2A; T4",
+      "station_code": "-; T2A-C05; -",
+      "location": "Thanh Xuân",
+      "structure": "Ngầm; Trên cao Ngầm",
+      "opened": "-; 6.11.2021; -"
+    },
+    {
+      "station": "Tiên Dương",
+      "lines": "T2",
+      "station_code": "",
+      "location": "huyện Đông Anh",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Tiên Trượng",
+      "lines": "T2A",
+      "station_code": "",
+      "location": "huyện Chương Mỹ",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Tiến Xuân",
+      "lines": "T5",
+      "station_code": "",
+      "location": "huyện Thạch Thất",
+      "structure": "Mặt đất",
+      "opened": ""
+    },
+    {
+      "station": "Trại Mới",
+      "lines": "T5",
+      "station_code": "",
+      "location": "huyện Thạch Thất",
+      "structure": "Mặt đất",
+      "opened": ""
+    },
+    {
+      "station": "Trần Hưng Đạo; (kết nối với Hàng Bài)",
+      "lines": "T2",
+      "station_code": "",
+      "location": "Hoàn Kiếm",
+      "structure": "Ngầm",
+      "opened": "2029"
+    },
+    {
+      "station": "Trần Thánh Tông",
+      "lines": "T3",
+      "station_code": "T3-S14",
+      "location": "Hai Bà Trưng",
+      "structure": "Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "Trường Yên",
+      "lines": "T2A",
+      "station_code": "",
+      "location": "huyện Chương Mỹ",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Vành Đai 1",
+      "lines": "T5",
+      "station_code": "",
+      "location": "Đống Đa",
+      "structure": "Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "Vành Đai 2",
+      "lines": "T5",
+      "station_code": "",
+      "location": "Cầu Giấy",
+      "structure": "Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "Vành Đai 3",
+      "lines": "T2A; T8",
+      "station_code": "T2A-C06; -",
+      "location": "Thanh Xuân",
+      "structure": "Trên cao Ngầm",
+      "opened": "6.11.2021; -"
+    },
+    {
+      "station": "Vành Đai 3",
+      "lines": "T5; T8",
+      "station_code": "",
+      "location": "Cầu Giấy",
+      "structure": "Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "Văn Điển",
+      "lines": "T1",
+      "station_code": "",
+      "location": "huyện Thanh Trì",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Văn Khê",
+      "lines": "T2A; T6",
+      "station_code": "T2A-C11; -",
+      "location": "Hà Đông",
+      "structure": "Trên cao",
+      "opened": "6.11.2021; -"
+    },
+    {
+      "station": "Văn Miếu",
+      "lines": "T3",
+      "station_code": "T3-S11",
+      "location": "Đống Đa",
+      "structure": "Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "Văn Quán",
+      "lines": "T2A",
+      "station_code": "T2A-C08",
+      "location": "Hà Đông",
+      "structure": "Trên cao",
+      "opened": "6.11.2021"
+    },
+    {
+      "station": "Vân Nội",
+      "lines": "T2",
+      "station_code": "",
+      "location": "huyện Đông Anh",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Vân Trì",
+      "lines": "T2",
+      "station_code": "",
+      "location": "huyện Đông Anh",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Vĩnh Ngọc",
+      "lines": "T2",
+      "station_code": "",
+      "location": "huyện Đông Anh",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Vĩnh Quỳnh",
+      "lines": "T1",
+      "station_code": "",
+      "location": "huyện Thanh Trì",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Xuân Mai Đông",
+      "lines": "T2A",
+      "station_code": "",
+      "location": "huyện Chương Mỹ",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Xuân Mai Tây",
+      "lines": "T2A",
+      "station_code": "",
+      "location": "huyện Chương Mỹ",
+      "structure": "Trên cao",
+      "opened": ""
+    },
+    {
+      "station": "Yên Nghĩa",
+      "lines": "T2A",
+      "station_code": "T2A-C12",
+      "location": "Hà Đông",
+      "structure": "Trên cao",
+      "opened": "6.11.2021"
+    },
+    {
+      "station": "Yên Sở",
+      "lines": "T3; T8",
+      "station_code": "T3-S19; -",
+      "location": "Hoàng Mai",
+      "structure": "Ngầm",
+      "opened": ""
+    },
+    {
+      "station": "Yên Viên",
+      "lines": "T1",
+      "station_code": "",
+      "location": "huyện Gia Lâm",
+      "structure": "Trên cao",
+      "opened": ""
+    }
+  ],
+  "meta": {
+    "title": "Danh sách nhà ga đường sắt đô thị Hà Nội - Free Download",
+    "description": "Các nhà ga của hệ thống đường sắt đô thị (metro) Hà Nội, kèm tuyến, ký hiệu ga, vị trí, kiểu nhà ga và thời điểm mở cửa. Contains 97 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách nhà ga đường sắt đô thị Hà Nội | ListBase",
+    "seo_description": "Download Danh sách nhà ga đường sắt đô thị Hà Nội — 97 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 97 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_nh%C3%A0_ga_%C4%91%C6%B0%E1%BB%9Dng_s%E1%BA%AFt_%C4%91%C3%B4_th%E1%BB%8B_t%E1%BA%A1i_H%C3%A0_N%E1%BB%99i"
+    ]
+  }
+}
