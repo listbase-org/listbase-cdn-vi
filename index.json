@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-24T02:15:13.391Z",
-  "total_datasets": 495,
-  "total_records": 118640,
+  "generated": "2026-10-24T02:15:15.932Z",
+  "total_datasets": 496,
+  "total_records": 119146,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "environment",
@@ -682,6 +682,36 @@
         "xlsx": {
           "name": "vi-hoa-hau-viet-nam_VI.xlsx",
           "size": 8463
+        }
+      }
+    },
+    {
+      "id": "vi-nghe-si-nhan-dan",
+      "name": "Danh sách Nghệ sĩ nhân dân Việt Nam",
+      "category": "entertainment",
+      "record_count": 506,
+      "columns": [
+        "name",
+        "stage_name",
+        "birth_year",
+        "death_year",
+        "role",
+        "field",
+        "award_round",
+        "award_year",
+        "group"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_Ngh%E1%BB%87_s%C4%A9_nh%C3%A2n_d%C3%A2n_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 140911,
+      "files": {
+        "csv": {
+          "name": "vi-nghe-si-nhan-dan_VI.csv",
+          "size": 50520
+        },
+        "xlsx": {
+          "name": "vi-nghe-si-nhan-dan_VI.xlsx",
+          "size": 31611
         }
       }
     },
