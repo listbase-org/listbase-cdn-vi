@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-24T02:15:01.194Z",
-  "total_datasets": 493,
-  "total_records": 118038,
+  "generated": "2026-10-24T02:15:10.812Z",
+  "total_datasets": 494,
+  "total_records": 118108,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "economy",
@@ -437,6 +437,32 @@
         "xlsx": {
           "name": "vi-di-san-the-gioi-unesco_VI.xlsx",
           "size": 9605
+        }
+      }
+    },
+    {
+      "id": "vi-lang-nghe-truyen-thong",
+      "name": "Danh sách làng nghề truyền thống Việt Nam",
+      "category": "culture",
+      "record_count": 70,
+      "columns": [
+        "stt",
+        "name",
+        "province",
+        "commune",
+        "main_product"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_l%C3%A0ng_ngh%E1%BB%81_truy%E1%BB%81n_th%E1%BB%91ng_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 13885,
+      "files": {
+        "csv": {
+          "name": "vi-lang-nghe-truyen-thong_VI.csv",
+          "size": 5093
+        },
+        "xlsx": {
+          "name": "vi-lang-nghe-truyen-thong_VI.xlsx",
+          "size": 10123
         }
       }
     },

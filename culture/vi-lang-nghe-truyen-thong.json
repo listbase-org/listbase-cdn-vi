@@ -1,0 +1,541 @@
+{
+  "id": "vi-lang-nghe-truyen-thong",
+  "name": "Danh sách làng nghề truyền thống Việt Nam",
+  "title": "Danh sách làng nghề truyền thống Việt Nam",
+  "description": "Các làng nghề truyền thống tiêu biểu ở Việt Nam theo tỉnh/thành, xã/phường và sản phẩm chính.",
+  "category": "culture",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_l%C3%A0ng_ngh%E1%BB%81_truy%E1%BB%81n_th%E1%BB%91ng_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_l%C3%A0ng_ngh%E1%BB%81_truy%E1%BB%81n_th%E1%BB%91ng_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "main_product",
+      "label": "Main Product",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 1,
+      "name": "Làng Tân Châu",
+      "province": "An Giang",
+      "commune": "Tân Châu",
+      "main_product": "lụa lãnh"
+    },
+    {
+      "stt": 2,
+      "name": "Làng Tăng Tiến",
+      "province": "Bắc Ninh",
+      "commune": "Nếnh",
+      "main_product": "mây tre"
+    },
+    {
+      "stt": 3,
+      "name": "Làng Vân",
+      "province": "Bắc Ninh",
+      "commune": "Vân Hà",
+      "main_product": "Nấu rượu"
+    },
+    {
+      "stt": 4,
+      "name": "Làng Phong Khê",
+      "province": "Bắc Ninh",
+      "commune": "Võ Cường",
+      "main_product": "giấy đống cao"
+    },
+    {
+      "stt": 5,
+      "name": "Làng Xuân Lai",
+      "province": "Bắc Ninh",
+      "commune": "Gia Bình",
+      "main_product": "tre trúc"
+    },
+    {
+      "stt": 6,
+      "name": "Làng gốm Phù Lãng",
+      "province": "Bắc Ninh",
+      "commune": "Phù Lãng",
+      "main_product": "gốm mỹ nghệ"
+    },
+    {
+      "stt": 7,
+      "name": "Làng Đông Hồ",
+      "province": "Bắc Ninh",
+      "commune": "Thuận Thành",
+      "main_product": "tranh dân gian"
+    },
+    {
+      "stt": 8,
+      "name": "Làng Đồng Kỵ",
+      "province": "Bắc Ninh",
+      "commune": "Đồng Nguyên",
+      "main_product": "gỗ mỹ nghệ"
+    },
+    {
+      "stt": 9,
+      "name": "Làng Vọng Nguyệt",
+      "province": "Bắc Ninh",
+      "commune": "Tam Giang",
+      "main_product": "dệt tơ tằm"
+    },
+    {
+      "stt": 10,
+      "name": "Làng Đại Bái",
+      "province": "Bắc Ninh",
+      "commune": "Gia Bình",
+      "main_product": "đúc đồng"
+    },
+    {
+      "stt": 11,
+      "name": "Làng Đào Viên",
+      "province": "Bắc Ninh",
+      "commune": "Ninh Xá",
+      "main_product": "Đúc Đồng"
+    },
+    {
+      "stt": 12,
+      "name": "Làng Tam Tảo",
+      "province": "Bắc Ninh",
+      "commune": "Tiên Du",
+      "main_product": "dệt"
+    },
+    {
+      "stt": 13,
+      "name": "Làng Hồi Quan",
+      "province": "Bắc Ninh",
+      "commune": "Tam Sơn",
+      "main_product": "dệt"
+    },
+    {
+      "stt": 14,
+      "name": "Làng Hương Mạc",
+      "province": "Bắc Ninh",
+      "commune": "Phù Khê",
+      "main_product": "đồ gỗ"
+    },
+    {
+      "stt": 15,
+      "name": "Làng Mai Động",
+      "province": "Bắc Ninh",
+      "commune": "Phù Khê",
+      "main_product": "gỗ mỹ nghệ"
+    },
+    {
+      "stt": 16,
+      "name": "Làng Phù Khê",
+      "province": "Bắc Ninh",
+      "commune": "Phù Khê",
+      "main_product": "chạm khắc gỗ"
+    },
+    {
+      "stt": 17,
+      "name": "Làng Đa Hội",
+      "province": "Bắc Ninh",
+      "commune": "Phù Khê",
+      "main_product": "kim khí"
+    },
+    {
+      "stt": 18,
+      "name": "Làng Mẫn Xá",
+      "province": "Bắc Ninh",
+      "commune": "Văn Môn",
+      "main_product": "đúc phế liệu"
+    },
+    {
+      "stt": 19,
+      "name": "Làng Khắc Niệm",
+      "province": "Bắc Ninh",
+      "commune": "Võ Cường",
+      "main_product": "bún"
+    },
+    {
+      "stt": 20,
+      "name": "Làng Đại Lâm",
+      "province": "Bắc Ninh",
+      "commune": "Tam Đa",
+      "main_product": "rượu"
+    },
+    {
+      "stt": 21,
+      "name": "Làng Non Nước",
+      "province": "Đà Nẵng",
+      "commune": "Ngũ Hành Sơn",
+      "main_product": "đá mỹ nghệ"
+    },
+    {
+      "stt": 22,
+      "name": "Làng Nha Xá",
+      "province": "Hà Nam",
+      "commune": "Duy Tiên",
+      "main_product": "dệt lụa"
+    },
+    {
+      "stt": 23,
+      "name": "Làng Thanh Đa",
+      "province": "Hà Nội",
+      "commune": "Phú Thọ",
+      "main_product": "Sản xuất nội thất và tủ bếp"
+    },
+    {
+      "stt": 24,
+      "name": "Làng Tam Hiệp",
+      "province": "Hà Nội",
+      "commune": "Phúc Thọ",
+      "main_product": "Sản xuất quần áo các loại"
+    },
+    {
+      "stt": 25,
+      "name": "Làng Cót",
+      "province": "Hà Nội",
+      "commune": "Cầu Giấy",
+      "main_product": "vàng mã"
+    },
+    {
+      "stt": 26,
+      "name": "Làng Vòng",
+      "province": "Hà Nội",
+      "commune": "Cầu Giấy",
+      "main_product": "Cốm"
+    },
+    {
+      "stt": 27,
+      "name": "Làng Bát Tràng",
+      "province": "Hà Nội",
+      "commune": "Gia Lâm",
+      "main_product": "gốm mỹ nghệ"
+    },
+    {
+      "stt": 28,
+      "name": "Làng Vạn Phúc",
+      "province": "Hà Nội",
+      "commune": "Hà Đông",
+      "main_product": "lụa"
+    },
+    {
+      "stt": 29,
+      "name": "Làng La Khê",
+      "province": "Hà Nội",
+      "commune": "Hà Đông",
+      "main_product": "the lụa"
+    },
+    {
+      "stt": 30,
+      "name": "Làng nghề Sơn Đồng",
+      "province": "Hà Nội",
+      "commune": "Hoài Đức",
+      "main_product": "gỗ mỹ nghệ"
+    },
+    {
+      "stt": 31,
+      "name": "Làng Phú Đô",
+      "province": "Hà Nội",
+      "commune": "Nam Từ Liêm",
+      "main_product": "Bún"
+    },
+    {
+      "stt": 32,
+      "name": "Làng Đại Nghiệp",
+      "province": "Hà Nội",
+      "commune": "Phú Xuyên",
+      "main_product": "mộc mỹ nghệ"
+    },
+    {
+      "stt": 33,
+      "name": "Làng Phú An",
+      "province": "Hà Nội",
+      "commune": "Phúc thọ",
+      "main_product": "Tủ bếp gỗ"
+    },
+    {
+      "stt": 34,
+      "name": "Làng An Thái",
+      "province": "Hà Nội",
+      "commune": "Tây Hồ",
+      "main_product": "Giấy"
+    },
+    {
+      "stt": 35,
+      "name": "Cự Khê",
+      "province": "Hà Nội",
+      "commune": "Thanh Oai",
+      "main_product": "Nghề làm miến"
+    },
+    {
+      "stt": 36,
+      "name": "Làng Kiêu Kỵ",
+      "province": "Hà Nội",
+      "commune": "Gia Lâm",
+      "main_product": "dát vàng quỳ"
+    },
+    {
+      "stt": 37,
+      "name": "Làng Chuôn Ngọ",
+      "province": "Hà Nội",
+      "commune": "Phú Xuyên",
+      "main_product": "Khảm trai"
+    },
+    {
+      "stt": 38,
+      "name": "Làng Chàng Sơn",
+      "province": "Hà Nội",
+      "commune": "Thạch Thất",
+      "main_product": "SX đồ gỗ"
+    },
+    {
+      "stt": 39,
+      "name": "Làng nghề truyền thống múa rối nước Đào Thục",
+      "province": "Hà Nội",
+      "commune": "Đông Anh",
+      "main_product": "Chế biến đồ gỗ nội thất"
+    },
+    {
+      "stt": 40,
+      "name": "Làng Châu Khê",
+      "province": "Hải Phòng",
+      "commune": "Đường An",
+      "main_product": "trang sức"
+    },
+    {
+      "stt": 41,
+      "name": "Làng Đông Giao",
+      "province": "Hải Phòng",
+      "commune": "Cẩm Giàng",
+      "main_product": "chạm khắc gỗ"
+    },
+    {
+      "stt": 42,
+      "name": "Làng Nghề rượu Phú Lộc",
+      "province": "Hải Phòng",
+      "commune": "Cẩm Giàng",
+      "main_product": "Nghề nấu Rượu"
+    },
+    {
+      "stt": 43,
+      "name": "Làng chài Cái Bèo",
+      "province": "Hải Phòng",
+      "commune": "Cát Hải",
+      "main_product": "Làng chài biển"
+    },
+    {
+      "stt": 44,
+      "name": "Làng Hoa Lũng",
+      "province": "Hải Phòng",
+      "commune": "Hải An",
+      "main_product": "Trồng hoa"
+    },
+    {
+      "stt": 45,
+      "name": "Xã Đồng Minh",
+      "province": "Hải Phòng",
+      "commune": "Vĩnh Bảo",
+      "main_product": "Tạc tượng, điêu khắc gỗ, sơn mài, đắp vẽ hoa văn con giống kim cổ, phục chế di tích, chiếu cói."
+    },
+    {
+      "stt": 46,
+      "name": "Làng Cao Thôn",
+      "province": "Hưng Yên",
+      "commune": "Tp. Hưng Yên",
+      "main_product": "hương trầm"
+    },
+    {
+      "stt": 47,
+      "name": "Làng Kiên Lao",
+      "province": "Nam Định",
+      "commune": "Xuân Trường",
+      "main_product": "sản phẩm cơ khí"
+    },
+    {
+      "stt": 48,
+      "name": "Làng La Xuyên",
+      "province": "Nam Định",
+      "commune": "Ý Yên",
+      "main_product": "chạm khảm gỗ"
+    },
+    {
+      "stt": 49,
+      "name": "Bản Đỉnh Sơn",
+      "province": "Nghệ An",
+      "commune": "Kỳ Sơn",
+      "main_product": "mây tre đan lát"
+    },
+    {
+      "stt": 50,
+      "name": "Làng Văn Lâm",
+      "province": "Ninh Bình",
+      "commune": "Hoa Lư",
+      "main_product": "thêu ren"
+    },
+    {
+      "stt": 51,
+      "name": "Làng Ninh Vân",
+      "province": "Ninh Bình",
+      "commune": "Hoa Lư",
+      "main_product": "đá mỹ nghệ"
+    },
+    {
+      "stt": 52,
+      "name": "Làng Trường Yên",
+      "province": "Ninh Bình",
+      "commune": "Hoa Lư",
+      "main_product": "nghề xây dựng"
+    },
+    {
+      "stt": 53,
+      "name": "Làng cói Kim Sơn",
+      "province": "Ninh Bình",
+      "commune": "Kim Sơn",
+      "main_product": "Làng nghề cói"
+    },
+    {
+      "stt": 54,
+      "name": "Làng nấu rượu Kim Sơn",
+      "province": "Ninh Bình",
+      "commune": "Kim Sơn",
+      "main_product": "Nghề nấu rượu"
+    },
+    {
+      "stt": 55,
+      "name": "Làng gốm Gia Thủy",
+      "province": "Ninh Bình",
+      "commune": "Nho Quan",
+      "main_product": "Nghề gốm"
+    },
+    {
+      "stt": 56,
+      "name": "Làng hoa Ninh Phúc",
+      "province": "Ninh Bình",
+      "commune": "Hoa Lư",
+      "main_product": "trồng hoa"
+    },
+    {
+      "stt": 57,
+      "name": "Làng Phúc Lộc",
+      "province": "Ninh Bình",
+      "commune": "Hoa Lư",
+      "main_product": "Nghề mộc"
+    },
+    {
+      "stt": 58,
+      "name": "Làng đào Đông Sơn",
+      "province": "Ninh Bình",
+      "commune": "Tp. Tam Điệp",
+      "main_product": "Nghề trồng hoa đào"
+    },
+    {
+      "stt": 59,
+      "name": "Làng Bạch Liên",
+      "province": "Ninh Bình",
+      "commune": "Yên Mô",
+      "main_product": "Nghề gốm"
+    },
+    {
+      "stt": 60,
+      "name": "Bàu Trúc",
+      "province": "Ninh Thuận",
+      "commune": "Ninh Phước",
+      "main_product": "gốm"
+    },
+    {
+      "stt": 61,
+      "name": "Làng trống Đọi Tam",
+      "province": "Hà Nam",
+      "commune": "Đọi Tam",
+      "main_product": "Làm trống"
+    },
+    {
+      "stt": 61,
+      "name": "Làng Diệc",
+      "province": "Thái Bình",
+      "commune": "Hưng Hà",
+      "main_product": "gỗ mỹ nghệ"
+    },
+    {
+      "stt": 62,
+      "name": "Làng Đồng Xâm",
+      "province": "Thái Bình",
+      "commune": "Kiến Xương",
+      "main_product": "Chạm bạc"
+    },
+    {
+      "stt": 63,
+      "name": "Làng Lai Triều",
+      "province": "Thái Bình",
+      "commune": "Thái Thụy",
+      "main_product": "Hương Bài"
+    },
+    {
+      "stt": 64,
+      "name": "Làng Nga Sơn",
+      "province": "Thanh Hóa",
+      "commune": "Nga Sơn",
+      "main_product": "chiếu cói"
+    },
+    {
+      "stt": 65,
+      "name": "Làng Phước Tích",
+      "province": "Thừa Thiên – Huế",
+      "commune": "Hương Điền",
+      "main_product": "gốm mỹ nghệ"
+    },
+    {
+      "stt": 66,
+      "name": "Làng An Hội",
+      "province": "Thành phố Hồ Chí Minh",
+      "commune": "Gò Vấp",
+      "main_product": "đúc đồng"
+    },
+    {
+      "stt": 67,
+      "name": "Làng Bảy Hiền",
+      "province": "Thành phố Hồ Chí Minh",
+      "commune": "Tân Bình",
+      "main_product": "dệt vải"
+    },
+    {
+      "stt": 68,
+      "name": "Làng nem Thủ Đức",
+      "province": "Thành phố Hồ Chí Minh",
+      "commune": "Thủ Đức",
+      "main_product": "chế biến nem chả"
+    },
+    {
+      "stt": 69,
+      "name": "Làng nghề truyền thống điêu khắc đá",
+      "province": "Tp Đà Nẵng",
+      "commune": "Hòa Hải",
+      "main_product": "Điêu Khắc Tượng Đá"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách làng nghề truyền thống Việt Nam - Free Download",
+    "description": "Các làng nghề truyền thống tiêu biểu ở Việt Nam theo tỉnh/thành, xã/phường và sản phẩm chính. Contains 70 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách làng nghề truyền thống Việt Nam | ListBase",
+    "seo_description": "Download Danh sách làng nghề truyền thống Việt Nam — 70 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 70 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_l%C3%A0ng_ngh%E1%BB%81_truy%E1%BB%81n_th%E1%BB%91ng_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}
