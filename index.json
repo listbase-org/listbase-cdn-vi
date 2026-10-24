@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-24T02:15:10.812Z",
-  "total_datasets": 494,
-  "total_records": 118108,
+  "generated": "2026-10-24T02:15:13.391Z",
+  "total_datasets": 495,
+  "total_records": 118640,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "economy",
@@ -437,6 +437,31 @@
         "xlsx": {
           "name": "vi-di-san-the-gioi-unesco_VI.xlsx",
           "size": 9605
+        }
+      }
+    },
+    {
+      "id": "vi-di-san-van-hoa-phi-vat-the-quoc-gia",
+      "name": "Danh sách Di sản văn hóa phi vật thể quốc gia Việt Nam",
+      "category": "culture",
+      "record_count": 532,
+      "columns": [
+        "name",
+        "type",
+        "location",
+        "year_inscribed"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_Di_s%E1%BA%A3n_v%C4%83n_h%C3%B3a_phi_v%E1%BA%ADt_th%E1%BB%83_qu%E1%BB%91c_gia_%28Vi%E1%BB%87t_Nam%29",
+      "updated": "2026-10",
+      "size": 118038,
+      "files": {
+        "csv": {
+          "name": "vi-di-san-van-hoa-phi-vat-the-quoc-gia_VI.csv",
+          "size": 70166
+        },
+        "xlsx": {
+          "name": "vi-di-san-van-hoa-phi-vat-the-quoc-gia_VI.xlsx",
+          "size": 29720
         }
       }
     },

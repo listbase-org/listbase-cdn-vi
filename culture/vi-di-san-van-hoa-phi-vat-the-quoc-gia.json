@@ -1,0 +1,3238 @@
+{
+  "id": "vi-di-san-van-hoa-phi-vat-the-quoc-gia",
+  "name": "Danh sách Di sản văn hóa phi vật thể quốc gia Việt Nam",
+  "title": "Danh sách Di sản văn hóa phi vật thể quốc gia Việt Nam",
+  "description": "Các di sản văn hóa phi vật thể được ghi danh vào Danh mục Di sản văn hóa phi vật thể quốc gia của Việt Nam, kèm loại hình, địa điểm và năm ghi danh.",
+  "category": "culture",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_Di_s%E1%BA%A3n_v%C4%83n_h%C3%B3a_phi_v%E1%BA%ADt_th%E1%BB%83_qu%E1%BB%91c_gia_%28Vi%E1%BB%87t_Nam%29",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_Di_s%E1%BA%A3n_v%C4%83n_h%C3%B3a_phi_v%E1%BA%ADt_th%E1%BB%83_qu%E1%BB%91c_gia_%28Vi%E1%BB%87t_Nam%29",
+  "updated": "2026-10",
+  "record_count": 532,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "year_inscribed",
+      "label": "Year Inscribed",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ca Huế",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Huế",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Ca trù (đồng thời là di sản văn hóa phi vật thể cần được bảo tồn khẩn cấp)",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Hà Tĩnh, Hưng Yên, Ninh Binh, Nghệ An, Phú Thọ, Quảng Trị, Thái Bình, Thanh Hóa, Phú Thọ, Hà Nội, Hải Phòng, Bắc Ninh và Thành phố Hồ Chí Minh",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Chợ Phong lưu (Háng Phúng Lìu) Khâu Vai",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Giang (Xã Khâu Vai, huyện Mèo Vạc)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Chữ Nôm của người Dao",
+      "type": "Tiếng nói, chữ viết",
+      "location": "Lào Cai",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Chữ Nôm của người Dao",
+      "type": "Tiếng nói, chữ viết",
+      "location": "Bắc Kạn",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Chữ Nôm của người Tày",
+      "type": "Tiếng nói, chữ viết",
+      "location": "Bắc Kạn",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Chữ viết cổ của người Thái",
+      "type": "Tiếng nói, chữ viết",
+      "location": "Sơn La",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Dân ca Cao Lan",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Bắc Ninh (xã Đèo Gia)",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Dân ca Sán Chí",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Bắc Ninh (xã Kiên Lao)",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Dân ca của người Bố Y",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Hà Giang (xã Quyết Tiến, huyện Quản Bạ)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Dân ca quan họ Bắc Ninh (đồng thời là di sản văn hóa phi vật thể đại diện cho nhân loại)",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Bắc Ninh",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Dân ca Ví, Giặm Nghệ Tĩnh (đồng thời là di sản văn hóa phi vật thể đại diện cho nhân loại)",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Nghệ An và Hà Tĩnh",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Đờn ca tài tử Nam Bộ (đồng thời là di sản văn hóa phi vật thể đại diện cho nhân loại)",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "An Giang, Bà Rịa-Vũng Tàu, Bạc Liêu, Bến Tre, Bình Dương, Bình Phước, Bình Thuận, Cà Mau, Cần Thơ, Đồng Nai, Đồng Tháp, Hậu Giang, Kiên Giang, Long An, Ninh Thuận, Sóc Trăng, Tây Ninh, Tiền Giang, Trà Vinh, Vĩnh Long, Thành phố Hồ Chí Minh",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Hát Aday của người Khmer",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Hậu Giang (Xã Xà Phiên, huyện Long Mỹ)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Hát bả trạo",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Quảng Nam (huyện Duy Xuyên, Thăng Bình, Điện Bàn, thành phố Tam Kỳ và Hội An)",
+      "year_inscribed": "2013"
+    },
+    {
+      "name": "Hát bội Bình Định",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Bình Định",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Hát dậm Quyển Sơn",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Hà Nam (Xã Thi Sơn, huyện Kim Bảng)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Hát Dô",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Hà Nội (Xã Liệp Tuyết, huyện Quốc Oai)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Hát đúm Thủy Nguyên",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Hải Phòng (các xã Phục Lễ, Phả Lễ, Lập Lễ, Tam Hưng, Ngũ Lão, huyện Thủy Nguyên)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Hát Kiều",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Quảng Bình (Huyện Quảng Trạch, huyện Tuyên Hóa, thị xã Ba Đồn)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Hát múa Ải Lao",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Hà Nội (phường Phúc Lợi)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Hát nhà tơ (hát cửa đình)",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Quảng Ninh",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Hát Páo dung của người Dao",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Tuyên Quang",
+      "year_inscribed": "2013"
+    },
+    {
+      "name": "Hát Quan làng của người Tày",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Hà Giang (Huyện Quang Bình)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Hát Quan làng của người Tày",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Tuyên Quang",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Hát ru của người Tày",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Bắc Kạn (Xã Giáo Hiệu, huyện Pác Nặm)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Hát ru của người Việt ở Cần Thơ",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Cần Thơ",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Hát ru Cảnh Dương",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Quảng Bình (xã Cảnh Dương, huyện Quảng Trạch)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Hát Sắc bùa của người Mường",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Thanh Hóa (huyện Ngọc Lặc)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Hát sắc bùa Phú Lễ",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Bến Tre (xã Phú Lễ, huyện Ba Tri)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Hát sình ca của người Cao Lan",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Tuyên Quang",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Hát soóng cọ của người Sán Chỉ",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Quảng Ninh",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Hát sấng cọ (Hát ví Lưu Tam) của người Sán Chay",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Thái Nguyên (huyện Phú Lương)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Hát soọng cô của người Sán Dìu",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Tuyên Quang (các xã Sơn Nam, Thiện Kế và Ninh Lai, huyện Sơn Dương)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Hát soọng cô của người Sán Dìu",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Thái Nguyên (huyện Đồng Hỷ)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Hát soọng cô của người Sán Dìu",
+      "type": "nghệ thuật trình diễn dân gian",
+      "location": "Vĩnh Phúc (các huyện Lập Thạch, Tam Đảo, Bình Xuyên và thành phố Phúc Yên)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Hát soọng cô của người Sán Dìu",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Quảng Ninh",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Hát trống quân làng Bùi Xá",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Bắc Ninh (phường Ninh Xá)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Hát trống quân",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Hưng Yên",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Hát trống quân",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Hải Dương (xã Thúc Kháng, huyện Bình Giang)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Hát trống quân Đức Bác",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Vĩnh Phúc",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Hát trống quân Liêm Thuận",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Hà Nam (xã Liêm Thuận, huyện Thanh Liêm)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Hát Xẩm",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Ninh Bình (Huyện Yên Mô, huyện Kim Sơn, thành phố Ninh Bình)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Hát xoan ở Phú Thọ (đồng thời là di sản văn hóa phi vật thể đại diện cho nhân loại)",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Phú Thọ",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Hò Cần Thơ",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Cần Thơ (Huyện Thới Lai, quận Ô Môn, quận Cái Răng)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Hò Đồng Tháp",
+      "type": "nghệ thuật trình diễn dân gian",
+      "location": "Đồng Tháp",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Hò khoan Lệ Thủy",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Quảng Bình (huyện Lệ Thủy)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Hò giã gạo",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Quảng Trị (các huyện Hải Lăng, Triệu Phong, Cam Lộ, Gio Linh, Vĩnh Linh)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Hò thuốc cá",
+      "type": "Nghệ thuật trình diễn dân gian; Tri thức dân gian",
+      "location": "Quảng Bình",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Hội đua bò Bảy Núi",
+      "type": "Lễ hội truyền thống",
+      "location": "An Giang",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Hội Gióng ở đền Phù Đổng và đền Sóc (đồng thời là di sản văn hóa phi vật thể đại diện cho nhân loại)",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nội",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Nhã nhạc - âm nhạc cung đình Việt Nam (đồng thời là di sản văn hóa phi vật thể đại diện cho nhân loại)",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Thừa Thiên – Huế",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Keng Loóng của người Thái",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hòa Bình (Huyện Mai Châu)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội Miếu Bà Rá",
+      "type": "Lễ hội truyền thống",
+      "location": "Bình Phước",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Hội Minh thệ thôn Hòa Liễu",
+      "type": "Lễ hội truyền thống",
+      "location": "Hải Phòng (xã Thuận Thiên, huyện Kiến Thụy)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Hội thề trung hiếu đền Đồng Cổ",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nội (Phường Bưởi, quận Tây Hồ)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội Ada Koohn (Mừng lúa mới) của người Pa Cô",
+      "type": "Lễ hội truyền thống",
+      "location": "Thừa Thiên – Huế",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội Mừng cơm mới của người Bru - Vân Kiều",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Bình (Xã Ngân Thủy, huyện Lệ Thủy)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ mừng cơm mới của người Mông",
+      "type": "Lễ hội truyền thống",
+      "location": "Yên Bái (huyện Mù Cang Chải)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Lễ ăn mừng đầu lúa mới của người Raglai",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Ninh Thuận (Xã Phước Hà, huyện Thuận Nam)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ mừng cơm mới của người Xinh Mun",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Điện Biên (Xã Chiềng Sơ, huyện Điện Biên Đông)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ mừng thọ của người M'nông",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Đắk Lắk (huyện Lắk)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội Mường Xia",
+      "type": "Lễ hội truyền thống",
+      "location": "Thanh Hóa (xã Sơn Thủy)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội Vật làng Vĩnh Khê",
+      "type": "Lễ hội truyền thống",
+      "location": "Hải Phòng (xã An Đồng, huyện An Dương)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Hội vật Liễu Đôi",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nam (xã Liêm Túc, huyện Thanh Liêm)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Hơmon (sử thi) của người Ba Na",
+      "type": "Ngữ văn dân gian",
+      "location": "Gia Lai (các huyện Đak Đoa, Đak Pơ, K'Bang và Kông Chro)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Hơmon (sử thi) của người Ba Na-Rơ Ngao",
+      "type": "Ngữ văn dân gian",
+      "location": "Kon Tum",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Kéo co",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Bắc Ninh (phường Kinh Bắc)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Kéo co ngồi",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Nội (phường Long Biên)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Kéo mỏ (Kéo co)",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Nội (thôn Xuân Lai, xã Xuân Thu, huyện Sóc Sơn)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Kéo song (Kéo co)",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Vĩnh Phúc (thị trấn Hương Canh, huyện Bình Xuyên)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Kéo co truyền thống",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Tuyên Quang",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Kéo co của người Thái",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Lai Châu",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Kéo co của người Tày, người Giáy",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Lào Cai",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Khan (sử thi) của người Ê Đê",
+      "type": "Ngữ văn dân gian",
+      "location": "Đắk Lắk",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Khắp Nôm của người Tày",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Lào Cai (huyện Văn Bàn)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Không gian văn hóa Cồng Chiêng Tây Nguyên (đồng thời là di sản văn hóa phi vật thể đại diện cho nhân loại)",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Đắk Lắk, Kon Tum, Gia Lai, Đắk Nông và Lâm Đồng",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Kỹ thuật chế biến rượu cần của người Xtiêng",
+      "type": "Tri thức dân gian, nghề thủ công truyền thống",
+      "location": "Bình Phước",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Kỹ thuật làm giấy bản của người Dao Đỏ",
+      "type": "Tri thức dân gian",
+      "location": "Hà Giang (thị trấn Việt Quang, huyện Bắc Quang)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Kỹ thuật trồng lanh và dệt vải lanh của người H'Mông",
+      "type": "Tri thức dân gian",
+      "location": "Hà Giang (xã Lùng Tám, huyện Quản Bạ)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ bỏ mả của người Raglai",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Khánh Hòa (xã Ba Cụm Bắc, huyện Khánh Sơn)",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Lễ bỏ mả của người Raglai",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Ninh Thuận (xã Phước Chiến, huyện Thuận Bắc)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ cầu an của người Giáy",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Giang (Xã Nậm Ban, huyện Mèo Vạc)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Nghi lễ Xé Pang Á (Cầu an) của người Kháng",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Sơn La (Huyện Quỳnh Nhai, huyện Mường La, huyện Thuận Châu)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ cầu an (Pang A) của người La Ha",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Sơn La (các huyện Mường La, Quỳnh Nhai và Thuận Châu)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ Cầu mùa của người Cờ Lao Đỏ",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Giang (Xã Túng Sán, huyện Hoàng Su Phì)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ cầu mùa, cầu mưa của người Dao",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Giang (huyện Bắc Mê)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội cầu mưa",
+      "type": "Lễ hội truyền thống",
+      "location": "Hưng Yên (Xã Lạc Hồng, huyện Văn Lâm)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ Cầu làng (Áy lay) của người Dao Họ",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Lào Cai (huyện Văn Bàn)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ cầu năm mới, cầu mùa của người Dao (Tịu siằng thun boàu liu)",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Bắc Kạn (xã Đồng Xá, huyện Na Rì)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ cúng dòng họ (Tu su) của người Mông",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Sơn La",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ cúng dòng họ của người Mông trắng",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Điện Biên (Huyện Tuần Giáo, huyện Điện Biên, huyện Điện Biên Đông)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ cúng tổ tiên của người Lô Lô",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Giang (xã Lũng Cú, huyện Đồng Văn)",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Lễ Đại Phan của người Sán Dìu",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Tuyên Quang",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ \"Ét đông\" của nhóm Giơ Lâng (Ba Na)",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Kon Tum (Huyện Kon Rẫy)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Lễ cúng rừng (Mo đổng trư) của người Nùng",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Giang (huyện Hoàng Su Phì)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ cúng rừng (Mủ đẳng mai) của người Thu Lao",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Lào Cai (xã Tả Gia Khâu, huyện Mường Khương)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ cúng rừng của người Giáy",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Lào Cai (huyện Văn Bàn)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ Gạ ma do (Cúng rừng) của người Hà Nhì",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Lào Cai (huyện Bát Xát)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Lễ Gạ ma thú (Cúng bản) của người Hà Nhì",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Điện Biên (Xã Sín Thầu, xã Chung Chải, xã Sen Thượng, xã Leng Su Sìn, huyện Mường Nhé)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ Khoi kìm (Cúng rừng) của người Dao đỏ",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Lào Cai",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Lễ cúng thần rừng của người Pu Péo",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Giang (xã Phố Là, huyện Đồng Văn)",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Lễ cúng rừng của người Phù Lá",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Giang (xã Nàn Sỉn, huyện Xín Mần)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Nghi lễ Não Lũng (Cúng rừng) của người Mông",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Lào Cai (huyện Si Ma Cai)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ cúng rừng của người Cờ Lao",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Giang (Xã Sính Lủng, huyện Đồng Văn)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ mở cửa rừng của người Mường",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Phú Thọ (Huyện Yên Lập)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ cúng trưởng thành của người Ê đê",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Phú Yên (huyện Sông Hinh và Sơn Hòa)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ cúng Bàn Vương của người Dao Đỏ",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Giang (Xã Hồ Thầu, huyện Hoàng Su Phì)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội Ariêu piing của người Tà Ôi (Pa cô)",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Trị (Huyện Đakrông, huyện Hướng Hóa)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội xã Đại Đồng",
+      "type": "Lễ hội truyền thống",
+      "location": "Vĩnh Phúc (Huyện Vĩnh Tường)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Lễ hội Sết Boóc Mạy",
+      "type": "Lễ hội truyền thống",
+      "location": "Thanh Hóa (xã Xuân Du)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ Hát múa ăn mừng dưới cây Bông (Kin Chiêng Bọoc Mạy) của người Thái",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Thanh Hóa (xã Yên Thọ)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ Xăng Khan (Kin chiêng boóc mạy) của người Thái",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Nghệ An (các huyện Quế Phong, Quỳ Châu, Quỳ Hợp, Tương Dương, Kỳ Sơn, Con Cuông, Nghĩa Đàn)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ Hết chá của người Thái",
+      "type": "Lễ hội truyền thống",
+      "location": "Sơn La (xã Đông Sang, huyện Mộc Châu)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Lễ Kin pang then của người Thái trắng",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Điện Biên (thị xã Mường Lay)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Lễ Kin pang then của người Thái trắng",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Sơn La (huyện Quỳnh Nhai, huyện Mai Sơn)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ hội Bà Phường Chào",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Nam (xã Đại Cường, huyện Đại Lộc)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ hội Bà Thu Bồn",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Nam (xã Duy Tân, huyện Duy Xuyên; xã Quế Trung, huyện Nông Sơn)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ hội Bạch Hạc, đền Tam Giang",
+      "type": "Lễ hội truyền thống",
+      "location": "Phú Thọ",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội Bạch Đằng",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Ninh (Thị xã Quảng Yên)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Lễ hội Bổng Điền",
+      "type": "Lễ hội truyền thống",
+      "location": "Thái Bình (xã Tân Lập, huyện Vũ Thư)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội Bình Đà",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nội (xã Bình Minh, huyện Thanh Oai)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Lễ hội Bổ Đà",
+      "type": "Lễ hội truyền thống",
+      "location": "Bắc Ninh (phường Vân Hà)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ hội dinh Thày Thím",
+      "type": "Lễ hội truyền thống",
+      "location": "Bình Thuận (Xã Tân Tiến, thị xã La Gi)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội bơi Đăm",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nội (phường Tây Tựu, quận Bắc Từ Liêm)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ hội bơi trải đền, chùa Ngọ Dương",
+      "type": "Lễ hội truyền thống",
+      "location": "Hải Phòng (xã An Hòa, huyện An Dương)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ hội Cổ Loa",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nội",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Lễ hội Dua Tpeng (Phá bàu) của người Khmer",
+      "type": "Lễ hội truyền thống, Tập quán xã hội và tín ngưỡng",
+      "location": "Bình Phước",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội Đập trống của người Ma Coong",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Quảng Bình",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội đua ghe ngo của người Khmer",
+      "type": "Lễ hội truyền thống",
+      "location": "Sóc Trăng (Huyện Thạnh Trị, huyện Châu Thành, huyện Mỹ Xuyên và thành phố Sóc Trăng)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội đua thuyền Tứ Linh",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Ngãi (xã An Hải, xã An Vĩnh, huyện đảo Lý Sơn)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ hội đua thuyền trên sông Nhật Lệ",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Bình (Huyện Quảng Ninh và Thành phố Đồng Hới)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội đua, bơi thuyền trên sông Kiến Giang",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Bình",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội Bủng Kham",
+      "type": "Lễ hội truyền thống",
+      "location": "Lạng Sơn (xã Thất Khê)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Lễ hội cầu bông của người Kinh",
+      "type": "Lễ hội truyền thống",
+      "location": "Bình Phước (huyện Hớn Quản, huyện Chơn Thành, huyện Bù Đăng, thị xã Bình Long)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Lễ hội cầu mùa của người Sán Chay",
+      "type": "Lễ hội truyền thống",
+      "location": "Thái Nguyên (huyện Phú Lương)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ hội cầu mưa của Yang Pơtao Apui",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Gia Lai",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Lễ hội cầu Ngư",
+      "type": "Lễ hội truyền thống",
+      "location": "Thanh Hóa (xã Vạn Lộc)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ hội cầu ngư Nhượng Bạn",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Tĩnh (Xã Cẩm Nhượng, huyện Cẩm Xuyên)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Lễ hội cầu ngư Quảng Bình",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Bình (các huyện Quảng Trạch, Bố Trạch, Quảng Ninh, Lệ Thủy, thị xã Ba Đồn, thành phố Đồng Hới)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ hội cầu Ngư",
+      "type": "Lễ hội truyền thống",
+      "location": "Đà Nẵng",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội cầu Ngư",
+      "type": "Lễ hội truyền thống",
+      "location": "Phú Yên",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội cầu ngư ở Khánh Hòa",
+      "type": "Lễ hội truyền thống",
+      "location": "Khánh Hòa",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Lễ hội cầu ngư",
+      "type": "Lễ hội truyền thống",
+      "location": "Ninh Thuận",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội Cầu ngư ở vạn Thủy Tú",
+      "type": "Lễ hội truyền thống",
+      "location": "Bình Thuận",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội chọi trâu ở Đồ Sơn",
+      "type": "Lễ hội truyền thống",
+      "location": "Hải Phòng (quận Đồ Sơn)",
+      "year_inscribed": "2013"
+    },
+    {
+      "name": "Lễ hội chùa Bà Đanh",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nam (Xã Ngọc Sơn, huyện Kim Bảng)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội chùa Hào Xá",
+      "type": "Lễ hội truyền thống",
+      "location": "Hải Dương (xã Thanh Xá, huyện Thanh Hà)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Lễ hội Chùa Bà - Cảng thị Nước Mặn",
+      "type": "Lễ hội truyền thống",
+      "location": "Bình Định (Xã Phước Quang, huyện Tuy Phước)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội chùa Bắc Nga",
+      "type": "Lễ hội truyền thống",
+      "location": "Lạng Sơn (xã Gia Cát, huyện Cao Lộc)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội chùa Cổ Lễ",
+      "type": "Lễ hội truyền thống",
+      "location": "Nam Định (Thị trấn Cổ Lễ, huyện Trực Ninh)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội chùa Đại Bi",
+      "type": "Lễ hội truyền thống",
+      "location": "Nam Định (thị trấn Nam Giang, huyện Nam Trực)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ hội chùa Đọi Sơn",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nam",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội chùa Keo",
+      "type": "Lễ hội truyền thống",
+      "location": "Thái Bình (xã Duy Nhất, huyện Vũ Thư)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ hội chùa Keo Hành Thiện",
+      "type": "Lễ hội truyền thống",
+      "location": "Nam Định",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội chùa Láng",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nội",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội chùa Ông",
+      "type": "Lễ hội truyền thống",
+      "location": "Đồng Nai (thành phố Biên Hòa)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội chùa Vĩnh Nghiêm",
+      "type": "Lễ hội truyền thống",
+      "location": "Bắc Ninh (phường Tân An)",
+      "year_inscribed": "2013"
+    },
+    {
+      "name": "Lễ hội Côn Sơn",
+      "type": "Lễ hội truyền thống",
+      "location": "Hải Dương (Thị xã Chí Linh)",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Lễ hội cúng biển Mỹ Long",
+      "type": "Lễ hội truyền thống",
+      "location": "Trà Vinh (xã Mỹ Long Bắc, Mỹ Long Nam và thị trấn Mỹ Long, huyện Cầu Ngang)",
+      "year_inscribed": "2013"
+    },
+    {
+      "name": "Lễ hội Dinh Cô",
+      "type": "Lễ hội truyền thống",
+      "location": "Bà Rịa - Vũng Tàu (thị trấn Long Hải, huyện Long Điền)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội Đào Xá",
+      "type": "Lễ hội truyền thống",
+      "location": "Phú Thọ (xã Đào Xá, huyện Thanh Thủy)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội đền A Sào",
+      "type": "Lễ hội truyền thống",
+      "location": "Thái Bình (xã An Thái, huyện Quỳnh Phụ)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Lễ hội đền An Xá (Lễ hội Đậu An)",
+      "type": "Lễ hội truyền thống",
+      "location": "Hưng Yên (xã An Viên, huyện Tiên Lữ)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội đền Bà Triệu",
+      "type": "Lễ hội truyền thống",
+      "location": "Thanh Hóa (xã Triệu Lộc)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội đền Bà Vũ",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nam (Xã Chân Lý, huyện Lý Nhân)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội đền Bạch Mã",
+      "type": "Lễ hội truyền thống",
+      "location": "Nghệ An",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội đền Bảo Hà",
+      "type": "Lễ hội truyền thống",
+      "location": "Lào Cai (xã Bảo Hà, huyện Bảo Yên)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội đền Cao An Phụ",
+      "type": "Lễ hội truyền thống",
+      "location": "Hải Dương (Phường An Sinh, thị xã Kinh Môn)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội đền Chiêu Trưng",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Tĩnh (xã Thạch Bàn, xã Thạch Hải, huyện Thạch Hà; xã Mai Phụ, xã Thạch Kim, huyện Lộc Hà)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ hội đền Chín Gian",
+      "type": "Lễ hội truyền thống",
+      "location": "Nghệ An (huyện Quế Phong)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội đền Chu Hưng",
+      "type": "Lễ hội truyền thống",
+      "location": "Phú Thọ",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội đền Cờn",
+      "type": "Lễ hội truyền thống",
+      "location": "Nghệ An (thị xã Hoàng Mai)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội đền Cửa Ông",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Ninh (phường Cửa Ông, thành phố Cẩm Phả)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội đền Du Yến",
+      "type": "Lễ hội truyền thống",
+      "location": "Phú Thọ (xã Chí Tiên, huyện Thanh Ba)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội đền Đa Hòa",
+      "type": "Lễ hội truyền thống",
+      "location": "Hưng Yên (Xã Bình Minh, huyện Khoái Châu; xã Mễ Sở, huyện Văn Giang)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội đền Độc Cước",
+      "type": "Lễ hội truyền thống",
+      "location": "Thanh Hóa (phường Sầm Sơn)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ hội đền Đông Cuông",
+      "type": "Lễ hội truyền thống",
+      "location": "Yên Bái (huyện Văn Yên)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội đền Đồng Bằng",
+      "type": "Lễ hội truyền thống",
+      "location": "Thái Bình (xã An Lễ, huyện Quỳnh Phụ)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội đền Đuổm",
+      "type": "Lễ hội truyền thống",
+      "location": "Thái Nguyên (xã Động Đạt, huyện Phú Lương)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ hội đền Hạ, đền Thượng, đền Ỷ La",
+      "type": "Lễ hội truyền thống",
+      "location": "Tuyên Quang (thành phố Tuyên Quang)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ hội đền Hát Môn",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nội (xã Hát Môn, huyện Phúc Thọ)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội đền Hóa Dạ Trạch",
+      "type": "Lễ hội truyền thống",
+      "location": "Hưng Yên (Xã Dạ Trạch, huyện Khoái Châu)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội đền Hoàng Công Chất",
+      "type": "Lễ hội truyền thống",
+      "location": "Điện Biên (xã Noong Hẹt, huyện Điện Biên)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Lễ hội đền Kỳ Cùng-đền Tả Phủ",
+      "type": "Lễ hội truyền thống",
+      "location": "Lạng Sơn (thành phố Lạng Sơn )",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Lễ hội đền Lảnh Giang",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nam (xã Mộc Nam, huyện Duy Tiên)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ hội đền Lăng Sương",
+      "type": "Lễ hội truyền thống",
+      "location": "Phú Thọ (xã Trung Nghĩa, huyện Thanh Thủy)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ hội đền thờ Lê Hoàn",
+      "type": "Lễ hội truyền thống",
+      "location": "Thanh Hóa (xã Xuân Lập)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội đền, chùa Linh Quang",
+      "type": "Lễ hội truyền thống",
+      "location": "Nam Định (xã Phương Định, huyện Trực Ninh)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ hội đền Lộng Khê",
+      "type": "Lễ hội truyền thống",
+      "location": "Thái Bình (xã An Khê, huyện Quỳnh Phụ)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ hội đền Mưng",
+      "type": "Lễ hội truyền thống",
+      "location": "Thanh Hóa (xã Thắng Lợi)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội đền Ngự Dội",
+      "type": "Lễ hội truyền thống",
+      "location": "Vĩnh Phúc (xã Vĩnh Ninh, huyện Vĩnh Tường)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ hội đền ông Hoàng Mười",
+      "type": "Lễ hội truyền thống",
+      "location": "Nghệ An",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội đền Nguyễn Cảnh Hoan (thập niên sự lệ)",
+      "type": "Lễ hội truyền thống",
+      "location": "Nghệ An (xã Tràng Sơn, huyện Đô Lương)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội đền Quả Sơn",
+      "type": "Lễ hội truyền thống",
+      "location": "Nghệ An (xã Bồi Sơn, huyện Đô Lương)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ hội đền Quát",
+      "type": "Lễ hội truyền thống",
+      "location": "Hải Dương (xã Yết Kiêu, huyện Gia Lộc)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ hội đền, đình Sượt",
+      "type": "Lễ hội truyền thống",
+      "location": "Hải Dương (phường Thanh Bình, thành phố Hải Dương)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ hội đền Suối Mỡ",
+      "type": "Lễ hội truyền thống",
+      "location": "Bắc Ninh (xã Nghĩa Phương)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Lễ hội đền Thanh Liệt",
+      "type": "Lễ hội truyền thống",
+      "location": "Nghệ An (xã Hưng Lam, huyện Hưng Nguyên)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ hội đền Thượng",
+      "type": "Lễ hội truyền thống",
+      "location": "Lào Cai (thành phố Lào Cai)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội đền Tống Trân",
+      "type": "Lễ hội truyền thống",
+      "location": "Hưng Yên",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Lễ hội đền Tranh",
+      "type": "Lễ hội truyền thống",
+      "location": "Hải Dương (Xã Đồng Tâm, huyện Ninh Giang)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội đền Trần",
+      "type": "Lễ hội truyền thống",
+      "location": "Nam Định (phường Lộc Vượng, thành phố Nam Định)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Lễ hội đền Trần",
+      "type": "Lễ hội truyền thống",
+      "location": "Thái Bình (xã Tiến Đức, huyện Hưng Hà)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Lễ hội đền Trần Thương",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nam (xã Nhân Đạo, huyện Lý Nhân)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ hội Đền thờ Đức Thánh Tổ nghề đúc đồng Tống Xá",
+      "type": "Lễ hội truyền thống",
+      "location": "Nam Định",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội đền thờ Trạng Trình Nguyễn Bỉnh Khiêm",
+      "type": "Lễ hội truyền thống",
+      "location": "Hải Phòng",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội đền Và",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nội (phường Trung Hưng, thị xã Sơn Tây)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội đền Vân Luông",
+      "type": "Lễ hội truyền thống",
+      "location": "Phú Thọ (Phường Vân Phú, thành phố Việt Trì)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội đền Yên Lương",
+      "type": "Lễ hội truyền thống",
+      "location": "Nghệ An (Thị xã Cửa Lò)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội điện Trường Bà",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Ngãi (thị trấn Trà Xuân, huyện Trà Bồng)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ hội đình Chèm",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nội (phường Đông Ngạc)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội đình Đầm Hà",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Ninh (Thị trấn Đầm Hà, huyện Đầm Hà)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội đình Hồng Thái",
+      "type": "Lễ hội truyền thống",
+      "location": "Tuyên Quang (Xã Tân Trào, huyện Sơn Dương)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội đình Hùng Lô",
+      "type": "Lễ hội truyền thống",
+      "location": "Phú Thọ (Xã Hùng Lô, thành phố Việt Trì)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội đình Lưu Xá",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nội (xã Hòa Chính, huyện Chương Mỹ)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội đình thần Nguyễn Trung Trực",
+      "type": "Lễ hội truyền thống",
+      "location": "Kiên Giang (Thành phố Rạch Giá)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội đình Phương Độ",
+      "type": "Lễ hội truyền thống",
+      "location": "Thái Nguyên (xã Xuân Phương, huyện Phú Bình)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ hội đình Quan Lạn",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Ninh",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội đình Thọ Vực",
+      "type": "Lễ hội truyền thống",
+      "location": "Tuyên Quang (xã Hồng Lạc, huyện Sơn Dương)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ hội đình Trà Cổ",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Ninh",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội đình Trịnh Xuyên",
+      "type": "Lễ hội truyền thống",
+      "location": "Hải Dương (xã Nghĩa An, huyện Ninh Giang)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Lễ hội đình Trường Lâm",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nội (phường Việt Hưng)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ hội đình Vạn Ninh",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Ninh (xã Vạn Ninh, thành phố Móng Cái)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội đình Vồng",
+      "type": "Lễ hội truyền thống",
+      "location": "Bắc Ninh (xã Ngọc Thiện)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Lễ hội đua ngựa Bắc Hà",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Lào Cai (Huyện Bắc Hà)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Lễ hội gầu tào",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Giang và Lào Cai",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Lễ hội gầu tào của người Mông",
+      "type": "Lễ hội truyền thống",
+      "location": "Lai Châu (huyện Phong Thổ, huyện Sìn Hồ, huyện Tam Đường)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ hội Hải Thượng Lãn Ông",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Tĩnh (huyện Hương Sơn)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Hạn Khuống của người Thái",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Yên Bái (thị xã Nghĩa Lộ)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ hội Katé của người Chăm",
+      "type": "Lễ hội truyền thống",
+      "location": "Ninh Thuận",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ hội Katê của người Chăm",
+      "type": "Lễ hội truyền thống",
+      "location": "Bình Thuận",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội Kiếp Bạc",
+      "type": "Lễ hội truyền thống",
+      "location": "Hải Dương (Thị xã Chí Linh)",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Lễ hội Khai hạ của người Mường",
+      "type": "Lễ hội truyền thống",
+      "location": "Hòa Bình (Huyện Tân Lạc, huyện Lạc Sơn, huyện Cao Phong, huyện Kim Bôi)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội Khai hạ - Cầu an tại Lăng Ông Tả quân Lê Văn Duyệt",
+      "type": "Lễ hội truyền thống",
+      "location": "Thành phố Hồ Chí Minh (Quận Bình Thạnh)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội Khô già già của người Hà Nhì đen",
+      "type": "Lễ hội truyền thống",
+      "location": "Lào Cai (huyện Bát Xát)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Lễ Kỳ yên của người Tày",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Bắc Kạn",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ hội Kỳ yên đình Bình Thủy",
+      "type": "Lễ hội truyền thống",
+      "location": "Cần Thơ (phường Bình Thủy, quận Bình Thủy)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ hội Kỳ yên đình Dĩ An",
+      "type": "Lễ hội truyền thống",
+      "location": "Bình Dương (Phường Dĩ An, thành phố Dĩ An)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội Kỳ yên tại đình Gia Lộc",
+      "type": "Lễ hội truyền thống",
+      "location": "Tây Ninh (thị trấn Trảng Bàng, huyện Trảng Bàng)",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Lễ hội Kỳ yên đình Tân An",
+      "type": "Lễ hội truyền thống",
+      "location": "Bình Dương (phường Tân An, thành phố Thủ Dầu Một)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Đại lễ Kỳ yên đình Tân Phước Tây",
+      "type": "Lễ hội truyền thống",
+      "location": "Long An (xã Tân Phước Tây, huyện Tân Trụ)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Lễ hội Kỳ Yên ở đình thần Thoại Ngọc Hầu, An Giang)",
+      "type": "Lễ hội truyền thống",
+      "location": "An Giang (Thị trấn Núi Sập, huyện Thoại Sơn)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ hội làng Bình Hải",
+      "type": "Lễ hội truyền thống",
+      "location": "Ninh Bình (Xã Yên Nhân, huyện Yên Mô)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội làng Chử Xá",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nội (xã Bát Tràng)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ hội làng Diềm",
+      "type": "Lễ hội truyền thống",
+      "location": "Bắc Ninh (phường Kinh Bắc)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội làng Đồng Kỵ",
+      "type": "Lễ hội truyền thống",
+      "location": "Bắc Ninh (phường Đồng Nguyên)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội làng Lệ Mật",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nội (phường Việt Hưng)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Lễ hội làng Quang Lang",
+      "type": "Lễ hội truyền thống",
+      "location": "Thái Bình (xã Thụy Hải, huyện Thái Thụy)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội làng Thượng Liệt",
+      "type": "Lễ hội truyền thống",
+      "location": "Thái Bình (xã Đông Tân, huyện Đông Hưng)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ hội làng Triều Khúc",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nội (Xã Tân Triều, huyện Thanh Trì)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội Lăng Ông Trà Ôn",
+      "type": "Lễ hội truyền thống",
+      "location": "Vĩnh Long (xã Thiện Mỹ, huyện Trà Ôn)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ hội Lồng tồng của người Tày",
+      "type": "Lễ hội truyền thống",
+      "location": "Tuyên Quang",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Lễ hội Lồng tồng của người Tày",
+      "type": "Lễ hội truyền thống",
+      "location": "Thái Nguyên (huyện Định Hóa)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ hội Lồng tồng của người Tày",
+      "type": "Lễ hội truyền thống",
+      "location": "Lào Cai (huyện Văn Bàn)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ hội Lồng tồng Ba Bể",
+      "type": "Lễ hội truyền thống",
+      "location": "Bắc Kạn (xã Nam Mẫu, huyện Ba Bể)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Lễ hội miếu Bà Chúa Xứ núi Sam",
+      "type": "Lễ hội truyền thống",
+      "location": "An Giang (phường Núi Sam, thành phố Châu Đốc)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Lễ hội mường Ca Da",
+      "type": "Lễ hội truyền thống",
+      "location": "Thanh Hóa",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội Mường Khô",
+      "type": "Lễ hội truyền thống",
+      "location": "Thanh Hóa (các xã Điền Quang, Điền Lư)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội Ná nhèm",
+      "type": "Lễ hội truyền thống",
+      "location": "Lạng Sơn",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Lễ hội Nàng Hai của người Tày",
+      "type": "Lễ hội truyền thống",
+      "location": "Cao Bằng (xã Tiên Thành, huyện Phục Hòa)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ hội Nàng Hai (Cầu Trăng) của người Tày Ngạn",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Giang (xã Vô Điếm, huyện Bắc Quang)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ hội Nàng Han",
+      "type": "Lễ hội truyền thống",
+      "location": "Thanh Hóa (xã Vạn Xuân)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội Năm làng Mọc",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nội (phường Thanh Xuân và phường Đại Mỗ)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Lễ hội năm mới của người Giáy",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Giang (xã Tát Ngà, huyện Mèo Vạc)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Lễ hội nghinh Ông",
+      "type": "Lễ hội truyền thống",
+      "location": "Bà Rịa - Vũng Tàu (phường Thắng Tam, thành phố Vũng Tàu)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội nghinh Ông",
+      "type": "Lễ hội truyền thống",
+      "location": "Bến Tre (xã Bình Thắng, huyện Bình Đại)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội nghinh Ông",
+      "type": "Lễ hội truyền thống",
+      "location": "Thành phố Hồ Chí Minh (huyện Cần Giờ)",
+      "year_inscribed": "2013"
+    },
+    {
+      "name": "Lễ hội nghinh Ông",
+      "type": "Lễ hội truyền thống",
+      "location": "Sóc Trăng (Thị trấn Trần Đề, huyện Trần Đề)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội nghinh Ông",
+      "type": "Lễ hội truyền thống",
+      "location": "Cà Mau",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Lễ hội Ngũ linh từ",
+      "type": "Lễ hội truyền thống",
+      "location": "Hải Phòng (Huyện Tiên Lãng)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội nhảy lửa của người Pà Thẻn",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Giang (xã Tân Bắc, huyện Quang Bình)",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Lễ Nhảy lửa của người Pà Thẻn",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Tuyên Quang (Xã Hồng Quang, huyện Lâm Bình)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội núi Văn - núi Võ",
+      "type": "Lễ hội truyền thống",
+      "location": "Thái Nguyên (xã Văn Yên, huyện Đại Từ)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ nhảy lửa của người Dao Đỏ",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Giang (Xã Thượng Sơn, huyện Vị Xuyên)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ hội Ok Om Bok của người Khmer",
+      "type": "Lễ hội truyền thống",
+      "location": "Trà Vinh",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Lễ hội Phài Lừa",
+      "type": "Lễ hội truyền thống",
+      "location": "Lạng Sơn (xã Hồng Phong, huyện Bình Gia)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ hội Phủ Dầy",
+      "type": "Lễ hội truyền thống",
+      "location": "Nam Định (xã Kim Thái, huyện Vụ Bản)",
+      "year_inscribed": "2013"
+    },
+    {
+      "name": "Lễ hội Quan lớn Trà Vong",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Tây Ninh",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ hội Quán Thế Âm Ngũ Hành Sơn",
+      "type": "Lễ hội truyền thống",
+      "location": "Đà Nẵng",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Lễ hội Quỹa Hiéng (Lễ hội qua năm) của người Dao đỏ",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Giang (xã Hồ Thầu, huyện Hoàng Su Phì)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Lễ hội roóng poọc của người Giáy",
+      "type": "Lễ hội truyền thống",
+      "location": "Lào Cai (xã Tả Van, huyện Sa Pa)",
+      "year_inscribed": "2013"
+    },
+    {
+      "name": "Lễ hội rước Chúa Gái",
+      "type": "Lễ hội truyền thống",
+      "location": "Phú Thọ (Thị trấn Hùng Sơn, huyện Lâm Thao)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội Rước cộ Bà Chợ Được",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Nam (xã Bình Triều, huyện Thăng Bình)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Lễ hội tháp Bà Po Nagar Nha Trang",
+      "type": "Lễ hội truyền thống",
+      "location": "Khánh Hòa (thành phố Nha Trang)",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Lễ hội Thái bình xướng ca",
+      "type": "Lễ hội truyền thống",
+      "location": "Nam Định (Xã Thanh Lợi, huyện Vụ Bản)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội Thổ Hà",
+      "type": "Lễ hội truyền thống",
+      "location": "Bắc Ninh (phường Vân Hà)",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Hội thổi cơm thi Thị Cấm",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nội (phường Xuân Phương, quận Nam Từ Liêm)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Lễ hội Tiên Công",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Ninh (thị xã Quảng Yên)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ hội Tiên La",
+      "type": "Lễ hội truyền thống",
+      "location": "Thái Bình (huyện Hưng Hà)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội Tiên Lục",
+      "type": "Lễ hội truyền thống",
+      "location": "Bắc Ninh (xã Tiên Lục)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội trò Chiềng",
+      "type": "Lễ hội truyền thống",
+      "location": "Thanh Hóa (xã Yên Ninh)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ hội trò Ngô làng Giàng",
+      "type": "Lễ hội truyền thống",
+      "location": "Lạng Sơn (xã Yên Thịnh, huyện Hữu Lũng)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ hội Tranh đầu pháo",
+      "type": "Lễ hội truyền thống",
+      "location": "Cao Bằng (Thị trấn Quảng Uyên, huyện Quảng Hòa)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ hội Trỉa lúa của người Bru – Vân Kiều",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Bình",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Lễ hội Trò Trám",
+      "type": "Lễ hội truyền thống",
+      "location": "Phú Thọ (xã Tứ Xã, huyện Lâm Thao)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội truyền thống nữ tướng Lê Chân",
+      "type": "Lễ hội truyền thống",
+      "location": "Hải Phòng (|quận Lê Chân)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội Trường Yên (Lễ hội Hoa Lư)",
+      "type": "Lễ hội truyền thống",
+      "location": "Ninh Bình (xã Trường Yên, thành phố Hoa Lư)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Lễ hội Trương Định",
+      "type": "Lễ hội truyền thống",
+      "location": "Tiền Giang (thị xã Gò Công và xã Gia Thuận, huyện Gò Công Đông)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ hội Từ Lương Xâm",
+      "type": "Lễ hội truyền thống",
+      "location": "Hải Phòng (Phường Nam Hải, quận Hải An)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ hội vía Bà Ngũ hành",
+      "type": "Lễ hội truyền thống",
+      "location": "Long An (xã Long Thượng, huyện Cần Giuộc)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Lễ hội vía Bà Thủy Long",
+      "type": "Lễ hội truyền thống",
+      "location": "Cà Mau (xã Thanh Tùng, huyện Đầm Dơi)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội Vật cầu nước làng Vân",
+      "type": "Lễ hội truyền thống",
+      "location": "Bắc Ninh (phường Vân Hà)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ vía Bà Linh Sơn Thánh Mẫu - núi Bà Đen",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Tây Ninh (thành phố Tây Ninh)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ hội Xa Mã - Rước kiệu Đình Hoàng Châu",
+      "type": "Lễ hội truyền thống",
+      "location": "Hải Phòng (xã Hoàng Châu, huyện Cát Hải)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ hội Xuống đồng",
+      "type": "Lễ hội truyền thống",
+      "location": "Quảng Ninh (Phường Phong Cốc, thị xã Quảng Yên)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội Xương Giang",
+      "type": "Lễ hội truyền thống",
+      "location": "Bắc Ninh (phường Bắc Giang)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lễ hội Y Sơn",
+      "type": "Lễ hội truyền thống",
+      "location": "Bắc Ninh (xã Hợp Thịnh)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Lễ hội Yên Thế",
+      "type": "Lễ hội truyền thống",
+      "location": "Bắc Ninh (xã Yên Thế)",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Lễ kết chạ Phú Mỹ – Kiều Mai",
+      "type": "Lễ hội truyền thống",
+      "location": "Hà Nội (Phường Mỹ Đình 2, quận Nam Từ Liêm; phường Phúc Diễn, quận Bắc Từ Liêm)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Lễ khao lề thế lính Hoàng Sa",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Quảng Ngãi (xã An Vĩnh, huyện Lý Sơn)",
+      "year_inscribed": "2013"
+    },
+    {
+      "name": "Lễ làm chay",
+      "type": "Lễ hội truyền thống",
+      "location": "Long An (thị trấn Tầm Vu, huyện Châu Thành)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Lễ Pang Phoóng (Tạ ơn) của người Kháng",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Điện Biên (xã Rạng Đông, huyện Tuần Giáo)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ Pút tồng của người Dao đỏ",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Lào Cai (huyện Sa Pa)",
+      "year_inscribed": "2013"
+    },
+    {
+      "name": "Lễ ra đồng (Pặt Oong) của người Pu Péo",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Giang (xã Phố Là, huyện Đồng Văn)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lễ tịch điền",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Nam (xã Đọi Sơn, huyện Duy Tiên)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ Vu lan thắng hội",
+      "type": "Lễ hội truyền thống",
+      "location": "Trà Vinh (Huyện Cầu Kè)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lời nói vần của người Ê đê",
+      "type": "Ngữ văn dân gian",
+      "location": "Đắk Lắk (Huyện Cư M'gar)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lượn Cọi của người Tày",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Cao Bằng (các xã Yên Thổ, Nam Quang, Quảng Lâm, huyện Bảo Lâm)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Lượn Cọi của người Tày",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Thái Nguyên (huyện Định Hóa)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Lượn Cọi của người Tày",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Bắc Kạn (Huyện Pác Nặm)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lượn Slương của người Tày",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Bắc Kạn",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Hát sli của người Nùng",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Bắc Kạn (xã Xuân Dương, huyện Na Rì)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Hát sli của người Nùng",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Lạng Sơn",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Mền Loóng Phạt Ái (Tết Hoa mào gà) của người Cống",
+      "type": "Lễ hội truyền thống",
+      "location": "Điện Biên (Xã Pa Thơm, huyện Điện Biên, xã Nậm Kè, huyện Mường Nhé, xã Pa Tần, huyện Nậm Pồ)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Mo Mường tỉnh Hòa Bình",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hòa Bình",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Mo Mường",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Phú Thọ (các huyện Tân Sơn, Thanh Sơn, Yên Lập)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Mo Mường",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Thanh Hóa (các huyện Mường Lát, Quan Hóa, Quan Sơn, Bá Thước, Lang Chánh, Ngọc Lặc, Thường Xuân, Như Xuân, Như Thanh, Cẩm Thủy, Thạch Thành)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Mo Mường",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Hà Nội (Huyện Ba Vì, huyện Thạch Thất, huyện Quốc Oai)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Mo Mường",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Sơn La (Huyện Mộc Châu, huyện Vân Hồ, huyện Bắc Yên, huyện Phù Yên)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Múa hát Lải Lèn",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Hà Nam (xã Bắc Lý, huyện Lý Nhân)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghệ thuật múa của người Lào",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Điện Biên (Huyện Điện Biên, huyện Điện Biên Đông)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Múa bát của người Tày",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Bắc Kạn",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Múa đèn xếp chữ, hát chèo chải cổ trong Lễ hội Ngư Võng phường",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Thanh Hóa (xã Thiệu Quang)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Múa Rom Vong của người Khmer",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Sóc Trăng",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Múa rối nước",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Hải Dương",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Múa rối nước Đào Thục",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Hà Nội (Xã Thụy Lâm, huyện Đông Anh)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Múa rối nước Nhân Hòa",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Hải Phòng (xã Nhân Hòa, huyện Vĩnh Bảo)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Múa của người Khơ mú",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Điện Biên (thành phố Điện Biên Phủ, huyện Điện Biên, huyện Điện Biên Đông, huyện Mường Ảng, huyện Tuần Giáo, huyện Tủa Chùa, huyện Mường Chà, huyện Nậm Pồ)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Nghệ thuật múa rối nước ở Nguyên Xá và Đông Các",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Thái Bình (các xã Nguyên Xá và Đông Các, huyện Đông Hưng)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Múa Tắc Xình của người Sán Chay",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Thái Nguyên (huyện Phú Lương)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Múa Tân 'tung Da' dá của người Cơ Tu",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Quảng Nam (các huyện Đông Giang, Nam Giang và Tây Giang)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Múa sư tử của người Tày, Nùng",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Lạng Sơn",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Múa trống Chhay-dăm",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Tây Ninh (xã Trường Tây, huyện Hòa Thành)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Nau M'Pring (Dân ca) của người M'Nông",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Đắk Nông (Huyện Tuy Đức, huyện K'rông Nô, huyện Đắk Mil, huyện Đắk Rlấp, huyện Đắk Song, huyện Đắk G'long, huyện Cư Jut, thị xã Gia Nghĩa)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Nghề chạm bạc của người Nùng",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Hà Giang (xã Pờ Ly Ngài và Nàng Ðôn, huyện Hoàng Su Phì)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Nghề chạm khắc bạc của người Dao Đỏ",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Lào Cai (huyện Sa Pa)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Nghề chạm khắc bạc của người H'Mông",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Lào Cai (huyện Sa Pa)",
+      "year_inscribed": "2013"
+    },
+    {
+      "name": "Nghề chạm khắc gỗ Phù Khê",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Bắc Ninh (phường Phù Khê)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Nghề chàng Slaw của người Nùng Dín",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Lào Cai (huyện Mường Khương)",
+      "year_inscribed": "2013"
+    },
+    {
+      "name": "Nghề dệt chiếu",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Đồng Tháp (xã Định An và Định Yên, huyện Lấp Vò)",
+      "year_inscribed": "2013"
+    },
+    {
+      "name": "Nghề dệt chiếu lác",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Long An (các huyện Cần Đước, Bến Lức và Tân Trụ)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Nghề dệt của người Dao Họ",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Lào Cai (Huyện Bảo Thắng)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Nghề dệt choàng",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Đồng Tháp (Xã Long Khánh A, huyện Hồng Ngự)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghề dệt lụa Nha Xá",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Hà Nam",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Nghề dệt lụa Vạn Phúc",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Hà Nội (phường Hà Đông)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghề dệt thổ cẩm của người Chăm",
+      "type": "Nghề thủ công truyền thống",
+      "location": "An Giang (Xã Châu Phong, thị xã Tân Châu)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghề dệt thổ cẩm của người Cơ Tu",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Quảng Nam (các huyện Đông Giang, Nam Giang và Tây Giang)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Nghề dệt Dèng (thổ cẩm) của người Tà Ôi",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Thừa Thiên – Huế (huyện A Lưới)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Nghề dệt thổ cẩm truyền thống của người Hrê",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Quảng Ngãi (Xã Ba Thành, huyện Ba Tơ)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Nghề dệt của người M'nông",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Đắk Nông",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Nghề dệt thổ cẩm của người M'nông",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Bình Phước (Xã Bù Gia Mập, huyện Bù Gia Mập, xã Đăk Nhau, xã Đồng Nai, xã Thọ Sơn, xã Phú Sơn, huyện Bù Đăng)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Nghề dệt thủ công truyền thống của người Tày",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Bắc Kạn",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Nghề dệt thủ công truyền thống của người Ba Na",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Kon Tum (các huyện Kon Rẫy, Đăk Hà, Sa Thày, thành phố Kon Tum)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghề dệt của nhóm A Ráp (Gia Rai)",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Kon Tum (Huyện Sa Thầy và thành phố Kon Tum)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghề dệt đũi",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Thái Bình (xã Nam Cao, huyện Kiến Xương)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghề đan gùi của người XTiêng",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Bình Phước (Huyện Bù Đăng, huyện Bù Gia Mập, huyện Hớn Quản và huyện Lộc Ninh)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghề điêu khắc đá mỹ nghệ Non Nước",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Đà Nẵng (phường Hòa Hải, quận Ngũ Hành Sơn)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Nghề đá mỹ nghệ Ninh Vân",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Ninh Bình",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Nghề đóng xuồng, ghe Long Hậu",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Đồng Tháp (xã Long Hậu, huyện Lai Vung)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Nghề đúc đồng cổ truyền làng Chè (Trà Đông)",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Thanh Hóa (xã Thiệu Trung)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Nghề gác kèo ong",
+      "type": "Tri thức dân gian, nghề thủ công truyền thống",
+      "location": "Cà Mau",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Nghề gò đồng Đại Bái",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Bắc Ninh (phường Gia Bình)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Nghề gốm làng Bát Tràng",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Hà Nội",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Nghề gốm Phù Lãng",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Bắc Ninh (phường Phù Lãng)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Nghề gốm Thanh Hà",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Quảng Nam",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Nghề gốm Bình Dương",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Bình Dương (TP.Thủ Dầu Một, TP.Thuận An và TX.Tân Uyên)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Nghề làm gốm của người Chăm",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Bình Thuận (xã Phan Hiệp, huyện Bắc Bình)",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Nghệ thuật làm gốm truyền thống của người Chăm làng Bàu Trúc",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Ninh Thuận (thị trấn Phước Dân, huyện Ninh Phước)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Nghề làm giày thêu của người Hoa (Xạ phang)",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Điện Biên (xã Tả Sìn Thàng, xã Lao Xả Phình, huyện Tủa Chùa; xã Huổi Lèng, xã Sa Lông, huyện Mường Chà; xã Phìn Hồ, huyện Nậm Pồ)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Nghề làm bánh chưng, bánh giầy",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Phú Thọ (Huyện Cẩm Khê, thành phố Việt Trì, huyện Tam Nông)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghề làm bánh phồng Sơn Đốc",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Bến Tre (xã Hưng Nhượng, huyện Giồng Trôm)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Nghề làm bánh pía",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Sóc Trăng (Xã Phú Tâm, xã Thuận Hòa, xã An Hiệp, huyện Châu Thành)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Nghề làm bánh tráng Thuận Hưng",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Cần Thơ (Phường Thuận Hưng, quận Thốt Nốt)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghề làm bánh tráng phơi sương Trảng Bàng",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Tây Ninh (huyện Trảng Bàng)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Nghề làm bánh tráng Mỹ Lồng",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Bến Tre (xã Mỹ Thạnh, huyện Giồng Trôm)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Nghề làm bánh tráng ở Phú Yên",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Phú Yên",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Nghề cốm Mễ Trì",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Hà Nội (phường Từ Liêm)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Nghề khai thác yến sào Thanh Châu",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Quảng Nam (xã Cẩm Thanh, thành phố Hội An và đảo Cù Lao Chàm)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Nghề làm muối ở Bạc Liêu",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Bạc Liêu (Xã Vĩnh Hậu, xã Vĩnh Thịnh, huyện Hòa Bình; xã Long Điền Đông, xã Điền Hải, xã Long Điền Tây, huyện Đông Hải)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Nghề làm muối ớt Tây Ninh",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Tây Ninh",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghề làm nem Lai Vung",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Đồng Tháp (xã Tân Thành và thị trấn Lai Vung, huyện Lai Vung)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghề làm nón lá Sai Nga",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Phú Thọ (Thị trấn Cẩm Khê, huyện Cẩm Khê)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Nghề làm nón Hai mê của người Tày",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Hà Giang (xã Xuân Giang, huyện Quang Bình)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghề làm nước mắm Nam Ô",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Đà Nẵng (phường Hòa Hiệp Nam, phường Hòa Hiệp Bắc, quận Liên Chiểu)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Nghề làm nước mắm Phú Quốc",
+      "type": "Nghề thủ công truyền thống; Tri thức dân gian",
+      "location": "Kiên Giang (phường Dương Đông, phường An Thới, thành phố Phú Quốc)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Nghề làm nước mắm ở Phú Yên",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Phú Yên",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Nghề làm tàu hũ ky",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Vĩnh Long (Xã Mỹ Hòa, thị xã Bình Minh)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Nghề làm tôm khô",
+      "type": "Nghề thủ công truyền thống, Tri thức dân gian",
+      "location": "Cà Mau",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghề làm xôi",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Hà Nội (phường Phú Thượng)",
+      "year_inscribed": "2024"
+    },
+    {
+      "name": "Nghề rèn của người Mông",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Điện Biên",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghề làm tranh thờ của người Dao Đỏ",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Lào Cai (thị xã Sa Pa)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Nghề làm trống của người Dao Đỏ",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Lào Cai (huyện Sa Pa)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Nghề làm trống Đọi Tam",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Hà Nam",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Nghề mộc Kim Bồng",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Quảng Nam (xã Cẩm Kim, thành phố Hội An)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Nghề muối ba khía",
+      "type": "Tri thức dân gian, nghề thủ công truyền thống",
+      "location": "Cà Mau",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Nghề quỳ vàng bạc Kiêu Kỵ",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Hà Nội (xã Gia Lâm)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Nghề rèn của người Nùng An",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Cao Bằng (Xã Phúc Sen, huyện Quảng Uyên)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Nghề sơn mài Cát Đằng",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Nam Định (xã Yên Tiến, huyện Ý Yên)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Nghề sơn mài ở Tương Bình Hiệp",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Bình Dương (Phường Tương Bình Hiệp, thành phố Thủ Dầu Một)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Nghề thêu ren Thanh Hà",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Hà Nam (Xã Thanh Hà, huyện Thanh Liêm)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Nghề thêu truyền thống ở Đông Cứu",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Hà Nội (xã Dũng Tiến, huyện Thường Tín)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Nghề thủ công tre, trúc Xuân Lai",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Bắc Ninh (phường Gia Bình)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Nghề trồng rau Trà Quế",
+      "type": "Tri thức dân gian, Nghề thủ công truyền thống",
+      "location": "Quảng Nam (Xã Cẩm Hà, thành phố Hội An)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Nghệ thuật Bài chòi",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Bình Định",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Nghệ thuật Bài chòi",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Phú Yên",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Nghệ thuật Bài chòi",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Quảng Nam",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Nghệ thuật Bài Chòi",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Đà Nẵng",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Nghệ thuật Chầm riêng chà pây của người Khmer",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Trà Vinh (xã Tân Hiệp, huyện Trà Cú)",
+      "year_inscribed": "2013"
+    },
+    {
+      "name": "Nghệ thuật Chèo",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Thái Bình",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghệ thuật chế biến món ăn chay",
+      "type": "Tri thức dân gian",
+      "location": "Tây Ninh (Huyện Gò Dầu, huyện Trảng Bàng, huyện Tân Châu, huyện Dương Minh Châu, thị xã Hòa Thành, thành phố Tây Ninh)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Nghệ thuật Chiêng Mường ở Hòa Bình",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Hòa Bình",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Nghệ thuật Cồng chiêng của người Co",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Quảng Ngãi",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Nghệ thuật Khèn của người H'Mông",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Lào Cai",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Nghệ thuật Khèn của người H'Mông",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Hà Giang",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Nghệ thuật Khèn của người H'Mông",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Thái Nguyên (huyện Phú Lương, huyện Đồng Hỷ)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Nghệ thuật Khèn của người H'Mông",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Sơn La (huyện Mộc Châu)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Nghệ thuật Múa khèn của người H'Mông",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Bắc Kạn",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Nghệ thuật Khèn của người Mông",
+      "type": "Tri thức dân gian, Nghệ thuật trình diễn dân gian",
+      "location": "Điện Biên",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Nghệ thuật Khèn của người Mông",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Yên Bái (Huyện Mù Cang Chải, huyện Trạm Tấu, huyện Văn Chấn)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghệ thuật Nhạc trống lớn của người Khmer",
+      "type": "Lễ hội truyền thống",
+      "location": "Cà Mau (Huyện Thới Bình)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Nghệ thuật Rô-bam của người Khmer",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Trà Vinh",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Nghệ thuật Rô-băm của người Khmer",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Sóc Trăng (Xã Tài Văn, huyện Trần Đề)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Nghệ thuật sân khấu dù kê của người Khmer",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Sóc Trăng",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Nghệ thuật sân khấu Dì Kê của người Khmer",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "An Giang (Xã Ô Lâm, huyện Tri Tôn)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghệ thuật làm trang phục của người Hà Nhì",
+      "type": "Tri thức dân gian",
+      "location": "Điện Biên (các xã Sín Thầu, Leng Su Sìn, Sen Thượng, Chung Chải, huyện Mường Nhé)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghệ thuật tạo hoa văn trên trang phục truyền thống của người H'Mông hoa",
+      "type": "Tri thức dân gian",
+      "location": "Điện Biên (xã Sa Lông, huyện Mường Chà)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Nghệ thuật tạo hoa văn trên trang phục truyền thống của người Mông hoa",
+      "type": "Tri thức dân gian",
+      "location": "Sơn La (huyện Mộc Châu)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Nghệ thuật dùng sáp ong tạo hoa văn trên vải của người Mông",
+      "type": "Tri thức dân gian",
+      "location": "Yên Bái (Huyện Mù Cang Chải, huyện Trạm Tấu, huyệnVăn Chấn)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghệ thuật làm trang phục của người Mông Đen",
+      "type": "Tri thức dân gian",
+      "location": "Lào Cai (Thị xã Sa Pa)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghệ thuật trang trí trên trang phục truyền thống của người Mông Hoa",
+      "type": "Tri thức dân gian",
+      "location": "Tuyên Quang (Huyện Lâm Bình, huyện Hàm Yên, huyện Chiêm Hoá, huyện Na Hang, huyện Yên Sơn )",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Nghệ thuật trang trí hoa văn trên trang phục của người Dao Đỏ",
+      "type": "Tri thức dân gian",
+      "location": "Bắc Kạn (xã Ngọc Phái, huyện Chợ Đồn)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Nghệ thuật trang trí trên trang phục truyền thống của người Dao Đỏ",
+      "type": "Tri thức dân gian",
+      "location": "Tuyên Quang (Huyện Sơn Dương, huyện Hàm Yên, huyện Chiêm Hóa, huyện Na Hang, huyện Lâm Bình)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Nghệ thuật trang trí hoa văn trên trang phục của người Dao Đỏ",
+      "type": "Tri thức dân gian",
+      "location": "Cao Bằng (xã Vũ Minh, huyện Nguyên Bình)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghệ thuật trang trí trên trang phục của người Dao Đỏ",
+      "type": "Tri thức dân gian",
+      "location": "Lào Cai (huyện Sa Pa)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Nghệ thuật trang trí trên trang phục của người Dao tiền",
+      "type": "Tri thức dân gian",
+      "location": "Sơn La (Huyện Vân Hồ, huyện Mộc Châu, huyện Phù Yên)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghệ thuật trang trí trên trang phục của người Lô Lô Đen",
+      "type": "Tri thức dân gian, Nghề thủ công truyền thống",
+      "location": "Hà Giang (Xã Lũng Cú, huyện Đồng Văn)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Nghệ thuật trang trí trên trang phục của người Mông Hoa",
+      "type": "Tri thức dân gian",
+      "location": "Lào Cai (Huyện Bắc Hà)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Nghệ thuật trang trí trên trang phục của người Nùng Dín",
+      "type": "Tri thức dân gian",
+      "location": "Lào Cai (Huyện Mường Khương)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Nghệ thuật trang trí hoa văn trên trang phục của người Xá Phó",
+      "type": "Tri thức dân gian",
+      "location": "Lào Cai",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Nghệ thuật trang trí trên trang phục của người Pa Dí",
+      "type": "Tri thức dân gian",
+      "location": "Lào Cai (huyện Mường Khương)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Nghệ thuật trình diễn Trống đôi, Cồng ba, Chiêng năm ở Xí Thoại",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Phú Yên (xã Xuân Lãnh, huyện Đồng Xuân)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Nghệ thuật trình diễn Chiêng Ba của người Hrê",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Quảng Ngãi",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Nghệ thuật Tuồng xứ Quảng",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Đà Nẵng",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Nghệ thuật The (múa) của người Tày ở Tà Chải",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Lào Cai (xã Tà Chải, huyện Bắc Hà)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Nghệ thuật Xòe Thái",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Điện Biên",
+      "year_inscribed": "2013"
+    },
+    {
+      "name": "Nghệ thuật Xòe Thái",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Lai Châu",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Nghệ thuật Xòe Thái ở Mường Lò-Nghĩa Lộ",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Yên Bái (thị xã Nghĩa Lộ)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Nghệ thuật Xòe Thái",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Sơn La",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Nghi lễ cấp sắc của người Dao",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Bắc Kạn, Hà Giang, Lào Cai và Yên Bái",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Nghi lễ cấp sắc của người Dao",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Tuyên Quang",
+      "year_inscribed": "2013"
+    },
+    {
+      "name": "Nghi lễ cấp sắc của người Dao",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Thái Nguyên",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Nghi lễ cấp sắc của người Dao",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Sơn La",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ cấp sắc của người Dao Quần Chẹt",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Phú Thọ (Xã Xuân Thủy, huyện Yên Lập)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Lễ cấp sắc (Tủ cải) của người Dao Quần Chẹt",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Điện Biên (xã Huổi Só, huyện Tủa Chùa)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ cấp sắc của người Dao Tiền",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Phú Thọ (xã Xuân Sơn, huyện Tân Sơn)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Lễ Cấp sắc của người Dao Tiền",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Bắc Kạn (Xã Đôn Phong, huyện Bạch Thông)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Lễ cấp sắc của người Sán Dìu",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Thái Nguyên (xã Nam Hòa, huyện Đồng Hỷ và xã Bàn Đạt, huyện Phú Bình)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Nghi lễ Cấp sắc của người Nùng",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Thái Nguyên (huyện Đồng Hỷ)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Lễ cấp sắc của người Tày",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Bắc Kạn",
+      "year_inscribed": "2015\"Dot1\"/>"
+    },
+    {
+      "name": "Lễ Cấp sắc Pụt (Lẩu Pụt) của người Tày",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Bắc Kạn (xã Đồng Phúc, huyện Ba Bể)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Nghi lễ Cấp sắc Tào của người Tày",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Bắc Kạn (huyện Na Rì)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Nghi lễ Chầu văn của người Việt",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Nam và Nam Định",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Nghi lễ dựng cây Nêu và bộ Gu của người Co",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Quảng Nam (xã Trà Kót và Trà Nú, huyện Bắc Trà My)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Nghi lễ đầu năm của người Chăm ở làng Bỉnh Nghĩa",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Ninh Thuận",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Nghi lễ Gội đầu (Lúng ta) của người Thái Trắng",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Sơn La (huyện Quỳnh Nhai)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Nghi lễ Hét Khoăn của người Nùng",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Thái Nguyên (huyện Đồng Hỷ)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Nghi lễ mừng sinh nhật (Hắt khoăn) của người Nùng",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Bắc Kạn (huyện Na Rì)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Nghi lễ Then Khoăn (Cầu thọ) của người Tày",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Lào Cai (huyện Văn Bàn)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Nghi lễ Mạng Ma (Cầu sức khỏe) của người Xinh Mun Dạ",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Sơn La (Xã Chiềng On, huyện Yên Châu)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Nghi lễ Mo Tham Thát của người Tày",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Lào Cai (Xã Làng Giàng, huyện Văn Bàn)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Nghi lễ Mo thổ công bản (Cúng thổ công bản) của người Tày",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Lào Cai (huyện Văn Bàn)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Nghi lễ then của người Giáy",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Lào Cai (Huyện Bát Xát)",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Nghi lễ Then của người Tày",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Lào Cai, Quảng Ninh và Tuyên Quang",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Nghi lễ Then của người Tày",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Cao Bằng",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Nghi lễ Then của người Tày",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Giang",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Nghi lễ Then của người Tày",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Thái Nguyên (huyện Định Hóa)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Nghi lễ Then của người Tày, người Nùng",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Bắc Ninh",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Nghi lễ Then của người Tày, người Nùng",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Lạng Sơn",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Nghi lễ truyền thống trong đám cưới của người Dao Tiền",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Sơn La",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Nghi lễ Vòng Đời Của Người Chăm Islam",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "An Giang (Thị xã Tân Châu và huyện An Phú)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nghi lễ Tết nhảy (Nhảng chầm đao) của người Dao",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Thái Nguyên (huyện Đại Từ)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Lễ Tết nhảy của người Dao Quần Chẹt",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Phú Thọ (huyện Yên Lập)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Nghi lễ Nhảng chập đáo (Tết nhảy) của người Dao Quần chẹt",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Thanh Hóa (huyện Ngọc Lặc)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Nhạc Ngũ âm của người Khmer",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Sóc Trăng",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Nói lý, hát lý của người Cơ Tu",
+      "type": "Nghệ thuật trình diễn dân gian; Tiếng nói, chữ viết",
+      "location": "Quảng Nam (các huyện Đông Giang, Nam Giang và Tây Giang)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Ot Ndrong (sử thi) của người M'Nông",
+      "type": "Ngữ văn dân gian",
+      "location": "Đắk Nông (các huyện Tuy Đức, Đăk Song và Đăk Mil)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Pả dung của người Dao",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Thái Nguyên (xã Phúc Chu, huyện Định Hóa và xã Yên Ninh, huyện Phú Lương)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Hát Pá dung của người Dao",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Bắc Kạn",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Rối cạn của người Tày ở Thẩm Rộc và Ru Nghệ",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Thái Nguyên (các xã Bình Yên và Đồng Thịnh, huyện Định Hóa)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Rối cạn Tế Tiêu",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Hà Nội",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Tết cá của người Tày",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Giang (huyện Yên Minh)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Tết Khu Cù Tê của người La Chí",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Giang (các huyện Xín Mần và Hoàng Su Phì)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Tết Nào pê chầu của người H'Mông đen",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Điện Biên (xã Mường Đăng, huyện Mường Ẳng)",
+      "year_inscribed": "2015"
+    },
+    {
+      "name": "Tết Nguyên tiêu của người Hoa",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Thành phố Hồ Chí Minh (Quận 5)",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Tết Nguyên Tiêu ở Hội An",
+      "type": "Lễ hội truyền thống, Tập quán xã hội và tín ngưỡng",
+      "location": "Quảng Nam (Thành phố Hội An)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Tết Sử giề pà của người Bố Y",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Lào Cai (huyện Mường Khương)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Tết té nước (Bun huột nặm) của người Lào",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Điện Biên (xã Núa Ngam, huyện Điện Biên)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Tết trung thu ở Hội An",
+      "type": "Lễ hội truyền thống, Tập quán xã hội và tín ngưỡng",
+      "location": "Quảng Nam (thành phố Hội An)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Tín ngưỡng thờ cúng Hùng Vương ở Phú Thọ (đồng thời là di sản văn hóa phi vật thể đại diện cho nhân loại)",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Phú Thọ",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Tín ngưỡng thờ Mẫu Âu Cơ",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Phú Thọ (Đền Mẫu Âu Cơ, xã Hiền Lương, huyện Hạ Hòa)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Tín ngưỡng thờ Mẫu Tây Thiên",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Vĩnh Phúc",
+      "year_inscribed": "2020"
+    },
+    {
+      "name": "Tranh dân gian Đông Hồ",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Bắc Ninh (phường Thuận Thành)",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Tri thức canh tác hốc đá của cư dân Cao nguyên đá Hà Giang",
+      "type": "Thi thức dân gian",
+      "location": "Hà Giang (các huyện Quản Bạ, Yên Minh, Đồng Văn và Mèo Vạc)",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Tri thức canh tác ruộng bậc thang của người Hà Nhì",
+      "type": "Tri thức dân gian",
+      "location": "Lào Cai (Huyện Bát Xát)",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Tri thức và tập quán trồng lúa nước của người Tày",
+      "type": "Tri thức dân gian, Tập quán xã hội và tín ngưỡng",
+      "location": "Tuyên Quang (Xã Lăng Can, xã Hồng Quang, xã Khuôn Hà, xã Thượng Lâm, xã Phúc Yên, huyện Lâm Bình)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Tri thức trồng và chế biến chè Tân Cương",
+      "type": "Nghề thủ công truyền thống",
+      "location": "Thái Nguyên (các xã Tân Cương, Phúc Trìu, Phúc Xuân, thành phố Thái Nguyên)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Tri thức về cọn nước của người Tày",
+      "type": "Tri thức dân gian, Tập quán xã hội và tín ngưỡng",
+      "location": "Tuyên Quang (Xã Trung Hà, xã Hà Lang, huyện Chiêm Hóa, xã Côn Lôn huyện Na Hang, xã Phúc Yên huyện Lâm Bình)",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Tri thức và kỹ thuật viết chữ trên lá buông của người Khmer",
+      "type": "Tri thức dân gian",
+      "location": "An Giang (huyện Tri Tôn, huyện Tịnh Biên)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Tri thức Lịch Đoi (Lịch tre) của người Mường",
+      "type": "Tri thức dân gian",
+      "location": "Hòa Bình",
+      "year_inscribed": "2022"
+    },
+    {
+      "name": "Trò diễn Pôồn Pôông của người Mường",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Thanh Hóa (xã Minh Sơn)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Ngũ trò Viên Khê (dân ca Đông Anh)",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Thanh Hóa (phường Đông Sơn)",
+      "year_inscribed": "2017"
+    },
+    {
+      "name": "Trò Xuân Phả",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Thanh Hóa (xã Thọ Xuân)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Trống trong nghi lễ của người H'Mông",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Lào Cai (huyện Mường Khương)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Tục chơi diều sáo trong lễ hội Sáo Đền",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Thái Bình",
+      "year_inscribed": "2019"
+    },
+    {
+      "name": "Tục cúng việc lề",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Long An",
+      "year_inscribed": "2014"
+    },
+    {
+      "name": "Tục thờ Tản Viên Sơn Thánh tại Ba Vì",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Hà Nội (huyện Ba Vì)",
+      "year_inscribed": "2018"
+    },
+    {
+      "name": "Văn hóa Chợ nổi Cái Răng",
+      "type": "Tập quán xã hội và tín ngưỡng",
+      "location": "Cần Thơ (quận Cái Răng)",
+      "year_inscribed": "2016"
+    },
+    {
+      "name": "Vovinam - Việt Võ Đạo",
+      "type": "Nghệ thuật trình diễn dân gian, Tri thức dân gian",
+      "location": "Thành phố Hồ Chí Minh",
+      "year_inscribed": "2023"
+    },
+    {
+      "name": "Võ cổ truyền Bình Định",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Bình Định",
+      "year_inscribed": "2012"
+    },
+    {
+      "name": "Võ Lâm Tân Khánh Bà Trà",
+      "type": "Tri thứ dân gian; Nghệ thuật trình diễn dân gian",
+      "location": "Bình Dương (phường Tân Phước Khánh, TX.Tân Uyên; phường Bình Chuẩn, phường Bình Nhâm, phường Bình Hòa, phường Hưng Định ở TP.Thuận An và phường Hiệp Thành, TP.Thủ Dầu Một)",
+      "year_inscribed": "2021"
+    },
+    {
+      "name": "Xường giao duyên của người Mường",
+      "type": "Nghệ thuật trình diễn dân gian",
+      "location": "Thanh Hóa (các xã Thạch Lập, Minh Sơn)",
+      "year_inscribed": "2019"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách Di sản văn hóa phi vật thể quốc gia Việt Nam - Free Download",
+    "description": "Các di sản văn hóa phi vật thể được ghi danh vào Danh mục Di sản văn hóa phi vật thể quốc gia của Việt Nam, kèm loại hình, địa điểm và năm ghi danh. Contains 532 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách Di sản văn hóa phi vật thể quốc gia Việt Nam | ListBase",
+    "seo_description": "Download Danh sách Di sản văn hóa phi vật thể quốc gia Việt Nam — 532 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 532 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_Di_s%E1%BA%A3n_v%C4%83n_h%C3%B3a_phi_v%E1%BA%ADt_th%E1%BB%83_qu%E1%BB%91c_gia_%28Vi%E1%BB%87t_Nam%29"
+    ]
+  }
+}
