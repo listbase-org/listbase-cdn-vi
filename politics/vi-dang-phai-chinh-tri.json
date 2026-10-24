@@ -1,0 +1,408 @@
+{
+  "id": "vi-dang-phai-chinh-tri",
+  "name": "Danh sách đảng phái chính trị Việt Nam",
+  "title": "Danh sách đảng phái chính trị Việt Nam",
+  "description": "Các đảng phái và tổ chức chính trị trong lịch sử Việt Nam, kèm tên khác, năm thành lập, lãnh đạo quan trọng và ghi chú.",
+  "category": "politics",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%91%E1%BA%A3ng_ph%C3%A1i_ch%C3%ADnh_tr%E1%BB%8B_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%91%E1%BA%A3ng_ph%C3%A1i_ch%C3%ADnh_tr%E1%BB%8B_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "other_name",
+      "label": "Other Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "key_leaders",
+      "label": "Key Leaders",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Việt Nam Quang phục Hội",
+      "other_name": "",
+      "founded": "1912",
+      "key_leaders": "Phan Bội Châu",
+      "note": "Tan rã tháng 5 năm 1925, sáp nhập hoàn toàn vào Việt Nam Phục quốc Đồng minh Hội năm 1939",
+      "period": "Thành lập trước 1930"
+    },
+    {
+      "name": "Tân Việt Thanh niên Đoàn",
+      "other_name": "Tâm Tâm Xã",
+      "founded": "1923",
+      "key_leaders": "Lê Hồng Phong",
+      "note": "Sáp nhập vào HVNCMTN năm 1925",
+      "period": "Thành lập trước 1930"
+    },
+    {
+      "name": "Đảng Lập hiến Đông Dương",
+      "other_name": "Parti Constitutionaliste Indochinois",
+      "founded": "1923",
+      "key_leaders": "Bùi Quang Chiêu",
+      "note": "Tan rã năm 1939",
+      "period": "Thành lập trước 1930"
+    },
+    {
+      "name": "Hội Việt Nam Cách mạng Thanh niên",
+      "other_name": "Việt Nam Thanh niên Cách mạng Đồng chí Hội",
+      "founded": "1925",
+      "key_leaders": "Nguyễn Ái Quốc",
+      "note": "Phân lập tháng 8 năm 1929",
+      "period": "Thành lập trước 1930"
+    },
+    {
+      "name": "Đảng Thanh niên Cao vọng",
+      "other_name": "Thanh niên Cao vọng Đảng; Hội kín Nguyễn An Ninh",
+      "founded": "1925",
+      "key_leaders": "Nguyễn An Ninh",
+      "note": "Tan rã năm 1928",
+      "period": "Thành lập trước 1930"
+    },
+    {
+      "name": "Tân Việt Cách mạng Đảng",
+      "other_name": "Đảng Phục Việt; Hội Hưng Nam (1925); Việt Nam Cách mạng Đảng; Việt Nam Cách mệnh Đảng (1926); Việt Nam Cách mạng Đồng chí Hội (1927); Đảng Tân Việt (1928)",
+      "founded": "1925",
+      "key_leaders": "Tôn Quang Phiệt",
+      "note": "Chuyển đổi sang ĐDCSLĐ tháng 9 năm 1929",
+      "period": "Thành lập trước 1930"
+    },
+    {
+      "name": "Đảng Thanh niên",
+      "other_name": "Thanh niên Đảng; Jeune Annam",
+      "founded": "1926",
+      "key_leaders": "Trần Huy Liệu",
+      "note": "Tan rã trong cùng năm",
+      "period": "Thành lập trước 1930"
+    },
+    {
+      "name": "Đông Dương Lao động Đảng",
+      "other_name": "",
+      "founded": "1926",
+      "key_leaders": "Cao Triều Phát",
+      "note": "Bị chính quyền thực dân giải tán tháng 12 năm 1929",
+      "period": "Thành lập trước 1930"
+    },
+    {
+      "name": "Đảng Việt Nam Độc lập",
+      "other_name": "An Nam Độc lập Đảng; Parti Annamite d'Indépendance - PAI",
+      "founded": "1927",
+      "key_leaders": "Nguyễn Thế Truyền",
+      "note": "Bị chính quyền thực dân giải tán tháng 12 năm 1929",
+      "period": "Thành lập trước 1930"
+    },
+    {
+      "name": "Việt Nam Quốc dân Đảng",
+      "other_name": "Việt Quốc",
+      "founded": "1927",
+      "key_leaders": "Nguyễn Thái Học",
+      "note": "Đã hình thành nhiều hệ phái, nhưng đã thống nhất tại Hải Ngoại cuối năm 1994 tại Hoa Kỳ.",
+      "period": "Thành lập trước 1930"
+    },
+    {
+      "name": "Đông Dương Cộng sản Đảng",
+      "other_name": "",
+      "founded": "1929",
+      "key_leaders": "Trịnh Đình Cửu",
+      "note": "sáp nhập với An Nam Cộng sản Đảng thành Đảng Cộng sản Việt Nam tháng 2 năm 1930.",
+      "period": "Thành lập trước 1930"
+    },
+    {
+      "name": "An Nam Cộng sản Đảng",
+      "other_name": "",
+      "founded": "1929",
+      "key_leaders": "Châu Văn Liêm",
+      "note": "sáp nhập với Đông Dương Cộng sản Đảng thành Đảng Cộng sản Việt Nam tháng 2 năm 1930.",
+      "period": "Thành lập trước 1930"
+    },
+    {
+      "name": "Đông Dương Cộng sản Liên đoàn",
+      "other_name": "",
+      "founded": "1929",
+      "key_leaders": "Võ Nguyên Giáp",
+      "note": "sáp nhập với Đảng Cộng sản Việt Nam ngày 24 tháng 2 năm 1930",
+      "period": "Thành lập trước 1930"
+    },
+    {
+      "name": "Đảng Cộng sản Việt Nam",
+      "other_name": "Đảng Cộng sản Đông Dương (1930); Hội nghiên cứu Chủ nghĩa Marx (1945); Đảng Lao động Việt Nam (1951)",
+      "founded": "1930",
+      "key_leaders": "Nguyễn Ái Quốc",
+      "note": "Đảng cầm quyền tại Việt Nam",
+      "period": "Thành lập 1930-1945"
+    },
+    {
+      "name": "Việt Nam Cách mệnh Đảng",
+      "other_name": "Đảng Cách mệnh An Nam; Việt Nam Quốc dân Cách mệnh Đảng; Đảng Quốc gia Cách mệnh An Nam",
+      "founded": "1930",
+      "key_leaders": "Lệnh Trạch Dân",
+      "note": "sáp nhập trở lại với Việt Nam Quốc dân Đảng ngày 15 tháng 7 năm 1932",
+      "period": "Thành lập 1930-1945"
+    },
+    {
+      "name": "Việt Nam Phục quốc Đồng minh Hội",
+      "other_name": "Phục quốc Hội, Việt Nam Độc lập Vận động Đồng minh Hội",
+      "founded": "1939",
+      "key_leaders": "Cường Để",
+      "note": "Tan rã năm 1945",
+      "period": "Thành lập 1930-1945"
+    },
+    {
+      "name": "Đại Việt Quốc gia Xã hội Đảng",
+      "other_name": "Đảng Đại Việt Quốc xã",
+      "founded": "1936",
+      "key_leaders": "Nguyễn Xuân Tiếu",
+      "note": "Bị chính quyền Việt Nam Dân chủ Cộng hòa giải tán và tan rã năm 1946",
+      "period": "Thành lập 1930-1945"
+    },
+    {
+      "name": "Đảng Dân chủ Đông Dương",
+      "other_name": "",
+      "founded": "1937",
+      "key_leaders": "Nguyễn Văn Thinh",
+      "note": "Tan rã năm 1939",
+      "period": "Thành lập 1930-1945"
+    },
+    {
+      "name": "Đại Việt Dân chính Đảng",
+      "other_name": "Đảng Hưng Việt",
+      "founded": "1938",
+      "key_leaders": "Nguyễn Tường Tam",
+      "note": "sáp nhập với Việt Nam Quốc dân Đảng tháng 5 năm 1945",
+      "period": "Thành lập 1930-1945"
+    },
+    {
+      "name": "Đảng Nhân dân Cách mạng",
+      "other_name": "",
+      "founded": "1940",
+      "key_leaders": "Trần Văn Ân",
+      "note": "Tan rã năm 1941, sáp nhập hoàn toàn với Việt Nam Quốc gia Độc lập Đảng tháng 5 năm 1945",
+      "period": "Thành lập 1930-1945"
+    },
+    {
+      "name": "Đại Việt Quốc dân đảng",
+      "other_name": "Đảng Đại Việt",
+      "founded": "1939",
+      "key_leaders": "Trương Tử Anh",
+      "note": "Tan rã năm 1965, tái lập năm 1972, tan rã lần thứ 2 năm 1975, tái lập lần thứ 2 năm 1995. Hiện tại hình thành nhiều hệ phái khác nhau.",
+      "period": "Thành lập 1930-1945"
+    },
+    {
+      "name": "Việt Nam Cách mệnh Đồng minh Hội",
+      "other_name": "Việt Cách",
+      "founded": "1942",
+      "key_leaders": "Nguyễn Hải Thần",
+      "note": "Tan rã năm 1946",
+      "period": "Thành lập 1930-1945"
+    },
+    {
+      "name": "Đại Việt Phục hưng Hội",
+      "other_name": "",
+      "founded": "1942",
+      "key_leaders": "Ngô Đình Diệm",
+      "note": "Tan rã năm 1945",
+      "period": "Thành lập 1930-1945"
+    },
+    {
+      "name": "Đảng Đại Việt Duy dân",
+      "other_name": "",
+      "founded": "1943",
+      "key_leaders": "Lý Đông A",
+      "note": "Tự giải tán năm 1946",
+      "period": "Thành lập 1930-1945"
+    },
+    {
+      "name": "Đảng Dân chủ Việt Nam",
+      "other_name": "",
+      "founded": "1944",
+      "key_leaders": "Dương Đức Hiền",
+      "note": "Tự giải tán năm 1988",
+      "period": "Thành lập 1930-1945"
+    },
+    {
+      "name": "Việt Nam Quốc gia Độc lập Đảng",
+      "other_name": "",
+      "founded": "1945",
+      "key_leaders": "Hồ Văn Ngà",
+      "note": "sáp nhập với Đảng Dân chủ Xã hội Việt Nam năm 1946",
+      "period": "Thành lập 1945-1954"
+    },
+    {
+      "name": "Đảng Xã hội Việt Nam",
+      "other_name": "",
+      "founded": "1946",
+      "key_leaders": "Nguyễn Xiển",
+      "note": "Tự giải tán năm 1988",
+      "period": "Thành lập 1945-1954"
+    },
+    {
+      "name": "Dân chủ Xã hội Đảng",
+      "other_name": "Đảng Dân chủ Xã hội Việt Nam; Đảng Dân Xã; Dân Xã Đảng Hòa Hảo",
+      "founded": "1946",
+      "key_leaders": "Huỳnh Phú Sổ",
+      "note": "",
+      "period": "Thành lập 1945-1954"
+    },
+    {
+      "name": "Đảng Cần lao Nhân vị",
+      "other_name": "Công nông Chánh Đảng (1953); Cần lao Nhân vị Cách mạng Đảng",
+      "founded": "1953",
+      "key_leaders": "Ngô Đình Nhu",
+      "note": "Bị chính quyền Việt Nam Cộng hòa giải tán và tan rã năm 1963",
+      "period": "Thành lập 1945-1954"
+    },
+    {
+      "name": "Đảng Phục hưng",
+      "other_name": "",
+      "founded": "1954",
+      "key_leaders": "Trần Văn Hương",
+      "note": "Giải tán năm 1963",
+      "period": "Thành lập 1954-1975"
+    },
+    {
+      "name": "Đảng Xã hội cấp tiến Miền Nam",
+      "other_name": "",
+      "founded": "1961",
+      "key_leaders": "Nguyễn Văn Hiếu",
+      "note": "sáp nhập trở lại với Đảng Xã hội Việt Nam năm 1975",
+      "period": "Thành lập 1954-1975"
+    },
+    {
+      "name": "Đảng Nhân dân cách mạng Miền Nam Việt Nam",
+      "other_name": "",
+      "founded": "1962",
+      "key_leaders": "Nguyễn Văn Linh",
+      "note": "sáp nhập trở lại với Đảng Lao động Việt Nam năm 1975",
+      "period": "Thành lập 1954-1975"
+    },
+    {
+      "name": "Đảng Tân Đại Việt",
+      "other_name": "Tân Đại Việt",
+      "founded": "1964",
+      "key_leaders": "Nguyễn Ngọc Huy",
+      "note": "Tách ra từ Đại Việt Quốc dân đảng, tan rã năm 1975, tái lập ở hải ngoại năm 1981, tan rã năm 1990, tái lập lần nữa vào năm 1992, tan rã năm 1993, tái lập năm 2002.",
+      "period": "Thành lập 1954-1975"
+    },
+    {
+      "name": "Đại Việt Cách mạng Đảng",
+      "other_name": "Đảng Đại Việt Cách mạng",
+      "founded": "1965",
+      "key_leaders": "Hà Thúc Ký",
+      "note": "Tách ra từ Đại Việt Quốc dân đảng, tan rã năm 1975, tái lập ở hải ngoại năm 1988. Hiện tại hình thành 2 hệ phái khái nhau.",
+      "period": "Thành lập 1954-1975"
+    },
+    {
+      "name": "Đảng Dân chủ",
+      "other_name": "",
+      "founded": "1967",
+      "key_leaders": "Nguyễn Văn Thiệu",
+      "note": "Bị chính quyền Cộng hòa miền Nam Việt Nam giải tán và tan rã năm 1975",
+      "period": "Thành lập 1954-1975"
+    },
+    {
+      "name": "Việt Nam Nhân xã Cách mạng Đảng",
+      "other_name": "Nhân xã Đảng, Đảng Nhân xã",
+      "founded": "1967",
+      "key_leaders": "Trương Công Cừu",
+      "note": "Bị chính quyền Cộng hòa miền Nam Việt Nam giải tán và tan rã năm 1975",
+      "period": "Thành lập 1954-1975"
+    },
+    {
+      "name": "Đảng Công Nông Việt Nam",
+      "other_name": "",
+      "founded": "1969",
+      "key_leaders": "Trần Quốc Bửu",
+      "note": "Bị chính quyền Cộng hòa miền Nam Việt Nam giải tán và tan rã năm 1975",
+      "period": "Thành lập 1954-1975"
+    },
+    {
+      "name": "Việt Nam Canh tân Cách mạng Đảng",
+      "other_name": "Đảng Việt Tân",
+      "founded": "1982",
+      "key_leaders": "Hoàng Cơ Minh",
+      "note": "",
+      "period": "Thành lập sau 1975"
+    },
+    {
+      "name": "Đảng Nhân dân Hành động Việt Nam",
+      "other_name": "",
+      "founded": "1991",
+      "key_leaders": "Nguyễn Sỹ Bình",
+      "note": "",
+      "period": "Thành lập sau 1975"
+    },
+    {
+      "name": "Đảng Dân tộc Việt Nam",
+      "other_name": "",
+      "founded": "2003",
+      "key_leaders": "Nguyễn Hữu Chánh",
+      "note": "",
+      "period": "Thành lập sau 1975"
+    },
+    {
+      "name": "Đảng Dân chủ Nhân dân",
+      "other_name": "",
+      "founded": "2004",
+      "key_leaders": "Đỗ Công Thành",
+      "note": "Không rõ tình trạng hoạt động",
+      "period": "Thành lập sau 1975"
+    },
+    {
+      "name": "Đảng Dân chủ Việt Nam",
+      "other_name": "Đảng Dân chủ 21",
+      "founded": "2006",
+      "key_leaders": "Hoàng Minh Chính",
+      "note": "Hiện tại hình thành 3 hệ phái khác nhau.",
+      "period": "Thành lập sau 1975"
+    },
+    {
+      "name": "Đảng Vì dân",
+      "other_name": "",
+      "founded": "2006",
+      "key_leaders": "Nguyễn Công Bằng",
+      "note": "Không rõ tình trạng hoạt động",
+      "period": "Thành lập sau 1975"
+    },
+    {
+      "name": "Đảng Thăng Tiến Việt Nam",
+      "other_name": "",
+      "founded": "2006",
+      "key_leaders": "",
+      "note": "Không rõ tình trạng hoạt động",
+      "period": "Thành lập sau 1975"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách đảng phái chính trị Việt Nam - Free Download",
+    "description": "Các đảng phái và tổ chức chính trị trong lịch sử Việt Nam, kèm tên khác, năm thành lập, lãnh đạo quan trọng và ghi chú. Contains 44 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách đảng phái chính trị Việt Nam | ListBase",
+    "seo_description": "Download Danh sách đảng phái chính trị Việt Nam — 44 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 44 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%91%E1%BA%A3ng_ph%C3%A1i_ch%C3%ADnh_tr%E1%BB%8B_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}

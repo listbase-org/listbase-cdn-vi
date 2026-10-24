@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-24T02:15:38.243Z",
-  "total_datasets": 505,
-  "total_records": 119791,
+  "generated": "2026-10-24T02:15:40.712Z",
+  "total_datasets": 506,
+  "total_records": 119835,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -3416,6 +3416,33 @@
         "xlsx": {
           "name": "vi-dai-hoi-dang-cong-san_VI.xlsx",
           "size": 9444
+        }
+      }
+    },
+    {
+      "id": "vi-dang-phai-chinh-tri",
+      "name": "Danh sách đảng phái chính trị Việt Nam",
+      "category": "politics",
+      "record_count": 44,
+      "columns": [
+        "name",
+        "other_name",
+        "founded",
+        "key_leaders",
+        "note",
+        "period"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%91%E1%BA%A3ng_ph%C3%A1i_ch%C3%ADnh_tr%E1%BB%8B_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 15280,
+      "files": {
+        "csv": {
+          "name": "vi-dang-phai-chinh-tri_VI.csv",
+          "size": 8017
+        },
+        "xlsx": {
+          "name": "vi-dang-phai-chinh-tri_VI.xlsx",
+          "size": 9911
         }
       }
     },
