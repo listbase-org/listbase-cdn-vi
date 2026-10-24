@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-24T02:15:27.991Z",
-  "total_datasets": 501,
-  "total_records": 119439,
+  "generated": "2026-10-24T02:15:30.554Z",
+  "total_datasets": 502,
+  "total_records": 119452,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -2915,6 +2915,34 @@
         "xlsx": {
           "name": "vi-di-tich-quoc-gia-dac-biet_VI.xlsx",
           "size": 138580
+        }
+      }
+    },
+    {
+      "id": "vi-hoang-de-nha-nguyen",
+      "name": "Danh sách hoàng đế nhà Nguyễn",
+      "category": "history",
+      "record_count": 13,
+      "columns": [
+        "stt",
+        "temple_name",
+        "posthumous_name",
+        "personal_name",
+        "life",
+        "era_name",
+        "note"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_ho%C3%A0ng_%C4%91%E1%BA%BF_nh%C3%A0_Nguy%E1%BB%85n",
+      "updated": "2026-10",
+      "size": 7398,
+      "files": {
+        "csv": {
+          "name": "vi-hoang-de-nha-nguyen_VI.csv",
+          "size": 3590
+        },
+        "xlsx": {
+          "name": "vi-hoang-de-nha-nguyen_VI.xlsx",
+          "size": 8889
         }
       }
     },

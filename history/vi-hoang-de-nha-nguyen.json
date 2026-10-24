@@ -1,0 +1,178 @@
+{
+  "id": "vi-hoang-de-nha-nguyen",
+  "name": "Danh sách hoàng đế nhà Nguyễn",
+  "title": "Danh sách hoàng đế nhà Nguyễn",
+  "description": "13 vị hoàng đế triều Nguyễn (1802–1945), kèm miếu hiệu, thụy hiệu, tên húy, năm sinh–mất và niên hiệu.",
+  "category": "history",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_ho%C3%A0ng_%C4%91%E1%BA%BF_nh%C3%A0_Nguy%E1%BB%85n",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_ho%C3%A0ng_%C4%91%E1%BA%BF_nh%C3%A0_Nguy%E1%BB%85n",
+  "updated": "2026-10",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "temple_name",
+      "label": "Temple Name",
+      "type": "string"
+    },
+    {
+      "key": "posthumous_name",
+      "label": "Posthumous Name",
+      "type": "string"
+    },
+    {
+      "key": "personal_name",
+      "label": "Personal Name",
+      "type": "string"
+    },
+    {
+      "key": "life",
+      "label": "Life",
+      "type": "string"
+    },
+    {
+      "key": "era_name",
+      "label": "Era Name",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 1,
+      "temple_name": "Thế Tổ 世祖",
+      "posthumous_name": "Khai Thiên Hoằng Đạo Lập Kỷ Thùy Thống Thần Văn Thánh Vũ Tuấn Đức Long Công Chí nhân Đại Hiếu Cao hoàng đế (開天弘道立紀垂統神文聖武峻德隆功至仁大孝高皇帝)",
+      "personal_name": "Nguyễn Phúc Ánh; 阮福暎, 阮福映, Nguyễn Chủng 阮種",
+      "life": "1762-1820",
+      "era_name": "Gia Long (嘉隆: 1802-1820)",
+      "note": "Sáng lập nhà Nguyễn."
+    },
+    {
+      "stt": 2,
+      "temple_name": "Thánh Tổ; 聖祖",
+      "posthumous_name": "Thể Thiên Xương Vận Chí Hiếu Thuần Đức Văn Vũ Minh Đoán Sáng Thuật Đại Thành Hậu Trạch Phong Công Nhân hoàng đế (體天昌運至孝純德文武明斷創述大成厚澤豐功仁皇帝)",
+      "personal_name": "Nguyễn Phúc Đảm; 阮福膽, Nguyễn Phúc Kiểu 阮福皎",
+      "life": "1791-1841",
+      "era_name": "Minh Mạng (明命: 1820 - 1841)",
+      "note": ""
+    },
+    {
+      "stt": 3,
+      "temple_name": "Hiến Tổ 憲祖",
+      "posthumous_name": "Thiệu Thiên Long Vận Chí Thiện Thuần Hiếu Khoan Minh Duệ Đoán Văn Trị Vũ Công Thánh Triết Chương hoàng đế (紹天隆運至善純孝寬明睿斷文治武功聖哲章皇帝)",
+      "personal_name": "Nguyễn Phúc Miên Tông; 阮福綿宗, Nguyễn Phúc Tuyền 阮福暶",
+      "life": "1807-1847",
+      "era_name": "Thiệu Trị (紹治: 1841 - 1847)",
+      "note": ""
+    },
+    {
+      "stt": 4,
+      "temple_name": "Dực Tông 翼宗",
+      "posthumous_name": "Thế Thiên Hanh Vận Chí Thành Đạt Hiếu Thể Kiện Đôn Nhân Khiêm Cung Minh Lược Duệ Văn Anh hoàng đế (世天亨運至誠達孝體健敦仁謙恭明略睿文英皇帝)",
+      "personal_name": "Nguyễn Phúc Hồng Nhậm; 阮福洪任, Nguyễn Phúc Thì 阮福時",
+      "life": "1829-1883",
+      "era_name": "Tự Đức (嗣德:1847-1883)",
+      "note": ""
+    },
+    {
+      "stt": 5,
+      "temple_name": "Cung Tông 恭宗",
+      "posthumous_name": "Khoan Nhân Duệ Triết Tĩnh Minh Huệ hoàng đế (寬仁睿哲靜明惠皇帝)",
+      "personal_name": "Nguyễn Phúc Ưng Chân; 阮福膺禛",
+      "life": "1852-1883",
+      "era_name": "Không có",
+      "note": "Sử gọi ông là vua Dục Đức không phải vì đó là niên hiệu của ông mà vì ông bị giam ở Dục Đức Đường (育德堂) khi bị phế truất sau khi lên ngôi chỉ được 3 ngày."
+    },
+    {
+      "stt": 6,
+      "temple_name": "Không có",
+      "posthumous_name": "Trang Cung Văn Lãng quận vương (莊恭文朗郡王) Phế Đế (废帝)",
+      "personal_name": "Nguyễn Phúc Hồng Dật; 阮福洪佚, Nguyễn Phúc Thăng 阮福昇",
+      "life": "1847-1883",
+      "era_name": "Hiệp Hòa (協和:1883)",
+      "note": ""
+    },
+    {
+      "stt": 7,
+      "temple_name": "Giản Tông 簡宗",
+      "posthumous_name": "Thiệu Đức Chí Hiếu Uyên Duệ Nghị hoàng đế (绍德止孝渊睿毅皇帝)",
+      "personal_name": "Nguyễn Phúc Ưng Đăng; 阮福膺登, Nguyễn Ưng Đăng 阮膺登",
+      "life": "1869-1884",
+      "era_name": "Kiến Phúc (建福:1883-1884)",
+      "note": ""
+    },
+    {
+      "stt": 8,
+      "temple_name": "Không có",
+      "posthumous_name": "Xuất Đế (出帝)",
+      "personal_name": "Nguyễn Phúc Ưng Lịch; 阮福膺𧰡, Nguyễn Phúc Minh 阮福明",
+      "life": "1872-1943",
+      "era_name": "Hàm Nghi (咸宜:1884-1885)",
+      "note": ""
+    },
+    {
+      "stt": 9,
+      "temple_name": "Cảnh Tông 景宗",
+      "posthumous_name": "Hoằng Liệt Thống Thiết Mẫn Huệ Thuần hoàng đế (弘烈統哲敏惠純皇帝)",
+      "personal_name": "Nguyễn Phúc Ưng Kỷ; 阮福膺祺",
+      "life": "1864-1889",
+      "era_name": "Đồng Khánh (同慶:1885-1889)",
+      "note": ""
+    },
+    {
+      "stt": 10,
+      "temple_name": "Không có",
+      "posthumous_name": "Hoài Trạch công (懷澤公) Phế Đế (废帝)",
+      "personal_name": "Nguyễn Phúc Bửu Lân; 阮福寶嶙",
+      "life": "1879-1954",
+      "era_name": "Thành Thái (成泰:1889-1907)",
+      "note": ""
+    },
+    {
+      "stt": 11,
+      "temple_name": "Không có",
+      "posthumous_name": "Phế Đế (废帝)",
+      "personal_name": "Nguyễn Phúc Vĩnh San; 阮福永珊",
+      "life": "1900-1945",
+      "era_name": "Duy Tân (維新: 1907 - 1916)",
+      "note": ""
+    },
+    {
+      "stt": 12,
+      "temple_name": "Hoằng Tông 弘宗",
+      "posthumous_name": "Tự Thiên Gia Vận Thánh Minh Thần Trí Nhân Hiếu Thành Kính Di Mô Thừa Liệt Tuyên hoàng đế (嗣天嘉運聖明神智仁孝誠敬貽謨承烈宣皇帝)",
+      "personal_name": "Nguyễn Phúc Bửu Đảo; 阮福寶嶹",
+      "life": "1885-1925",
+      "era_name": "Khải Định (啓定: 1916 - 1925)",
+      "note": ""
+    },
+    {
+      "stt": 13,
+      "temple_name": "Không có",
+      "posthumous_name": "Không có",
+      "personal_name": "Nguyễn Phúc Vĩnh Thụy; 阮福永瑞",
+      "life": "1913-1997",
+      "era_name": "Bảo Đại (保大: 1925 - 1945)",
+      "note": "Là vị hoàng đế cuối cùng của triều Nguyễn và chế độ quân chủ tại Việt Nam."
+    }
+  ],
+  "meta": {
+    "title": "Danh sách hoàng đế nhà Nguyễn - Free Download",
+    "description": "13 vị hoàng đế triều Nguyễn (1802–1945), kèm miếu hiệu, thụy hiệu, tên húy, năm sinh–mất và niên hiệu. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách hoàng đế nhà Nguyễn | ListBase",
+    "seo_description": "Download Danh sách hoàng đế nhà Nguyễn — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_ho%C3%A0ng_%C4%91%E1%BA%BF_nh%C3%A0_Nguy%E1%BB%85n"
+    ]
+  }
+}
