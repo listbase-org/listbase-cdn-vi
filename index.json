@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-24T02:15:20.833Z",
-  "total_datasets": 498,
-  "total_records": 119260,
+  "generated": "2026-10-24T02:15:23.142Z",
+  "total_datasets": 499,
+  "total_records": 119351,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -546,6 +546,33 @@
         "xlsx": {
           "name": "vi-rap-chieu-phim_VI.xlsx",
           "size": 7726
+        }
+      }
+    },
+    {
+      "id": "vi-cong-ty-viet-nam",
+      "name": "Danh sách công ty Việt Nam",
+      "category": "economy",
+      "record_count": 91,
+      "columns": [
+        "name",
+        "industry",
+        "sector",
+        "headquarters",
+        "founded",
+        "note"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C3%B4ng_ty_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 24133,
+      "files": {
+        "csv": {
+          "name": "vi-cong-ty-viet-nam_VI.csv",
+          "size": 11734
+        },
+        "xlsx": {
+          "name": "vi-cong-ty-viet-nam_VI.xlsx",
+          "size": 11845
         }
       }
     },

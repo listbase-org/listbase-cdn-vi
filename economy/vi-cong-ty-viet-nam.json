@@ -1,0 +1,784 @@
+{
+  "id": "vi-cong-ty-viet-nam",
+  "name": "Danh sách công ty Việt Nam",
+  "title": "Danh sách công ty Việt Nam",
+  "description": "Các công ty, tập đoàn tiêu biểu của Việt Nam theo ngành, lĩnh vực, trụ sở và năm thành lập.",
+  "category": "economy",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C3%B4ng_ty_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C3%B4ng_ty_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 91,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "industry",
+      "label": "Industry",
+      "type": "string"
+    },
+    {
+      "key": "sector",
+      "label": "Sector",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Air Mekong",
+      "industry": "Dịch vụ dân dụng",
+      "sector": "Hàng không",
+      "headquarters": "Phú Quốc",
+      "founded": 2009,
+      "note": "Dừng hoạt động từ năm 2013"
+    },
+    {
+      "name": "Appota",
+      "industry": "Công nghệ",
+      "sector": "Phần mềm",
+      "headquarters": "Hà Nội",
+      "founded": 2011,
+      "note": "Ứng dụng di động"
+    },
+    {
+      "name": "Ngân hàng thương mại cổ phần Á Châu (ACB)",
+      "industry": "Tài chính",
+      "sector": "Ngân hàng",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 1993,
+      "note": "Ngân hàng tư nhân"
+    },
+    {
+      "name": "Ngân hàng Đầu tư và Phát triển Việt Nam (BIDV)",
+      "industry": "Tài chính",
+      "sector": "Ngân hàng",
+      "headquarters": "Hà Nội",
+      "founded": 1957,
+      "note": "Ngân hàng nhà nước"
+    },
+    {
+      "name": "Tập đoàn Tài chính-Bảo hiểm Bảo Việt",
+      "industry": "Tài chính",
+      "sector": "Bảo hiểm trọn bộ",
+      "headquarters": "Hà Nội",
+      "founded": 1964,
+      "note": "(bao gồm Tổng Công ty Bảo hiểm Bảo Việt, Tổng Công ty Bảo Việt Nhân thọ, Công ty cổ phần Chứng khoán Bảo Việt, Ngân hàng cổ phần Bảo Việt)"
+    },
+    {
+      "name": "Công ty Cổ phần Dược - Trang thiết bị y tế Bình Định (Bidiphar)",
+      "industry": "Chăm sóc sức khỏe",
+      "sector": "Dược phẩm",
+      "headquarters": "thành phố Quy Nhơn, tỉnh Bình Định",
+      "founded": 1995,
+      "note": "Y dược"
+    },
+    {
+      "name": "Công ty Cổ phần Đường Biên Hòa",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Thực phẩm",
+      "headquarters": "thành phố Biên Hòa, tỉnh Đồng Nai",
+      "founded": 1969,
+      "note": "Mía đường"
+    },
+    {
+      "name": "Công ty cổ phần chứng Khoán Biển Việt",
+      "industry": "Tài chính",
+      "sector": "Dịch vụ đầu tư",
+      "headquarters": "Hà Nội",
+      "founded": 2006,
+      "note": "Đầu tư"
+    },
+    {
+      "name": "Công ty Cổ phần Nhựa Bình Minh",
+      "industry": "Vật liệu thô",
+      "sector": "Nguyên liệu hóa chất",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 1977,
+      "note": "Nhựa"
+    },
+    {
+      "name": "Công ty Cổ phần Công nghiệp Cao su Miền Nam (Casumina)",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Săm lốp",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 1976,
+      "note": "Săm lốp, cao su"
+    },
+    {
+      "name": "Công ty Cát Tiên Sa",
+      "industry": "Dịch vụ tiêu dùng",
+      "sector": "Truyền thông - Giải trí",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 1999,
+      "note": ""
+    },
+    {
+      "name": "Công ty Trực thăng Miền Trung",
+      "industry": "Dịch vụ tiêu dùng",
+      "sector": "Hàng không",
+      "headquarters": "Đà Nẵng",
+      "founded": 1989,
+      "note": "Cho thuê máy bay trực thăng"
+    },
+    {
+      "name": "Công ty Cổ phần Xuất nhập khẩu Thủy sản Cửu Long An Giang",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Trồng trọt - Đánh bắt cá",
+      "headquarters": "thành phố Long Xuyên, tỉnh An Giang",
+      "founded": 2003,
+      "note": "Đánh cá"
+    },
+    {
+      "name": "Công ty Cổ phần Đại Cát Tường",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Quần áo và phụ kiện",
+      "headquarters": "Thành phố Quảng Ngãi, tỉnh Quảng Ngãi",
+      "founded": 2005,
+      "note": "Dệt may, trực thuộc Tập đoàn Dệt May Việt Nam"
+    },
+    {
+      "name": "Công ty Cổ phần Cao su Đà Nẵng (DRC)",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Săm lốp",
+      "headquarters": "Đà Nẵng",
+      "founded": 1975,
+      "note": "Săm lốp, cao su"
+    },
+    {
+      "name": "Tập đoàn FPT",
+      "industry": "Công nghệ",
+      "sector": "Phần mềm",
+      "headquarters": "Hà Nội",
+      "founded": 1988,
+      "note": "Tư vấn và phát triển công nghệ thông tin"
+    },
+    {
+      "name": "Gmobile",
+      "industry": "Viễn thông",
+      "sector": "Viễn thông di động",
+      "headquarters": "Hà Nội",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Tổng công ty Cổ phần Bia – Rượu – Nước giải khát Hà Nội (Habeco)",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Nấu bia",
+      "headquarters": "Hà Nội",
+      "founded": "",
+      "note": "(Bia Hà Nội)"
+    },
+    {
+      "name": "Công ty Cổ phần Giấy Hải Âu",
+      "industry": "Vật liệu thô",
+      "sector": "Giấy",
+      "headquarters": "Hải Phòng",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Công ty cổ phần bánh kẹo Hải Hà",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Thực phẩm",
+      "headquarters": "Hà Nội",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Đài Phát thanh - Truyền hình Hà Nội",
+      "industry": "Dịch vụ tiêu dùng",
+      "sector": "Phát sóng - Giải trí",
+      "headquarters": "Hà Nội",
+      "founded": 1954,
+      "note": ""
+    },
+    {
+      "name": "Công ty cổ phần Sữa Hà Nội (Hanoimilk)",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Đồ uống",
+      "headquarters": "Vĩnh Phúc",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Highlands Coffee",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Nhà hàng - Quán bar",
+      "headquarters": "Hà Nội",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Công ty Cổ phần Bê tông Hoà Cầm (Intimex)",
+      "industry": "Công nghiệp",
+      "sector": "Vật liệu xây dựng và thiết bị cố định",
+      "headquarters": "Đà Nẵng",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Tập đoàn Hoàng Anh Gia Lai",
+      "industry": "Tập đoàn",
+      "sector": "",
+      "headquarters": "thành phố Pleiku, tỉnh Gia Lai",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Đài Truyền hình Thành phố Hồ Chí Minh (HTV)",
+      "industry": "Dịch vụ tiêu dùng",
+      "sector": "Phát sóng - Giải trí",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 1966,
+      "note": ""
+    },
+    {
+      "name": "Công ty Trách nhiệm hữu hạn Bia Huế (Huda)",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Nấu bia",
+      "headquarters": "thành phố Huế, tỉnh Thừa Thiên – Huế",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Indochina Airlines",
+      "industry": "Dịch vụ dân dụng",
+      "sector": "Hàng không",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": "",
+      "note": "Dừng hoạt động từ năm 2009"
+    },
+    {
+      "name": "Jetstar Pacific",
+      "industry": "Dịch vụ dân dụng",
+      "sector": "Hàng không",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Khaisilk",
+      "industry": "Dịch vụ tiêu dùng",
+      "sector": "Nhà hàng - Quán bar",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Nhà xuất bản Kim Đồng",
+      "industry": "Dịch vụ tiêu dùng",
+      "sector": "Xuất bản",
+      "headquarters": "Đà Nẵng",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Công ty cổ phần Kinh Đô",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Thực phẩm",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Ngân hàng thương mại cổ phần Bưu điện Liên Việt (LienVietPostBank)",
+      "industry": "Tài chính",
+      "sector": "Ngân hàng",
+      "headquarters": "Hà Nội",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Mekong Capital",
+      "industry": "Tài chính",
+      "sector": "Công cụ đầu tư vốn cổ phần",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Tổng công ty Viễn thông MobiFone",
+      "industry": "Viễn thông",
+      "sector": "Viễn thông di động",
+      "headquarters": "Hà Nội",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Công ty Liên doanh nuôi và phát triển Khỉ Việt Nam (Nafovanny)",
+      "industry": "Chăm sóc sức khỏe",
+      "sector": "Công nghệ sinh học",
+      "headquarters": "Thị trấn Long Thành, tỉnh Đồng Nai",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Công ty Trực thăng miền Bắc",
+      "industry": "Dịch vụ dân dụng",
+      "sector": "Hàng không",
+      "headquarters": "Hà Nội",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Ngân hàng thương mại cổ phần Phương Đông (OCB)",
+      "industry": "Tài chính",
+      "sector": "Ngân hàng",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Tập đoàn Xăng dầu Việt Nam (Petrolimex)",
+      "industry": "Dầu khí",
+      "sector": "Chiết xuất dầu khí",
+      "headquarters": "Hà Nội",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Tổng công ty Gas Petrolimex",
+      "industry": "Dầu khí",
+      "sector": "Chiết xuất dầu khí",
+      "headquarters": "Hà Nội",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Tập đoàn Dầu khí Việt Nam (Petrovietnam)",
+      "industry": "Dầu khí",
+      "sector": "Chiết xuất dầu khí",
+      "headquarters": "Hà Nội",
+      "founded": 1977,
+      "note": ""
+    },
+    {
+      "name": "Tổng Công ty Tài chính Cổ phần Dầu khí Việt Nam (PVFC)",
+      "industry": "Tài chính",
+      "sector": "Tài chính chuyên biệt",
+      "headquarters": "Hà Nội",
+      "founded": 2000,
+      "note": ""
+    },
+    {
+      "name": "Tổng công ty Cổ phần Bảo hiểm Dầu khí Việt Nam (PVI)",
+      "industry": "Bảo hiểm",
+      "sector": "Bảo hiểm trọn bộ",
+      "headquarters": "Hà Nội",
+      "founded": 1996,
+      "note": ""
+    },
+    {
+      "name": "Công ty Trách nhiệm hữu hạn Phát triển Phú Mỹ Hưng",
+      "industry": "Công nghiệp",
+      "sector": "Xây dựng công nghiệp nặng",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 1993,
+      "note": ""
+    },
+    {
+      "name": "Công ty Cổ phần Sản xuất Thương mại Dịch vụ Phú Phong",
+      "industry": "Công nghiệp",
+      "sector": "Vật liệu xây dựng và thiết bị cố định",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Hãng phim Phước Sang",
+      "industry": "Dịch vụ tiêu dùng",
+      "sector": "Phát sóng - Giải trí",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 2004,
+      "note": ""
+    },
+    {
+      "name": "Tổng công ty Cổ phần Bảo hiểm Petrolimex (PJICO)",
+      "industry": "Tài chính",
+      "sector": "Bảo hiểm trọn bộ",
+      "headquarters": "Hà Nội",
+      "founded": 1995,
+      "note": ""
+    },
+    {
+      "name": "Tổng công ty Bia - Rượu - Nước giải khát Sài Gòn (Sabeco)",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Nấu bia",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 1977,
+      "note": "(Bia Sài Gòn)"
+    },
+    {
+      "name": "Tổng công ty Du lịch Sài Gòn (Saigontourist)",
+      "industry": "Dịch vụ tiêu dùng",
+      "sector": "Du lịch - Lữ hành",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 1975,
+      "note": ""
+    },
+    {
+      "name": "Công ty Cổ phần Cao su Sao vàng",
+      "industry": "Vật liệu thô",
+      "sector": "Nguyên liệu hóa chất",
+      "headquarters": "Hà Nội",
+      "founded": "",
+      "note": ""
+    },
+    {
+      "name": "Công ty Cổ phần Sara Việt Nam",
+      "industry": "Công nghiệp",
+      "sector": "Đào tạo kinh doanh",
+      "headquarters": "Hà Nội",
+      "founded": 2002,
+      "note": "Giáo dục công nghệ"
+    },
+    {
+      "name": "Công ty Cổ phần Hợp tác kinh tế và Xuất nhập khẩu Savimex",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Trang bị đồ đạc",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 1985,
+      "note": ""
+    },
+    {
+      "name": "S-Fone",
+      "industry": "Viễn thông",
+      "sector": "Viễn thông di động",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 2003,
+      "note": ""
+    },
+    {
+      "name": "Công ty Cổ phần Giống Cây trồng Miền Nam",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Trồng trọt - Đánh bắt cá",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 1998,
+      "note": ""
+    },
+    {
+      "name": "Công ty Trực thăng Miền Nam",
+      "industry": "Dịch vụ dân dụng",
+      "sector": "Hàng không",
+      "headquarters": "Thành phố Vũng Tàu, tỉnh Bà Rịa – Vũng Tàu",
+      "founded": 1998,
+      "note": ""
+    },
+    {
+      "name": "Tập đoàn Tân Tạo",
+      "industry": "Công nghiệp",
+      "sector": "Xây dựng công nghiệp nặng",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 1996,
+      "note": ""
+    },
+    {
+      "name": "Công ty Trách nhiệm hữu hạn Thương mại Tín Dân",
+      "industry": "Dịch vụ tiêu dùng",
+      "sector": "Chống hàng giả và máy móc tự động",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": "",
+      "note": "TND Company"
+    },
+    {
+      "name": "Nhà xuất bản Thế Giới",
+      "industry": "Dịch vụ tiêu dùng",
+      "sector": "Xuất bản",
+      "headquarters": "Hà Nội",
+      "founded": 1957,
+      "note": ""
+    },
+    {
+      "name": "TMA Solutions",
+      "industry": "Công nghệ",
+      "sector": "",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 1997,
+      "note": ""
+    },
+    {
+      "name": "Nhà xuất bản Trẻ",
+      "industry": "Dịch vụ tiêu dùng",
+      "sector": "Nhà xuất bản",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 1986,
+      "note": ""
+    },
+    {
+      "name": "Trung Nguyên",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Đồ ăn thức uống",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 1996,
+      "note": ""
+    },
+    {
+      "name": "TVM Comics",
+      "industry": "Dịch vụ tiêu dùng",
+      "sector": "Truyền thông",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 2007,
+      "note": ""
+    },
+    {
+      "name": "Ngân hàng thương mại cổ phần Ngoại thương Việt Nam (Vietcombank)",
+      "industry": "Tài chính",
+      "sector": "Ngân hàng",
+      "headquarters": "Hà Nội",
+      "founded": 1963,
+      "note": ""
+    },
+    {
+      "name": "Ngân hàng Thương mại cổ phần Công Thương Việt Nam (VietinBank)",
+      "industry": "Tài chính",
+      "sector": "Ngân hàng",
+      "headquarters": "Hà Nội",
+      "founded": 1988,
+      "note": ""
+    },
+    {
+      "name": "Công ty Cổ phần Hàng không VietJet (VietJet Air)",
+      "industry": "Dịch vụ dân dụng",
+      "sector": "Du lịch và thư giãn",
+      "headquarters": "Hà Nội",
+      "founded": 2011,
+      "note": ""
+    },
+    {
+      "name": "Công ty bay dịch vụ hàng không (VASCO)",
+      "industry": "Dịch vụ dân dụng",
+      "sector": "Du lịch và thư giãn",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 1987,
+      "note": ""
+    },
+    {
+      "name": "Hãng hàng không Quốc gia Việt Nam (Vietnam Airlines)",
+      "industry": "Dịch vụ dân dụng",
+      "sector": "Du lịch và thư giãn",
+      "headquarters": "Hà Nội",
+      "founded": 1956,
+      "note": "Hãng hàng không quốc gia"
+    },
+    {
+      "name": "Công ty Quản lý Quỹ đầu tư Việt Nam",
+      "industry": "Tài chính",
+      "sector": "",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 2006,
+      "note": ""
+    },
+    {
+      "name": "Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam (Agribank)",
+      "industry": "Tài chính",
+      "sector": "Ngân hàng",
+      "headquarters": "Hà Nội",
+      "founded": 1988,
+      "note": "(Agribank)"
+    },
+    {
+      "name": "Tập đoàn Điện lực Việt Nam (EVN)",
+      "industry": "Cơ sở hạ tầng",
+      "sector": "Điện",
+      "headquarters": "Hà Nội",
+      "founded": 1954,
+      "note": ""
+    },
+    {
+      "name": "Tổng Công ty Trực thăng Việt Nam (VNH)",
+      "industry": "Dịch vụ dân dụng",
+      "sector": "Du lịch và giải trí",
+      "headquarters": "Hà Nội",
+      "founded": 1979,
+      "note": "Hãng hàng không lớn nhất chuyên vận hành trực thăng ở Việt Nam"
+    },
+    {
+      "name": "Tổng công ty Truyền thông đa phương tiện VTC",
+      "industry": "Dịch vụ tiêu dùng",
+      "sector": "Truyền thông",
+      "headquarters": "Hà Nội",
+      "founded": 2003,
+      "note": ""
+    },
+    {
+      "name": "Viện Dầu khí Việt Nam (VPI)",
+      "industry": "Dầu khí",
+      "sector": "Nhà chế xuất dầu khí",
+      "headquarters": "Hà Nội",
+      "founded": 1978,
+      "note": ""
+    },
+    {
+      "name": "Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT)",
+      "industry": "Viễn thông",
+      "sector": "Viễn thông",
+      "headquarters": "Hà Nội",
+      "founded": 2006,
+      "note": ""
+    },
+    {
+      "name": "Tổng công ty Đường sắt Việt Nam",
+      "industry": "Công nghiệp",
+      "sector": "Vận tải công nghiệp",
+      "headquarters": "Hà Nội",
+      "founded": 1881,
+      "note": ""
+    },
+    {
+      "name": "Đài Truyền hình Việt Nam (VTV)",
+      "industry": "Dịch vụ tiêu dùng",
+      "sector": "Phát sóng và giải trí",
+      "headquarters": "Hà Nội",
+      "founded": 1970,
+      "note": ""
+    },
+    {
+      "name": "Vietnamobile",
+      "industry": "Viễn thông",
+      "sector": "Viễn thông di động",
+      "headquarters": "Hà Nội",
+      "founded": 2009,
+      "note": ""
+    },
+    {
+      "name": "Liên doanh Việt-Nga Vietsovpetro",
+      "industry": "Dầu khí",
+      "sector": "Nhà chế xuất dầu khí",
+      "headquarters": "Thành phố Vũng Tàu, tỉnh Bà Rịa – Vũng Tàu",
+      "founded": 1981,
+      "note": ""
+    },
+    {
+      "name": "Tập đoàn Công nghiệp – Viễn thông Quân đội (Viettel)",
+      "industry": "Viễn thông",
+      "sector": "Viễn thông di động",
+      "headquarters": "Hà Nội",
+      "founded": 2004,
+      "note": ""
+    },
+    {
+      "name": "Tổng công ty Viglacera",
+      "industry": "Công nghiệp",
+      "sector": "",
+      "headquarters": "Hà Nội",
+      "founded": 1974,
+      "note": ""
+    },
+    {
+      "name": "Vinacafe",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Đồ ăn thức uống",
+      "headquarters": "thành phố Biên Hòa, tỉnh Đồng Nai",
+      "founded": 1969,
+      "note": ""
+    },
+    {
+      "name": "Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam (Vinacomin)",
+      "industry": "Vật liệu thô",
+      "sector": "Tài nguyên thô",
+      "headquarters": "thành phố Hạ Long, tỉnh Quảng Ninh",
+      "founded": 1995,
+      "note": ""
+    },
+    {
+      "name": "Vinamilk",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Đồ ăn thức uống",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 1976,
+      "note": ""
+    },
+    {
+      "name": "Vinaphone",
+      "industry": "Viễn thông",
+      "sector": "Viễn thông di động",
+      "headquarters": "Hà Nội",
+      "founded": 1996,
+      "note": ""
+    },
+    {
+      "name": "Tổng Công ty Cổ phần Tái bảo hiểm quốc gia Việt Nam (Vinare)",
+      "industry": "Tài chính",
+      "sector": "Ngân hàng",
+      "headquarters": "Hà Nội",
+      "founded": 1995,
+      "note": ""
+    },
+    {
+      "name": "Tập đoàn Dệt May Việt Nam (Vinatex)",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Đồ dùng cá nhân",
+      "headquarters": "Hà Nội",
+      "founded": 1995,
+      "note": ""
+    },
+    {
+      "name": "Công ty Cổ phần Khoáng sản, Bao bì & Nhựa Vinavico",
+      "industry": "Công nghiệp",
+      "sector": "",
+      "headquarters": "Hà Nội",
+      "founded": 2003,
+      "note": ""
+    },
+    {
+      "name": "VNG",
+      "industry": "Công nghệ",
+      "sector": "",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 2004,
+      "note": ""
+    },
+    {
+      "name": "Công ty Trách nhiệm hữu hạn Ô tô Thế giới",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Ô tô",
+      "headquarters": "Thành phố Hồ Chí Minh",
+      "founded": 2006,
+      "note": ""
+    },
+    {
+      "name": "Công ty Trách nhiệm hữu hạn Minh Long 1",
+      "industry": "Hàng hóa tiêu dùng",
+      "sector": "Gốm sứ",
+      "headquarters": "thành phố Thuận An",
+      "founded": 1970,
+      "note": "Gốm sứ cao cấp"
+    },
+    {
+      "name": "Công ty Cổ phần Logistics Hàng Không (ALS)",
+      "industry": "Dịch vụ logistics",
+      "sector": "Warehouse & Transportation",
+      "headquarters": "Hà Nội",
+      "founded": 2007,
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Danh sách công ty Việt Nam - Free Download",
+    "description": "Các công ty, tập đoàn tiêu biểu của Việt Nam theo ngành, lĩnh vực, trụ sở và năm thành lập. Contains 91 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách công ty Việt Nam | ListBase",
+    "seo_description": "Download Danh sách công ty Việt Nam — 91 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 91 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C3%B4ng_ty_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}
