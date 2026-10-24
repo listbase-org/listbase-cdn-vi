@@ -1,0 +1,583 @@
+{
+  "id": "vi-vung-chim-quan-trong",
+  "name": "Danh sách vùng chim quan trọng tại Việt Nam",
+  "title": "Danh sách vùng chim quan trọng tại Việt Nam",
+  "description": "Các vùng chim quan trọng (IBA) tại Việt Nam theo vùng sinh thái, kèm loài chim tiêu biểu, diện tích, địa phương và khu bảo tồn liên quan.",
+  "category": "environment",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_v%C3%B9ng_chim_quan_tr%E1%BB%8Dng_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_v%C3%B9ng_chim_quan_tr%E1%BB%8Dng_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "ecoregion",
+      "label": "Ecoregion",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "key_species",
+      "label": "Key Species",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "endemic_bird_area",
+      "label": "Endemic Bird Area",
+      "type": "string"
+    },
+    {
+      "key": "protected_area",
+      "label": "Protected Area",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ecoregion": "Trung du; và miền núi; phía Bắc",
+      "name": "Bản Thi-Xuân Lạc",
+      "key_species": "Vạc hoa Gorsachius magnificus",
+      "area_ha": "2.200 (rừng và một ít rừng cây bụi)",
+      "province": "Bắc Kạn",
+      "endemic_bird_area": "Vùng chim đặc hữu vùng núi Đông-Nam Trung Quốc",
+      "protected_area": "một phần diện tích thuộc Khu bảo tồn loài và sinh cảnh Nam Xuân Lạc"
+    },
+    {
+      "ecoregion": "Trung du; và miền núi; phía Bắc",
+      "name": "Tây Côn Lĩnh",
+      "key_species": "Trèo cây lưng đen Sitta formosa",
+      "area_ha": "40.344",
+      "province": "Hà Giang",
+      "endemic_bird_area": "",
+      "protected_area": "một phần thuộc Khu bảo tồn thiên nhiên Tây Côn Lĩnh"
+    },
+    {
+      "ecoregion": "Trung du; và miền núi; phía Bắc",
+      "name": "Du Già",
+      "key_species": "Trèo cây lưng đen Sitta formosa",
+      "area_ha": "24.293 (rừng cây bụi, rừng và cảnh quan nhân tạo)",
+      "province": "Hà Giang",
+      "endemic_bird_area": "",
+      "protected_area": "một phần thuộc Khu bảo tồn thiên nhiên Du Già"
+    },
+    {
+      "ecoregion": "Trung du; và miền núi; phía Bắc",
+      "name": "Bản Bung",
+      "key_species": "Dẽ giun lớn hay dẽ giun gỗ Gallinago nemoricola",
+      "area_ha": "15.000 (rừng, rừng cây bụi và cảnh quan nhân tạo)",
+      "province": "Tuyên Quang",
+      "endemic_bird_area": "",
+      "protected_area": "thuộc Khu bảo tồn thiên nhiên Na Hang"
+    },
+    {
+      "ecoregion": "Trung du; và miền núi; phía Bắc",
+      "name": "Sinh Long",
+      "key_species": "Gà so họng trắng Arborophila brunneopectus",
+      "area_ha": "10.000 (rừng)",
+      "province": "Tuyên Quang",
+      "endemic_bird_area": "",
+      "protected_area": "thuộc Khu bảo tồn thiên nhiên Na Hang"
+    },
+    {
+      "ecoregion": "Trung du; và miền núi; phía Bắc",
+      "name": "Tam Đảo",
+      "key_species": "",
+      "area_ha": "36.883",
+      "province": "Thái Nguyên, Tuyên Quang, Vĩnh Phúc",
+      "endemic_bird_area": "",
+      "protected_area": "toàn bộ Vườn quốc gia Tam Đảo"
+    },
+    {
+      "ecoregion": "Trung du; và miền núi; phía Bắc",
+      "name": "Chế Tạo",
+      "key_species": "Niệc cổ hung Aceros nipalensis, Chích đớp ruồi mỏ rộng Tickellia hodgsoni",
+      "area_ha": "16.000 (rừng và rừng cây bụi)",
+      "province": "Sơn La, Yên Bái",
+      "endemic_bird_area": "Phân vùng chim đặc hữu núi Fan Si Pan và Bắc Lào",
+      "protected_area": "thuộc Khu bảo tồn loài và sinh cảnh Chế Tạo"
+    },
+    {
+      "ecoregion": "Trung du; và miền núi; phía Bắc",
+      "name": "Văn Bàn",
+      "key_species": "Chích đớp ruồi mỏ rộng Tickellia hodgsoni, Trèo cây mỏ vàng Sitta solangiae, Trèo cây lưng đen Sitta formosa",
+      "area_ha": "60.000",
+      "province": "Lào Cai",
+      "endemic_bird_area": "Phân vùng chim đặc hữu núi Fan Si Pan và Bắc Lào",
+      "protected_area": "một phần thuộc Khu bảo tồn thiên nhiên Văn Bàn"
+    },
+    {
+      "ecoregion": "Trung du; và miền núi; phía Bắc",
+      "name": "Fan Si Pan",
+      "key_species": "Dẽ giun lớn hay dẽ giun gỗ Gallinago nemoricola, Chích đớp ruồi mỏ rộng Tickellia hodgsoni, Khướu cánh đỏ Garrulax formosus, Trèo cây lưng đen Sitta formosa",
+      "area_ha": "49.584 (rừng, rừng cây bụi và cảnh quan nhân tạo)",
+      "province": "Lai Châu, Lào Cai",
+      "endemic_bird_area": "Phân vùng chim đặc hữu núi Fan Si Pan và Bắc Lào",
+      "protected_area": "toàn bộ Vườn quốc gia Hoàng Liên Sơn"
+    },
+    {
+      "ecoregion": "Duyên hải; Bắc Bộ",
+      "name": "Trà Cổ",
+      "key_species": "Mòng biển mỏ ngắn Larus saundersi",
+      "area_ha": "3.000",
+      "province": "Quảng Ninh",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Duyên hải; Bắc Bộ",
+      "name": "Hà Nam",
+      "key_species": "Cò thìa hay cò thìa mặt đen Platalea minor",
+      "area_ha": "5.000",
+      "province": "Quảng Ninh",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Duyên hải; Bắc Bộ",
+      "name": "An Hải",
+      "key_species": "Mòng biển mỏ ngắn Larus saundersi",
+      "area_ha": "5.000 (chủ yếu là đất ngập nước)",
+      "province": "Hải Phòng",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Duyên hải; Bắc Bộ",
+      "name": "Tiên Lãng",
+      "key_species": "Cò thìa hay cò thìa mặt đen Platalea minor, Choắt chân đỏ Tringa erythropus, Mòng biển mỏ ngắn Larus saundersi, Bách thanh nhỏ Lanius collurioides, Bông lau Trung Quốc hay chào mào huyệt sáng Pycnonotus sinensis, Bông lau tai trắng hay chào mào đầu than hoặc bông lau đít đỏ Pycnonotus aurigaster, Sáo đá Trung Quốc Sturnus sinensis",
+      "area_ha": "5.000",
+      "province": "Hải Phòng",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Duyên hải; Bắc Bộ",
+      "name": "Thái Thụy",
+      "key_species": "Cò thìa hay cò thìa mặt đen Platalea minor, Cò Trung Quốc Egretta eulophotes, Dẽ mỏ thìa Eurynorhynchus pygmeus, Mòng biển mỏ ngắn Larus saundersi, Bách thanh nhỏ Lanius collurioides, Bông lau Trung Quốc hay chào mào huyệt sáng Pycnonotus sinensis, Sáo đá đầu trắng Sturnus sericeus, Sáo đá Trung Quốc Sturnus sinensis",
+      "area_ha": "13.696",
+      "province": "Thái Bình",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Duyên hải; Bắc Bộ",
+      "name": "Tiền Hải",
+      "key_species": "Cò thìa hay cò thìa mặt đen Platalea minor, Bách thanh nhỏ Lanius collurioides, Bông lau Trung Quốc hay chào mào huyệt sáng Pycnonotus sinensis, Bông lau tai trắng hay chào mào đầu than hoặc bông lau đít đỏ Pycnonotus aurigaster",
+      "area_ha": "12.500",
+      "province": "Thái Bình",
+      "endemic_bird_area": "",
+      "protected_area": "một phần thuộc Khu bảo tồn thiên nhiên Tiền Hải"
+    },
+    {
+      "ecoregion": "Duyên hải; Bắc Bộ",
+      "name": "Xuân Thủy",
+      "key_species": "Cò thìa hay cò thìa mặt đen Platalea minor, Cò Trung Quốc Egretta eulophotes, Bồ nông chân xám Pelecanus philippensis, Choắt mỏ thẳng đuôi đen hay mỏ nhác Limosa limosa, Choắt mỏ cong lớn Numenius arquata, Choắt chân đỏ Tringa erythropus, Choắt lớn mỏ vàng Tringa guttifer, Choắt lùn đuôi xám Heteroscelus brevipes, Dẽ trán trắng Calidris alpina, Dẽ mỏ thìa Eurynorhynchus pygmeus, Mòng biển mỏ ngắn Larus saundersi, Phường chèo cánh trắng Pericrocotus cantonensis, Bông lau Trung Quốc hay chào mào huyệt sáng Pycnonotus sinensis, Bông lau tai trắng hay chào mào đầu than hoặc bông lau đít đỏ Pycnonotus aurigaster",
+      "area_ha": "12.000",
+      "province": "Nam Định",
+      "endemic_bird_area": "",
+      "protected_area": "một phần thuộc Vườn quốc gia Xuân Thủy"
+    },
+    {
+      "ecoregion": "Duyên hải; Bắc Bộ",
+      "name": "Nghĩa Hưng",
+      "key_species": "Cò thìa hay cò thìa mặt đen Platalea minor, Cò Trung Quốc Egretta eulophotes, Bồ nông chân xám Pelecanus philippensis, Choi choi Mông Cổ Charadrius mongolus, Choắt chân đỏ Tringa erythropus, Choắt lớn mỏ vàng Tringa guttifer, Dẽ mỏ thìa Eurynorhynchus pygmeus, Mòng biển mỏ ngắn Larus saundersi",
+      "area_ha": "7.600 (đất ngập nước và rừng ngập mặn)",
+      "province": "Nam Định",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Bắc Trung Bộ",
+      "name": "Cúc Phương",
+      "key_species": "",
+      "area_ha": "22.200 (rừng)",
+      "province": "Ninh Bình, Thanh Hóa, Hòa Bình",
+      "endemic_bird_area": "Vùng chim đặc hữu đất thấp Trung Bộ",
+      "protected_area": "toàn bộ Vườn quốc gia Cúc Phương"
+    },
+    {
+      "ecoregion": "Bắc Trung Bộ",
+      "name": "Pù Mát",
+      "key_species": "Trĩ sao Rheinardia ocellata, Niệc cổ hung Aceros nipalensis",
+      "area_ha": "91.113",
+      "province": "Nghệ An",
+      "endemic_bird_area": "Vùng chim đặc hữu đất thấp Trung Bộ",
+      "protected_area": "toàn bộ Vườn quốc gia Pù Mát"
+    },
+    {
+      "ecoregion": "Bắc Trung Bộ",
+      "name": "Vũ Quang",
+      "key_species": "Trĩ sao Rheinardia ocellata, Chích chạch má xám Macronous kelleyi",
+      "area_ha": "55.950",
+      "province": "Hà Tĩnh",
+      "endemic_bird_area": "Vùng chim đặc hữu đất thấp Trung Bộ",
+      "protected_area": "toàn bộ Vườn quốc gia Vũ Quang"
+    },
+    {
+      "ecoregion": "Bắc Trung Bộ",
+      "name": "Kẻ Gỗ",
+      "key_species": "Gà lôi lam đuôi trắng Lophura hatinhensis, Trĩ sao Rheinardia ocellata, Chích chạch má xám Macronous kelleyi",
+      "area_ha": "24.801 (rừng)",
+      "province": "Hà Tĩnh",
+      "endemic_bird_area": "Vùng chim đặc hữu đất thấp Trung Bộ",
+      "protected_area": "toàn bộ Khu bảo tồn thiên nhiên Kẻ Gỗ"
+    },
+    {
+      "ecoregion": "Bắc Trung Bộ",
+      "name": "Khe Nét",
+      "key_species": "Gà lôi lam đuôi trắng Lophura hatinhensis, Trĩ sao Rheinardia ocellata, Chích chạch má xám Macronous kelleyi",
+      "area_ha": "23.524 (rừng)",
+      "province": "Quảng Bình",
+      "endemic_bird_area": "Vùng chim đặc hữu đất thấp Trung Bộ",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Bắc Trung Bộ",
+      "name": "Trường Sơn",
+      "key_species": "Trĩ sao Rheinardia ocellata",
+      "area_ha": "",
+      "province": "Quảng Bình",
+      "endemic_bird_area": "Vùng chim đặc hữu đất thấp Trung Bộ",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Bắc Trung Bộ",
+      "name": "Phong Nha",
+      "key_species": "Trĩ sao Rheinardia ocellata",
+      "area_ha": "41.132",
+      "province": "Quảng Bình",
+      "endemic_bird_area": "Vùng chim đặc hữu đất thấp Trung Bộ",
+      "protected_area": "thuộc Vườn quốc gia Phong Nha-Kẻ Bàng"
+    },
+    {
+      "ecoregion": "Bắc Trung Bộ",
+      "name": "Kẻ Bàng",
+      "key_species": "Trĩ sao Rheinardia ocellata",
+      "area_ha": "106.813 (rừng)",
+      "province": "Quảng Bình",
+      "endemic_bird_area": "Vùng chim đặc hữu đất thấp Trung Bộ",
+      "protected_area": "phía tây của Vườn quốc gia Phong Nha-Kẻ Bàng"
+    },
+    {
+      "ecoregion": "Bắc Trung Bộ",
+      "name": "Đakrông",
+      "key_species": "Gà lôi lam mào trắng Lophura edwardsi, Trĩ sao Rheinardia ocellata",
+      "area_ha": "40.526 (rừng và rừng cây bụi)",
+      "province": "Quảng Trị",
+      "endemic_bird_area": "Vùng chim đặc hữu đất thấp Trung Bộ",
+      "protected_area": "phần lớn diện tích thuộc Khu bảo tồn thiên nhiên Đakrông"
+    },
+    {
+      "ecoregion": "Bắc Trung Bộ",
+      "name": "Phong Điền",
+      "key_species": "Gà lôi lam mào trắng Lophura edwardsi, Trĩ sao Rheinardia ocellata, Chích chạch má xám Macronous kelleyi, Khướu đầu xám Garrulax vassali",
+      "area_ha": "41.548",
+      "province": "Thừa Thiên-Huế",
+      "endemic_bird_area": "Vùng chim đặc hữu đất thấp Trung Bộ",
+      "protected_area": "phần lớn diện tích thuộc Khu bảo tồn thiên nhiên Phong Điền"
+    },
+    {
+      "ecoregion": "Bắc Trung Bộ",
+      "name": "Bạch Mã",
+      "key_species": "Gà lôi lam mào trắng Lophura edwardsi, Trĩ sao Rheinardia ocellata, Công (công lục hay công Java) Pavo muticus, Họa mi mỏ dài hay Khướu mỏ dài Jabouilleia danjoui, Chích chạch má xám Macronous kelleyi",
+      "area_ha": "22.031 (rừng, rừng cây bụi và trảng cỏ)",
+      "province": "Thừa Thiên-Huế",
+      "endemic_bird_area": "Vùng chim đặc hữu đất thấp Trung Bộ",
+      "protected_area": "toàn bộ Vườn quốc gia Bạch Mã"
+    },
+    {
+      "ecoregion": "Nam Trung Bộ",
+      "name": "Phước Bình",
+      "key_species": "Trĩ sao Rheinardia ocellata, Bồ câu nâu Columba punicea, Khướu đầu đen má xám Garrulax yersini",
+      "area_ha": "23.597",
+      "province": "Ninh Thuận",
+      "endemic_bird_area": "",
+      "protected_area": "bao gồm Vườn quốc gia Phước Bình"
+    },
+    {
+      "ecoregion": "Tây Nguyên",
+      "name": "Lò Xo",
+      "key_species": "Trĩ sao Rheinardia ocellata, Khướu vằn đầu đen Actinodura sodangorum",
+      "area_ha": "15000 (rừng)",
+      "province": "Kon Tum, Quảng Nam",
+      "endemic_bird_area": "Phân vùng chim đặc hữu cao nguyên Kon Tum",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Tây Nguyên",
+      "name": "Ngọc Linh",
+      "key_species": "Trĩ sao Rheinardia ocellata, Khướu Ngọc Linh Garrulax ngoclinhensis, Khướu vằn đầu đen Actinodura sodangorum",
+      "area_ha": "29.763 (rừng và rừng cây bụi)",
+      "province": "Kon Tum, Quảng Nam",
+      "endemic_bird_area": "Phân vùng chim đặc hữu cao nguyên Kon Tum",
+      "protected_area": "các khu bảo tồn thiên nhiên Ngọc Linh (Kon Tum) và Ngọc Linh (Quảng Nam)"
+    },
+    {
+      "ecoregion": "Tây Nguyên",
+      "name": "Kon Plong",
+      "key_species": "Trĩ sao Rheinardia ocellata, Khướu đầu xám Garrulax vassali, Khướu Kon Ka Kinh Garrulax konkakinhensis, Khướu Ngọc Linh Garrulax ngoclinhensis",
+      "area_ha": "65.077 (rừng, rừng cây bụi và cảnh quan nhân tạo)",
+      "province": "Kon Tum",
+      "endemic_bird_area": "Phân vùng chim đặc hữu cao nguyên Kon Tum",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Tây Nguyên",
+      "name": "Kon Ka Kinh",
+      "key_species": "Chích chạch má xám Macronous kelleyi, Khướu đầu xám Garrulax vassali, Khướu Kon Ka Kinh Garrulax konkakinhensis",
+      "area_ha": "41.710 (rừng và rừng cây bụi)",
+      "province": "Gia Lai",
+      "endemic_bird_area": "Phân vùng chim đặc hữu cao nguyên Kon Tum",
+      "protected_area": "toàn bộ Vườn quốc gia Kon Ka Kinh"
+    },
+    {
+      "ecoregion": "Tây Nguyên",
+      "name": "Chư Prông",
+      "key_species": "Công (công lục hay công Java) Pavo muticus, Già đẫy Ja-va Leptoptilos javanicus",
+      "area_ha": "50.104 (rừng và rừng cây bụi)",
+      "province": "Gia Lai",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Tây Nguyên",
+      "name": "A Yun Pa",
+      "key_species": "Công (công lục hay công Java) Pavo muticus, Bồ câu nâu Columba punicea",
+      "area_ha": "44.268 (rừng)",
+      "province": "Gia Lai",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Tây Nguyên",
+      "name": "Đăk Dam",
+      "key_species": "Công (công lục hay công Java) Pavo muticus, Ngan cánh trắng Cairina scutulata, Bồ câu nâu Columba punicea",
+      "area_ha": "10.000 (rừng và rừng cây bụi)",
+      "province": "Đăk Lăk",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Tây Nguyên",
+      "name": "Ea Sô",
+      "key_species": "Công (công lục hay công Java) Pavo muticus, Bồ câu nâu Columba punicea",
+      "area_ha": "27.800 (rừng)",
+      "province": "Đăk Lăk",
+      "endemic_bird_area": "",
+      "protected_area": "phần lớn diện tích thuộc Khu bảo tồn thiên nhiên Ea Sô"
+    },
+    {
+      "ecoregion": "Tây Nguyên",
+      "name": "Ya Lốp",
+      "key_species": "Công (công lục hay công Java) Pavo muticus, Già đẫy Ja-va Leptoptilos javanicus, Kền kền Bengan Gyps bengalensis",
+      "area_ha": "30.000",
+      "province": "Đăk Lăk",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Tây Nguyên",
+      "name": "Chư Yang Sin",
+      "key_species": "Gà tiền mặt đỏ Polyplectron germaini, Khướu đầu đen má xám Garrulax yersini, Mi núi Bà hay Mi langbiang Crocias langbianis",
+      "area_ha": "59.278 (rừng và rừng cây bụi)",
+      "province": "Đăk Lăk",
+      "endemic_bird_area": "Vùng chim đặc hữu cao nguyên Đà Lạt",
+      "protected_area": "Toàn bộ Vườn quốc gia Chư Yang Sin"
+    },
+    {
+      "ecoregion": "Tây Nguyên",
+      "name": "Cổng Trời",
+      "key_species": "Khướu đầu xám Garrulax vassali, Khướu đầu đen má xám Garrulax yersini",
+      "area_ha": "28.000 (rừng, rừng cây bụi và cảnh quan nhân tạo)",
+      "province": "Lâm Đồng",
+      "endemic_bird_area": "Vùng chim đặc hữu cao nguyên Đà Lạt",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Tây Nguyên",
+      "name": "Tuyền Lâm",
+      "key_species": "Gà tiền mặt đỏ Polyplectron germaini, Bồ câu nâu Columba punicea, Khướu đầu xám Garrulax vassali, Khướu đầu đen má xám Garrulax yersini, Mi núi Bà hay Mi langbiang Crocias langbianis",
+      "area_ha": "13.000",
+      "province": "Lâm Đồng",
+      "endemic_bird_area": "Vùng chim đặc hữu cao nguyên Đà Lạt, Vùng chim đặc hữu đất thấp Nam Việt Nam",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Tây Nguyên",
+      "name": "Cát Lộc",
+      "key_species": "Gà so cổ hung Arborophila davidi, Gà tiền mặt đỏ Polyplectron germaini, Chích chạch má xám Macronous kelleyi",
+      "area_ha": "30.635 (rừng và cảnh quan nhân tạo)",
+      "province": "Lâm Đồng",
+      "endemic_bird_area": "Vùng chim đặc hữu đất thấp Nam Việt Nam",
+      "protected_area": "thuộc Vườn quốc gia Cát Tiên"
+    },
+    {
+      "ecoregion": "Đông Nam Bộ",
+      "name": "Nam Cát Tiên",
+      "key_species": "Gà so cổ hung Arborophila davidi, Gà tiền mặt đỏ Polyplectron germaini, Công (công lục hay công Java) Pavo muticus, Già đẫy Ja-va Leptoptilos javanicus, Cò quăm cánh xanh hay cò quăm vai trắng Pseudibis davisoni, Chích chạch má xám Macronous kelleyi",
+      "area_ha": "38.302 (rừng và đất ngập nước)",
+      "province": "Đồng Nai",
+      "endemic_bird_area": "Vùng chim đặc hữu đất thấp Nam Việt Nam",
+      "protected_area": "thuộc Vườn quốc gia Cát Tiên"
+    },
+    {
+      "ecoregion": "Đông Nam Bộ",
+      "name": "Lò Gò Xa Mát",
+      "key_species": "Gà tiền mặt đỏ Polyplectron germaini, Chích chạch má xám Macronous kelleyi",
+      "area_ha": "18803 (rừng)",
+      "province": "Tây Ninh",
+      "endemic_bird_area": "",
+      "protected_area": "toàn bộ Vườn quốc gia Lò Gò-Xa Mát"
+    },
+    {
+      "ecoregion": "Đông Nam Bộ",
+      "name": "Cần Giờ",
+      "key_species": "Bồ nông chân xám Pelecanus philippensis, Choắt lớn mỏ vàng Tringa guttifer",
+      "area_ha": "75.740 (đất ngập nước, rừng và cảnh quan nhân tạo)",
+      "province": "Thành phố Hồ Chí Minh",
+      "endemic_bird_area": "",
+      "protected_area": "thuộc Khu dự trữ sinh quyển rừng ngập mặn Cần Giờ"
+    },
+    {
+      "ecoregion": "Tây Nam Bộ",
+      "name": "Ba Tri",
+      "key_species": "Cò Trung Quốc Egretta eulophotes, Choi choi lớn Charadrius leschenaultii, Dẽ mỏ thìa Eurynorhynchus pygmeus",
+      "area_ha": "6.000",
+      "province": "Bến Tre",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Tây Nam Bộ",
+      "name": "Bình Đại",
+      "key_species": "Già đẫy Ja-va Leptoptilos javanicus, Cò ngàng lớn Casmerodius albus, Cò Trung Quốc Egretta eulophotes, Choi choi khoang cổ Charadrius alexandrinus, Choi choi lớn Charadrius leschenaultii, Choắt mỏ thẳng đuôi đen hay mỏ nhác Limosa limosa, Choắt lớn mỏ vàng Tringa guttifer",
+      "area_ha": "30.000",
+      "province": "Bến Tre",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Tây Nam Bộ",
+      "name": "Chùa Hang",
+      "key_species": "Vạc Nycticorax nycticorax",
+      "area_ha": "2 (trong khuôn viên chùa Hang, thị trấn Châu Thành, tỉnh Trà Vinh)",
+      "province": "Trà Vinh",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Tây Nam Bộ",
+      "name": "Trà Cú",
+      "key_species": "Vạc Nycticorax nycticorax",
+      "area_ha": "2",
+      "province": "Trà Vinh",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Tây Nam Bộ",
+      "name": "Láng Sen",
+      "key_species": "Sếu đầu đỏ hay sếu cổ trụi Grus antigone, Chim khách Crypsirina temia, Bông lau tai vằn hay chào mào tai sọc Pycnonotus blanfordi, Sáo sậu đầu trắng Sturnus burmannicus",
+      "area_ha": "3.280 (cảnh quan nhân tạo)",
+      "province": "Long An",
+      "endemic_bird_area": "",
+      "protected_area": "thuộc Khu bảo tồn đất ngập nước Láng Sen"
+    },
+    {
+      "ecoregion": "Tây Nam Bộ",
+      "name": "Tràm Chim",
+      "key_species": "Mòng két mày trắng Anas querquedula, Mòng két Anas crecca, Già đẫy Ja-va Leptoptilos javanicus, Ô tác Bengal hay ô tác Nam Á Houbaropsis bengalensis, Sếu đầu đỏ hay sếu cổ trụi Grus antigone, Phường chèo xám nhỏ Coracina polioptera, Chim khách Crypsirina temia, Bông lau tai vằn hay chào mào tai sọc Pycnonotus blanfordi, Sẻ bụng vàng hay Sẻ bụi vàng Passer flaveolus",
+      "area_ha": "7.588",
+      "province": "Đồng Tháp",
+      "endemic_bird_area": "",
+      "protected_area": "toàn bộ Vườn quốc gia Tràm Chim"
+    },
+    {
+      "ecoregion": "Tây Nam Bộ",
+      "name": "Kiên Lương",
+      "key_species": "Cò quăm cánh xanh hay cò quăm vai trắng Pseudibis davisoni, Bồ nông chân xám Pelecanus philippensis, Sếu đầu đỏ hay sếu cổ trụi Grus antigone, Chim khách Crypsirina temia, Sơn ca Đông Dương Mirafra erythrocephala, Bông lau tai vằn hay chào mào tai sọc Pycnonotus blanfordi, Sáo sậu Sturnus nigricollis, Sẻ bụng vàng hay Sẻ bụi vàng Passer flaveolus",
+      "area_ha": "7.624 (trảng cỏ, cảnh quan nhân tạo)",
+      "province": "Kiên Giang",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Tây Nam Bộ",
+      "name": "Hà Tiên",
+      "key_species": "Ô tác Bengal hay ô tác Nam Á Houbaropsis bengalensis",
+      "area_ha": "6.981 (cảnh quan nhân tạo, trảng cỏ, đất ngập nước)",
+      "province": "Kiên Giang",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Tây Nam Bộ",
+      "name": "U Minh Thượng",
+      "key_species": "Giang sen Mycteria leucocephala, Già đẫy Ja-va Leptoptilos javanicus, Quắm đen Plegadis falcinellus, Diệc lửa Ardea purpurea, Cò ngàng Casmerodius albus, Bồ nông chân xám Pelecanus philippensis, Cốc đen Phalacrocorax niger, Diều xám Butastur liventer, Trích hay Xít Porphyrio porphyrio, Gà lôi nước Ấn Độ Metopidius indicus, Dô nách nâu Glareola maldivarum, Tìm vịt lục bảo châu Á hay tìm vịt xanh, Phường chèo nâu mày trắng Tephrodornis pondicerianus, Phường chèo xám nhỏ Coracina polioptera, Phường chèo nhỏ Pericrocotus cinnamomeus, Chim khách Crypsirina temia, Sơn ca Đông Dương Mirafra erythrocephala, Bông lau tai vằn hay chào mào tai sọc Pycnonotus blanfordi, Sáo đá đuôi hung Sturnus malabaricus, Sáo đá Trung Quốc Sturnus sinensis, Sáo sậu Sturnus nigricollis, Sáo sậu đầu trắng Sturnus burmannicus, Sẻ bụng vàng hay Sẻ bụi vàng Passer flaveolus",
+      "area_ha": "22.918",
+      "province": "Kiên Giang",
+      "endemic_bird_area": "",
+      "protected_area": "một phần thuộc Vườn quốc gia U Minh Thượng"
+    },
+    {
+      "ecoregion": "Tây Nam Bộ",
+      "name": "Bạc Liêu",
+      "key_species": "Cốc đế nhỏ Phalacrocorax fuscicollis",
+      "area_ha": "132 (rừng và cảnh quan nhân tạo)",
+      "province": "Bạc Liêu",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Tây Nam Bộ",
+      "name": "Bãi Bồi",
+      "key_species": "Cò Trung Quốc Egretta eulophotes",
+      "area_ha": "5.525 (đất ngập nước, rừng và cảnh quan nhân tạo)",
+      "province": "Cà Mau",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Tây Nam Bộ",
+      "name": "Cà Mau",
+      "key_species": "Cốc đen Phalacrocorax niger",
+      "area_ha": "2 (rừng và cảnh quan nhân tạo)",
+      "province": "Cà Mau",
+      "endemic_bird_area": "",
+      "protected_area": ""
+    },
+    {
+      "ecoregion": "Tây Nam Bộ",
+      "name": "Đất Mũi",
+      "key_species": "Cò Trung Quốc Egretta eulophotes, Bồ nông chân xám Pelecanus philippensis, Choắt chân màng lớn Limnodromus semipalmatus, Choắt mỏ cong lớn Numenius arquata",
+      "area_ha": "4.388 (rừng, đất ngập nước và cảnh quan nhân tạo)",
+      "province": "Cà Mau",
+      "endemic_bird_area": "",
+      "protected_area": "thuộc Vườn quốc gia Mũi Cà Mau"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách vùng chim quan trọng tại Việt Nam - Free Download",
+    "description": "Các vùng chim quan trọng (IBA) tại Việt Nam theo vùng sinh thái, kèm loài chim tiêu biểu, diện tích, địa phương và khu bảo tồn liên quan. Contains 58 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách vùng chim quan trọng tại Việt Nam | ListBase",
+    "seo_description": "Download Danh sách vùng chim quan trọng tại Việt Nam — 58 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 58 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_v%C3%B9ng_chim_quan_tr%E1%BB%8Dng_t%E1%BA%A1i_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}

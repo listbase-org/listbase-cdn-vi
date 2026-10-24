@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-24T02:15:23.142Z",
-  "total_datasets": 499,
-  "total_records": 119351,
+  "generated": "2026-10-24T02:15:25.678Z",
+  "total_datasets": 500,
+  "total_records": 119409,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "finance",
@@ -898,6 +898,34 @@
         "xlsx": {
           "name": "vi-sach-do-dong-vat_VI.xlsx",
           "size": 21413
+        }
+      }
+    },
+    {
+      "id": "vi-vung-chim-quan-trong",
+      "name": "Danh sách vùng chim quan trọng tại Việt Nam",
+      "category": "environment",
+      "record_count": 58,
+      "columns": [
+        "ecoregion",
+        "name",
+        "key_species",
+        "area_ha",
+        "province",
+        "endemic_bird_area",
+        "protected_area"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_v%C3%B9ng_chim_quan_tr%E1%BB%8Dng_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 28267,
+      "files": {
+        "csv": {
+          "name": "vi-vung-chim-quan-trong_VI.csv",
+          "size": 16935
+        },
+        "xlsx": {
+          "name": "vi-vung-chim-quan-trong_VI.xlsx",
+          "size": 12263
         }
       }
     },
