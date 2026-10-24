@@ -1,0 +1,889 @@
+{
+  "id": "vi-truong-thpt-chuyen",
+  "name": "Danh sách trường trung học phổ thông chuyên tại Việt Nam",
+  "title": "Danh sách trường trung học phổ thông chuyên tại Việt Nam",
+  "description": "Các trường THPT chuyên tại Việt Nam (trực thuộc đại học và trực thuộc tỉnh/thành phố), kèm địa phương và tình trạng hoạt động.",
+  "category": "education",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%C6%B0%E1%BB%9Dng_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_chuy%C3%AAn_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%C6%B0%E1%BB%9Dng_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_chuy%C3%AAn_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 92,
+  "columns": [
+    {
+      "key": "school",
+      "label": "School",
+      "type": "string"
+    },
+    {
+      "key": "managed_by",
+      "label": "Managed By",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "commune",
+      "label": "Commune",
+      "type": "string"
+    },
+    {
+      "key": "former_province",
+      "label": "Former Province",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "school": "THPT chuyên",
+      "managed_by": "Trường Đại học Sư phạm Hà Nội",
+      "province": "Hà Nội",
+      "commune": "",
+      "former_province": "",
+      "type": "Trực thuộc đại học",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Khoa học Tự nhiên",
+      "managed_by": "Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội",
+      "province": "Hà Nội",
+      "commune": "",
+      "former_province": "",
+      "type": "Trực thuộc đại học",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Khoa học Xã hội và Nhân văn",
+      "managed_by": "Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Hà Nội",
+      "province": "Hà Nội",
+      "commune": "",
+      "former_province": "",
+      "type": "Trực thuộc đại học",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Ngoại ngữ",
+      "managed_by": "Trường Đại học Ngoại ngữ, Đại học Quốc gia Hà Nội",
+      "province": "Hà Nội",
+      "commune": "",
+      "former_province": "",
+      "type": "Trực thuộc đại học",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên",
+      "managed_by": "Trường Đại học Vinh",
+      "province": "Nghệ An",
+      "commune": "",
+      "former_province": "",
+      "type": "Trực thuộc đại học",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Khoa học Huế",
+      "managed_by": "Trường Đại học Khoa học, Đại học Huế",
+      "province": "Huế",
+      "commune": "",
+      "former_province": "",
+      "type": "Trực thuộc đại học",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "Phổ thông Năng khiếu",
+      "managed_by": "Đại học Quốc gia Thành phố Hồ Chí Minh",
+      "province": "Thành phố Hồ Chí Minh",
+      "commune": "",
+      "former_province": "",
+      "type": "Trực thuộc đại học",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT Năng khiếu Đại học Tân Tạo",
+      "managed_by": "Trường Đại học Tân Tạo",
+      "province": "Tây Ninh",
+      "commune": "",
+      "former_province": "",
+      "type": "Trực thuộc đại học",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Hà Nội – Amsterdam",
+      "managed_by": "",
+      "province": "Hà Nội",
+      "commune": "Yên Hòa",
+      "former_province": "Hà Nội",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Chu Văn An",
+      "managed_by": "",
+      "province": "Hà Nội",
+      "commune": "Tây Hồ",
+      "former_province": "Hà Nội",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Nguyễn Huệ",
+      "managed_by": "",
+      "province": "Hà Nội",
+      "commune": "Dương Nội",
+      "former_province": "Hà Tây",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Sơn Tây",
+      "managed_by": "",
+      "province": "Hà Nội",
+      "commune": "Sơn Tây",
+      "former_province": "Hà Tây",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Lê Hồng Phong",
+      "managed_by": "",
+      "province": "Thành phố Hồ Chí Minh",
+      "commune": "Chợ Quán",
+      "former_province": "Thành phố Hồ Chí Minh",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Trần Đại Nghĩa",
+      "managed_by": "",
+      "province": "Thành phố Hồ Chí Minh",
+      "commune": "An Khánh",
+      "former_province": "Thành phố Hồ Chí Minh",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Hùng Vương",
+      "managed_by": "",
+      "province": "Thành phố Hồ Chí Minh",
+      "commune": "Thủ Dầu Một",
+      "former_province": "Bình Dương",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Lê Quý Đôn",
+      "managed_by": "",
+      "province": "Thành phố Hồ Chí Minh",
+      "commune": "Phước Thắng",
+      "former_province": "Bà Rịa – Vũng Tàu",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Trần Phú",
+      "managed_by": "",
+      "province": "Hải Phòng",
+      "commune": "Hải An",
+      "former_province": "Hải Phòng",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Nguyễn Trãi",
+      "managed_by": "",
+      "province": "Hải Phòng",
+      "commune": "Lê Thanh Nghị",
+      "former_province": "Hải Dương",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Quốc Học – Huế",
+      "managed_by": "",
+      "province": "Huế",
+      "commune": "Thuận Hóa",
+      "former_province": "Huế",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Lê Quý Đôn",
+      "managed_by": "",
+      "province": "Đà Nẵng",
+      "commune": "An Hải",
+      "former_province": "Đà Nẵng",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Lê Thánh Tông",
+      "managed_by": "",
+      "province": "Đà Nẵng",
+      "commune": "Hội An Tây",
+      "former_province": "Quảng Nam",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Nguyễn Bỉnh Khiêm",
+      "managed_by": "",
+      "province": "Đà Nẵng",
+      "commune": "Bàn Thạch",
+      "former_province": "Quảng Nam",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Lý Tự Trọng",
+      "managed_by": "",
+      "province": "Cần Thơ",
+      "commune": "Cái Răng",
+      "former_province": "Cần Thơ",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Vị Thanh",
+      "managed_by": "",
+      "province": "Cần Thơ",
+      "commune": "Vị Thanh",
+      "former_province": "Hậu Giang",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Nguyễn Thị Minh Khai",
+      "managed_by": "",
+      "province": "Cần Thơ",
+      "commune": "Sóc Trăng",
+      "former_province": "Sóc Trăng",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Thoại Ngọc Hầu",
+      "managed_by": "",
+      "province": "An Giang",
+      "commune": "Long Xuyên",
+      "former_province": "An Giang",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Thủ Khoa Nghĩa",
+      "managed_by": "",
+      "province": "An Giang",
+      "commune": "Châu Đốc",
+      "former_province": "An Giang",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Huỳnh Mẫn Đạt",
+      "managed_by": "",
+      "province": "An Giang",
+      "commune": "Rạch Giá",
+      "former_province": "Kiên Giang",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Bắc Ninh",
+      "managed_by": "",
+      "province": "Bắc Ninh",
+      "commune": "Kinh Bắc",
+      "former_province": "Bắc Ninh",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Bắc Giang",
+      "managed_by": "",
+      "province": "Bắc Ninh",
+      "commune": "Bắc Giang",
+      "former_province": "Bắc Giang",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Phan Ngọc Hiển",
+      "managed_by": "",
+      "province": "Cà Mau",
+      "commune": "An Xuyên",
+      "former_province": "Cà Mau",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Bạc Liêu",
+      "managed_by": "",
+      "province": "Cà Mau",
+      "commune": "Bạc Liêu",
+      "former_province": "Bạc Liêu",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Cao Bằng",
+      "managed_by": "",
+      "province": "Cao Bằng",
+      "commune": "Tân Giang",
+      "former_province": "Cao Bằng",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Nguyễn Du",
+      "managed_by": "",
+      "province": "Đắk Lắk",
+      "commune": "Tân An",
+      "former_province": "Đắk Lắk",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Lương Văn Chánh",
+      "managed_by": "",
+      "province": "Đắk Lắk",
+      "commune": "Tuy Hòa",
+      "former_province": "Phú Yên",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Lê Quý Đôn",
+      "managed_by": "",
+      "province": "Điện Biên",
+      "commune": "Điện Biên Phủ",
+      "former_province": "Điện Biên",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Lương Thế Vinh",
+      "managed_by": "",
+      "province": "Đồng Nai",
+      "commune": "Tam Hiệp",
+      "former_province": "Đồng Nai",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Quang Trung",
+      "managed_by": "",
+      "province": "Đồng Nai",
+      "commune": "Đồng Xoài",
+      "former_province": "Bình Phước",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Bình Long",
+      "managed_by": "",
+      "province": "Đồng Nai",
+      "commune": "Bình Long",
+      "former_province": "Bình Phước",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Nguyễn Quang Diêu",
+      "managed_by": "",
+      "province": "Đồng Tháp",
+      "commune": "Mỹ Trà",
+      "former_province": "Đồng Tháp",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Nguyễn Đình Chiểu",
+      "managed_by": "",
+      "province": "Đồng Tháp",
+      "commune": "Tân Dương",
+      "former_province": "Đồng Tháp",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Tiền Giang",
+      "managed_by": "",
+      "province": "Đồng Tháp",
+      "commune": "Trung An",
+      "former_province": "Tiền Giang",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Hùng Vương",
+      "managed_by": "",
+      "province": "Gia Lai",
+      "commune": "Diên Hồng",
+      "former_province": "Gia Lai",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Lê Quý Đôn",
+      "managed_by": "",
+      "province": "Gia Lai",
+      "commune": "Quy Nhơn",
+      "former_province": "Bình Định",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Chu Văn An",
+      "managed_by": "",
+      "province": "Gia Lai",
+      "commune": "Bồng Sơn",
+      "former_province": "Bình Định",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Hà Tĩnh",
+      "managed_by": "",
+      "province": "Hà Tĩnh",
+      "commune": "Trần Phú",
+      "former_province": "Hà Tĩnh",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Hưng Yên",
+      "managed_by": "",
+      "province": "Hưng Yên",
+      "commune": "Phố Hiến",
+      "former_province": "Hưng Yên",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Thái Bình",
+      "managed_by": "",
+      "province": "Hưng Yên",
+      "commune": "Trần Hưng Đạo",
+      "former_province": "Thái Bình",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Lê Quý Đôn – Nam Nha Trang",
+      "managed_by": "",
+      "province": "Khánh Hòa",
+      "commune": "Nam Nha Trang",
+      "former_province": "Khánh Hòa",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Lê Quý Đôn – Đông Hải",
+      "managed_by": "",
+      "province": "Khánh Hòa",
+      "commune": "Đông Hải",
+      "former_province": "Ninh Thuận",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Lê Quý Đôn",
+      "managed_by": "",
+      "province": "Lai Châu",
+      "commune": "Tân Phong",
+      "former_province": "Lai Châu",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Chu Văn An",
+      "managed_by": "",
+      "province": "Lạng Sơn",
+      "commune": "Đông Kinh",
+      "former_province": "Lạng Sơn",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Lào Cai",
+      "managed_by": "",
+      "province": "Lào Cai",
+      "commune": "Cam Đường",
+      "former_province": "Lào Cai",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Nguyễn Tất Thành",
+      "managed_by": "",
+      "province": "Lào Cai",
+      "commune": "Văn Phú",
+      "former_province": "Yên Bái",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Thăng Long",
+      "managed_by": "",
+      "province": "Lâm Đồng",
+      "commune": "Xuân Hương – Đà Lạt",
+      "former_province": "Lâm Đồng",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Bảo Lộc",
+      "managed_by": "",
+      "province": "Lâm Đồng",
+      "commune": "1 Bảo Lộc",
+      "former_province": "Lâm Đồng",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Trần Hưng Đạo",
+      "managed_by": "",
+      "province": "Lâm Đồng",
+      "commune": "Phú Thủy",
+      "former_province": "Bình Thuận",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Nguyễn Chí Thanh",
+      "managed_by": "",
+      "province": "Lâm Đồng",
+      "commune": "Nam Gia Nghĩa",
+      "former_province": "Đắk Nông",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Phan Bội Châu",
+      "managed_by": "",
+      "province": "Nghệ An",
+      "commune": "Trường Vinh",
+      "former_province": "Nghệ An",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Lương Văn Tụy",
+      "managed_by": "",
+      "province": "Ninh Bình",
+      "commune": "Hoa Lư",
+      "former_province": "Ninh Bình",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Lê Hồng Phong",
+      "managed_by": "",
+      "province": "Ninh Bình",
+      "commune": "Nam Định",
+      "former_province": "Nam Định",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Biên Hòa",
+      "managed_by": "",
+      "province": "Ninh Bình",
+      "commune": "Phủ Lý",
+      "former_province": "Hà Nam",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Hùng Vương",
+      "managed_by": "",
+      "province": "Phú Thọ",
+      "commune": "Việt Trì",
+      "former_province": "Phú Thọ",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Vĩnh Phúc",
+      "managed_by": "",
+      "province": "Phú Thọ",
+      "commune": "Vĩnh Phúc",
+      "former_province": "Vĩnh Phúc",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Hoàng Văn Thụ",
+      "managed_by": "",
+      "province": "Phú Thọ",
+      "commune": "Hòa Bình",
+      "former_province": "Hòa Bình",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Lê Khiết",
+      "managed_by": "",
+      "province": "Quảng Ngãi",
+      "commune": "Nghĩa Lộ",
+      "former_province": "Quảng Ngãi",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Nguyễn Tất Thành",
+      "managed_by": "",
+      "province": "Quảng Ngãi",
+      "commune": "Kon Tum",
+      "former_province": "Kon Tum",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Hạ Long",
+      "managed_by": "",
+      "province": "Quảng Ninh",
+      "commune": "Hạ Long",
+      "former_province": "Quảng Ninh",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Lê Quý Đôn",
+      "managed_by": "",
+      "province": "Quảng Trị",
+      "commune": "Nam Đông Hà",
+      "former_province": "Quảng Trị",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Võ Nguyên Giáp",
+      "managed_by": "",
+      "province": "Quảng Trị",
+      "commune": "Đồng Hới",
+      "former_province": "Quảng Bình",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Sơn La",
+      "managed_by": "",
+      "province": "Sơn La",
+      "commune": "Chiềng Sinh",
+      "former_province": "Sơn La",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Hoàng Lê Kha",
+      "managed_by": "",
+      "province": "Tây Ninh",
+      "commune": "Tân Ninh",
+      "former_province": "Tây Ninh",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Trần Văn Giàu",
+      "managed_by": "",
+      "province": "Tây Ninh",
+      "commune": "Long An",
+      "former_province": "Long An",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Thái Nguyên",
+      "managed_by": "",
+      "province": "Thái Nguyên",
+      "commune": "Phan Đình Phùng",
+      "former_province": "Thái Nguyên",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Bắc Kạn",
+      "managed_by": "",
+      "province": "Thái Nguyên",
+      "commune": "Bắc Kạn",
+      "former_province": "Bắc Kạn",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Lam Sơn",
+      "managed_by": "",
+      "province": "Thanh Hóa",
+      "commune": "Hạc Thành",
+      "former_province": "Thanh Hóa",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Tuyên Quang",
+      "managed_by": "",
+      "province": "Tuyên Quang",
+      "commune": "Minh Xuân",
+      "former_province": "Tuyên Quang",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Hà Giang",
+      "managed_by": "",
+      "province": "Tuyên Quang",
+      "commune": "Hà Giang 1",
+      "former_province": "Hà Giang",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Nguyễn Bỉnh Khiêm",
+      "managed_by": "",
+      "province": "Vĩnh Long",
+      "commune": "Phước Hậu",
+      "former_province": "Vĩnh Long",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Bến Tre",
+      "managed_by": "",
+      "province": "Vĩnh Long",
+      "commune": "Phú Tân",
+      "former_province": "Bến Tre",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "THPT chuyên Nguyễn Thiện Thành",
+      "managed_by": "",
+      "province": "Vĩnh Long",
+      "commune": "Long Đức",
+      "former_province": "Trà Vinh",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Đang hoạt động"
+    },
+    {
+      "school": "Khối Phổ thông chuyên Tin",
+      "managed_by": "Đại học Bách khoa Hà Nội",
+      "province": "",
+      "commune": "",
+      "former_province": "",
+      "type": "Trực thuộc đại học",
+      "status": "Giải thể"
+    },
+    {
+      "school": "Khối Phổ thông",
+      "managed_by": "Trường Đại học Bách khoa, Đại học Quốc gia Thành phố Hồ Chí Minh",
+      "province": "",
+      "commune": "",
+      "former_province": "",
+      "type": "Trực thuộc đại học",
+      "status": "Giải thể"
+    },
+    {
+      "school": "Trường Trung học Thực hành",
+      "managed_by": "Trường Đại học Sư phạm Thành phố Hồ Chí Minh",
+      "province": "",
+      "commune": "",
+      "former_province": "",
+      "type": "Trực thuộc đại học",
+      "status": "Dừng đào tạo hệ chuyên; (kể từ năm học 2022–2023)"
+    },
+    {
+      "school": "THPT Nguyễn Hữu Cầu",
+      "managed_by": "",
+      "province": "Thành phố Hồ Chí Minh",
+      "commune": "Bà Điểm",
+      "former_province": "",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Dừng đào tạo hệ chuyên (kể từ năm học 2018–2019)"
+    },
+    {
+      "school": "THPT Củ Chi",
+      "managed_by": "",
+      "province": "Thành phố Hồ Chí Minh",
+      "commune": "Tân An Hội",
+      "former_province": "",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Dừng đào tạo hệ chuyên (kể từ năm học 2018–2019)"
+    },
+    {
+      "school": "THPT Trung Phú",
+      "managed_by": "",
+      "province": "Thành phố Hồ Chí Minh",
+      "commune": "Phú Hòa Đông",
+      "former_province": "",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Dừng đào tạo hệ chuyên (kể từ năm học 2018–2019)"
+    },
+    {
+      "school": "THPT Gia Định",
+      "managed_by": "",
+      "province": "Thành phố Hồ Chí Minh",
+      "commune": "Thạnh Mỹ Tây",
+      "former_province": "",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Dừng tuyển sinh hệ chuyên (kể từ năm học 2025-2026)"
+    },
+    {
+      "school": "THPT Nguyễn Thượng Hiền",
+      "managed_by": "",
+      "province": "Thành phố Hồ Chí Minh",
+      "commune": "Tân Sơn Nhất",
+      "former_province": "",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Dừng tuyển sinh hệ chuyên (kể từ năm học 2025-2026)"
+    },
+    {
+      "school": "THPT Mạc Đĩnh Chi",
+      "managed_by": "",
+      "province": "Thành phố Hồ Chí Minh",
+      "commune": "Phú Lâm",
+      "former_province": "",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Dừng tuyển sinh hệ chuyên (kể từ năm học 2025-2026)"
+    },
+    {
+      "school": "THPT Nguyễn Hữu Huân",
+      "managed_by": "",
+      "province": "Thành phố Hồ Chí Minh",
+      "commune": "Thủ Đức",
+      "former_province": "",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Dừng tuyển sinh hệ chuyên (kể từ năm học 2025-2026)"
+    },
+    {
+      "school": "THPT Nguyễn Trung Trực",
+      "managed_by": "",
+      "province": "An Giang",
+      "commune": "Rạch Giá",
+      "former_province": "",
+      "type": "Trực thuộc tỉnh/thành phố",
+      "status": "Dừng đào tạo hệ chuyên (kể từ năm học 2021–2022)"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách trường trung học phổ thông chuyên tại Việt Nam - Free Download",
+    "description": "Các trường THPT chuyên tại Việt Nam (trực thuộc đại học và trực thuộc tỉnh/thành phố), kèm địa phương và tình trạng hoạt động. Contains 92 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách trường trung học phổ thông chuyên tại Việt Nam | ListBase",
+    "seo_description": "Download Danh sách trường trung học phổ thông chuyên tại Việt Nam — 92 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 92 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%C6%B0%E1%BB%9Dng_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_chuy%C3%AAn_t%E1%BA%A1i_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}

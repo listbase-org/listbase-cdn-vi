@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-24T02:15:18.413Z",
-  "total_datasets": 497,
-  "total_records": 119168,
+  "generated": "2026-10-24T02:15:20.833Z",
+  "total_datasets": 498,
+  "total_records": 119260,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "entertainment",
@@ -655,6 +655,34 @@
         "xlsx": {
           "name": "vi-truong-hoc_VI.xlsx",
           "size": 10044
+        }
+      }
+    },
+    {
+      "id": "vi-truong-thpt-chuyen",
+      "name": "Danh sách trường trung học phổ thông chuyên tại Việt Nam",
+      "category": "education",
+      "record_count": 92,
+      "columns": [
+        "school",
+        "managed_by",
+        "province",
+        "commune",
+        "former_province",
+        "type",
+        "status"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%C6%B0%E1%BB%9Dng_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_chuy%C3%AAn_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 28949,
+      "files": {
+        "csv": {
+          "name": "vi-truong-thpt-chuyen_VI.csv",
+          "size": 13299
+        },
+        "xlsx": {
+          "name": "vi-truong-thpt-chuyen_VI.xlsx",
+          "size": 11256
         }
       }
     },
