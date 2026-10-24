@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-24T02:15:25.678Z",
-  "total_datasets": 500,
-  "total_records": 119409,
+  "generated": "2026-10-24T02:15:27.991Z",
+  "total_datasets": 501,
+  "total_records": 119439,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -2941,6 +2941,36 @@
         "xlsx": {
           "name": "vi-tinh-thanh-2019_VI.xlsx",
           "size": 9358
+        }
+      }
+    },
+    {
+      "id": "vi-trieu-dai",
+      "name": "Danh sách triều đại Việt Nam",
+      "category": "history",
+      "record_count": 30,
+      "columns": [
+        "dynasty",
+        "state_name",
+        "start",
+        "end",
+        "duration",
+        "status",
+        "clan",
+        "first_monarch",
+        "last_monarch"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tri%E1%BB%81u_%C4%91%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 13143,
+      "files": {
+        "csv": {
+          "name": "vi-trieu-dai_VI.csv",
+          "size": 5666
+        },
+        "xlsx": {
+          "name": "vi-trieu-dai_VI.xlsx",
+          "size": 9943
         }
       }
     },

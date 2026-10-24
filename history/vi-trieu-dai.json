@@ -1,0 +1,401 @@
+{
+  "id": "vi-trieu-dai",
+  "name": "Danh sách triều đại Việt Nam",
+  "title": "Danh sách triều đại Việt Nam",
+  "description": "Các triều đại trong lịch sử Việt Nam, kèm quốc hiệu, thời gian cai trị, vị thế, dòng tộc và vị quân chủ đầu tiên/cuối cùng.",
+  "category": "history",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tri%E1%BB%81u_%C4%91%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tri%E1%BB%81u_%C4%91%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "dynasty",
+      "label": "Dynasty",
+      "type": "string"
+    },
+    {
+      "key": "state_name",
+      "label": "State Name",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "end",
+      "label": "End",
+      "type": "string"
+    },
+    {
+      "key": "duration",
+      "label": "Duration",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "clan",
+      "label": "Clan",
+      "type": "string"
+    },
+    {
+      "key": "first_monarch",
+      "label": "First Monarch",
+      "type": "string"
+    },
+    {
+      "key": "last_monarch",
+      "label": "Last Monarch",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "dynasty": "Hồng Bàng thị; 鴻龐氏",
+      "state_name": "2879–2524 TCN: Xích Quỷ; 赤鬼2524–258 TCN: Văn Lang; 文郎",
+      "start": "2879 TCN",
+      "end": "258 TCN",
+      "duration": "2621 năm",
+      "status": "Vương triều",
+      "clan": "",
+      "first_monarch": "Kinh Dương Vương; (Lộc Tục)",
+      "last_monarch": "Hùng Duệ Vương; (Không có)"
+    },
+    {
+      "dynasty": "Nhà Thục; 蜀朝 / 茹蜀",
+      "state_name": "Âu Lạc; 甌雒",
+      "start": "257 TCN",
+      "end": "207 TCN",
+      "duration": "50 năm",
+      "status": "Vương triều",
+      "clan": "Khai Minh; 開明",
+      "first_monarch": "An Dương Vương; (Thục Phán)",
+      "last_monarch": "An Dương Vương; (Thục Phán)"
+    },
+    {
+      "dynasty": "Nhà Triệu; 趙朝 / 茹趙",
+      "state_name": "Nam Việt; 南越",
+      "start": "204 TCN",
+      "end": "111 TCN",
+      "duration": "93 năm",
+      "status": "204–180 TCN;; 125–111 TCN: Vương triều180–125 TCN: Hoàng triều",
+      "clan": "Triệu; 趙",
+      "first_monarch": "Triệu Vũ Đế; (Triệu Đà)",
+      "last_monarch": "Triệu Dương Vương; (Triệu Kiến Đức)"
+    },
+    {
+      "dynasty": "Nhà Tây Hán; 西漢",
+      "state_name": "Không có",
+      "start": "111 TCN",
+      "end": "9",
+      "duration": "120 năm",
+      "status": "Hoàng triều",
+      "clan": "Lưu; 劉",
+      "first_monarch": "Hán Vũ Đế; (Lưu Triệt)",
+      "last_monarch": "Nhũ Tử Anh; (Lưu Anh)"
+    },
+    {
+      "dynasty": "Nhà Tân; 新朝 / 茹新",
+      "state_name": "Không có",
+      "start": "9",
+      "end": "23",
+      "duration": "14 năm",
+      "status": "Hoàng triều",
+      "clan": "Vương; 王",
+      "first_monarch": "Vương Mãng",
+      "last_monarch": "Vương Mãng"
+    },
+    {
+      "dynasty": "Nhà Đông Hán; 東漢",
+      "state_name": "Không có",
+      "start": "25",
+      "end": "220",
+      "duration": "192 năm",
+      "status": "Hoàng triều",
+      "clan": "Lưu; 劉",
+      "first_monarch": "Hán Quang Vũ Đế; (Lưu Tú)",
+      "last_monarch": "Hán Hiến Đế; (Lưu Hiệp)"
+    },
+    {
+      "dynasty": "Nhà Đông Ngô; 東吳",
+      "state_name": "Không có",
+      "start": "229",
+      "end": "280",
+      "duration": "45 năm",
+      "status": "Hoàng triều",
+      "clan": "Tôn; 孫",
+      "first_monarch": "Ngô Đại Đế; (Tôn Quyền)",
+      "last_monarch": "Ngô Mạt Đế; (Tôn Hạo)"
+    },
+    {
+      "dynasty": "Nhà Tây Tấn; 西晉",
+      "state_name": "Không có",
+      "start": "266",
+      "end": "316",
+      "duration": "41 năm",
+      "status": "Hoàng triều",
+      "clan": "Tư Mã; 司馬",
+      "first_monarch": "Tấn Vũ Đế; (Tư Mã Viêm)",
+      "last_monarch": "Tấn Mẫn Đế; (Tư Mã Nghiệp)"
+    },
+    {
+      "dynasty": "Nhà Đông Tấn; 東晉",
+      "state_name": "Không có",
+      "start": "317",
+      "end": "420",
+      "duration": "103 năm",
+      "status": "Hoàng triều",
+      "clan": "Tư Mã; 司馬",
+      "first_monarch": "Tấn Nguyên Đế; (Tư Mã Duệ)",
+      "last_monarch": "Tấn Cung Đế; (Tư Mã Đức Văn)"
+    },
+    {
+      "dynasty": "Nhà Lưu Tống; 劉宋",
+      "state_name": "Không có",
+      "start": "420",
+      "end": "479",
+      "duration": "59 năm",
+      "status": "Hoàng triều",
+      "clan": "Lưu; 劉",
+      "first_monarch": "Lưu Tống Vũ Đế; (Lưu Dụ)",
+      "last_monarch": "Lưu Tống Thuận Đế; (Lưu Chuẩn)"
+    },
+    {
+      "dynasty": "Nhà Nam Tề; 南齊",
+      "state_name": "Không có",
+      "start": "479",
+      "end": "502",
+      "duration": "23 năm",
+      "status": "Hoàng triều",
+      "clan": "Tiêu; 蕭",
+      "first_monarch": "Nam Tề Cao Đế; (Tiêu Đạo Thành)",
+      "last_monarch": "Nam Tề Hòa Đế; (Tiêu Bảo Dung)"
+    },
+    {
+      "dynasty": "Nhà Lương; 梁朝 / 茹梁",
+      "state_name": "Không có",
+      "start": "502",
+      "end": "544",
+      "duration": "42 năm",
+      "status": "Hoàng triều",
+      "clan": "Tiêu; 蕭",
+      "first_monarch": "Lương Võ Đế; (Tiêu Diễn)",
+      "last_monarch": "Lương Võ Đế; (Tiêu Diễn)"
+    },
+    {
+      "dynasty": "Nhà Tiền Lý; 前李朝 / 茹前李",
+      "state_name": "Vạn Xuân; 萬春",
+      "start": "544",
+      "end": "602",
+      "duration": "58 năm",
+      "status": "Hoàng triều",
+      "clan": "Lý; 李",
+      "first_monarch": "Lý Nam Đế; (Lý Bí)",
+      "last_monarch": "Hậu Lý Nam Đế; (Lý Phật Tử)"
+    },
+    {
+      "dynasty": "Nhà Tùy; 隋朝 / 茹隋",
+      "state_name": "Không có",
+      "start": "602",
+      "end": "618",
+      "duration": "16 năm",
+      "status": "Hoàng triều",
+      "clan": "Dương; 楊",
+      "first_monarch": "Tùy Văn Đế; (Dương Kiên)",
+      "last_monarch": "Tùy Dạng Đế; (Dương Quảng)"
+    },
+    {
+      "dynasty": "Nhà Đường; 唐朝 / 茹唐",
+      "state_name": "Không có",
+      "start": "621",
+      "end": "907",
+      "duration": "271 năm",
+      "status": "Hoàng triều",
+      "clan": "Lý; 李",
+      "first_monarch": "Đường Cao Tổ; (Lý Uyên)",
+      "last_monarch": "Đường Ai Đế; (Lý Tộ)"
+    },
+    {
+      "dynasty": "Nhà Võ Chu; 武周",
+      "state_name": "Không có",
+      "start": "690",
+      "end": "705",
+      "duration": "15 năm",
+      "status": "Hoàng triều",
+      "clan": "Võ; 武",
+      "first_monarch": "Võ Tắc Thiên",
+      "last_monarch": "Võ Tắc Thiên"
+    },
+    {
+      "dynasty": "Nhà Nam Hán; 南漢",
+      "state_name": "Không có",
+      "start": "930",
+      "end": "938",
+      "duration": "8 năm",
+      "status": "Hoàng triều",
+      "clan": "Lưu; 劉",
+      "first_monarch": "Nam Hán Cao Tổ; (Lưu Nham)",
+      "last_monarch": "Nam Hán Cao Tổ; (Lưu Nham)"
+    },
+    {
+      "dynasty": "Nhà Ngô; 吳朝 / 茹吳",
+      "state_name": "Tĩnh Hải quân; 靜海軍",
+      "start": "939",
+      "end": "965",
+      "duration": "26 năm",
+      "status": "Vương triều",
+      "clan": "Ngô; 吳",
+      "first_monarch": "Tiền Ngô Vương; (Ngô Quyền)",
+      "last_monarch": "Nam Tấn Vương; (Ngô Xương Văn)Thiên Sách Vương; (Ngô Xương Ngập)"
+    },
+    {
+      "dynasty": "Nhà Đinh; 丁朝 / 茹丁",
+      "state_name": "Đại Cồ Việt; 大瞿越",
+      "start": "968",
+      "end": "980",
+      "duration": "12 năm",
+      "status": "Hoàng triều",
+      "clan": "Đinh; 丁",
+      "first_monarch": "Đinh Tiên Hoàng; (Đinh Bộ Lĩnh)",
+      "last_monarch": "Đinh Phế Đế; (Đinh Toàn)"
+    },
+    {
+      "dynasty": "Nhà Tiền Lê; 前黎朝 / 茹前黎",
+      "state_name": "Đại Cồ Việt; 大瞿越",
+      "start": "980",
+      "end": "1009",
+      "duration": "29 năm",
+      "status": "Hoàng triều",
+      "clan": "Lê; 黎",
+      "first_monarch": "Lê Đại Hành; (Lê Hoàn)",
+      "last_monarch": "Lê Ngọa Triều; (Lê Long Đĩnh)"
+    },
+    {
+      "dynasty": "Nhà Lý; 李朝 / 茹李",
+      "state_name": "1009–1054: Đại Cồ Việt; 大瞿越1054–1225: Đại Việt; 大越",
+      "start": "1009",
+      "end": "1225",
+      "duration": "216 năm",
+      "status": "Hoàng triều",
+      "clan": "Lý; 李",
+      "first_monarch": "Lý Thái Tổ; (Lý Công Uẩn)",
+      "last_monarch": "Lý Chiêu Hoàng; (Lý Phật Kim)"
+    },
+    {
+      "dynasty": "Nhà Trần; 陳朝 / 茹陳",
+      "state_name": "Đại Việt; 大越",
+      "start": "1225",
+      "end": "1400",
+      "duration": "175 năm",
+      "status": "Hoàng triều",
+      "clan": "Trần; 陳",
+      "first_monarch": "Trần Thái Tông; (Trần Cảnh)",
+      "last_monarch": "Trần Thiếu Đế; (Trần An)"
+    },
+    {
+      "dynasty": "Nhà Hồ; 胡朝 / 茹胡",
+      "state_name": "Đại Ngu; 大虞",
+      "start": "1400",
+      "end": "1407",
+      "duration": "7 năm",
+      "status": "Hoàng triều",
+      "clan": "Hồ; 胡",
+      "first_monarch": "Hồ Quý Ly",
+      "last_monarch": "Hồ Hán Thương"
+    },
+    {
+      "dynasty": "Nhà Minh; 明朝 / 茹明",
+      "state_name": "Không có",
+      "start": "1407",
+      "end": "1427",
+      "duration": "20 năm",
+      "status": "Hoàng triều",
+      "clan": "Chu; 朱",
+      "first_monarch": "Minh Thành Tổ; (Chu Đệ)",
+      "last_monarch": "Minh Tuyên Tông; (Chu Chiêm Cơ)"
+    },
+    {
+      "dynasty": "Nhà Hậu Trần; 後陳朝 / 茹後陳",
+      "state_name": "Đại Việt; 大越",
+      "start": "1407",
+      "end": "1413",
+      "duration": "6 năm",
+      "status": "Hoàng triều",
+      "clan": "Trần; 陳",
+      "first_monarch": "Giản Định Đế; (Trần Ngỗi)",
+      "last_monarch": "Trùng Quang Đế; (Trần Quý Khoáng)"
+    },
+    {
+      "dynasty": "Nhà Lê sơ; 黎初朝 / 茹黎初",
+      "state_name": "Đại Việt; 大越",
+      "start": "1428",
+      "end": "1527",
+      "duration": "99 năm",
+      "status": "Hoàng triều",
+      "clan": "Lê; 黎",
+      "first_monarch": "Lê Thái Tổ; (Lê Lợi)",
+      "last_monarch": "Lê Cung Hoàng; (Lê Xuân)"
+    },
+    {
+      "dynasty": "Nhà Mạc; 莫朝 / 茹莫",
+      "state_name": "Đại Việt; 大越",
+      "start": "1527",
+      "end": "1677",
+      "duration": "150 năm",
+      "status": "Hoàng triều",
+      "clan": "Mạc; 莫",
+      "first_monarch": "Mạc Thái Tổ; (Mạc Đăng Dung)",
+      "last_monarch": "Mạc Minh Tông; (Mạc Kính Vũ)"
+    },
+    {
+      "dynasty": "Nhà Lê trung hưng; 黎中興朝 / 茹黎中興",
+      "state_name": "Đại Việt; 大越",
+      "start": "1533",
+      "end": "1789",
+      "duration": "256 năm",
+      "status": "Hoàng triều",
+      "clan": "Lê; 黎",
+      "first_monarch": "Lê Trang Tông; (Lê Ninh)",
+      "last_monarch": "Lê Chiêu Thống; (Lê Duy Khiêm)"
+    },
+    {
+      "dynasty": "Nhà Tây Sơn; 西山朝 / 茹西山",
+      "state_name": "Đại Việt; 大越",
+      "start": "1778",
+      "end": "1802",
+      "duration": "24 năm",
+      "status": "Hoàng triều",
+      "clan": "Nguyễn; 阮",
+      "first_monarch": "Thái Đức; (Nguyễn Nhạc)",
+      "last_monarch": "Cảnh Thịnh; (Nguyễn Quang Toản)"
+    },
+    {
+      "dynasty": "Nhà Nguyễn; 阮朝 / 茹阮",
+      "state_name": "1802–1804: Nam Việt; 南越1804–1839: Việt Nam; 越南1839–1945: Đại Nam; 大南1945: Đế quốc Việt Nam; 帝國越南",
+      "start": "1802",
+      "end": "1945",
+      "duration": "143 năm",
+      "status": "Hoàng triều",
+      "clan": "Nguyễn Phúc; 阮福",
+      "first_monarch": "Gia Long; (Nguyễn Phúc Ánh)",
+      "last_monarch": "Bảo Đại; (Nguyễn Phúc Vĩnh Thụy)"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách triều đại Việt Nam - Free Download",
+    "description": "Các triều đại trong lịch sử Việt Nam, kèm quốc hiệu, thời gian cai trị, vị thế, dòng tộc và vị quân chủ đầu tiên/cuối cùng. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách triều đại Việt Nam | ListBase",
+    "seo_description": "Download Danh sách triều đại Việt Nam — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tri%E1%BB%81u_%C4%91%E1%BA%A1i_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}
