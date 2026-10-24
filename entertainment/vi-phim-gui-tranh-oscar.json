@@ -1,0 +1,205 @@
+{
+  "id": "vi-phim-gui-tranh-oscar",
+  "name": "Danh sách phim Việt Nam được gửi tranh Giải Oscar cho phim quốc tế hay nhất",
+  "title": "Danh sách phim Việt Nam được gửi tranh Giải Oscar cho phim quốc tế hay nhất",
+  "description": "Các bộ phim Việt Nam được chọn gửi tranh giải Oscar hạng mục Phim quốc tế hay nhất qua các năm, kèm đạo diễn và kết quả.",
+  "category": "entertainment",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_phim_Vi%E1%BB%87t_Nam_%C4%91%C6%B0%E1%BB%A3c_g%E1%BB%ADi_tranh_Gi%E1%BA%A3i_Oscar_cho_phim_qu%E1%BB%91c_t%E1%BA%BF_hay_nh%E1%BA%A5t",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_phim_Vi%E1%BB%87t_Nam_%C4%91%C6%B0%E1%BB%A3c_g%E1%BB%ADi_tranh_Gi%E1%BA%A3i_Oscar_cho_phim_qu%E1%BB%91c_t%E1%BA%BF_hay_nh%E1%BA%A5t",
+  "updated": "2026-10",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "title_vi",
+      "label": "Title Vi",
+      "type": "string"
+    },
+    {
+      "key": "title_en",
+      "label": "Title En",
+      "type": "string"
+    },
+    {
+      "key": "director",
+      "label": "Director",
+      "type": "string"
+    },
+    {
+      "key": "result",
+      "label": "Result",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1993; (Lần 66)",
+      "title_vi": "Mùi đu đủ xanh",
+      "title_en": "The Scent of Green Papaya",
+      "director": "Trần Anh Hùng",
+      "result": "Được đề cử"
+    },
+    {
+      "year": "1996; (Lần 69)",
+      "title_vi": "Bụi hồng",
+      "title_en": "Gone, Gone Forever Gone",
+      "director": "Hồ Quang Minh",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "1999; (Lần 72)",
+      "title_vi": "Ba mùa",
+      "title_en": "Three Seasons",
+      "director": "Tony Bùi",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2000; (Lần 73)",
+      "title_vi": "Mùa hè chiều thẳng đứng",
+      "title_en": "Vertical Ray of the Sun",
+      "director": "Trần Anh Hùng",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2003; (Lần 76)",
+      "title_vi": "Vua bãi rác",
+      "title_en": "Foul King",
+      "director": "Đỗ Minh Tuấn",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2005; (Lần 78)",
+      "title_vi": "Mùa len trâu",
+      "title_en": "The Buffalo Boy",
+      "director": "Nguyễn Võ Nghiêm Minh",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2006; (Lần 79)",
+      "title_vi": "Chuyện của Pao",
+      "title_en": "Story of Pao",
+      "director": "Ngô Quang Hải",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2007; (Lần 80)",
+      "title_vi": "Áo lụa Hà Đông",
+      "title_en": "The White Silk Dress",
+      "director": "Lưu Huỳnh",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2009; (Lần 82)",
+      "title_vi": "Đừng đốt",
+      "title_en": "Don't Burn",
+      "director": "Đặng Nhật Minh",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2011; (Lần 84)",
+      "title_vi": "Khát vọng Thăng Long",
+      "title_en": "The Prince and the Pagoda Boy",
+      "director": "Lưu Trọng Ninh",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2012; (Lần 85)",
+      "title_vi": "Mùi cỏ cháy",
+      "title_en": "The Scent of Burning Grass",
+      "director": "Nguyễn Hữu Mười",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2015; (Lần 88)",
+      "title_vi": "Trúng số",
+      "title_en": "Jackpot",
+      "director": "Dustin Nguyễn",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2016; (Lần 89)",
+      "title_vi": "Tôi thấy hoa vàng trên cỏ xanh",
+      "title_en": "Yellow Flowers on the Green Grass",
+      "director": "Victor Vũ",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2017; (Lần 90)",
+      "title_vi": "Cha cõng con",
+      "title_en": "Father and Son",
+      "director": "Lương Đình Dũng",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2018; (Lần 91)",
+      "title_vi": "Cô Ba Sài Gòn",
+      "title_en": "The Tailor",
+      "director": "Trần Bửu Lộc; Kay Nguyễn",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2019; (Lần 92)",
+      "title_vi": "Hai Phượng",
+      "title_en": "Furie",
+      "director": "Lê Văn Kiệt",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2020; (Lần 93)",
+      "title_vi": "Mắt biếc",
+      "title_en": "Dreamy Eyes",
+      "director": "Victor Vũ",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2021; (Lần 94)",
+      "title_vi": "Bố già",
+      "title_en": "Daddy, I'm Sorry",
+      "director": "Trấn Thành; Vũ Ngọc Đãng",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2022; (Lần 95)",
+      "title_vi": "578: Phát đạn của kẻ điên",
+      "title_en": "578 Magnum",
+      "director": "Lương Đình Dũng",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2023; (Lần 96)",
+      "title_vi": "Tro tàn rực rỡ",
+      "title_en": "Glorious Ashes",
+      "director": "Bùi Thạc Chuyên",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2024; (Lần 97)",
+      "title_vi": "Đào, phở và piano",
+      "title_en": "Peach Blossom, Pho and Piano",
+      "director": "Phi Tiến Sơn",
+      "result": "Không được; đề cử"
+    },
+    {
+      "year": "2025; (Lần 98)",
+      "title_vi": "Mưa đỏ",
+      "title_en": "Red Rain",
+      "director": "Đặng Thái Huyền",
+      "result": "Không được; đề cử"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách phim Việt Nam được gửi tranh Giải Oscar cho phim quốc tế hay nhất - Free Download",
+    "description": "Các bộ phim Việt Nam được chọn gửi tranh giải Oscar hạng mục Phim quốc tế hay nhất qua các năm, kèm đạo diễn và kết quả. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách phim Việt Nam được gửi tranh Giải Oscar cho phim quốc tế hay nhất | ListBase",
+    "seo_description": "Download Danh sách phim Việt Nam được gửi tranh Giải Oscar cho phim quốc tế hay nhất — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_phim_Vi%E1%BB%87t_Nam_%C4%91%C6%B0%E1%BB%A3c_g%E1%BB%ADi_tranh_Gi%E1%BA%A3i_Oscar_cho_phim_qu%E1%BB%91c_t%E1%BA%BF_hay_nh%E1%BA%A5t"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-24T02:15:15.932Z",
-  "total_datasets": 496,
-  "total_records": 119146,
+  "generated": "2026-10-24T02:15:18.413Z",
+  "total_datasets": 497,
+  "total_records": 119168,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "environment",
@@ -739,6 +739,32 @@
         "xlsx": {
           "name": "vi-phim-doanh-thu-cao-nhat_VI.xlsx",
           "size": 9952
+        }
+      }
+    },
+    {
+      "id": "vi-phim-gui-tranh-oscar",
+      "name": "Danh sách phim Việt Nam được gửi tranh Giải Oscar cho phim quốc tế hay nhất",
+      "category": "entertainment",
+      "record_count": 22,
+      "columns": [
+        "year",
+        "title_vi",
+        "title_en",
+        "director",
+        "result"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_phim_Vi%E1%BB%87t_Nam_%C4%91%C6%B0%E1%BB%A3c_g%E1%BB%ADi_tranh_Gi%E1%BA%A3i_Oscar_cho_phim_qu%E1%BB%91c_t%E1%BA%BF_hay_nh%E1%BA%A5t",
+      "updated": "2026-10",
+      "size": 7014,
+      "files": {
+        "csv": {
+          "name": "vi-phim-gui-tranh-oscar_VI.csv",
+          "size": 2458
+        },
+        "xlsx": {
+          "name": "vi-phim-gui-tranh-oscar_VI.xlsx",
+          "size": 8251
         }
       }
     },
