@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-24T02:15:30.554Z",
-  "total_datasets": 502,
-  "total_records": 119452,
+  "generated": "2026-10-24T02:15:33.225Z",
+  "total_datasets": 503,
+  "total_records": 119649,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "geography",
@@ -1343,6 +1343,32 @@
         "xlsx": {
           "name": "vi-food-nutrition_VI.xlsx",
           "size": 19464
+        }
+      }
+    },
+    {
+      "id": "vi-mon-an-viet-nam",
+      "name": "Danh sách món ăn Việt Nam",
+      "category": "food",
+      "record_count": 197,
+      "columns": [
+        "name",
+        "group",
+        "region",
+        "type",
+        "description"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_m%C3%B3n_%C4%83n_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 63706,
+      "files": {
+        "csv": {
+          "name": "vi-mon-an-viet-nam_VI.csv",
+          "size": 42877
+        },
+        "xlsx": {
+          "name": "vi-mon-an-viet-nam_VI.xlsx",
+          "size": 22957
         }
       }
     },

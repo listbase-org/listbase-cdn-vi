@@ -1,0 +1,1430 @@
+{
+  "id": "vi-mon-an-viet-nam",
+  "name": "Danh sách món ăn Việt Nam",
+  "title": "Danh sách món ăn Việt Nam",
+  "description": "Các món ăn Việt Nam phân theo nhóm (bún/mì, cơm, xôi, bánh, chè, nước chấm, đồ uống...), kèm địa phương, phân loại và mô tả.",
+  "category": "food",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_m%C3%B3n_%C4%83n_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_m%C3%B3n_%C4%83n_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 197,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bánh canh",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Miền Nam",
+      "type": "Mì",
+      "description": "Được làm từ bột gạo, bột mì, hoặc bột sắn hoặc bột gạo pha bột sắn cán thành tấm và cắt ra thành sợi to và ngắn với nước dùng được nấu từ tôm, cá, giò heo... thêm gia vị tùy theo từng loại"
+    },
+    {
+      "name": "Bánh đa cua",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Hải Phòng",
+      "type": "Bánh đa nước",
+      "description": "Bánh đa với nước dùng riêu cua"
+    },
+    {
+      "name": "Bánh tằm cà ri",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Cà Mau",
+      "type": "",
+      "description": "Bún gạo đặc biệt dùng với cà ri gà cay"
+    },
+    {
+      "name": "Bún bò Huế",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Huế",
+      "type": "Bún nước",
+      "description": "Bún đặc sản của xứ Huế, trong nước dùng có một ít mắm ruốc, góp phần làm nên hương vị rất riêng"
+    },
+    {
+      "name": "Bún bung",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Hà Nội",
+      "type": "Bún nước",
+      "description": "Bún nấu với sườn lợn và dọc mùng"
+    },
+    {
+      "name": "Bún cá",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Hà Nội",
+      "type": "Bún khô",
+      "description": "Bún và chả cá nướng trộn nước mắm, rau sống"
+    },
+    {
+      "name": "Bún chả",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Hà Nội",
+      "type": "Bún",
+      "description": "Bún ăn kèm chả viên và chả miếng với nước chấm"
+    },
+    {
+      "name": "Bún măng vịt",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "",
+      "type": "Bún nước",
+      "description": "Bún măng dùng với nước hầm xương vịt"
+    },
+    {
+      "name": "Bún chả cá",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Đà Nẵng",
+      "type": "Bún nước",
+      "description": "Bún với chả cá chan nước dùng nóng"
+    },
+    {
+      "name": "Bún chạo tôm",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Huế",
+      "type": "Bún khô",
+      "description": "Tôm xiên vào que mía nướng ăn kèm bún, rau sống"
+    },
+    {
+      "name": "Bún đậu mắm tôm",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Miền Bắc",
+      "type": "Bún khô",
+      "description": "Bún ăn với đậu rán và mắm tôm"
+    },
+    {
+      "name": "Bún mắm",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Vĩnh Long, Cần Thơ",
+      "type": "Bún nước",
+      "description": "Bún chan nước dùng làm từ mắm cá linh hay cá sặc"
+    },
+    {
+      "name": "Bún mọc",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Hà Nội",
+      "type": "Bún nước",
+      "description": "Bún với mọc chan nước dùng"
+    },
+    {
+      "name": "Bún ốc",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Miền Bắc",
+      "type": "Bún nước",
+      "description": "Bún, ốc với nước dùng có vị chua"
+    },
+    {
+      "name": "Bún riêu cua",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Khắp cả nước",
+      "type": "Bún nước",
+      "description": "Bún và riêu cua được nấu từ gạch cua, thân cua giã, lọc với quả dọc, cà chua, mỡ nước, mẻ ngấu, nước mắm, muối, hành hoa."
+    },
+    {
+      "name": "Bún thịt nướng",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Huế",
+      "type": "Bún khô",
+      "description": "Bún ăn với thịt nướng cùng nước mắm và rau sống kiểu Huế."
+    },
+    {
+      "name": "Bún thang",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Hà Nội",
+      "type": "Bún nước",
+      "description": "Bún ăn với nước dùng và cần đến 20 nguyên liệu: rau răm, mùi tàu, trứng gà rán mỏng, lườn gà xé, giò lụa thái sợi rải đều trên nền bún trắng. Bún phải là loại bún sợi nhỏ. Trên rắc tôm bông và rải vài lát lạp xường."
+    },
+    {
+      "name": "Cao lầu",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Quảng Nam",
+      "type": "Mì khô",
+      "description": "Đặc sản của Hội An với sợi mì được chế biến rất công phu ăn cùng giá đỗ và thịt xá xíu"
+    },
+    {
+      "name": "Hủ tiếu",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Miền Nam",
+      "type": "Mì khô, mì nước",
+      "description": "Bánh hủ tiếu chan nước dùng với thịt băm nhỏ, lòng heo nấu cùng. Sau đó trụng sơ bánh hủ tiếu với nước dùng, rồi cho các nguyên liệu phụ vào như giá đỗ, hẹ, thịt băm cùng lòng lợn vào"
+    },
+    {
+      "name": "Mì Quảng",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Quảng Nam",
+      "type": "Bánh tráng",
+      "description": "Được làm từ sợi mì bằng bột gạo xay mịn và tráng thành từng lớp bánh mỏng, sau đó thái theo chiều ngang để có những sợi mì mỏng khoảng 2mm. Sợi mì làm bằng bột mỳ được trộn thêm một số phụ gia cho đạt độ dòn, dai. Dưới lớp mì là các loại rau sống, trên mì là thịt heo nạc, tôm, thịt gà cùng với nước dùng"
+    },
+    {
+      "name": "Mì xào",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Khắp cả nước",
+      "type": "Mì",
+      "description": "Mì xào chín giòn với trứng, thịt, rau, hải sản..."
+    },
+    {
+      "name": "Mì xào giòn",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Khắp cả nước",
+      "type": "Mì",
+      "description": "Mì trứng chiên giòn, phủ hải sản, rau và nước sốt"
+    },
+    {
+      "name": "Miến lươn",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Nghệ An",
+      "type": "Miến",
+      "description": "Được nấu từ miến với thịt lươn có hai dạng: dạng miến lươn khô và miến lươn nước nấu nước dùng là nước xương"
+    },
+    {
+      "name": "Miến trộn",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Khắp cả nước",
+      "type": "Miến",
+      "description": "Miến được xào hoặc chần qua, trộn với tôm hoặc cua, nêm gia vị chua ngọt và cay"
+    },
+    {
+      "name": "Phở",
+      "group": "Dạng sợi ( bún / mì các loại)",
+      "region": "Hà Nội, Nam Định",
+      "type": "Phở",
+      "description": "Là một trong những món ăn đặc trưng nhất cho ẩm thực Việt Nam. Thành phần chính của phở là bánh phở và nước dùng (hay nước lèo theo cách gọi miền Nam) cùng với thịt bò hoặc gà cắt lát mỏng. Ngoài ra còn kèm theo các gia vị như: tương, tiêu, chanh, nước mắm, ớt,..."
+    },
+    {
+      "name": "Cơm bụi; Cơm đĩa",
+      "group": "Cơm",
+      "region": "Khắp cả nước",
+      "type": "Cơm tẻ",
+      "description": "Cơm bình dân với nhiều món ăn đa dạng, phong phú. Thông thường thực đơn sẽ bao gồm một dĩa cơm và một phần thức ăn theo lựa chọn, một bát canh."
+    },
+    {
+      "name": "Cơm cháy Ninh Bình; Cơm cháy hải sản",
+      "group": "Cơm",
+      "region": "Ninh Bình, Hải Phòng",
+      "type": "Cơm tẻ",
+      "description": "Cơm cháy là phần cơm dưới đáy nồi khi nấu cơm thường chín vàng giòn, cơm cháy lấy ra xong phải phơi nắng tự nhiên hai, ba nắng, để chỗ thoáng, tránh ẩm mốc, lúc gần ăn mới chiên giòn"
+    },
+    {
+      "name": "Cơm hến",
+      "group": "Cơm",
+      "region": "Huế",
+      "type": "Cơm tẻ",
+      "description": "Cơm nguội trộn với hến luộc, nước hến, mắm ruốc, rau bắp cải, tóp mỡ, bánh tráng nướng, mì xào giòn, ớt màu, đậu phộng nguyên hạt, dầu ăn chín, tiêu và muối"
+    },
+    {
+      "name": "Cơm gà Quảng Nam",
+      "group": "Cơm",
+      "region": "Quảng Nam",
+      "type": "Cơm tẻ",
+      "description": "Cơm tẻ chín tới ăn với gà luộc rưới nước dùng gà"
+    },
+    {
+      "name": "Cơm lam",
+      "group": "Cơm",
+      "region": "Trung du và miền núi phía Bắc, Tây Nguyên",
+      "type": "Cơm nếp",
+      "description": "Được làm từ gạo nếp cùng một số nguyên liệu khác, cho vào ống tre, giang, nứa và nướng chín trên lửa"
+    },
+    {
+      "name": "Cơm nắm",
+      "group": "Cơm",
+      "region": "Miền Bắc",
+      "type": "Cơm tẻ",
+      "description": "Là món ăn có từ rất xa xưa của dân tộc. Cơm trắng nóng hổi đem nén chặt thành tấm bằng hai bàn tay rồi xắt miếng chấm với muối vừng vừa dẻo vừa bùi hài hòa vị mặn, ngọt."
+    },
+    {
+      "name": "Cơm nếp",
+      "group": "Cơm",
+      "region": "Khắp cả nước",
+      "type": "Cơm nếp",
+      "description": "Được nấu bằng gạo nếp, khác biệt với xôi chủ yếu ở phương thức nấu trực tiếp trong nước, không làm chín bằng hơi nước."
+    },
+    {
+      "name": "Cơm rang",
+      "group": "Cơm",
+      "region": "Khắp cả nước",
+      "type": "Cơm tẻ",
+      "description": "Cơm cùng với dầu ăn hoặc mỡ được chiên với những thức ăn khác như thịt, trứng... Món ăn cực kỳ phổ biến tại Việt Nam"
+    },
+    {
+      "name": "Cơm tấm",
+      "group": "Cơm",
+      "region": "Miền Nam (Thành phố Hồ Chí Minh)",
+      "type": "Cơm tấm (gạo tẻ vụn)",
+      "description": "Cơm tấm có thể gồm cả sườn, bì, chả, trứng hoặc không gồm đầy đủ các món trên nhưng phải có nước mắm ngọt"
+    },
+    {
+      "name": "Cơm trắng",
+      "group": "Cơm",
+      "region": "Khắp cả nước",
+      "type": "Cơm tẻ",
+      "description": "Được làm ra từ gạo bằng cách đem nấu với một lượng vừa đủ nước, chỉ có nguyên liệu là gạo tẻ và không có thêm gia vị, là thức ăn gần như hàng ngày của người Việt"
+    },
+    {
+      "name": "Cơm rượu",
+      "group": "Cơm",
+      "region": "Khắp cả nước",
+      "type": "Cơm nếp",
+      "description": "Món ăn có cồn không qua chưng cất, được chế biến từ gạo nếp đồ chín thành xôi, để nguội và ủ với men rượu cho lên men"
+    },
+    {
+      "name": "Cá kho",
+      "group": "Món thường ngày",
+      "region": "Khắp cả nước",
+      "type": "Món cá",
+      "description": "Cá chế biến bằng cách kho với nước hàng, vị chua, vị ngọt và nước mắm"
+    },
+    {
+      "name": "Cá khô",
+      "group": "Món thường ngày",
+      "region": "Khắp cả nước",
+      "type": "Đồ khô",
+      "description": "Cá tươi đem bỏ ruột, để nguyên con, xẻ đôi, rồi đem phơi khô ngoài nắng. Trước khi phơi có khi cá được xát muối để giúp việc bảo quản. Cá thu và cá thiều khô được nhiều người ưa chuộng."
+    },
+    {
+      "name": "Chả",
+      "group": "Món thường ngày",
+      "region": "Khắp cả nước",
+      "type": "Món thịt",
+      "description": "Miếng thịt lợn, thịt bò, cá, tôm, mực..., kích thước thích hợp, nguyên miếng (chả miếng) hay là được băm viên (chả viên), giã hay xay nhuyễn rồi rán hoặc nướng."
+    },
+    {
+      "name": "Dồi",
+      "group": "Món thường ngày",
+      "region": "Khắp cả nước",
+      "type": "Phủ tạng",
+      "description": "Lòng già được nhồi đầy hỗn hợp gồm tiết và các loại rau, gia vị, tỏi, lạc và đậu xanh. Sau khi nhồi đầy chặt thì được hấp cách thủy cho chín hoặc nướng."
+    },
+    {
+      "name": "Dưa muối",
+      "group": "Món thường ngày",
+      "region": "Khắp cả nước",
+      "type": "Lên men",
+      "description": "Sử dụng rất đa dạng các loại rau, củ, quả phối trộn với muối theo một tỉ lệ nhất định theo kinh nghiệm của người ẩm thực không quá mặn cũng không quá nhạt."
+    },
+    {
+      "name": "Giò",
+      "group": "Món thường ngày",
+      "region": "Khắp cả nước",
+      "type": "Món thịt",
+      "description": "Giò là thịt (gia súc, gia cầm) giã nhuyễn, được gói chặt và luộc chín trong nước, thịnh hành trong ẩm thực Việt Nam với nhiều biến thể"
+    },
+    {
+      "name": "Kho quẹt",
+      "group": "Món thường ngày",
+      "region": "",
+      "type": "",
+      "description": ""
+    },
+    {
+      "name": "Mắm chưng",
+      "group": "Món thường ngày",
+      "region": "",
+      "type": "",
+      "description": ""
+    },
+    {
+      "name": "Lòng non; Tràng",
+      "group": "Món thường ngày",
+      "region": "Khắp cả nước",
+      "type": "Phủ tạng",
+      "description": "Lòng lợn non luộc chín hoặc xào"
+    },
+    {
+      "name": "Rau muống xào tỏi",
+      "group": "Món thường ngày",
+      "region": "Khắp cả nước",
+      "type": "Rau xào",
+      "description": "Rau muống luộc qua hoặc không xào trên lửa to với dầu (mỡ) và tỏi đập dập"
+    },
+    {
+      "name": "Riêu; Canh chua",
+      "group": "Món thường ngày",
+      "region": "Khắp cả nước",
+      "type": "Canh",
+      "description": "Các loại rau củ quả nấu với các loại thịt hay thủy sản khác nhau, trong đó dùng một gia vị chua để tạo vị chua thơm ngon cho nước canh"
+    },
+    {
+      "name": "Ruốc; Chà bông",
+      "group": "Món thường ngày",
+      "region": "Khắp cả nước",
+      "type": "Món thịt",
+      "description": "Chế biến từ thịt lợn nạc, thịt gà bỏ xương và da, cá rút xương, bỏ da hoặc tôm to rang chín rồi dùng chày giã dập, cho vào chảo tiếp tục rang, sấy thật nhỏ lửa"
+    },
+    {
+      "name": "Thịt kho",
+      "group": "Món thường ngày",
+      "region": "Khắp cả nước",
+      "type": "Món thịt",
+      "description": "Thịt lợn (luôn phải có mỡ, nếu không phải thêm mỡ hoặc dầu ăn) vào nồi đun cho tới chín, cho thêm nước mắm để có vị mặn nhạt theo sở thích"
+    },
+    {
+      "name": "Thịt kho Tàu",
+      "group": "Món thường ngày",
+      "region": "Khắp cả nước",
+      "type": "Món thịt",
+      "description": "Thịt lợn (có mỡ) kho với trứng và nước dừa"
+    },
+    {
+      "name": "Oản",
+      "group": "Xôi",
+      "region": "Khắp cả nước",
+      "type": "Xôi cúng",
+      "description": "Xôi trắng, đường cát hoặc bột bánh khảo đóng lại thành hình chóp cụt dùng để cúng Phật"
+    },
+    {
+      "name": "Xôi chiên",
+      "group": "Xôi",
+      "region": "Khắp cả nước",
+      "type": "Xôi ăn chính",
+      "description": "Xôi trắng ấn dẹt thành từng bánh rồi chiên ngập dầu, hoặc có thể chiên phồng thành dạng tròn xoay như hình cầu."
+    },
+    {
+      "name": "Xôi đỗ xanh; Xôi đậu xanh",
+      "group": "Xôi",
+      "region": "Miền Bắc, Miền Trung",
+      "type": "Xôi ăn sáng",
+      "description": "Đỗ xanh chà vỏ, ngâm nở và đãi bỏ vỏ (hoặc có thể để nguyên vỏ) trộn với gạo nếp và đồ chín. Đây là một loại xôi phổ biến và có rất nhiều loại xôi tương tự được chế biến với các loại đậu, đỗ"
+    },
+    {
+      "name": "Xôi gà",
+      "group": "Xôi",
+      "region": "Khắp cả nước",
+      "type": "Xôi ăn chính",
+      "description": "Được làm với nước cốt dừa và lá dứa, sau đó xé phay thịt gà luộc hoặc thịt gà quay, thái mỏng lạp sường và bày lên bát xôi như một đồ ăn kèm."
+    },
+    {
+      "name": "Xôi gấc",
+      "group": "Xôi",
+      "region": "Khắp cả nước",
+      "type": "Xôi ăn sáng, xôi cúng",
+      "description": "Là một món ăn ngon, bổ, phổ thông, và rất được ưa chuộng như một đồ thờ cúng ngày lễ, tết, giỗ chạp, hoặc đi kèm với lợn sữa quay trên mâm đồ lễ ăn hỏi. Sử dụng thịt gấc để tạo màu sắc đỏ tươi tắn và hương vị thơm ngon cho món xôi."
+    },
+    {
+      "name": "Xôi lá cẩm",
+      "group": "Xôi",
+      "region": "Khắp cả nước",
+      "type": "Xôi ăn sáng",
+      "description": "Tương tự xôi xéo với đậu xanh tán nhuyễn, nhưng kết hợp với nước sắc của lá cẩm để lấy màu tím đỏ."
+    },
+    {
+      "name": "Xôi lạc; Xôi đậu phộng",
+      "group": "Xôi",
+      "region": "Khắp cả nước",
+      "type": "Xôi",
+      "description": "Lạc nhân được luộc chín mềm, trộn đều với gạo nếp đã ngâm và đem lên đồ theo cách làm xôi thông thường"
+    },
+    {
+      "name": "Xôi ngũ sắc",
+      "group": "Xôi",
+      "region": "Tây Bắc Bộ",
+      "type": "Xôi ăn chính, xôi cúng",
+      "description": "Xôi được nấu kết hợp với các loại nước sắc của lá cơm xanh, cơm đỏ, cơm vàng để tạo màu. Thịnh hành với các dân tộc thiểu số (Mường, Tày, Thái). 5 màu xôi tượng trưng cho ngũ hành"
+    },
+    {
+      "name": "Xôi sắn",
+      "group": "Xôi",
+      "region": "Miền Bắc",
+      "type": "Xôi ăn sáng, ăn chính",
+      "description": "Gạo nếp trộn đều với củ sắn nếp đã bào thành sợi hoặc chặt miếng nhỏ, đồ chín và gia chút hành phi, mỡ nước."
+    },
+    {
+      "name": "Xôi trắng",
+      "group": "Xôi",
+      "region": "Khắp cả nước",
+      "type": "Xôi ăn sáng, ăn chính, xôi cúng",
+      "description": "Chỉ với gạo nếp và chút muối, không có bất cứ một nguyên liệu phụ nào khác hoặc đôi khi chỉ được kết hợp với một chút màu thực phẩm. Xôi trắng thường rất thịnh hành như một thứ quà trong sự kết hợp với các thực phẩm động vật"
+    },
+    {
+      "name": "Xôi vò",
+      "group": "Xôi",
+      "region": "Khắp cả nước",
+      "type": "Xôi ăn chính, xôi cúng",
+      "description": "Điểm đặc biệt của loại xôi này là các hạt xôi được tách rất rời nhưng vẫn rất dẻo. Gần tương tự xôi xéo với đậu xanh đồ chín tán nhuyễn, nhưng gạo nếp được đồ riêng với một chút lá dứa lấy mùi thơm, và có thể có một chút bột dành dành, bột nghệ tạo màu"
+    },
+    {
+      "name": "Xôi xéo",
+      "group": "Xôi",
+      "region": "Hà Nội",
+      "type": "Xôi ăn sáng",
+      "description": "Xôi đặt trong bát, lấy dao lạng mỏng từng lát xéo đậu xanh lên trên, rắc hành phi và rưới chút mỡ nước. Đây được coi là một trong những món xôi khó nấu ngon nhất"
+    },
+    {
+      "name": "Cháo lòng",
+      "group": "Dạng lỏng ( cháo / súp các loại)",
+      "region": "Khắp cả nước",
+      "type": "Cháo",
+      "description": "Cháo kết hợp với nước dùng ngọt làm từ xương lợn hay nước luộc lòng lợn, và nguyên liệu chính cho bát cháo không thể thiếu các món phủ tạng lợn luộc"
+    },
+    {
+      "name": "Cháo trắng",
+      "group": "Dạng lỏng ( cháo / súp các loại)",
+      "region": "Khắp cả nước",
+      "type": "Cháo",
+      "description": "Nấu gạo chín nhừ trong nước. Để được thành cháo thường thì thể tích nước phải hơn gấp 3 lần thể tích gạo"
+    },
+    {
+      "name": "Lẩu",
+      "group": "Dạng lỏng ( cháo / súp các loại)",
+      "region": "Khắp cả nước",
+      "type": "Lẩu",
+      "description": "Gồm một nồi nước dùng đang sôi, các món ăn sống được để xung quanh và người ăn gắp đồ ăn sống bỏ vào nồi nước dùng, đợi chín tới và ăn nóng"
+    },
+    {
+      "name": "Mướp đắng nhồi thịt; Canh khổ qua nhồi thịt",
+      "group": "Dạng lỏng ( cháo / súp các loại)",
+      "region": "Khắp cả nước",
+      "type": "Canh",
+      "description": "Mướp đắng được nhồi thịt, bó lại bằng hành hoa nấu trong nước xương ninh"
+    },
+    {
+      "name": "Ốc nấu chuối đậu",
+      "group": "Dạng lỏng ( cháo / súp các loại)",
+      "region": "Khắp cả nước",
+      "type": "Canh",
+      "description": "Món ăn dân dã nhưng khá cầu kỳ với ốc luộc chín nấu cùng chuối xanh, đậu rán, thịt ba chỉ, có lá lốt, tía tô"
+    },
+    {
+      "name": "Súp cua",
+      "group": "Dạng lỏng ( cháo / súp các loại)",
+      "region": "Khắp cả nước",
+      "type": "Súp",
+      "description": "Món súp với thịt cua, trứng gà hoặc trứng cút ngoài ra còn có xương gà để làm súp thêm vị ngọt và bỗ dưỡng hoặc hạt bắp."
+    },
+    {
+      "name": "Súp yến",
+      "group": "Dạng lỏng ( cháo / súp các loại)",
+      "region": "Khắp cả nước",
+      "type": "Súp",
+      "description": "Món ăn sang trọng, đắt tiền, bổ dưỡng nằm trong Bát trân nấu từ tổ yến với đường."
+    },
+    {
+      "name": "Bò kho",
+      "group": "Dạng lỏng ( cháo / súp các loại)",
+      "region": "Khắp cả nước",
+      "type": "Canh",
+      "description": "Thịt bò tẩm ướp hầm chung với rau củ"
+    },
+    {
+      "name": "Bánh cuốn; Bánh ướt",
+      "group": "Món cuốn",
+      "region": "Khắp cả nước",
+      "type": "Bánh tẻ",
+      "description": "Bột gạo hấp tráng mỏng, để ăn khi còn ướt, bên trong cuốn nhân. Bánh thường ăn với một loại nước chấm pha nhạt từ nước mắm"
+    },
+    {
+      "name": "Bò bía",
+      "group": "Món cuốn",
+      "region": "Khắp cả nước",
+      "type": "Bánh bột mì",
+      "description": "Gồm bò bía mặn và bò bía ngọt, đều là bột mì cuốn các nguyện liệu khác"
+    },
+    {
+      "name": "Nem rán; Chả giò",
+      "group": "Món cuốn",
+      "region": "Khắp cả nước",
+      "type": "Bánh đa nem cuốn",
+      "description": "Món ăn ngon, nổi tiếng của người Việt và được chế biến từ thịt, trứng, rau củ quả băm nhỏ trộn đều, gói trong bánh đa nem và rán giòn"
+    },
+    {
+      "name": "Gỏi cá",
+      "group": "Món cuốn",
+      "region": "Khắp cả nước",
+      "type": "Bánh đa nem cuốn",
+      "description": "Thịt cá sống cuốn trong bánh đa nem cùng rau thơm ăn với nước chấm"
+    },
+    {
+      "name": "Nem cuốn; Gỏi cuốn",
+      "group": "Món cuốn",
+      "region": "Khắp cả nước",
+      "type": "Bánh đa nem cuốn",
+      "description": "Bánh đa nem cuộn với các loại rau thơm, bún, và một số loại thịt như thịt bò, lợn, vịt, tôm, cá, cua đã nấu chín."
+    },
+    {
+      "name": "Nem chua",
+      "group": "Món cuốn",
+      "region": "Khắp cả nước",
+      "type": "Lên men",
+      "description": "Sử dụng thịt lợn, lợi dụng men của lá và thính gạo để ủ chín, có vị chua ngậy. Đặc sản nổi tiếng ở Việt Nam"
+    },
+    {
+      "name": "Bánh bá trạng",
+      "group": "Bánh mặn",
+      "region": "",
+      "type": "Bánh bột mì",
+      "description": "Bánh bao Bak Chang - tương tự bánh ú (zongzi) của Trung Quốc"
+    },
+    {
+      "name": "Bánh bao",
+      "group": "Bánh mặn",
+      "region": "Khắp cả nước",
+      "type": "Bánh bột mì",
+      "description": "Làm bằng bột mỳ hấp có nhân gồm thịt heo xay, mộc nhĩ, nấm hương, hành, miến, lạp xưởng, trứng chim cút hoặc trứng gà."
+    },
+    {
+      "name": "Bánh tiêu",
+      "group": "Bánh mặn",
+      "region": "Khắp cả nước",
+      "type": "Bánh bột mì",
+      "description": "Bánh vị ngọt được chế biến bằng những nguyên liệu gồm bột mì và bột khai cùng với đường vừng / mè và chế biến bằng phương pháp rán sôi qua chảo dầu nóng"
+    },
+    {
+      "name": "Bánh bèo",
+      "group": "Bánh mặn",
+      "region": "Quảng Bình",
+      "type": "Bánh tẻ",
+      "description": "Bánh làm từ bột gạo, nhân để rắc lên bánh làm bằng tôm xay nhuyễn, và nước chấm, một hỗn hợp mà nước mắm là thành phần chính và thường đổ trực tiếp vào bánh"
+    },
+    {
+      "name": "Bánh bột lọc",
+      "group": "Bánh mặn",
+      "region": "Bắc Trung Bộ",
+      "type": "Bánh bột sắn",
+      "description": "Bằng bột sắn được luộc một phần nhỏ, nhồi kỹ. Nhân thường bằng tôm trộn với gia vị, có thể làm nhân bằng thịt heo nạc hay hỗn hợp tôm-thịt heo"
+    },
+    {
+      "name": "Bánh căn",
+      "group": "Bánh mặn",
+      "region": "Khánh Hòa, Ninh Thuận, Bình Thuận",
+      "type": "Bánh tẻ",
+      "description": "Bằng bột gạo nướng. Làm bánh căn thường phải có khuôn đúc đặc biệt, thường làm bằng đất nung, và có nhiều lỗ tròn để đặt khuôn. Vì bánh căn nhỏ nên thường tính theo cặp chứ không theo cái, ở giữa có thể quét mỡ hành hoặc đổ trứng."
+    },
+    {
+      "name": "Bánh chưng",
+      "group": "Bánh mặn",
+      "region": "Miền Bắc",
+      "type": "Bánh nếp",
+      "description": "Là loại bánh duy nhất có lịch sử lâu đời trong ẩm thực truyền thống Việt Nam còn được sử sách nhắc lại, bánh chưng có vị trí đặc biệt trong tâm thức của cộng đồng người Việt"
+    },
+    {
+      "name": "Bánh cống",
+      "group": "Bánh mặn",
+      "region": "Cần Thơ",
+      "type": "Bánh bột sắn",
+      "description": "Là hỗn hợp của thịt heo băm nhuyễn trộn với củ sắn và đậu xanh nguyên hột, trên mặt bánh có một con tôm nằm khoanh tròn"
+    },
+    {
+      "name": "Bánh dày",
+      "group": "Bánh mặn",
+      "region": "Khắp cả nước",
+      "type": "Bánh nếp",
+      "description": "Được làm bằng xôi đã được giã thật mịn, có thể có nhân đậu xanh và sợi dừa với vị ngọt hoặc mặn. Bánh có thể được làm vào các dịp Tết cổ truyền của dân tộc Việt và vào ngày Giỗ Tổ Hùng Vương"
+    },
+    {
+      "name": "Bánh đúc",
+      "group": "Bánh mặn",
+      "region": "Khắp cả nước",
+      "type": "Bánh tẻ",
+      "description": "Làm bằng bột gạo (tại miền Bắc và miền Trung) hoặc bột năng (miền Nam) với nước vôi trong một số gia vị. Bánh được làm thành tấm to, khi ăn thì cắt nhỏ thành miếng tùy thích."
+    },
+    {
+      "name": "Bánh giò",
+      "group": "Bánh mặn",
+      "region": "Khắp cả nước",
+      "type": "Bánh tẻ",
+      "description": "Bằng bột tẻ lọc, thịt nạc vai dùng chế biến nhân có kèm mộc nhĩ, hành khô, hạt tiêu, nước mắm, muối... Bánh giò có hình dài nhô cao như hình bàn tay úp"
+    },
+    {
+      "name": "Bánh gối; Pa tê sô",
+      "group": "Bánh mặn",
+      "region": "Khắp cả nước",
+      "type": "Bánh rán",
+      "description": "Được làm bằng nhiều lớp bột và chiên giòn. Theo truyền thống, nhân thịt lợn, nhưng ngày nay thịt gà và thịt bò cũng được sử dụng."
+    },
+    {
+      "name": "Bánh hỏi",
+      "group": "Bánh mặn",
+      "region": "Duyên hải Nam Trung Bộ",
+      "type": "Bánh tẻ",
+      "description": "Được làm từ bột gạo và có quy trình chế biến đặc biệt công phu, tỉ mỉ thường ăn chung với mỡ hành, thịt quay, thịt nướng, lòng heo..."
+    },
+    {
+      "name": "Bánh ít",
+      "group": "Bánh mặn",
+      "region": "Khắp cả nước",
+      "type": "Bánh tẻ",
+      "description": "Làm từ bột nếp và bột đậu xanh với phương pháp hấp cách thủy. nhân bánh ít được xào chín trước khi gói cẩn thận bằng lá gai hoặc lá chuối tơ"
+    },
+    {
+      "name": "Bánh ít trần",
+      "group": "Bánh mặn",
+      "region": "Khắp cả nước",
+      "type": "Bánh tẻ",
+      "description": "Bánh ít không gói trong lá, thường rắc ruốc tôm, ruốc thịt lên trên"
+    },
+    {
+      "name": "Bánh khọt",
+      "group": "Bánh mặn",
+      "region": "Bà Rịa – Vũng Tàu",
+      "type": "Bánh tẻ",
+      "description": "Bằng bột gạo, có nhân tôm, được rán và ăn kèm với rau sống, ớt tươi, chấm nước sốt mắm tôm (không phải mắm tôm hay mắm tôm chua)"
+    },
+    {
+      "name": "Bánh khúc",
+      "group": "Bánh mặn",
+      "region": "Miền Bắc",
+      "type": "Bánh nếp phủ xôi",
+      "description": "Làm từ lá rau khúc nếp, gạo nếp, nhân đậu xanh, thịt lợn mỡ có bọc ở ngoài bằng xôi"
+    },
+    {
+      "name": "Bánh mì",
+      "group": "Bánh mặn",
+      "region": "Khắp cả nước",
+      "type": "Bánh bột mì",
+      "description": "Bánh mì rạch đôi kẹp nhân ở giữa. Rất nhiều chủng loại khác nhau tùy vào nhân"
+    },
+    {
+      "name": "Bánh nậm",
+      "group": "Bánh mặn",
+      "region": "Huế",
+      "type": "Bánh tẻ",
+      "description": "Bằng bột tẻ, bánh mỏng dẹp với nhân nấm, thịt lợn, tiêu, ớt gói trong lá chuối"
+    },
+    {
+      "name": "Bánh quai vạc",
+      "group": "Bánh mặn",
+      "region": "Nam Trung Bộ, miền Nam",
+      "type": "Bánh bột năng, bánh rán",
+      "description": "Được làm từ bột (khoai) mì tinh (hay bột năng) bên trong nhân có thể chứa tôm, thịt rồi đem luộc. Ở miền Nam thường xuất hiện phổ biến dưới dạng bánh chiên."
+    },
+    {
+      "name": "Bánh hòn tai",
+      "group": "Bánh mặn",
+      "region": "Phú Thọ",
+      "type": "Bánh tẻ",
+      "description": "Làm từ bột gạo tẻ, thịt lợn và một số gia vị khác"
+    },
+    {
+      "name": "Bánh tẻ",
+      "group": "Bánh mặn",
+      "region": "Miền Bắc",
+      "type": "Bánh tẻ",
+      "description": "Bột gạo tẻ, gói ngoài bằng lá dong và được luộc cho chín."
+    },
+    {
+      "name": "Bánh tét",
+      "group": "Bánh mặn",
+      "region": "Miền Nam",
+      "type": "Bánh nếp",
+      "description": "Là nét tương đồng của bánh chưng ở Miền Bắc về nguyên liệu, cách nấu, chỉ khác về hình dáng và sử dụng lá chuối để gói thay vì lá dong, nhưng cũng có nhiều bánh tét nhân chuối hay đậu đen."
+    },
+    {
+      "name": "Bánh tôm Hồ Tây",
+      "group": "Bánh mặn",
+      "region": "Hà Nội",
+      "type": "Bánh rán",
+      "description": "Tôm (nước ngọt) hồ Tây bọc bột mì cho vào chảo mỡ nóng già ngập bánh cho chín tới. Khi bánh phồng lên và ngả màu vàng có bốc mùi thơm ngậy"
+    },
+    {
+      "name": "Bánh tráng",
+      "group": "Bánh mặn",
+      "region": "Miền Trung",
+      "type": "Bánh từ bột gạo",
+      "description": "Bánh làm từ bột gạo, tráng mỏng như tờ giấy"
+    },
+    {
+      "name": "Bánh xèo",
+      "group": "Bánh mặn",
+      "region": "Khắp cả nước",
+      "type": "Bánh rán",
+      "description": "Bằng bột gạo bên ngoài, bên trong có nhân là tôm, thịt, giá đỗ, được rán màu vàng, đúc thành hình tròn hoặc gấp lại thành hình bán nguyệt"
+    },
+    {
+      "name": "Bột chiên",
+      "group": "Bánh mặn",
+      "region": "Miền Nam",
+      "type": "Bánh bột gạo",
+      "description": "Bánh gạo chiên với trứng và dùng với nước tương."
+    },
+    {
+      "name": "Bánh phồng tôm",
+      "group": "Bánh mặn",
+      "region": "Miền Nam",
+      "type": "Bánh bột gạo",
+      "description": "Bánh làm từ bột gạo và tôm, được chiên giòn lên."
+    },
+    {
+      "name": "Bánh bò",
+      "group": "Bánh ngọt",
+      "region": "Miền Nam",
+      "type": "Bánh ngọt",
+      "description": "Bánh xốp làm từ: bột gạo, nước, đường và men. Mặt bánh có rất nhiều bong bóng nhỏ do có nhiều lỗ khí trong bánh"
+    },
+    {
+      "name": "Bánh cáy",
+      "group": "Bánh ngọt",
+      "region": "Thái Bình",
+      "type": "Bánh ngọt",
+      "description": "Bằng gạo nếp, và các nguyên liệu phụ khác như: gấc hoặc là lá dành dành, lạc, vừng, cà rốt, gừng, vỏ quýt, mỡ lợn."
+    },
+    {
+      "name": "Bánh chuối",
+      "group": "Bánh ngọt",
+      "region": "Khắp cả nước",
+      "type": "Bánh ngọt",
+      "description": "Bánh bột nhân chuối"
+    },
+    {
+      "name": "Bánh cốm",
+      "group": "Bánh ngọt",
+      "region": "Hà Nội",
+      "type": "Bánh ngọt",
+      "description": "Làm từ cốm, nhân đậu xanh, dừa nạo và mứt bí hoặc mứt sen trần, thường dùng cho lễ ăn hỏi. Cốm được trộn nước theo tỷ lệ nhất định, đảo đều trên lửa, hoặc hấp chín trộn chút đường và nước hoa bưởi."
+    },
+    {
+      "name": "Bánh giầy đỗ; Bánh giầy đậu",
+      "group": "Bánh ngọt",
+      "region": "Miền Bắc",
+      "type": "Bánh ngọt",
+      "description": "Bằng bột nếp hoặc xôi đồ chín giã nguyễn trong có nhân đậu xanh sên đường và bánh được phủ một lớp đậu xanh luộc, nghiền mịn, không đường ở ngoài."
+    },
+    {
+      "name": "Bánh da lợn",
+      "group": "Bánh ngọt",
+      "region": "Miền Nam",
+      "type": "Bánh ngọt",
+      "description": "Bằng bột năng, đường trắng, dừa nạo, va ni hay lá dứa và một số gia vị khác. Nhân bánh được làm từ đậu xanh, khoai môn nghiền mịn hoặc bào sợi hấp chín và bột gạo, đường"
+    },
+    {
+      "name": "Bánh đậu xanh",
+      "group": "Bánh ngọt",
+      "region": "Hải Dương",
+      "type": "Bánh ngọt",
+      "description": "Làm từ bột đậu xanh quyết nhuyễn với đường và dầu thực vật hay mỡ động vật, thường là mỡ heo. Bánh được cắt thành từng khối vuông nhỏ, gói giấy bạc thành hộp nhỏ hay gói giấy thấm mỡ thành từng thỏi"
+    },
+    {
+      "name": "Bánh flan",
+      "group": "Bánh ngọt",
+      "region": "Khắp cả nước",
+      "type": "Bánh ngọt",
+      "description": "Bánh được hấp chín từ các nguyên liệu chính là trứng và sữa, caramel"
+    },
+    {
+      "name": "Bánh gai",
+      "group": "Bánh ngọt",
+      "region": "Miền Bắc",
+      "type": "Bánh ngọt",
+      "description": "Vỏ bánh là bột gạo nếp và lá cây gai, nhân bánh mỡ lợn thái nhỏ, tinh dầu chuối, cơm dừa, đỗ xanh nấu chín. Bánh có dạng hình vuông, màu đen, gói trong lá gai nâu"
+    },
+    {
+      "name": "Bánh tro",
+      "group": "Bánh ngọt",
+      "region": "Miền Bắc",
+      "type": "Bánh ngọt",
+      "description": "Một số loại lá được đốt lên lấy tro để ngâm cùng với gạo nếp tạo ra màu nâu vàng như màu hổ phách cũng như hương vị đặc trưng của bánh. Phổ biến nhất vẫn là cách gói bánh thuôn dài. Bánh ăn chấm đường hoặc mật ong,mật mía."
+    },
+    {
+      "name": "Bánh in",
+      "group": "Bánh ngọt",
+      "region": "Huế",
+      "type": "Bánh ngọt",
+      "description": "Được làm từ bột năng, bột nếp, đậu xanh, đường, các nguyên liệu khác và được ép, đúc thành khuôn mặt đáy của bánh khó khắc các hình chữ Thọ, Phúc, Lộc và gói trong giấy ngũ sắc. Đây là loại bánh để dùng trong ngày Tết, phục vụ việc thờ cúng và đãi khách"
+    },
+    {
+      "name": "Bánh kẹp lá dứa",
+      "group": "Bánh ngọt",
+      "region": "Khắp cả nước",
+      "type": "Bánh ngọt",
+      "description": "Bánh quế"
+    },
+    {
+      "name": "Bánh khoai mì",
+      "group": "Bánh ngọt",
+      "region": "",
+      "type": "Bánh ngọt",
+      "description": "Bánh làm từ khoai mì"
+    },
+    {
+      "name": "Bánh khảo",
+      "group": "Bánh ngọt",
+      "region": "Miền Bắc (Hải Dương)",
+      "type": "Bánh ngọt",
+      "description": "Bột nếp rang với đường, nhân là mứt bí và mỡ phần"
+    },
+    {
+      "name": "Bánh lọt",
+      "group": "Bánh ngọt",
+      "region": "Miền Nam",
+      "type": "Bánh ngọt",
+      "description": "Bằng bột gạo cùng bột năng có mùi thơm của nước cốt dừa, đường thắng, màu xanh trắng của lá dứa, vị man mát"
+    },
+    {
+      "name": "Bánh mật",
+      "group": "Bánh ngọt",
+      "region": "Miền Bắc",
+      "type": "Bánh nếp",
+      "description": "Làm từ bột gạo nếp trộn mật nhân đậu xanh gói lá chuối đồ bằng chõ"
+    },
+    {
+      "name": "Bánh nhãn",
+      "group": "Bánh ngọt",
+      "region": "Nam Định",
+      "type": "Bánh ngọt",
+      "description": "Bằng bột làm từ loại gạo nếp hương hay nếp cái hoa vàng Hải Hậu. Ngoài ra cần phải có trứng gà, đường trắng (hoặc đường phèn) và mỡ lợn"
+    },
+    {
+      "name": "Bánh pía",
+      "group": "Bánh ngọt",
+      "region": "Cần Thơ",
+      "type": "Bánh ngọt",
+      "description": "Được làm bằng bột mì, sầu riêng, lòng đỏ trứng"
+    },
+    {
+      "name": "Bánh phu thê",
+      "group": "Bánh ngọt",
+      "region": "Bắc Ninh",
+      "type": "Bánh nếp",
+      "description": "Tinh bột gạo nếp lọc ra đem xay cho thật nhuyễn rồi phơi hoặc sấy khô, nhân bánh là đỗ xanh ngâm kỹ đãi sạch vỏ. Đem hấp chín, nghiền mịn, thắng với đường và trộn lẫn vài sợi dừa đã được nạo nhỏ"
+    },
+    {
+      "name": "Bánh rế",
+      "group": "Bánh ngọt",
+      "region": "Bình Thuận",
+      "type": "Bánh khoai",
+      "description": "Làm bằng khoai lang và đường nấu chảy được tưới lên mặt bánh như cái rế"
+    },
+    {
+      "name": "Bánh rán",
+      "group": "Bánh ngọt",
+      "region": "Miền Bắc",
+      "type": "Bánh nếp",
+      "description": "Bằng gạo nếp viên tròn nhân đỗ xanh xay nhuyễn, chiên vàng giòn ngập mỡ, thường có nhân ngọt hoặc phủ đường bên ngoài"
+    },
+    {
+      "name": "Bánh tai heo",
+      "group": "Bánh ngọt",
+      "region": "Khắp cả nước",
+      "type": "Bánh rán",
+      "description": "Làm từ bột mì, đường cát, mè trắng, sữa đặc, trứng gà, bơ, vani, dầu ăn, muối, nước... và được chế biến theo phương pháp chiên giòn. Bánh có vị mặn, bùi ngọt và rất dòn, khô."
+    },
+    {
+      "name": "Bánh trôi; Bánh chay",
+      "group": "Bánh ngọt",
+      "region": "Miền Bắc",
+      "type": "Bánh",
+      "description": "Bằng bột của cả gạo nếp lẫn gạo tẻ, đường phên, nước hoa bưởi, dừa nạo, vừng (mè) đã xát vỏ. Đối với riêng bánh chay thì thêm đỗ xanh, đường cát, bột đao hoặc bột sắn dây, chút gừng giã nhỏ vắt lấy nước."
+    },
+    {
+      "name": "Bánh trung thu; Bánh nướng,Bánh dẻo",
+      "group": "Bánh ngọt",
+      "region": "Khắp cả nước",
+      "type": "Bánh ngọt",
+      "description": "Bánh truyền thống trong Tết Trung thu thường gồm có một lớp vỏ mỏng (bề dày không quá 1 cm), làm bằng bột mì, ít hương vị, bao bọc khối nhân rất ngọt và hơi có dầu"
+    },
+    {
+      "name": "Bò bảy món",
+      "group": "Biến tấu",
+      "region": "Miền Nam",
+      "type": "Món thịt",
+      "description": "7 món nấu từ thịt bò: Gỏi bò, Bò chả đùm, Bò nhúng dấm, Bò nướng mỡ chài, Bò lá lốt, Bò nướng hành, Cháo Bò"
+    },
+    {
+      "name": "Bò sốt vang",
+      "group": "Biến tấu",
+      "region": "Khắp cả nước",
+      "type": "Món thịt",
+      "description": "Thịt bò được nấu với rau củ, rượu vang cho đặc sánh lại. Là món ẩm thực Pháp nhưng được Việt hóa và trở thành đặc trưng của Việt Nam"
+    },
+    {
+      "name": "Bò nướng lá lốt",
+      "group": "Biến tấu",
+      "region": "Khắp cả nước",
+      "type": "Món thịt",
+      "description": "Thịt bò xay cuộn lá lốt"
+    },
+    {
+      "name": "Cá lóc nướng trui",
+      "group": "Biến tấu",
+      "region": "Miền Nam",
+      "type": "Món cá",
+      "description": "Cá không cần sơ chế (không đánh vảy, cạo nhớt, mổ bụng, tẩm ướp gia vị) vừa bắt dưới sông lên, rửa sạch, được xuyên bằng một que dài từ miệng đến đuôi, vùi cá vào đống rơm khô rồi châm lửa đốt."
+    },
+    {
+      "name": "Chả cá thát lát",
+      "group": "Biến tấu",
+      "region": "Đắk Lắk, Huế",
+      "type": "Chả",
+      "description": "Làm từ thịt của cá thát lát, thường là lóc thịt, bỏ da và xương rồi giã hay xay nhuyễn thành chả viên, rồi đem xào, chiên hay làm lẩu."
+    },
+    {
+      "name": "Giả cầy",
+      "group": "Biến tấu",
+      "region": "Miền Bắc",
+      "type": "Món thịt",
+      "description": "Chân giò lợn đem thui lửa cho vàng rồi đem ninh với giềng, mẻ, mắm tôm, tạo ra hương vị gần giống như thịt chó."
+    },
+    {
+      "name": "Mực khô; Khô mực",
+      "group": "Biến tấu",
+      "region": "Các vùng duyên hải",
+      "type": "Mực",
+      "description": "Mực được sấy khô hoặc phơi nắng rồi đem nướng hoặc rim chua ngọt để dùng kèm với bia."
+    },
+    {
+      "name": "Nộm sứa; Gỏi sứa",
+      "group": "Biến tấu",
+      "region": "Các vùng duyên hải",
+      "type": "Sứa",
+      "description": "Món nộm sử dụng nguyên liệu chính là sứa đã được sơ chế, trộn chua ngọt với các loại rau, thịt động vật và gia vị."
+    },
+    {
+      "name": "Ốc luộc",
+      "group": "Biến tấu",
+      "region": "Khắp cả nước",
+      "type": "Ốc",
+      "description": "Ốc luộc lên với sả, khi ăn khều ra chấm nước mắm chua ngọt pha gừng"
+    },
+    {
+      "name": "Ốc bươu nhồi thịt",
+      "group": "Biến tấu",
+      "region": "Khắp cả nước",
+      "type": "Ốc",
+      "description": "Thịt ốc bằm nhuyễn dùng với thịt heo xay, cà rốt, nấm mèo nhồi"
+    },
+    {
+      "name": "Quẩy",
+      "group": "Biến tấu",
+      "region": "Khắp cả nước",
+      "type": "Bánh rán",
+      "description": "Bột mỳ pha thêm bột nở, rán vừa chín có dạng một cặp gồm thanh bánh dài có kích thước bằng chiếc xúc xích nhỏ dính nhau, ăn bùi và giòn"
+    },
+    {
+      "name": "Tiết canh",
+      "group": "Biến tấu",
+      "region": "Khắp cả nước",
+      "type": "Tiết",
+      "description": "Tiết động vật tươi được pha với chút nước mắm hoặc nước muối nhạt hãm cho khỏi đông trước khi trộn với những phần thịt, sụn động vật băm nhỏ để làm đông tiết."
+    },
+    {
+      "name": "Tiết luộc; Tiết hầm",
+      "group": "Biến tấu",
+      "region": "Khắp cả nước",
+      "type": "Tiết",
+      "description": "Máu động vật qua luộc, hầm đông cứng thành những khối dạng thạch"
+    },
+    {
+      "name": "Thịt chua",
+      "group": "Biến tấu",
+      "region": "Miền Bắc",
+      "type": "Lên men",
+      "description": "Thịt lợn tươi sống ướp trong thính gạo để làm thành phẩm chín tự nhiên"
+    },
+    {
+      "name": "Trứng vịt Bắc Thảo",
+      "group": "Biến tấu",
+      "region": "Miền Nam",
+      "type": "Trứng",
+      "description": "Trứng vịt ủ trong một hỗn hợp từ đất sét, tro, muối, vôi, và trấu... trong nhiều tuần lễ, hay nhiều tháng"
+    },
+    {
+      "name": "Trứng vịt lộn; Hột vịt lộn",
+      "group": "Biến tấu",
+      "region": "Khắp cả nước",
+      "type": "Trứng",
+      "description": "Trứng vịt khi phôi thành hình luộc lên, để sôi kỹ 5 phút, rồi đập vỏ, ăn phần bên trong ngay lúc còn nóng. Các gia vị phổ biến đi kèm là rau răm, gừng tươi thái chỉ, muối tiêu"
+    },
+    {
+      "name": "Cá thính",
+      "group": "Đặc sản địa phương",
+      "region": "Vĩnh Phúc",
+      "type": "Lên men",
+      "description": "Cá nước ngọt còn tươi đem sơ chế, ướp thính để lên men chua, thơm, làm chín món ăn một cách tự nhiên"
+    },
+    {
+      "name": "Chả cá Lã Vọng",
+      "group": "Đặc sản địa phương",
+      "region": "Hà Nội",
+      "type": "Chả",
+      "description": "Món cá tẩm ướp, nướng trên than rồi rán lại trong chảo mỡ, do gia đình họ Đoàn ở phố Chả Cá trong khu phố cổ Hà Nội giữ bí quyết kinh doanh và đặt tên"
+    },
+    {
+      "name": "Chả chìa",
+      "group": "Đặc sản địa phương",
+      "region": "Quảng Ninh, Hải Phòng",
+      "type": "Chả",
+      "description": "Một dẻ mía chẻ nhỏ bằng ngón tay, phần trên được bao bằng thịt nạc xay nhuyễn với mực khô, phần dưới để nguyên, dùng để cầm khi ăn"
+    },
+    {
+      "name": "Chả mực",
+      "group": "Đặc sản địa phương",
+      "region": "Quảng Ninh",
+      "type": "Chả",
+      "description": "Loại chả đặc sản của Hạ Long được làm rất cầu kỳ từ mực giã nhuyễn, thì là, hành hoa... nặn thành miếng và chiên ngập dầu"
+    },
+    {
+      "name": "Cốm",
+      "group": "Đặc sản địa phương",
+      "region": "Hà Nội",
+      "type": "Gạo tẻ",
+      "description": "Làm từ lúa nếp non, rang chín và giã, sàng sảy cho hết vỏ trấu"
+    },
+    {
+      "name": "Ngán",
+      "group": "Đặc sản địa phương",
+      "region": "Quảng Ninh",
+      "type": "Hải sản",
+      "description": "Ngán là loài nhuyễn thể chỉ sống ở Quảng Ninh. Ngán rất bổ dưỡng và chế biến được nhiều món ăn ngon khác nhau như ngán luộc, ngán nướng, gỏi ngán, cháo ngán, bún ngán."
+    },
+    {
+      "name": "Gỏi nhệch",
+      "group": "Đặc sản địa phương",
+      "region": "Duyên hải vịnh Bắc Bộ (Hải Phòng đến Thanh Hóa)",
+      "type": "Thủy sản",
+      "description": "Thịt cá nhệch sống được bóp thính gạo cùng một số loại gia vị rồi được dùng với nhiều loại rau ăn kèm và nước chấm gỏi."
+    },
+    {
+      "name": "Bông điên điển",
+      "group": "Đặc sản địa phương",
+      "region": "Miền Nam",
+      "type": "Rau",
+      "description": "Bông điên điển là loại rau đặc trưng Nam Bộ được dùng làm dưa chua, nấu canh, ăn lẩu hay làm gỏi trộn thịt gà."
+    },
+    {
+      "name": "Đuông dừa",
+      "group": "Đặc sản địa phương",
+      "region": "Miền Nam",
+      "type": "Ấu trùng",
+      "description": "Người miền Tây đã chế biến đuông dừa thành nhiều món ngon như: đuông dừa nướng, đuông ngâm nước mắm hay chiên bơ..."
+    },
+    {
+      "name": "Chè đậu xanh; Chè hoa cau",
+      "group": "Tráng miệng",
+      "region": "Khắp cả nước",
+      "type": "Chè",
+      "description": "Chè đậu (đỗ) xanh nấu với đường và bột năng (hoặc bột sắn dây), có thể cho thêm dừa nạo và nước cốt dừa."
+    },
+    {
+      "name": "Chè hạt sen",
+      "group": "Tráng miệng",
+      "region": "Khắp cả nước",
+      "type": "Chè",
+      "description": "Hạt sen được hấp chín, rồi nấu chung với đường cho đến khi sôi nhẹ thì khuấy thêm bột cho sánh."
+    },
+    {
+      "name": "Chè bà ba",
+      "group": "Tráng miệng",
+      "region": "Miền Nam",
+      "type": "Chè",
+      "description": "Chè khoai lang với đậu xanh cà và nước cốt dừa."
+    },
+    {
+      "name": "Chè đậu trắng",
+      "group": "Tráng miệng",
+      "region": "Miền Nam",
+      "type": "Chè",
+      "description": "Đậu trắng nấu mềm cùng với gạo nếp và nước cốt dừa."
+    },
+    {
+      "name": "Chè trôi nước",
+      "group": "Tráng miệng",
+      "region": "Miền Bắc",
+      "type": "Chè/bánh",
+      "description": "Món tráng miệng làm từ các viên nhân đậu xanh bọc trong lớp vỏ bột gạo nếp"
+    },
+    {
+      "name": "Chè bánh lọt",
+      "group": "Tráng miệng",
+      "region": "Khắp cả nước",
+      "type": "Chè",
+      "description": "Món tráng miệng làm từ nước cốt dừa, thạch làm từ bột gạo màu xanh lá cây (thường do lá dứa thôi ra), đá bào và đường thốt nốt"
+    },
+    {
+      "name": "Chè chuối",
+      "group": "Tráng miệng",
+      "region": "Khắp cả nước",
+      "type": "Chè",
+      "description": "Chè làm từ chuối và bột sắn"
+    },
+    {
+      "name": "Bánh khoai môn",
+      "group": "Tráng miệng",
+      "region": "Khắp cả nước",
+      "type": "Tráng miệng",
+      "description": "Món tráng miệng làm từ khoai môn"
+    },
+    {
+      "name": "Sủi dìn",
+      "group": "Tráng miệng",
+      "region": "Hải Phòng",
+      "type": "Tráng miệng",
+      "description": "Bằng bột gạo nếp, nhân đậu xanh, vừng. Bên ngoài lăn vừng đen & nấu trong nước gừng nóng, rắc thêm một vài sợi dừa nạo."
+    },
+    {
+      "name": "Sương sáo; Thạch đen",
+      "group": "Tráng miệng",
+      "region": "Khắp cả nước",
+      "type": "Thạch",
+      "description": "Thân và lá cây thạch đen được phơi khô rồi xay nát, đun sôi trong nước và thêm bột, khi nguội đông lại thành thạch."
+    },
+    {
+      "name": "Sương sâm; Thạch xanh",
+      "group": "Tráng miệng",
+      "region": "Miền Nam",
+      "type": "Thạch",
+      "description": "Lá cây sương sâm tươi đem giã nát với một lượng nước nhất định, lọc sạch, để một hai giờ, chất nước này sẽ kết đông thành thạch."
+    },
+    {
+      "name": "Sương sa",
+      "group": "Tráng miệng",
+      "region": "Miền Nam",
+      "type": "Thạch",
+      "description": "Thạch trắng hoặc trong suốt được chế biến từ một số loại rong biển, tảo biển."
+    },
+    {
+      "name": "Ô mai",
+      "group": "Tráng miệng",
+      "region": "Hà Nội",
+      "type": "Trái cây",
+      "description": "Món ăn làm từ mơ khô muối/ mơ khô ngâm đường"
+    },
+    {
+      "name": "Kẹo mè xửng",
+      "group": "Tráng miệng",
+      "region": "Huế",
+      "type": "Món ăn vặt",
+      "description": "Một loại kẹo dai có nguồn gốc từ Huế, được làm bằng đường mía đun sôi (thành một chất rắn mềm và đặc), phủ một lớp mè và thường kèm thêm đậu phộng."
+    },
+    {
+      "name": "Chuối chiên",
+      "group": "Tráng miệng",
+      "region": "Khắp cả nước",
+      "type": "Bánh",
+      "description": "Bánh làm từ chuối chiên với bột"
+    },
+    {
+      "name": "Kẹo dừa",
+      "group": "Tráng miệng",
+      "region": "Bến Tre",
+      "type": "Kẹo",
+      "description": "Kẹo làm từ cơm dừa và nước cốt dừa"
+    },
+    {
+      "name": "Tào phớ",
+      "group": "Tráng miệng",
+      "region": "Khắp cả nước",
+      "type": "Món ăn từ tàu phụ",
+      "description": "Món ăn được làm từ đậu tương, có màu trắng ngà, vị bùi"
+    },
+    {
+      "name": "Sâm bổ lượng",
+      "group": "Tráng miệng",
+      "region": "Khắp cả nước",
+      "type": "Chè",
+      "description": "Một loại chè ngọt Việt Nam"
+    },
+    {
+      "name": "Nước mắm",
+      "group": "Gia vị và nước chấm",
+      "region": "Khắp cả nước",
+      "type": "Đồ chấm",
+      "description": "Nước gia vị làm từ cá biển và muối trắng được ủ cho lên men rồi chắt lấy nước cốt."
+    },
+    {
+      "name": "Tương đen",
+      "group": "Gia vị và nước chấm",
+      "region": "Miền Nam",
+      "type": "Đồ chấm",
+      "description": "Đồ chấm làm từ đậu tương, dấm trắng, gạo, muối ăn, bột mì, tỏi, và ớt. Thường dùng ăn kèm phở Nam."
+    },
+    {
+      "name": "Nước chấm; Nước mắm chua ngọt",
+      "group": "Gia vị và nước chấm",
+      "region": "Khắp cả nước",
+      "type": "Đồ chấm",
+      "description": "Nước mắm đã pha thêm chanh, đường, tỏi tươi, ớt tươi."
+    },
+    {
+      "name": "Mắm tôm",
+      "group": "Gia vị và nước chấm",
+      "region": "Miền Bắc",
+      "type": "Đồ chấm",
+      "description": "Mắm được làm từ tôm, tép sông lên men, có mùi và vị rất mạnh."
+    },
+    {
+      "name": "Mắm ruốc",
+      "group": "Gia vị và nước chấm",
+      "region": "Miền Trung",
+      "type": "Đồ chấm",
+      "description": "Làm từ con ruốc lên men"
+    },
+    {
+      "name": "Xì dầu; Nước tương",
+      "group": "Gia vị và nước chấm",
+      "region": "Khắp cả nước",
+      "type": "Đồ chấm",
+      "description": "Nước chấm làm từ đỗ tương (đậu nành) và ngũ cốc rang chín lên men theo kiểu Trung Hoa."
+    },
+    {
+      "name": "Tương",
+      "group": "Gia vị và nước chấm",
+      "region": "Khắp cả nước",
+      "type": "Đồ chấm",
+      "description": "Nước chấm làm từ đỗ tương (đậu nành), gạo nếp và muối lên men. Thường dùng trong ẩm thực chay."
+    },
+    {
+      "name": "Chẩm chéo",
+      "group": "Gia vị và nước chấm",
+      "region": "Tây Bắc Bộ",
+      "type": "Đồ chấm",
+      "description": "Gia vị cổ truyền của dân tộc Thái vùng Điện Biên, Tây Bắc và Đông Bắc Thái Lan - làm từ cá cơm, muối, hạt dổi, tỏi, mắc khén, hạt dẻ, húng lủi, rau thơm, ớt bột, sả."
+    },
+    {
+      "name": "Muối ớt rau răm",
+      "group": "Gia vị và nước chấm",
+      "region": "",
+      "type": "Đồ chấm",
+      "description": "Nước chấm làm từ rau mùi, ớt sừng, chanh và các nguyên liệu khác. Dùng làm nước chấm cho các loại thịt hoặc vịt lộn."
+    },
+    {
+      "name": "Muối ớt xanh",
+      "group": "Gia vị và nước chấm",
+      "region": "Miền Trung",
+      "type": "Đồ chấm",
+      "description": "Nước chấm với ớt xanh - thường dùng với các món hải sản."
+    },
+    {
+      "name": "Tương đậu phộng",
+      "group": "Gia vị và nước chấm",
+      "region": "Khắp cả nước",
+      "type": "Đồ chấm",
+      "description": "Dùng với gỏi cuốn."
+    },
+    {
+      "name": "Sa tế",
+      "group": "Gia vị và nước chấm",
+      "region": "Chợ Lớn",
+      "type": "Đồ chấm",
+      "description": "Hỗn hợp phụ gia tẩm ướp thực phẩm với nguyên liệu chính là ớt (ớt bột hoặc ớt tươi) và dầu ăn; ngoài ra có thể có thêm sả."
+    },
+    {
+      "name": "Tương ớt",
+      "group": "Gia vị và nước chấm",
+      "region": "Khắp cả nước",
+      "type": "Đồ chấm",
+      "description": "Nước chấm cay có dạng đặc sệt như nước sốt và có màu cam, được làm từ nguyên liệu chính là ớt xay nhuyễn kết hợp với một số gia vị khác."
+    },
+    {
+      "name": "Bia hơi",
+      "group": "Đồ uống",
+      "region": "Khắp cả nước",
+      "type": "Đồ uống",
+      "description": "Bia tươi"
+    },
+    {
+      "name": "Chanh muối",
+      "group": "Đồ uống",
+      "region": "Khắp cả nước",
+      "type": "Đồ uống",
+      "description": "Nguyên liệu làm nước giải khát - được pha với đường, nước, uống với đá hoặc uống nóng"
+    },
+    {
+      "name": "Nước mía",
+      "group": "Đồ uống",
+      "region": "Khắp cả nước",
+      "type": "Đồ uống",
+      "description": "Thức uống giải khát được làm từ mía bằng phương pháp xay ép cây mía để lấy nước"
+    },
+    {
+      "name": "Nước sâm",
+      "group": "Đồ uống",
+      "region": "Khắp cả nước",
+      "type": "Đồ uống",
+      "description": "Nước từ cây nhân sâm"
+    },
+    {
+      "name": "Rau má",
+      "group": "Đồ uống",
+      "region": "Khắp cả nước",
+      "type": "Đồ uống",
+      "description": "Nước ép rau má đá pha với đường"
+    },
+    {
+      "name": "Rượu cần",
+      "group": "Đồ uống",
+      "region": "Tây Bắc Bộ, Tây Nguyên",
+      "type": "Đồ uống",
+      "description": "Loại rượu đặc sản của một số dân tộc tại Việt Nam, được ủ men trong hũ/bình/ché/chóe/ghè, không qua chưng cất, khi đem ra uống phải dùng các cần làm bằng tre/trúc đục thông lỗ để hút rượu"
+    },
+    {
+      "name": "Rượu đế",
+      "group": "Đồ uống",
+      "region": "Đồng bằng sông Cửu Long",
+      "type": "Đồ uống",
+      "description": "Rượu chưng cất từ ngũ cốc lên men"
+    },
+    {
+      "name": "Rượu thuốc",
+      "group": "Đồ uống",
+      "region": "Khắp cả nước",
+      "type": "Đồ uống",
+      "description": "Loại rượu ngâm rất, thường làm bằng rượu trắng nồng độ cao ngâm các nguyên liệu thảo dược hoặc động vật có dược tính theo các phương pháp cổ truyền"
+    },
+    {
+      "name": "Rượu rắn",
+      "group": "Đồ uống",
+      "region": "Khắp cả nước",
+      "type": "Đồ uống",
+      "description": "Loại rượu thuốc trong đó, xác rắn được ngâm trong rượu gạo nồng độ cao"
+    },
+    {
+      "name": "Soda sữa hột gà",
+      "group": "Đồ uống",
+      "region": "Khắp cả nước",
+      "type": "Đồ uống",
+      "description": "Thức uống ngọt được làm từ lòng đỏ trứng gà, sữa đặc có đường và nước soda"
+    },
+    {
+      "name": "sữa đậu nành",
+      "group": "Đồ uống",
+      "region": "Khắp cả nước",
+      "type": "Đồ uống",
+      "description": "Thức uống làm từ đậu nành"
+    },
+    {
+      "name": "Cà phê sữa đá",
+      "group": "Đồ uống",
+      "region": "Khắp cả nước",
+      "type": "Đồ uống",
+      "description": "Thức uống làm từ cà phê pha phin với sữa đặc có đường và bỏ đá"
+    },
+    {
+      "name": "Trà sen",
+      "group": "Đồ uống",
+      "region": "Khắp cả nước",
+      "type": "Đồ uống",
+      "description": "Một loại trà xanh sản xuất tại Việt Nam đã được ướp hương"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách món ăn Việt Nam - Free Download",
+    "description": "Các món ăn Việt Nam phân theo nhóm (bún/mì, cơm, xôi, bánh, chè, nước chấm, đồ uống...), kèm địa phương, phân loại và mô tả. Contains 197 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách món ăn Việt Nam | ListBase",
+    "seo_description": "Download Danh sách món ăn Việt Nam — 197 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 197 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_m%C3%B3n_%C4%83n_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}
