@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-25T02:09:16.270Z",
-  "total_datasets": 520,
-  "total_records": 123316,
+  "generated": "2026-10-25T02:09:18.656Z",
+  "total_datasets": 521,
+  "total_records": 123571,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -3174,6 +3174,32 @@
         "xlsx": {
           "name": "vi-hoang-de-nha-nguyen_VI.xlsx",
           "size": 8889
+        }
+      }
+    },
+    {
+      "id": "vi-nguoi-dung-dau-thoi-bac-thuoc",
+      "name": "Danh sách người đứng đầu lãnh thổ Việt Nam thời Bắc thuộc",
+      "category": "history",
+      "record_count": 255,
+      "columns": [
+        "name",
+        "tenure",
+        "position",
+        "end_reason",
+        "era"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_ng%C6%B0%E1%BB%9Di_%C4%91%E1%BB%A9ng_%C4%91%E1%BA%A7u_l%C3%A3nh_th%E1%BB%95_Vi%E1%BB%87t_Nam_th%E1%BB%9Di_B%E1%BA%AFc_thu%E1%BB%99c",
+      "updated": "2026-10",
+      "size": 61334,
+      "files": {
+        "csv": {
+          "name": "vi-nguoi-dung-dau-thoi-bac-thuoc_VI.csv",
+          "size": 34094
+        },
+        "xlsx": {
+          "name": "vi-nguoi-dung-dau-thoi-bac-thuoc_VI.xlsx",
+          "size": 19029
         }
       }
     },
