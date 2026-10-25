@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-24T02:15:43.024Z",
-  "total_datasets": 507,
-  "total_records": 119920,
+  "generated": "2026-10-25T02:08:45.344Z",
+  "total_datasets": 508,
+  "total_records": 120005,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "history",
@@ -2587,6 +2587,38 @@
         "xlsx": {
           "name": "vi-vuon-quoc-gia_VI.xlsx",
           "size": 9975
+        }
+      }
+    },
+    {
+      "id": "vi-benh-vien-tp-ho-chi-minh",
+      "name": "Danh sách bệnh viện tại Thành phố Hồ Chí Minh",
+      "category": "health",
+      "record_count": 85,
+      "columns": [
+        "name",
+        "other_name",
+        "founded",
+        "type",
+        "owner",
+        "headquarters",
+        "location",
+        "beds",
+        "insurance_level",
+        "technical_level",
+        "group"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_b%E1%BB%87nh_vi%E1%BB%87n_t%E1%BA%A1i_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh",
+      "updated": "2026-10",
+      "size": 41200,
+      "files": {
+        "csv": {
+          "name": "vi-benh-vien-tp-ho-chi-minh_VI.csv",
+          "size": 19817
+        },
+        "xlsx": {
+          "name": "vi-benh-vien-tp-ho-chi-minh_VI.xlsx",
+          "size": 12366
         }
       }
     },
