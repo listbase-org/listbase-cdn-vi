@@ -1,0 +1,760 @@
+{
+  "id": "vi-lan-dieu-cheo",
+  "name": "Danh sách làn điệu chèo",
+  "title": "Danh sách làn điệu chèo",
+  "description": "Các làn điệu chèo truyền thống Việt Nam, kèm đặc điểm, tính chất và xuất xứ của từng làn điệu.",
+  "category": "music",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_l%C3%A0n_%C4%91i%E1%BB%87u_ch%C3%A8o",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_l%C3%A0n_%C4%91i%E1%BB%87u_ch%C3%A8o",
+  "updated": "2026-10",
+  "record_count": 119,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "characteristics",
+      "label": "Characteristics",
+      "type": "string"
+    },
+    {
+      "key": "origin",
+      "label": "Origin",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 1,
+      "name": "Bà chúa con cua",
+      "characteristics": "Làn điệu hát hầu bà chúa con cua được chèo hóa từ điệu chầu dọc trong hát chầu văn của người dân chiếng chèo Nam. Đây là hình thức lễ nhạc mang đặc trưng nghi thức hầu đồng của tín ngưỡng tứ phủ dành cho vai phù thủy sợ ma trong chèo Kim Nham",
+      "origin": "vở chèo Kim Nham"
+    },
+    {
+      "stt": 2,
+      "name": "Bát mật con ruồi",
+      "characteristics": "Làn điệu chèo bát mật con ruồi là làn điệu chèo cổ ít được sử dụng. Qua hình ảnh con ruồi đậu vào bát mật hay bát nước gừng cay để thể hiện tâm trạng da diết, sâu cay người hát",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 3,
+      "name": "Bình thảo",
+      "characteristics": "Làn điệu bình thảo thuộc vở chèo Quan Âm Thị Kính sử dụng trong hoàn cảnh nhân vật Thị Mầu vừa hát vừa múa tưng bừng như cơn lốc xoay quanh nhân vật Thị Kính khi lên chùa",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 4,
+      "name": "Cách cú",
+      "characteristics": "Làn điệu cách cú là làn điệu hát vui trong chèo, phổ theo thể thơ bốn chữ và có hai vế đối nhau. Cách cú với nhịp trống sôi nổi, rộn ràng hòa quyện: Trèo lên trên non / bắn con chim nhạn / Con đương ăn trái / Tên ta khéo lái / Con đương thời bay liệng /Con lại tha mồi / Tha mồi về tổ nuôi con,...",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 5,
+      "name": "Chèo quế; (điệu hạ vị)",
+      "characteristics": "Làn điệu chèo quế miêu tả chuyến du thuyền ngắm cảnh đẹp Ninh Bình: \"Lênh đênh qua cửa Thần Phù / Khéo tu thì nổi vụng tu thì chìm / Thênh thang một chiếc thuyền lan / Trôi dòng Xích Bích / Nhè nhẹ có đôi con chèo quế / Hát khúc Trương Lương / Trải hang Dơi qua cửa Thần Phù / Qua Cánh Diều tới chùa Non Nước...\"",
+      "origin": "vở chèo Từ Thức"
+    },
+    {
+      "stt": 6,
+      "name": "Chi tải vu quy",
+      "characteristics": "Làn điệu chi tải vu quy có nguồn gốc từ vở chèo Quan Âm Thị Kính, sử dụng trong hoàn cảnh Thị Kính về nhà chồng là Thiện Sĩ",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 7,
+      "name": "Chinh phụ",
+      "characteristics": "Làn điệu chèo chinh phụ trong vở Tấm Cám thể hiện tâm trạng nhớ thương của nhân vật Vua trong hoàn cảnh trở về làng quê xưa sau khi Tấm đã mất suốt một năm. Đây là một trong những làn điệu được sử dụng rất nhiều trong chèo.",
+      "origin": "chèo Tấm Cám"
+    },
+    {
+      "stt": 8,
+      "name": "Chức cẩm hồi văn",
+      "characteristics": "Làn điệu chèo chức cẩm hồi văn dựa trên tích truyện Tô Huệ dệt lụa viết lên chức cẩm hồi văn gửi cho chồng Đậu Thao lồng ghép tài tình vào nhân vật Thị Phương đối với chồng Trương Viên",
+      "origin": "chèo Trương Viên"
+    },
+    {
+      "stt": 9,
+      "name": "Con gà rừng",
+      "characteristics": "Làn điệu con gà rừng dành cho tích Vân dại tương tự các làn điệu: quá giang, xuôi ngược, lới lơ,... với những khuôn múa như múa điên ở nhiều cấp độ và chuỗi múa hái dâu, chăn tằm,kéo sợi, may áo kết hợp với diễn xuất cách điệu ước lệ và diễn kỹ đóng giả kẻ điên rồ, nỗi lòng rối ren khôn tỏ của người đàn bà gạt nước mắt \"quá giang\".",
+      "origin": "vở chèo Kim Nham"
+    },
+    {
+      "stt": 10,
+      "name": "Con nhện giăng mùng; (Sắp chênh)",
+      "characteristics": "Làn điệu chèo con nhện giăng mùng và bài dân ca quan họ con nhện giăng mùng đều miêu tả cảnh chia tay ra về của trai gái đang yêu tuy nhiên có khác là quan họ hát đối đáp nhẹ nhàng, tình cảm còn chèo cô đơn và da diết. Nội dung hát là nỗi niềm của người con gái đang yêu tình cảm nhớ nhung tha thiết, thầm trách móc người bạn tình. Giai điệu bài hát trữ tình, buồn man mác.",
+      "origin": "vở chèo Từ Thức/Kim Nham; Dân ca quan họ"
+    },
+    {
+      "stt": 11,
+      "name": "Du Xuân",
+      "characteristics": "Làn điệu chèo du xuân là điệu hát nằm trong vở chèo Kim Vân Kiều, Điệu hát được sử dụng trong hoàn cảnh Thúy Kiều đi tảo mộ cùng hai em là Thúy Vân và Vương Quan. Trong vở chèo Trương Viên, làn điệu du xuân lại được sử dụng dành cho nhân vật Trương Viên trong hoàn cảnh hồi hương mà không gặp người thân.",
+      "origin": "vở chèo Kiều; vở Trương Viên"
+    },
+    {
+      "stt": 12,
+      "name": "Duyên phận đôi ta",
+      "characteristics": "Làn điệu duyên phận đôi ta hay đường trường duyên phận có nguồn gốc từ bài \"duyên phận phải chiều\" trong dân ca Phú Thọ. (hay bị nhầm lẫn với làn điệu đường trường phải chiều vì có lời và lối hát rất giống nhau nhưng được chia thành 2 làn điệu riêng)",
+      "origin": "Dân ca Phú Thọ"
+    },
+    {
+      "stt": 13,
+      "name": "Dương Xuân",
+      "characteristics": "Làn điệu dương xuân nằm trong hệ thống bài ca lẻ. Đây là điệu hát của các tiên nữ trong chèo Từ Thức. Giai điệu mượt mà, tính chất vui tươi lạc quan yêu thiên nhiên cỏ cây hoa lá",
+      "origin": "vở chèo Từ Thức"
+    },
+    {
+      "stt": 14,
+      "name": "Đào liễu",
+      "characteristics": "Làn điệu chèo đào liễu được viết dựa trên đoạn ca dao lục bát có tên là \"Đào liễu một mình\". Hầu như không vở chèo dân gian nào là không có giai điệu của \"Đào liễu\". Đây là điệu hát có giai điệu trữ tình trong sáng, nội dung ca ngợi vẻ đẹp người con gái xinh đẹp, thủy chung son sắt, quyết chờ đợi người mình yêu thương mặc cho tuổi xuân trôi qua, mặc cho bao lời trêu trọc rèm pha.",
+      "origin": "Ca dao Bắc Bộ; vở Kim Nham"
+    },
+    {
+      "stt": 15,
+      "name": "Đò đưa",
+      "characteristics": "Làn điệu chèo đò đưa là một làn điệu đa dụng, được sử dụng nhiều trong chèo. Làn điệu đò đưa miêu tả cảnh chèo thuyền, thong dong, an nhàn vui vẻ",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 16,
+      "name": "Đường trường bắn thước",
+      "characteristics": "Làn điệu chèo đường trường bắn thước của cô gái bắn cung song toàn văn võ trong vở chèo Nữ tú tài",
+      "origin": "Vở chèo Nữ tú tài"
+    },
+    {
+      "stt": 17,
+      "name": "Đường trường phải chiều",
+      "characteristics": "Làn điệu đường trường phải chiều trổ hát được cất lên trong vở chèo khi nàng Thị Kính theo lời Mãng ông đồng ý nhận lời lấy chàng Thiện Sỹ làm chồng.",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 18,
+      "name": "Đường trường quyên đề",
+      "characteristics": "Làn điệu chèo đường trường quyên đề một làn điệu trữ tình rất khó thể hiện dựa lời thơ cổ khuyết danh bần nữ thán (tự an ủi): Mai phát xuân tiên, tiếu hạnh trì / Hạnh khai hoa hậu, tiếu mai suy / Bách ban xuân sắc tranh tiên hậu / Tảo vãn hoa khai, định hữu kỳ",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 19,
+      "name": "Đường trường thu không",
+      "characteristics": "Làn điệu đường trường thu không trong chèo Từ Thức là điệu hát ca ngợi sự thanh thản, an nhàn của Từ Thức sau khi đã từ quan.",
+      "origin": "vở chèo Từ Thức"
+    },
+    {
+      "stt": 20,
+      "name": "Đường trường thu rồi",
+      "characteristics": "Làn điệu chèo đường trường thu rồi là một bài hát có tính chất vui vẻ lạc quan, có khí thế tưng bừng của những ngày hội. Nội dung là ca ngợi cảnh đẹp quê hương, mùa xuân. Thường dùng cho đồng ca",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 21,
+      "name": "Đường trường tải lương",
+      "characteristics": "Đường trường tải lương là một trong những làn điệu khó hát nhất của chèo: Thuyền lớn quan bắt tải lương / Còn chiếc thuyền bé đưa nàng sang / Chờ nàng chả thấy nàng sang / Để anh chờ đợi sương sa lạnh lùng / Đắp một dải yếm hơn chung áo mềm / Anh cầm chèo nàng ngủ đấy sao yên / Đánh thức nàng dậy ngồi bên cọc chèo / Qua Thái Sơn tới núi Cánh Diều",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 22,
+      "name": "Đường trường tiếng đàn",
+      "characteristics": "Đường trường tiếng đàn là một điệu hát đa dùng nằm ngoài tích trò sử dụng dưới hình thức vỡ nước vào trò. Nội dung một tiếng đàn hay có thể cảm hóa được cá dưới nước, chim trên trời, làm cho lòng người nhẹ nhõm. Tính chất của bài hát là trữ tình, thơ mộng giầu chất thơ vui tươi rộn ràng.",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 23,
+      "name": "Đường trường trong rừng",
+      "characteristics": "Làn điệu đường trên trên non (trong rừng) thường hát ngoài tích trò, sử dụng dưới hình thức vỡ nước vào trò hoặc hát gõ. Nội dung nói lên cảnh an nhàn, ngao du sơn thủy tiêu dao hòa quyện vào thiên nhiên thơ mộng, non nước hùng vĩ của các bậc cao danh ẩn sĩ. Điệu hát này có giai điệu chắc khỏe, có những chỗ vót lên cao.",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 24,
+      "name": "Đường trường vị thủy",
+      "characteristics": "Làn điệu đường trường vị thủy có lời gần giống với bài quan họ con sông Vị Thủy. Đây là làn điệu chèo mang âm hưởng dân ca quan họ",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 25,
+      "name": "Gió thổi màn loan",
+      "characteristics": "Làn điệu này có hai cách hát khác nhau trong hai hoàn cảnh:Trong vở Trương Viên, nhân vật vợ Quỷ vừa múa vừa hát khi ra trò hoặc vở Từ Thức khi Giáng Hương hát chia tay Từ Thức. Cùng là một bài hát nhưng cách hát thứ nhất thể hiện tính chất của Quỷ, cách thứ hai là Tiên. Đây là điệu hát có chức năng cho nhân vật ra vai. Thế nên, trong sách \"150 làn điệu chèo cổ\" đã xếp điệu này vào Hệ thống các điệu ra trò.",
+      "origin": "Chèo Trương Viên; Chèo Từ Thức"
+    },
+    {
+      "stt": 26,
+      "name": "Hải đường",
+      "characteristics": "Làn điệu chèo hải đường phổ theo lời thơ: Hải đường lả ngọn đông lân / Giọt sương gieo nặng cành xuân la đà. Qua hai câu thơ, nàng Kiều được ví như cánh hoa Hải đường yểu điệu trong ngọn gió đông, yếu mềm dưới giọt sương xuân.",
+      "origin": "vở chèo Kiều"
+    },
+    {
+      "stt": 27,
+      "name": "Hát cách",
+      "characteristics": "Làn điệu hát cách thường dùng cho các nhân vật thư sinh tay quạt phe phẩy, mặt tươi, bước khoan thai xênh xang, nói năng đúng mực, chữ nghĩa, sau khi xưng danh báo tính là bắt sang hát cách bộc lộ chí hướng quyết tu thân. Làn điệu hát cách có trong chèo Từ Thức",
+      "origin": "vở chèo Từ Thức"
+    },
+    {
+      "stt": 28,
+      "name": "Hát cách gối hạc",
+      "characteristics": "Làn điệu chèo hát cách gối hạc có nguồn gốc trong vở Lưu Bình Dương Lễ, diễn tả tâm sự của Châu Long dành cho Lưu Bình khi tiễn chàng Lưu lên đường đi thi",
+      "origin": "Lưu Bình Dương Lễ"
+    },
+    {
+      "stt": 29,
+      "name": "Hát ru",
+      "characteristics": "Làn điệu hát ru tiêu biểu nhất trong vở chèo Tấm Cám mô ta tâm trạng Tấm khi hiện về ru vua ngủ dưới gốc xoan đào",
+      "origin": "chèo Tấm Cám"
+    },
+    {
+      "stt": 30,
+      "name": "Hát đúm",
+      "characteristics": "Làn điệu hát đúm có nguồn gốc từ cảnh chú hề Lô tán tỉnh Thị Mầu. Câu ca dao xứ Đông của vùng cửa biển Hải Phòng, Quảng Ninh có câu: Anh về xẻ ván cho dày / Bắc cầu sông cái cho thầy mẹ sang đã được chèo hóa thành làn điệu chèo Hát đúm rất độc đáo cho màn đối đáp giao duyên trai gái và là một trong những làn điệu chèo tiêu biểu của xứ Đông.",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 31,
+      "name": "Hát hãm",
+      "characteristics": "Làn điệu chèo hát hãm mang âm hưởng ca trù. Thường dành cho cô đầu hát hãm để mời khách uống rượu, đặt quan viên vào tình thế phải uống. Nguồn gốc từ nhân vật Diệu Tính trong bài ca giữ nước",
+      "origin": "Bài ca giữ nước"
+    },
+    {
+      "stt": 32,
+      "name": "Hát xuôi hát ngược",
+      "characteristics": "Làn điệu hát xuôi hát ngược là một bài ca lẻ trong chèo, dành cho vai Súy Vân. Các làn điệu quá giang, xuôi ngược, gà rừng,.. đều miêu tả tâm trạng con người ở trạng thái điên dại",
+      "origin": "vở chèo Kim Nham"
+    },
+    {
+      "stt": 33,
+      "name": "Hề bát môn",
+      "characteristics": "Làn điệu hề bất môn dành cho nhân vật anh hầu Nô hát khi Phú Ông sai đi gọi cô Thị Màu: Tôi vào chùa tôi đấm một tiếng chuông boong / Tôi trở ra tam quan đánh ba tiếng trống có thiêng chăng.",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 34,
+      "name": "Hề đơm đó",
+      "characteristics": "Làn điệu hề đơm đó là tâm sự của hai anh hề dựa trên lời ca dao Bắc Bộ: Trời mưa trời gió / Vác đó đi đơm / Trở về ăn cơm / Trở ra mất đó! / Kể từ ngày thương đó, đó ơi / Ðó chưa thưa được một lời cho đây nghe!... Có tính chất than thân trách phận",
+      "origin": "Các vở chèo"
+    },
+    {
+      "stt": 35,
+      "name": "Hề gậy",
+      "characteristics": "Các làn điệu hề gậy gồm: hề gậy nói lửng, hề gậy trông lên trời, hệ gậy anh rắp mấy tìm, hề gậy đàn ông bá nha, hề gậy đi thời tìm, hề gậy chiếu la kinh,... Hề gậy là các anh chàng hề đồng lóc cóc chạy theo hầu thầy theo gậy đường trường. Các làn điệu hề gậy theo thầy có nguồn gốc từ vở chèo Từ Thức và được tiếp thu phát triển ở vở chèo Phan Trần",
+      "origin": "vở chèo Từ Thức"
+    },
+    {
+      "stt": 36,
+      "name": "Hề mồi",
+      "characteristics": "Các điệu Hề mồi trong chèo như: hề mồi ấy ấy mần chi, hề mồi chỉ có bốn mươi đồng, hề muồi duyên tình, hề xuống nghè, hề gánh nước tưới cà, hề tiểu gấm hoa chanh,.. Hề Mồi là những nhân vật hầu hạ trong nhà hoặc lính canh. Nhân vật này thường mang theo chiếc mồi đốt sáng như đuốc ra trước dọn dẹp, đón quan đủng đỉnh ra sau.",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 37,
+      "name": "Hề mồi ba mươi tết",
+      "characteristics": "Làn điệu hề mồi ba mươi tết nằm trong hệ thống làn điệu hề mồi. Trong vở chèo Chu Mãi Thần nó được hát sau Hề mồi thắt lưng xanh để dẫn vào phân cảnh Tuần Ty gặp Thiệt Thê",
+      "origin": "chèo Chu Mãi Thần"
+    },
+    {
+      "stt": 38,
+      "name": "Hề mồi cu lớn cu bé",
+      "characteristics": "Làn điệu hề mồi cu lớn cu bé là từ tích hề Mồi Trù Phòng hát bài Cu lớn cu bé để khích bác, sỉ nhục Lưu Bình khi sang nhờ vả Dương Lễ.",
+      "origin": "Lưu Bình Dương Lễ"
+    },
+    {
+      "stt": 39,
+      "name": "Hề mồi cu sứt",
+      "characteristics": "Làn điệu hề mồi cu sứt là điệu hề của nhân vật Cả Sứt, anh trai Súy Vân trong vở Kim Nham",
+      "origin": "vở chèo Kim Nham"
+    },
+    {
+      "stt": 40,
+      "name": "Hề mồi đồn rằng",
+      "characteristics": "Làn điệu hề mồi đồn rằng có gốc cùng với bài dân ca bắc bộ trống cơm, mở màn vở chèo Trương Viên; nó cũng xuất hiện trong vở Chu Mãi Thần và các vở chèo khác sau đó",
+      "origin": "chèo Trương Viên"
+    },
+    {
+      "stt": 41,
+      "name": "Hề mồi sư cụ",
+      "characteristics": "Làn điệu hề sư cụ có trong nhiều vở như vở Chu Mãi Thần, Lưu Bình Dương Lễ và sau này. Mở đầu là: Đèn ai thấp thoáng trên lầu / Hay là đèn ông sư cụ / Đầu trọc lông lóc / Đầu trụi thui lụi / Râu ria chẳng có / Tay cầm rùi mõ / Tay gõ tiu cúng / Miệng niệm kinh cầu / Cửu khổ cho ai",
+      "origin": "Lưu Bình Dương Lễ"
+    },
+    {
+      "stt": 42,
+      "name": "Hề mồi thắt lưng xanh",
+      "characteristics": "Làn điệu hề mồi thắt lưng xanh là cảnh hai hề cùng hát trong vở Chu Mãi Thần, đoạn dẫn vào phân cảnh Tuần Ty gặp Thiệt Thê. Làn điệu này cũng thường dùng để mở màn các vở chèo",
+      "origin": "chèo Chu Mãi Thần"
+    },
+    {
+      "stt": 43,
+      "name": "Hề ông đồ; (Bồ kếch bồ các)",
+      "characteristics": "Làn điệu hề ông đồ hay bồ kếch bồ các có nguồn gốc từ màn hát đối đáp giữa thầy đồ dạy và Tôn Mạnh - Tôn Trọng",
+      "origin": "Chèo Trinh Nguyên"
+    },
+    {
+      "stt": 44,
+      "name": "Hề song đào",
+      "characteristics": "Làn điệu hề song đào trong vở Lưu Bình Dương Lễ vào lời như sau: Trổ mở: Cắc thùng thùng, cắc thùng thùng / Trống tan canh, tai nghe đã điểm cắc thùng thùng,...",
+      "origin": "Lưu Bình Dương Lễ"
+    },
+    {
+      "stt": 45,
+      "name": "Hề tiểu",
+      "characteristics": "Làn điệu chèo hề tiểu trong vở chèo Từ Thức có nguồn gốc văn học từ truyện Kiều của Nguyễn Du, dựa lời: Lơ thơ tơ liễu buông mành / Con oanh học nói trên cành mỉa mai",
+      "origin": "vở chèo Từ Thức"
+    },
+    {
+      "stt": 46,
+      "name": "Hò bắt đò (bắt hò)",
+      "characteristics": "Làn điệu bắt hò hay điệu hò bắt đò có nguồn gốc trong vở chèo Chu Mãi Thần, diễn ra sau khi kết thúc màn trò đánh ghen của đào Huế khiến Thiệt Thê bỏ đi, đào Huế bắt Tuần ty xuống đò, làn điệu chèo này mang âm hưởng của câu hò xứ Huế",
+      "origin": "chèo Chu Mãi Thần"
+    },
+    {
+      "stt": 47,
+      "name": "Hoài thai",
+      "characteristics": "Làn điệu hoài thai dành nhân vật mụ là bà lão hát câu hoài thai kể lại công sinh dưỡng con cái, từ lúc mang thai tới nay trưởng thành, xong rồi mới ngẩng lên hỏi: \"Con mời mẹ ra đây có việc gì...\" khuôn trò này sẽ làm lõi cho những vai diễn như mẹ Tống Trân, mẹ Trương Viên, mẹ Kim Nham...",
+      "origin": "Các vở chèo cổ"
+    },
+    {
+      "stt": 48,
+      "name": "Hồi tiếu",
+      "characteristics": "Làn điệu hồi tiếu là làn điệu trữ tình, phổ nhạc dựa theo lời thơ trong chuyện Kiều: \"Lơ thơ tơ liễu buông mành, con oanh học nói trên cành mỉa mai\" để nói lên tâm sự chàng trai muốn tỏ tình với cô gái",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 49,
+      "name": "Kể hạnh, ru kệ",
+      "characteristics": "Làn điệu kể hạnh, ru kệ có nguồn gốc từ cảnh Thị Kính bồng bế bé đi xin sữa",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 50,
+      "name": "Khấn hàng",
+      "characteristics": "Làn điệu khấn hàng dành cho nhân vật Khèo khi dọn quán, khấn hàng cho mụ Mối trong vở Kim Nham",
+      "origin": "vở chèo Kim Nham"
+    },
+    {
+      "stt": 51,
+      "name": "Làn thảm",
+      "characteristics": "Làn điệu làn thảm trong vở chèo Quan Âm Thị Kính là làn điệu buồn, mô tả tâm trạng buồn đau, tự sự của Thị Kính",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 52,
+      "name": "Lão say; (bình tửu / bình điếu ngự)",
+      "characteristics": "Lão say là một loại hình nhân vật đặc sắc trong nghệ thuật chèo cổ. Có hai loại: lão say bình dân và lão say lớp trên Lão say ít thì tay cầm bầu rượu cất tiếng cười sảng khoá, nhiều thì ngất ngưởng hát câu bình tửu, bình điếu ngự. Đó là Mãng Ông, Trinh Ông, Huyện Tể, Lão Mốc,.. hoặc hai nhân vật Lão say có sự khác biệt khá rõ rệt đó là Sùng Ông và Phú Ông",
+      "origin": "Các vở chèo cổ"
+    },
+    {
+      "stt": 53,
+      "name": "Lới lơ",
+      "characteristics": "Điệu hát lới lơ của nhân vật Súy Vân thuộc hệ thống bài ca lẻ, diễn tả tâm trạng vui tươi, lạc quan, có pha chút nhí nhảnh, lúng liếng... của các cô gái. Đây là một làn điệu đa dụng, dùng trước khi mở màn gây chú ý của khán giả, hay đóng màn để sang màn khác. Lại có thể dùng cho một tốp nữ hát múa, khi chào mừng một sự kiện của quê hương.",
+      "origin": "vở chèo Kim Nham"
+    },
+    {
+      "stt": 54,
+      "name": "Luyện năm cung",
+      "characteristics": "Làn điệu luyện 5 cung hay đào lý một cành là một trong những làn điệu mẫu dùng làm giáo trình giảng dạy ở trường nghệ thuật. Người ta đã biên soạn bài hát trích trong vở chèo cổ Trương Viên, cảnh Thị Phương và mẹ chồng chạy giặc, bị lạc vào rừng, được bà Tiên dạy đàn hát để kiếm sống, tìm chồng...",
+      "origin": "chèo Trương Viên"
+    },
+    {
+      "stt": 55,
+      "name": "Luyện tam tầng",
+      "characteristics": "Làn điệu chèo luyện tam tầng thường sử dụng cho tốp ca, là làn điệu có tiết tấu nhanh, vui. Miêu tả cảnh các cụ già rủ nhau lên đền ông quan thánh xem động tiên và lầu chuông",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 56,
+      "name": "Ngâm bốn mùa",
+      "characteristics": "Khúc ngâm bốn mùa thể hiện tâm trạng buồn nhớ da diết của nàng Châu Long trong suốt ba năm phải xa chồng, nuôi bạn chồng. Đó là nỗi nhớ mong triền miên, khắc khoải theo bốn mùa, năm tháng: Thấm thoắt thoi oanh / Phút thay đã ba thu có lẻ / Tình hoài vọng kể sao xiết kể / Thân một nơi, lòng ở một nơi / Buồn thay nhẽ xuân sang con én mách / Buồn thay nhẽ nắng hạ cánh hoa rơi / Buồn thay nhẽ thu qua cánh nhạn khơi / Buồn thay nhẽ sương đông cành lá rụng...",
+      "origin": "Lưu Bình Dương Lễ"
+    },
+    {
+      "stt": 57,
+      "name": "Ngâm sổng",
+      "characteristics": "Làn điệu ngâm sổng thiên về ngâm ngợi tả tình và cảnh. Lưu Bình sững sờ ngao ngán khi thi đỗ về không thấy Châu Long. Lưu Bình ngâm sổng: Nàng bỏ đi đâu? Lạnh ngắt phòng loan / Trông lên bức gấm, nhớ tới tay ngà / Cây khoai xới, cho thắm dò hoa / Thấp thoáng rèm châu, in vóc liễu / Tiếng đàn ai lắng thắm dây tơ / Nàng bỏ đi đâu lạnh ngắt phòng loan / Để ta thui thủi / Cảnh cũng sụt sùi thương cảm",
+      "origin": "Lưu Bình Dương Lễ"
+    },
+    {
+      "stt": 58,
+      "name": "Nhịp đuổi",
+      "characteristics": "Làn điệu chèo nhịp đuổi dựa trên tích trấn thủ Lưu Đồn trong dân gian Thái Bình. Bài ca dao hàm chứa tâm sự của anh lính thú đời xưa phải xa nhà, trong lúc thi hành công vụ thì bỗng đổ nhớ vợ thương con ở quê nghèo, thấm thía nỗi cô đơn cực nhọc giữa miền rừng thiêng nước độc.",
+      "origin": "Xứ Nam (Thái Bình)"
+    },
+    {
+      "stt": 59,
+      "name": "Nói lệch - cấm giá",
+      "characteristics": "Làn điệu nói lệch - cấm giá là lớp lên chùa của Thị Màu với nói lệch và hát cấm giá kết hợp với múa và diễn kỹ cách điệu, ước lệ, để mô tả hết sức hiệu quả hình ảnh cô gái khao khát yêu đương đến nồng cháy, bạo liệt",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 60,
+      "name": "Nói sử ghé rầu",
+      "characteristics": "Làn điệu nói sử ghé rầu trong vở chèo Lưu Bình Dương Lễ là lời giới thiệu của Lưu Bình khi đến nhà Dương Lễ",
+      "origin": "Lưu Bình Dương Lễ"
+    },
+    {
+      "stt": 61,
+      "name": "Nón thúng quai thao",
+      "characteristics": "Làn điệu nón thúng quai thao là làn điệu chèo trong sáng, thiết tha, tình cảm, đây là một trong những làn điệu đa dùng",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 62,
+      "name": "Quá giang",
+      "characteristics": "Làn điệu quá giang dành cho tích Vân dại với những điệu hát và diễn: quá giang, xuôi ngược, gà rừng, lới lơ,... với những khuôn múa như múa điên ở nhiều cấp độ và chuỗi múa hái dâu, chăn tằm,kéo sợi, may áo kết hợp với diễn xuất cách điệu ước lệ và diễn kỹ đóng giả kẻ điên rồ, nỗi lòng rối ren khôn tỏ của người đàn bà gạt nước mắt \"quá giang\".",
+      "origin": "vở chèo Kim Nham"
+    },
+    {
+      "stt": 63,
+      "name": "Quân tử vu dịch",
+      "characteristics": "Làn điệu quân tử vu dịch có vai trò như một trích đoạn chèo, nguồn gốc chèo Lưu Bình Dương Lễ sử dụng để mô tả cảnh Dương Lễ nhắn nhủ chia tay, tiễn Châu Long lên đường thay mình nuôi bạn",
+      "origin": "Lưu Bình Dương Lễ"
+    },
+    {
+      "stt": 64,
+      "name": "Quạt màn",
+      "characteristics": "Làn điệu quạt màn sử dụng trong hoàn cảnh Thúy Kiều quạt màn cho Thúc Sinh ngủ, đây là hệ thống bài ca lẻ, đa dụng có tiết tấu vừa phải và tha thiết.",
+      "origin": "vở chèo Kiều"
+    },
+    {
+      "stt": 65,
+      "name": "Rỉ Vong - Ba Than",
+      "characteristics": "Làn điệu rỉ vong - ba than trong vở chèo Trinh Nguyên dùng trong hoàn cảnh Xá Lại gọi Trinh Nguyên vào Kinh thành để nhận 2 đứa con Tôn Mạnh và Tôn Trọng bị nghi oan giết người",
+      "origin": "Chèo Trinh Nguyên"
+    },
+    {
+      "stt": 66,
+      "name": "Rỉ vong",
+      "characteristics": "Điệu rỉ vong trong vở chèo Quan Âm Thị Kính sử dụng trong hoàn cảnh chú tiểu Thị Kính khấn than ở chùa khi tiếp tục bị dính oan nghiệt",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 67,
+      "name": "Rót chén rượu đào",
+      "characteristics": "Làn điệu chèo rót chén rượu đào có nguồn gốc từ ca dao: Tay tiên rót chén rượu đào / Đổ đi thì tiếc uống vào thời say. Đây là làn điệu có tiết tấu vừa phải.",
+      "origin": "Ca dao Bắc Bộ"
+    },
+    {
+      "stt": 68,
+      "name": "Ru bống",
+      "characteristics": "Làn điệu ru bống có nguồn gốc từ vở chèo Tấm Cám, xuất hiện trong hoàn cảnh nhân vật Tấm hát gọi bống lên ăn cơm",
+      "origin": "chèo Tấm Cám"
+    },
+    {
+      "stt": 69,
+      "name": "Rủ nhau lên núi Thiên Thai",
+      "characteristics": "Làn điệu chèo rủ nhau lên núi Thiên Thai mang âm hưởng ca dao và văn hóa quan họ. Việc rủ nhau lên núi Thiên Thai là ước nguyện của Xúy Vân được cùng Trần Phương có một cuộc sống hạnh phúc giữa hai người ở tại quê chàng tỉnh Bắc: \"Rủ nhay lên núi Thiên Thai/ Thấy hai con quạ ăn soài trên cây / Đôi ta dát díu lên đây / Áo dài làm chiếu, chăn quây làm mùng.\"",
+      "origin": "vở chèo Kim Nham"
+    },
+    {
+      "stt": 70,
+      "name": "Sa lệch bằng",
+      "characteristics": "Làn điệu chèo sa lệch bằng dựa theo lời thơ: \"giăng khuyết sao giăng lại tròn/ Con gái là tơ quá lứa mà để mất giòn khéo mất giòn ơ không xinh/ Ới vẳng thời vẳng tai nghe nhời nói hữu tình.",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 71,
+      "name": "Sa lệch bằng; chuyển cung bắc",
+      "characteristics": "Làn điệu chèo sa lệch bằng chuyển cung bắc sử dụng trong hoạt cảnh mô tả tâm trạng của Thúy Kiều than thân trách phận và trách thúc sinh.",
+      "origin": "vở chèo Kiều"
+    },
+    {
+      "stt": 72,
+      "name": "Sa lệch chênh",
+      "characteristics": "Làn điệu sa lệch chênh sử dụng trong hoạt cảnh mô tả tâm trạng của Lưu Bình với Châu Long. Đây là làn điệu đa dùng, rất hay được sử dụng",
+      "origin": "Lưu Bình Dương Lễ"
+    },
+    {
+      "stt": 73,
+      "name": "Sa lệch chênh chuyển xếp",
+      "characteristics": "Làn điệu sa lệch chênh chuyển xếp trong vở Tấm Cám còn gọi là sa lệch xếp, sử dụng khi Tốp nữ hát ca ngợi hạt tấm làng Mai",
+      "origin": "chèo Tấm Cám"
+    },
+    {
+      "stt": 74,
+      "name": "Sắp bắt hề",
+      "characteristics": "Làn điệu chèo sắp bắt hề với thể thơ lục bát dùng cho các vai kép trong các vở chèo khi xuất trò gọi hề đi hầu: Ta bắt thằng hề bạn cùng tài tử này a,..",
+      "origin": "Các vở chèo"
+    },
+    {
+      "stt": 75,
+      "name": "Sắp cá rô",
+      "characteristics": "Làn điệu chèo sắp cá rô có nguồn gốc từ ca dao: \"con cá rô nằm vũng chân trâu / Để cho năm bảy cái cần câu châu vào\". Đây là làn điệu theo thể vỉa tự do.",
+      "origin": "vở chèo Kim Nham"
+    },
+    {
+      "stt": 76,
+      "name": "Sắp chợt",
+      "characteristics": "Làn điệu sắp chợt mô tả một mụ ác xuất hiện và nói chênh. Sắp chợt dành cho vai đào lệch như mụ Sùng hát lúc vu oan và đánh Thị Kính. Sau này trong chèo Kiều nó cũng dùng cho Tú Bà đánh nàng Kiều lúc làm lễ ép vào lầu xanh",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 77,
+      "name": "Sắp cổ phong",
+      "characteristics": "Sắp cổ phong là điệu hát của anh hề áo ngắn trong chèo Kim Nham hát lúc dọn quán bán hàng. Lời lẽ duyên dáng, pha chút châm biếm tế nhị tha thiết trìu mến. Lời ca của sắp cổ phong có nguồn gốc từ kho tàng dân ca ca dao Việt Nam. Khi hát nhanh đây là điệu hát rộn ràng vui tươi trong sáng. Khi hát chậm, cái chất man mác nhẹ nhàng lại nổi trội hơn lên thể hiện một nỗi nhớ tiếc một điều gì xa xôi",
+      "origin": "vở chèo Kim Nham"
+    },
+    {
+      "stt": 78,
+      "name": "Sắp dựng",
+      "characteristics": "Làn điệu sắp dựng là làn điệu hát theo thể tự do trong chèo cổ, lời thuộc thể thơ lúc bát phá thể, thường dùng cho các vai vui tính hài hước như hề.",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 79,
+      "name": "Sắp đan lồng",
+      "characteristics": "Làn điệu chèo sắp đan lồng có nơi gọi là cô chẻ cái nứa đan lồng là làn điệu có 3 trổ, với tính chất tươi vui trong sáng cuối bài có ý trách móc:",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 80,
+      "name": "Sắp đánh cờ",
+      "characteristics": "Làn điệu chèo sắp đánh cờ hay sắp để mà chơi trong vở chèo Từ Thức, là làn điệu có tiết tấu nhanh, vui, sử dụng trong hoàn cảnh Từ Thức và Giáng Hương đánh ván cờ tiên",
+      "origin": "vở chèo Từ Thức"
+    },
+    {
+      "stt": 81,
+      "name": "Sắp đồng tiền",
+      "characteristics": "Làn điệu sắp đồng tiền với tính chất tự sự, than vãn: Có i hì bốn i bốn mươi đồng vốn liếng vốn liếng nay chỉ có bốn i bốn mươi đồng. Một nửa thiếp tôi để nuôi chồng, một nửa thiếp tôi lại nuôi con. Song bên hãy còn tiền i hì i ì. Này hỡi các chị yêu ơi, ấy song bên hãy hãy còn tiền. Tôi sắm sắm gia tiền thời năm rồi ra bảy nồi mười cho chí thanh ba. Song bên hãy còn tiền..",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 82,
+      "name": "Sắp mưa ngâu",
+      "characteristics": "Làn điệu sắp mưa ngâu là câu hát của các anh Hề. Nhân vật chèo Trần Phương chỉ cần hát sắp mưa ngâu người nghe cũng thấy được cả không gian thời gian mà chú đang sống cùng hoàn cảnh của nàng Suý Vân lúc ấy.",
+      "origin": "vở chèo Kim Nham"
+    },
+    {
+      "stt": 83,
+      "name": "Sắp qua cầu",
+      "characteristics": "Làn điệu sắp qua cầu trong vở chèo Tấm Cám. Đây là một làn điệu dân giã, thường sử dụng trong hát múa đồng ca hoặc đơn nữ hoặc những vai nam có tính cách",
+      "origin": "chèo Tấm Cám"
+    },
+    {
+      "stt": 84,
+      "name": "Sắp song loan",
+      "characteristics": "Làn điệu chèo sắp song loan lời cổ với thể thơ lục bát có tính chất di dỏm, châm biếm nhắc người đời sống theo lẽ phải",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 85,
+      "name": "Sắp thường",
+      "characteristics": "Làn điệu hát sắp thường là làn điệu đa dùng. Đây là điệu hát chèo hoạt bát, hơi cứng, thể hiện tính dứt khoát về một việc gì, hoặc tả cảnh chung chung. Cấu trúc gọn và cân đối. Sử dụng cho cả Thị Màu và Mẹ Đốp",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 86,
+      "name": "Sắp vắng ông giăng",
+      "characteristics": "Làn điệu sắp vắng ông giăng dành cho nhân vật Thị Mầu hát theo lối tăng tính phóng túng, lôi kéo gợi tình hơn một chút thôi.",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 87,
+      "name": "Sử bằng",
+      "characteristics": "Làn điệu sử bằng thường xuất hiện sau làn điệu vỉa bồng mạc. Làn điệu sử bằng bộc lộ bản chất của người thục nữ",
+      "origin": "Lưu Bình Dương Lễ"
+    },
+    {
+      "stt": 88,
+      "name": "Sử chuyện",
+      "characteristics": "Làn điệu sử chuyện có nguồn gốc từ màn hát đối ca giữa hai nhân vật Thị Kính và Thiện Sỹ còn gọi là Nam sử Nữ chuyện: \"Thiếp tôi, thiếp tôi khuyên anh chàng, chàng đèn sách mà này văn ơi í chương dầu dầu hao chứ dầu hao thiếp tôi rót. Này quả lĩnh lĩnh tính tang, tính tang ơi song tình. Ơi cái ngọn đèn vàng này khêu lại thiếp tôi khêu í i...\"",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 89,
+      "name": "Sử dựng; (Vị thủy đầu can nhật)",
+      "characteristics": "Làn điệu chèo sử dựng dựa trên điển tích Lã Vọng câu cá: Vị Thủy đầu can nhật / Kỳ Sơn nhập mộng thần.",
+      "origin": "Lưu Bình Dương Lễ"
+    },
+    {
+      "stt": 90,
+      "name": "Sử rầu - Gối hạc - Ba than",
+      "characteristics": "Làn điệu ba than có phần sử rầu bắc cầu, ra đời sau ba than trong vở Trinh Nguyên và đã cô đọng hơn. Dùng cho Thị Kính hát khi thay đổi nam trang bỏ nhà đi tu vì bị mụ Sùng đổ oan giết chồng.",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 91,
+      "name": "Sử rầu vãn theo",
+      "characteristics": "Làn điệu sử rầu vãn theo trong vở chèo Quan Âm Thị Kính trong hoạt cảnh thể hiện tâm trạng bất lực và chia sẻ của Mãng ông trước nỗi oan khuất của con gái Thị Kính khi bị nhà chồng đuổi.",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 92,
+      "name": "Sử xuân",
+      "characteristics": "Làn điệu sử xuân trong vở chèo Quan Âm Thị Kính dùng cho nhân vật Thiện Sĩ giới thiệu về bản thân khi đi hỏi vợ",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 93,
+      "name": "Thiếp trả cho chàng",
+      "characteristics": "Làn điệu thiếp tôi trả lại cho chàng trong vở Chu Mãi Thần dùng cho nhân vật đào Huế đánh ghen, hờn dỗi với Tuần Ty, tỏ ý chán nản, buông bỏ.",
+      "origin": "chèo Chu Mãi Thần"
+    },
+    {
+      "stt": 94,
+      "name": "Tình thư hạ vị",
+      "characteristics": "Làn điệu tình thư hạ vị sử dụng trong hoàn cảnh tâm sự của nhân vật Lưu Bình dưới anh trăng với Châu Long",
+      "origin": "Lưu Bình Dương Lễ"
+    },
+    {
+      "stt": 95,
+      "name": "Tò vò",
+      "characteristics": "Làn điệu chèo tò vò dựa theo lời ca dao cổ để mô tả tâm trạng nhân vật Súy Vân: Tò vò mà nuôi con nhện / Đến khi nó lớn, nó quyện nhau đi / Tò vò ngồi khóc tỉ ti / Nhện ơi! Nhện hỡi! Mày đi đằng nào?",
+      "origin": "vở chèo Kim Nham"
+    },
+    {
+      "stt": 96,
+      "name": "Tòng nhất nhi trung",
+      "characteristics": "Đây là tên một làn điệu chèo cổ ca ngợi đức hạnh của người phụ nữ xưa. Điệu hát có giai điệu tiết tấu nhanh, nhịp ngoại nhiều, khó biểu đạt nên ít nghệ sĩ có thể hát được và hát hay",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 97,
+      "name": "Tuyết dạt sông thương",
+      "characteristics": "Làn điệu chèo tuyết dạt sông thương sử dụng trong vở chèo Từ Thức là lời giới thiệu của tiên nữ Giáng Hương khi gặp Từ Thức ở cảnh tiên cửa biển Thần Phù.",
+      "origin": "vở chèo Từ Thức"
+    },
+    {
+      "stt": 98,
+      "name": "Tuyết sương",
+      "characteristics": "Làn điệu chèo tuyết sương là làn điệu trữ tình tả cảnh lên chùa Tuyết Sơn và tâm trạng bồng bềnh của con người",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 99,
+      "name": "Tứ quý",
+      "characteristics": "Tứ quý là làn điệu chèo tiêu biểu của xứ Đoài, xuất phát từ điệu dân ca mừng hội cướp bông trong các lễ hội cướp bông vùng Vĩnh Phúc, Phú Thọ, Sơn Tây để tôn vinh sơn thần và các nhân vật thời Hùng Vương đã được chèo khai thác đặt lời rất tài tình thành bài Tứ quý.",
+      "origin": "Lễ hội xứ Đoài"
+    },
+    {
+      "stt": 100,
+      "name": "Tưởng vọng xuân tình",
+      "characteristics": "Làn điệu chèo tưởng vọng xuân tình là làn điệu chèo dựa trên lời ca dao than trách thân phận: \"Đêm qua đốt đỉnh hương trầm. Khói lên nghi ngút âm thầm nhớ quê\"",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 101,
+      "name": "Trần tình",
+      "characteristics": "Làn điệu trần tình tiêu biểu nhất cho những điệu hát kể lại sự việc trong chèo và cũng là tiêu biểu cho lối hát kể. Như nàng Thị Phương trong vở Trương Viên hát: Quê người chồng tôi ở đất Võ Lăng / Vua sai dẹp giặc mười tám năm khởi chừng,.. qua 16 câu được hát lên qua điệu hát \"Trần tình\" gần với nghệ thuật hát xẩm, câu chuyện 18 năm thay chồng nuôi mẹ gian nan khổ cực của nàng Thị Phương như hiện ra trước mắt người ta, khiến không ít người cũng rơi nước mắt.",
+      "origin": "chèo Trương Viên"
+    },
+    {
+      "stt": 102,
+      "name": "Ván cờ tiên",
+      "characteristics": "Làn điệu chèo ván cờ tiên còn được gọi là làn điệu chèo lão say khéo nảy tính tình xuất hiện trong vở chèo Từ Thức. Một làn điệu độc đáo dành cho các nhân vật lão say",
+      "origin": "vở chèo Từ Thức"
+    },
+    {
+      "stt": 103,
+      "name": "Vãn canh; (Súy Vân / liều đi)",
+      "characteristics": "Làn điệu vãn canh có tính chất nhớ nhung, buồn thảm, than thân trách phận... Được dùng trong các trường hợp bộc lộ tâm sự nhớ nhung người yêu chờ đợi và hi vọng hoặc là than thở cho hoàn cảnh tình không may mắn trong tình yêu trắc trở, nói lên tình yêu chung thủy một lòng chờ đợi. Làn điệu này có trong nhiều vở Trương Viên, Kim Nham, Trinh Nguyên",
+      "origin": "Các vở chèo"
+    },
+    {
+      "stt": 104,
+      "name": "Vãn cầm",
+      "characteristics": "Làn điệu vãn cầm trong vở Trương Viên dựa theo lời thơ: Bạn với thú cầm / Ở đây bạn với thú cầm / Sớm ăn hoa quả, tối nằm gốc cội cây / Đèn trăng, chiếu đá, màn mây / Dưỡng thân nhờ hoa quả, bạn bầy cùng hươu nai.",
+      "origin": "chèo Trương Viên"
+    },
+    {
+      "stt": 105,
+      "name": "Vãn theo",
+      "characteristics": "Làn điệu vãn theo trong vở Trương Viên sử dụng cho nhân vật Trương Mẫu được sơn thầy cứu chữa khỏi, tỉnh dậy rất bàng hoàng và đau xót khi biết Thị Phương đã bị mù mắt",
+      "origin": "chèo Trương Viên"
+    },
+    {
+      "stt": 106,
+      "name": "Vãn thập nguyệt",
+      "characteristics": "Làn điệu vãn thập nguyệt miêu tả nỗi buồn pha chút kể lể, nhắn nhủ khuyên răn",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 107,
+      "name": "Vãn non mai",
+      "characteristics": "Làn điệu chèo vãn non mai buồn thảm pha chút hoảng sợ khi chèo thuyền",
+      "origin": "Dân gian Bắc Bộ"
+    },
+    {
+      "stt": 108,
+      "name": "Vãn xô",
+      "characteristics": "Làn điệu vãn xô là lời than vãn, oán hận quân giặc làm cho tan cửa nát nhà, có gợi không khí chạy loạn bằng tiết tấu \"xô, miêu tả cảnh loạn lạc, dùng cho nhân vật Thị Phương hát khi dắt mẹ chồng chạy vào trong rừng",
+      "origin": "chèo Trương Viên"
+    },
+    {
+      "stt": 109,
+      "name": "Vỉa bồng mạc",
+      "characteristics": "Là điệu ngâm thơ lục bát biến thể, ngân dài giọng và kéo dài lời. Thường xuất hiện trước làn điệu sử bằng",
+      "origin": "Các vở chèo"
+    },
+    {
+      "stt": 110,
+      "name": "Vỉa Huế - Có thánh trị vì",
+      "characteristics": "Làn điệu vỉa Huế - có thánh trị vì trong vở chèo Chu Mãi Thần, mô tả cảnh đánh ghen bằng vỉa, hát, múa, diễn tả vô cùng sống động nỗi lòng cố nén nhưng từng lúc lại bùng lên của người vợ từ Huế ra Bắc tìm chồng, bất chợt bắt gặp \"đức ông\" đang cập kè với cô nhân tình ngoài đường cái",
+      "origin": "chèo Chu Mãi Thần"
+    },
+    {
+      "stt": 111,
+      "name": "Vỉa Huế - Dậm chân",
+      "characteristics": "Làn điểu vỉa Huế - dậm chân mô tả cảnh đánh ghen bằng vỉa, hát, múa là chính (cùng với những làn điệu dậm chân, Thiếp bỏ cho chàng, Có thánh trị vì, Bắt hò) rất sống động nỗi lòng cố nén nhưng từng lúc lại bùng lên của người vợ từ Huế ra Bắc tìm chồng",
+      "origin": "chèo Chu Mãi Thần"
+    },
+    {
+      "stt": 112,
+      "name": "Vỉa Huế - Suông hời",
+      "characteristics": "Làn điệu vỉa Huế - suông hời mang âm hưởng dân ca xứ Huế, dành miêu tả tâm trạng của đào Huế hát khi ra Bắc tìm chồng. Làn điệu chèo này mang âm hưởng quan họ và dân ca Huế",
+      "origin": "chèo Chu Mãi Thần"
+    },
+    {
+      "stt": 113,
+      "name": "Vỉa Huế - Sắp sông dâu",
+      "characteristics": "Làn điệu vỉa Huế - sắp sông Dâu mang âm hưởng dân ca xứ Huế, dành miêu tả tâm trạng của đào Huế hát khi ra Bắc tìm chồng",
+      "origin": "chèo Chu Mãi Thần"
+    },
+    {
+      "stt": 114,
+      "name": "Ví hề",
+      "characteristics": "Làn điệu ví hề trong vở Quan Âm Thị Kính dựa theo thể hát ví đối đáp trai gái vùng đồng bằng Bắc Bộ và Bắc Trung Bộ. Đây là nguồn gốc xuất xứ làn chèo thể hát nói, quan hệ gần với dân ca hát ví, hình thức cấu trúc thang âm 4 âm: \"Ới cô Màu ơi tôi thương là thương cho cái con chuồn...Chuồn chuồn nó mắc phải cái nỗi i i i i tơ vương.\"",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 115,
+      "name": "Vỡ nước (Nhân khang)",
+      "characteristics": "Thể loại tự do của vỉa, ngâm, vịnh thường dùng để mở màn cho buổi diễn.Một gánh hát chèo xưa trước khi đi vào mở màn biểu diễn để thu hút khán giả thường có màn thi nhịp hát vỡ nước những bài hát vỡ nước thường là những bài ca ngơi thần thành hoàng làng, ca ngơi quê hương đất nước",
+      "origin": "Quan Âm Thị Kính"
+    },
+    {
+      "stt": 116,
+      "name": "Xẩm dựng",
+      "characteristics": "Làn điệu chèo xẩm dựng dựa theo nền nhạc hát xẩm đã được chèo hóa thật hóm hỉnh trong trích đoạn \"Thầy bói đi chợ\" của vở chèo Trinh Nguyên: Ra thời gì, hai con mắt anh nó chả có ra thời gì, trông ra chỉ thấy tối xì như đám đất đen,...\"",
+      "origin": "Chèo Trinh Nguyên"
+    },
+    {
+      "stt": 117,
+      "name": "Xẩm tàu điện",
+      "characteristics": "Làn điệu chèo xẩm tàu điện được chèo hóa từ xẩm tàu điện, dùng trong hoàn cảnh nhân vật Thị Phương sau khi hiến dâng đôi mắt cứu mẹ đã bị mù lòa và hát xẩm đưa mẹ đi ăn xin",
+      "origin": "chèo Trương Viên"
+    },
+    {
+      "stt": 118,
+      "name": "Xẩm thày bói (chênh bong)",
+      "characteristics": "Làn điệu chèo xẩm thày bói được chèo hóa từ xẩm chênh bong dùng cho nhân vật thầy bói trong vở chèo Trinh Nguyên: \"Mà vội mà cần tớ chẳng có đi đâu mà vội mà cần / Thang thang này con gậy bò lần bậc thang / Chú tung hoành một cõi giang san,...\"",
+      "origin": "Chèo Trinh Nguyên"
+    },
+    {
+      "stt": 119,
+      "name": "Xẩm xoan",
+      "characteristics": "Làn điệu chèo xẩm xoan dựa theo điệu hát xẩm xoan được chèo hóa trong trích đoạn Thầy bói đi chợ. Tuy nhiên lời chèo xẩm xoan hiện nay: Gió mát trăng thanh cái đêm hôm rằm, cô nàng ơi gió mát cùng là trăng thanh đào tiên chuốc rượu thơ thẩn ngâm nga cái lúc vui chơi bày ra chén rượu cuộc cờ chén rượu cuộc cờ trong lúc vui chơi chén rượu cuộc cờ",
+      "origin": "Chèo Trinh Nguyên"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách làn điệu chèo - Free Download",
+    "description": "Các làn điệu chèo truyền thống Việt Nam, kèm đặc điểm, tính chất và xuất xứ của từng làn điệu. Contains 119 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách làn điệu chèo | ListBase",
+    "seo_description": "Download Danh sách làn điệu chèo — 119 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 119 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_l%C3%A0n_%C4%91i%E1%BB%87u_ch%C3%A8o"
+    ]
+  }
+}
