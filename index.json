@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-25T02:08:50.285Z",
-  "total_datasets": 510,
-  "total_records": 120175,
+  "generated": "2026-10-25T02:08:52.707Z",
+  "total_datasets": 511,
+  "total_records": 120416,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -3415,6 +3415,34 @@
         "xlsx": {
           "name": "music-piano-chords_VI.xlsx",
           "size": 11078
+        }
+      }
+    },
+    {
+      "id": "vi-bai-hat-trinh-cong-son",
+      "name": "Danh sách bài hát của Trịnh Công Sơn",
+      "category": "music",
+      "record_count": 241,
+      "columns": [
+        "stt",
+        "title",
+        "year_composed",
+        "first_singer",
+        "album",
+        "release_year",
+        "note"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_b%C3%A0i_h%C3%A1t_c%E1%BB%A7a_Tr%E1%BB%8Bnh_C%C3%B4ng_S%C6%A1n",
+      "updated": "2026-10",
+      "size": 59687,
+      "files": {
+        "csv": {
+          "name": "vi-bai-hat-trinh-cong-son_VI.csv",
+          "size": 24338
+        },
+        "xlsx": {
+          "name": "vi-bai-hat-trinh-cong-son_VI.xlsx",
+          "size": 20201
         }
       }
     },

@@ -1,0 +1,2230 @@
+{
+  "id": "vi-bai-hat-trinh-cong-son",
+  "name": "Danh sách bài hát của Trịnh Công Sơn",
+  "title": "Danh sách bài hát của Trịnh Công Sơn",
+  "description": "Các ca khúc do nhạc sĩ Trịnh Công Sơn sáng tác, kèm năm sáng tác, ca sĩ thu âm đầu tiên, băng nhạc và năm phát hành.",
+  "category": "music",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_b%C3%A0i_h%C3%A1t_c%E1%BB%A7a_Tr%E1%BB%8Bnh_C%C3%B4ng_S%C6%A1n",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_b%C3%A0i_h%C3%A1t_c%E1%BB%A7a_Tr%E1%BB%8Bnh_C%C3%B4ng_S%C6%A1n",
+  "updated": "2026-10",
+  "record_count": 241,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "year_composed",
+      "label": "Year Composed",
+      "type": "string"
+    },
+    {
+      "key": "first_singer",
+      "label": "First Singer",
+      "type": "string"
+    },
+    {
+      "key": "album",
+      "label": "Album",
+      "type": "string"
+    },
+    {
+      "key": "release_year",
+      "label": "Release Year",
+      "type": "number"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 1,
+      "title": "Ai ngoài cánh cửa",
+      "year_composed": "19??",
+      "first_singer": "Xuân Mai",
+      "album": "Như hòn bi xanh",
+      "release_year": 2004,
+      "note": "Bài dành cho thiếu nhi"
+    },
+    {
+      "stt": 2,
+      "title": "Bà mẹ Ô Lý (Người mẹ Ô Lý) *",
+      "year_composed": 1972,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho những người ở lại",
+      "release_year": 1977,
+      "note": "* \"Tặng người mẹ già tôi đã gặp trong đoàn người từ Quảng Trị về Huế\" - Trịnh Công Sơn"
+    },
+    {
+      "stt": 3,
+      "title": "Bài ca dành cho những xác người *",
+      "year_composed": 1968,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 1",
+      "release_year": 1971,
+      "note": "* Phim Áo lụa Hà Đông"
+    },
+    {
+      "stt": 4,
+      "title": "Bay đi thầm lặng",
+      "year_composed": 1972,
+      "first_singer": "",
+      "album": "Thuở bống là người",
+      "release_year": 2000,
+      "note": ""
+    },
+    {
+      "stt": 5,
+      "title": "Bên đời hiu quạnh",
+      "year_composed": 1972,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 4",
+      "release_year": 1972,
+      "note": ""
+    },
+    {
+      "stt": 6,
+      "title": "Bến sông",
+      "year_composed": 1959,
+      "first_singer": "Duy Quang",
+      "album": "",
+      "release_year": "",
+      "note": "*"
+    },
+    {
+      "stt": 7,
+      "title": "Biển nghìn thu ở lại",
+      "year_composed": 1999,
+      "first_singer": "Quang Dũng",
+      "album": "Biển nghìn thu ở lại",
+      "release_year": 2001,
+      "note": ""
+    },
+    {
+      "stt": 8,
+      "title": "Biển nhớ",
+      "year_composed": 1960,
+      "first_singer": "Xuân Thu",
+      "album": "Việt Nam M.3509-10",
+      "release_year": 1967,
+      "note": ""
+    },
+    {
+      "stt": 9,
+      "title": "Biển sáng (viết chung với Phạm Trọng Cầu)",
+      "year_composed": 1981,
+      "first_singer": "Nhã Phương",
+      "album": "Dĩa Hát TPHCM: Tiếng hát từ mặt trời và ánh lửa",
+      "release_year": 1982,
+      "note": ""
+    },
+    {
+      "stt": 10,
+      "title": "Biết đâu nguồn cội",
+      "year_composed": 1972,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 5",
+      "release_year": 1973,
+      "note": ""
+    },
+    {
+      "stt": 11,
+      "title": "Bốn mùa thay lá",
+      "year_composed": 1981,
+      "first_singer": "Khánh Ly",
+      "album": "Bên đời hiu quạnh",
+      "release_year": 1993,
+      "note": ""
+    },
+    {
+      "stt": 12,
+      "title": "Bống Bồng ơi!",
+      "year_composed": 1993,
+      "first_singer": "Hồng Nhung",
+      "album": "Bống bồng ơi",
+      "release_year": 1993,
+      "note": ""
+    },
+    {
+      "stt": 13,
+      "title": "Bống không là Bống",
+      "year_composed": 1995,
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Như tiếng thở dài",
+      "release_year": 1997,
+      "note": ""
+    },
+    {
+      "stt": 14,
+      "title": "Buồn từng phút giây *",
+      "year_composed": 1970,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 4",
+      "release_year": 1973,
+      "note": "*"
+    },
+    {
+      "stt": 15,
+      "title": "Ca Dao Mẹ",
+      "year_composed": 1965,
+      "first_singer": "Khánh Ly + Trịnh Công Sơn",
+      "album": "Ghi âm trực tiếp Quán Văn",
+      "release_year": 1967,
+      "note": ""
+    },
+    {
+      "stt": 16,
+      "title": "Cánh Chim Cô Đơn",
+      "year_composed": 1980,
+      "first_singer": "Thanh Hải",
+      "album": "Vết lăn trầm",
+      "release_year": "1980?",
+      "note": ""
+    },
+    {
+      "stt": 17,
+      "title": "Cánh Đồng Hòa Bình *",
+      "year_composed": 1968,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 3",
+      "release_year": 1972,
+      "note": "*"
+    },
+    {
+      "stt": 18,
+      "title": "Cát bụi",
+      "year_composed": "",
+      "first_singer": "Lệ Thu",
+      "album": "Việt Nam M.3601-02",
+      "release_year": 1969,
+      "note": ""
+    },
+    {
+      "stt": 19,
+      "title": "Chỉ Có Ta Trong Một Đời",
+      "year_composed": 1972,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho những người ở lại",
+      "release_year": 1977,
+      "note": ""
+    },
+    {
+      "stt": 20,
+      "title": "Chiếc Lá Thu Phai",
+      "year_composed": 1983,
+      "first_singer": "Khánh Ly",
+      "album": "Bên đời hiu quạnh",
+      "release_year": 1993,
+      "note": ""
+    },
+    {
+      "stt": 21,
+      "title": "Chiều một mình qua phố",
+      "year_composed": "1961 ?",
+      "first_singer": "Hùng Cường",
+      "album": "Sóng Nhạc 838/2123",
+      "release_year": 1965,
+      "note": "Ngày 9/3/1965, Trịnh Công Sơn đã \"gửi về Ánh bản Chiều một mình qua phố và năm bản khác để tặng bạn bè của Ánh như Diệm, Hoa, v.v...\""
+    },
+    {
+      "stt": 22,
+      "title": "Chiều Trên Quê Hương Tôi",
+      "year_composed": 1980,
+      "first_singer": "Thanh Hải",
+      "album": "Vết lăn trầm",
+      "release_year": "1980?",
+      "note": ""
+    },
+    {
+      "stt": 23,
+      "title": "Chìm Dưới Cơn Mưa",
+      "year_composed": 1974,
+      "first_singer": "Khánh Ly",
+      "album": "Một cõi đi về",
+      "release_year": 1992,
+      "note": ""
+    },
+    {
+      "stt": 24,
+      "title": "Chính Chúng Ta Phải Nói *",
+      "year_composed": 1969,
+      "first_singer": "Trịnh Công Sơn,; Hoàng Xuân Sơn,; Vân Hòa, Vân Quỳnh,; Vân Khanh",
+      "album": "Kinh Việt Nam",
+      "release_year": 1971,
+      "note": "*"
+    },
+    {
+      "stt": 25,
+      "title": "Cho Đời Chút Ơn",
+      "year_composed": 1993,
+      "first_singer": "Trịnh Vĩnh Trinh",
+      "album": "Đóa hoa vô thường; (Diễm xưa CD 66)",
+      "release_year": 1994,
+      "note": ""
+    },
+    {
+      "stt": 26,
+      "title": "Cho Một Người Vừa Nằm Xuống *",
+      "year_composed": 1968,
+      "first_singer": "Khánh Ly",
+      "album": "Jo Marcel 10",
+      "release_year": 1969,
+      "note": "*"
+    },
+    {
+      "stt": 27,
+      "title": "Chờ Nhìn Quê Hương Sáng Chói *",
+      "year_composed": 1967,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 1",
+      "release_year": 1971,
+      "note": "*"
+    },
+    {
+      "stt": 28,
+      "title": "Cho Quê Hương Mỉm Cười *",
+      "year_composed": 1967,
+      "first_singer": "Trịnh Công Sơn,; Hoàng Xuân Sơn",
+      "album": "Kinh Việt Nam",
+      "release_year": 1971,
+      "note": "*"
+    },
+    {
+      "stt": 29,
+      "title": "Chưa Mất Niềm Tin *",
+      "year_composed": 1972,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 5",
+      "release_year": 1973,
+      "note": "*"
+    },
+    {
+      "stt": 30,
+      "title": "Chưa Mòn Giấc Mơ *",
+      "year_composed": 1969,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 2",
+      "release_year": 1972,
+      "note": "*"
+    },
+    {
+      "stt": 31,
+      "title": "Chuyện Đóa Quỳnh Hương",
+      "year_composed": 1982,
+      "first_singer": "Lan Ngọc",
+      "album": "BN Giai điệu tình yêu (22-08-88A)",
+      "release_year": 1988,
+      "note": ""
+    },
+    {
+      "stt": 32,
+      "title": "Có Duyên Không Nợ",
+      "year_composed": 1998,
+      "first_singer": "",
+      "album": "",
+      "release_year": "",
+      "note": ""
+    },
+    {
+      "stt": 33,
+      "title": "Có Một Dòng Sông Đã Qua Đời",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Bên đời hiu quạnh",
+      "release_year": 1993,
+      "note": ""
+    },
+    {
+      "stt": 34,
+      "title": "Có Một Ngày Như Thế",
+      "year_composed": "19??",
+      "first_singer": "Hồng Nhung Vũ Khanh",
+      "album": "Có một ngày như thế (Mưa hồng Productions) Từ lúc em đi (Diễm xưa CD 72)",
+      "release_year": 1994,
+      "note": ""
+    },
+    {
+      "stt": 35,
+      "title": "Có Nghe Đời Nghiêng",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Vĩnh Trinh",
+      "album": "Hoa vàng mấy độ (Diễm xưa CD 49)",
+      "release_year": 1993,
+      "note": ""
+    },
+    {
+      "stt": 36,
+      "title": "Có Những Con Đường",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Vĩnh Trinh",
+      "album": "Hoa vàng mấy độ (Diễm xưa CD 49)",
+      "release_year": 1993,
+      "note": ""
+    },
+    {
+      "stt": 37,
+      "title": "Cỏ Xót Xa Đưa",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 2",
+      "release_year": 1972,
+      "note": ""
+    },
+    {
+      "stt": 38,
+      "title": "Còn Ai Với Ai (Còn Tôi Với Ai)?",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Vĩnh Trinh",
+      "album": "Tôi ơi đừng tuyệt vọng (DX 063)",
+      "release_year": 1993,
+      "note": ""
+    },
+    {
+      "stt": 39,
+      "title": "Còn Có Bao Ngày",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Như cánh vạc bay - Cỏ xót xa đưa",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 40,
+      "title": "Còn Mãi Tìm Nhau",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Vĩnh Trinh",
+      "album": "Môi nào hãy còn thơm (Diễm xưa CD 057)",
+      "release_year": 1993,
+      "note": ""
+    },
+    {
+      "stt": 41,
+      "title": "Con Mắt Còn Lại",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Một cõi đi về (Im lặng thở dài)",
+      "release_year": 1992,
+      "note": ""
+    },
+    {
+      "stt": 42,
+      "title": "Còn Thấy Mặt Người",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly + Trịnh Công Sơn",
+      "album": "Như cánh vạc bay - Cỏ xót xa đưa",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 43,
+      "title": "Còn tuổi nào cho em",
+      "year_composed": 1964,
+      "first_singer": "Khánh Ly",
+      "album": "Ghi âm trực tiếp Quán Văn",
+      "release_year": 1967,
+      "note": ""
+    },
+    {
+      "stt": 44,
+      "title": "Cúi Xuống Thật Gần",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Việt Nam M.3601-02",
+      "release_year": 1969,
+      "note": ""
+    },
+    {
+      "stt": 45,
+      "title": "Cũng Sẽ Chìm Trôi",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Ru đời đi nhé (Phù Nam phát hành)",
+      "release_year": 1992,
+      "note": ""
+    },
+    {
+      "stt": 46,
+      "title": "Cuối Cùng Cho Một Tình Yêu (thơ: Trịnh Cung)",
+      "year_composed": "1958 hay 1959",
+      "first_singer": "Khánh Ly",
+      "album": "Tình ca Trịnh Công Sơn",
+      "release_year": 1968,
+      "note": "Phim Mùa hè chiều thẳng đứng"
+    },
+    {
+      "stt": 47,
+      "title": "Dã Tràng Ca (Tiếng Hát Dã Tràng)",
+      "year_composed": 1962,
+      "first_singer": "Ánh Tuyết Band",
+      "album": "(chỉ có bản thâu âm trực tiếp)",
+      "release_year": "2004 & 2009",
+      "note": "Trường ca"
+    },
+    {
+      "stt": 48,
+      "title": "Dân Ta Vẫn Sống *",
+      "year_composed": 1968,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 3",
+      "release_year": 1972,
+      "note": "*"
+    },
+    {
+      "stt": 49,
+      "title": "Dấu chân địa đàng",
+      "year_composed": "",
+      "first_singer": "Lệ Thu",
+      "album": "Việt Nam M.3601-02",
+      "release_year": 1969,
+      "note": ""
+    },
+    {
+      "stt": 50,
+      "title": "Diễm xưa",
+      "year_composed": "",
+      "first_singer": "Thái Thanh",
+      "album": "Dĩa nhựa Sóng Nhạc",
+      "release_year": 1963,
+      "note": ""
+    },
+    {
+      "stt": 51,
+      "title": "Du Mục *",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 1",
+      "release_year": 1971,
+      "note": "*"
+    },
+    {
+      "stt": 52,
+      "title": "Dựng Lại Người, Dựng Lại Nhà *",
+      "year_composed": 1968,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 1",
+      "release_year": 1971,
+      "note": "*"
+    },
+    {
+      "stt": 53,
+      "title": "Đại Bác Ru Đêm",
+      "year_composed": 1965,
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Ghi âm trực tiếp Quán Văn",
+      "release_year": 1967,
+      "note": ""
+    },
+    {
+      "stt": 54,
+      "title": "Để Gió Cuốn Đi",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 4",
+      "release_year": 1972,
+      "note": "Phim Công chúa teen và ngũ hổ tướng"
+    },
+    {
+      "stt": 55,
+      "title": "Đêm (Đêm Hồng)",
+      "year_composed": "",
+      "first_singer": "AC & M",
+      "album": "Đêm thần thoại",
+      "release_year": 2005,
+      "note": ""
+    },
+    {
+      "stt": 56,
+      "title": "Đêm Bây Giờ, Đêm Mai *",
+      "year_composed": 1965,
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Ghi âm trực tiếp Quán Văn",
+      "release_year": 1967,
+      "note": "*"
+    },
+    {
+      "stt": 57,
+      "title": "Đêm thấy ta là thác đổ",
+      "year_composed": "",
+      "first_singer": "Hát cho quê hương Việt Nam 4",
+      "album": 1972,
+      "release_year": "",
+      "note": ""
+    },
+    {
+      "stt": 58,
+      "title": "Đi Mãi Trên Đường",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Vĩnh Trinh",
+      "album": "Vì tôi cần thấy em yêu đời",
+      "release_year": 2001,
+      "note": ""
+    },
+    {
+      "stt": 59,
+      "title": "Đi Tìm Quê Hương *",
+      "year_composed": 1965,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 1",
+      "release_year": 1971,
+      "note": "*"
+    },
+    {
+      "stt": 60,
+      "title": "Đóa Hoa Vô Thường",
+      "year_composed": 1972,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 4",
+      "release_year": 1972,
+      "note": ""
+    },
+    {
+      "stt": 61,
+      "title": "Đoản Khúc Thu Hà Nội",
+      "year_composed": 1995,
+      "first_singer": "Hồng Nhung",
+      "album": "Đoản khúc thu Hà Nội",
+      "release_year": 1997,
+      "note": ""
+    },
+    {
+      "stt": 62,
+      "title": "Đời Cho Ta Thế",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Ru đời đi nhé",
+      "release_year": 1992,
+      "note": ""
+    },
+    {
+      "stt": 63,
+      "title": "Đợi Có Một Ngày *",
+      "year_composed": 1972,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 5",
+      "release_year": 1973,
+      "note": "*"
+    },
+    {
+      "stt": 64,
+      "title": "Đời Gọi Em Biết Bao Lần",
+      "year_composed": "19??",
+      "first_singer": "Thanh Hải",
+      "album": "Vết lăn trầm",
+      "release_year": 1980,
+      "note": ""
+    },
+    {
+      "stt": 65,
+      "title": "Đôi Mắt Nào Mở Ra *",
+      "year_composed": 1968,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 3",
+      "release_year": 1972,
+      "note": "*"
+    },
+    {
+      "stt": 66,
+      "title": "Đời Sống Không Già Vì Có Chúng Em",
+      "year_composed": "19??",
+      "first_singer": "Mắt Ngọc",
+      "album": "Như hòn bi xanh",
+      "release_year": 2004,
+      "note": ""
+    },
+    {
+      "stt": 67,
+      "title": "Đồng Dao 2000",
+      "year_composed": 2000,
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Tiến thoái lưỡng nan",
+      "release_year": 2000,
+      "note": ""
+    },
+    {
+      "stt": 68,
+      "title": "Đồng Dao Hòa Bình *",
+      "year_composed": 1968,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 1",
+      "release_year": 1971,
+      "note": "*"
+    },
+    {
+      "stt": 69,
+      "title": "Đừng Mong Ai, Đừng Nghi Ngại *",
+      "year_composed": 1969,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 2",
+      "release_year": 1972,
+      "note": "*"
+    },
+    {
+      "stt": 70,
+      "title": "Em Còn Nhớ Hay Em Đã Quên",
+      "year_composed": "",
+      "first_singer": "Khánh Ly",
+      "album": "Bông hồng cho người ngã ngựa",
+      "release_year": 1980,
+      "note": ""
+    },
+    {
+      "stt": 71,
+      "title": "Em Đã Cho Tôi Bầu Trời",
+      "year_composed": "19??",
+      "first_singer": "Thái Thanh",
+      "album": "Nghệ Thuật 5",
+      "release_year": 1970,
+      "note": ""
+    },
+    {
+      "stt": 72,
+      "title": "Em Đến Cùng Mùa Xuân (Em Đi Cùng Mùa Xuân)",
+      "year_composed": "19??",
+      "first_singer": "Tốp ca Thiếu Nhi",
+      "album": "Nhạc tuyển Trịnh Công Sơn 45-3-90-NT",
+      "release_year": 1990,
+      "note": ""
+    },
+    {
+      "stt": 73,
+      "title": "Em Đến Từ Nghìn Xưa",
+      "year_composed": 1980,
+      "first_singer": "Khánh Ly",
+      "album": "Lời buồn thánh",
+      "release_year": 1981,
+      "note": ""
+    },
+    {
+      "stt": 74,
+      "title": "Em Đi Bỏ Mặc Con Đường (Em Đi Bỏ Lại Con Đường)",
+      "year_composed": 1994,
+      "first_singer": "Vũ Khanh",
+      "album": "Từ lúc em đi (Diễm xưa CD 72)",
+      "release_year": 1994,
+      "note": ""
+    },
+    {
+      "stt": 75,
+      "title": "Em Đi Trong Chiều *",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 4",
+      "release_year": 1972,
+      "note": "*"
+    },
+    {
+      "stt": 76,
+      "title": "Em Hãy Ngủ Đi",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Như cánh vạc bay - Cỏ xót xa đưa",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 77,
+      "title": "Em là hoa hồng nhỏ",
+      "year_composed": 1981,
+      "first_singer": "Mi Mi",
+      "album": "",
+      "release_year": "",
+      "note": ""
+    },
+    {
+      "stt": 78,
+      "title": "Em Ở Nông Trường, Em Ra Biên Giới",
+      "year_composed": "19??",
+      "first_singer": "Nguyễn Chánh Tín - Bích Trâm",
+      "album": "Dĩa Hát TPHCM: Tiếng hát từ mặt trời và ánh lửa",
+      "release_year": 1982,
+      "note": ""
+    },
+    {
+      "stt": 79,
+      "title": "Gần Như Niềm Tuyệt Vọng",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Niệm khúc hoa vàng",
+      "release_year": 1989,
+      "note": ""
+    },
+    {
+      "stt": 80,
+      "title": "Gia Tài Của Mẹ *",
+      "year_composed": 1965,
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Tình ca Trịnh Công Sơn",
+      "release_year": 1968,
+      "note": "*"
+    },
+    {
+      "stt": 81,
+      "title": "Giọt Lệ Thiên Thu",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Ru đời đi nhé",
+      "release_year": 1992,
+      "note": ""
+    },
+    {
+      "stt": 82,
+      "title": "Giọt Nước Cành Sen (thơ: Thân Thị Ngọc Quế)",
+      "year_composed": "",
+      "first_singer": "Ánh Tuyết",
+      "album": "",
+      "release_year": "",
+      "note": ""
+    },
+    {
+      "stt": 83,
+      "title": "Nước Mắt Cho Quê Hương",
+      "year_composed": "19??",
+      "first_singer": "Uyên Phương",
+      "album": "Phạm Mạnh Cương 19",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 84,
+      "title": "Gọi Đời Lên Mau",
+      "year_composed": "19??",
+      "first_singer": "Thanh Thúy",
+      "album": "Sóng Nhạc 735/2088",
+      "release_year": 1964,
+      "note": ""
+    },
+    {
+      "stt": 85,
+      "title": "Gọi tên bốn mùa",
+      "year_composed": "",
+      "first_singer": "Khánh Ly",
+      "album": "Ghi âm trực tiếp Quán Văn",
+      "release_year": 1967,
+      "note": ""
+    },
+    {
+      "stt": 86,
+      "title": "Góp Lá Mùa Xuân",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 4",
+      "release_year": 1972,
+      "note": ""
+    },
+    {
+      "stt": 87,
+      "title": "Hạ trắng",
+      "year_composed": "",
+      "first_singer": "Hà Thanh",
+      "album": "Sóng Nhạc 840/2125",
+      "release_year": 1965,
+      "note": ""
+    },
+    {
+      "stt": 88,
+      "title": "Hai Mươi Mùa Nắng Lạ",
+      "year_composed": 1995,
+      "first_singer": "Trịnh Vĩnh Trinh",
+      "album": "Em đến từ nghìn xưa (Diễm xưa CD 78)",
+      "release_year": 1995,
+      "note": ""
+    },
+    {
+      "stt": 89,
+      "title": "Hành Ca *",
+      "year_composed": 1968,
+      "first_singer": "Trịnh Công Sơn, Vân Quỳnh, Vân Khanh",
+      "album": "Kinh Việt Nam",
+      "release_year": 1971,
+      "note": "*"
+    },
+    {
+      "stt": 90,
+      "title": "Hành Hương Trên Đồi Cao (Người Đi Hành Hương Trên Đỉnh Núi)",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Trường Sơn 5: Tình trong khói lửa",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 91,
+      "title": "Hát Trên Những Xác Người *",
+      "year_composed": 1969,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 1",
+      "release_year": 1971,
+      "note": "*"
+    },
+    {
+      "stt": 92,
+      "title": "Hãy Cố Chờ *",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 5",
+      "release_year": 1973,
+      "note": "*"
+    },
+    {
+      "stt": 93,
+      "title": "Hãy Cứ Vui Như Mọi Ngày",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Như cánh vạc bay",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 94,
+      "title": "Hãy Đi Cùng Nhau (Hãy Đi Cùng Tôi) *",
+      "year_composed": 1968,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 2",
+      "release_year": 1972,
+      "note": "*"
+    },
+    {
+      "stt": 95,
+      "title": "Hãy Khóc Đi Em",
+      "year_composed": "19??",
+      "first_singer": "Carol Kim",
+      "album": "Shotguns 13",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 96,
+      "title": "Hãy Nhìn Lại *",
+      "year_composed": 1972,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 5",
+      "release_year": 1973,
+      "note": "*"
+    },
+    {
+      "stt": 97,
+      "title": "Hãy Sống Dùm Tôi *",
+      "year_composed": 1965,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 1",
+      "release_year": 1971,
+      "note": "*"
+    },
+    {
+      "stt": 98,
+      "title": "Hãy yêu nhau đi",
+      "year_composed": "",
+      "first_singer": "Khánh Ly",
+      "album": "Như cánh vạc bay - Cỏ xót xa đưa",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 99,
+      "title": "Hòa Bình Là Cơm Áo *",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Công Sơn,; Hoàng Xuân Sơn",
+      "album": "Kinh Việt Nam",
+      "release_year": 1971,
+      "note": "*"
+    },
+    {
+      "stt": 100,
+      "title": "Hoa buồn",
+      "year_composed": "trước 1963",
+      "first_singer": "Vũ Lập đơn ca 13/1/1963, chưa thu âm",
+      "album": "",
+      "release_year": "",
+      "note": ""
+    },
+    {
+      "stt": 101,
+      "title": "Hoa vàng mấy độ",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Vĩnh Trinh",
+      "album": "Hoa vàng mấy độ",
+      "release_year": 1993,
+      "note": ""
+    },
+    {
+      "stt": 102,
+      "title": "Hoa xuân ca",
+      "year_composed": "",
+      "first_singer": "Đan Anh / Lan Ngọc",
+      "album": "Nhạc tuyển Trịnh Công Sơn 45-3-90-NT",
+      "release_year": 1990,
+      "note": ""
+    },
+    {
+      "stt": 103,
+      "title": "Hôm Nay Thức Dậy *",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Nhạc tuyển 1",
+      "release_year": 1970,
+      "note": "*"
+    },
+    {
+      "stt": 104,
+      "title": "Hôm Nay Tôi Nghe",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Vĩnh Trinh",
+      "album": "Em đến từ nghìn xưa (Diễm xưa CD 78)",
+      "release_year": 1995,
+      "note": ""
+    },
+    {
+      "stt": 105,
+      "title": "Huế - Sài Gòn - Hà Nội",
+      "year_composed": 1969,
+      "first_singer": "Khánh Ly",
+      "album": "Jo Marcel 27",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 106,
+      "title": "Huyền thoại mẹ",
+      "year_composed": "",
+      "first_singer": "Cẩm Vân",
+      "album": "Nhạc tuyển Trịnh Công Sơn 45-3-90-NT",
+      "release_year": 1990,
+      "note": ""
+    },
+    {
+      "stt": 107,
+      "title": "Im Lặng Thở Dài (Tôi Đang Lắng Nghe)",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Một cõi đi về",
+      "release_year": 1992,
+      "note": ""
+    },
+    {
+      "stt": 108,
+      "title": "Khăn Quàng Thắp Sáng Bình Minh",
+      "year_composed": "",
+      "first_singer": "Tốp ca",
+      "album": "Em yêu trường em",
+      "release_year": 1992,
+      "note": ""
+    },
+    {
+      "stt": 109,
+      "title": "Khói Trời Mênh Mông",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 4",
+      "release_year": 1972,
+      "note": ""
+    },
+    {
+      "stt": 110,
+      "title": "Lại Gần Với Nhau *",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 1",
+      "release_year": 1971,
+      "note": "*"
+    },
+    {
+      "stt": 111,
+      "title": "Lặng Lẽ Nơi Này",
+      "year_composed": "19??",
+      "first_singer": "Bích Sơn / Cẩm Vân / Lan Ngọc",
+      "album": "Nhạc tuyển Trịnh Công Sơn 45-3-90-NT",
+      "release_year": 1990,
+      "note": ""
+    },
+    {
+      "stt": 112,
+      "title": "Lời Buồn Thánh",
+      "year_composed": "trước 18/10/1964",
+      "first_singer": "Bạch Yến",
+      "album": "Sóng Nhạc 782/2107",
+      "release_year": 1965,
+      "note": "Trong lá thư viết cho Ngô Vũ Dao Ánh ngày 18/10/1964, Trịnh Công Sơn đã hai đêm đến dancing Tự Do nghe Bạch Yến ca \"Lời buồn thánh\""
+    },
+    {
+      "stt": 113,
+      "title": "Lời Của Dòng Sông *",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Việt Nam 3599-600",
+      "release_year": 1969,
+      "note": "*"
+    },
+    {
+      "stt": 114,
+      "title": "Lời Mẹ Ru",
+      "year_composed": 1972,
+      "first_singer": "Hà Thanh",
+      "album": "Sóng Nhạc 739/2092",
+      "release_year": 1964,
+      "note": ""
+    },
+    {
+      "stt": 115,
+      "title": "Lời Ở Phố Về *",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 4",
+      "release_year": 1972,
+      "note": "*"
+    },
+    {
+      "stt": 116,
+      "title": "Lời ru Đêm *",
+      "year_composed": 1972,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 5",
+      "release_year": 1973,
+      "note": "*"
+    },
+    {
+      "stt": 117,
+      "title": "Lời Thiên Thu Gọi",
+      "year_composed": 1972,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 4",
+      "release_year": 1972,
+      "note": ""
+    },
+    {
+      "stt": 118,
+      "title": "Mẹ Bỏ Con Đi (Đường Xa Vạn Dặm)",
+      "year_composed": "19??",
+      "first_singer": "Hồng Nhung",
+      "album": "Bống bồng ơi",
+      "release_year": 1993,
+      "note": ""
+    },
+    {
+      "stt": 119,
+      "title": "Mẹ Của Anh (thơ: Xuân Quỳnh)",
+      "year_composed": "19??",
+      "first_singer": "Thùy Dương",
+      "album": "",
+      "release_year": "",
+      "note": ""
+    },
+    {
+      "stt": 120,
+      "title": "Mẹ Đi Vắng (thơ: Nguyễn Quang Dũng)",
+      "year_composed": 1982,
+      "first_singer": "Yến Nhi",
+      "album": "Thiên đàng tuổi thơ",
+      "release_year": 1996,
+      "note": ""
+    },
+    {
+      "stt": 121,
+      "title": "Mênh mông Đồng Tháp",
+      "year_composed": "",
+      "first_singer": "Lan Ngọc",
+      "album": "Nhạc tuyển Trịnh Công Sơn 45-3-90-NT",
+      "release_year": 1990,
+      "note": ""
+    },
+    {
+      "stt": 122,
+      "title": "Môi Hồng Đào",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Vĩnh Trinh",
+      "album": "Đóa hoa vô thường; (Diễm xưa CD 66)",
+      "release_year": 1994,
+      "note": ""
+    },
+    {
+      "stt": 123,
+      "title": "Mỗi Ngày Tôi Chọn Một Niềm Vui",
+      "year_composed": 1980,
+      "first_singer": "Khánh Ly",
+      "album": "Bông hồng cho người ngã ngựa",
+      "release_year": 1980,
+      "note": ""
+    },
+    {
+      "stt": 124,
+      "title": "Một Buổi Sáng Mùa Xuân *",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 5",
+      "release_year": 1973,
+      "note": "*"
+    },
+    {
+      "stt": 125,
+      "title": "Một cõi đi về",
+      "year_composed": 1974,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho những người ở lại",
+      "release_year": 1977,
+      "note": ""
+    },
+    {
+      "stt": 126,
+      "title": "Một Lần Thoáng Có",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 4",
+      "release_year": 1972,
+      "note": ""
+    },
+    {
+      "stt": 127,
+      "title": "Một Ngày Như Mọi Ngày",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Như cánh vạc bay",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 128,
+      "title": "Một Ngày Vinh Quang, Một Ngày Tuyệt Vọng *",
+      "year_composed": 1972,
+      "first_singer": "Khánh Ly",
+      "album": "Lời buồn thánh",
+      "release_year": 1981,
+      "note": "*"
+    },
+    {
+      "stt": 129,
+      "title": "Mùa Áo Quan *",
+      "year_composed": 1972,
+      "first_singer": "Khánh Ly",
+      "album": "Lời buồn thánh",
+      "release_year": 1981,
+      "note": "*"
+    },
+    {
+      "stt": 130,
+      "title": "Mùa Hè Đến",
+      "year_composed": "19??",
+      "first_singer": "Tóc Tiên",
+      "album": "Như hòn bi xanh",
+      "release_year": 2004,
+      "note": ""
+    },
+    {
+      "stt": 131,
+      "title": "Mưa hồng",
+      "year_composed": "",
+      "first_singer": "Khánh Ly",
+      "album": "Ghi âm trực tiếp Quán Văn",
+      "release_year": 1967,
+      "note": ""
+    },
+    {
+      "stt": 132,
+      "title": "Mưa Mùa Hạ",
+      "year_composed": "19??",
+      "first_singer": "",
+      "album": "",
+      "release_year": "",
+      "note": ""
+    },
+    {
+      "stt": 133,
+      "title": "Mùa Phục Hồi (Xin Chờ Những Sớm Mai, Xuân Nguyện) *",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 5",
+      "release_year": 1973,
+      "note": "*"
+    },
+    {
+      "stt": 134,
+      "title": "Mừng Sinh Nhật",
+      "year_composed": "19??",
+      "first_singer": "Xuân Nghi",
+      "album": "Như hòn bi xanh",
+      "release_year": 2004,
+      "note": ""
+    },
+    {
+      "stt": 135,
+      "title": "Muôn Trùng Biển Ơi",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Vĩnh Trinh",
+      "album": "Tình yêu tìm thấy (Diễm xưa CD 160)",
+      "release_year": 2000,
+      "note": ""
+    },
+    {
+      "stt": 136,
+      "title": "Nắng thủy tinh",
+      "year_composed": "",
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Tình ca Trịnh Công Sơn",
+      "release_year": 1968,
+      "note": ""
+    },
+    {
+      "stt": 137,
+      "title": "Này Em Có Nhớ",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Như cánh vạc bay",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 138,
+      "title": "Ngẫu nhiên",
+      "year_composed": "",
+      "first_singer": "Khánh Ly",
+      "album": "Lời buồn thánh",
+      "release_year": 1981,
+      "note": ""
+    },
+    {
+      "stt": 139,
+      "title": "Ngày Dài Trên Quê Hương *",
+      "year_composed": 1965,
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Ghi âm trực tiếp Quán Văn",
+      "release_year": 1967,
+      "note": "*"
+    },
+    {
+      "stt": 140,
+      "title": "Ngày Mai Đây Bình Yên *",
+      "year_composed": 1968,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 3",
+      "release_year": 1972,
+      "note": "*"
+    },
+    {
+      "stt": 141,
+      "title": "Ngày Về *",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 5",
+      "release_year": 1973,
+      "note": "*"
+    },
+    {
+      "stt": 142,
+      "title": "Ngày Xưa Khi Còn Bé (Ngày Nay Không Còn Bé) (thơ: Đoàn Xuân Kiên ?)",
+      "year_composed": 1993,
+      "first_singer": "Trịnh Vĩnh Trinh",
+      "album": "Sóng về đâu",
+      "release_year": 2000,
+      "note": ""
+    },
+    {
+      "stt": 143,
+      "title": "Nghe Những Tàn Phai",
+      "year_composed": "19??",
+      "first_singer": "Thái Thanh",
+      "album": "Tiếng Hát Thái Thanh",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 144,
+      "title": "Nghe Tiếng Muôn Trùng *",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 5",
+      "release_year": 1973,
+      "note": "*"
+    },
+    {
+      "stt": 145,
+      "title": "Ngủ Đi Con",
+      "year_composed": 1965,
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Tình ca Trịnh Công Sơn",
+      "release_year": 1968,
+      "note": ""
+    },
+    {
+      "stt": 146,
+      "title": "Ngụ Ngôn Mùa Đông *",
+      "year_composed": 1965,
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Ghi âm trực tiếp Quán Văn",
+      "release_year": 1967,
+      "note": "*"
+    },
+    {
+      "stt": 147,
+      "title": "Người Con Gái Việt Nam Da Vàng *",
+      "year_composed": 1965,
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Quán Văn",
+      "release_year": 1967,
+      "note": "*"
+    },
+    {
+      "stt": 148,
+      "title": "Người Già, Em Bé (Ghế Đá Công Viên)",
+      "year_composed": 1966,
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Quán Văn",
+      "release_year": 1967,
+      "note": ""
+    },
+    {
+      "stt": 149,
+      "title": "Người Về Bỗng Nhớ",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Như cánh vạc bay",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 150,
+      "title": "Nguyệt Ca",
+      "year_composed": 1972,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 4",
+      "release_year": 1972,
+      "note": ""
+    },
+    {
+      "stt": 151,
+      "title": "Nhân Danh Việt Nam *",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Công Sơn,; Hoàng Xuân Sơn",
+      "album": "Kinh Việt Nam",
+      "release_year": 1971,
+      "note": "*"
+    },
+    {
+      "stt": 152,
+      "title": "Nhìn những mùa thu đi",
+      "year_composed": "",
+      "first_singer": "Lệ Thanh",
+      "album": "Sóng Nhạc 660/2077",
+      "release_year": 1964,
+      "note": ""
+    },
+    {
+      "stt": 153,
+      "title": "Nhớ mùa thu Hà Nội",
+      "year_composed": "",
+      "first_singer": "Thế Sơn",
+      "album": "Nhạc tuyển Trịnh Công Sơn 45-3-90-NT",
+      "release_year": 1990,
+      "note": ""
+    },
+    {
+      "stt": 154,
+      "title": "Nhớ tiếng hát ngày xưa",
+      "year_composed": "",
+      "first_singer": "Thế Sơn",
+      "album": "Tình Ca Đất Nước 40-11-89-NT",
+      "release_year": 1989,
+      "note": ""
+    },
+    {
+      "stt": 155,
+      "title": "Như cánh vạc bay",
+      "year_composed": "",
+      "first_singer": "Khánh Ly",
+      "album": "Như cánh vạc bay",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 156,
+      "title": "Như Chim Ưu Phiền",
+      "year_composed": 1993,
+      "first_singer": "Khánh Ly",
+      "album": "Còn tuổi nào cho em",
+      "release_year": 2003,
+      "note": ""
+    },
+    {
+      "stt": 157,
+      "title": "Như Hòn Bi Xanh",
+      "year_composed": 1978,
+      "first_singer": "Trịnh Công Sơn + Thanh Hải",
+      "album": "Vết lăn trầm",
+      "release_year": 1980,
+      "note": ""
+    },
+    {
+      "stt": 158,
+      "title": "Như Một Lời Chia Tay",
+      "year_composed": 1991,
+      "first_singer": "Khánh Ly",
+      "album": "Một cõi đi về",
+      "release_year": 1992,
+      "note": ""
+    },
+    {
+      "stt": 159,
+      "title": "Như Một Vết Thương",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Như một vết thương",
+      "release_year": 2009,
+      "note": ""
+    },
+    {
+      "stt": 160,
+      "title": "Như Tiếng Thở Dài",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho những người ở lại",
+      "release_year": 1977,
+      "note": ""
+    },
+    {
+      "stt": 161,
+      "title": "Những Ai Còn Là Việt Nam *",
+      "year_composed": 1969,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 2",
+      "release_year": 1972,
+      "note": "*"
+    },
+    {
+      "stt": 162,
+      "title": "Những Con Mắt Trần Gian",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Việt Nam 3617-18",
+      "release_year": 1969,
+      "note": ""
+    },
+    {
+      "stt": 163,
+      "title": "Những Giọt Máu Trổ Bông *",
+      "year_composed": 1969,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 2",
+      "release_year": 1972,
+      "note": "*"
+    },
+    {
+      "stt": 164,
+      "title": "Những Giọt Mưa Khuya *",
+      "year_composed": 1959,
+      "first_singer": "",
+      "album": "",
+      "release_year": "",
+      "note": "*"
+    },
+    {
+      "stt": 165,
+      "title": "Nhưng Hôm Nay... *",
+      "year_composed": 1969,
+      "first_singer": "",
+      "album": "",
+      "release_year": "",
+      "note": "*"
+    },
+    {
+      "stt": 166,
+      "title": "Níu Tay Nghìn Trùng",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Vĩnh Trinh",
+      "album": "Tôi ơi đừng tuyệt vọng (Diễm xưa CD 63)",
+      "release_year": 1993,
+      "note": ""
+    },
+    {
+      "stt": 167,
+      "title": "Nối vòng tay lớn",
+      "year_composed": "",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 1",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 168,
+      "title": "Ở trọ (Cõi tạm)",
+      "year_composed": "",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho những người ở lại",
+      "release_year": 1977,
+      "note": ""
+    },
+    {
+      "stt": 169,
+      "title": "Phôi Pha",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 5",
+      "release_year": 1973,
+      "note": ""
+    },
+    {
+      "stt": 170,
+      "title": "Phúc Âm Buồn",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Nhạc tuyển 1",
+      "release_year": "1969?",
+      "note": ""
+    },
+    {
+      "stt": 171,
+      "title": "Quê Hương",
+      "year_composed": 1983,
+      "first_singer": "",
+      "album": "",
+      "release_year": "",
+      "note": "phim Bãi biển đời người"
+    },
+    {
+      "stt": 172,
+      "title": "Quê Hương Đau Nặng *",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 5",
+      "release_year": 1973,
+      "note": "*"
+    },
+    {
+      "stt": 173,
+      "title": "Quỳnh Hương",
+      "year_composed": 1980,
+      "first_singer": "Thái Châu",
+      "album": "Nhạc tuyển Trịnh Công Sơn 45-3-90-NT",
+      "release_year": 1990,
+      "note": ""
+    },
+    {
+      "stt": 174,
+      "title": "Ra Đồng Giữa Ngọ",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Như tiếng thở dài",
+      "release_year": 1997,
+      "note": ""
+    },
+    {
+      "stt": 175,
+      "title": "Rơi Lệ Ru Người (Thí Dụ) *",
+      "year_composed": 1975,
+      "first_singer": "Khánh Ly",
+      "album": "Một cõi đi về",
+      "release_year": 1992,
+      "note": "*"
+    },
+    {
+      "stt": 176,
+      "title": "Rồi Như Đá Ngây Ngô",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Như cánh vạc bay",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 177,
+      "title": "Ru Đời Đã Mất *",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 4",
+      "release_year": 1972,
+      "note": "*"
+    },
+    {
+      "stt": 178,
+      "title": "Ru Đời Đi Nhé!",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Ru đời đi nhé",
+      "release_year": 1992,
+      "note": ""
+    },
+    {
+      "stt": 179,
+      "title": "Ru Em",
+      "year_composed": "19??",
+      "first_singer": "Xuân Sơn",
+      "album": "Nghệ Thuật 4",
+      "release_year": 1970,
+      "note": ""
+    },
+    {
+      "stt": 180,
+      "title": "Ru Em Từng Ngón Xuân Hồng (Ru Mãi Ngàn Năm)",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Ghi âm trực tiếp Quán văn",
+      "release_year": 1967,
+      "note": ""
+    },
+    {
+      "stt": 181,
+      "title": "Ru ta ngậm ngùi",
+      "year_composed": "",
+      "first_singer": "Khánh Ly",
+      "album": "Như cánh vạc bay",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 182,
+      "title": "Ru tình",
+      "year_composed": 1993,
+      "first_singer": "Trịnh Vĩnh Trinh",
+      "album": "Tôi ơi đừng tuyệt vọng",
+      "release_year": 1993,
+      "note": ""
+    },
+    {
+      "stt": 183,
+      "title": "Rừng Xanh Xanh Mãi",
+      "year_composed": 1992,
+      "first_singer": "Khánh Ly",
+      "album": "Đời cho ta thế",
+      "release_year": 2000,
+      "note": ""
+    },
+    {
+      "stt": 184,
+      "title": "Rừng Xưa Đã Khép",
+      "year_composed": "19??",
+      "first_singer": "Lệ Thu",
+      "album": "Shotguns 13",
+      "release_year": 1971,
+      "note": "Phim Mùa hè chiều thẳng đứng"
+    },
+    {
+      "stt": 185,
+      "title": "Sao chiều",
+      "year_composed": "1957 về trước",
+      "first_singer": "Hữu Thái hát 13/1/1963, chưa thu âm",
+      "album": "",
+      "release_year": "",
+      "note": ""
+    },
+    {
+      "stt": 186,
+      "title": "Sao Mắt Mẹ Chưa Vui ? (Đêm Nay Hòa Bình) *",
+      "year_composed": 1968,
+      "first_singer": "Khánh Ly",
+      "album": "Shotguns 32 (Hòa Bình)",
+      "release_year": 1973,
+      "note": "*"
+    },
+    {
+      "stt": 187,
+      "title": "Sẽ Còn Ai *",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 4",
+      "release_year": 1972,
+      "note": "*"
+    },
+    {
+      "stt": 188,
+      "title": "Sóng Về Đâu?",
+      "year_composed": 1995,
+      "first_singer": "Vũ Khanh",
+      "album": "Yêu em một nửa",
+      "release_year": 1996,
+      "note": ""
+    },
+    {
+      "stt": 189,
+      "title": "Ta Đi Dựng Cờ *",
+      "year_composed": 1969,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 3",
+      "release_year": 1972,
+      "note": "*"
+    },
+    {
+      "stt": 190,
+      "title": "Tạ Ơn",
+      "year_composed": "19??",
+      "first_singer": "Lệ Thu",
+      "album": "Việt Nam 3617-18",
+      "release_year": 1969,
+      "note": ""
+    },
+    {
+      "stt": 191,
+      "title": "Ta Phải Thấy Mặt Trời *",
+      "year_composed": 1969,
+      "first_singer": "Trịnh Công Sơn,; Hoàng Xuân Sơn,; Vân Hòa, Vân Quỳnh,; Vân Khanh",
+      "album": "Kinh Việt Nam",
+      "release_year": 1971,
+      "note": "*"
+    },
+    {
+      "stt": 192,
+      "title": "Ta Quyết Phải Sống *",
+      "year_composed": 1969,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 3",
+      "release_year": 1972,
+      "note": "*"
+    },
+    {
+      "stt": 193,
+      "title": "Ta Thấy Gì Đêm Nay",
+      "year_composed": 1968,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 1",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 194,
+      "title": "Tết Suối Hồng",
+      "year_composed": "19??",
+      "first_singer": "Tóc Tiên",
+      "album": "Như hòn bi xanh",
+      "release_year": 2004,
+      "note": ""
+    },
+    {
+      "stt": 195,
+      "title": "Thành phố Mùa Xuân (Sài Gòn Mùa Xuân)",
+      "year_composed": "19??",
+      "first_singer": "Lan Ngọc",
+      "album": "Nhạc tuyển Trịnh Công Sơn 45-3-90-NT",
+      "release_year": 1990,
+      "note": ""
+    },
+    {
+      "stt": 196,
+      "title": "Thanh quan ca",
+      "year_composed": "19??",
+      "first_singer": "",
+      "album": "",
+      "release_year": "",
+      "note": "- Có bản gửi cho Ngô Vũ Dao Ánh tháng 11 năm 1995 với câu sau đây \"Nhớ không biết có chính xác không. Lâu quá rồi. Vả lại chỉ hát một lần thời ấy rồi thôi. Có sữa vài chữ vài lời.\""
+    },
+    {
+      "stt": 197,
+      "title": "Thiên Sứ Bâng Khuâng (thơ: Trịnh Cung)",
+      "year_composed": 2000,
+      "first_singer": "Tuấn Ngọc",
+      "album": "",
+      "release_year": "",
+      "note": ""
+    },
+    {
+      "stt": 198,
+      "title": "Thuở Bống Là Người",
+      "year_composed": 1997,
+      "first_singer": "Hồng Nhung",
+      "album": "Đóa hoa vô thường (Hãng phim Trẻ phát hành)",
+      "release_year": 1997,
+      "note": ""
+    },
+    {
+      "stt": 199,
+      "title": "Thương Một Người",
+      "year_composed": 1959,
+      "first_singer": "Thanh Thúy",
+      "album": "Sóng Nhạc 624/2059",
+      "release_year": 1963,
+      "note": ""
+    },
+    {
+      "stt": 200,
+      "title": "Tiến Thoái Lưỡng Nan",
+      "year_composed": 1998,
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Vì tôi cần thấy em yêu đời",
+      "release_year": 2001,
+      "note": ""
+    },
+    {
+      "stt": 201,
+      "title": "Tiếng Ve Gọi Hè",
+      "year_composed": "19??",
+      "first_singer": "Mây Trắng",
+      "album": "Như hòn bi xanh",
+      "release_year": 2004,
+      "note": ""
+    },
+    {
+      "stt": 202,
+      "title": "Tình Ca Của Người Mất Trí *",
+      "year_composed": 1965,
+      "first_singer": "Khánh Ly",
+      "album": "Ghi âm trực tiếp Quán văn",
+      "release_year": 1967,
+      "note": "*"
+    },
+    {
+      "stt": 203,
+      "title": "Tình Khúc Ơ-Bai",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Một cõi đi về",
+      "release_year": 1992,
+      "note": ""
+    },
+    {
+      "stt": 204,
+      "title": "Tình Nhớ",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Tình ca Trịnh Công Sơn",
+      "release_year": 1968,
+      "note": ""
+    },
+    {
+      "stt": 205,
+      "title": "Tình Sầu",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Tình ca Trịnh Công Sơn",
+      "release_year": 1968,
+      "note": ""
+    },
+    {
+      "stt": 206,
+      "title": "Tình Xa",
+      "year_composed": "1969-04",
+      "first_singer": "Khánh Ly",
+      "album": "Việt Nam 3617-18",
+      "release_year": 1969,
+      "note": ""
+    },
+    {
+      "stt": 207,
+      "title": "Tình Xót Xa Vừa",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Như cánh vạc bay",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 208,
+      "title": "Tình Yêu Tìm Thấy",
+      "year_composed": 1982,
+      "first_singer": "Nguyễn Lệ Thu",
+      "album": "Dĩa Hát TPHCM: Mùa xuân tình yêu",
+      "release_year": 1983,
+      "note": ""
+    },
+    {
+      "stt": 209,
+      "title": "Tôi Biết Tôi Yêu *",
+      "year_composed": 1972,
+      "first_singer": "Khánh Ly",
+      "album": "Lời buồn thánh",
+      "release_year": 1981,
+      "note": "*"
+    },
+    {
+      "stt": 210,
+      "title": "Tôi Đã Mất *",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 5",
+      "release_year": 1973,
+      "note": "*"
+    },
+    {
+      "stt": 211,
+      "title": "Tôi Ơi Đừng Tuyệt Vọng",
+      "year_composed": 1992,
+      "first_singer": "Khánh Ly",
+      "album": "Một cõi đi về",
+      "release_year": 1992,
+      "note": ""
+    },
+    {
+      "stt": 212,
+      "title": "Tôi ru em ngủ",
+      "year_composed": "",
+      "first_singer": "Khánh Ly",
+      "album": "Việt Nam 3599-600",
+      "release_year": 1969,
+      "note": ""
+    },
+    {
+      "stt": 213,
+      "title": "Tôi Sẽ Đi Thăm *",
+      "year_composed": 1965,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 1",
+      "release_year": 1971,
+      "note": "*"
+    },
+    {
+      "stt": 214,
+      "title": "Tôi Sẽ Nhớ",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Vết lăn trầm",
+      "release_year": 1980,
+      "note": ""
+    },
+    {
+      "stt": 215,
+      "title": "Tôi Tìm Tôi (Tôi Là Ai) *",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Như một vết thương",
+      "release_year": 2009,
+      "note": "*"
+    },
+    {
+      "stt": 216,
+      "title": "Trong Nỗi Đau Tình Cờ",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Ru đời đi nhé",
+      "release_year": 1992,
+      "note": ""
+    },
+    {
+      "stt": 217,
+      "title": "Tự Tình khúc",
+      "year_composed": 1972,
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 4",
+      "release_year": 1972,
+      "note": ""
+    },
+    {
+      "stt": 218,
+      "title": "Từng Ngày Qua",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Như cánh vạc bay - Cỏ xót xa đưa",
+      "release_year": 1971,
+      "note": ""
+    },
+    {
+      "stt": 219,
+      "title": "Tuổi Đá Buồn",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Ghi âm trực tiếp Quán văn",
+      "release_year": 1967,
+      "note": ""
+    },
+    {
+      "stt": 220,
+      "title": "Tuổi đời mênh mông",
+      "year_composed": 1982,
+      "first_singer": "Nhã Phương",
+      "album": "",
+      "release_year": "",
+      "note": ""
+    },
+    {
+      "stt": 221,
+      "title": "Tuổi Trẻ Việt Nam *",
+      "year_composed": 1969,
+      "first_singer": "Trịnh Công Sơn,; Hoàng Xuân Sơn, Vân Quỳnh",
+      "album": "Kinh Việt Nam",
+      "release_year": 1971,
+      "note": "*"
+    },
+    {
+      "stt": 222,
+      "title": "Tưởng Rằng Đã Quên",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 4",
+      "release_year": 1972,
+      "note": ""
+    },
+    {
+      "stt": 223,
+      "title": "Ướt mi",
+      "year_composed": 1958,
+      "first_singer": "Thanh Thúy",
+      "album": "Sóng Nhạc 623/2058",
+      "release_year": 1963,
+      "note": "tác phẩm đầu tiên của Trịnh Công Sơn được công bố chính thức"
+    },
+    {
+      "stt": 224,
+      "title": "Vẫn Có Em Bên Đời",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Tôi ơi đừng tuyệt vọng (Diễm xưa CD 63)",
+      "release_year": 1993,
+      "note": ""
+    },
+    {
+      "stt": "",
+      "title": "Vẫn Nhớ Cuộc Đời *",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Như cánh vạc bay - Cỏ xót xa đưa",
+      "release_year": 1971,
+      "note": "*"
+    },
+    {
+      "stt": 225,
+      "title": "Vàng Phai Trước Ngõ",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Vĩnh Trinh",
+      "album": "Người về bỗng nhớ",
+      "release_year": 1997,
+      "note": ""
+    },
+    {
+      "stt": 226,
+      "title": "Về Giữa Trị An",
+      "year_composed": "",
+      "first_singer": "Cẩm Vân",
+      "album": "Nhạc tuyển Trịnh Công Sơn 45-3-90-NT",
+      "release_year": 1990,
+      "note": ""
+    },
+    {
+      "stt": 227,
+      "title": "Về Trong Suối Nguồn",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Vĩnh Trinh + Quang Minh",
+      "album": "Vì tôi cần thấy em yêu đời",
+      "release_year": 2001,
+      "note": ""
+    },
+    {
+      "stt": 228,
+      "title": "Về Thăm Mái Trường Xưa",
+      "year_composed": "19??",
+      "first_singer": "Thanh Phương",
+      "album": "Tình Ca Đất Nước 40-11-89-NT",
+      "release_year": 1989,
+      "note": ""
+    },
+    {
+      "stt": 229,
+      "title": "Vết Lăn Trầm",
+      "year_composed": "19??",
+      "first_singer": "Trịnh Công Sơn",
+      "album": "Tình ca Trịnh Công Sơn",
+      "release_year": 1968,
+      "note": ""
+    },
+    {
+      "stt": 230,
+      "title": "Vì Bé Ngoan",
+      "year_composed": "19??",
+      "first_singer": "Nhóm Búp Bê xinh",
+      "album": "Như hòn bi xanh",
+      "release_year": 2004,
+      "note": ""
+    },
+    {
+      "stt": 231,
+      "title": "Vì Tôi Cần Thấy Em Yêu Đời",
+      "year_composed": "19??",
+      "first_singer": "Thanh Hải",
+      "album": "Vết lăn trầm",
+      "release_year": 1980,
+      "note": ""
+    },
+    {
+      "stt": 232,
+      "title": "Việt Nam Ơi, Hãy Vùng Lên *",
+      "year_composed": 1969,
+      "first_singer": "Trịnh Công Sơn,; Hoàng Xuân Sơn",
+      "album": "Kinh Việt Nam",
+      "release_year": 1971,
+      "note": "*"
+    },
+    {
+      "stt": 233,
+      "title": "Vườn Xưa",
+      "year_composed": 1993,
+      "first_singer": "Trịnh Vĩnh Trinh",
+      "album": "Em đến từ nghìn xưa",
+      "release_year": 1995,
+      "note": ""
+    },
+    {
+      "stt": 234,
+      "title": "Xa Dấu Mặt Trời",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 2",
+      "release_year": 1972,
+      "note": ""
+    },
+    {
+      "stt": 235,
+      "title": "Xác ta xác thù *",
+      "year_composed": 1972,
+      "first_singer": "",
+      "album": "",
+      "release_year": "",
+      "note": "*"
+    },
+    {
+      "stt": 236,
+      "title": "Xanh Lòng Phai Tàn *",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 4",
+      "release_year": 1972,
+      "note": "*"
+    },
+    {
+      "stt": 237,
+      "title": "Xin Cho Tôi",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Quán Văn",
+      "release_year": 1967,
+      "note": ""
+    },
+    {
+      "stt": 238,
+      "title": "Xin Mặt Trời Ngủ Yên",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Đài Phát thanh Đà Lạt",
+      "release_year": 1965,
+      "note": ""
+    },
+    {
+      "stt": 239,
+      "title": "Xin Trả Nợ Người",
+      "year_composed": 1993,
+      "first_singer": "Trịnh Vĩnh Trinh",
+      "album": "Tôi ơi đừng tuyệt vọng",
+      "release_year": 1993,
+      "note": ""
+    },
+    {
+      "stt": 240,
+      "title": "Yêu Dấu Tan Theo",
+      "year_composed": "19??",
+      "first_singer": "Khánh Ly",
+      "album": "Hát cho quê hương Việt Nam 4",
+      "release_year": 1972,
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Danh sách bài hát của Trịnh Công Sơn - Free Download",
+    "description": "Các ca khúc do nhạc sĩ Trịnh Công Sơn sáng tác, kèm năm sáng tác, ca sĩ thu âm đầu tiên, băng nhạc và năm phát hành. Contains 241 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách bài hát của Trịnh Công Sơn | ListBase",
+    "seo_description": "Download Danh sách bài hát của Trịnh Công Sơn — 241 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 241 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_b%C3%A0i_h%C3%A1t_c%E1%BB%A7a_Tr%E1%BB%8Bnh_C%C3%B4ng_S%C6%A1n"
+    ]
+  }
+}
