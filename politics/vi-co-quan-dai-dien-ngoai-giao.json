@@ -1,0 +1,840 @@
+{
+  "id": "vi-co-quan-dai-dien-ngoai-giao",
+  "name": "Danh sách cơ quan đại diện ngoại giao của Việt Nam ở nước ngoài",
+  "title": "Danh sách cơ quan đại diện ngoại giao của Việt Nam ở nước ngoài",
+  "description": "Các đại sứ quán, tổng lãnh sự quán và phái đoàn của Việt Nam ở nước ngoài theo châu lục, kèm địa điểm, cấp đại diện, thời gian hoạt động và các nước kiêm nhiệm.",
+  "category": "politics",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C6%A1_quan_%C4%91%E1%BA%A1i_di%E1%BB%87n_ngo%E1%BA%A1i_giao_c%E1%BB%A7a_Vi%E1%BB%87t_Nam_%E1%BB%9F_n%C6%B0%E1%BB%9Bc_ngo%C3%A0i",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C6%A1_quan_%C4%91%E1%BA%A1i_di%E1%BB%87n_ngo%E1%BA%A1i_giao_c%E1%BB%A7a_Vi%E1%BB%87t_Nam_%E1%BB%9F_n%C6%B0%E1%BB%9Bc_ngo%C3%A0i",
+  "updated": "2026-10",
+  "record_count": 98,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "mission_type",
+      "label": "Mission Type",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    },
+    {
+      "key": "concurrent_accreditation",
+      "label": "Concurrent Accreditation",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "region": "Châu Á",
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "mission_type": "Đại sứ quán",
+      "period": "1973 – 1981, 2003 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Brunei",
+      "city": "Bandar Seri Begawan",
+      "mission_type": "Đại sứ quán",
+      "period": "1995 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Campuchia",
+      "city": "Phnôm Pênh",
+      "mission_type": "Đại sứ quán",
+      "period": "1964 – ?, 1979 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Campuchia",
+      "city": "Battambang",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Campuchia",
+      "city": "Sihanoukville",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Trung Quốc",
+      "city": "Bắc Kinh",
+      "mission_type": "Đại sứ quán",
+      "period": "1951 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Trung Quốc",
+      "city": "Quảng Châu",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Trung Quốc",
+      "city": "Hồng Kông",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Trung Quốc",
+      "city": "Côn Minh",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Trung Quốc",
+      "city": "Nam Ninh",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Trung Quốc",
+      "city": "Thượng Hải",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Trung Quốc",
+      "city": "Trùng Khánh",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Timor-Leste",
+      "city": "Dili",
+      "mission_type": "Đại sứ quán",
+      "period": "2026 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Ấn Độ",
+      "city": "New Delhi",
+      "mission_type": "Đại sứ quán",
+      "period": "1972 – nay",
+      "concurrent_accreditation": "Bhutan"
+    },
+    {
+      "region": "Châu Á",
+      "country": "Ấn Độ",
+      "city": "Mumbai",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": "Bhutan"
+    },
+    {
+      "region": "Châu Á",
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "mission_type": "Đại sứ quán",
+      "period": "",
+      "concurrent_accreditation": "Papua New Guinea"
+    },
+    {
+      "region": "Châu Á",
+      "country": "UAE",
+      "city": "Abu Dhabi",
+      "mission_type": "Đại sứ quán",
+      "period": "",
+      "concurrent_accreditation": "Lebanon Jordan (từ 2024)"
+    },
+    {
+      "region": "Châu Á",
+      "country": "Iran",
+      "city": "Tehran",
+      "mission_type": "Đại sứ quán",
+      "period": "",
+      "concurrent_accreditation": "Syria, Iraq"
+    },
+    {
+      "region": "Châu Á",
+      "country": "Israel",
+      "city": "Tel Aviv",
+      "mission_type": "Đại sứ quán",
+      "period": "2006 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Nhật Bản",
+      "city": "Tokyo",
+      "mission_type": "Đại sứ quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Nhật Bản",
+      "city": "Ōsaka",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Nhật Bản",
+      "city": "Fukuoka",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Nhật Bản",
+      "city": "Nagoya",
+      "mission_type": "Lãnh sự quán danh dự",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Nhật Bản",
+      "city": "Kushiro",
+      "mission_type": "Lãnh sự quán danh dự",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Kazakhstan",
+      "city": "Astana",
+      "mission_type": "Đại sứ quán",
+      "period": "2007 – nay",
+      "concurrent_accreditation": "Georgia, Kyrgyzstan, Tajikistan và Gruzia"
+    },
+    {
+      "region": "Châu Á",
+      "country": "CHDCND Triều Tiên",
+      "city": "Bình Nhưỡng",
+      "mission_type": "Đại sứ quán",
+      "period": "1955 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Hàn Quốc",
+      "city": "Seoul",
+      "mission_type": "Đại sứ quán",
+      "period": "1993 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Hàn Quốc",
+      "city": "Busan",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Kuwait",
+      "city": "Thành phố Kuwait",
+      "mission_type": "Đại sứ quán",
+      "period": "2003 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Lào",
+      "city": "Viêng Chăn",
+      "mission_type": "Đại sứ quán",
+      "period": "1962 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Lào",
+      "city": "Pakse",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Lào",
+      "city": "Savannakhet",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Lào",
+      "city": "Luang Prabang",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "mission_type": "Đại sứ quán",
+      "period": "1976 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Mông Cổ",
+      "city": "Ulaanbaatar",
+      "mission_type": "Đại sứ quán",
+      "period": "1962 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Myanmar",
+      "city": "Yangon",
+      "mission_type": "Đại sứ quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "mission_type": "Đại sứ quán",
+      "period": "1977 – ? 2005 – nay",
+      "concurrent_accreditation": "Afghanistan"
+    },
+    {
+      "region": "Châu Á",
+      "country": "Philippines",
+      "city": "Manila",
+      "mission_type": "Đại sứ quán",
+      "period": "1976 – nay",
+      "concurrent_accreditation": "Palau (2008 – nay)"
+    },
+    {
+      "region": "Châu Á",
+      "country": "Qatar",
+      "city": "Doha",
+      "mission_type": "Đại sứ quán",
+      "period": "2008 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Ả Rập Xê Út",
+      "city": "Riyadh",
+      "mission_type": "Đại sứ quán",
+      "period": "",
+      "concurrent_accreditation": "Bahrain Yemen"
+    },
+    {
+      "region": "Châu Á",
+      "country": "Singapore",
+      "city": "Singapore",
+      "mission_type": "Đại sứ quán",
+      "period": "1991 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Sri Lanka",
+      "city": "Colombo",
+      "mission_type": "Đại sứ quán",
+      "period": "1971 – 1982, 2011 – nay",
+      "concurrent_accreditation": "Maldives"
+    },
+    {
+      "region": "Châu Á",
+      "country": "Đài Loan",
+      "city": "Đài Bắc",
+      "mission_type": "Văn phòng Kinh tế - Văn hóa",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Thái Lan",
+      "city": "Bangkok",
+      "mission_type": "Đại sứ quán",
+      "period": "1976 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Thái Lan",
+      "city": "Khon Kaen",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Á",
+      "country": "Thổ Nhĩ Kỳ",
+      "city": "Ankara",
+      "mission_type": "Đại sứ quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Áo",
+      "city": "Viên",
+      "mission_type": "Đại sứ quán",
+      "period": "1991 – nay",
+      "concurrent_accreditation": "Slovenia"
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Belarus",
+      "city": "Minsk",
+      "mission_type": "Đại sứ quán",
+      "period": "2003 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Bỉ",
+      "city": "Bruxelles",
+      "mission_type": "Đại sứ quán",
+      "period": "1991 – nay",
+      "concurrent_accreditation": "Luxembourg"
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Bulgaria",
+      "city": "Sofia",
+      "mission_type": "Đại sứ quán",
+      "period": "1958 – nay",
+      "concurrent_accreditation": "Macedonia"
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Séc",
+      "city": "Praha",
+      "mission_type": "Đại sứ quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Đan Mạch",
+      "city": "Copenhagen",
+      "mission_type": "Đại sứ quán",
+      "period": "19 tháng 9, 2001 – nay",
+      "concurrent_accreditation": "Iceland"
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Phần Lan",
+      "city": "Helsinki",
+      "mission_type": "Đại sứ quán",
+      "period": "2005 – nay",
+      "concurrent_accreditation": "Estonia"
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Pháp",
+      "city": "Paris",
+      "mission_type": "Đại sứ quán",
+      "period": "1973 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Đức",
+      "city": "Berlin",
+      "mission_type": "Đại sứ quán",
+      "period": "1962 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Đức",
+      "city": "Frankfurt am Main",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Hy Lạp",
+      "city": "Athens",
+      "mission_type": "Đại sứ quán",
+      "period": "2011 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Hungary",
+      "city": "Budapest",
+      "mission_type": "Đại sứ quán",
+      "period": "(1956 – 1989 và 2004 – nay",
+      "concurrent_accreditation": "Albania"
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Ireland",
+      "city": "Dublin",
+      "mission_type": "Đại sứ quán",
+      "period": "2025 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Ý",
+      "city": "Roma",
+      "mission_type": "Đại sứ quán",
+      "period": "1973 – nay",
+      "concurrent_accreditation": "Síp, Malta và San Marino"
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Hà Lan",
+      "city": "La Hay",
+      "mission_type": "Đại sứ quán",
+      "period": "1998 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Na Uy",
+      "city": "Oslo",
+      "mission_type": "Đại sứ quán",
+      "period": "1978 – 1982, 2010 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Ba Lan",
+      "city": "Warszawa",
+      "mission_type": "Đại sứ quán",
+      "period": "1955 – nay",
+      "concurrent_accreditation": "Litva"
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Bồ Đào Nha",
+      "city": "Lisbon",
+      "mission_type": "Đại sứ quán",
+      "period": "2025 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Âu",
+      "country": "România",
+      "city": "Bucharest",
+      "mission_type": "Đại sứ quán",
+      "period": "1959 – nay",
+      "concurrent_accreditation": "Serbia và Montenegro"
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Nga",
+      "city": "Moskva",
+      "mission_type": "Đại sứ quán",
+      "period": "1950 – nay",
+      "concurrent_accreditation": "Azerbaijan, Armenia, Uzbekistan và Turkmenistan"
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Nga",
+      "city": "Yekaterinburg",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": "Azerbaijan, Armenia, Uzbekistan và Turkmenistan"
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Nga",
+      "city": "Vladivostok",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": "Azerbaijan, Armenia, Uzbekistan và Turkmenistan"
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Slovakia",
+      "city": "Bratislava",
+      "mission_type": "Đại sứ quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Tây Ban Nha",
+      "city": "Madrid",
+      "mission_type": "Đại sứ quán",
+      "period": "2002 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Thụy Điển",
+      "city": "Stockholm",
+      "mission_type": "Đại sứ quán",
+      "period": "1970 – nay",
+      "concurrent_accreditation": "Latvia"
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Thụy Sĩ",
+      "city": "Bern",
+      "mission_type": "Đại sứ quán",
+      "period": "2000 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Ukraina",
+      "city": "Kiev",
+      "mission_type": "Đại sứ quán",
+      "period": "1992 – nay",
+      "concurrent_accreditation": "Moldova"
+    },
+    {
+      "region": "Châu Âu",
+      "country": "Anh Quốc",
+      "city": "Luân Đôn",
+      "mission_type": "Đại sứ quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Châu Úc",
+      "country": "Úc",
+      "city": "Canberra",
+      "mission_type": "Đại sứ quán",
+      "period": "1973 – nay",
+      "concurrent_accreditation": "Vanuatu, Quần đảo Marshall, Micronesia và Solomon"
+    },
+    {
+      "region": "Châu Úc",
+      "country": "Úc",
+      "city": "Perth",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "2013 – nay",
+      "concurrent_accreditation": "Vanuatu, Quần đảo Marshall, Micronesia và Solomon"
+    },
+    {
+      "region": "Châu Úc",
+      "country": "Úc",
+      "city": "Sydney",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": "Vanuatu, Quần đảo Marshall, Micronesia và Solomon"
+    },
+    {
+      "region": "Châu Úc",
+      "country": "New Zealand",
+      "city": "Wellington",
+      "mission_type": "Đại sứ quán",
+      "period": "2003 – nay",
+      "concurrent_accreditation": "Fiji, Samoa, Quần đảo Cook"
+    },
+    {
+      "region": "Châu Phi",
+      "country": "Angola",
+      "city": "Luanda",
+      "mission_type": "Đại sứ quán",
+      "period": "1976 – ?; 2002 – nay",
+      "concurrent_accreditation": "Zambia, Congo-Kinshasa, Congo-Brazzaville, Guinea Xích đạo, São Tomé và Príncipe, Cape"
+    },
+    {
+      "region": "Châu Phi",
+      "country": "Ai Cập",
+      "city": "Cairo",
+      "mission_type": "Đại sứ quán",
+      "period": "1963 – nay",
+      "concurrent_accreditation": "Libya"
+    },
+    {
+      "region": "Châu Phi",
+      "country": "Algérie",
+      "city": "Algiers",
+      "mission_type": "Đại sứ quán",
+      "period": "1962 – nay",
+      "concurrent_accreditation": "Sénégal, Sahrawi Dân chủ, Niger, Gambia, Mauritanie, Mali"
+    },
+    {
+      "region": "Châu Phi",
+      "country": "Maroc",
+      "city": "Rabat",
+      "mission_type": "Đại sứ quán",
+      "period": "2006 – nay",
+      "concurrent_accreditation": "Bờ Biển Ngà, Benin, Guinea, Burkina Faso, Gabon, Mauritani, Guiné-Bissau"
+    },
+    {
+      "region": "Châu Phi",
+      "country": "Nigeria",
+      "city": "Abuja",
+      "mission_type": "Đại sứ quán",
+      "period": "2008 – nay",
+      "concurrent_accreditation": "Sierra Leone, Ghana, Togo, Cameroon, Chad, Liberia"
+    },
+    {
+      "region": "Châu Phi",
+      "country": "Mozambique",
+      "city": "Maputo",
+      "mission_type": "Đại sứ quán",
+      "period": "1976 – 1990; 2009 – nay",
+      "concurrent_accreditation": "Madagascar, Seychelles, Mauritius."
+    },
+    {
+      "region": "Châu Phi",
+      "country": "Tanzania",
+      "city": "Dar es Salaam",
+      "mission_type": "Đại sứ quán",
+      "period": "1965 – 1984; 2003 – nay",
+      "concurrent_accreditation": "Kenya, Ethiopia, Rwanda, Uganda, Somalia, Burundi"
+    },
+    {
+      "region": "Châu Phi",
+      "country": "Nam Phi",
+      "city": "Pretoria",
+      "mission_type": "Đại sứ quán",
+      "period": "2000 – nay",
+      "concurrent_accreditation": "Namibia, Zimbabwe, Botswana, Lesotho, Eswatini."
+    },
+    {
+      "region": "Bắc Mỹ",
+      "country": "Canada",
+      "city": "Ottawa",
+      "mission_type": "Đại sứ quán",
+      "period": "1976 – 1981, 1990 – nay",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Bắc Mỹ",
+      "country": "Canada",
+      "city": "Vancouver",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Bắc Mỹ",
+      "country": "Cuba",
+      "city": "La Habana",
+      "mission_type": "Đại sứ quán",
+      "period": "1961 – nay",
+      "concurrent_accreditation": "Dominicana, Nicaragua, Haiti, Costa Rica, Jamaica, Liên bang Saint Kitts and Nevis, Antigua và Barbuda, Cộng đồng Thịnh vượng Dominica, Saint Lucia"
+    },
+    {
+      "region": "Bắc Mỹ",
+      "country": "México",
+      "city": "México",
+      "mission_type": "Đại sứ quán",
+      "period": "1975 – nay",
+      "concurrent_accreditation": "Belize, El Salvador, Guatemala, Honduras , Panama"
+    },
+    {
+      "region": "Bắc Mỹ",
+      "country": "Hoa Kỳ",
+      "city": "Washington, D.C.",
+      "mission_type": "Đại sứ quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Bắc Mỹ",
+      "country": "Hoa Kỳ",
+      "city": "San Francisco",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Bắc Mỹ",
+      "country": "Hoa Kỳ",
+      "city": "Houston",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Bắc Mỹ",
+      "country": "Hoa Kỳ",
+      "city": "New York",
+      "mission_type": "Tổng lãnh sự quán",
+      "period": "",
+      "concurrent_accreditation": ""
+    },
+    {
+      "region": "Nam Mỹ",
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "mission_type": "Đại sứ quán",
+      "period": "tháng 1, 1995 – nay",
+      "concurrent_accreditation": "Uruguay và Paraguay"
+    },
+    {
+      "region": "Nam Mỹ",
+      "country": "Brasil",
+      "city": "Brasília",
+      "mission_type": "Đại sứ quán",
+      "period": "2000 – nay",
+      "concurrent_accreditation": "Peru, Bolivia, Guyana, Suriname"
+    },
+    {
+      "region": "Nam Mỹ",
+      "country": "Chile",
+      "city": "Santiago de Chile",
+      "mission_type": "Đại sứ quán",
+      "period": "1972 – 1973; 2003 – nay",
+      "concurrent_accreditation": "Ecuador"
+    },
+    {
+      "region": "Nam Mỹ",
+      "country": "Venezuela",
+      "city": "Caracas",
+      "mission_type": "Đại sứ quán",
+      "period": "tháng 9, 2005 – nay",
+      "concurrent_accreditation": "Colombia"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách cơ quan đại diện ngoại giao của Việt Nam ở nước ngoài - Free Download",
+    "description": "Các đại sứ quán, tổng lãnh sự quán và phái đoàn của Việt Nam ở nước ngoài theo châu lục, kèm địa điểm, cấp đại diện, thời gian hoạt động và các nước kiêm nhiệm. Contains 98 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách cơ quan đại diện ngoại giao của Việt Nam ở nước ngoài | ListBase",
+    "seo_description": "Download Danh sách cơ quan đại diện ngoại giao của Việt Nam ở nước ngoài — 98 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 98 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C6%A1_quan_%C4%91%E1%BA%A1i_di%E1%BB%87n_ngo%E1%BA%A1i_giao_c%E1%BB%A7a_Vi%E1%BB%87t_Nam_%E1%BB%9F_n%C6%B0%E1%BB%9Bc_ngo%C3%A0i"
+    ]
+  }
+}

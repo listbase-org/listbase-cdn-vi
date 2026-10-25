@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-25T02:09:20.985Z",
-  "total_datasets": 522,
-  "total_records": 124070,
+  "generated": "2026-10-25T02:09:23.311Z",
+  "total_datasets": 523,
+  "total_records": 124168,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -3725,6 +3725,33 @@
         "xlsx": {
           "name": "vi-chu-tich-nuoc_VI.xlsx",
           "size": 8752
+        }
+      }
+    },
+    {
+      "id": "vi-co-quan-dai-dien-ngoai-giao",
+      "name": "Danh sách cơ quan đại diện ngoại giao của Việt Nam ở nước ngoài",
+      "category": "politics",
+      "record_count": 98,
+      "columns": [
+        "region",
+        "country",
+        "city",
+        "mission_type",
+        "period",
+        "concurrent_accreditation"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C6%A1_quan_%C4%91%E1%BA%A1i_di%E1%BB%87n_ngo%E1%BA%A1i_giao_c%E1%BB%A7a_Vi%E1%BB%87t_Nam_%E1%BB%9F_n%C6%B0%E1%BB%9Bc_ngo%C3%A0i",
+      "updated": "2026-10",
+      "size": 24297,
+      "files": {
+        "csv": {
+          "name": "vi-co-quan-dai-dien-ngoai-giao_VI.csv",
+          "size": 8375
+        },
+        "xlsx": {
+          "name": "vi-co-quan-dai-dien-ngoai-giao_VI.xlsx",
+          "size": 11427
         }
       }
     },
