@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-25T02:08:45.344Z",
-  "total_datasets": 508,
-  "total_records": 120005,
+  "generated": "2026-10-25T02:08:47.975Z",
+  "total_datasets": 509,
+  "total_records": 120056,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "math",
@@ -3253,6 +3253,31 @@
         "xlsx": {
           "name": "vi-quan-chuc-bi-ky-luat_VI.xlsx",
           "size": 26259
+        }
+      }
+    },
+    {
+      "id": "vi-trai-giam",
+      "name": "Danh sách trại giam ở Việt Nam",
+      "category": "law",
+      "record_count": 51,
+      "columns": [
+        "name",
+        "province",
+        "address",
+        "managed_by"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%E1%BA%A1i_giam_%E1%BB%9F_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 11838,
+      "files": {
+        "csv": {
+          "name": "vi-trai-giam_VI.csv",
+          "size": 5886
+        },
+        "xlsx": {
+          "name": "vi-trai-giam_VI.xlsx",
+          "size": 8984
         }
       }
     },

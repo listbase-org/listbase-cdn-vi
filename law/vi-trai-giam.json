@@ -1,0 +1,352 @@
+{
+  "id": "vi-trai-giam",
+  "name": "Danh sách trại giam ở Việt Nam",
+  "title": "Danh sách trại giam ở Việt Nam",
+  "description": "Các trại giam trực thuộc Tổng cục 8 Bộ Công an tại Việt Nam, kèm tỉnh/thành và địa chỉ.",
+  "category": "law",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%E1%BA%A1i_giam_%E1%BB%9F_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%E1%BA%A1i_giam_%E1%BB%9F_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "managed_by",
+      "label": "Managed By",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Thanh Xuân",
+      "province": "Hà Nội",
+      "address": "Mỹ Hưng, huyện Thanh Oai",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Suối Hai",
+      "province": "Hà Nội",
+      "address": "Ba Vì",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Xuân Nguyên",
+      "province": "Hải Phòng",
+      "address": "",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Định Thành",
+      "province": "An Giang",
+      "address": "xã Định Thành, huyện Thoại Sơn",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Xuyên Mộc",
+      "province": "Bà Rịa - Vũng Tàu",
+      "address": "",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Ngọc Lý",
+      "province": "Bắc Giang",
+      "address": "huyện Tân Yên",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Châu Bình",
+      "province": "Bến Tre",
+      "address": "huyện Giồng Trôm",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Kim Sơn (K18)",
+      "province": "Bình Định",
+      "address": "xã Ân Nghĩa, huyện Hoài Ân",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "An Phước",
+      "province": "Bình Dương",
+      "address": "huyện Phú Giáo",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Tống Lê Chân",
+      "province": "Bình Phước",
+      "address": "huyện Hớn Quản",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Z-30D (Thủ Đức)",
+      "province": "Bình Thuận",
+      "address": "huyện Hàm Tân",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Cái Tàu",
+      "province": "Cà Mau",
+      "address": "xã Khánh An, huyện U Minh",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Đăk Trung",
+      "province": "Đắk Lắk",
+      "address": "",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Đắc Tân",
+      "province": "Đắk Lắk",
+      "address": "",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Đắk Plao",
+      "province": "Đắk Nông",
+      "address": "",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Nà Tấu",
+      "province": "Điện Biên",
+      "address": "xã Nà Tấu, huyện Điện Biên",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Z-30A (Xuân Lộc)",
+      "province": "Đồng Nai",
+      "address": "",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Cao Lãnh",
+      "province": "Đồng Tháp",
+      "address": "xã Tân Hội Trung, huyện Cao Lãnh",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Gia Trung",
+      "province": "Gia Lai",
+      "address": "huyện Mang Yang",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Nam Hà",
+      "province": "Hà Nam",
+      "address": "huyện Kim Bảng",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Xuân Hà",
+      "province": "Hà Tĩnh",
+      "address": "",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Hoàng Tiến",
+      "province": "Hải Dương",
+      "address": "thị xã Chí Linh",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Kênh 5",
+      "province": "Hậu Giang",
+      "address": "",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "A2",
+      "province": "Khánh Hòa",
+      "address": "xã Diên Lâm, huyện Diên Khánh",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Kênh 7",
+      "province": "Kiên Giang",
+      "address": "xã Thạnh Yên, huyện U Minh Thượng",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Đại Bình",
+      "province": "Lâm Đồng",
+      "address": "xã Lộc Thành, Bảo Lâm",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Thạnh Hòa",
+      "province": "Long An",
+      "address": "xã Thạnh An, huyện Thạnh Hóa",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Long Hòa",
+      "province": "Long An",
+      "address": "xã Lương Hoà, huyện Bến Lức",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Số 3",
+      "province": "Nghệ An",
+      "address": "xã Nghĩa Dũng, huyện Tân Kỳ",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Số 6",
+      "province": "Nghệ An",
+      "address": "xã Hạnh Lâm, huyện Thanh Chương",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Ninh Khánh",
+      "province": "Ninh Bình",
+      "address": "Dưỡng Thượng, xã Ninh Vân, huyện Hoa Lư",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Sông Cái",
+      "province": "Ninh Thuận",
+      "address": "xã Phước Tiến, huyện Bác Ái",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Tân Lập",
+      "province": "Phú Thọ",
+      "address": "Vô Tranh, huyện Hạ Hòa",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Đồng Sơn",
+      "province": "Quảng Bình",
+      "address": "Đồng Sơn, Đồng Hới",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "An Điềm",
+      "province": "Quảng Nam",
+      "address": "huyện Đại Lộc",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Quảng Ninh",
+      "province": "Quảng Ninh",
+      "address": "",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Nghĩa An",
+      "province": "Quảng Trị",
+      "address": "huyện Cam Lộ",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Yên Hạ",
+      "province": "Sơn La",
+      "address": "xã Huy Hạ, huyện Phù Yên",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Cây Cầy",
+      "province": "Tây Ninh",
+      "address": "ấp Thạnh Hòa, xã Thạnh Bình, huyện Tân Biên",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Phú Sơn 4",
+      "province": "Thái Nguyên",
+      "address": "xã Cổ Lũng, huyện Phú Lương",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Số 5",
+      "province": "Thanh Hóa",
+      "address": "Thị trấn Thống Nhất, huyện Yên Định",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Thanh Cẩm",
+      "province": "Thanh Hóa",
+      "address": "Xã Cẩm Thành, huyện Cẩm Thủy",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Thanh Lâm",
+      "province": "Thanh Hóa",
+      "address": "thị trấn Yên Cát, Như Xuân",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Thanh Phong",
+      "province": "Thanh Hóa",
+      "address": "xã Minh Thọ, huyện Nông Cống",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Bình Điền",
+      "province": "Thừa Thiên – Huế",
+      "address": "xã Bình Điền, huyện Hương Trà",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Mỹ Phước",
+      "province": "Tiền Giang",
+      "address": "huyện Tân Phước",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Phước Hòa",
+      "province": "Tiền Giang",
+      "address": "xã Thạnh Hòa, huyện Tân Phước",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Bến Giá",
+      "province": "Trà Vinh",
+      "address": "xã Long Hữu, huyện Duyên Hải",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Quyết Tiến",
+      "province": "Tuyên Quang",
+      "address": "xã Thượng ấm, huyện Sơn Dương",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Vĩnh Quang",
+      "province": "Vĩnh Phúc",
+      "address": "xã Đạo Trù, huyện Tam Đảo",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    },
+    {
+      "name": "Hồng Ca",
+      "province": "Yên Bái",
+      "address": "xã Hưng Khánh, huyện Trấn Yên",
+      "managed_by": "Trại giam trực thuộc Tổng cục 8 Bộ Công an"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách trại giam ở Việt Nam - Free Download",
+    "description": "Các trại giam trực thuộc Tổng cục 8 Bộ Công an tại Việt Nam, kèm tỉnh/thành và địa chỉ. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách trại giam ở Việt Nam | ListBase",
+    "seo_description": "Download Danh sách trại giam ở Việt Nam — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%E1%BA%A1i_giam_%E1%BB%9F_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}
