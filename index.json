@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-25T02:08:59.998Z",
-  "total_datasets": 514,
-  "total_records": 120793,
+  "generated": "2026-10-25T02:09:03.278Z",
+  "total_datasets": 515,
+  "total_records": 120995,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -623,6 +623,39 @@
         "xlsx": {
           "name": "vi-grdp-tinh-thanh_VI.xlsx",
           "size": 9172
+        }
+      }
+    },
+    {
+      "id": "vi-ty-phu-viet-nam",
+      "name": "Danh sách tỷ phú Việt Nam theo giá trị tài sản",
+      "category": "economy",
+      "record_count": 202,
+      "columns": [
+        "list",
+        "year",
+        "rank",
+        "forbes_rank",
+        "name",
+        "birth_year",
+        "nationality",
+        "position",
+        "net_worth_billion_vnd",
+        "net_worth_billion_usd",
+        "source_of_wealth",
+        "company"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_t%E1%BB%B7_ph%C3%BA_Vi%E1%BB%87t_Nam_theo_gi%C3%A1_tr%E1%BB%8B_t%C3%A0i_s%E1%BA%A3n",
+      "updated": "2026-10",
+      "size": 115183,
+      "files": {
+        "csv": {
+          "name": "vi-ty-phu-viet-nam_VI.csv",
+          "size": 60243
+        },
+        "xlsx": {
+          "name": "vi-ty-phu-viet-nam_VI.xlsx",
+          "size": 21242
         }
       }
     },
