@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-25T02:09:11.256Z",
-  "total_datasets": 518,
-  "total_records": 122884,
+  "generated": "2026-10-25T02:09:13.725Z",
+  "total_datasets": 519,
+  "total_records": 123178,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -2764,6 +2764,34 @@
         "xlsx": {
           "name": "vi-bo-truong-bo-y-te_VI.xlsx",
           "size": 8849
+        }
+      }
+    },
+    {
+      "id": "vi-chien-tranh-lien-quan-viet-nam",
+      "name": "Danh sách cuộc chiến tranh liên quan đến Việt Nam",
+      "category": "history",
+      "record_count": 294,
+      "columns": [
+        "conflict",
+        "vietnamese_side",
+        "opponent",
+        "result",
+        "side_label",
+        "period",
+        "era"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_cu%E1%BB%99c_chi%E1%BA%BFn_tranh_li%C3%AAn_quan_%C4%91%E1%BA%BFn_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 149457,
+      "files": {
+        "csv": {
+          "name": "vi-chien-tranh-lien-quan-viet-nam_VI.csv",
+          "size": 104545
+        },
+        "xlsx": {
+          "name": "vi-chien-tranh-lien-quan-viet-nam_VI.xlsx",
+          "size": 31469
         }
       }
     },
