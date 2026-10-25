@@ -1,0 +1,1386 @@
+{
+  "id": "vi-truong-trung-cap",
+  "name": "Danh sách trường trung cấp chuyên nghiệp của Việt Nam",
+  "title": "Danh sách trường trung cấp chuyên nghiệp của Việt Nam",
+  "description": "Các trường trung cấp (trung cấp chuyên nghiệp, trung cấp nghề) tại Việt Nam theo tỉnh/thành phố và khu vực miền Bắc, miền Trung – Tây Nguyên, miền Nam.",
+  "category": "education",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%C6%B0%E1%BB%9Dng_trung_c%E1%BA%A5p_chuy%C3%AAn_nghi%E1%BB%87p_c%E1%BB%A7a_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%C6%B0%E1%BB%9Dng_trung_c%E1%BA%A5p_chuy%C3%AAn_nghi%E1%BB%87p_c%E1%BB%A7a_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 269,
+  "columns": [
+    {
+      "key": "school",
+      "label": "School",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "school": "Trường Trung cấp Y tế Hà Giang",
+      "province": "HÀ GIANG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Dân tộc nội trú Bắc Quang",
+      "province": "HÀ GIANG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật Hà Giang",
+      "province": "HÀ GIANG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung học Kinh tế - Kỹ thuật Tuyên Quang",
+      "province": "TUYÊN QUANG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Y tế Tuyên Quang",
+      "province": "TUYÊN QUANG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề tỉnh Cao Bằng",
+      "province": "CAO BẰNG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Y tế Cao Bằng",
+      "province": "CAO BẰNG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế Kỹ thuật Cao Bằng",
+      "province": "CAO BẰNG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Y tế Bắc Kạn",
+      "province": "BẮC KẠN",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Y tế Lào Cai",
+      "province": "LÀO CAI",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Công ty Apatit Việt Nam",
+      "province": "LÀO CAI",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Dân tộc nội trú Nghĩa Lộ",
+      "province": "YÊN BÁI",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Lục Yên",
+      "province": "YÊN BÁI",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Bách khoa Yên Bái",
+      "province": "YÊN BÁI",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Thái Nguyên",
+      "province": "THÁI NGUYÊN",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Luật Thái Nguyên",
+      "province": "THÁI NGUYÊN",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Y tế Thái Nguyên",
+      "province": "THÁI NGUYÊN",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Thái Nguyên",
+      "province": "THÁI NGUYÊN",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Nam Thái Nguyên",
+      "province": "THÁI NGUYÊN",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Y khoa Pasteur",
+      "province": "THÁI NGUYÊN",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Thái Hà",
+      "province": "THÁI NGUYÊN",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Giao thông vận tải Thái Nguyên",
+      "province": "THÁI NGUYÊN",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Dân tộc nội trú Thái Nguyên",
+      "province": "THÁI NGUYÊN",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Văn hóa Nghệ thuật tỉnh Lạng Sơn",
+      "province": "LẠNG SƠN",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Hermann Gmeiner Việt Trì",
+      "province": "PHÚ THỌ",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Văn hóa, Nghệ thuật và Du lịch Phú Thọ",
+      "province": "PHÚ THỌ",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Dân tộc nội trú Phú Thọ",
+      "province": "PHÚ THỌ",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Kỹ thuật – Nghiệp vụ Sông Hồng",
+      "province": "PHÚ THỌ",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Nông lâm nghiệp Phú Thọ",
+      "province": "PHÚ THỌ",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Y tế tỉnh Lai Châu",
+      "province": "LAI CHÂU",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Dân tộc nội trú tỉnh Lai Châu",
+      "province": "LAI CHÂU",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Văn hóa Nghệ thuật và Du lịch tỉnh Sơn La",
+      "province": "SƠN LA",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Luật Tây Bắc",
+      "province": "SƠN LA",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Y tế Hòa Bình",
+      "province": "HÒA BÌNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Văn hóa, Thể thao và Du lịch Bắc Giang",
+      "province": "BẮC GIANG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Y tế Bắc Giang",
+      "province": "BẮC GIANG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Y – Dược Bắc Giang",
+      "province": "BẮC GIANG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp ASEAN",
+      "province": "BẮC GIANG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề miền núi Yên Thế",
+      "province": "BẮC GIANG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Thủ công mỹ nghệ 19-5",
+      "province": "BẮC GIANG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề số 12/BQP",
+      "province": "BẮC GIANG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề số 11/BQP",
+      "province": "VĨNH PHÚC",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Kỹ thuật xây dựng & Nghiệp vụ",
+      "province": "VĨNH PHÚC",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Y tế Vĩnh Phúc",
+      "province": "VĨNH PHÚC",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Văn hóa Nghệ thuật Vĩnh Phúc",
+      "province": "VĨNH PHÚC",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Công nghệ Vĩnh Phúc",
+      "province": "VĨNH PHÚC",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Văn hóa, Nghệ thuật và Du lịch Bắc Ninh",
+      "province": "BẮC NINH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế Kỹ thuật Công thương – CCI",
+      "province": "BẮC NINH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Y tế Trung ương",
+      "province": "BẮC NINH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Kinh tế - Kỹ thuật Bắc Ninh",
+      "province": "BẮC NINH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề KTKT và TCMN truyền thống Thuận Thành",
+      "province": "BẮC NINH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Bách khoa Bắc Ninh",
+      "province": "BẮC NINH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Cơ giới đường bộ",
+      "province": "HẢI DƯƠNG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Văn hóa Nghệ thuật và Du lịch Hải Dương",
+      "province": "HẢI DƯƠNG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề kỹ thuật xi măng",
+      "province": "HẢI PHÒNG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp An Dương",
+      "province": "HẢI PHÒNG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Khu kinh tế Hải Phòng",
+      "province": "HẢI PHÒNG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Xây dựng",
+      "province": "HẢI PHÒNG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Nông nghiệp Thủy sản",
+      "province": "HẢI PHÒNG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Giao thông vận tải Hải Phòng",
+      "province": "HẢI PHÒNG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Du lịch Thăng Long",
+      "province": "HẢI PHÒNG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế Kỹ thuật và Công nghệ Hải Phòng",
+      "province": "HẢI PHÒNG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Nghiệp vụ và Công nghệ Hải Phòng",
+      "province": "HẢI PHÒNG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Chuyên nghiệp Hải Phòng",
+      "province": "HẢI PHÒNG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Bách khoa Hải Phòng",
+      "province": "HẢI PHÒNG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Kỹ thuật - Nghiệp vụ Hải Phòng",
+      "province": "HẢI PHÒNG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Văn hóa Nghệ thuật và Du lịch Hải Phòng",
+      "province": "HẢI PHÒNG",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Giao thông vận tải Hưng Yên",
+      "province": "HƯNG YÊN",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Á Châu",
+      "province": "HƯNG YÊN",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Châu Hưng",
+      "province": "HƯNG YÊN",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Văn hóa Nghệ thuật và Du lịch Hưng Yên",
+      "province": "HƯNG YÊN",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Tổng hợp Đông Đô",
+      "province": "HƯNG YÊN",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Việt Thanh",
+      "province": "HƯNG YÊN",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Nông nghiệp Thái Bình",
+      "province": "THÁI BÌNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Xây dựng Thái Bình",
+      "province": "THÁI BÌNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề cho người khuyết tật Thái Bình",
+      "province": "THÁI BÌNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Thủ công mỹ nghệ Kiến Xương",
+      "province": "THÁI BÌNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế Kỹ thuật Hà Nam",
+      "province": "HÀ NAM",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Công nghệ Hà Nam",
+      "province": "HÀ NAM",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Giao thông và Xây dựng Việt Úc",
+      "province": "HÀ NAM",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Giao thông vận tải Nam Định",
+      "province": "NAM ĐỊNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề số 8",
+      "province": "NAM ĐỊNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Thủ công mỹ nghệ truyền thống Nam Định",
+      "province": "NAM ĐỊNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Thương mại – Du lịch – Dịch vụ Nam Định",
+      "province": "NAM ĐỊNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế Kỹ thuật Nông nghiệp Nam Định",
+      "province": "NAM ĐỊNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Cơ Điện Nam Định",
+      "province": "NAM ĐỊNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Công nghệ và Truyền thông Nam Định",
+      "province": "NAM ĐỊNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Kỹ thuật Công nghiệp Nam Định",
+      "province": "NAM ĐỊNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Quốc tế",
+      "province": "NINH BÌNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Y - Dược Tôn Thất Tùng",
+      "province": "NINH BÌNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề Nho Quan",
+      "province": "NINH BÌNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Kỹ thuật - Du lịch Công đoàn Ninh Bình",
+      "province": "NINH BÌNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Công nghệ và Y tế Pasteur",
+      "province": "NINH BÌNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật và Tại chức Ninh Bình",
+      "province": "NINH BÌNH",
+      "region": "miền Bắc"
+    },
+    {
+      "school": "Trường Trung cấp nghề TTN khuyết tật, đặc biệt khó khăn Thanh Hóa",
+      "province": "THANH HÓA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Miền núi Thanh Hóa",
+      "province": "THANH HÓA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Kỹ nghệ Thanh Hóa",
+      "province": "THANH HÓA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Xây dựng Thanh Hóa",
+      "province": "THANH HÓA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Thương mại – Du lịch Thanh Hóa",
+      "province": "THANH HÓA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Phát thanh - Truyền hình Thanh Hóa",
+      "province": "THANH HÓA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Giao thông vận tải Thanh Hóa",
+      "province": "THANH HÓA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Bỉm Sơn",
+      "province": "THANH HÓA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Nga Sơn",
+      "province": "THANH HÓA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề số 1 thành phố Thanh Hóa",
+      "province": "THANH HÓA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Thạch Thành",
+      "province": "THANH HÓA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Yên Định",
+      "province": "THANH HÓA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Xây dựng Thanh Hóa",
+      "province": "THANH HÓA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kỹ thuật Y Dược Thanh Hóa",
+      "province": "THANH HÓA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Tuệ Tĩnh Thanh Hóa",
+      "province": "THANH HÓA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Bách nghệ Thanh Hóa",
+      "province": "THANH HÓA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Dân tộc Nội trú Nghệ An",
+      "province": "NGHỆ AN",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kỹ thuật Yên Thành",
+      "province": "NGHỆ AN",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Công nghiệp - Thủ công nghiệp Nghệ An",
+      "province": "NGHỆ AN",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật Bắc Nghệ An",
+      "province": "NGHỆ AN",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế Kỹ thuật Miền Tây",
+      "province": "NGHỆ AN",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật Nghi Lộc",
+      "province": "NGHỆ AN",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật Tây Nam Nghệ An",
+      "province": "NGHỆ AN",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật Vinh",
+      "province": "NGHỆ AN",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kỹ thuật - Nghiệp vụ Vinh",
+      "province": "NGHỆ AN",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Y khoa miền Trung",
+      "province": "NGHỆ AN",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Hà Tĩnh",
+      "province": "HÀ TĨNH",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kỹ nghệ Hà Tĩnh",
+      "province": "HÀ TĨNH",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Lý Tự trọng",
+      "province": "HÀ TĨNH",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề MITRACO",
+      "province": "HÀ TĨNH",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Y tế Quảng Bình",
+      "province": "QUẢNG BÌNH",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế Quảng Bình",
+      "province": "QUẢNG BÌNH",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Du lịch – Công nghệ số 9",
+      "province": "QUẢNG BÌNH",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Luật Đồng Hới",
+      "province": "QUẢNG BÌNH",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Bình Minh",
+      "province": "QUẢNG BÌNH",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Quảng Trị",
+      "province": "QUẢNG TRỊ",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Giao thông vận tải Quảng Trị",
+      "province": "QUẢNG TRỊ",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Mai Lĩnh Quảng Trị",
+      "province": "QUẢNG TRỊ",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Nông nghiệp và Phát triển nông thôn Quảng Trị",
+      "province": "QUẢNG TRỊ",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Quảng Điền",
+      "province": "HUẾ",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Văn hóa Nghệ thuật tỉnh Thừa Thiên - Huế",
+      "province": "HUẾ",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Công nghệ số 10",
+      "province": "HUẾ",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Giao thông Công chính Đà Nẵng",
+      "province": "ĐÀ NẴNG",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp chuyên nghiệp Ý Việt",
+      "province": "ĐÀ NẴNG",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kỹ thuật – Nghiệp vụ Thăng Long",
+      "province": "ĐÀ NẴNG",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Kỹ thuật Công nghệ Đà Nẵng",
+      "province": "ĐÀ NẴNG",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Việt Á",
+      "province": "ĐÀ NẴNG",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Thanh niên Dân tộc - Miền núi Quảng Nam",
+      "province": "QUẢNG NAM",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Quảng Đông",
+      "province": "QUẢNG NAM",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Nam Quảng Nam",
+      "province": "QUẢNG NAM",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Kinh tế - Kỹ thuật Miền Trung - Tây Nguyên",
+      "province": "QUẢNG NAM",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp ASEAN",
+      "province": "QUẢNG NAM",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Bắc Quảng Nam",
+      "province": "QUẢNG NAM",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Văn hóa Nghệ thuật và Du lịch Quảng Nam",
+      "province": "QUẢNG NAM",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề tỉnh Quảng Ngãi",
+      "province": "QUẢNG NGÃI",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Công nghệ Việt Mỹ",
+      "province": "QUẢNG NGÃI",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Thủ công Mỹ nghệ Bình Định",
+      "province": "GIA LAI",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kỹ thuật Công nghệ Hoài Nhơn",
+      "province": "GIA LAI",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật Bình Định",
+      "province": "GIA LAI",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật Đông Gia Lai",
+      "province": "GIA LAI",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Văn hóa Nghệ thuật Gia Lai",
+      "province": "GIA LAI",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Lâm nghiệp Tây Nguyên",
+      "province": "GIA LAI",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Y tế Gia Lai",
+      "province": "GIA LAI",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp văn hóa Nghệ thuật Bình Định",
+      "province": "GIA LAI",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Thanh niên dân tộc Phú Yên",
+      "province": "PHÚ YÊN",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Ninh Hòa",
+      "province": "KHÁNH HÒA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Cam Ranh",
+      "province": "KHÁNH HÒA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Vạn Ninh",
+      "province": "KHÁNH HÒA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Cam Lâm",
+      "province": "KHÁNH HÒA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Diên Khánh",
+      "province": "KHÁNH HÒA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Dân tộc nội trú Khánh Vĩnh",
+      "province": "KHÁNH HÒA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Dân tộc Nội trú Khánh Sơn",
+      "province": "KHÁNH HÒA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế Khánh Hòa",
+      "province": "KHÁNH HÒA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kỹ thuật miền Trung",
+      "province": "KHÁNH HÒA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Y Dược Yersin Nha Trang",
+      "province": "KHÁNH HÒA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật Trần Đại Nghĩa",
+      "province": "KHÁNH HÒA",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Việt Thuận",
+      "province": "NINH THUẬN",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Kinh tế - Kỹ thuật Công đoàn Bình Thuận",
+      "province": "BÌNH THUẬN",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Đắk Lắk",
+      "province": "ĐẮK LẮK",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật Đắk Lắk",
+      "province": "ĐẮK LẮK",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Tây Nguyên",
+      "province": "ĐẮK LẮK",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Trường Sơn",
+      "province": "ĐẮK LẮK",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Luật Buôn Ma Thuột",
+      "province": "ĐẮK LẮK",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật Phương Nam",
+      "province": "ĐẮK NÔNG",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Đắk Nông",
+      "province": "ĐẮK NÔNG",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Bảo Lộc",
+      "province": "LÂM ĐỒNG",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp nghề Tân Tiến",
+      "province": "LÂM ĐỒNG",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật Quốc Việt",
+      "province": "LÂM ĐỒNG",
+      "region": "miền Trung và Tây Nguyên"
+    },
+    {
+      "school": "Trường Trung cấp Việt Hàn",
+      "province": "BÌNH PHƯỚC",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật Bình Phước",
+      "province": "BÌNH PHƯỚC",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế Kỹ thuật Tây Ninh",
+      "province": "TÂY NINH",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Y tế Tây Ninh",
+      "province": "TÂY NINH",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề khu vực Nam Tây Ninh",
+      "province": "TÂY NINH",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Tân Bách khoa",
+      "province": "TÂY NINH",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Á Châu",
+      "province": "TÂY NINH",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Công nghiệp Bình Dương",
+      "province": "BÌNH DƯƠNG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế Bình Dương",
+      "province": "BÌNH DƯƠNG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật Bình Dương",
+      "province": "BÌNH DƯƠNG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Công nghệ Đông Nam",
+      "province": "BÌNH DƯƠNG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kỹ thuật và Nghiệp vụ Công đoàn Bình Dương",
+      "province": "BÌNH DƯƠNG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Mỹ thuật - Văn hóa Bình Dương",
+      "province": "BÌNH DƯƠNG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Nông Lâm nghiệp Bình Dương",
+      "province": "BÌNH DƯƠNG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Tài chính Kế toán Bình Dương",
+      "province": "BÌNH DƯƠNG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Dĩ An",
+      "province": "BÌNH DƯƠNG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Tân Uyên",
+      "province": "BÌNH DƯƠNG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật số 2",
+      "province": "ĐỒNG NAI",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Cơ Điện Đông Nam Bộ",
+      "province": "ĐỒNG NAI",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Giao thông vận tải Đồng Nai",
+      "province": "ĐỒNG NAI",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề 26/3",
+      "province": "ĐỒNG NAI",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế Kỹ thuật Đồng Nai",
+      "province": "ĐỒNG NAI",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Văn hóa nghệ thuật Đồng Nai",
+      "province": "ĐỒNG NAI",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Miền Đông",
+      "province": "ĐỒNG NAI",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Bách khoa Đồng Nai",
+      "province": "ĐỒNG NAI",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Đinh Tiên Hoàng",
+      "province": "ĐỒNG NAI",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Bách khoa Vũng Tàu",
+      "province": "BÀ RỊA – VŨNG TÀU",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp chuyên nghiệp Bà Rịa",
+      "province": "BÀ RỊA – VŨNG TÀU",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Kinh tế - Kỹ thuật Công đoàn BR-VT",
+      "province": "BÀ RỊA – VŨNG TÀU",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kỹ thuật Công nghệ Phước Lộc",
+      "province": "BÀ RỊA – VŨNG TÀU",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Giao thông vận tải tỉnh Bà Rịa - Vũng Tàu",
+      "province": "BÀ RỊA – VŨNG TÀU",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Y tế Long An",
+      "province": "LONG AN",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật Long An",
+      "province": "LONG AN",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Đức Hòa",
+      "province": "LONG AN",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Đồng Tháp Mười",
+      "province": "LONG AN",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Cần Giuộc",
+      "province": "LONG AN",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề và Đào tạo cán bộ HTX miền Nam",
+      "province": "LONG AN",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Việt Nhật",
+      "province": "LONG AN",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Bách khoa Gò Công",
+      "province": "TIỀN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Công nghệ Cai Lậy",
+      "province": "TIỀN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật Tiền Giang",
+      "province": "TIỀN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kỹ thuật Nghiệp vụ Cái Bè",
+      "province": "TIỀN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Văn hóa Nghệ thuật Tiền Giang",
+      "province": "TIỀN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Giao thông vận tải Tiền Giang",
+      "province": "TIỀN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề khu vực Cai Lậy",
+      "province": "TIỀN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Kinh tế - Kỹ thuật Công đoàn Tiền Giang",
+      "province": "TIỀN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Khu vực Gò Công",
+      "province": "TIỀN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Bến Tre",
+      "province": "BẾN TRE",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Văn hóa Nghệ thuật Bến Tre",
+      "province": "BẾN TRE",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Y tế Bến Tre",
+      "province": "BẾN TRE",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Dân tộc nội trú Trà Vinh",
+      "province": "TRÀ VINH",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Văn hóa Nghệ thuật và Thể thao Trà Vinh",
+      "province": "TRÀ VINH",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Y tế Vĩnh Long",
+      "province": "VĨNH LONG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Thanh Bình",
+      "province": "ĐỒNG THÁP",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề - Giáo dục thường xuyên Hồng Ngự",
+      "province": "ĐỒNG THÁP",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề - Giáo dục thường xuyên Tháp Mười",
+      "province": "ĐỒNG THÁP",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Châu Đốc",
+      "province": "AN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Tân Châu",
+      "province": "AN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Dân tộc nội trú tỉnh An Giang",
+      "province": "AN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kỹ thuật - Công nghệ An Giang",
+      "province": "AN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật An Giang",
+      "province": "AN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kỹ thuật Nghiệp vụ Kiên Giang",
+      "province": "KIÊN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Việt – Hàn Phú Quốc",
+      "province": "KIÊN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Dân tộc nội trú tỉnh Kiên Giang",
+      "province": "KIÊN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Tân Hiệp",
+      "province": "KIÊN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề vùng Tứ giác Long Xuyên",
+      "province": "KIÊN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề vùng U Minh Thượng",
+      "province": "KIÊN GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Giao thông vận tải Miền Nam",
+      "province": "CẦN THƠ",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Bách nghệ Cần Thơ",
+      "province": "CẦN THƠ",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Miền Tây",
+      "province": "CẦN THƠ",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Thới Lai – Tp. Cần Thơ",
+      "province": "CẦN THƠ",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Y Dược Mêkông",
+      "province": "CẦN THƠ",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Phạm Ngọc Thạch Cần Thơ",
+      "province": "CẦN THƠ",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Đại Việt thành phố Cần Thơ",
+      "province": "CẦN THƠ",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Hồng Hà Tp. Cần Thơ",
+      "province": "CẦN THƠ",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Thể dục Thể thao Tp. Cần Thơ",
+      "province": "CẦN THƠ",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật Công đoàn Cần Thơ",
+      "province": "CẦN THƠ",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Đông Dương",
+      "province": "CẦN THƠ",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế Kỹ thuật Cần Thơ",
+      "province": "CẦN THƠ",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kỹ thuật - Công nghệ tỉnh hậu Giang",
+      "province": "HẬU GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật tỉnh Hậu Giang",
+      "province": "HẬU GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Luật Vị Thanh",
+      "province": "HẬU GIANG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Văn hóa Nghệ thuật Sóc Trăng",
+      "province": "SÓC TRĂNG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Y tế Sóc Trăng",
+      "province": "SÓC TRĂNG",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Văn hóa Nghệ thuật Bạc Liêu",
+      "province": "BẠC LIÊU",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp nghề Tư thục STC",
+      "province": "BẠC LIÊU",
+      "region": "miền Nam"
+    },
+    {
+      "school": "Trường Trung cấp Kinh tế - Kỹ thuật Cà Mau",
+      "province": "CÀ MAU",
+      "region": "miền Nam"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách trường trung cấp chuyên nghiệp của Việt Nam - Free Download",
+    "description": "Các trường trung cấp (trung cấp chuyên nghiệp, trung cấp nghề) tại Việt Nam theo tỉnh/thành phố và khu vực miền Bắc, miền Trung – Tây Nguyên, miền Nam. Contains 269 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách trường trung cấp chuyên nghiệp của Việt Nam | ListBase",
+    "seo_description": "Download Danh sách trường trung cấp chuyên nghiệp của Việt Nam — 269 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 269 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%C6%B0%E1%BB%9Dng_trung_c%E1%BA%A5p_chuy%C3%AAn_nghi%E1%BB%87p_c%E1%BB%A7a_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}
