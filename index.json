@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-25T02:08:52.707Z",
-  "total_datasets": 511,
-  "total_records": 120416,
+  "generated": "2026-10-25T02:08:55.007Z",
+  "total_datasets": 512,
+  "total_records": 120672,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -3443,6 +3443,33 @@
         "xlsx": {
           "name": "vi-bai-hat-trinh-cong-son_VI.xlsx",
           "size": 20201
+        }
+      }
+    },
+    {
+      "id": "vi-bai-hat-ve-ha-noi",
+      "name": "Danh sách bài hát về Thăng Long – Hà Nội",
+      "category": "music",
+      "record_count": 256,
+      "columns": [
+        "title",
+        "composer",
+        "year",
+        "notable_singers",
+        "note",
+        "topic"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_b%C3%A0i_h%C3%A1t_v%E1%BB%81_Th%C4%83ng_Long_%E2%80%93_H%C3%A0_N%E1%BB%99i",
+      "updated": "2026-10",
+      "size": 59971,
+      "files": {
+        "csv": {
+          "name": "vi-bai-hat-ve-ha-noi_VI.csv",
+          "size": 27510
+        },
+        "xlsx": {
+          "name": "vi-bai-hat-ve-ha-noi_VI.xlsx",
+          "size": 19321
         }
       }
     },
