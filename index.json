@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-25T02:08:55.007Z",
-  "total_datasets": 512,
-  "total_records": 120672,
+  "generated": "2026-10-25T02:08:57.573Z",
+  "total_datasets": 513,
+  "total_records": 120689,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -12136,6 +12136,32 @@
         "xlsx": {
           "name": "vi-hdi-tinh-thanh_VI.xlsx",
           "size": 8786
+        }
+      }
+    },
+    {
+      "id": "vi-ton-giao-theo-dan-so",
+      "name": "Danh sách tôn giáo Việt Nam xếp theo dân số và giới tính",
+      "category": "society",
+      "record_count": 17,
+      "columns": [
+        "stt",
+        "religion",
+        "total",
+        "male",
+        "female"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_t%C3%B4n_gi%C3%A1o_Vi%E1%BB%87t_Nam_x%E1%BA%BFp_theo_d%C3%A2n_s%E1%BB%91_v%C3%A0_gi%E1%BB%9Bi_t%C3%ADnh",
+      "updated": "2026-10",
+      "size": 4341,
+      "files": {
+        "csv": {
+          "name": "vi-ton-giao-theo-dan-so_VI.csv",
+          "size": 852
+        },
+        "xlsx": {
+          "name": "vi-ton-giao-theo-dan-so_VI.xlsx",
+          "size": 7504
         }
       }
     },
