@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-25T02:09:13.725Z",
-  "total_datasets": 519,
-  "total_records": 123178,
+  "generated": "2026-10-25T02:09:16.270Z",
+  "total_datasets": 520,
+  "total_records": 123316,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -2792,6 +2792,35 @@
         "xlsx": {
           "name": "vi-chien-tranh-lien-quan-viet-nam_VI.xlsx",
           "size": 31469
+        }
+      }
+    },
+    {
+      "id": "vi-cong-chua-viet-nam",
+      "name": "Danh sách công chúa Việt Nam",
+      "category": "history",
+      "record_count": 138,
+      "columns": [
+        "dynasty",
+        "father",
+        "order",
+        "title",
+        "real_name",
+        "lifespan",
+        "husband",
+        "note"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C3%B4ng_ch%C3%BAa_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 61673,
+      "files": {
+        "csv": {
+          "name": "vi-cong-chua-viet-nam_VI.csv",
+          "size": 39043
+        },
+        "xlsx": {
+          "name": "vi-cong-chua-viet-nam_VI.xlsx",
+          "size": 18994
         }
       }
     },
