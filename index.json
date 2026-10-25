@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-25T02:09:18.656Z",
-  "total_datasets": 521,
-  "total_records": 123571,
+  "generated": "2026-10-25T02:09:20.985Z",
+  "total_datasets": 522,
+  "total_records": 124070,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "reference",
@@ -3725,6 +3725,33 @@
         "xlsx": {
           "name": "vi-chu-tich-nuoc_VI.xlsx",
           "size": 8752
+        }
+      }
+    },
+    {
+      "id": "vi-dai-bieu-quoc-hoi-khoa-xv",
+      "name": "Danh sách Đại biểu Quốc hội Việt Nam khóa XV",
+      "category": "politics",
+      "record_count": 499,
+      "columns": [
+        "province",
+        "constituency",
+        "area",
+        "name",
+        "vote_percent",
+        "note"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%90%E1%BA%A1i_bi%E1%BB%83u_Qu%E1%BB%91c_h%E1%BB%99i_Vi%E1%BB%87t_Nam_kh%C3%B3a_XV",
+      "updated": "2026-10",
+      "size": 169393,
+      "files": {
+        "csv": {
+          "name": "vi-dai-bieu-quoc-hoi-khoa-xv_VI.csv",
+          "size": 107374
+        },
+        "xlsx": {
+          "name": "vi-dai-bieu-quoc-hoi-khoa-xv_VI.xlsx",
+          "size": 38717
         }
       }
     },

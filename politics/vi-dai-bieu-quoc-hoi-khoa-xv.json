@@ -1,0 +1,4048 @@
+{
+  "id": "vi-dai-bieu-quoc-hoi-khoa-xv",
+  "name": "Danh sách Đại biểu Quốc hội Việt Nam khóa XV",
+  "title": "Danh sách Đại biểu Quốc hội Việt Nam khóa XV",
+  "description": "Danh sách đại biểu trúng cử Quốc hội Việt Nam khóa XV (2021–2026) theo tỉnh/thành phố và đơn vị bầu cử, kèm tỷ lệ phiếu bầu và chức vụ.",
+  "category": "politics",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%90%E1%BA%A1i_bi%E1%BB%83u_Qu%E1%BB%91c_h%E1%BB%99i_Vi%E1%BB%87t_Nam_kh%C3%B3a_XV",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%90%E1%BA%A1i_bi%E1%BB%83u_Qu%E1%BB%91c_h%E1%BB%99i_Vi%E1%BB%87t_Nam_kh%C3%B3a_XV",
+  "updated": "2026-10",
+  "record_count": 499,
+  "columns": [
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "constituency",
+      "label": "Constituency",
+      "type": "number"
+    },
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "vote_percent",
+      "label": "Vote Percent",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "province": "Hà Nội",
+      "constituency": 1,
+      "area": "Ba Đình; Đống Đa; Hai Bà Trưng",
+      "name": "Nguyễn Trúc Anh",
+      "vote_percent": "71,88",
+      "note": "Giám đốc Sở Quy hoạch - Kiến trúc thành phố Hà Nội; 2.2023: Bí thư Huyện ủy Hoài Đức 7.2025: Bí thư Đảng ủy, Chủ tịch HĐND xã Sơn Đồng"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 1,
+      "area": "Ba Đình; Đống Đa; Hai Bà Trưng",
+      "name": "Nguyễn Quốc Duyệt",
+      "vote_percent": "83,65",
+      "note": "Thiếu tướng, Tư lệnh Bộ Tư lệnh Thủ đô Hà Nội; 8.2022: Trung tướng, Tư lệnh Bộ Tư lệnh Thủ đô Hà Nội 6.2025: Chánh Thanh tra Bộ Quốc phòng"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 1,
+      "area": "Ba Đình; Đống Đa; Hai Bà Trưng",
+      "name": "Nguyễn Phú Trọng",
+      "vote_percent": "93,23",
+      "note": "Từ trần ngày 19 tháng 7 năm 2024"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 2,
+      "area": "Hoàn Kiếm; Long Biên; Đông Anh",
+      "name": "Nguyễn Hữu Chính",
+      "vote_percent": "84,54",
+      "note": "Chánh án Tòa án nhân dân thành phố Hà Nội (đến 9.2025)"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 2,
+      "area": "Hoàn Kiếm; Long Biên; Đông Anh",
+      "name": "Trương Xuân Cừ",
+      "vote_percent": "76,58",
+      "note": "Phó Chủ tịch Thường trực Trung ương Hội Người cao tuổi"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 2,
+      "area": "Hoàn Kiếm; Long Biên; Đông Anh",
+      "name": "Bùi Huyền Mai",
+      "vote_percent": "77,84",
+      "note": "Trưởng ban Tuyên giáo Thành ủy Hà Nội; 11.2022: Bí thư Quận ủy Thanh Xuân 7.2025: Bí thư Đảng ủy, Chủ tịch HĐND phường Thanh Xuân 8.2025: Phó Chủ tịch Thường trực UBMTTQVN thành phố Hà Nội 11.2025: Chủ tịch UBMTTQVN thành phố Hà Nội"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 3,
+      "area": "Cầu Giấy; Nam Từ Liêm; Thanh Xuân",
+      "name": "Dương Minh Ánh",
+      "vote_percent": "74,56",
+      "note": "Hiệu trưởng Trường Cao đẳng Nghệ thuật Hà Nội"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 3,
+      "area": "Cầu Giấy; Nam Từ Liêm; Thanh Xuân",
+      "name": "Nguyễn Phi Thường",
+      "vote_percent": "82,86",
+      "note": "Chủ tịch Liên đoàn Lao động thành phố Hà Nội; 11.2022: Giám đốc Sở Giao thông Vận tải thành phố Hà Nội 3.2025: Giám đốc Sở Xây dựng thành phố Hà Nội"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 3,
+      "area": "Cầu Giấy; Nam Từ Liêm; Thanh Xuân",
+      "name": "Nguyễn Ngọc Tuấn",
+      "vote_percent": "81,78",
+      "note": "Chủ tịch Hội đồng nhân dân thành phố Hà Nội (đến 11.2025)"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 4,
+      "area": "Hoàng Mai; Gia Lâm",
+      "name": "Đặng Minh Châu",
+      "vote_percent": "79,97",
+      "note": "Phó Chủ tịch Hội đồng Trị sự Trung ương Giáo hội Phật giáo"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 4,
+      "area": "Hoàng Mai; Gia Lâm",
+      "name": "Đinh Tiến Dũng",
+      "vote_percent": "91,25",
+      "note": "Thôi chức ngày 25 tháng 6 năm 2024"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 4,
+      "area": "Hoàng Mai; Gia Lâm",
+      "name": "Vũ Thị Lưu Mai",
+      "vote_percent": "78,46",
+      "note": "Ủy viên Thường trực Ủy ban Tài chính – Ngân sách Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Tài chính – Ngân sách Quốc hội 3.2025: Phó Chủ nhiệm Ủy ban Kinh tế và Tài chính Quốc hội"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 5,
+      "area": "Tây Hồ; Bắc Từ Liêm; Hoài Đức",
+      "name": "Vũ Tiến Lộc",
+      "vote_percent": "75,31",
+      "note": "Qua đời ngày 5 tháng 8 năm 2024"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 5,
+      "area": "Tây Hồ; Bắc Từ Liêm; Hoài Đức",
+      "name": "Bùi Hoài Sơn",
+      "vote_percent": "73,53",
+      "note": "Viện trưởng Viện Văn hóa nghệ thuật quốc gia; 7.2021: Ủy viên Thường trực Ủy ban Văn hóa, Giáo dục Quốc hội 3.2025: Ủy viên chuyên trách Ủy ban Văn hóa và Xã hội Quốc hội"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 5,
+      "area": "Tây Hồ; Bắc Từ Liêm; Hoài Đức",
+      "name": "Nguyễn Hải Trung",
+      "vote_percent": "73,15",
+      "note": "Trung tướng, Giám đốc Công an thành phố Hà Nội 3.2025: Thứ trưởng Bộ Dân tộc và Tôn giáo"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 6,
+      "area": "Hà Đông Thanh Trì; Thanh Oai",
+      "name": "Phạm Đức Ấn",
+      "vote_percent": "77,95",
+      "note": "Chủ tịch HĐTV Ngân hàng Agribank; 12.2024: - Chủ tịch UBND tỉnh Quảng Ninh - Chuyển sinh hoạt sang Đoàn ĐBQH tỉnh Quảng Ninh 9.2025: - Chủ tịch UBND thành phố Đà Nẵng - Chuyển sinh hoạt sang Đoàn ĐBQH thành phố Đà Nẵng"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 6,
+      "area": "Hà Đông Thanh Trì; Thanh Oai",
+      "name": "Đỗ Đức Hồng Hà",
+      "vote_percent": "84,57",
+      "note": "Ủy viên Thường trực Ủy ban Tư pháp Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Tư pháp Quốc hội 3.2025: Phó Chủ nhiệm Ủy ban Pháp luật và Tư pháp Quốc hội"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 6,
+      "area": "Hà Đông Thanh Trì; Thanh Oai",
+      "name": "Nguyễn Kim Sơn",
+      "vote_percent": "80,46",
+      "note": "Phó Giáo sư, Bộ trưởng Bộ Giáo dục và Đào tạo"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 7,
+      "area": "Phúc Thọ; Ba Vì; Đan Phượng; Sơn Tây",
+      "name": "Trần Việt Anh",
+      "vote_percent": "77,86",
+      "note": "Giám đốc Trung tâm Bảo tồn di sản Thăng Long – Hà Nội, Giám đốc Ban Quản lý dự án Bảo tồn, tôn tạo Khu di tích Cổ Loa – Thành cổ Hà Nội; 7.2021: Ủy viên chuyên trách Ủy ban Văn hóa, Giáo dục Quốc hội 8.2024: Ủy viên Thường trực Ủy ban Đối ngoại Quốc hội 3.2025: Ủy viên chuyên trách Ủy ban Quốc phòng, An ninh và Đối ngoại Quốc hội"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 7,
+      "area": "Phúc Thọ; Ba Vì; Đan Phượng; Sơn Tây",
+      "name": "Trần Thị Nhị Hà",
+      "vote_percent": "74,62",
+      "note": "Giám đốc Sở Y tế thành phố Hà Nội 3.2024: Phó Trưởng Ban Dân nguyện thuộc Ủy ban Thường vụ Quốc hội 3.2025: Phó Chủ nhiệm Ủy ban Dân nguyện và Giám sát Quốc hội"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 7,
+      "area": "Phúc Thọ; Ba Vì; Đan Phượng; Sơn Tây",
+      "name": "Phạm Thị Thanh Mai",
+      "vote_percent": "80,61",
+      "note": "Bí thư Thị ủy Sơn Tây; 7.2021: Phó Trưởng đoàn ĐBQH thành phố Hà Nội"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 8,
+      "area": "Quốc Oai; Chương Mỹ; Thạch Thất",
+      "name": "Khuất Việt Dũng",
+      "vote_percent": "74,69",
+      "note": "Trung tướng, Phó Chủ tịch Hội Cựu chiến binh"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 8,
+      "area": "Quốc Oai; Chương Mỹ; Thạch Thất",
+      "name": "Nguyễn Thị Lan",
+      "vote_percent": "70,73",
+      "note": "Giám đốc Học viện Nông nghiệp Việt Nam"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 8,
+      "area": "Quốc Oai; Chương Mỹ; Thạch Thất",
+      "name": "Lê Nhật Thành",
+      "vote_percent": "69,66",
+      "note": "Đại tá, Phó Cục trưởng Cục An ninh nội địa; 7.2021: Ủy viên chuyên trách Hội đồng Dân tộc Quốc hội"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 9,
+      "area": "Ứng Hòa, Mỹ Đức; Phú Xuyên; Thường Tín",
+      "name": "Tạ Đình Thi",
+      "vote_percent": "75,55",
+      "note": "Tổng cục trưởng Tổng cục Biển và Hải đảo, Bộ Tài nguyên và Môi trường; 7.2021: Phó Chủ nhiệm Ủy ban Khoa học, Công nghệ và Môi trường Quốc hội"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 9,
+      "area": "Ứng Hòa, Mỹ Đức; Phú Xuyên; Thường Tín",
+      "name": "Nguyễn Tuấn Thịnh",
+      "vote_percent": "73,96",
+      "note": "Phó Viện trưởng Viện Nghiên cứu phát triển kinh tế - xã hội Hà Nội"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 9,
+      "area": "Ứng Hòa, Mỹ Đức; Phú Xuyên; Thường Tín",
+      "name": "Nguyễn Phương Thủy",
+      "vote_percent": "74,57",
+      "note": "Vụ trưởng Vụ Pháp luật, Văn phòng Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Pháp luật Quốc hội 3.2025: Phó Chủ nhiệm Ủy ban Pháp luật và Tư pháp Quốc hội"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 10,
+      "area": "Sóc Sơn; Mê Linh",
+      "name": "Hoàng Văn Cường",
+      "vote_percent": "76,70",
+      "note": "Phó Hiệu trưởng Trường Đại học Kinh tế Quốc dân"
+    },
+    {
+      "province": "Hà Nội",
+      "constituency": 10,
+      "area": "Sóc Sơn; Mê Linh",
+      "name": "Nguyễn Anh Trí",
+      "vote_percent": "65,09",
+      "note": "Chủ tịch Hội Huyết học và truyền máu Việt Nam"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 1,
+      "area": "Thủ Đức",
+      "name": "Vũ Hải Quân",
+      "vote_percent": "60,93",
+      "note": "Bí thư Đảng ủy, Giám đốc Đại học Quốc gia Thành phố Hồ Chí Minh 9.2025: Thứ trưởng Thường trực Bộ Khoa học và Công nghệ"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 1,
+      "area": "Thủ Đức",
+      "name": "Nguyễn Thanh Sang",
+      "vote_percent": "60,03",
+      "note": "Phó Viện trưởng Viện kiểm sát nhân dân Thành phố Hồ Chí Minh; 7.2024: Phó Trưởng ban Nội chính Thành ủy Thành phố Hồ Chí Minh"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 2,
+      "area": "Quận 1; Quận 3; Bình Thạnh",
+      "name": "Đỗ Đức Hiển",
+      "vote_percent": "60,28",
+      "note": "Vụ trưởng Vụ Pháp luật hình sự - Hành chính, Bộ Tư pháp; 7.2021: Ủy viên Thường trực Ủy ban Pháp luật Quốc hội 3.2025: Ủy viên chuyên trách Ủy ban Pháp luật và Tư pháp Quốc hội"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 2,
+      "area": "Quận 1; Quận 3; Bình Thạnh",
+      "name": "Trần Kim Yến",
+      "vote_percent": "64,96",
+      "note": "Bí thư Quận ủy Quận 1; 7.2022 - 6.2024: Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam Thành phố Hồ Chí Minh; 6.2024: Chủ nhiệm Ủy ban Kiểm tra Thành ủy Thành phố Hồ Chí Minh (đến 6.2025)"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 3,
+      "area": "Quận 5; Quận 8; Quận 11",
+      "name": "Lê Thanh Phong",
+      "vote_percent": "65,89",
+      "note": "Chánh án Tòa án nhân dân Thành phố Hồ Chí Minh"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 3,
+      "area": "Quận 5; Quận 8; Quận 11",
+      "name": "Nguyễn Tri Thức",
+      "vote_percent": "73,32",
+      "note": "Giám đốc Bệnh viện Chợ Rẫy; 6.2024: Thứ trưởng Bộ Y tế"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 3,
+      "area": "Quận 5; Quận 8; Quận 11",
+      "name": "Lê Minh Trí",
+      "vote_percent": "70,09",
+      "note": "Viện trưởng Viện kiểm sát nhân dân tối cao; 8.2024: Bí thư Trung ương Đảng, Chánh án Tòa án nhân dân tối cao 11.2025: Phó Trưởng Ban Thường trực Ban Nội chính Trung ương"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 4,
+      "area": "Quận 10; Quận 12",
+      "name": "Nguyễn Thị Hồng Hạnh",
+      "vote_percent": "54,66",
+      "note": "Phó Giám đốc Sở Tư pháp Thành phố Hồ Chí Minh; 10.2024: Giám đốc Sở Tư pháp Thành phố Hồ Chí Minh"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 4,
+      "area": "Quận 10; Quận 12",
+      "name": "Trần Hoàng Ngân",
+      "vote_percent": "66,42",
+      "note": "Viện trưởng Viện Nghiên cứu phát triển Thành phố Hồ Chí Minh; 10.2022: Thư ký Bí thư Thành ủy Thành phố Hồ Chí Minh Nguyễn Văn Nên"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 4,
+      "area": "Quận 10; Quận 12",
+      "name": "Văn Thị Bạch Tuyết",
+      "vote_percent": "68,18",
+      "note": "Phó Trưởng đoàn chuyên trách Đoàn Đại biểu Quốc hội Việt Nam Thành phố Hồ Chí Minh; 3.2024: Trưởng ban Tổ chức Thành ủy Thành phố Hồ Chí Minh 10.2025: Phó Bí thư Thành ủy Thành phố Hồ Chí Minh"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 5,
+      "area": "Tân Bình; Tân Phú",
+      "name": "Nguyễn Minh Đức",
+      "vote_percent": "65,33",
+      "note": "Giáo sư, Trung tướng, Phó Chủ nhiệm Ủy ban Quốc phòng và An ninh của Quốc hội"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 5,
+      "area": "Tân Bình; Tân Phú",
+      "name": "Trần Thị Diệu Thúy",
+      "vote_percent": "60,70",
+      "note": "Chủ tịch Liên đoàn Lao động Thành phố Hồ Chí Minh; 5.2024: Phó Chủ tịch Ủy ban nhân dân Thành phố Hồ Chí Minh"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 5,
+      "area": "Tân Bình; Tân Phú",
+      "name": "Trần Anh Tuấn",
+      "vote_percent": "63,39",
+      "note": "Phó Giám đốc Sở KH - ĐT Thành phố Hồ Chí Minh; 2.2023: Trưởng ban Đổi mới quản lý doanh nghiệp thành phố Hồ Chí Minh"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 6,
+      "area": "Bình Tân",
+      "name": "Dương Ngọc Hải",
+      "vote_percent": "62,15",
+      "note": "Chủ nhiệm Ủy ban Kiểm tra Thành ủy Thành phố Hồ Chí Minh; 5.2024: Phó Chủ tịch Thường trực Ủy ban nhân dân Thành phố Hồ Chí Minh (đến 6.2025)"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 6,
+      "area": "Bình Tân",
+      "name": "Nguyễn Thiện Nhân",
+      "vote_percent": "72,30",
+      "note": "Giáo sư, Tiến sĩ"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 6,
+      "area": "Bình Tân",
+      "name": "Hà Phước Thắng",
+      "vote_percent": "59,26",
+      "note": "Phó Trưởng đoàn chuyên trách Đoàn Đại biểu Quốc hội Việt Nam Thành phố Hồ Chí Minh 7.2025: Bí thư Đảng ủy, Chủ tịch HĐND xã Tân Nhựt"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 7,
+      "area": "Phú Nhuận; Gò Vấp",
+      "name": "Nguyễn Minh Hoàng",
+      "vote_percent": "60,17",
+      "note": "Thiếu tướng, Chủ tịch Hội Cựu chiến binh Thành phố Hồ Chí Minh; 12.2022: Thiếu tướng, Phó Chủ tịch Trung ương Hội Cựu chiến binh Việt Nam, Chủ tịch Hội Cựu chiến binh Thành phố Hồ Chí Minh"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 7,
+      "area": "Phú Nhuận; Gò Vấp",
+      "name": "Phạm Khánh Phong Lan",
+      "vote_percent": "65,49",
+      "note": "Phó Giáo sư, Trưởng ban Quản lý an toàn thực phẩm thành phố Hồ Chí Minh; 1.2023: Phó Giáo sư, Giám đốc Sở An toàn thực phẩm thành phố Hồ Chí Minh"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 7,
+      "area": "Phú Nhuận; Gò Vấp",
+      "name": "Phan Thị Thanh Phương",
+      "vote_percent": "64,89",
+      "note": "Bí thư Thành đoàn Thành phố Hồ Chí Minh; 1.2024: Bí thư Quận ủy Phú Nhuận 7.2025: Bí thư Đảng ủy, Chủ tịch HĐND phường Đức Nhuận"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 8,
+      "area": "Quận 6; Bình Chánh",
+      "name": "Tô Thị Bích Châu",
+      "vote_percent": "61,07",
+      "note": "Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam Thành phố Hồ Chí Minh; 7.2022 - 1.2024: Bí thư Quận ủy Quận 1; 1.2024: Phó Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam (đến 5.2025)"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 8,
+      "area": "Quận 6; Bình Chánh",
+      "name": "Đặng Văn Lẫm",
+      "vote_percent": "58,92",
+      "note": "Thiếu tướng, Phó Tư lệnh Quân khu 7"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 8,
+      "area": "Quận 6; Bình Chánh",
+      "name": "Trương Trọng Nghĩa",
+      "vote_percent": "58,09",
+      "note": "Phó Chủ nhiệm Đoàn Luật sư Thành phố Hồ Chí Minh"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 9,
+      "area": "Quận 4; Quận 7; Nhà Bè; Cần Giờ",
+      "name": "Phan Văn Mãi",
+      "vote_percent": "64,91",
+      "note": "Phó Bí thư Thành ủy, Chủ tịch Ủy ban nhân dân thành phố Hồ Chí Minh, Trưởng Đoàn ĐBQH Thành phố Hồ Chí Minh 3.2025: Chủ nhiệm Ủy ban Kinh tế và Tài chính Quốc hội"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 9,
+      "area": "Quận 4; Quận 7; Nhà Bè; Cần Giờ",
+      "name": "Dương Văn Thăng",
+      "vote_percent": "66,59",
+      "note": "Trung tướng, Phó Chánh án Tòa án nhân dân tối cao, Chánh án Tòa án quân sự Trung ương"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 9,
+      "area": "Quận 4; Quận 7; Nhà Bè; Cần Giờ",
+      "name": "Nguyễn Trần Phượng Trân",
+      "vote_percent": "63,73",
+      "note": "Chủ tịch Hội Liên hiệp Phụ nữ Thành phố Hồ Chí Minh"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 10,
+      "area": "Củ Chi; Hóc Môn",
+      "name": "Nguyễn Thị Lệ",
+      "vote_percent": "85,43",
+      "note": "Chủ tịch Hội đồng nhân dân Thành phố Hồ Chí Minh (đến 6.2025)"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 10,
+      "area": "Củ Chi; Hóc Môn",
+      "name": "Nguyễn Xuân Phúc",
+      "vote_percent": "96,65",
+      "note": "Từ chức vào ngày 18 tháng 1 năm 2023"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "constituency": 10,
+      "area": "Củ Chi; Hóc Môn",
+      "name": "Phan Văn Xựng",
+      "vote_percent": "69,30",
+      "note": "Thiếu tướng, Chính ủy Bộ Tư lệnh Thành phố Hồ Chí Minh (đến 2.2025)"
+    },
+    {
+      "province": "Hải Phòng",
+      "constituency": 1,
+      "area": "Hồng Bàng, Lê Chân; Thủy Nguyên, Cát Hải; Bạch Long Vĩ",
+      "name": "Tống Văn Băng",
+      "vote_percent": "90,59",
+      "note": "Chủ tịch Liên đoàn lao động Thành phố Hải Phòng; 8.2022: Trưởng ban Tổ chức Tổng Liên đoàn Lao động"
+    },
+    {
+      "province": "Hải Phòng",
+      "constituency": 1,
+      "area": "Hồng Bàng, Lê Chân; Thủy Nguyên, Cát Hải; Bạch Long Vĩ",
+      "name": "Nguyễn Hồng Diên",
+      "vote_percent": "97,03",
+      "note": "Bộ trưởng Bộ Công Thương"
+    },
+    {
+      "province": "Hải Phòng",
+      "constituency": 1,
+      "area": "Hồng Bàng, Lê Chân; Thủy Nguyên, Cát Hải; Bạch Long Vĩ",
+      "name": "Nguyễn Đức Dũng",
+      "vote_percent": "93,42",
+      "note": "Thiếu tướng, Phó Tư lệnh kiêm Tham mưu trưởng Quân khu 3"
+    },
+    {
+      "province": "Hải Phòng",
+      "constituency": 1,
+      "area": "Hồng Bàng, Lê Chân; Thủy Nguyên, Cát Hải; Bạch Long Vĩ",
+      "name": "Trần Lưu Quang",
+      "vote_percent": "68,55",
+      "note": "Bí thư Thành ủy Hải Phòng; 1.2023 - 8.2024: Phó Thủ tướng Chính phủ; 8.2024: Trưởng ban Kinh tế Trung ương 2.2025: Trưởng Ban Chính sách, Chiến lược Trung ương 10.2025: Bí thư Thành ủy Thành phố Hồ Chí Minh"
+    },
+    {
+      "province": "Hải Phòng",
+      "constituency": 2,
+      "area": "Ngô Quyền, Hải An; Đồ Sơn; An Dương, Kiến Thụy",
+      "name": "Nguyễn Chu Hồi",
+      "vote_percent": "87,35",
+      "note": "Chủ tịch Hội Bảo vệ môi trường biển"
+    },
+    {
+      "province": "Hải Phòng",
+      "constituency": 2,
+      "area": "Ngô Quyền, Hải An; Đồ Sơn; An Dương, Kiến Thụy",
+      "name": "Nguyễn Minh Quang",
+      "vote_percent": "91,49",
+      "note": "Đại tá, Chỉ huy trưởng Bộ Chỉ huy quân sự thành phố Hải Phòng; 12.2023: Đại tá, Phó Tham mưu trưởng Quân khu 3"
+    },
+    {
+      "province": "Hải Phòng",
+      "constituency": 2,
+      "area": "Ngô Quyền, Hải An; Đồ Sơn; An Dương, Kiến Thụy",
+      "name": "Lã Thanh Tân",
+      "vote_percent": "85,62",
+      "note": "Giám đốc Sở Tư pháp thành phố Hải Phòng"
+    },
+    {
+      "province": "Hải Phòng",
+      "constituency": 3,
+      "area": "Kiến An, Dương Kinh; An Lão, Tiên Lãng; Vĩnh Bảo",
+      "name": "Vũ Thanh Chương",
+      "vote_percent": "94,37",
+      "note": "Thiếu tướng, Giám đốc Công an thành phố Hải Phòng 7.2025: Trung tướng, Cục trưởng Cục Khoa học, Chiến lược và Lịch sử Công an"
+    },
+    {
+      "province": "Hải Phòng",
+      "constituency": 3,
+      "area": "Kiến An, Dương Kinh; An Lão, Tiên Lãng; Vĩnh Bảo",
+      "name": "Đỗ Mạnh Hiến",
+      "vote_percent": "97,17",
+      "note": "Phó Bí thư Thường trực Thành ủy Hải Phòng"
+    },
+    {
+      "province": "Hải Phòng",
+      "constituency": 3,
+      "area": "Kiến An, Dương Kinh; An Lão, Tiên Lãng; Vĩnh Bảo",
+      "name": "Vương Đình Huệ",
+      "vote_percent": "99,89",
+      "note": "Miễn nhiệm ngày 2 tháng 5 năm 2024"
+    },
+    {
+      "province": "Đà Nẵng",
+      "constituency": 1,
+      "area": "Hải Châu; Thanh Khê; Liên Chiểu",
+      "name": "Trần Đình Chung",
+      "vote_percent": "79,99",
+      "note": "Đại tá, Phó Bí thư Đảng ủy, Phó Giám đốc Công an thành phố Đà Nẵng; 3.2022: Thiếu tướng, Phó Cục trưởng Cục An ninh chính trị nội bộ, Bộ Công an"
+    },
+    {
+      "province": "Đà Nẵng",
+      "constituency": 1,
+      "area": "Hải Châu; Thanh Khê; Liên Chiểu",
+      "name": "Trần Chí Cường",
+      "vote_percent": "73,55",
+      "note": "Trưởng ban Kinh tế - Ngân sách Hội đồng nhân dân thành phố Đà Nẵng; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH thành phố Đà Nẵng, Trưởng ban Kinh tế - Ngân sách Hội đồng nhân dân thành phố Đà Nẵng; 19.7.2023: Phó Chủ tịch Ủy ban nhân dân thành phố Đà Nẵng"
+    },
+    {
+      "province": "Đà Nẵng",
+      "constituency": 1,
+      "area": "Hải Châu; Thanh Khê; Liên Chiểu",
+      "name": "Võ Văn Thưởng",
+      "vote_percent": "83,04",
+      "note": "Từ chức ngày 21 tháng 3 năm 2024"
+    },
+    {
+      "province": "Đà Nẵng",
+      "constituency": 2,
+      "area": "Sơn Trà, Ngũ Hành Sơn; Cẩm Lệ; Hoàng Sa, Hòa Vang",
+      "name": "Nguyễn Duy Minh",
+      "vote_percent": "70,93",
+      "note": "Chủ tịch Liên đoàn Lao động thành phố Đà Nẵng; 9.2023: Phó Trưởng đoàn ĐBQH thành phố Đà Nẵng"
+    },
+    {
+      "province": "Đà Nẵng",
+      "constituency": 2,
+      "area": "Sơn Trà, Ngũ Hành Sơn; Cẩm Lệ; Hoàng Sa, Hòa Vang",
+      "name": "Nguyễn Văn Quảng",
+      "vote_percent": "79,64",
+      "note": "Bí thư Thành ủy Đà Nẵng; 7.2021: Bí thư Thành ủy Đà Nẵng, Trưởng đoàn ĐBQH thành phố 9.2025: Phó Tổng Thanh tra Thường trực Thanh tra Chính phủ 11.2025: Bí thư Đảng ủy Tòa án nhân dân tối cao"
+    },
+    {
+      "province": "Đà Nẵng",
+      "constituency": 2,
+      "area": "Sơn Trà, Ngũ Hành Sơn; Cẩm Lệ; Hoàng Sa, Hòa Vang",
+      "name": "Nguyễn Thị Kim Thúy",
+      "vote_percent": "73,07",
+      "note": "Ủy viên Thường trực Ủy ban về các vấn đề xã hội của Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Xã hội Quốc hội 3.2025: Phó Chủ nhiệm Ủy ban Văn hóa và Xã hội Quốc hội"
+    },
+    {
+      "province": "Cần Thơ",
+      "constituency": 1,
+      "area": "Ninh Kiều; Cái Răng; Phong Điền",
+      "name": "Phạm Minh Chính",
+      "vote_percent": "98,74",
+      "note": "Trung tướng, Thủ tướng Việt Nam"
+    },
+    {
+      "province": "Cần Thơ",
+      "constituency": 1,
+      "area": "Ninh Kiều; Cái Răng; Phong Điền",
+      "name": "Đào Chí Nghĩa",
+      "vote_percent": "70,86",
+      "note": "Bí thư Thành đoàn Cần Thơ; 7.2021 - 12.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH thành phố Cần Thơ, Bí thư Thành đoàn Cần Thơ; 12.2021: Phó Trưởng đoàn chuyên trách Đoàn Đại biểu Quốc hội thành phố Cần Thơ"
+    },
+    {
+      "province": "Cần Thơ",
+      "constituency": 1,
+      "area": "Ninh Kiều; Cái Răng; Phong Điền",
+      "name": "Nguyễn Văn Thuận",
+      "vote_percent": "81,02",
+      "note": "Thiếu tướng, Giám đốc Công an thành phố Cần Thơ 10.2023: Thiếu tướng, Trưởng đoàn Đại biểu Quốc hội Thành phố Cần Thơ, Giám đốc Công an thành phố Cần Thơ (đến 5.2025)"
+    },
+    {
+      "province": "Cần Thơ",
+      "constituency": 2,
+      "area": "Bình Thủy, Ô Môn; Thới Lai",
+      "name": "Trương Thị Ngọc Ánh",
+      "vote_percent": "68,36",
+      "note": "Phó Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam (đến 18/10/2024)"
+    },
+    {
+      "province": "Cần Thơ",
+      "constituency": 2,
+      "area": "Bình Thủy, Ô Môn; Thới Lai",
+      "name": "Lê Quang Mạnh",
+      "vote_percent": "82,97",
+      "note": "Bí thư Thành ủy Cần Thơ; 5.2023: Chủ nhiệm Ủy ban Tài chính – Ngân sách Quốc hội 2.2025: Phó Chủ nhiệm Thường trực Ủy ban Kinh tế và Tài chính Quốc hội"
+    },
+    {
+      "province": "Cần Thơ",
+      "constituency": 3,
+      "area": "Thốt Nốt; Vĩnh Thạnh, Cờ Đỏ",
+      "name": "Nguyễn Mạnh Hùng",
+      "vote_percent": "63,40",
+      "note": "Chủ nhiệm Ủy ban Kiểm tra Đảng ủy Ủy ban Quản lý vốn nhà nước tại doanh nghiệp; 7.2021: Ủy viên Thường trực Ủy ban Kinh tế Quốc hội 3.2025: Ủy viên chuyên trách Ủy ban Kinh tế và Tài chính Quốc hội"
+    },
+    {
+      "province": "Cần Thơ",
+      "constituency": 3,
+      "area": "Thốt Nốt; Vĩnh Thạnh, Cờ Đỏ",
+      "name": "Nguyễn Thanh Phương",
+      "vote_percent": "69,54",
+      "note": "Giáo sư, Chủ tịch Hội đồng Trường Đại học Cần Thơ"
+    },
+    {
+      "province": "Huế",
+      "constituency": 1,
+      "area": "Hương Trà; Phong Điền; Quảng Điền; A Lưới",
+      "name": "Phạm Trường Sơn",
+      "vote_percent": "83,54",
+      "note": "Thiếu tướng, Phó Tham mưu trưởng Quân chủng Phòng không – Không quân; 8.2022: Trung tướng, Phó Tổng tham mưu trưởng"
+    },
+    {
+      "province": "Huế",
+      "constituency": 1,
+      "area": "Hương Trà; Phong Điền; Quảng Điền; A Lưới",
+      "name": "Nguyễn Thị Sửu; (Nguyễn Thị Hường, Kê Sửu)",
+      "vote_percent": "76,57",
+      "note": "Bí thư Huyện ủy A Lưới; 7.2021: Phó Trưởng đoàn ĐBQH tỉnh Thừa Thiên – Huế; 1.2025: Phó Trưởng đoàn ĐBQH thành phố Huế"
+    },
+    {
+      "province": "Huế",
+      "constituency": 2,
+      "area": "Phú Xuân; Thuận Hóa; Hương Thủy",
+      "name": "Nguyễn Thanh Hải",
+      "vote_percent": "73,85",
+      "note": "Viện trưởng Viện Kiểm sát nhân dân thành phố Huế"
+    },
+    {
+      "province": "Huế",
+      "constituency": 2,
+      "area": "Phú Xuân; Thuận Hóa; Hương Thủy",
+      "name": "Phạm Như Hiệp",
+      "vote_percent": "72,89",
+      "note": "Giám đốc Bệnh viện Trung ương Huế"
+    },
+    {
+      "province": "Huế",
+      "constituency": 2,
+      "area": "Phú Xuân; Thuận Hóa; Hương Thủy",
+      "name": "Lê Hoài Trung",
+      "vote_percent": "67,35",
+      "note": "Trưởng ban Đối ngoại Trung ương"
+    },
+    {
+      "province": "Huế",
+      "constituency": 3,
+      "area": "Phú Vang; Phú Lộc",
+      "name": "Lê Trường Lưu",
+      "vote_percent": "86,53",
+      "note": "Bí thư Tỉnh ủy Thừa Thiên – Huế, Chủ tịch HĐND tỉnh; 7.2021: Bí thư Tỉnh ủy Thừa Thiên – Huế, Chủ tịch HĐND tỉnh, Trưởng đoàn ĐBQH tỉnh; 1.2025: Bí thư Thành ủy Huế, Chủ tịch HĐND thành phố, Trưởng đoàn ĐBQH thành phố"
+    },
+    {
+      "province": "Huế",
+      "constituency": 3,
+      "area": "Phú Vang; Phú Lộc",
+      "name": "Nguyễn Hải Nam",
+      "vote_percent": "80,70",
+      "note": "Vụ trưởng Vụ Quản lý các công ty quản lý quỹ, Ủy ban Chứng khoán Nhà nước; 7.2021: Ủy viên Thường trực Ủy ban Kinh tế Quốc hội"
+    },
+    {
+      "province": "An Giang",
+      "constituency": 1,
+      "area": "Long Xuyên; Thoại Sơn; Châu Thành",
+      "name": "Võ Thị Ánh Xuân",
+      "vote_percent": "89,35",
+      "note": "Phó Chủ tịch nước, Trưởng đoàn ĐBQH tỉnh An Giang; 7.2021: Phó Chủ tịch nước"
+    },
+    {
+      "province": "An Giang",
+      "constituency": 1,
+      "area": "Long Xuyên; Thoại Sơn; Châu Thành",
+      "name": "Trình Lam Sinh",
+      "vote_percent": "69,77",
+      "note": "Phó Trưởng ban Thường trực Ban Tuyên giáo Tỉnh ủy An Giang; Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh An Giang"
+    },
+    {
+      "province": "An Giang",
+      "constituency": 1,
+      "area": "Long Xuyên; Thoại Sơn; Châu Thành",
+      "name": "Nguyễn Văn Thạnh",
+      "vote_percent": "68,82",
+      "note": "Thôi chức ngày 9 tháng 1 năm 2024"
+    },
+    {
+      "province": "An Giang",
+      "constituency": 2,
+      "area": "Tân Châu, Chợ Mới; Phú Tân",
+      "name": "Trần Thị Thanh Hương",
+      "vote_percent": "75,69",
+      "note": "Trưởng ban Tuyên giáo Tỉnh ủy An Giang; 7.2021: Trưởng đoàn ĐBQH tỉnh An Giang, Trưởng ban Tuyên giáo Tỉnh ủy An Giang"
+    },
+    {
+      "province": "An Giang",
+      "constituency": 2,
+      "area": "Tân Châu, Chợ Mới; Phú Tân",
+      "name": "Hoàng Hữu Chiến",
+      "vote_percent": "73,67",
+      "note": "Thiếu tướng, Phó Tham mưu trưởng Bộ đội Biên phòng Việt Nam; 12.2021: Thiếu tướng, Phó Tư lệnh, Tham mưu trưởng Bộ đội Biên phòng Việt Nam"
+    },
+    {
+      "province": "An Giang",
+      "constituency": 2,
+      "area": "Tân Châu, Chợ Mới; Phú Tân",
+      "name": "Lương Quốc Đoàn",
+      "vote_percent": "68,48",
+      "note": "Chủ tịch Trung ương Hội Nông dân Việt Nam"
+    },
+    {
+      "province": "An Giang",
+      "constituency": 3,
+      "area": "Châu Đốc; An Phú, Tịnh Biên, Tri Tôn, Thoại Sơn",
+      "name": "Đôn Tuấn Phong",
+      "vote_percent": "84,59",
+      "note": "Ủy viên Thường trực Ủy ban Đối ngoại Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Đối ngoại Quốc hội"
+    },
+    {
+      "province": "An Giang",
+      "constituency": 3,
+      "area": "Châu Đốc; An Phú, Tịnh Biên, Tri Tôn, Thoại Sơn",
+      "name": "Phan Huỳnh Sơn",
+      "vote_percent": "72,41",
+      "note": "Phó Trưởng đoàn chuyên trách Đoàn đại biểu Quốc hội khóa XIV tỉnh An Giang; Phó Chủ tịch Liên hiệp các tổ chức hữu nghị tỉnh An Giang"
+    },
+    {
+      "province": "An Giang",
+      "constituency": 3,
+      "area": "Châu Đốc; An Phú, Tịnh Biên, Tri Tôn, Thoại Sơn",
+      "name": "Chau Chắc",
+      "vote_percent": "67,58",
+      "note": "Đại tá, Phó Chủ nhiệm Chính trị Bộ Chỉ huy Quân sự tỉnh An Giang"
+    },
+    {
+      "province": "Bà Rịa – Vũng Tàu",
+      "constituency": 1,
+      "area": "Vũng Tàu,; Long Điền,; Đất Đỏ,; Côn Đảo",
+      "name": "Phạm Bình Minh",
+      "vote_percent": "81,24",
+      "note": "Thôi chức ngày 5 tháng 1 năm 2023"
+    },
+    {
+      "province": "Bà Rịa – Vũng Tàu",
+      "constituency": 1,
+      "area": "Vũng Tàu,; Long Điền,; Đất Đỏ,; Côn Đảo",
+      "name": "Nguyễn Tâm Hùng",
+      "vote_percent": "70,38",
+      "note": "Đại tá, Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh Bà Rịa - Vũng Tàu"
+    },
+    {
+      "province": "Bà Rịa – Vũng Tàu",
+      "constituency": 1,
+      "area": "Vũng Tàu,; Long Điền,; Đất Đỏ,; Côn Đảo",
+      "name": "Huỳnh Thị Phúc",
+      "vote_percent": "65,80",
+      "note": "Phó Trưởng ban Dân vận Tỉnh ủy Bà Rịa – Vũng Tàu; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Bà Rịa - Vũng Tàu"
+    },
+    {
+      "province": "Bà Rịa – Vũng Tàu",
+      "constituency": 2,
+      "area": "Bà Rịa,; Phú Mỹ,; Châu Đức,; Xuyên Mộc",
+      "name": "Nguyễn Thị Yến; (Nguyễn Thị Phấn)",
+      "vote_percent": "80,45",
+      "note": "Phó Bí thư Thường trực Tỉnh ủy Bà Rịa – Vũng Tàu; Trưởng Đoàn Đại biểu Quốc hội tỉnh Bà Rịa - Vũng Tàu"
+    },
+    {
+      "province": "Bà Rịa – Vũng Tàu",
+      "constituency": 2,
+      "area": "Bà Rịa,; Phú Mỹ,; Châu Đức,; Xuyên Mộc",
+      "name": "Dương Tấn Quân",
+      "vote_percent": "79,01",
+      "note": ""
+    },
+    {
+      "province": "Bà Rịa – Vũng Tàu",
+      "constituency": 2,
+      "area": "Bà Rịa,; Phú Mỹ,; Châu Đức,; Xuyên Mộc",
+      "name": "Đỗ Văn Yên",
+      "vote_percent": "71,11",
+      "note": "Chuẩn Đô đốc, Chính ủy Bộ Tư lệnh Vùng 2 Quân chủng Hải quân; 12.2021: Chuẩn Đô đốc, Phó Chính ủy Quân chủng Hải quân"
+    },
+    {
+      "province": "Bạc Liêu",
+      "constituency": 1,
+      "area": "TP. Bạc Liêu; Vĩnh Lợi; Hòa Bình",
+      "name": "Nguyễn Văn Hận",
+      "vote_percent": "80,26",
+      "note": "Đại tá, Phó Giám đốc Công an tỉnh Bạc Liêu; 7.2021: Đại tá, Phó Giám đốc Công an tỉnh Bạc Liêu, Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Bạc Liêu; 4.2022: Đại tá, Giám đốc Công an tỉnh Kiên Giang"
+    },
+    {
+      "province": "Bạc Liêu",
+      "constituency": 1,
+      "area": "TP. Bạc Liêu; Vĩnh Lợi; Hòa Bình",
+      "name": "Lữ Văn Hùng",
+      "vote_percent": "79,59",
+      "note": "Bí thư Tỉnh ủy Bạc Liêu; 7.2021: Bí thư Tỉnh ủy Bạc Liêu, Trưởng đoàn ĐBQH tỉnh Bạc Liêu"
+    },
+    {
+      "province": "Bạc Liêu",
+      "constituency": 1,
+      "area": "TP. Bạc Liêu; Vĩnh Lợi; Hòa Bình",
+      "name": "Trần Thị Thu Đông",
+      "vote_percent": "72,13",
+      "note": "Chủ tịch Hội Nghệ sĩ Nhiếp ảnh Việt Nam"
+    },
+    {
+      "province": "Bạc Liêu",
+      "constituency": 2,
+      "area": "TX. Giá Rai; Phước Long; Hồng Dân; Đông Hải",
+      "name": "Trần Thị Hoa Ry",
+      "vote_percent": "85,39",
+      "note": "Phó Chủ tịch Hội đồng Dân tộc Quốc hội"
+    },
+    {
+      "province": "Bạc Liêu",
+      "constituency": 2,
+      "area": "TX. Giá Rai; Phước Long; Hồng Dân; Đông Hải",
+      "name": "Nguyễn Huy Thái; (Y Lan)",
+      "vote_percent": "83,46",
+      "note": "Phó Trưởng đoàn chuyên trách Đoàn đại biểu Quốc hội tỉnh Bạc Liêu"
+    },
+    {
+      "province": "Bạc Liêu",
+      "constituency": 2,
+      "area": "TX. Giá Rai; Phước Long; Hồng Dân; Đông Hải",
+      "name": "Lê Thị Ngọc Linh",
+      "vote_percent": "76,74",
+      "note": "Chủ tịch Hội Liên hiệp Phụ nữ tỉnh Bạc Liêu"
+    },
+    {
+      "province": "Bắc Kạn",
+      "constituency": 1,
+      "area": "Ba Bể; Ngân Sơn; Na Rì, Pác Nặm",
+      "name": "Hồ Thị Kim Ngân",
+      "vote_percent": "69,14",
+      "note": "Giám đốc Sở Tư pháp tỉnh Bắc Kạn"
+    },
+    {
+      "province": "Bắc Kạn",
+      "constituency": 1,
+      "area": "Ba Bể; Ngân Sơn; Na Rì, Pác Nặm",
+      "name": "Nguyễn Thị Thủy",
+      "vote_percent": "67,75",
+      "note": "Ủy viên Thường trực Ủy ban Tư pháp Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Tư pháp Quốc hội"
+    },
+    {
+      "province": "Bắc Kạn",
+      "constituency": 1,
+      "area": "Ba Bể; Ngân Sơn; Na Rì, Pác Nặm",
+      "name": "Hà Sỹ Huân",
+      "vote_percent": "59,34",
+      "note": "Bí thư Huyện ủy Ba Bể; 7.2021: Giám đốc Sở Nông nghiệp và Phát triển nông thôn tỉnh Bắc Kạn"
+    },
+    {
+      "province": "Bắc Kạn",
+      "constituency": 2,
+      "area": "Bắc Kạn, Bạch Thông; Chợ Đồn, Chợ Mới",
+      "name": "Hoàng Duy Chinh",
+      "vote_percent": "82,42",
+      "note": "Bí thư Tỉnh ủy Bắc Kạn, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Bắc Kạn",
+      "constituency": 2,
+      "area": "Bắc Kạn, Bạch Thông; Chợ Đồn, Chợ Mới",
+      "name": "Nguyễn Thị Huế",
+      "vote_percent": "58,14",
+      "note": "Phó Chủ tịch Ủy ban nhân dân thành phố Bắc Kạn"
+    },
+    {
+      "province": "Bắc Kạn",
+      "constituency": 2,
+      "area": "Bắc Kạn, Bạch Thông; Chợ Đồn, Chợ Mới",
+      "name": "Hoàng Văn Hữu",
+      "vote_percent": "52,99",
+      "note": "Thiếu tướng, Phó Tư lệnh Quân khu 1"
+    },
+    {
+      "province": "Bắc Giang",
+      "constituency": 1,
+      "area": "Sơn Động; Lục Ngạn; Lục Nam",
+      "name": "Trần Văn Lâm",
+      "vote_percent": "75,09",
+      "note": "Phó trưởng Đoàn đại biểu Quốc hội chuyên trách tỉnh Bắc Giang"
+    },
+    {
+      "province": "Bắc Giang",
+      "constituency": 1,
+      "area": "Sơn Động; Lục Ngạn; Lục Nam",
+      "name": "Leo Thị Lịch",
+      "vote_percent": "70,89",
+      "note": "Ủy viên Thường trực Hội đồng Dân tộc Quốc hội"
+    },
+    {
+      "province": "Bắc Giang",
+      "constituency": 1,
+      "area": "Sơn Động; Lục Ngạn; Lục Nam",
+      "name": "Nguyễn Văn Thi",
+      "vote_percent": "70,07",
+      "note": "Chủ tịch Hội Nông dân tỉnh Bắc Giang"
+    },
+    {
+      "province": "Bắc Giang",
+      "constituency": 2,
+      "area": "Bắc Giang; Yên Thế; Lạng Giang; Yên Dũng",
+      "name": "Nguyễn Hòa Bình",
+      "vote_percent": "82,01",
+      "note": "Phó Giáo sư, Thiếu tướng, Chánh án Tòa án Nhân dân Tối cao; 8.2024: Giáo sư, Thiếu tướng, Phó Thủ tướng Thường trực Chính phủ"
+    },
+    {
+      "province": "Bắc Giang",
+      "constituency": 2,
+      "area": "Bắc Giang; Yên Thế; Lạng Giang; Yên Dũng",
+      "name": "Dương Văn Thái",
+      "vote_percent": "81,91",
+      "note": "Bãi nhiệm ngày 2 tháng 5 năm 2024"
+    },
+    {
+      "province": "Bắc Giang",
+      "constituency": 2,
+      "area": "Bắc Giang; Yên Thế; Lạng Giang; Yên Dũng",
+      "name": "Đỗ Thị Việt Hà",
+      "vote_percent": "70,33",
+      "note": "Giám đốc Sở Tư pháp tỉnh Bắc Giang"
+    },
+    {
+      "province": "Bắc Giang",
+      "constituency": 3,
+      "area": "Tân Yên; Hiệp Hòa; Việt Yên",
+      "name": "Nguyễn Thị Thúy Ngần",
+      "vote_percent": "74,88",
+      "note": "Phó Chủ nhiệm Văn phòng Quốc hội, Phó Tổng Thư ký Quốc hội"
+    },
+    {
+      "province": "Bắc Giang",
+      "constituency": 3,
+      "area": "Tân Yên; Hiệp Hòa; Việt Yên",
+      "name": "Trần Văn Tuấn",
+      "vote_percent": "70,22",
+      "note": "Hiệu trưởng Trường Chính trị tỉnh Bắc Giang; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Bắc Giang"
+    },
+    {
+      "province": "Bắc Giang",
+      "constituency": 3,
+      "area": "Tân Yên; Hiệp Hòa; Việt Yên",
+      "name": "Phạm Văn Thịnh",
+      "vote_percent": "70,03",
+      "note": "Trưởng ban Dân vận Tỉnh ủy Bắc Giang"
+    },
+    {
+      "province": "Bắc Ninh",
+      "constituency": 1,
+      "area": "Bắc Ninh; Quế Võ",
+      "name": "Đào Hồng Lan",
+      "vote_percent": "92,86",
+      "note": "Bí thư Tỉnh ủy Bắc Ninh; 7.2021 - 7.2022: Bí thư Tỉnh ủy Bắc Ninh, Trưởng đoàn ĐBQH tỉnh; 7.2022 - 10.2022: Quyền Bộ trưởng Bộ Y tế; 10.2022: Bộ trưởng Bộ Y tế"
+    },
+    {
+      "province": "Bắc Ninh",
+      "constituency": 1,
+      "area": "Bắc Ninh; Quế Võ",
+      "name": "Nguyễn Ngọc Bảo",
+      "vote_percent": "84,85",
+      "note": "Phó Chủ nhiệm Ủy ban Kinh tế Quốc hội"
+    },
+    {
+      "province": "Bắc Ninh",
+      "constituency": 1,
+      "area": "Bắc Ninh; Quế Võ",
+      "name": "Nguyễn Anh Tuấn",
+      "vote_percent": "63,96",
+      "note": "Bí thư thứ nhất Trung ương Đoàn; 7.2022: Bí thư Tỉnh ủy Bắc Ninh, Trưởng đoàn ĐBQH khóa XV tỉnh Bắc Ninh"
+    },
+    {
+      "province": "Bắc Ninh",
+      "constituency": 2,
+      "area": "Từ Sơn; Tiên Du; Yên Phong",
+      "name": "Trần Quốc Tỏ",
+      "vote_percent": "91,50",
+      "note": "Trung tướng, Thứ trưởng Thường trực Bộ Công an; 1.2022: Thượng tướng, Thứ trưởng Thường trực Bộ Công an"
+    },
+    {
+      "province": "Bắc Ninh",
+      "constituency": 2,
+      "area": "Từ Sơn; Tiên Du; Yên Phong",
+      "name": "Trần Thị Vân",
+      "vote_percent": "80,84",
+      "note": "Chủ tịch Hội Liên hiệp Phụ nữ tỉnh Bắc Ninh; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Bắc Ninh"
+    },
+    {
+      "province": "Bắc Ninh",
+      "constituency": 2,
+      "area": "Từ Sơn; Tiên Du; Yên Phong",
+      "name": "Nguyễn Thị Hà",
+      "vote_percent": "54,64",
+      "note": "Giáo viên trường Trung học phổ thông Lương Tài"
+    },
+    {
+      "province": "Bắc Ninh",
+      "constituency": 3,
+      "area": "Lương Tài; Gia Bình; Thuận Thành",
+      "name": "Nguyễn Như So",
+      "vote_percent": "86,80",
+      "note": "Chủ tịch Hội đồng Quản trị Công ty Cổ phần Tập đoàn DABACO Việt Nam"
+    },
+    {
+      "province": "Bắc Ninh",
+      "constituency": 3,
+      "area": "Lương Tài; Gia Bình; Thuận Thành",
+      "name": "Nguyễn Thị Kim Anh",
+      "vote_percent": "76,98",
+      "note": "Vụ trưởng Vụ Pháp chế, Bộ Nông nghiệp và Phát triển nông thôn; 7.2021: Ủy viên Thường trực Ủy ban Khoa học, Công nghệ và Môi trường Quốc hội"
+    },
+    {
+      "province": "Bến Tre",
+      "constituency": 1,
+      "area": "Bến Tre; Châu Thành; Bình Đại",
+      "name": "Đặng Thuần Phong",
+      "vote_percent": "64,89",
+      "note": "Phó Chủ nhiệm Ủy ban Xã hội Quốc hội"
+    },
+    {
+      "province": "Bến Tre",
+      "constituency": 2,
+      "area": "Giồng Trôm; Ba Tri",
+      "name": "Trần Thị Thanh Lam",
+      "vote_percent": "63,46",
+      "note": "Phó Trưởng đoàn chuyên trách phụ trách Đoàn đại biểu Quốc hội tỉnh Bến Tre; 7.2021: Ủy viên Thường trực Ủy ban Xã hội Quốc hội"
+    },
+    {
+      "province": "Bến Tre",
+      "constituency": 2,
+      "area": "Giồng Trôm; Ba Tri",
+      "name": "Võ Văn Hội",
+      "vote_percent": "62,31",
+      "note": "Đại tá, Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh Bến Tre"
+    },
+    {
+      "province": "Bến Tre",
+      "constituency": 3,
+      "area": "Thạnh Phú; Chợ Lách; Mỏ Cày Nam; Mỏ Cày Bắc",
+      "name": "Nguyễn Trúc Sơn",
+      "vote_percent": "78,16",
+      "note": "Phó Chủ tịch Thường trực Ủy ban nhân dân tỉnh Bến Tre; 7.2021: Phó Chủ tịch Thường trực Ủy ban nhân dân tỉnh Bến Tre, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Bến Tre",
+      "constituency": 3,
+      "area": "Thạnh Phú; Chợ Lách; Mỏ Cày Nam; Mỏ Cày Bắc",
+      "name": "Nguyễn Thị Yến Nhi",
+      "vote_percent": "72,43",
+      "note": "Phó Chủ tịch Hội đồng nhân dân tỉnh Bến Tre"
+    },
+    {
+      "province": "Bến Tre",
+      "constituency": 3,
+      "area": "Thạnh Phú; Chợ Lách; Mỏ Cày Nam; Mỏ Cày Bắc",
+      "name": "Nguyễn Thị Lệ Thủy",
+      "vote_percent": "67,99",
+      "note": "Ủy viên Thường trực Ủy ban Khoa học, Công nghệ và Môi trường của Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Khoa học, Công nghệ và Môi trường của Quốc hội"
+    },
+    {
+      "province": "Bình Dương",
+      "constituency": 1,
+      "area": "Thủ Dầu Một; Tân Uyên",
+      "name": "Nguyễn Văn Dành",
+      "vote_percent": "74,90",
+      "note": "Bí thư Thị ủy Tân Uyên; 8.2024: Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Bình Dương"
+    },
+    {
+      "province": "Bình Dương",
+      "constituency": 1,
+      "area": "Thủ Dầu Một; Tân Uyên",
+      "name": "Trần Công Phàn",
+      "vote_percent": "71,15",
+      "note": "Phó Chủ tịch, Tổng Thư ký Hội Luật gia Việt Nam"
+    },
+    {
+      "province": "Bình Dương",
+      "constituency": 1,
+      "area": "Thủ Dầu Một; Tân Uyên",
+      "name": "Nguyễn Văn Lợi",
+      "vote_percent": "88,60",
+      "note": "Bí thư Tỉnh ủy Bình Dương, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Bình Dương",
+      "constituency": 2,
+      "area": "Dĩ An",
+      "name": "Nguyễn Thị Ngọc Xuân",
+      "vote_percent": 60,
+      "note": "Bí thư Tỉnh đoàn Bình Dương; 6.2022: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Bình Dương"
+    },
+    {
+      "province": "Bình Dương",
+      "constituency": 2,
+      "area": "Dĩ An",
+      "name": "Nguyễn Quang Huân",
+      "vote_percent": "57,15",
+      "note": "Chủ tịch Hội đồng quản trị Công ty Cổ phần HALCOM"
+    },
+    {
+      "province": "Bình Dương",
+      "constituency": 3,
+      "area": "Thuận An",
+      "name": "Phạm Trọng Nhân",
+      "vote_percent": "75,73",
+      "note": "Phó Trưởng đoàn chuyên trách Đoàn Đại biểu Quốc hội tỉnh Bình Dương"
+    },
+    {
+      "province": "Bình Dương",
+      "constituency": 3,
+      "area": "Thuận An",
+      "name": "Nguyễn Hoàng Bảo Trân",
+      "vote_percent": "69,28",
+      "note": "Phó Chủ tịch Liên đoàn Lao động tỉnh Bình Dương"
+    },
+    {
+      "province": "Bình Dương",
+      "constituency": 3,
+      "area": "Thuận An",
+      "name": "Vũ Huy Khánh",
+      "vote_percent": "67,40",
+      "note": "Đại tá, Phó Cục trưởng Cục Pháp chế và cải cách hành chính, tư pháp, Bộ Công an; 7.2021: Đại tá, Ủy viên Thường trực Ủy ban Quốc phòng và An ninh Quốc hội"
+    },
+    {
+      "province": "Bình Dương",
+      "constituency": 4,
+      "area": "Bến Cát; Dầu Tiếng; Bàu Bàng; Phú Giáo; Bắc Tân Uyên",
+      "name": "Nguyễn Tân Cương",
+      "vote_percent": "77,08",
+      "note": "Đại tướng, Thứ trưởng Bộ Quốc phòng, Tổng tham mưu trưởng"
+    },
+    {
+      "province": "Bình Dương",
+      "constituency": 4,
+      "area": "Bến Cát; Dầu Tiếng; Bàu Bàng; Phú Giáo; Bắc Tân Uyên",
+      "name": "Lê Văn Khảm",
+      "vote_percent": "71,75",
+      "note": "Vụ trưởng Vụ Bảo hiểm y tế, Bộ Y tế; 7.2021: Ủy viên Thường trực Ủy ban Xã hội Quốc hội"
+    },
+    {
+      "province": "Bình Dương",
+      "constituency": 4,
+      "area": "Bến Cát; Dầu Tiếng; Bàu Bàng; Phú Giáo; Bắc Tân Uyên",
+      "name": "Nguyễn Văn Riễn; (Linh mục Nguyễn Văn Riễn)",
+      "vote_percent": "63,43",
+      "note": "Phó Chủ tịch, Tổng thư ký Ủy ban Đoàn kết Công giáo Việt Nam"
+    },
+    {
+      "province": "Bình Định",
+      "constituency": 1,
+      "area": "Quy Nhơn; Tuy Phước; Vân Canh; Tây Sơn; Vĩnh Thạnh",
+      "name": "Lê Kim Toàn",
+      "vote_percent": "70,53",
+      "note": "Phó Bí thư Thường trực Tỉnh ủy Bình Định, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Bình Định",
+      "constituency": 1,
+      "area": "Quy Nhơn; Tuy Phước; Vân Canh; Tây Sơn; Vĩnh Thạnh",
+      "name": "Hồ Đức Phớc",
+      "vote_percent": "69,23",
+      "note": "Bộ trưởng Bộ Tài chính; 8.2024 - 11.2024: Phó Thủ tướng Chính phủ, Bộ trưởng Bộ Tài chính; 11.2024: Phó Thủ tướng Chính phủ"
+    },
+    {
+      "province": "Bình Định",
+      "constituency": 1,
+      "area": "Quy Nhơn; Tuy Phước; Vân Canh; Tây Sơn; Vĩnh Thạnh",
+      "name": "Nguyễn Thị Thu Thủy",
+      "vote_percent": "67,82",
+      "note": "Chủ tịch Hội Liên hiệp Phụ nữ tỉnh Bình Định"
+    },
+    {
+      "province": "Bình Định",
+      "constituency": 2,
+      "area": "An Nhơn; Phù Cát; Hoài Ân",
+      "name": "Nguyễn Văn Cảnh",
+      "vote_percent": 60,
+      "note": "Chủ tịch Hội đồng thành viên Công ty TNHH Phú Hiệp, Giám đốc Khu Du lịch Cửa Biển"
+    },
+    {
+      "province": "Bình Định",
+      "constituency": 2,
+      "area": "An Nhơn; Phù Cát; Hoài Ân",
+      "name": "Đồng Ngọc Ba",
+      "vote_percent": "57,15",
+      "note": "Cục trưởng Cục Kiểm tra văn bản quy phạm pháp luật, Bộ Tư pháp; 7.2021: Ủy viên Thường trực Ủy ban Pháp luật Quốc hội"
+    },
+    {
+      "province": "Bình Định",
+      "constituency": 3,
+      "area": "Hoài Nhơn; An Lão; Phù Mỹ",
+      "name": "Nguyễn Lân Hiếu",
+      "vote_percent": "69,25",
+      "note": "Giám đốc Bệnh viện Đại học Y Hà Nội"
+    },
+    {
+      "province": "Bình Định",
+      "constituency": 3,
+      "area": "Hoài Nhơn; An Lão; Phù Mỹ",
+      "name": "Lý Tiết Hạnh",
+      "vote_percent": "56.97",
+      "note": "Phó Trưởng đoàn chuyên trách Đoàn Đại biểu Quốc hội tỉnh Bình Định"
+    },
+    {
+      "province": "Bình Phước",
+      "constituency": 1,
+      "area": "Bình Long; Bù Đốp; Bù Gia Mập; Chơn Thành; Hớn Quản; Lộc Ninh",
+      "name": "Nguyễn Tuấn Anh",
+      "vote_percent": "86,75",
+      "note": "Phó Trưởng ban Công tác Đại biểu Quốc hội"
+    },
+    {
+      "province": "Bình Phước",
+      "constituency": 1,
+      "area": "Bình Long; Bù Đốp; Bù Gia Mập; Chơn Thành; Hớn Quản; Lộc Ninh",
+      "name": "Huỳnh Thành Chung",
+      "vote_percent": "85,62",
+      "note": "Chủ tịch Hội đồng quản trị, Tổng Giám đốc Công ty Cổ phần Minh Hưng - Sikico; Tổng giám đốc Công ty Cổ phần Riverside Residence; Tổng giám đốc Công ty Cổ phần Thị Nại Eco Bay"
+    },
+    {
+      "province": "Bình Phước",
+      "constituency": 2,
+      "area": "Đồng Xoài; Phước Long; Đồng Phú; Phú Riềng; Bù Đăng",
+      "name": "Vũ Ngọc Long",
+      "vote_percent": "84,40",
+      "note": "Chánh Văn phòng Đoàn Đại biểu Quốc hội tỉnh Bình Phước; 9.2021 - 1.2023: Phó Trưởng ban Tổ chức Tỉnh ủy Bình Phước; 1.2023: Giám đốc Sở Công thương tỉnh Bình Phước"
+    },
+    {
+      "province": "Bình Phước",
+      "constituency": 2,
+      "area": "Đồng Xoài; Phước Long; Đồng Phú; Phú Riềng; Bù Đăng",
+      "name": "Phan Viết Lượng",
+      "vote_percent": "84,39",
+      "note": "Ủy viên Thường trực Ủy ban Văn hóa, Giáo dục, Thanh thiếu niên và Nhi đồng Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Văn hóa, Giáo dục Quốc hội"
+    },
+    {
+      "province": "Bình Phước",
+      "constituency": 2,
+      "area": "Đồng Xoài; Phước Long; Đồng Phú; Phú Riềng; Bù Đăng",
+      "name": "Điểu Huỳnh Sang",
+      "vote_percent": "75,90",
+      "note": "Phó Trưởng đoàn chuyên trách Đại biểu Quốc hội tỉnh Bình Phước, Chủ tịch Hội Liên hiệp Phụ nữ tỉnh Bình Phước; 9.2021: Phó Trưởng đoàn chuyên trách phụ trách Đại biểu Quốc hội tỉnh Bình Phước"
+    },
+    {
+      "province": "Bình Thuận",
+      "constituency": 1,
+      "area": "Tuy Phong; Bắc Bình; Phú Quý",
+      "name": "Bố Thị Xuân Linh",
+      "vote_percent": "70,44",
+      "note": "Chủ tịch Mặt trận Tổ quốc tỉnh Bình Thuận"
+    },
+    {
+      "province": "Bình Thuận",
+      "constituency": 1,
+      "area": "Tuy Phong; Bắc Bình; Phú Quý",
+      "name": "Lê Quang Huy",
+      "vote_percent": "69,12",
+      "note": "Chủ nhiệm Ủy ban Khoa học, Công nghệ và Môi trường của Quốc hội"
+    },
+    {
+      "province": "Bình Thuận",
+      "constituency": 2,
+      "area": "Phan Thiết; Hàm Thuận Bắc; Hàm Thuận Nam; Hàm Tân",
+      "name": "Dương Văn An",
+      "vote_percent": "78,89",
+      "note": "Thôi chức ngày 15 tháng 1 năm 2025"
+    },
+    {
+      "province": "Bình Thuận",
+      "constituency": 2,
+      "area": "Phan Thiết; Hàm Thuận Bắc; Hàm Thuận Nam; Hàm Tân",
+      "name": "Phạm Thị Hồng Yến",
+      "vote_percent": "65,97",
+      "note": "Trưởng ban Hợp tác quốc tế Liên minh Hợp tác xã Việt Nam; 7.2021: Ủy viên Thường trực Ủy ban Kinh tế Quốc hội"
+    },
+    {
+      "province": "Bình Thuận",
+      "constituency": 2,
+      "area": "Phan Thiết; Hàm Thuận Bắc; Hàm Thuận Nam; Hàm Tân",
+      "name": "Nguyễn Hữu Thông",
+      "vote_percent": "64,36",
+      "note": "Giám đốc Sở Tư pháp tỉnh Bình Thuận; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Bình Thuận"
+    },
+    {
+      "province": "Bình Thuận",
+      "constituency": 2,
+      "area": "La Gi; Đức Linh; Tánh Linh",
+      "name": "Trần Hồng Nguyên",
+      "vote_percent": "72,47",
+      "note": "Ủy viên Thường trực Ủy ban Pháp luật của Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Pháp luật của Quốc hội"
+    },
+    {
+      "province": "Bình Thuận",
+      "constituency": 2,
+      "area": "La Gi; Đức Linh; Tánh Linh",
+      "name": "Đặng Hồng Sỹ",
+      "vote_percent": "68,83",
+      "note": "Trưởng ban Dân vận Tỉnh ủy Bình Thuận; 8.2024: Phó Bí thư Thường trực Tỉnh ủy Bình Thuận; 11.2024: Phó Bí thư Thường trực Tỉnh ủy Bình Thuận, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Cà Mau",
+      "constituency": 1,
+      "area": "Cà Mau; Thới Bình; U Minh",
+      "name": "Lê Quân",
+      "vote_percent": "82,15",
+      "note": "Giám đốc Đại học Quốc gia Hà Nội"
+    },
+    {
+      "province": "Cà Mau",
+      "constituency": 1,
+      "area": "Cà Mau; Thới Bình; U Minh",
+      "name": "Lê Thanh Vân",
+      "vote_percent": "72,68",
+      "note": "Bãi nhiệm ngày 26 tháng 8 năm 2024"
+    },
+    {
+      "province": "Cà Mau",
+      "constituency": 1,
+      "area": "Cà Mau; Thới Bình; U Minh",
+      "name": "Lê Mạnh Hùng",
+      "vote_percent": "72,42",
+      "note": "Tổng giám đốc Tập đoàn Dầu khí Việt Nam; 1.2024: Chủ tịch Hội đồng thành viên Tập đoàn Dầu khí Việt Nam"
+    },
+    {
+      "province": "Cà Mau",
+      "constituency": 2,
+      "area": "Cái Nước; Phú Tân; Trần Văn Thời",
+      "name": "Dương Thanh Bình; (Dương Hoàng Du)",
+      "vote_percent": "78,55",
+      "note": "Trưởng ban Dân nguyện Quốc hội"
+    },
+    {
+      "province": "Cà Mau",
+      "constituency": 2,
+      "area": "Cái Nước; Phú Tân; Trần Văn Thời",
+      "name": "Nguyễn Duy Thanh",
+      "vote_percent": "56,19",
+      "note": "Tổng giám đốc Công ty Trách nhiệm hữu hạn Xây dựng và Trang trí Nội thất Thanh Phương"
+    },
+    {
+      "province": "Cà Mau",
+      "constituency": 3,
+      "area": "Đầm Dơi; Năm Căn; Ngọc Hiển",
+      "name": "Nguyễn Quốc Hận",
+      "vote_percent": "79,74",
+      "note": "Phó Trưởng đoàn phụ trách Đoàn Đại biểu Quốc hội tỉnh Cà Mau"
+    },
+    {
+      "province": "Cà Mau",
+      "constituency": 3,
+      "area": "Đầm Dơi; Năm Căn; Ngọc Hiển",
+      "name": "Đinh Ngọc Minh",
+      "vote_percent": "76,84",
+      "note": "Phó Viện trưởng Viện Chiến lược phát triển, Bộ Kế hoạch và Đầu tư; 7.2021: Ủy viên chuyên trách Ủy ban Kinh tế Quốc hội"
+    },
+    {
+      "province": "Cao Bằng",
+      "constituency": 1,
+      "area": "Bảo Lạc; Bảo Lâm; Nguyên Bình; Hà Quảng; Hòa An",
+      "name": "Lại Xuân Môn",
+      "vote_percent": "78,39",
+      "note": "Bí thư Tỉnh ủy Cao Bằng, Trưởng đoàn ĐBQH tỉnh; 8.2021: Phó Trưởng ban Thường trực Ban Tuyên giáo Trung ương"
+    },
+    {
+      "province": "Cao Bằng",
+      "constituency": 1,
+      "area": "Bảo Lạc; Bảo Lâm; Nguyên Bình; Hà Quảng; Hòa An",
+      "name": "Đỗ Quang Thành",
+      "vote_percent": "72,95",
+      "note": "Trung tướng, Phó Chủ nhiệm Ủy ban Quốc phòng và An ninh Quốc hội"
+    },
+    {
+      "province": "Cao Bằng",
+      "constituency": 1,
+      "area": "Bảo Lạc; Bảo Lâm; Nguyên Bình; Hà Quảng; Hòa An",
+      "name": "Đoàn Thị Lê An",
+      "vote_percent": "69,55",
+      "note": "Phó Chánh Văn phòng Đoàn Đại biểu Quốc hội và HĐND tỉnh Cao Bằng"
+    },
+    {
+      "province": "Cao Bằng",
+      "constituency": 2,
+      "area": "Cao Bằng; Quảng Hòa; Trùng Khánh; Hạ Lang; Thạch An",
+      "name": "Bế Minh Đức",
+      "vote_percent": "72,45",
+      "note": "Phó Trưởng đoàn Đại biểu Quốc hội tỉnh Cao Bằng"
+    },
+    {
+      "province": "Cao Bằng",
+      "constituency": 2,
+      "area": "Cao Bằng; Quảng Hòa; Trùng Khánh; Hạ Lang; Thạch An",
+      "name": "Đàm Minh Diện",
+      "vote_percent": "69,03",
+      "note": "Đại tá, Chỉ huy trưởng Bộ Chỉ huy Quân sự tỉnh Cao Bằng; 10.2023: Đại tá, Phó Tham mưu trưởng Quân khu 3"
+    },
+    {
+      "province": "Cao Bằng",
+      "constituency": 2,
+      "area": "Cao Bằng; Quảng Hòa; Trùng Khánh; Hạ Lang; Thạch An",
+      "name": "Nguyễn Đình Việt",
+      "vote_percent": "65,57",
+      "note": "Vụ trưởng Vụ Kinh tế, Văn phòng Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Kinh tế Quốc hội"
+    },
+    {
+      "province": "Đắk Lắk",
+      "constituency": 1,
+      "area": "Buôn Ma Thuột; Buôn Đôn; Ea Súp; Cư M'gar",
+      "name": "Ngô Trung Thành",
+      "vote_percent": "87,12",
+      "note": "Phó Chủ nhiệm Ủy ban Pháp luật Quốc hội"
+    },
+    {
+      "province": "Đắk Lắk",
+      "constituency": 1,
+      "area": "Buôn Ma Thuột; Buôn Đôn; Ea Súp; Cư M'gar",
+      "name": "Lê Ngọc Hải",
+      "vote_percent": "86,35",
+      "note": "Đại tá, Phó Tư lệnh, Tham mưu trưởng Quân khu 5; 10.2021: Thiếu tướng, Phó Tư lệnh, Tham mưu trưởng Quân khu 5"
+    },
+    {
+      "province": "Đắk Lắk",
+      "constituency": 1,
+      "area": "Buôn Ma Thuột; Buôn Đôn; Ea Súp; Cư M'gar",
+      "name": "Nguyễn Thị Xuân",
+      "vote_percent": "83,77",
+      "note": "Thiếu tướng, Ủy viên Thường trực Ủy ban Quốc phòng và An ninh Quốc hội; 12.2023: Thiếu tướng, Phó Giám đốc Công an tỉnh Đắk Lắk"
+    },
+    {
+      "province": "Đắk Lắk",
+      "constituency": 2,
+      "area": "Krông Bông; Krông Pắc; Lắk; M'Drắk; Cư Kuin; Krông Ana",
+      "name": "Bùi Thị Minh Hoài",
+      "vote_percent": "89,04",
+      "note": "Trưởng ban Dân vận Trung ương; 7.2024: Bí thư Thành uỷ Hà Nội; Chuyển sinh hoạt sang Đoàn ĐBQH thành phố Hà Nội"
+    },
+    {
+      "province": "Đắk Lắk",
+      "constituency": 2,
+      "area": "Krông Bông; Krông Pắc; Lắk; M'Drắk; Cư Kuin; Krông Ana",
+      "name": "Lưu Văn Đức",
+      "vote_percent": "87,34",
+      "note": "Ủy viên Thường trực Hội đồng Dân tộc"
+    },
+    {
+      "province": "Đắk Lắk",
+      "constituency": 2,
+      "area": "Krông Bông; Krông Pắc; Lắk; M'Drắk; Cư Kuin; Krông Ana",
+      "name": "Lê Thị Thanh Xuân",
+      "vote_percent": "83,99",
+      "note": "Bí thư Thị ủy Buôn Hồ; 7.2021 - 12.2024: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Đắk Lắk; 8.2024: Giám đốc Sở Giáo dục và Đào tạo tỉnh Đắk Lắk"
+    },
+    {
+      "province": "Đắk Lắk",
+      "constituency": 3,
+      "area": "Ea H'leo; Krông Búk; Krông Năng; Ea Kar",
+      "name": "Nguyễn Thị Thu Nguyệt",
+      "vote_percent": "83,95",
+      "note": "Chủ tịch Hội Liên Hiệp Phụ nữ tỉnh Đắk Lắk; 8.2021 - 12.2024: Bí thư Thị ủy Buôn Hồ; 12.2024: Phó Trưởng đoàn chuyên trách phụ trách Đoàn ĐBQH tỉnh Đắk Lắk"
+    },
+    {
+      "province": "Đắk Lắk",
+      "constituency": 3,
+      "area": "Ea H'leo; Krông Búk; Krông Năng; Ea Kar",
+      "name": "Phúc Bình Niê Kdăm",
+      "vote_percent": "81,78",
+      "note": "Phó Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Đắk Lắk; 12.2022 - 10.2023: Phó Bí thư Thường trực Huyện ủy Cư Kuin; 10.2023: Bí thư Huyện ủy Cư Kuin"
+    },
+    {
+      "province": "Đắk Lắk",
+      "constituency": 3,
+      "area": "Ea H'leo; Krông Búk; Krông Năng; Ea Kar",
+      "name": "Y Vinh Tơr",
+      "vote_percent": "77,01",
+      "note": "Chủ tịch Hội đồng nhân dân tỉnh Đắk Lắk; 7.2021 - 6.2022: Trưởng đoàn ĐBQH tỉnh Đắk Lắk, Chủ tịch Hội đồng nhân dân tỉnh Đắk Lắk; 6.2022: Phó Chủ nhiệm Ủy ban Dân tộc"
+    },
+    {
+      "province": "Đắk Nông",
+      "constituency": 1,
+      "area": "Krông Nô; Cư Jút; Đắk Mil",
+      "name": "Nguyễn Trường Giang",
+      "vote_percent": "82,35",
+      "note": "Phó Chủ nhiệm Ủy ban Pháp luật Quốc hội"
+    },
+    {
+      "province": "Đắk Nông",
+      "constituency": 1,
+      "area": "Krông Nô; Cư Jút; Đắk Mil",
+      "name": "Dương Khắc Mai; (Dương Ngọc Mai)",
+      "vote_percent": "63,19",
+      "note": "Chánh Văn phòng Đoàn Đại biểu Quốc hội tỉnh Đắk Nông; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Đắk Nông"
+    },
+    {
+      "province": "Đắk Nông",
+      "constituency": 1,
+      "area": "Krông Nô; Cư Jút; Đắk Mil",
+      "name": "Trần Thị Thu Hằng",
+      "vote_percent": "53,10",
+      "note": "Phó Chánh Văn phòng Sở Văn hóa, Thể thao và Du lịch tỉnh Đắk Nông"
+    },
+    {
+      "province": "Đắk Nông",
+      "constituency": 2,
+      "area": "Gia Nghĩa; Đắk Glong; Đắk R'lấp; Tuy Đức; Đắk Song",
+      "name": "Ngô Thanh Danh",
+      "vote_percent": "88,40",
+      "note": "Bí thư Tỉnh ủy Đắk Nông, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Đắk Nông",
+      "constituency": 2,
+      "area": "Gia Nghĩa; Đắk Glong; Đắk R'lấp; Tuy Đức; Đắk Song",
+      "name": "Phạm Nam Tiến",
+      "vote_percent": "84,69",
+      "note": "Vụ trưởng Vụ Địa phương II, Ban Nội chính Trung ương; 7.2021: Ủy viên Thường trực Ủy ban Văn hóa, Giáo dục Quốc hội"
+    },
+    {
+      "province": "Đắk Nông",
+      "constituency": 2,
+      "area": "Gia Nghĩa; Đắk Glong; Đắk R'lấp; Tuy Đức; Đắk Song",
+      "name": "Phạm Thị Kiều",
+      "vote_percent": "62,29",
+      "note": "Phó Trưởng khoa Khám sức khỏe cán bộ, Bệnh viện đa khoa tỉnh Đắk Nông"
+    },
+    {
+      "province": "Điện Biên",
+      "constituency": 1,
+      "area": "Điện Biên Phủ; Điện Biên Đông; Mường Ảng; Điện Biên",
+      "name": "Nguyễn Tiến Thiện; (Thượng tọa Thích Đức Thiện)",
+      "vote_percent": "93,06",
+      "note": "Phó Chủ tịch, Tổng Thư ký Hội đồng Trị sự Giáo hội Phật giáo Việt Nam"
+    },
+    {
+      "province": "Điện Biên",
+      "constituency": 1,
+      "area": "Điện Biên Phủ; Điện Biên Đông; Mường Ảng; Điện Biên",
+      "name": "Nguyễn Văn Thắng",
+      "vote_percent": "91,38",
+      "note": "Bí thư Tỉnh ủy Điện Biên, Trưởng đoàn ĐBQH tỉnh; 10.2022 - 11.2024: Bộ trưởng Bộ Giao thông Vận tải; 11.2024: Bộ trưởng Bộ Tài chính"
+    },
+    {
+      "province": "Điện Biên",
+      "constituency": 1,
+      "area": "Điện Biên Phủ; Điện Biên Đông; Mường Ảng; Điện Biên",
+      "name": "Quàng Thị Nguyệt",
+      "vote_percent": "77,26",
+      "note": ""
+    },
+    {
+      "province": "Điện Biên",
+      "constituency": 2,
+      "area": "Mường Lay; Mường Chà; Nậm Pồ; Mường Nhé; Tuần Giáo; Tủa Chùa",
+      "name": "Tráng A Tủa",
+      "vote_percent": "89,93",
+      "note": "Đại tá, Giám đốc Công an tỉnh Điện Biên; 12.2021: Thiếu tướng, Cục trưởng Cục Xây dựng phong trào bảo vệ An ninh Tổ quốc, Bộ Công an"
+    },
+    {
+      "province": "Điện Biên",
+      "constituency": 2,
+      "area": "Mường Lay; Mường Chà; Nậm Pồ; Mường Nhé; Tuần Giáo; Tủa Chùa",
+      "name": "Lò Thị Luyến",
+      "vote_percent": "83,71",
+      "note": "Phó Trưởng đoàn chuyên trách Đoàn Đại biểu Quốc hội tỉnh Điện Biên"
+    },
+    {
+      "province": "Điện Biên",
+      "constituency": 2,
+      "area": "Mường Lay; Mường Chà; Nậm Pồ; Mường Nhé; Tuần Giáo; Tủa Chùa",
+      "name": "Tạ Thị Yên",
+      "vote_percent": "83,54",
+      "note": "Phó Trưởng ban Công tác Đại biểu quốc hội"
+    },
+    {
+      "province": "Đồng Nai",
+      "constituency": 1,
+      "area": "Biên Hòa",
+      "name": "Nguyễn Phú Cường",
+      "vote_percent": "74,97",
+      "note": "Thôi chức ngày 22 tháng 5 năm 2023"
+    },
+    {
+      "province": "Đồng Nai",
+      "constituency": 1,
+      "area": "Biên Hòa",
+      "name": "Trịnh Xuân An",
+      "vote_percent": "70,76",
+      "note": "Phó Vụ trưởng Vụ Phục vụ hoạt động giám sát, Văn phòng Quốc hội, Thư ký Đại tướng, Phó Chủ tịch Quốc hội Đỗ Bá Tỵ; 7.2021 - 3.2024: Ủy viên chuyên trách Ủy ban Quốc phòng và An ninh Quốc hội; 3.2024: Ủy viên Thường trực Ủy ban Quốc phòng và An ninh Quốc hội"
+    },
+    {
+      "province": "Đồng Nai",
+      "constituency": 1,
+      "area": "Biên Hòa",
+      "name": "Nguyễn Thị Như Ý",
+      "vote_percent": "65,76",
+      "note": "Chủ tịch Liên đoàn Lao động tỉnh Đồng Nai"
+    },
+    {
+      "province": "Đồng Nai",
+      "constituency": 1,
+      "area": "Biên Hòa",
+      "name": "Nguyễn Sỹ Quang",
+      "vote_percent": "64,76",
+      "note": "Chuyển từ đoàn ĐBQH Thành phố Hồ Chí Minh; 7.2022 - 6.2024: Thiếu tướng, Giám đốc Công an tỉnh Đồng Nai; 6.2024: Thiếu tướng, Cục trưởng Cục An ninh đối ngoại, Bộ Công an"
+    },
+    {
+      "province": "Đồng Nai",
+      "constituency": 2,
+      "area": "Vĩnh Cửu; Trảng Bom; Thống Nhất",
+      "name": "Vũ Hồng Văn",
+      "vote_percent": "83,99",
+      "note": "Đại tá, Giám đốc Công an tỉnh Đồng Nai; 6.2021 - 7.2022: Thiếu tướng, Giám đốc Công an tỉnh Đồng Nai; 7.2022 - 10.2023: Thiếu tướng, Cục trưởng Cục An ninh chính trị nội bộ, Bộ Công an; 10.2023 - 8.2024: Thiếu tướng, Ủy viên Ủy ban Kiểm tra Trung ương; 8.2024: Thiếu tướng, Phó Chủ nhiệm Ủy ban Kiểm tra Trung ương"
+    },
+    {
+      "province": "Đồng Nai",
+      "constituency": 2,
+      "area": "Vĩnh Cửu; Trảng Bom; Thống Nhất",
+      "name": "Lê Hoàng Hải",
+      "vote_percent": "74,46",
+      "note": "Giám đốc Trung tâm Tin học, Văn phòng Quốc hội; 7.2021: Ủy viên chuyên trách Ủy ban Khoa học, Công nghệ và Môi trường Quốc hội"
+    },
+    {
+      "province": "Đồng Nai",
+      "constituency": 2,
+      "area": "Vĩnh Cửu; Trảng Bom; Thống Nhất",
+      "name": "Bùi Xuân Thống",
+      "vote_percent": "72,89",
+      "note": "Phó Trưởng đoàn chuyên trách Đoàn Đại biểu Quốc hội tỉnh Đồng Nai"
+    },
+    {
+      "province": "Đồng Nai",
+      "constituency": 3,
+      "area": "Long Thành; Nhơn Trạch; Cẩm Mỹ",
+      "name": "Quản Minh Cường",
+      "vote_percent": "77,80",
+      "note": "Phó Bí thư Tỉnh ủy Đồng Nai; 7.2021: Phó Bí thư Tỉnh ủy Đồng Nai, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Đồng Nai",
+      "constituency": 3,
+      "area": "Long Thành; Nhơn Trạch; Cẩm Mỹ",
+      "name": "Đỗ Huy Khánh",
+      "vote_percent": "76,74",
+      "note": "Phó Giám đốc Sở Giáo dục và Đào tạo tỉnh Đồng Nai"
+    },
+    {
+      "province": "Đồng Nai",
+      "constituency": 3,
+      "area": "Long Thành; Nhơn Trạch; Cẩm Mỹ",
+      "name": "Nguyễn Công Long",
+      "vote_percent": "71,18",
+      "note": "Vụ trưởng Vụ Tư pháp, Văn phòng Quốc hội; 7.2021: Ủy viên Thường trực Ủy ban Tư pháp Quốc hội"
+    },
+    {
+      "province": "Đồng Nai",
+      "constituency": 4,
+      "area": "Long Khánh; Xuân Lộc; Định Quán; Tân Phú",
+      "name": "Đỗ Thị Thu Hằng",
+      "vote_percent": "78,57",
+      "note": "Chủ tịch HĐQT Tổng Công ty Cổ phần Phát triển Khu công nghiệp"
+    },
+    {
+      "province": "Đồng Nai",
+      "constituency": 4,
+      "area": "Long Khánh; Xuân Lộc; Định Quán; Tân Phú",
+      "name": "Vũ Hải Hà",
+      "vote_percent": "74,87",
+      "note": "Chủ nhiệm Ủy ban Đối ngoại Quốc hội"
+    },
+    {
+      "province": "Đồng Nai",
+      "constituency": 4,
+      "area": "Long Khánh; Xuân Lộc; Định Quán; Tân Phú",
+      "name": "Thổ Út",
+      "vote_percent": "72,43",
+      "note": "Phó Trưởng ban Dân tộc tỉnh Đồng Nai"
+    },
+    {
+      "province": "Đồng Tháp",
+      "constituency": 1,
+      "area": "Hồng Ngự; Tân Hồng; Hồng Ngự; Tam Nông",
+      "name": "Huỳnh Minh Tuấn",
+      "vote_percent": "79,50",
+      "note": "Phó Chủ tịch Ủy ban nhân dân tỉnh Đồng Tháp"
+    },
+    {
+      "province": "Đồng Tháp",
+      "constituency": 1,
+      "area": "Hồng Ngự; Tân Hồng; Hồng Ngự; Tam Nông",
+      "name": "Hà Thị Nga",
+      "vote_percent": "58,25",
+      "note": "Chủ tịch Trung ương Hội Liên hiệp Phụ nữ; 10.2024: Bí thư Tỉnh ủy Tuyên Quang"
+    },
+    {
+      "province": "Đồng Tháp",
+      "constituency": 2,
+      "area": "Cao Lãnh; Thanh Bình; Cao Lãnh; Tháp Mười",
+      "name": "Lê Quốc Phong",
+      "vote_percent": "77,28",
+      "note": "Bí thư Tỉnh ủy Đồng Tháp; Trưởng đoàn ĐBQH tỉnh Đồng Tháp"
+    },
+    {
+      "province": "Đồng Tháp",
+      "constituency": 2,
+      "area": "Cao Lãnh; Thanh Bình; Cao Lãnh; Tháp Mười",
+      "name": "Nguyễn Hải Anh",
+      "vote_percent": "60,59",
+      "note": "Phó Chủ tịch, Tổng Thư ký Trung ương Hội Chữ thập đỏ"
+    },
+    {
+      "province": "Đồng Tháp",
+      "constituency": 2,
+      "area": "Cao Lãnh; Thanh Bình; Cao Lãnh; Tháp Mười",
+      "name": "Nguyễn Thị Mai Hoa",
+      "vote_percent": "58,09",
+      "note": "Ủy viên Thường trực Ủy ban Văn hóa, Giáo dục, Thanh thiếu niên và Nhi đồng Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Văn hóa, Giáo dục Quốc hội"
+    },
+    {
+      "province": "Đồng Tháp",
+      "constituency": 3,
+      "area": "Sa Đéc; Lấp Vò; Lai Vung; Châu Thành",
+      "name": "Lê Minh Hoan",
+      "vote_percent": "78,82",
+      "note": "Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn"
+    },
+    {
+      "province": "Đồng Tháp",
+      "constituency": 3,
+      "area": "Sa Đéc; Lấp Vò; Lai Vung; Châu Thành",
+      "name": "Phạm Văn Hòa",
+      "vote_percent": "66,77",
+      "note": "Phó Chủ tịch Hội Luật gia tỉnh Đồng Tháp"
+    },
+    {
+      "province": "Đồng Tháp",
+      "constituency": 3,
+      "area": "Sa Đéc; Lấp Vò; Lai Vung; Châu Thành",
+      "name": "Trần Văn Sáu",
+      "vote_percent": "65,70",
+      "note": "Bí thư Huyện ủy Lấp Vò; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Đồng Tháp"
+    },
+    {
+      "province": "Gia Lai",
+      "constituency": 1,
+      "area": "Pleiku; Chư Păh; Ia Grai; Đức Cơ; Chư Prông",
+      "name": "Châu Ngọc Tuấn",
+      "vote_percent": "84,17",
+      "note": "Phó Bí thư Thường trực Tỉnh ủy Gia Lai; 7.2021: Phó Bí thư Thường trực Tỉnh ủy Gia Lai, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Gia Lai",
+      "constituency": 1,
+      "area": "Pleiku; Chư Păh; Ia Grai; Đức Cơ; Chư Prông",
+      "name": "Đinh Ngọc Quý",
+      "vote_percent": "82,30",
+      "note": "Vụ trưởng Vụ Các vấn đề xã hội, Văn phòng Quốc hội; 7.2021: Ủy viên Thường trực Ủy ban Xã hội Quốc hội"
+    },
+    {
+      "province": "Gia Lai",
+      "constituency": 1,
+      "area": "Pleiku; Chư Păh; Ia Grai; Đức Cơ; Chư Prông",
+      "name": "Rơ Châm H′Phik",
+      "vote_percent": "75,42",
+      "note": "Trưởng ban Dân vận Huyện ủy, Chủ tịch Mặt trận Tổ quốc huyện Chư Păh"
+    },
+    {
+      "province": "Gia Lai",
+      "constituency": 2,
+      "area": "An Khê; Kbang; Kông Chro; Đak Pơ; Mang Yang; Đak Đoa",
+      "name": "Nguyễn Thị Mai Phương",
+      "vote_percent": "87,75",
+      "note": "Ủy viên Thường trực Ủy ban Pháp luật Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Pháp luật Quốc hội"
+    },
+    {
+      "province": "Gia Lai",
+      "constituency": 2,
+      "area": "An Khê; Kbang; Kông Chro; Đak Pơ; Mang Yang; Đak Đoa",
+      "name": "Đinh Văn Thê",
+      "vote_percent": "81,88",
+      "note": "Đại tá, Phó Chỉ huy trưởng Bộ Chỉ huy quân sự tỉnh Gia Lai"
+    },
+    {
+      "province": "Gia Lai",
+      "constituency": 3,
+      "area": "Ayun Pa; Krông Pa; Ia Pa; Phú Thiện; Chư Sê; Chư Pưh",
+      "name": "Y Thanh Hà Niê Kđăm",
+      "vote_percent": "85,18",
+      "note": "Bí thư Đảng ủy Khối Doanh nghiệp Trung ương; 7.2021: Chủ tịch Hội đồng Dân tộc Quốc hội"
+    },
+    {
+      "province": "Gia Lai",
+      "constituency": 3,
+      "area": "Ayun Pa; Krông Pa; Ia Pa; Phú Thiện; Chư Sê; Chư Pưh",
+      "name": "Lê Hoàng Anh",
+      "vote_percent": "83,24",
+      "note": "Giám đốc Thư viện Quốc hội; 7.2021: Ủy viên Thường trực Ủy ban Tài chính – Ngân sách Quốc hội"
+    },
+    {
+      "province": "Gia Lai",
+      "constituency": 3,
+      "area": "Ayun Pa; Krông Pa; Ia Pa; Phú Thiện; Chư Sê; Chư Pưh",
+      "name": "Siu Hương",
+      "vote_percent": "80,70",
+      "note": "Trưởng ban Văn hóa - Xã hội, HĐND tỉnh Gia Lai; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Gia Lai"
+    },
+    {
+      "province": "Hà Giang",
+      "constituency": 1,
+      "area": "Hà Giang; Đồng Văn; Mèo Vạc; Yên Minh; Quản Bạ; Bắc Mê",
+      "name": "Đặng Quốc Khánh",
+      "vote_percent": "96,29",
+      "note": "Thôi chức ngày 13 tháng 8 năm 2024"
+    },
+    {
+      "province": "Hà Giang",
+      "constituency": 1,
+      "area": "Hà Giang; Đồng Văn; Mèo Vạc; Yên Minh; Quản Bạ; Bắc Mê",
+      "name": "Phạm Thúy Chinh",
+      "vote_percent": "92,23",
+      "note": "Phó Chủ nhiệm Văn phòng Quốc hội; 12.2021: Phó Chủ nhiệm Ủy ban Tài chính – Ngân sách Quốc hội"
+    },
+    {
+      "province": "Hà Giang",
+      "constituency": 1,
+      "area": "Hà Giang; Đồng Văn; Mèo Vạc; Yên Minh; Quản Bạ; Bắc Mê",
+      "name": "Vương Thị Hương",
+      "vote_percent": "90,74",
+      "note": ""
+    },
+    {
+      "province": "Hà Giang",
+      "constituency": 2,
+      "area": "Vị Xuyên; Bắc Quang; Quang Bình; Hoàng Su Phì; Xín Mần",
+      "name": "Hoàng Ngọc Định",
+      "vote_percent": "89,42",
+      "note": "Đại tá, Chỉ huy trưởng Bộ đội Biên phòng tỉnh Hà Giang"
+    },
+    {
+      "province": "Hà Giang",
+      "constituency": 2,
+      "area": "Vị Xuyên; Bắc Quang; Quang Bình; Hoàng Su Phì; Xín Mần",
+      "name": "Tráng A Dương",
+      "vote_percent": "88,17",
+      "note": "Quyền Vụ trưởng Vụ Địa phương II, Ủy ban Dân tộc; 12.2021: Ủy viên chuyên trách Hội đồng Dân tộc Quốc hội"
+    },
+    {
+      "province": "Hà Giang",
+      "constituency": 2,
+      "area": "Vị Xuyên; Bắc Quang; Quang Bình; Hoàng Su Phì; Xín Mần",
+      "name": "Lý Thị Lan",
+      "vote_percent": "85,45",
+      "note": "Giám đốc Sở Ngoại vụ tỉnh Hà Giang; 7.2021 - 12.2024: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Hà Giang; 12.2024: Trưởng đoàn ĐBQH tỉnh Hà Giang"
+    },
+    {
+      "province": "Hà Nam",
+      "constituency": 1,
+      "area": "Phủ Lý; Thanh Liêm; Bình Lục",
+      "name": "Nguyễn Quốc Hùng",
+      "vote_percent": 93,
+      "note": "Đại tá, Giám đốc Công an tỉnh Hà Nam; 9.2022: Thiếu tướng, Cục trưởng Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an; 1.2024: Ủy viên Thường trực Ủy ban Quốc phòng và An ninh của Quốc hội"
+    },
+    {
+      "province": "Hà Nam",
+      "constituency": 1,
+      "area": "Phủ Lý; Thanh Liêm; Bình Lục",
+      "name": "Trần Văn Khải",
+      "vote_percent": "90,11",
+      "note": "Trưởng ban Quản lý Dự án Thiết chế Công đoàn, Tổng Liên đoàn Lao động; 7.2021: Ủy viên Thường trực Ủy ban Khoa học, Công nghệ và Môi trường Quốc hội"
+    },
+    {
+      "province": "Hà Nam",
+      "constituency": 1,
+      "area": "Phủ Lý; Thanh Liêm; Bình Lục",
+      "name": "Phạm Hùng Thắng",
+      "vote_percent": "86,43",
+      "note": "Bí thư Đảng ủy Khối các Cơ quan tỉnh Hà Nam; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Hà Nam"
+    },
+    {
+      "province": "Hà Nam",
+      "constituency": 2,
+      "area": "Duy Tiên; Kim Bảng; Lý Nhân",
+      "name": "Trương Quốc Huy",
+      "vote_percent": "96,04",
+      "note": "Chủ tịch Ủy ban Nhân dân tỉnh Hà Nam; 7.2021: Chủ tịch Ủy ban Nhân dân tỉnh Hà Nam, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Hà Nam",
+      "constituency": 2,
+      "area": "Duy Tiên; Kim Bảng; Lý Nhân",
+      "name": "Lê Thị Nga",
+      "vote_percent": "90,87",
+      "note": "Chủ nhiệm Ủy ban Tư pháp của Quốc hội"
+    },
+    {
+      "province": "Hà Nam",
+      "constituency": 2,
+      "area": "Duy Tiên; Kim Bảng; Lý Nhân",
+      "name": "Trần Thị Hiền",
+      "vote_percent": "90,41",
+      "note": "Chủ tịch HĐQT, Giám đốc Công ty Cổ phần Xây dựng và Phát triển Hạ tầng Kỹ thuật Hà Nam"
+    },
+    {
+      "province": "Hà Tĩnh",
+      "constituency": 1,
+      "area": "Hà Tĩnh; Kỳ Anh; Cẩm Xuyên; Hương Khê",
+      "name": "Hoàng Trung Dũng",
+      "vote_percent": "97,11",
+      "note": "Bí thư Tỉnh ủy, Chủ tịch HĐND tỉnh Hà Tĩnh; 7.2021: Bí thư Tỉnh ủy, Chủ tịch HĐND tỉnh Hà Tĩnh, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Hà Tĩnh",
+      "constituency": 1,
+      "area": "Hà Tĩnh; Kỳ Anh; Cẩm Xuyên; Hương Khê",
+      "name": "Trần Đình Gia",
+      "vote_percent": "92,19",
+      "note": "Bí thư Huyện ủy Kỳ Anh"
+    },
+    {
+      "province": "Hà Tĩnh",
+      "constituency": 1,
+      "area": "Hà Tĩnh; Kỳ Anh; Cẩm Xuyên; Hương Khê",
+      "name": "Bùi Thị Quỳnh Thơ",
+      "vote_percent": "90,75",
+      "note": "Phó Hiệu trưởng Đại học Hà Tĩnh; 7.2021: Ủy viên chuyên trách Ủy ban Kinh tế Quốc hội"
+    },
+    {
+      "province": "Hà Tĩnh",
+      "constituency": 2,
+      "area": "Thạch Hà; Can Lộc; Nghi Xuân; Lộc Hà",
+      "name": "Hà Thọ Bình",
+      "vote_percent": "95,47",
+      "note": "Thiếu tướng, Phó Tư lệnh, Tham mưu trưởng Quân khu 4; 12.2022, Trung tướng, Tư lệnh Quân khu 4"
+    },
+    {
+      "province": "Hà Tĩnh",
+      "constituency": 2,
+      "area": "Thạch Hà; Can Lộc; Nghi Xuân; Lộc Hà",
+      "name": "Lê Anh Tuấn",
+      "vote_percent": "93,14",
+      "note": "Ủy viên Thường trực Ủy ban Đối ngoại của Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Đối ngoại của Quốc hội"
+    },
+    {
+      "province": "Hà Tĩnh",
+      "constituency": 3,
+      "area": "Hồng Lĩnh; Đức Thọ; Hương Sơn; Vũ Quang",
+      "name": "Lê Minh Hưng",
+      "vote_percent": "96,74",
+      "note": "Chánh Văn phòng Trung ương Đảng; 5.2024: Trưởng ban Tổ chức Trung ương Đảng"
+    },
+    {
+      "province": "Hà Tĩnh",
+      "constituency": 3,
+      "area": "Hồng Lĩnh; Đức Thọ; Hương Sơn; Vũ Quang",
+      "name": "Phan Thị Nguyệt Thu",
+      "vote_percent": "92,31",
+      "note": "Chánh án Tòa án nhân dân tỉnh Hà Tĩnh"
+    },
+    {
+      "province": "Hải Dương",
+      "constituency": 1,
+      "area": "Chí Linh; Kinh Môn; Kim Thành",
+      "name": "Bùi Văn Cường",
+      "vote_percent": "89,71",
+      "note": "Thôi chức ngày 25 tháng 10 năm 2024"
+    },
+    {
+      "province": "Hải Dương",
+      "constituency": 1,
+      "area": "Chí Linh; Kinh Môn; Kim Thành",
+      "name": "Lê Văn Hiệu",
+      "vote_percent": "84,33",
+      "note": "Phó Bí thư Thường trực Tỉnh ủy Hải Dương; 7.2021 - 6.2023: Phó Bí thư Thường trực Tỉnh ủy Hải Dương, Trưởng đoàn ĐBQH tỉnh Hải Dương; 6.2023: Phó Bí thư Thường trực Tỉnh ủy Hải Dương, Chủ tịch HĐND tỉnh, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Hải Dương",
+      "constituency": 2,
+      "area": "Hải Dương; Nam Sách; Thanh Hà",
+      "name": "Triệu Thế Hùng",
+      "vote_percent": "89,55",
+      "note": "Chủ tịch Ủy ban Nhân dân tỉnh Hải Dương; 8.2024: Phó Chủ nhiệm Ủy ban Văn hóa, Giáo dục Quốc hội"
+    },
+    {
+      "province": "Hải Dương",
+      "constituency": 2,
+      "area": "Hải Dương; Nam Sách; Thanh Hà",
+      "name": "Nguyễn Thị Mai Thoa",
+      "vote_percent": "78,87",
+      "note": "Vụ trưởng, Thư ký Phó Chủ tịch Thường trực Quốc hội Tòng Thị Phóng; 7.2021: Ủy viên Thường trực Ủy ban Văn hóa, Giáo dục Quốc hội"
+    },
+    {
+      "province": "Hải Dương",
+      "constituency": 2,
+      "area": "Hải Dương; Nam Sách; Thanh Hà",
+      "name": "Đinh Thị Ngọc Dung",
+      "vote_percent": "76,42",
+      "note": ""
+    },
+    {
+      "province": "Hải Dương",
+      "constituency": 3,
+      "area": "Gia Lộc; Tứ Kỳ; Cẩm Giàng",
+      "name": "Nguyễn Ngọc Sơn",
+      "vote_percent": "79,60",
+      "note": "Vụ trưởng Vụ Phục vụ hoạt động giám sát, Văn phòng Quốc hội; 7.2021: Ủy viên Thường trực Ủy ban Khoa học, Công nghệ và Môi trường Quốc hội"
+    },
+    {
+      "province": "Hải Dương",
+      "constituency": 3,
+      "area": "Gia Lộc; Tứ Kỳ; Cẩm Giàng",
+      "name": "Nguyễn Thị Việt Nga",
+      "vote_percent": "75,77",
+      "note": "Phó Trưởng đoàn Đại biểu Quốc hội tỉnh Hải Dương"
+    },
+    {
+      "province": "Hải Dương",
+      "constituency": 4,
+      "area": "Bình Giang; Thanh Miện; Ninh Giang",
+      "name": "Nguyễn Hải Hưng",
+      "vote_percent": "75,15",
+      "note": "Trung tướng, Phó Chủ nhiệm Ủy ban Quốc phòng và An ninh Quốc hội"
+    },
+    {
+      "province": "Hải Dương",
+      "constituency": 4,
+      "area": "Bình Giang; Thanh Miện; Ninh Giang",
+      "name": "Bùi Sỹ Hoàn",
+      "vote_percent": "67,82",
+      "note": "Giám đốc Sở Tư pháp tỉnh Hải Dương"
+    },
+    {
+      "province": "Hậu Giang",
+      "constituency": 1,
+      "area": "Vị Thanh; Vị Thủy; Châu Thành; Châu Thành A",
+      "name": "Trần Thanh Mẫn",
+      "vote_percent": "90,27",
+      "note": "Phó Chủ tịch Thường trực Quốc hội; 5.2024: Chủ tịch Quốc hội nước Cộng hoà Xã hội Chủ nghĩa Việt Nam"
+    },
+    {
+      "province": "Hậu Giang",
+      "constituency": 1,
+      "area": "Vị Thanh; Vị Thủy; Châu Thành; Châu Thành A",
+      "name": "Nguyễn Văn Quân",
+      "vote_percent": "75,64",
+      "note": "Giám đốc Sở Tư pháp tỉnh Hậu Giang"
+    },
+    {
+      "province": "Hậu Giang",
+      "constituency": 1,
+      "area": "Vị Thanh; Vị Thủy; Châu Thành; Châu Thành A",
+      "name": "Thái Thu Xương",
+      "vote_percent": "73,10",
+      "note": "Chủ tịch Mặt trận Tổ quốc tỉnh Hậu Giang; 7.2021 - 1.2022: Chủ tịch Mặt trận Tổ quốc tỉnh Hậu Giang, Trưởng đoàn ĐBQH tỉnh; 1.2022: Phó Chủ tịch Tổng Liên đoàn Lao động, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Hậu Giang",
+      "constituency": 2,
+      "area": "Ngã Bảy; Long Mỹ; Phụng Hiệp; Long Mỹ",
+      "name": "Lê Tiến Châu",
+      "vote_percent": "82,56",
+      "note": "Bí thư Tỉnh ủy Hậu Giang; 6.2021 - 1.2023: Phó Chủ tịch, Tổng Thư ký Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam; 1.2022: Bí thư Thành ủy Hải Phòng"
+    },
+    {
+      "province": "Hậu Giang",
+      "constituency": 2,
+      "area": "Ngã Bảy; Long Mỹ; Phụng Hiệp; Long Mỹ",
+      "name": "Lê Thị Thanh Lam",
+      "vote_percent": "61,38",
+      "note": "Chủ tịch Liên đoàn Lao động tỉnh Hậu Giang; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Hậu Giang"
+    },
+    {
+      "province": "Hậu Giang",
+      "constituency": 2,
+      "area": "Ngã Bảy; Long Mỹ; Phụng Hiệp; Long Mỹ",
+      "name": "Lê Minh Nam",
+      "vote_percent": "58,43",
+      "note": "Giám đốc Trường Đào tạo và Bồi dưỡng nghiệp vụ kiểm toán, Tổng biên tập Tạp chí Nghiên cứu khoa học kiểm toán; 7.2021: Ủy viên Thường trực Ủy ban Tài chính – Ngân sách Quốc hội"
+    },
+    {
+      "province": "Hòa Bình",
+      "constituency": 1,
+      "area": "Hòa Bình; Đà Bắc; Lương Sơn; Mai Châu; Tân Lạc",
+      "name": "Hoàng Đức Chính",
+      "vote_percent": "85,74",
+      "note": "Trưởng ban Kinh tế - Ngân sách, HĐND tỉnh Hòa Bình; 7.2021 - 4.2023: Phó Trưởng đoàn ĐBQH tỉnh Hòa Bình; 4.2023: Bí thư Huyện ủy Lạc Sơn"
+    },
+    {
+      "province": "Hòa Bình",
+      "constituency": 1,
+      "area": "Hòa Bình; Đà Bắc; Lương Sơn; Mai Châu; Tân Lạc",
+      "name": "Ngô Văn Tuấn",
+      "vote_percent": "83,06",
+      "note": "Bí thư Tỉnh ủy Hòa Bình; 7.2021 - 7.2022: Bí thư Tỉnh ủy Hòa Bình, Trưởng đoàn ĐBQH tỉnh; 7.2022 - 10.2022: Phó Tổng Kiểm toán phụ trách Kiểm toán Nhà nước; 10.2022: Tổng Kiểm toán Nhà nước"
+    },
+    {
+      "province": "Hòa Bình",
+      "constituency": 1,
+      "area": "Hòa Bình; Đà Bắc; Lương Sơn; Mai Châu; Tân Lạc",
+      "name": "Nguyễn Thị Phú Hà",
+      "vote_percent": "79,27",
+      "note": "Phó Chủ tịch Ủy ban Quản lý vốn nhà nước tại doanh nghiệp; 7.2021: Phó Chủ nhiệm Ủy ban Tài chính – Ngân sách Quốc hội"
+    },
+    {
+      "province": "Hòa Bình",
+      "constituency": 2,
+      "area": "Kim Bôi; Cao Phong; Lạc Thủy; Yên Thủy",
+      "name": "Trương Thị Mai",
+      "vote_percent": "92,09",
+      "note": "Thôi chức ngày 16 tháng 5 năm 2024"
+    },
+    {
+      "province": "Hòa Bình",
+      "constituency": 2,
+      "area": "Kim Bôi; Cao Phong; Lạc Thủy; Yên Thủy",
+      "name": "Đặng Bích Ngọc",
+      "vote_percent": "74,29",
+      "note": "Phó Chủ tịch Thường trực Mặt trận Tổ quốc tỉnh Hòa Bình; 6.2023: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Hòa Bình"
+    },
+    {
+      "province": "Hòa Bình",
+      "constituency": 2,
+      "area": "Kim Bôi; Cao Phong; Lạc Thủy; Yên Thủy",
+      "name": "Nguyễn Cao Sơn",
+      "vote_percent": "72,42",
+      "note": "Chủ tịch Hiệp hội Doanh nghiệp tỉnh Hòa Bình"
+    },
+    {
+      "province": "Hưng Yên",
+      "constituency": 1,
+      "area": "thành phố Hưng Yên; Kim Động; Khoái Châu; Yên Mỹ",
+      "name": "Tô Lâm",
+      "vote_percent": "98,36",
+      "note": "Đại tướng, Bộ trưởng Bộ Công an; 5.2024-8.2024: Chủ tịch nước Cộng hoà Xã hội Chủ nghĩa Việt Nam; 8.2024-10.2024: Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Chủ tịch nước Cộng hoà Xã hội Chủ nghĩa Việt Nam; 10.2024: Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam"
+    },
+    {
+      "province": "Hưng Yên",
+      "constituency": 1,
+      "area": "thành phố Hưng Yên; Kim Động; Khoái Châu; Yên Mỹ",
+      "name": "Đỗ Tiến Sỹ",
+      "vote_percent": "97,33",
+      "note": "Bí thư Tỉnh ủy Hưng Yên, Trưởng đoàn ĐBQH tỉnh; 6.2021: Tổng giám đốc Đài Tiếng nói Việt Nam"
+    },
+    {
+      "province": "Hưng Yên",
+      "constituency": 1,
+      "area": "thành phố Hưng Yên; Kim Động; Khoái Châu; Yên Mỹ",
+      "name": "Đoàn Thị Thanh Mai",
+      "vote_percent": "90,20",
+      "note": "Phó Chủ nhiệm Ủy ban Kinh tế Quốc hội"
+    },
+    {
+      "province": "Hưng Yên",
+      "constituency": 2,
+      "area": "Tiên Lữ; Phù Cừ; Ân Thi",
+      "name": "Phạm Đình Toản",
+      "vote_percent": "90,73",
+      "note": "Phó Chủ nhiệm Văn phòng Quốc hội"
+    },
+    {
+      "province": "Hưng Yên",
+      "constituency": 2,
+      "area": "Tiên Lữ; Phù Cừ; Ân Thi",
+      "name": "Vũ Hồng Luyến",
+      "vote_percent": "87,01",
+      "note": "Bí thư Tỉnh đoàn Hưng Yên"
+    },
+    {
+      "province": "Hưng Yên",
+      "constituency": 3,
+      "area": "Mỹ Hào; Văn Giang; Văn Lâm",
+      "name": "Nguyễn Đại Thắng",
+      "vote_percent": "83,28",
+      "note": "Phó Trưởng ban Tuyên giáo Tỉnh ủy Hưng Yên; 7.2021 - 11.2024: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Hưng Yên; 11.2024: Phó Trưởng ban Ban Công tác đại biểu Quốc hội"
+    },
+    {
+      "province": "Hưng Yên",
+      "constituency": 3,
+      "area": "Mỹ Hào; Văn Giang; Văn Lâm",
+      "name": "Đào Hồng Vận",
+      "vote_percent": "75,49",
+      "note": "Bí thư Huyện ủy, Chủ tịch HĐND huyện Văn Giang; 5.2022 - 3.2024: Trưởng ban Tuyên giáo Tỉnh ủy Hưng Yên; 3.2024: Trưởng ban Tuyên giáo Tỉnh ủy Hưng Yên, Trưởng Đoàn ĐBQH tỉnh Hưng Yên"
+    },
+    {
+      "province": "Khánh Hòa",
+      "constituency": 1,
+      "area": "Ninh Hòa; Vạn Ninh",
+      "name": "Trần Tuấn Anh",
+      "vote_percent": "74,52",
+      "note": "Thôi chức ngày 5 tháng 2 năm 2024"
+    },
+    {
+      "province": "Khánh Hòa",
+      "constituency": 1,
+      "area": "Ninh Hòa; Vạn Ninh",
+      "name": "Lê Xuân Thân",
+      "vote_percent": "68,32",
+      "note": "Chủ tịch Hội Luật gia tỉnh Khánh Hòa"
+    },
+    {
+      "province": "Khánh Hòa",
+      "constituency": 2,
+      "area": "Nha Trang",
+      "name": "Hà Quốc Trị",
+      "vote_percent": "59,25",
+      "note": "Phó Bí thư Tỉnh ủy Khánh Hòa; 7.2021 - 9.2024: Phó Bí thư Tỉnh ủy, Trưởng Đoàn Đại biểu Quốc hội tỉnh; 9.2024: Ủy viên Ủy ban Kiểm tra Trung ương"
+    },
+    {
+      "province": "Khánh Hòa",
+      "constituency": 2,
+      "area": "Nha Trang",
+      "name": "Đỗ Ngọc Thịnh",
+      "vote_percent": "50,13",
+      "note": "Chủ tịch Liên đoàn Luật sư"
+    },
+    {
+      "province": "Khánh Hòa",
+      "constituency": 3,
+      "area": "Cam Ranh; Khánh Vĩnh; Diên Khánh; Cam Lâm; Khánh Sơn; Trường Sa",
+      "name": "Trần Ngọc Khánh",
+      "vote_percent": "84,99",
+      "note": "Trung tướng, Phó Chủ nhiệm Ủy ban Quốc phòng và An ninh Quốc hội"
+    },
+    {
+      "province": "Khánh Hòa",
+      "constituency": 3,
+      "area": "Cam Ranh; Khánh Vĩnh; Diên Khánh; Cam Lâm; Khánh Sơn; Trường Sa",
+      "name": "Lê Hữu Trí",
+      "vote_percent": "70,72",
+      "note": "Chánh Thanh tra tỉnh Khánh Hòa; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Khánh Hòa"
+    },
+    {
+      "province": "Khánh Hòa",
+      "constituency": 3,
+      "area": "Cam Ranh; Khánh Vĩnh; Diên Khánh; Cam Lâm; Khánh Sơn; Trường Sa",
+      "name": "Hà Hồng Hạnh",
+      "vote_percent": "59,44",
+      "note": "Phó Chủ tịch Hội Nông dân tỉnh Khánh Hòa; 6.2022: Chủ tịch Hội Nông dân tỉnh Khánh Hòa"
+    },
+    {
+      "province": "Kiên Giang",
+      "constituency": 1,
+      "area": "Tân Hiệp; Kiên Hải; Giồng Riềng; Gò Quao",
+      "name": "Nguyễn Phương Tuấn",
+      "vote_percent": "72,04",
+      "note": "Ủy viên Thường trực Ủy ban Đối ngoại Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Khoa học, Công nghệ và Môi trường Quốc hội"
+    },
+    {
+      "province": "Kiên Giang",
+      "constituency": 1,
+      "area": "Tân Hiệp; Kiên Hải; Giồng Riềng; Gò Quao",
+      "name": "Châu Quỳnh Dao",
+      "vote_percent": "62,35",
+      "note": ""
+    },
+    {
+      "province": "Kiên Giang",
+      "constituency": 2,
+      "area": "An Biên; An Minh; Vĩnh Thuận; U Minh Thượng; Châu Thành",
+      "name": "Lê Thành Long",
+      "vote_percent": "75,25",
+      "note": "Bộ trưởng Bộ Tư pháp; 6.2024 - 8.2024: Phó Thủ tướng Chính phủ, Bộ trưởng Bộ Tư pháp; 8.2024: Phó Thủ tướng Chính phủ"
+    },
+    {
+      "province": "Kiên Giang",
+      "constituency": 2,
+      "area": "An Biên; An Minh; Vĩnh Thuận; U Minh Thượng; Châu Thành",
+      "name": "Nguyễn Thị Kim Bé",
+      "vote_percent": "72,66",
+      "note": "Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Kiên Giang"
+    },
+    {
+      "province": "Kiên Giang",
+      "constituency": 2,
+      "area": "An Biên; An Minh; Vĩnh Thuận; U Minh Thượng; Châu Thành",
+      "name": "Nguyễn Việt Thắng",
+      "vote_percent": "65,14",
+      "note": "Phó Bí thư Thường trực Huyện ủy An Biên; 5.2024: Bí thư Huyện ủy U Minh Thượng"
+    },
+    {
+      "province": "Kiên Giang",
+      "constituency": 3,
+      "area": "Rạch Giá; Hà Tiên; Phú Quốc; Kiên Lương; Hòn Đất; Giang Thành",
+      "name": "Đỗ Thanh Bình",
+      "vote_percent": "88,79",
+      "note": "Bí thư Tỉnh ủy Kiên Giang; 7.2021: Bí thư Tỉnh ủy Kiên Giang, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Kiên Giang",
+      "constituency": 3,
+      "area": "Rạch Giá; Hà Tiên; Phú Quốc; Kiên Lương; Hòn Đất; Giang Thành",
+      "name": "Lý Anh Thư",
+      "vote_percent": "80,13",
+      "note": "Phó Giám đốc Sở Lao động-Thương binh và Xã hội tỉnh Kiên Giang; 9.2024: Chủ tịch Hội Liên hiệp Phụ nữ tỉnh Kiên Giang"
+    },
+    {
+      "province": "Kiên Giang",
+      "constituency": 3,
+      "area": "Rạch Giá; Hà Tiên; Phú Quốc; Kiên Lương; Hòn Đất; Giang Thành",
+      "name": "Nguyễn Danh Tú",
+      "vote_percent": "78,53",
+      "note": "Giám đốc Trung tâm Nghiên cứu khoa học lập pháp, Viện Nghiên cứu lập pháp; 7.2021: Ủy viên Thường trực Ủy ban Tư pháp Quốc hội"
+    },
+    {
+      "province": "Kon Tum",
+      "constituency": 1,
+      "area": "Kon Tum; Kon Plông; Kon Rẫy; Sa Thầy; Ia H'Drai",
+      "name": "Nguyễn Văn Hùng",
+      "vote_percent": "93,39",
+      "note": "Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch"
+    },
+    {
+      "province": "Kon Tum",
+      "constituency": 1,
+      "area": "Kon Tum; Kon Plông; Kon Rẫy; Sa Thầy; Ia H'Drai",
+      "name": "Phạm Đình Thanh",
+      "vote_percent": "91,13",
+      "note": "Giám đốc Sở Tư pháp tỉnh Kon Tum; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Kon Tum"
+    },
+    {
+      "province": "Kon Tum",
+      "constituency": 1,
+      "area": "Kon Tum; Kon Plông; Kon Rẫy; Sa Thầy; Ia H'Drai",
+      "name": "Nàng Xô Vi",
+      "vote_percent": "82,97",
+      "note": ""
+    },
+    {
+      "province": "Kon Tum",
+      "constituency": 2,
+      "area": "Đắk Hà; Đắk Tô; Tu Mơ Rông; Ngọc Hồi; Đắk Glei",
+      "name": "Trần Thị Thu Phước",
+      "vote_percent": "92,21",
+      "note": "Đại tá, Phó Giám đốc Công an tỉnh Kon Tum"
+    },
+    {
+      "province": "Kon Tum",
+      "constituency": 2,
+      "area": "Đắk Hà; Đắk Tô; Tu Mơ Rông; Ngọc Hồi; Đắk Glei",
+      "name": "Tô Văn Tám",
+      "vote_percent": "92,04",
+      "note": "Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Kon Tum; 7.2021: Ủy viên Thường trực Ủy ban Pháp luật Quốc hội"
+    },
+    {
+      "province": "Kon Tum",
+      "constituency": 2,
+      "area": "Đắk Hà; Đắk Tô; Tu Mơ Rông; Ngọc Hồi; Đắk Glei",
+      "name": "U Huấn",
+      "vote_percent": "90,83",
+      "note": "Trưởng ban Nội chính Tỉnh ủy Kon Tum; 7.2021 - 5.2024: Trưởng ban Nội chính Tỉnh ủy Kon Tum, Trưởng đoàn ĐBQH tỉnh; 5.2024: Phó Bí thư Tỉnh ủy Tỉnh ủy Kon Tum, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Lai Châu",
+      "constituency": 1,
+      "area": "Lai Châu; Than Uyên; Tân Uyên; Tam Đường",
+      "name": "Giàng Páo Mỷ",
+      "vote_percent": "95,50",
+      "note": "Bí thư Tỉnh ủy, Chủ tịch HĐND tỉnh Lai Châu, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Lai Châu",
+      "constituency": 1,
+      "area": "Lai Châu; Than Uyên; Tân Uyên; Tam Đường",
+      "name": "Nguyễn Hữu Toàn",
+      "vote_percent": "90,88",
+      "note": "Phó Chủ nhiệm Ủy ban Tài chính – Ngân sách Quốc hội"
+    },
+    {
+      "province": "Lai Châu",
+      "constituency": 1,
+      "area": "Lai Châu; Than Uyên; Tân Uyên; Tam Đường",
+      "name": "Tao Văn Giót",
+      "vote_percent": "81,33",
+      "note": "Bí thư Huyện đoàn Tam Đường"
+    },
+    {
+      "province": "Lai Châu",
+      "constituency": 2,
+      "area": "Phong Thổ; Mường Tè; Sìn Hồ; Nậm Nhùn",
+      "name": "Hoàng Văn Bình; (Hoàng Thanh Bình)",
+      "vote_percent": "88,18",
+      "note": "Đại tá, Phó Chỉ huy trưởng Bộ Chỉ huy quân sự tỉnh Lai Châu"
+    },
+    {
+      "province": "Lai Châu",
+      "constituency": 2,
+      "area": "Phong Thổ; Mường Tè; Sìn Hồ; Nậm Nhùn",
+      "name": "Hoàng Quốc Khánh",
+      "vote_percent": "85,27",
+      "note": "Trưởng ban Pháp chế, HĐND tỉnh Lai Châu; 7.2021: Phó Trưởng đoàn ĐBQH tỉnh Lai Châu"
+    },
+    {
+      "province": "Lai Châu",
+      "constituency": 2,
+      "area": "Phong Thổ; Mường Tè; Sìn Hồ; Nậm Nhùn",
+      "name": "Trần Hồng Minh",
+      "vote_percent": "83,45",
+      "note": "Trung tướng, Chủ nhiệm Tổng cục Công nghiệp Quốc phòng; 9.2021: Chuyển sinh hoạt sang Đoàn ĐBQH tỉnh Cao Bằng"
+    },
+    {
+      "province": "Lạng Sơn",
+      "constituency": 1,
+      "area": "Bắc Sơn; Bình Gia; Văn Quan; Chi Lăng; Hữu Lũng",
+      "name": "Phạm Trọng Nghĩa",
+      "vote_percent": "84,37",
+      "note": "Giám đốc Trung tâm Thông tin khoa học lập pháp, Viện Nghiên cứu lập pháp; 7.2021: Ủy viên chuyên trách Ủy ban Xã hội Quốc hội"
+    },
+    {
+      "province": "Lạng Sơn",
+      "constituency": 1,
+      "area": "Bắc Sơn; Bình Gia; Văn Quan; Chi Lăng; Hữu Lũng",
+      "name": "Hoàng Văn Nghiệm",
+      "vote_percent": "82,02",
+      "note": "Phó Bí thư Thường trực Tỉnh ủy Lạng Sơn; 7.2021 - 12.2024: Phó Bí thư Thường trực Tỉnh ủy Lạng Sơn, Trưởng đoàn ĐBQH tỉnh; 12.2024: Bí thư Tỉnh ủy Lạng Sơn, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Lạng Sơn",
+      "constituency": 1,
+      "area": "Bắc Sơn; Bình Gia; Văn Quan; Chi Lăng; Hữu Lũng",
+      "name": "Lưu Bá Mạc",
+      "vote_percent": "72,96",
+      "note": "Tổng Thư ký, Chánh Văn phòng Liên hiệp các Hội Khoa học và Kỹ thuật tỉnh Lạng Sơn"
+    },
+    {
+      "province": "Lạng Sơn",
+      "constituency": 2,
+      "area": "Tràng Định; Văn Lãng; Cao Lộc; Lộc Bình; Đình Lập",
+      "name": "Triệu Quang Huy",
+      "vote_percent": "82,40",
+      "note": "Trưởng ban Kinh tế - Ngân sách, HĐND tỉnh Lạng Sơn; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Lạng Sơn"
+    },
+    {
+      "province": "Lạng Sơn",
+      "constituency": 2,
+      "area": "Tràng Định; Văn Lãng; Cao Lộc; Lộc Bình; Đình Lập",
+      "name": "Chu Thị Hồng Thái",
+      "vote_percent": "81,76",
+      "note": "Phó Chánh Văn phòng Hội Nông dân tỉnh Lạng Sơn"
+    },
+    {
+      "province": "Lạng Sơn",
+      "constituency": 2,
+      "area": "Tràng Định; Văn Lãng; Cao Lộc; Lộc Bình; Đình Lập",
+      "name": "Trần Sỹ Thanh",
+      "vote_percent": "80,06",
+      "note": "Tổng Kiểm toán nhà nước; 7.2022: Chuyển sinh hoạt sang Đoàn ĐBQH thành phố Hà Nội"
+    },
+    {
+      "province": "Lào Cai",
+      "constituency": 1,
+      "area": "Lào Cai; Bát Xát; Bắc Hà; Mường Khương; Si Ma Cai",
+      "name": "Đặng Xuân Phong",
+      "vote_percent": "94,72",
+      "note": "Bí thư Tỉnh ủy Lào Cai; 7.2021: Bí thư Tỉnh ủy Lào Cai, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Lào Cai",
+      "constituency": 1,
+      "area": "Lào Cai; Bát Xát; Bắc Hà; Mường Khương; Si Ma Cai",
+      "name": "Lê Thị Hà; (Lê Thu Hà)",
+      "vote_percent": "91,19",
+      "note": "Ủy viên Thường trực Ủy ban Đối ngoại Quốc hội"
+    },
+    {
+      "province": "Lào Cai",
+      "constituency": 1,
+      "area": "Lào Cai; Bát Xát; Bắc Hà; Mường Khương; Si Ma Cai",
+      "name": "Hà Đức Minh",
+      "vote_percent": "90,01",
+      "note": "Bí thư Tỉnh đoàn Lào Cai; 6.2022: Bí thư Huyện ủy Si Ma Cai"
+    },
+    {
+      "province": "Lào Cai",
+      "constituency": 2,
+      "area": "Sa Pa; Bảo Thắng; Bảo Yên; Văn Bàn",
+      "name": "Trần Cẩm Tú",
+      "vote_percent": "87,86",
+      "note": "Chủ nhiệm Ủy ban Kiểm tra Trung ương; 10.2024: Thường trực Ban Bí thư Trung ương Đảng, Chủ nhiệm Ủy ban Kiểm tra Trung ương"
+    },
+    {
+      "province": "Lào Cai",
+      "constituency": 2,
+      "area": "Sa Pa; Bảo Thắng; Bảo Yên; Văn Bàn",
+      "name": "Sùng A Lềnh",
+      "vote_percent": "86,48",
+      "note": "Phó Trưởng ban Tổ chức Tỉnh ủy Lào Cai; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Lào Cai"
+    },
+    {
+      "province": "Lào Cai",
+      "constituency": 2,
+      "area": "Sa Pa; Bảo Thắng; Bảo Yên; Văn Bàn",
+      "name": "Nguyễn Thị Lan Anh",
+      "vote_percent": "82,89",
+      "note": "Trưởng khoa Nông Lâm-Xây dựng, Trường Cao đẳng Lào Cai"
+    },
+    {
+      "province": "Lâm Đồng",
+      "constituency": 1,
+      "area": "Đà Lạt; Lạc Dương; Đơn Dương; Đức Trọng",
+      "name": "Phan Đình Trạc",
+      "vote_percent": "83,34",
+      "note": "Đại tá, Trưởng ban Nội chính Trung ương"
+    },
+    {
+      "province": "Lâm Đồng",
+      "constituency": 1,
+      "area": "Đà Lạt; Lạc Dương; Đơn Dương; Đức Trọng",
+      "name": "Trịnh Thị Tú Anh",
+      "vote_percent": "81,32",
+      "note": "Trưởng phòng Quản lý Khoa học - Hợp tác quốc tế, Đại học Đà Lạt"
+    },
+    {
+      "province": "Lâm Đồng",
+      "constituency": 1,
+      "area": "Đà Lạt; Lạc Dương; Đơn Dương; Đức Trọng",
+      "name": "Nguyễn Tạo",
+      "vote_percent": "78,90",
+      "note": "Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Lâm Đồng"
+    },
+    {
+      "province": "Lâm Đồng",
+      "constituency": 2,
+      "area": "Lâm Hà; Đam Rông; Di Linh",
+      "name": "Lâm Văn Đoan",
+      "vote_percent": "77,48",
+      "note": "Trợ lý Trưởng ban Dân vận Trung ương Trương Thị Mai; 7.2021: Phó Chủ nhiệm Ủy ban Xã hội Quốc hội"
+    },
+    {
+      "province": "Lâm Đồng",
+      "constituency": 2,
+      "area": "Lâm Hà; Đam Rông; Di Linh",
+      "name": "K'Nhiễu",
+      "vote_percent": "71,21",
+      "note": "Phó Chánh Văn phòng Sở - Sở Khoa học và Công nghệ tỉnh Lâm Đồng"
+    },
+    {
+      "province": "Lâm Đồng",
+      "constituency": 3,
+      "area": "Bảo Lộc; Bảo Lâm; Đạ Huoai; Đạ Tẻh; Cát Tiên",
+      "name": "Nguyễn Văn Hiển",
+      "vote_percent": "85,73",
+      "note": "Viện trưởng Viện Nghiên cứu lập pháp"
+    },
+    {
+      "province": "Lâm Đồng",
+      "constituency": 3,
+      "area": "Bảo Lộc; Bảo Lâm; Đạ Huoai; Đạ Tẻh; Cát Tiên",
+      "name": "Trần Đình Văn",
+      "vote_percent": "80,55",
+      "note": "Thôi chức ngày 25 tháng 9 năm 2024"
+    },
+    {
+      "province": "Long An",
+      "constituency": 1,
+      "area": "Đức Huệ; Đức Hòa; Bến Lức; Tân Trụ",
+      "name": "Lê Tấn Tới",
+      "vote_percent": "69,87",
+      "note": "Thiếu tướng, Thứ trưởng Bộ Công an; 7.2021 - 12.2022: Thiếu tướng, Chủ nhiệm Ủy ban Quốc phòng và An ninh Quốc hội; 12.2022: Trung tướng, Chủ nhiệm Ủy ban Quốc phòng và An ninh Quốc hội"
+    },
+    {
+      "province": "Long An",
+      "constituency": 1,
+      "area": "Đức Huệ; Đức Hòa; Bến Lức; Tân Trụ",
+      "name": "Trần Quốc Quân",
+      "vote_percent": "67,70",
+      "note": "Trưởng ban Công tác Thanh niên Tỉnh đoàn Long An; 7.2021 - 3.2022: Phó Bí thư Tỉnh đoàn Long An; 3.2022: Phó Chủ tịch Hội Nông dân tỉnh Long An"
+    },
+    {
+      "province": "Long An",
+      "constituency": 1,
+      "area": "Đức Huệ; Đức Hòa; Bến Lức; Tân Trụ",
+      "name": "Phan Thị Mỹ Dung",
+      "vote_percent": "57,79",
+      "note": "Giám đốc Sở Tư pháp tỉnh Long An"
+    },
+    {
+      "province": "Long An",
+      "constituency": 2,
+      "area": "Tân An; Châu Thành; Cần Đước; Cần Giuộc",
+      "name": "Nguyễn Thanh Hải",
+      "vote_percent": "76,20",
+      "note": "Phó Bí thư Thường trực Tỉnh ủy Long An; 7.2021: Phó Bí thư Thường trực Tỉnh ủy Long An, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Long An",
+      "constituency": 2,
+      "area": "Tân An; Châu Thành; Cần Đước; Cần Giuộc",
+      "name": "Nguyễn Tuấn Anh",
+      "vote_percent": "67,30",
+      "note": "Ủy viên Thường trực Ủy ban Khoa học, Công nghệ và Môi trường Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Khoa học, Công nghệ và Môi trường Quốc hội"
+    },
+    {
+      "province": "Long An",
+      "constituency": 2,
+      "area": "Tân An; Châu Thành; Cần Đước; Cần Giuộc",
+      "name": "Nguyễn Hoàng Uyên",
+      "vote_percent": "53,13",
+      "note": "Phó Giám đốc Trung tâm Kiểm soát bệnh tật tỉnh Long An"
+    },
+    {
+      "province": "Long An",
+      "constituency": 3,
+      "area": "Kiến Tường; Thủ Thừa; Thạnh Hóa; Tân Thạnh; Mộc Hóa; Vĩnh Hưng; Tân Hưng",
+      "name": "Hoàng Văn Liên",
+      "vote_percent": "60,07",
+      "note": "Phó Chủ nhiệm Ủy ban Tư pháp Quốc hội"
+    },
+    {
+      "province": "Long An",
+      "constituency": 3,
+      "area": "Kiến Tường; Thủ Thừa; Thạnh Hóa; Tân Thạnh; Mộc Hóa; Vĩnh Hưng; Tân Hưng",
+      "name": "Lê Thị Song An",
+      "vote_percent": "53,93",
+      "note": "Phó Giám đốc Sở Giáo dục và Đào tạo tỉnh Long An; 10.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Long An"
+    },
+    {
+      "province": "Nam Định",
+      "constituency": 1,
+      "area": "Nam Định; Mỹ Lộc; Vụ Bản; Ý Yên",
+      "name": "Nguyễn Hải Dũng",
+      "vote_percent": "83,87",
+      "note": "Trưởng ban Pháp chế, HĐND tỉnh Nam Định; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Nam Định"
+    },
+    {
+      "province": "Nam Định",
+      "constituency": 1,
+      "area": "Nam Định; Mỹ Lộc; Vụ Bản; Ý Yên",
+      "name": "Lê Khánh Hải",
+      "vote_percent": "82,76",
+      "note": "Chủ nhiệm Văn phòng Chủ tịch nước"
+    },
+    {
+      "province": "Nam Định",
+      "constituency": 1,
+      "area": "Nam Định; Mỹ Lộc; Vụ Bản; Ý Yên",
+      "name": "Nguyễn Thị Thúy Ngọc",
+      "vote_percent": "59,15",
+      "note": "Chánh Văn phòng Hội Liên hiệp Phụ nữ tỉnh Nam Định"
+    },
+    {
+      "province": "Nam Định",
+      "constituency": 2,
+      "area": "Nam Trực; Nghĩa Hưng; Hải Hậu",
+      "name": "Lê Quốc Chỉnh",
+      "vote_percent": "87,99",
+      "note": "Phó Bí thư Thường trực Tỉnh ủy Nam Định, Chủ tịch HĐND tỉnh; 7.2021: Phó Bí thư Thường trực Tỉnh ủy Nam Định, Chủ tịch HĐND tỉnh, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Nam Định",
+      "constituency": 2,
+      "area": "Nam Trực; Nghĩa Hưng; Hải Hậu",
+      "name": "Mai Thị Phương Hoa",
+      "vote_percent": "82,96",
+      "note": "Ủy viên Thường trực Ủy ban Tư pháp Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Tư pháp Quốc hội"
+    },
+    {
+      "province": "Nam Định",
+      "constituency": 2,
+      "area": "Nam Trực; Nghĩa Hưng; Hải Hậu",
+      "name": "Khương Thị Mai",
+      "vote_percent": "72,66",
+      "note": "Giám đốc điều hành Công ty trách nhiệm hữu hạn Nhôm Nam Sung Việt Nam"
+    },
+    {
+      "province": "Nam Định",
+      "constituency": 3,
+      "area": "Xuân Trường; Giao Thủy; Trực Ninh",
+      "name": "Võ Văn Kim (Vũ Trọng Kim)",
+      "vote_percent": "76,50",
+      "note": "Chủ tịch Trung ương Hội Cựu Thanh niên xung phong"
+    },
+    {
+      "province": "Nam Định",
+      "constituency": 3,
+      "area": "Xuân Trường; Giao Thủy; Trực Ninh",
+      "name": "Trần Thị Quỳnh",
+      "vote_percent": "61,63",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "constituency": 1,
+      "area": "Kỳ Sơn; Tương Dương; Con Cuông; Anh Sơn; Đô Lương",
+      "name": "Hoàng Minh Hiếu",
+      "vote_percent": "91,25",
+      "note": "Vụ trưởng Vụ Thông tin, Văn phòng Quốc hội; 7.2021: Ủy viên Thường trực Ủy ban Pháp luật Quốc hội"
+    },
+    {
+      "province": "Nghệ An",
+      "constituency": 1,
+      "area": "Kỳ Sơn; Tương Dương; Con Cuông; Anh Sơn; Đô Lương",
+      "name": "Trần Nhật Minh",
+      "vote_percent": "87,61",
+      "note": "Phó Chánh Văn phòng phụ trách Văn phòng Đoàn ĐBQH tỉnh Nghệ An"
+    },
+    {
+      "province": "Nghệ An",
+      "constituency": 2,
+      "area": "Thái Hòa; Quế Phong; Quỳ Châu; Quỳ Hợp; Nghĩa Đàn; Tân Kỳ",
+      "name": "Vi Văn Sơn",
+      "vote_percent": "92,03",
+      "note": "Trưởng ban Dân tộc tỉnh Nghệ An"
+    },
+    {
+      "province": "Nghệ An",
+      "constituency": 2,
+      "area": "Thái Hòa; Quế Phong; Quỳ Châu; Quỳ Hợp; Nghĩa Đàn; Tân Kỳ",
+      "name": "Đặng Xuân Phương",
+      "vote_percent": "92,22",
+      "note": "Phó Trưởng ban Công tác Đại biểu Quốc hội; 7.2021 - 8.2023: Phó Chủ nhiệm Ủy ban Văn hóa, Giáo dục Quốc hội; 8.2023: Phó Bí thư Tỉnh ủy Quảng Ninh"
+    },
+    {
+      "province": "Nghệ An",
+      "constituency": 2,
+      "area": "Thái Hòa; Quế Phong; Quỳ Châu; Quỳ Hợp; Nghĩa Đàn; Tân Kỳ",
+      "name": "Trần Đức Thuận",
+      "vote_percent": "90,64",
+      "note": "Thiếu tướng, Phó Viện trưởng Viện Kiểm sát Quân sự Trung ương"
+    },
+    {
+      "province": "Nghệ An",
+      "constituency": 3,
+      "area": "Hoàng Mai; Yên Thành; Quỳnh Lưu",
+      "name": "Phạm Phú Bình",
+      "vote_percent": "86,67",
+      "note": "Vụ trưởng Vụ Hợp tác quốc tế, Bộ Tài nguyên và Môi trường; 7.2021: Ủy viên Thường trực Ủy ban Đối ngoại Quốc hội"
+    },
+    {
+      "province": "Nghệ An",
+      "constituency": 3,
+      "area": "Hoàng Mai; Yên Thành; Quỳnh Lưu",
+      "name": "Thái Thị An Chung",
+      "vote_percent": "82,93",
+      "note": "Chánh Văn phòng HĐND tỉnh Nghệ An; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Nghệ An"
+    },
+    {
+      "province": "Nghệ An",
+      "constituency": 3,
+      "area": "Hoàng Mai; Yên Thành; Quỳnh Lưu",
+      "name": "Hoàng Thị Thu Hiền",
+      "vote_percent": "79,48",
+      "note": "Phó Chủ tịch Thường trực Hội Liên hiệp Phụ nữ tỉnh Nghệ An"
+    },
+    {
+      "province": "Nghệ An",
+      "constituency": 4,
+      "area": "Vinh; Thanh Chương; Nam Đàn; Hưng Nguyên",
+      "name": "Thái Thanh Quý",
+      "vote_percent": "92,85",
+      "note": "Bí thư Tỉnh ủy Nghệ An, Chủ tịch HĐND tỉnh; 7.2021 - 10.2024: Bí thư Tỉnh ủy Nghệ An, Chủ tịch HĐND tỉnh, Trưởng đoàn ĐBQH tỉnh; 10.2024: Phó Trưởng ban thường trực Ban Kinh tế Trung ương"
+    },
+    {
+      "province": "Nghệ An",
+      "constituency": 4,
+      "area": "Vinh; Thanh Chương; Nam Đàn; Hưng Nguyên",
+      "name": "Đỗ Văn Chiến",
+      "vote_percent": "86,90",
+      "note": "Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam"
+    },
+    {
+      "province": "Nghệ An",
+      "constituency": 4,
+      "area": "Vinh; Thanh Chương; Nam Đàn; Hưng Nguyên",
+      "name": "Thái Văn Thành",
+      "vote_percent": "83,59",
+      "note": "Giáo sư, Giám đốc Sở Giáo dục và Đào tạo tỉnh Nghệ An"
+    },
+    {
+      "province": "Nghệ An",
+      "constituency": 5,
+      "area": "Cửa Lò; Diễn Châu; Nghi Lộc",
+      "name": "Nguyễn Vân Chi",
+      "vote_percent": "91,77",
+      "note": "Ủy viên Thường trực Ủy ban Tài chính – Ngân sách Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Tài chính – Ngân sách Quốc hội"
+    },
+    {
+      "province": "Nghệ An",
+      "constituency": 5,
+      "area": "Cửa Lò; Diễn Châu; Nghi Lộc",
+      "name": "Võ Thị Minh Sinh",
+      "vote_percent": 89,
+      "note": "Chủ tịch Mặt trận Tổ quốc tỉnh Nghệ An"
+    },
+    {
+      "province": "Ninh Bình",
+      "constituency": 1,
+      "area": "Ninh Bình; Nho Quan; Gia Viễn; Hoa Lư",
+      "name": "Nguyễn Thị Thu Hà",
+      "vote_percent": "98,38",
+      "note": "Bí thư Tỉnh ủy Ninh Bình, Trưởng đoàn ĐBQH tỉnh; 7.2023: Phó Chủ tịch, Tổng Thư ký Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam"
+    },
+    {
+      "province": "Ninh Bình",
+      "constituency": 1,
+      "area": "Ninh Bình; Nho Quan; Gia Viễn; Hoa Lư",
+      "name": "Nguyễn Thành Công",
+      "vote_percent": "91,75",
+      "note": "Phó Giám đốc Sở Công thương tỉnh Ninh Bình; 7.2021: Ủy viên chuyên trách Ủy ban Kinh tế Quốc hội"
+    },
+    {
+      "province": "Ninh Bình",
+      "constituency": 1,
+      "area": "Ninh Bình; Nho Quan; Gia Viễn; Hoa Lư",
+      "name": "Mai Khanh",
+      "vote_percent": "90,28",
+      "note": "Chánh án Tòa án nhân dân tỉnh Ninh Bình; 8.2023: Bí thư Huyện ủy Kim Sơn"
+    },
+    {
+      "province": "Ninh Bình",
+      "constituency": 2,
+      "area": "Tam Điệp; Kim Sơn; Yên Khánh; Yên Mô",
+      "name": "Nguyễn Thị Thanh",
+      "vote_percent": "97,39",
+      "note": "Trưởng ban Công tác Đại biểu Quốc hội; Phó Trưởng ban Tổ chức Trung ương; 6.2024: Phó Chủ tịch Quốc hội"
+    },
+    {
+      "province": "Ninh Bình",
+      "constituency": 2,
+      "area": "Tam Điệp; Kim Sơn; Yên Khánh; Yên Mô",
+      "name": "Đinh Việt Dũng",
+      "vote_percent": "95,50",
+      "note": "Bí thư Huyện ủy Kim Sơn; 5.2023 - 10.2023: Chủ nhiệm Ủy ban Kiểm tra Tỉnh ủy Ninh Bình; 10.2023: Chủ nhiệm Ủy ban Kiểm tra Tỉnh ủy Ninh Bình, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Ninh Bình",
+      "constituency": 2,
+      "area": "Tam Điệp; Kim Sơn; Yên Khánh; Yên Mô",
+      "name": "Trần Thị Hồng Thanh",
+      "vote_percent": "92,58",
+      "note": "Phó Bí thư Thường trực Thành ủy, Chủ tịch HĐND Tam Điệp; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Ninh Bình"
+    },
+    {
+      "province": "Ninh Thuận",
+      "constituency": 1,
+      "area": "Phan Rang - Tháp Chàm; Ninh Hải; Thuận Bắc",
+      "name": "Trần Quốc Nam",
+      "vote_percent": "88,15",
+      "note": "Thôi chức ngày 22 tháng 9 năm 2025"
+    },
+    {
+      "province": "Ninh Thuận",
+      "constituency": 1,
+      "area": "Phan Rang - Tháp Chàm; Ninh Hải; Thuận Bắc",
+      "name": "Nguyễn Đình Khang",
+      "vote_percent": "84,48",
+      "note": "Chủ tịch Tổng Liên đoàn Lao động"
+    },
+    {
+      "province": "Ninh Thuận",
+      "constituency": 1,
+      "area": "Phan Rang - Tháp Chàm; Ninh Hải; Thuận Bắc",
+      "name": "Chamaléa Thị Thủy",
+      "vote_percent": "70,06",
+      "note": "Trưởng ban Dân vận Tỉnh ủy Ninh Thuận"
+    },
+    {
+      "province": "Ninh Thuận",
+      "constituency": 2,
+      "area": "Bác Ái; Ninh Sơn; Thuận Nam; Ninh Phước",
+      "name": "Phan Xuân Dũng",
+      "vote_percent": "79,36",
+      "note": "Chủ tịch Ủy ban Toàn quốc Liên hiệp các Hội Khoa học và Kỹ thuật Việt Nam"
+    },
+    {
+      "province": "Ninh Thuận",
+      "constituency": 2,
+      "area": "Bác Ái; Ninh Sơn; Thuận Nam; Ninh Phước",
+      "name": "Đàng Thị Mỹ Hương",
+      "vote_percent": "77,72",
+      "note": "Trưởng ban Văn hóa Xã hội, HĐND tỉnh Ninh Thuận; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Ninh Thuận"
+    },
+    {
+      "province": "Ninh Thuận",
+      "constituency": 2,
+      "area": "Bác Ái; Ninh Sơn; Thuận Nam; Ninh Phước",
+      "name": "Nguyễn Văn Thuận",
+      "vote_percent": "74,20",
+      "note": "Đại tá, Chủ tịch Hội Cựu chiến binh tỉnh Ninh Thuận"
+    },
+    {
+      "province": "Phú Thọ",
+      "constituency": 1,
+      "area": "Việt Trì; Tam Nông; Tân Sơn; Thanh Sơn; Thanh Thủy; Yên Lập",
+      "name": "Nguyễn Thúy Anh",
+      "vote_percent": "88,83",
+      "note": "Chủ nhiệm Ủy ban Về các vấn đề xã hội Quốc hội"
+    },
+    {
+      "province": "Phú Thọ",
+      "constituency": 1,
+      "area": "Việt Trì; Tam Nông; Tân Sơn; Thanh Sơn; Thanh Thủy; Yên Lập",
+      "name": "Cầm Hà Chung",
+      "vote_percent": "86,59",
+      "note": "Phó Chủ tịch Mặt trận Tổ quốc tỉnh Phú Thọ; 12.2022: Trưởng ban Dân tộc tỉnh Phú Thọ"
+    },
+    {
+      "province": "Phú Thọ",
+      "constituency": 1,
+      "area": "Việt Trì; Tam Nông; Tân Sơn; Thanh Sơn; Thanh Thủy; Yên Lập",
+      "name": "Hà Ánh Phượng",
+      "vote_percent": "78,40",
+      "note": ""
+    },
+    {
+      "province": "Phú Thọ",
+      "constituency": 2,
+      "area": "Phú Thọ; Phù Ninh; Lâm Thao; Đoan Hùng",
+      "name": "Nguyễn Đăng Khải",
+      "vote_percent": "84,26",
+      "note": "Thiếu tướng, Phó Tư lệnh, Tham mưu trưởng Quân khu 2"
+    },
+    {
+      "province": "Phú Thọ",
+      "constituency": 2,
+      "area": "Phú Thọ; Phù Ninh; Lâm Thao; Đoan Hùng",
+      "name": "Nguyễn Thành Nam",
+      "vote_percent": "80,75",
+      "note": "Chủ tịch Liên minh Hợp tác xã tỉnh Phú Thọ; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Phú Thọ"
+    },
+    {
+      "province": "Phú Thọ",
+      "constituency": 3,
+      "area": "Thanh Ba; Hạ Hòa; Cẩm Khê",
+      "name": "Bùi Minh Châu",
+      "vote_percent": "94,70",
+      "note": "Bí thư Tỉnh ủy Phú Thọ, Chủ tịch HĐND tỉnh; 7.2021: Bí thư Tỉnh ủy Phú Thọ, Chủ tịch HĐND tỉnh, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Phú Thọ",
+      "constituency": 3,
+      "area": "Thanh Ba; Hạ Hòa; Cẩm Khê",
+      "name": "Vũ Tuấn Anh",
+      "vote_percent": "86,89",
+      "note": "Vụ trưởng Vụ Tài chính - Ngân sách, Văn phòng Quốc hội; 7.2021: Ủy viên Thường trực Ủy ban Tài chính – Ngân sách Quốc hội"
+    },
+    {
+      "province": "Phú Yên",
+      "constituency": 1,
+      "area": "Đông Hòa; Phú Hòa; Tây Hòa; Sơn Hòa; Sông Hinh",
+      "name": "Phạm Đại Dương",
+      "vote_percent": "84,05",
+      "note": "Bí thư Tỉnh ủy Phú Yên; 7.2021: Bí thư Tỉnh ủy Phú Yên, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Phú Yên",
+      "constituency": 1,
+      "area": "Đông Hòa; Phú Hòa; Tây Hòa; Sơn Hòa; Sông Hinh",
+      "name": "Đỗ Chí Nghĩa",
+      "vote_percent": "68,30",
+      "note": "Tổng biên tập Báo Đại biểu Nhân dân; 7.2021: Ủy viên Thường trực Ủy ban Văn hóa, Giáo dục Quốc hội"
+    },
+    {
+      "province": "Phú Yên",
+      "constituency": 1,
+      "area": "Đông Hòa; Phú Hòa; Tây Hòa; Sơn Hòa; Sông Hinh",
+      "name": "Dương Bình Phú",
+      "vote_percent": "51,90",
+      "note": "Giám đốc Sở Khoa học và Công nghệ tỉnh Phú Yên"
+    },
+    {
+      "province": "Phú Yên",
+      "constituency": 2,
+      "area": "Tuy Hòa; Sông Cầu; Đồng Xuân; Tuy An",
+      "name": "Lê Quang Đạo",
+      "vote_percent": "73,91",
+      "note": "Thiếu tướng, Phó Tư lệnh, Tham mưu trưởng Bộ đội Biên phòng; 10.2021: Trung tướng, Tư lệnh Cảnh sát biển"
+    },
+    {
+      "province": "Phú Yên",
+      "constituency": 2,
+      "area": "Tuy Hòa; Sông Cầu; Đồng Xuân; Tuy An",
+      "name": "Lê Văn Thìn",
+      "vote_percent": "62,43",
+      "note": "Giám đốc Sở Tư pháp tỉnh Phú Yên; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Phú Yên"
+    },
+    {
+      "province": "Phú Yên",
+      "constituency": 2,
+      "area": "Tuy Hòa; Sông Cầu; Đồng Xuân; Tuy An",
+      "name": "Lê Đào An Xuân",
+      "vote_percent": "56,27",
+      "note": "Chủ tịch Hội Liên hiệp Phụ nữ tỉnh Phú Yên"
+    },
+    {
+      "province": "Quảng Bình",
+      "constituency": 1,
+      "area": "Ba Đồn; Minh Hóa; Tuyên Hóa; Quảng Trạch; Quảng Ninh",
+      "name": "Trần Quang Minh",
+      "vote_percent": "89,75",
+      "note": "Phó Chủ tịch Mặt trận Tổ quốc tỉnh Quảng Bình"
+    },
+    {
+      "province": "Quảng Bình",
+      "constituency": 1,
+      "area": "Ba Đồn; Minh Hóa; Tuyên Hóa; Quảng Trạch; Quảng Ninh",
+      "name": "Nguyễn Tiến Nam",
+      "vote_percent": "89,55",
+      "note": "Đại tá, Giám đốc Công an tỉnh Quảng Bình; 6.2022: Thiếu tướng, Viện trưởng Viện Khoa học hình sự, Bộ Công an"
+    },
+    {
+      "province": "Quảng Bình",
+      "constituency": 1,
+      "area": "Ba Đồn; Minh Hóa; Tuyên Hóa; Quảng Trạch; Quảng Ninh",
+      "name": "Nguyễn Thị Tuyết Nga",
+      "vote_percent": "85,02",
+      "note": "Phó Vụ trưởng Vụ Văn hóa Giáo dục, Thanh niên, Thiếu niên và Nhi đồng, Văn phòng Quốc hội; 7.2021: Ủy viên chuyên trách Ủy ban Văn hóa, Giáo dục Quốc hội"
+    },
+    {
+      "province": "Quảng Bình",
+      "constituency": 2,
+      "area": "Đồng Hới; Lệ Thủy; Bố Trạch",
+      "name": "Vũ Đại Thắng",
+      "vote_percent": "91,99",
+      "note": "Bí thư Tỉnh ủy Quảng Bình; 7.2021 - 10.2024: Bí thư Tỉnh ủy Quảng Bình, Trưởng đoàn ĐBQH tỉnh; 10.2024: Bí thư Tỉnh uỷ Quảng Ninh"
+    },
+    {
+      "province": "Quảng Bình",
+      "constituency": 2,
+      "area": "Đồng Hới; Lệ Thủy; Bố Trạch",
+      "name": "Nguyễn Mạnh Cường",
+      "vote_percent": "91,82",
+      "note": "Phó Chủ nhiệm Ủy ban Tư pháp Quốc hội"
+    },
+    {
+      "province": "Quảng Bình",
+      "constituency": 2,
+      "area": "Đồng Hới; Lệ Thủy; Bố Trạch",
+      "name": "Nguyễn Minh Tâm",
+      "vote_percent": "83,03",
+      "note": "Chủ tịch Hội Liên hiệp Phụ nữ tỉnh Quảng Bình; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Quảng Bình"
+    },
+    {
+      "province": "Quảng Nam",
+      "constituency": 1,
+      "area": "Điện Bàn; Đại Lộc; Đông Giang; Tây Giang; Nam Giang; Phước Sơn",
+      "name": "Vương Quốc Thắng",
+      "vote_percent": "70,35",
+      "note": "Giám đốc Trung tâm Chuyển giao tri thức và hỗ trợ khởi nghiệp, Đại học Quốc gia Hà Nội; 7.2021: Ủy viên chuyên trách Ủy ban Khoa học, Công nghệ và Môi trường Quốc hội"
+    },
+    {
+      "province": "Quảng Nam",
+      "constituency": 1,
+      "area": "Điện Bàn; Đại Lộc; Đông Giang; Tây Giang; Nam Giang; Phước Sơn",
+      "name": "Đặng Thị Bảo Trinh",
+      "vote_percent": "66,26",
+      "note": "Bí thư Thị đoàn Điện Bàn"
+    },
+    {
+      "province": "Quảng Nam",
+      "constituency": 2,
+      "area": "Hội An; Duy Xuyên; Quế Sơn; Nông Sơn; Thăng Bình; Hiệp Đức",
+      "name": "Lê Văn Dũng",
+      "vote_percent": "86,18",
+      "note": "Phó Bí thư Thường trực Tỉnh ủy Quảng Nam; 7.2021 - 7.2024: Phó Bí thư Thường trực Tỉnh ủy Quảng Nam, Trưởng đoàn ĐBQH tỉnh; 6.2024: Chủ tịch Ủy ban Nhân dân tỉnh Quảng Nam, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Quảng Nam",
+      "constituency": 2,
+      "area": "Hội An; Duy Xuyên; Quế Sơn; Nông Sơn; Thăng Bình; Hiệp Đức",
+      "name": "Dương Văn Phước",
+      "vote_percent": "77,21",
+      "note": "Chánh Văn phòng Đoàn ĐBQH tỉnh Quảng Nam; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Quảng Nam"
+    },
+    {
+      "province": "Quảng Nam",
+      "constituency": 2,
+      "area": "Hội An; Duy Xuyên; Quế Sơn; Nông Sơn; Thăng Bình; Hiệp Đức",
+      "name": "Tạ Văn Hạ",
+      "vote_percent": "71,85",
+      "note": "Ủy viên Thường trực Ủy ban Văn hóa, Giáo dục, Thanh thiếu niên và Nhi đồng Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Văn hóa, Giáo dục Quốc hội"
+    },
+    {
+      "province": "Quảng Nam",
+      "constituency": 3,
+      "area": "Tam Kỳ; Núi Thành; Tiên Phước; Nam Trà My; Bắc Trà My; Phú Ninh",
+      "name": "Nguyễn Đức Hải",
+      "vote_percent": "80,97",
+      "note": "Phó Chủ tịch Quốc hội, Chủ nhiệm Ủy ban Tài chính – Ngân sách Quốc hội; 7.2021: Phó Chủ tịch Quốc hội"
+    },
+    {
+      "province": "Quảng Nam",
+      "constituency": 3,
+      "area": "Tam Kỳ; Núi Thành; Tiên Phước; Nam Trà My; Bắc Trà My; Phú Ninh",
+      "name": "Phan Thái Bình",
+      "vote_percent": "73,86",
+      "note": "Chủ nhiệm Ủy ban Kiểm tra Tỉnh ủy Quảng Nam; 6.2024: Phó Chủ tịch Thường trực Ủy ban nhân dân tỉnh Quảng Nam"
+    },
+    {
+      "province": "Quảng Ninh",
+      "constituency": 1,
+      "area": "Hạ Long; Cẩm Phả",
+      "name": "Vũ Hồng Thanh",
+      "vote_percent": "93,36",
+      "note": "Chủ nhiệm Ủy ban Kinh tế Quốc hội"
+    },
+    {
+      "province": "Quảng Ninh",
+      "constituency": 1,
+      "area": "Hạ Long; Cẩm Phả",
+      "name": "Nguyễn Xuân Thắng",
+      "vote_percent": "93,11",
+      "note": "Chủ tịch Hội đồng Lý luận Trung ương; Giám đốc Học viện Chính trị Quốc gia Hồ Chí Minh"
+    },
+    {
+      "province": "Quảng Ninh",
+      "constituency": 1,
+      "area": "Hạ Long; Cẩm Phả",
+      "name": "Lê Minh Chuẩn",
+      "vote_percent": "89,35",
+      "note": "Thôi chức ngày 5 tháng 1 năm 2023"
+    },
+    {
+      "province": "Quảng Ninh",
+      "constituency": 2,
+      "area": "Uông Bí; Đông Triều; Quảng Yên",
+      "name": "Ngô Hoàng Ngân",
+      "vote_percent": "93,50",
+      "note": "Phó Bí thư Thường trực Tỉnh ủy Quảng Ninh; 7.2021 - 4.2023: Phó Bí thư Thường trực Tỉnh ủy Quảng Ninh, Trưởng đoàn ĐBQH tỉnh; 4.2023: Chủ tịch HĐTV Tập đoàn Công nghiệp Than – Khoáng sản Việt Nam"
+    },
+    {
+      "province": "Quảng Ninh",
+      "constituency": 2,
+      "area": "Uông Bí; Đông Triều; Quảng Yên",
+      "name": "Đỗ Thị Lan",
+      "vote_percent": "88,46",
+      "note": "Ủy viên Thường trực Ủy ban Về các vấn đề xã hội Quốc hội; 7.2021: Phó Chủ nhiệm Ủy ban Xã hội Quốc hội"
+    },
+    {
+      "province": "Quảng Ninh",
+      "constituency": 2,
+      "area": "Uông Bí; Đông Triều; Quảng Yên",
+      "name": "Lương Công Quyết; (Hòa thượng Thích Thanh Quyết)",
+      "vote_percent": "87,82",
+      "note": "Phó Chủ tịch Hội đồng Trị sự Giáo hội Phật giáo Việt Nam; Trưởng ban Giáo dục Phật giáo Trung ương Giáo hội Phật giáo Việt Nam; Viện trưởng Học viện Phật giáo Việt Nam tại Hà Nội; Trưởng ban Trị sự Giáo hội Phật giáo tỉnh Quảng Ninh"
+    },
+    {
+      "province": "Quảng Ninh",
+      "constituency": 3,
+      "area": "Móng Cái; Vân Đồn; Cô Tô; Tiên Yên; Đầm Hà; Hải Hà; Bình Liêu; Ba Chẽ",
+      "name": "Nguyễn Thị Thu Hà",
+      "vote_percent": "85,19",
+      "note": "Bí thư Huyện ủy Đầm Hà; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Quảng Ninh"
+    },
+    {
+      "province": "Quảng Ninh",
+      "constituency": 3,
+      "area": "Móng Cái; Vân Đồn; Cô Tô; Tiên Yên; Đầm Hà; Hải Hà; Bình Liêu; Ba Chẽ",
+      "name": "Trần Thị Kim Nhung",
+      "vote_percent": "82,04",
+      "note": "Vụ trưởng Vụ Thông tin, Văn phòng Quốc hội; 7.2021: Ủy viên Thường trực Ủy ban Pháp luật Quốc hội"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "constituency": 1,
+      "area": "Bình Sơn; Sơn Tịnh; Trà Bồng; Sơn Tây; Sơn Hà",
+      "name": "Đặng Ngọc Huy",
+      "vote_percent": "79,71",
+      "note": "Phó Bí thư Thường trực Tỉnh ủy Quảng Ngãi; 7.2021: Phó Bí thư Thường trực Tỉnh ủy Quảng Ngãi, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "constituency": 1,
+      "area": "Bình Sơn; Sơn Tịnh; Trà Bồng; Sơn Tây; Sơn Hà",
+      "name": "Trần Thị Hồng An",
+      "vote_percent": "70,94",
+      "note": "Phó Chủ tịch Trung ương Hội Chữ thập đỏ Việt Nam; 7.2021: Ủy viên Thường trực Ủy ban Đối ngoại Quốc hội"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "constituency": 2,
+      "area": "Quảng Ngãi; Tư Nghĩa; Nghĩa Hành; Lý Sơn",
+      "name": "Đinh Thị Phương Lan",
+      "vote_percent": "78,27",
+      "note": "Ủy viên Thường trực Hội đồng Dân tộc Quốc hội; 7.2021: Phó Chủ tịch Hội đồng Dân tộc Quốc hội"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "constituency": 2,
+      "area": "Quảng Ngãi; Tư Nghĩa; Nghĩa Hành; Lý Sơn",
+      "name": "Lương Văn Hùng",
+      "vote_percent": "77,83",
+      "note": "Phó Chánh án Tòa án nhân dân tỉnh Quảng Ngãi"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "constituency": 2,
+      "area": "Quảng Ngãi; Tư Nghĩa; Nghĩa Hành; Lý Sơn",
+      "name": "Vũ Thị Liên Hương",
+      "vote_percent": "74,65",
+      "note": "Hiệu trưởng Trường THPT Chuyên Lê Khiết, tỉnh Quảng Ngãi"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "constituency": 3,
+      "area": "Đức Phổ; Mộ Đức; Ba Tơ; Minh Long",
+      "name": "Trần Quang Phương",
+      "vote_percent": "85,22",
+      "note": "Thượng tướng, Phó Chủ nhiệm Tổng cục Chính trị; 7.2021: Thượng tướng, Phó Chủ tịch Quốc hội"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "constituency": 3,
+      "area": "Đức Phổ; Mộ Đức; Ba Tơ; Minh Long",
+      "name": "Huỳnh Thị Ánh Sương",
+      "vote_percent": "78,22",
+      "note": "Bí thư Huyện ủy Minh Long; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Quảng Ngãi"
+    },
+    {
+      "province": "Quảng Trị",
+      "constituency": 1,
+      "area": "Vĩnh Linh; Gio Linh; Đakrông; Hướng Hóa; Cồn Cỏ",
+      "name": "Nguyễn Chí Dũng",
+      "vote_percent": "86,88",
+      "note": "Bộ trưởng Bộ Kế hoạch và Đầu tư"
+    },
+    {
+      "province": "Quảng Trị",
+      "constituency": 1,
+      "area": "Vĩnh Linh; Gio Linh; Đakrông; Hướng Hóa; Cồn Cỏ",
+      "name": "Hoàng Đức Thắng",
+      "vote_percent": "80,60",
+      "note": "Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Quảng Trị"
+    },
+    {
+      "province": "Quảng Trị",
+      "constituency": 1,
+      "area": "Vĩnh Linh; Gio Linh; Đakrông; Hướng Hóa; Cồn Cỏ",
+      "name": "Hồ Thị Minh",
+      "vote_percent": "71,48",
+      "note": "Phó Trưởng ban Dân tộc tỉnh Quảng Trị"
+    },
+    {
+      "province": "Quảng Trị",
+      "constituency": 2,
+      "area": "Đông Hà; Quảng Trị; Triệu Phong; Cam Lộ; Hải Lăng",
+      "name": "Hà Sỹ Đồng",
+      "vote_percent": "80,97",
+      "note": "Phó Chủ tịch Thường trực Ủy ban nhân dân tỉnh Quảng Trị"
+    },
+    {
+      "province": "Quảng Trị",
+      "constituency": 2,
+      "area": "Đông Hà; Quảng Trị; Triệu Phong; Cam Lộ; Hải Lăng",
+      "name": "Nguyễn Hữu Đàn",
+      "vote_percent": "79,15",
+      "note": "Đại tá, Chỉ huy trưởng Bộ Chỉ huy quân sự tỉnh Quảng Trị"
+    },
+    {
+      "province": "Quảng Trị",
+      "constituency": 2,
+      "area": "Đông Hà; Quảng Trị; Triệu Phong; Cam Lộ; Hải Lăng",
+      "name": "Lê Quang Tùng",
+      "vote_percent": "78,02",
+      "note": "Bí thư Tỉnh ủy Quảng Trị; 7.2021 - 11.2024: Bí thư Tỉnh ủy Quảng Trị, Trưởng đoàn ĐBQH tỉnh; 11.2024: Tổng Thư ký Quốc hội, Chủ nhiệm Văn phòng Quốc hội"
+    },
+    {
+      "province": "Sóc Trăng",
+      "constituency": 1,
+      "area": "Sóc Trăng; Châu Thành; Kế Sách; Long Phú; Cù Lao Dung",
+      "name": "Lâm Văn Mẫn",
+      "vote_percent": "87,76",
+      "note": "Bí thư Tỉnh ủy Sóc Trăng; 7.2021: Bí thư Tỉnh ủy Sóc Trăng, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Sóc Trăng",
+      "constituency": 1,
+      "area": "Sóc Trăng; Châu Thành; Kế Sách; Long Phú; Cù Lao Dung",
+      "name": "Hoàng Thanh Tùng",
+      "vote_percent": "73,69",
+      "note": "Chủ nhiệm Ủy ban Pháp luật Quốc hội"
+    },
+    {
+      "province": "Sóc Trăng",
+      "constituency": 1,
+      "area": "Sóc Trăng; Châu Thành; Kế Sách; Long Phú; Cù Lao Dung",
+      "name": "Phạm Thị Minh Huệ",
+      "vote_percent": "51,53",
+      "note": "Phó Giám đốc Sở Tư pháp tỉnh Sóc Trăng"
+    },
+    {
+      "province": "Sóc Trăng",
+      "constituency": 2,
+      "area": "Ngã Năm; Mỹ Tú; Thạnh Trị",
+      "name": "Nguyễn Xuân Dắt",
+      "vote_percent": "78,24",
+      "note": "Trung tướng, Tư lệnh Quân khu 9"
+    },
+    {
+      "province": "Sóc Trăng",
+      "constituency": 2,
+      "area": "Ngã Năm; Mỹ Tú; Thạnh Trị",
+      "name": "Tô Ái Vang",
+      "vote_percent": "70,24",
+      "note": "Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Sóc Trăng"
+    },
+    {
+      "province": "Sóc Trăng",
+      "constituency": 3,
+      "area": "Vĩnh Châu; Mỹ Xuyên; Trần Đề",
+      "name": "Lý Đức; (Thượng tọa Lý Minh Đức)",
+      "vote_percent": "72,74",
+      "note": "Trụ trì Chùa Som Rong"
+    },
+    {
+      "province": "Sóc Trăng",
+      "constituency": 3,
+      "area": "Vĩnh Châu; Mỹ Xuyên; Trần Đề",
+      "name": "Triệu Thị Ngọc Diễm",
+      "vote_percent": "69,50",
+      "note": "Phó Chủ tịch Ủy ban nhân dân thị xã Vĩnh Châu; 7.2021: Bí thư Tỉnh đoàn Sóc Trăng"
+    },
+    {
+      "province": "Sơn La",
+      "constituency": 1,
+      "area": "Sơn La; Thuận Châu; Mai Sơn; Yên Châu",
+      "name": "Nguyễn Hữu Đông",
+      "vote_percent": "90,33",
+      "note": "Bí thư Tỉnh ủy Sơn La; 7.2021 - 6.2024: Bí thư Tỉnh ủy Sơn La, Trưởng đoàn ĐBQH tỉnh; 6.2024: Phó Trưởng ban Nội chính Trung ương"
+    },
+    {
+      "province": "Sơn La",
+      "constituency": 1,
+      "area": "Sơn La; Thuận Châu; Mai Sơn; Yên Châu",
+      "name": "Hoàng Thị Đôi",
+      "vote_percent": "85,60",
+      "note": "Chủ tịch Hội Liên hiệp Phụ nữ tỉnh Sơn La; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Sơn La"
+    },
+    {
+      "province": "Sơn La",
+      "constituency": 1,
+      "area": "Sơn La; Thuận Châu; Mai Sơn; Yên Châu",
+      "name": "Lò Việt Phương",
+      "vote_percent": "81,60",
+      "note": "Vụ trưởng Vụ Dân nguyện, Văn phòng Quốc hội; 7.2021: Phó Trưởng ban Dân nguyện Quốc hội"
+    },
+    {
+      "province": "Sơn La",
+      "constituency": 2,
+      "area": "Mường La; Sông Mã; Sốp Cộp; Quỳnh Nhai",
+      "name": "Quàng Văn Hương",
+      "vote_percent": "82,58",
+      "note": "Phó Chủ tịch Hội đồng Dân tộc Quốc hội"
+    },
+    {
+      "province": "Sơn La",
+      "constituency": 2,
+      "area": "Mường La; Sông Mã; Sốp Cộp; Quỳnh Nhai",
+      "name": "Chá A Của",
+      "vote_percent": "81,65",
+      "note": "Phó Chủ tịch Thường trực Hội đồng nhân dân tỉnh Sơn La"
+    },
+    {
+      "province": "Sơn La",
+      "constituency": 3,
+      "area": "Mộc Châu; Vân Hồ; Phù Yên; Bắc Yên",
+      "name": "Đinh Công Sỹ",
+      "vote_percent": "87,32",
+      "note": "Ủy viên Thường trực Ủy ban Đối ngoại Quốc hội; 7.2021 - 9.2022: Phó Chủ nhiệm Ủy ban Đối ngoại Quốc hội; 9.2022: Phó Chủ nhiệm Ủy ban Văn hóa, Giáo dục Quốc hội"
+    },
+    {
+      "province": "Sơn La",
+      "constituency": 3,
+      "area": "Mộc Châu; Vân Hồ; Phù Yên; Bắc Yên",
+      "name": "Vi Đức Thọ",
+      "vote_percent": "83,56",
+      "note": "Chủ tịch Mặt trận Tổ quốc tỉnh Sơn La"
+    },
+    {
+      "province": "Tây Ninh",
+      "constituency": 1,
+      "area": "Trảng Bàng; Bến Cầu; Gò Dầu; Châu Thành",
+      "name": "Phạm Hùng Thái",
+      "vote_percent": "73,39",
+      "note": "Phó Bí thư Thường trực Tỉnh ủy Tây Ninh; 7.2021: Phó Bí thư Thường trực Tỉnh ủy Tây Ninh, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Tây Ninh",
+      "constituency": 1,
+      "area": "Trảng Bàng; Bến Cầu; Gò Dầu; Châu Thành",
+      "name": "Nguyễn Trọng Nghĩa",
+      "vote_percent": "71,63",
+      "note": "Thượng tướng, Trưởng ban Tuyên giáo Trung ương"
+    },
+    {
+      "province": "Tây Ninh",
+      "constituency": 1,
+      "area": "Trảng Bàng; Bến Cầu; Gò Dầu; Châu Thành",
+      "name": "Hoàng Thị Thanh Thúy",
+      "vote_percent": "63,25",
+      "note": "Bí thư Tỉnh đoàn Tây Ninh; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Tây Ninh"
+    },
+    {
+      "province": "Tây Ninh",
+      "constituency": 2,
+      "area": "Tây Ninh; Hòa Thành; Tân Biên; Tân Châu; Dương Minh Châu",
+      "name": "Huỳnh Thanh Phương",
+      "vote_percent": "70,84",
+      "note": "Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Tây Ninh; 7.2021: Bí thư Huyện ủy Gò Dầu"
+    },
+    {
+      "province": "Tây Ninh",
+      "constituency": 2,
+      "area": "Tây Ninh; Hòa Thành; Tân Biên; Tân Châu; Dương Minh Châu",
+      "name": "Nguyễn Mạnh Tiến",
+      "vote_percent": "66,19",
+      "note": "Phó Chủ nhiệm Ủy ban Đối ngoại Quốc hội"
+    },
+    {
+      "province": "Tây Ninh",
+      "constituency": 2,
+      "area": "Tây Ninh; Hòa Thành; Tân Biên; Tân Châu; Dương Minh Châu",
+      "name": "Trần Hữu Hậu",
+      "vote_percent": "56,17",
+      "note": "Phó Tổng Thư ký Hiệp hội Điều Việt Nam"
+    },
+    {
+      "province": "Thái Bình",
+      "constituency": 1,
+      "area": "Vũ Thư; Hưng Hà; Quỳnh Phụ",
+      "name": "Nguyễn Khắc Định",
+      "vote_percent": "86,23",
+      "note": "Phó Chủ tịch Quốc hội"
+    },
+    {
+      "province": "Thái Bình",
+      "constituency": 1,
+      "area": "Vũ Thư; Hưng Hà; Quỳnh Phụ",
+      "name": "Nguyễn Văn Huy",
+      "vote_percent": "82,42",
+      "note": "Bí thư Huyện ủy Hưng Hà; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Thái Bình"
+    },
+    {
+      "province": "Thái Bình",
+      "constituency": 1,
+      "area": "Vũ Thư; Hưng Hà; Quỳnh Phụ",
+      "name": "Trần Khánh Thu",
+      "vote_percent": "50,02",
+      "note": ""
+    },
+    {
+      "province": "Thái Bình",
+      "constituency": 2,
+      "area": "Đông Hưng; Thái Thụy",
+      "name": "Nguyễn Văn An; (Nguyễn Minh An)",
+      "vote_percent": "86,26",
+      "note": "Phó Tổng Giám đốc Truyền hình Quốc hội; 7.2021: Ủy viên Thường trực Ủy ban Khoa học, Công nghệ và Môi trường Quốc hội"
+    },
+    {
+      "province": "Thái Bình",
+      "constituency": 2,
+      "area": "Đông Hưng; Thái Thụy",
+      "name": "Nguyễn Thị Thu Dung",
+      "vote_percent": "75,90",
+      "note": "Hiệu trưởng Trường Cao đẳng Y tế Thái Bình"
+    },
+    {
+      "province": "Thái Bình",
+      "constituency": 2,
+      "area": "Đông Hưng; Thái Thụy",
+      "name": "Phan Đức Hiếu",
+      "vote_percent": "70,61",
+      "note": "Phó Viện trưởng Viện Nghiên cứu Quản lý kinh tế Trung ương, Bộ Kế hoạch và Đầu tư; 7.2021: Ủy viên Thường trực Ủy ban Kinh tế Quốc hội"
+    },
+    {
+      "province": "Thái Bình",
+      "constituency": 3,
+      "area": "Thái Bình; Tiền Hải; Kiến Xương",
+      "name": "Ngô Đông Hải",
+      "vote_percent": "90,17",
+      "note": "Bí thư Tỉnh ủy Thái Bình; 7.2021 - 11.2024: Bí thư Tỉnh ủy Thái Bình, Trưởng đoàn ĐBQH tỉnh; 11.2024: Phó Trưởng ban Tuyên giáo Trung ương"
+    },
+    {
+      "province": "Thái Bình",
+      "constituency": 3,
+      "area": "Thái Bình; Tiền Hải; Kiến Xương",
+      "name": "Lại Văn Hoàn",
+      "vote_percent": "84,72",
+      "note": "Phó Chủ tịch Ủy ban nhân dân tỉnh Thái Bình"
+    },
+    {
+      "province": "Thái Bình",
+      "constituency": 3,
+      "area": "Thái Bình; Tiền Hải; Kiến Xương",
+      "name": "Nguyễn Văn Thân",
+      "vote_percent": "71,07",
+      "note": "Chủ tịch Hiệp hội Doanh nghiệp nhỏ và vừa Việt Nam"
+    },
+    {
+      "province": "Thái Nguyên",
+      "constituency": 1,
+      "area": "Đại Từ; Định Hóa; Phú Lương",
+      "name": "Nguyễn Công Hoàng",
+      "vote_percent": "74,74",
+      "note": "Giám đốc Bệnh viện Đa khoa Trung ương Thái Nguyên; Phó Hiệu trưởng Đại học Y-Dược Thái Nguyên; Trưởng Bộ môn Tai Mũi Họng, Đại học Y-Dược Thái Nguyên"
+    },
+    {
+      "province": "Thái Nguyên",
+      "constituency": 1,
+      "area": "Đại Từ; Định Hóa; Phú Lương",
+      "name": "Lý Văn Huấn",
+      "vote_percent": "57,73",
+      "note": "Phó Viện trưởng Viện kiểm sát nhân dân tỉnh Thái Nguyên"
+    },
+    {
+      "province": "Thái Nguyên",
+      "constituency": 2,
+      "area": "Thái Nguyên; Đồng Hỷ; Võ Nhai",
+      "name": "Phan Văn Giang",
+      "vote_percent": "88,68",
+      "note": "Thượng tướng, Bộ trưởng Bộ Quốc phòng; 7.2021: Đại tướng, Bộ trưởng Bộ Quốc phòng"
+    },
+    {
+      "province": "Thái Nguyên",
+      "constituency": 2,
+      "area": "Thái Nguyên; Đồng Hỷ; Võ Nhai",
+      "name": "Đoàn Thị Hảo",
+      "vote_percent": "70,44",
+      "note": "Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Thái Nguyên"
+    },
+    {
+      "province": "Thái Nguyên",
+      "constituency": 2,
+      "area": "Thái Nguyên; Đồng Hỷ; Võ Nhai",
+      "name": "Nguyễn Lâm Thành",
+      "vote_percent": "67,31",
+      "note": "Phó Chủ tịch Hội đồng Dân tộc Quốc hội"
+    },
+    {
+      "province": "Thái Nguyên",
+      "constituency": 3,
+      "area": "Sông Công; Phổ Yên; Phú Bình",
+      "name": "Nguyễn Thanh Hải",
+      "vote_percent": "85,86",
+      "note": "Bí thư Tỉnh ủy Thái Nguyên, Trưởng đoàn ĐBQH tỉnh; 6.2024: Trưởng ban Công tác Đại biểu Quốc hội, Phó Trưởng ban Tổ chức Trung ương"
+    },
+    {
+      "province": "Thái Nguyên",
+      "constituency": 3,
+      "area": "Sông Công; Phổ Yên; Phú Bình",
+      "name": "Hoàng Anh Công",
+      "vote_percent": "77,90",
+      "note": "Phó Trưởng ban Dân nguyện Quốc hội"
+    },
+    {
+      "province": "Thanh Hóa",
+      "constituency": 1,
+      "area": "Thanh Hóa; Sầm Sơn; Hoằng Hóa; Đông Sơn",
+      "name": "Bùi Mạnh Khoa",
+      "vote_percent": "92,31",
+      "note": "Cục trưởng Cục Thi hành án dân sự tỉnh Thanh Hóa; 7.2021: Ủy viên chuyên trách Ủy ban Pháp luật Quốc hội"
+    },
+    {
+      "province": "Thanh Hóa",
+      "constituency": 1,
+      "area": "Thanh Hóa; Sầm Sơn; Hoằng Hóa; Đông Sơn",
+      "name": "Trần Văn Thức",
+      "vote_percent": "91,44",
+      "note": "Bị bãi nhiệm ngày 24 tháng 10 năm 2025"
+    },
+    {
+      "province": "Thanh Hóa",
+      "constituency": 1,
+      "area": "Thanh Hóa; Sầm Sơn; Hoằng Hóa; Đông Sơn",
+      "name": "Võ Mạnh Sơn",
+      "vote_percent": "90,60",
+      "note": "Chủ tịch Liên đoàn Lao động tỉnh Thanh Hóa"
+    },
+    {
+      "province": "Thanh Hóa",
+      "constituency": 2,
+      "area": "Bỉm Sơn; Hà Trung; Nga Sơn; Hậu Lộc; Vĩnh Lộc; Thạch Thành",
+      "name": "Lương Cường",
+      "vote_percent": "97,72",
+      "note": "Đại tướng, Chủ nhiệm Tổng cục Chính trị; 5.2024 - 10.2024: Đại tướng, Thường trực Ban Bí thư Trung ương Đảng Cộng sản Việt Nam; 10.2024: Đại tướng, Chủ tịch nước Cộng hoà Xã hội Chủ nghĩa Việt Nam"
+    },
+    {
+      "province": "Thanh Hóa",
+      "constituency": 2,
+      "area": "Bỉm Sơn; Hà Trung; Nga Sơn; Hậu Lộc; Vĩnh Lộc; Thạch Thành",
+      "name": "Mai Văn Hải",
+      "vote_percent": "93,94",
+      "note": "Phó Bí thư Đảng ủy Khối Cơ quan và Doanh nghiệp tỉnh Thanh Hóa; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Thanh Hóa"
+    },
+    {
+      "province": "Thanh Hóa",
+      "constituency": 2,
+      "area": "Bỉm Sơn; Hà Trung; Nga Sơn; Hậu Lộc; Vĩnh Lộc; Thạch Thành",
+      "name": "Cao Mạnh Linh",
+      "vote_percent": "89,86",
+      "note": "Phó Vụ trưởng Vụ Tư pháp, Văn phòng Quốc hội, Thư ký Phó Chủ tịch Thường trực Quốc hội Tòng Thị Phóng; 7.2021 - 3.2024: Ủy viên chuyên trách Ủy ban Tư pháp Quốc hội; 3.2024: Ủy viên Thường trực Ủy ban Tư pháp Quốc hội"
+    },
+    {
+      "province": "Thanh Hóa",
+      "constituency": 3,
+      "area": "Nghi Sơn; Quảng Xương; Nông Cống; Như Xuân; Như Thanh",
+      "name": "Đào Ngọc Dung",
+      "vote_percent": "92,06",
+      "note": "Bộ trưởng Bộ Lao động – Thương binh và Xã hội"
+    },
+    {
+      "province": "Thanh Hóa",
+      "constituency": 3,
+      "area": "Nghi Sơn; Quảng Xương; Nông Cống; Như Xuân; Như Thanh",
+      "name": "Vũ Xuân Hùng",
+      "vote_percent": "90,50",
+      "note": "Đại tá, Phó Tham mưu trưởng Quân khu 4; 7.2021: Thiếu tướng, Ủy viên Thường trực Ủy ban Quốc phòng và An ninh Quốc hội"
+    },
+    {
+      "province": "Thanh Hóa",
+      "constituency": 3,
+      "area": "Nghi Sơn; Quảng Xương; Nông Cống; Như Xuân; Như Thanh",
+      "name": "Cầm Thị Mẫn",
+      "vote_percent": "81,17",
+      "note": "Phó Bí thư Chi bộ Văn phòng Đoàn ĐBQH tỉnh Thanh Hóa"
+    },
+    {
+      "province": "Thanh Hóa",
+      "constituency": 4,
+      "area": "Triệu Sơn; Thiệu Hóa; Yên Định; Thọ Xuân",
+      "name": "Cao Thị Xuân",
+      "vote_percent": "91,67",
+      "note": "Phó Chủ tịch Hội đồng Dân tộc Quốc hội"
+    },
+    {
+      "province": "Thanh Hóa",
+      "constituency": 4,
+      "area": "Triệu Sơn; Thiệu Hóa; Yên Định; Thọ Xuân",
+      "name": "Lê Văn Cường",
+      "vote_percent": "89,71",
+      "note": "Phó Giám đốc Bệnh viện Đa khoa tỉnh Thanh Hóa"
+    },
+    {
+      "province": "Thanh Hóa",
+      "constituency": 4,
+      "area": "Triệu Sơn; Thiệu Hóa; Yên Định; Thọ Xuân",
+      "name": "Lê Thanh Hoàn",
+      "vote_percent": "89,67",
+      "note": "Phó Vụ trưởng Vụ Pháp luật, Văn phòng Quốc hội; 7.2021: Ủy viên chuyên trách Ủy ban Pháp luật Quốc hội"
+    },
+    {
+      "province": "Thanh Hóa",
+      "constituency": 5,
+      "area": "Quan Hóa; Quan Sơn; Mường Lát; Lang Chánh; Bá Thước; Ngọc Lặc; Thường Xuân; Cẩm Thủy",
+      "name": "Lại Thế Nguyên",
+      "vote_percent": "96,53",
+      "note": "Thôi chức ngày 22 tháng 9 năm 2025"
+    },
+    {
+      "province": "Thanh Hóa",
+      "constituency": 5,
+      "area": "Quan Hóa; Quan Sơn; Mường Lát; Lang Chánh; Bá Thước; Ngọc Lặc; Thường Xuân; Cẩm Thủy",
+      "name": "Phạm Thị Xuân",
+      "vote_percent": "88,67",
+      "note": ""
+    },
+    {
+      "province": "Tiền Giang",
+      "constituency": 1,
+      "area": "Cai Lậy; Cái Bè; Cai Lậy",
+      "name": "Nguyễn Văn Danh",
+      "vote_percent": "78,10",
+      "note": "Bí thư Tỉnh ủy Tiền Giang; 7.2021: Bí thư Tỉnh ủy Tiền Giang, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Tiền Giang",
+      "constituency": 1,
+      "area": "Cai Lậy; Cái Bè; Cai Lậy",
+      "name": "Nguyễn Kim Tuyến",
+      "vote_percent": "75,81",
+      "note": "Giám đốc Sở Tài chính tỉnh Tiền Giang"
+    },
+    {
+      "province": "Tiền Giang",
+      "constituency": 1,
+      "area": "Cai Lậy; Cái Bè; Cai Lậy",
+      "name": "Nguyễn Thanh Cầm",
+      "vote_percent": "67,52",
+      "note": "Trưởng ban Chính sách-Luật pháp, Hội Liên hiệp Phụ nữ; 7.2021: Ủy viên Thường trực Ủy ban Xã hội Quốc hội"
+    },
+    {
+      "province": "Tiền Giang",
+      "constituency": 2,
+      "area": "Mỹ Tho; Tân Phước; Châu Thành",
+      "name": "Nguyễn Văn Dương",
+      "vote_percent": "60,24",
+      "note": "Phó Giám đốc Sở Y tế tỉnh Tiền Giang"
+    },
+    {
+      "province": "Tiền Giang",
+      "constituency": 2,
+      "area": "Mỹ Tho; Tân Phước; Châu Thành",
+      "name": "Nguyễn Hoàng Mai",
+      "vote_percent": "55,72",
+      "note": "Phó Chủ nhiệm Ủy ban Xã hội Quốc hội"
+    },
+    {
+      "province": "Tiền Giang",
+      "constituency": 3,
+      "area": "Gò Công; Chợ Gạo; Gò Công Tây; Gò Công Đông; Tân Phú Đông",
+      "name": "Tạ Minh Tâm",
+      "vote_percent": "73,22",
+      "note": "Phó Trưởng đoàn ĐBQH tỉnh Tiền Giang"
+    },
+    {
+      "province": "Tiền Giang",
+      "constituency": 3,
+      "area": "Gò Công; Chợ Gạo; Gò Công Tây; Gò Công Đông; Tân Phú Đông",
+      "name": "Nguyễn Thị Uyên Trang",
+      "vote_percent": "69,28",
+      "note": "Bí thư Tỉnh đoàn Tiền Giang; 1.2022: Phó Trưởng ban Tuyên giáo Tỉnh ủy Tiền Giang, Giám đốc Sở Văn hóa, Thể thao và Du lịch tỉnh"
+    },
+    {
+      "province": "Tiền Giang",
+      "constituency": 3,
+      "area": "Gò Công; Chợ Gạo; Gò Công Tây; Gò Công Đông; Tân Phú Đông",
+      "name": "Nguyễn Minh Sơn",
+      "vote_percent": "68,90",
+      "note": "Phó Chủ nhiệm Ủy ban Kinh tế Quốc hội"
+    },
+    {
+      "province": "Trà Vinh",
+      "constituency": 1,
+      "area": "Trà Vinh; Càng Long; Cầu Kè; Tiểu Cần",
+      "name": "Trần Quốc Tuấn",
+      "vote_percent": "70,11",
+      "note": "Trưởng ban Tuyên giáo Tỉnh ủy Trà Vinh"
+    },
+    {
+      "province": "Trà Vinh",
+      "constituency": 1,
+      "area": "Trà Vinh; Càng Long; Cầu Kè; Tiểu Cần",
+      "name": "Phạm Thị Hồng Diễm",
+      "vote_percent": "62,12",
+      "note": "Phó Giám đốc Sở Lao động-Thương binh và Xã hội tỉnh Trà Vinh"
+    },
+    {
+      "province": "Trà Vinh",
+      "constituency": 1,
+      "area": "Trà Vinh; Càng Long; Cầu Kè; Tiểu Cần",
+      "name": "Thạch Phước Bình",
+      "vote_percent": "60,62",
+      "note": "Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Trà Vinh"
+    },
+    {
+      "province": "Trà Vinh",
+      "constituency": 2,
+      "area": "Duyên Hải; Châu Thành; Cầu Ngang; Trà Cú; Duyên Hải",
+      "name": "Ngô Chí Cường",
+      "vote_percent": "75,55",
+      "note": "Bí thư Tỉnh ủy Trà Vinh, Trưởng đoàn ĐBQH tỉnh Trà Vinh"
+    },
+    {
+      "province": "Trà Vinh",
+      "constituency": 2,
+      "area": "Duyên Hải; Châu Thành; Cầu Ngang; Trà Cú; Duyên Hải",
+      "name": "Huỳnh Thị Hằng Nga",
+      "vote_percent": "66,20",
+      "note": "Bí thư Huyện ủy Càng Long; 11.2024: Chủ tịch Hội Liên hiệp Phụ nữ tỉnh Trà Vinh"
+    },
+    {
+      "province": "Trà Vinh",
+      "constituency": 2,
+      "area": "Duyên Hải; Châu Thành; Cầu Ngang; Trà Cú; Duyên Hải",
+      "name": "Bế Trung Anh",
+      "vote_percent": "55,50",
+      "note": "Chủ tịch Hội đồng Học viện Dân tộc; 7.2021: Ủy viên Thường trực Hội đồng Dân tộc Quốc hội"
+    },
+    {
+      "province": "Tuyên Quang",
+      "constituency": 1,
+      "area": "Na Hang; Lâm Bình; Chiêm Hóa",
+      "name": "Chẩu Văn Lâm",
+      "vote_percent": "87,63",
+      "note": "Thôi chức ngày 13 tháng 8 năm 2024"
+    },
+    {
+      "province": "Tuyên Quang",
+      "constituency": 1,
+      "area": "Na Hang; Lâm Bình; Chiêm Hóa",
+      "name": "Nguyễn Việt Hà",
+      "vote_percent": "76,40",
+      "note": "Giám đốc Ngân hàng Agribank - Chi nhánh Tuyên Quang"
+    },
+    {
+      "province": "Tuyên Quang",
+      "constituency": 2,
+      "area": "Hàm Yên; Yên Sơn",
+      "name": "Lò Thị Việt Hà",
+      "vote_percent": "68,84",
+      "note": "Chánh Văn phòng Đảng-Đoàn thể, Văn phòng Quốc hội; 7.2021: Ủy viên Thường trực Ủy ban Xã hội Quốc hội"
+    },
+    {
+      "province": "Tuyên Quang",
+      "constituency": 2,
+      "area": "Hàm Yên; Yên Sơn",
+      "name": "Âu Thị Mai",
+      "vote_percent": "66,92",
+      "note": "Giám đốc Sở Văn hóa, Thể thao và Du lịch tỉnh Tuyên Quang"
+    },
+    {
+      "province": "Tuyên Quang",
+      "constituency": 3,
+      "area": "Tuyên Quang; Sơn Dương",
+      "name": "Nguyễn Đắc Vinh",
+      "vote_percent": "80,68",
+      "note": "Chủ nhiệm Ủy ban Văn hóa, Giáo dục của Quốc hội"
+    },
+    {
+      "province": "Tuyên Quang",
+      "constituency": 3,
+      "area": "Tuyên Quang; Sơn Dương",
+      "name": "Ma Thị Thúy",
+      "vote_percent": "70,29",
+      "note": "Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Tuyên Quang"
+    },
+    {
+      "province": "Vĩnh Long",
+      "constituency": 1,
+      "area": "Vĩnh Long; Long Hồ; Mang Thít; Tam Bình",
+      "name": "Bùi Văn Nghiêm",
+      "vote_percent": "74,10",
+      "note": "Bí thư Tỉnh ủy Vĩnh Long, Chủ tịch HĐND tỉnh; 7.2021: Bí thư Tỉnh ủy Vĩnh Long, Chủ tịch HĐND tỉnh, Trưởng đoàn ĐBQH tỉnh"
+    },
+    {
+      "province": "Vĩnh Long",
+      "constituency": 1,
+      "area": "Vĩnh Long; Long Hồ; Mang Thít; Tam Bình",
+      "name": "Nguyễn Thị Minh Trang",
+      "vote_percent": "66,79",
+      "note": "Bí thư Huyện ủy Mang Thít; 7.2021 - 2.2022: Phó Trưởng đoàn DBQH tỉnh Vĩnh Long; 2.2022: Trưởng ban Tuyên giáo Tỉnh ủy Vĩnh Long, Phó Trưởng đoàn DBQH tỉnh"
+    },
+    {
+      "province": "Vĩnh Long",
+      "constituency": 1,
+      "area": "Vĩnh Long; Long Hồ; Mang Thít; Tam Bình",
+      "name": "Trịnh Minh Bình",
+      "vote_percent": "57,29",
+      "note": "Trưởng phòng Hành chính - Bổ trợ tư pháp, Sở Tư pháp tỉnh Vĩnh Long"
+    },
+    {
+      "province": "Vĩnh Long",
+      "constituency": 2,
+      "area": "Bình Tân; Trà Ôn; Vũng Liêm",
+      "name": "Nguyễn Thanh Long",
+      "vote_percent": "67,55",
+      "note": "Ngày 07/06/2022, Quốc hội đã bãi nhiệm tư cách Đại biểu Quốc hội khóa XV."
+    },
+    {
+      "province": "Vĩnh Long",
+      "constituency": 2,
+      "area": "Bình Tân; Trà Ôn; Vũng Liêm",
+      "name": "Nguyễn Thị Quyên Thanh",
+      "vote_percent": "67,11",
+      "note": "Phó Chủ tịch Ủy ban nhân dân tỉnh Vĩnh Long"
+    },
+    {
+      "province": "Vĩnh Long",
+      "constituency": 2,
+      "area": "Bình Tân; Trà Ôn; Vũng Liêm",
+      "name": "Nguyễn Thanh Phong",
+      "vote_percent": "65,42",
+      "note": "Chánh Thanh tra Sở Giao thông vận tải tỉnh Vĩnh Long"
+    },
+    {
+      "province": "Vĩnh Phúc",
+      "constituency": 1,
+      "area": "Vĩnh Yên; Phúc Yên; Vĩnh Tường; Yên Lạc",
+      "name": "Hoàng Thị Thúy Lan",
+      "vote_percent": "92,68",
+      "note": "Bãi nhiệm ngày 21 tháng 3 năm 2024"
+    },
+    {
+      "province": "Vĩnh Phúc",
+      "constituency": 1,
+      "area": "Vĩnh Yên; Phúc Yên; Vĩnh Tường; Yên Lạc",
+      "name": "Bùi Thanh Sơn",
+      "vote_percent": "89,14",
+      "note": "Bộ trưởng Bộ Ngoại giao; 8.2024: Phó Thủ tướng Chính phủ, Bộ trưởng Bộ Ngoại giao"
+    },
+    {
+      "province": "Vĩnh Phúc",
+      "constituency": 1,
+      "area": "Vĩnh Yên; Phúc Yên; Vĩnh Tường; Yên Lạc",
+      "name": "Trần Văn Tiến",
+      "vote_percent": "86,12",
+      "note": "Giám đốc Sở Công thương tỉnh Vĩnh Phúc; 7.2021: Phó Chủ tịch Hội Xây dựng tỉnh Vĩnh Phúc"
+    },
+    {
+      "province": "Vĩnh Phúc",
+      "constituency": 2,
+      "area": "Sông Lô; Tam Dương; Tam Đảo; Lập Thạch; Bình Xuyên",
+      "name": "Nguyễn Văn Mạnh",
+      "vote_percent": "86,57",
+      "note": "Phó Trưởng ban Tổ chức Tỉnh ủy Vĩnh Phúc; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Vĩnh Phúc"
+    },
+    {
+      "province": "Vĩnh Phúc",
+      "constituency": 2,
+      "area": "Sông Lô; Tam Dương; Tam Đảo; Lập Thạch; Bình Xuyên",
+      "name": "Thái Quỳnh Mai Dung",
+      "vote_percent": "82,81",
+      "note": "Trưởng ban Đối ngoại, Tổng Liên đoàn Lao động; 7.2021: Ủy viên Thường trực Ủy ban Đối ngoại Quốc hội"
+    },
+    {
+      "province": "Vĩnh Phúc",
+      "constituency": 2,
+      "area": "Sông Lô; Tam Dương; Tam Đảo; Lập Thạch; Bình Xuyên",
+      "name": "Lê Tất Hiếu",
+      "vote_percent": "82,63",
+      "note": "Viện trưởng Viện kiểm sát nhân dân tỉnh Vĩnh Phúc"
+    },
+    {
+      "province": "Yên Bái",
+      "constituency": 1,
+      "area": "Yên Bái; Yên Bình; Trấn Yên; Lục Yên",
+      "name": "Đỗ Đức Duy",
+      "vote_percent": "94,97",
+      "note": "Thôi chức ngày 18 tháng 7 năm 2025"
+    },
+    {
+      "province": "Yên Bái",
+      "constituency": 1,
+      "area": "Yên Bái; Yên Bình; Trấn Yên; Lục Yên",
+      "name": "Nguyễn Thành Trung",
+      "vote_percent": "90,12",
+      "note": "Phó Vụ trưởng Vụ Thông tin, Văn phòng Quốc hội; 7.2021: Ủy viên chuyên trách Ủy ban Tài chính – Ngân sách Quốc hội"
+    },
+    {
+      "province": "Yên Bái",
+      "constituency": 1,
+      "area": "Yên Bái; Yên Bình; Trấn Yên; Lục Yên",
+      "name": "Triệu Thị Huyền",
+      "vote_percent": "84,38",
+      "note": ""
+    },
+    {
+      "province": "Yên Bái",
+      "constituency": 2,
+      "area": "Nghĩa Lộ; Văn Chấn; Trạm Tấu; Mù Cang Chải; Văn Yên",
+      "name": "Phạm Thị Thanh Trà",
+      "vote_percent": "96,59",
+      "note": "Bộ trưởng Bộ Nội vụ; Phó Trưởng ban Tổ chức Trung ương"
+    },
+    {
+      "province": "Yên Bái",
+      "constituency": 2,
+      "area": "Nghĩa Lộ; Văn Chấn; Trạm Tấu; Mù Cang Chải; Văn Yên",
+      "name": "Nguyễn Quốc Luận",
+      "vote_percent": "94,48",
+      "note": "Trưởng ban Kinh tế - Ngân sách, HĐND tỉnh Yên Bái; 7.2021: Phó Trưởng đoàn chuyên trách Đoàn ĐBQH tỉnh Yên Bái"
+    },
+    {
+      "province": "Yên Bái",
+      "constituency": 2,
+      "area": "Nghĩa Lộ; Văn Chấn; Trạm Tấu; Mù Cang Chải; Văn Yên",
+      "name": "Khang Thị Mào",
+      "vote_percent": "90,70",
+      "note": "Phó Chủ tịch Mặt trận Tổ quốc huyện Mù Cang Chải"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách Đại biểu Quốc hội Việt Nam khóa XV - Free Download",
+    "description": "Danh sách đại biểu trúng cử Quốc hội Việt Nam khóa XV (2021–2026) theo tỉnh/thành phố và đơn vị bầu cử, kèm tỷ lệ phiếu bầu và chức vụ. Contains 499 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách Đại biểu Quốc hội Việt Nam khóa XV | ListBase",
+    "seo_description": "Download Danh sách Đại biểu Quốc hội Việt Nam khóa XV — 499 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 499 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_%C4%90%E1%BA%A1i_bi%E1%BB%83u_Qu%E1%BB%91c_h%E1%BB%99i_Vi%E1%BB%87t_Nam_kh%C3%B3a_XV"
+    ]
+  }
+}
