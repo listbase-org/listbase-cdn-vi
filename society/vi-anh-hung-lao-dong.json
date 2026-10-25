@@ -1,0 +1,561 @@
+{
+  "id": "vi-anh-hung-lao-dong",
+  "name": "Danh sách cá nhân được phong danh hiệu Anh hùng Lao động",
+  "title": "Danh sách cá nhân được phong danh hiệu Anh hùng Lao động",
+  "description": "Các cá nhân được Nhà nước Việt Nam phong tặng danh hiệu Anh hùng Lao động, kèm lĩnh vực và năm được phong.",
+  "category": "society",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C3%A1_nh%C3%A2n_%C4%91%C6%B0%E1%BB%A3c_phong_danh_hi%E1%BB%87u_Anh_h%C3%B9ng_Lao_%C4%91%E1%BB%99ng",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C3%A1_nh%C3%A2n_%C4%91%C6%B0%E1%BB%A3c_phong_danh_hi%E1%BB%87u_Anh_h%C3%B9ng_Lao_%C4%91%E1%BB%99ng",
+  "updated": "2026-10",
+  "record_count": 104,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "field",
+      "label": "Field",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Hoàng Hanh",
+      "field": "Nông dân",
+      "year": 1952
+    },
+    {
+      "name": "Ngô Gia Khảm",
+      "field": "Quân giới",
+      "year": 1952
+    },
+    {
+      "name": "Trần Đại Nghĩa",
+      "field": "Quân giới",
+      "year": 1952
+    },
+    {
+      "name": "Hồ Xuân Tuyên",
+      "field": "Thủy sản",
+      "year": 1962
+    },
+    {
+      "name": "Trần Văn Giao",
+      "field": "Mỏ - Địa chất",
+      "year": 1962
+    },
+    {
+      "name": "Châu Văn Huy",
+      "field": "Bưu chính viễn thông",
+      "year": 1962
+    },
+    {
+      "name": "Cù Thị Hậu",
+      "field": "Dệt",
+      "year": 1973
+    },
+    {
+      "name": "Nguyễn Thị Suốt",
+      "field": "Giao thông vận tải",
+      "year": 1967
+    },
+    {
+      "name": "Lương Định Của",
+      "field": "Nông nghiệp",
+      "year": 1967
+    },
+    {
+      "name": "Hồ Giáo",
+      "field": "Chăn nuôi",
+      "year": "1966: Lần thứ nhất; 1986: Lần thứ hai"
+    },
+    {
+      "name": "Trương Đình Long",
+      "field": "Mỏ - Địa chất",
+      "year": 1985
+    },
+    {
+      "name": "Nguyễn Xuân Bao",
+      "field": "Mỏ - Địa chất",
+      "year": 1985
+    },
+    {
+      "name": "Nguyễn Tử Ánh",
+      "field": "Mỏ - Địa chất",
+      "year": 1985
+    },
+    {
+      "name": "Nguyễn Văn Ngọ (địa chất)",
+      "field": "Mỏ - Địa chất",
+      "year": 1985
+    },
+    {
+      "name": "Nguyễn Văn Bình",
+      "field": "Xây dựng",
+      "year": 1985
+    },
+    {
+      "name": "Huỳnh Văn Thòn",
+      "field": "Bảo vệ thực vật",
+      "year": 2002
+    },
+    {
+      "name": "Lê Minh Đức",
+      "field": "Giao thông vận tải",
+      "year": 1958
+    },
+    {
+      "name": "Hà Công Văn",
+      "field": "Giáo dục",
+      "year": 2002
+    },
+    {
+      "name": "Mai Kiều Liên",
+      "field": "Chế biến thực phẩm (sữa)",
+      "year": 2005
+    },
+    {
+      "name": "Nguyễn Tăng Cường",
+      "field": "Cơ Khí",
+      "year": 2000
+    },
+    {
+      "name": "Nguyễn Văn Hưởng",
+      "field": "Y tế",
+      "year": 1996
+    },
+    {
+      "name": "Hoàng Thủy Nguyên",
+      "field": "Y tế",
+      "year": 2000
+    },
+    {
+      "name": "Nguyễn Vĩnh Nghiệp",
+      "field": "Hoạt động xã hội",
+      "year": 2002
+    },
+    {
+      "name": "Phan Thế Phương",
+      "field": "Thủy sản",
+      "year": 2003
+    },
+    {
+      "name": "Trần Bạch Thu Hà",
+      "field": "Nghệ thuật - Sư phạm",
+      "year": "?"
+    },
+    {
+      "name": "Trần Hữu Tước",
+      "field": "Y tế",
+      "year": 1996
+    },
+    {
+      "name": "Trần Ngọc Sương",
+      "field": "Nông nghiệp",
+      "year": 1999
+    },
+    {
+      "name": "Trần Ngọc Hoằng",
+      "field": "Nông nghiệp",
+      "year": "?"
+    },
+    {
+      "name": "Trần Văn Danh",
+      "field": "Điện lực",
+      "year": 1990
+    },
+    {
+      "name": "Tôn Thất Tùng",
+      "field": "Y tế",
+      "year": 1962
+    },
+    {
+      "name": "Phạm Ngọc Thạch",
+      "field": "Y tế",
+      "year": 1958
+    },
+    {
+      "name": "Nguyễn Trọng Nhân",
+      "field": "Y tế",
+      "year": 1985
+    },
+    {
+      "name": "Nguyễn Ngọc Hàm",
+      "field": "Y tế",
+      "year": 2000
+    },
+    {
+      "name": "Nguyễn Thanh Liêm",
+      "field": "Y tế",
+      "year": 2008
+    },
+    {
+      "name": "Nguyễn Viết Tiến",
+      "field": "Y tế",
+      "year": 2009
+    },
+    {
+      "name": "Phạm Gia Khải",
+      "field": "Y tế",
+      "year": 2008
+    },
+    {
+      "name": "Trần Đông A",
+      "field": "Y tế",
+      "year": 2007
+    },
+    {
+      "name": "Nguyễn Mạnh Phan",
+      "field": "Y tế",
+      "year": 2007
+    },
+    {
+      "name": "Nguyễn Chấn Hùng",
+      "field": "Y tế",
+      "year": 2006
+    },
+    {
+      "name": "Văn Tần",
+      "field": "Y tế",
+      "year": 2006
+    },
+    {
+      "name": "Vàng A Sàng",
+      "field": "Y tế",
+      "year": 2005
+    },
+    {
+      "name": "Phạm Như Thế",
+      "field": "Y tế",
+      "year": 2005
+    },
+    {
+      "name": "Trần Quỵ",
+      "field": "Y tế",
+      "year": 2004
+    },
+    {
+      "name": "Lê Đăng Hà",
+      "field": "Y tế",
+      "year": 2004
+    },
+    {
+      "name": "Bùi Đức Phú",
+      "field": "Y tế",
+      "year": 2013
+    },
+    {
+      "name": "Phan Kim Phương",
+      "field": "Y tế",
+      "year": 2000
+    },
+    {
+      "name": "Vũ Khiêu",
+      "field": "Khoa học xã hội và nhân văn",
+      "year": 2000
+    },
+    {
+      "name": "Đặng Văn Thân",
+      "field": "Bưu chính viễn thông",
+      "year": 2000
+    },
+    {
+      "name": "Đặng Vũ Minh",
+      "field": "Khoa học tự nhiên và công nghệ",
+      "year": "?"
+    },
+    {
+      "name": "Phạm Tuân",
+      "field": "Thám hiểm vũ trụ",
+      "year": 1980
+    },
+    {
+      "name": "Nguyễn Thị Ráo",
+      "field": "Chế biến thực phẩm (lương thực)",
+      "year": 1985
+    },
+    {
+      "name": "Đinh Thị Gái",
+      "field": "Hóa học",
+      "year": 1985
+    },
+    {
+      "name": "Châu Thị Kim",
+      "field": "Dệt",
+      "year": "?"
+    },
+    {
+      "name": "Nguyễn Thị Nhu",
+      "field": "Vật liệu xây dựng",
+      "year": "?"
+    },
+    {
+      "name": "Trần Thị Ngọc Anh",
+      "field": "Hành chính công",
+      "year": "?"
+    },
+    {
+      "name": "Nguyễn Thị Bích Thủy",
+      "field": "Hóa học",
+      "year": "?"
+    },
+    {
+      "name": "Nguyễn Thị Tùng",
+      "field": "May mặc",
+      "year": "?"
+    },
+    {
+      "name": "Phạm Hoài",
+      "field": "Điện lực",
+      "year": 1985
+    },
+    {
+      "name": "Bùi Văn Thọ",
+      "field": "Xây dựng",
+      "year": 2005
+    },
+    {
+      "name": "Nguyễn Bá Lộc",
+      "field": "Xây dựng",
+      "year": 2005
+    },
+    {
+      "name": "Nguyễn Sỹ Thanh",
+      "field": "Xây dựng",
+      "year": 2005
+    },
+    {
+      "name": "Nguyễn Văn Mười",
+      "field": "Nông nghiệp",
+      "year": 2005
+    },
+    {
+      "name": "Tạ Xuân Tề",
+      "field": "Giáo dục - Đào tạo",
+      "year": 2005
+    },
+    {
+      "name": "Mai Thị Mậu",
+      "field": "Y tế",
+      "year": 2005
+    },
+    {
+      "name": "Nguyễn Thị Phương Dung",
+      "field": "Thuế",
+      "year": 2005
+    },
+    {
+      "name": "Đỗ Như Thủy",
+      "field": "Dịch vụ công",
+      "year": 2005
+    },
+    {
+      "name": "Đỗ Thị Liên",
+      "field": "Xây dựng",
+      "year": 2005
+    },
+    {
+      "name": "Bùi Ngọc Loan",
+      "field": "Logistics",
+      "year": 2005
+    },
+    {
+      "name": "Lê Minh Tấn",
+      "field": "Y tế",
+      "year": 2005
+    },
+    {
+      "name": "Lê Văn Bằng",
+      "field": "Chế biến thực phẩm (lương thực)",
+      "year": 2005
+    },
+    {
+      "name": "Nguyễn Lương Am",
+      "field": "Xây dựng",
+      "year": 2005
+    },
+    {
+      "name": "Nguyễn Thị Ngọc Thu",
+      "field": "Xăng dầu",
+      "year": 2005
+    },
+    {
+      "name": "Nguyễn Thị Phương Quang",
+      "field": "May mặc",
+      "year": 2005
+    },
+    {
+      "name": "Nguyễn Văn Đông",
+      "field": "Xây dựng",
+      "year": 2005
+    },
+    {
+      "name": "Phan Đức Mấn",
+      "field": "Dịch vụ",
+      "year": 2005
+    },
+    {
+      "name": "Trần Hồng Quảng",
+      "field": "Quốc phòng",
+      "year": 2005
+    },
+    {
+      "name": "Trần Khả Nhận",
+      "field": "Xây dựng",
+      "year": 2005
+    },
+    {
+      "name": "Trần Quang Minh",
+      "field": "Cơ khí",
+      "year": 2005
+    },
+    {
+      "name": "Trương Minh Tiến",
+      "field": "Xây dựng",
+      "year": 2005
+    },
+    {
+      "name": "Lê Đình Trưởng",
+      "field": "Khai thác khoáng sản",
+      "year": 2006
+    },
+    {
+      "name": "Hoàng Vĩnh Giang",
+      "field": "Thể thao",
+      "year": 2006
+    },
+    {
+      "name": "Ngô Thường San",
+      "field": "Mỏ - Địa chất",
+      "year": 2000
+    },
+    {
+      "name": "Nguyễn Xuân Quý",
+      "field": "Mỏ - Địa chất",
+      "year": 2000
+    },
+    {
+      "name": "Nguyễn Giao",
+      "field": "Mỏ - Địa chất",
+      "year": 2005
+    },
+    {
+      "name": "Đặng Hùng Võ",
+      "field": "Mỏ - Địa chất",
+      "year": 2005
+    },
+    {
+      "name": "Trần Lê Đông",
+      "field": "Mỏ - Địa chất",
+      "year": 2008
+    },
+    {
+      "name": "Phạm Văn Trung",
+      "field": "Cơ Khí",
+      "year": 2008
+    },
+    {
+      "name": "Trương Văn Tuyển",
+      "field": "Mỏ - Địa chất",
+      "year": 2008
+    },
+    {
+      "name": "Nguyễn Đăng Giáp",
+      "field": "Kinh tế - Quốc phòng",
+      "year": 2010
+    },
+    {
+      "name": "Nguyễn Hùng Dũng",
+      "field": "Mỏ - Địa chất",
+      "year": 2014
+    },
+    {
+      "name": "Ngô Ngọc Bỉnh",
+      "field": "Công tác xã hội",
+      "year": 2020
+    },
+    {
+      "name": "Vũ Tuyên Hoàng",
+      "field": "Nông nghiệp",
+      "year": 2020
+    },
+    {
+      "name": "Trần Bình Giang",
+      "field": "Y tế",
+      "year": 2020
+    },
+    {
+      "name": "Trần Ngọc Lương",
+      "field": "Y tế",
+      "year": 2020
+    },
+    {
+      "name": "Lê Văn Kiểm",
+      "field": "Kinh Doanh - Chủ tịch HDQT Tập đoàn KN Holdings",
+      "year": "2008: Lần thứ nhất; 2020: Lần thứ hai"
+    },
+    {
+      "name": "Trần Cẩm Nhung",
+      "field": "Kinh Doanh - Phó Chủ tịch HDQT Tập đoàn KN Holdings",
+      "year": 2020
+    },
+    {
+      "name": "Trần Mạnh Báo",
+      "field": "Nông Nghiệp",
+      "year": 2020
+    },
+    {
+      "name": "Huỳnh Thị Phương Liên",
+      "field": "Y tế",
+      "year": 2021
+    },
+    {
+      "name": "Mai Đức Chung",
+      "field": "Thể thao",
+      "year": 2025
+    },
+    {
+      "name": "Nguyễn Thị Bình",
+      "field": "Chính trị - Ngoại giao",
+      "year": 2025
+    },
+    {
+      "name": "Nguyễn Thị Phương Thảo",
+      "field": "Kinh doanh - Chủ tịch Vietjet Air và HD Bank",
+      "year": 2025
+    },
+    {
+      "name": "Vũ Hữu Lê",
+      "field": "Kinh doanh - Giám đốc Công ty TNHH Cơ khí và Xây lắp Hồng Hà (Lào Cai)",
+      "year": 2025
+    },
+    {
+      "name": "Lê Nữ Thùy Dương",
+      "field": "Kinh Doanh - Phó Chủ tịch HĐQT kiêm Tổng Giám đốc Tập đoàn KN Holdings",
+      "year": 2025
+    },
+    {
+      "name": "Huỳnh Văn Bé",
+      "field": "Công nghiệp sản xuất - Giám Đốc xí nghiệp in tổng hợp Cần Thơ",
+      "year": 2002
+    }
+  ],
+  "meta": {
+    "title": "Danh sách cá nhân được phong danh hiệu Anh hùng Lao động - Free Download",
+    "description": "Các cá nhân được Nhà nước Việt Nam phong tặng danh hiệu Anh hùng Lao động, kèm lĩnh vực và năm được phong. Contains 104 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách cá nhân được phong danh hiệu Anh hùng Lao động | ListBase",
+    "seo_description": "Download Danh sách cá nhân được phong danh hiệu Anh hùng Lao động — 104 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 104 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C3%A1_nh%C3%A2n_%C4%91%C6%B0%E1%BB%A3c_phong_danh_hi%E1%BB%87u_Anh_h%C3%B9ng_Lao_%C4%91%E1%BB%99ng"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-25T02:08:57.573Z",
-  "total_datasets": 513,
-  "total_records": 120689,
+  "generated": "2026-10-25T02:08:59.998Z",
+  "total_datasets": 514,
+  "total_records": 120793,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -12085,6 +12085,30 @@
         "xlsx": {
           "name": "science-solubility-rules_VI.xlsx",
           "size": 9165
+        }
+      }
+    },
+    {
+      "id": "vi-anh-hung-lao-dong",
+      "name": "Danh sách cá nhân được phong danh hiệu Anh hùng Lao động",
+      "category": "society",
+      "record_count": 104,
+      "columns": [
+        "name",
+        "field",
+        "year"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C3%A1_nh%C3%A2n_%C4%91%C6%B0%E1%BB%A3c_phong_danh_hi%E1%BB%87u_Anh_h%C3%B9ng_Lao_%C4%91%E1%BB%99ng",
+      "updated": "2026-10",
+      "size": 12915,
+      "files": {
+        "csv": {
+          "name": "vi-anh-hung-lao-dong_VI.csv",
+          "size": 5151
+        },
+        "xlsx": {
+          "name": "vi-anh-hung-lao-dong_VI.xlsx",
+          "size": 9977
         }
       }
     },
