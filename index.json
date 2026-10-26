@@ -1,12 +1,12 @@
 {
   "lang": "vi",
-  "generated": "2026-10-26T02:11:59.793Z",
-  "total_datasets": 525,
-  "total_records": 124742,
+  "generated": "2026-10-26T02:12:02.419Z",
+  "total_datasets": 526,
+  "total_records": 124784,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -179,6 +179,31 @@
         "xlsx": {
           "name": "vi-giong-lua_VI.xlsx",
           "size": 23779
+        }
+      }
+    },
+    {
+      "id": "vi-go-nhom-1",
+      "name": "Danh sách cây cho gỗ nhóm 1 ở Việt Nam",
+      "category": "agriculture",
+      "record_count": 42,
+      "columns": [
+        "stt",
+        "name",
+        "scientific_name",
+        "other_names"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C3%A2y_cho_g%E1%BB%97_nh%C3%B3m_1_%E1%BB%9F_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 8287,
+      "files": {
+        "csv": {
+          "name": "vi-go-nhom-1_VI.csv",
+          "size": 2824
+        },
+        "xlsx": {
+          "name": "vi-go-nhom-1_VI.xlsx",
+          "size": 8932
         }
       }
     },

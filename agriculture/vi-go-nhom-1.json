@@ -1,0 +1,298 @@
+{
+  "id": "vi-go-nhom-1",
+  "name": "Danh sách cây cho gỗ nhóm 1 ở Việt Nam",
+  "title": "Danh sách cây cho gỗ nhóm 1 ở Việt Nam",
+  "description": "Các loài cây cho gỗ quý thuộc nhóm 1 theo phân loại gỗ ở Việt Nam, gồm tên phổ thông, danh pháp khoa học và tên gọi khác.",
+  "category": "agriculture",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C3%A2y_cho_g%E1%BB%97_nh%C3%B3m_1_%E1%BB%9F_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C3%A2y_cho_g%E1%BB%97_nh%C3%B3m_1_%E1%BB%9F_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "scientific_name",
+      "label": "Scientific Name",
+      "type": "string"
+    },
+    {
+      "key": "other_names",
+      "label": "Other Names",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 1,
+      "name": "Bằng lăng",
+      "scientific_name": "Lagerstroemia calyculata Pierre ex Laness.",
+      "other_names": "Bằng lăng ổi, thao lao, bằng lăng cườm"
+    },
+    {
+      "stt": 2,
+      "name": "Cẩm lai",
+      "scientific_name": "Dalbergia oliveri Gamble ex Prain",
+      "other_names": "Cẩm lai bộng, cẩm lai mật, trắc lai"
+    },
+    {
+      "stt": 3,
+      "name": "Cẩm lai Bà Rịa",
+      "scientific_name": "Dalbergia bariensis Pierre",
+      "other_names": ""
+    },
+    {
+      "stt": 4,
+      "name": "Cẩm lai Đồng Nai",
+      "scientific_name": "Dalbergia dongnaiensis Pierre",
+      "other_names": ""
+    },
+    {
+      "stt": 5,
+      "name": "Cẩm liên",
+      "scientific_name": "Shorea siamensis Miq.",
+      "other_names": "Cà gần"
+    },
+    {
+      "stt": 6,
+      "name": "Cẩm thị",
+      "scientific_name": "Diospyros siamensis Warb",
+      "other_names": ""
+    },
+    {
+      "stt": 7,
+      "name": "Giáng hương",
+      "scientific_name": "Pterocarpus pedatus (Pierre) Gagnep.",
+      "other_names": ""
+    },
+    {
+      "stt": 8,
+      "name": "Giáng hương căm-bốt",
+      "scientific_name": "Pterocarpus cambodianus Pierre",
+      "other_names": ""
+    },
+    {
+      "stt": 9,
+      "name": "Giáng hương mắt chim",
+      "scientific_name": "Pterocarpus indicus Willd.",
+      "other_names": "Giáng/dáng hương Ấn"
+    },
+    {
+      "stt": 10,
+      "name": "Giáng hương quả lớn",
+      "scientific_name": "Pterocarpus macrocarpus Kurz",
+      "other_names": ""
+    },
+    {
+      "stt": 11,
+      "name": "Du sam",
+      "scientific_name": "Keteleeria davidiana (Bertrand) Beissner",
+      "other_names": "Ngô tùng, du sam đá vôi"
+    },
+    {
+      "stt": 12,
+      "name": "Du sam Cao Bằng",
+      "scientific_name": "Keteleeria calcarea W.C. Cheng et L.K.Fu",
+      "other_names": ""
+    },
+    {
+      "stt": 13,
+      "name": "Gõ đỏ",
+      "scientific_name": "Afzelia xylocarpa (Kurz) Craib",
+      "other_names": "Hồ bì, cà te"
+    },
+    {
+      "stt": 14,
+      "name": "Gụ",
+      "scientific_name": "Sindora maritima Pierre",
+      "other_names": ""
+    },
+    {
+      "stt": 15,
+      "name": "Gụ mật",
+      "scientific_name": "Sindora siamensis Teijsn. ex Miq.",
+      "other_names": "Gõ mật"
+    },
+    {
+      "stt": 16,
+      "name": "Gụ lau",
+      "scientific_name": "Sindora tonkinensis A.Chev ex K. et S.S. Larsen",
+      "other_names": "Gõ lau, gụ, gõ dầu, gõ sương"
+    },
+    {
+      "stt": 17,
+      "name": "Hoàng đàn rủ",
+      "scientific_name": "Cupressus funebris Endl.",
+      "other_names": "Hoàng đàn liễu, ngọc am"
+    },
+    {
+      "stt": 18,
+      "name": "Huệ mộc",
+      "scientific_name": "Dalbergia sp???",
+      "other_names": ""
+    },
+    {
+      "stt": 19,
+      "name": "Huỳnh đường",
+      "scientific_name": "Dysoxylon loureirii (Pierre) Pierre",
+      "other_names": ""
+    },
+    {
+      "stt": 20,
+      "name": "Hương tía ?",
+      "scientific_name": "Pterocarpus sp???",
+      "other_names": ""
+    },
+    {
+      "stt": 21,
+      "name": "Lát hoa",
+      "scientific_name": "Chukrasia tabularis A. Juss.",
+      "other_names": ""
+    },
+    {
+      "stt": 22,
+      "name": "Lát da đồng",
+      "scientific_name": "Chukrasia sp",
+      "other_names": ""
+    },
+    {
+      "stt": 23,
+      "name": "Lát chun",
+      "scientific_name": "Chukrasia sp",
+      "other_names": ""
+    },
+    {
+      "stt": 24,
+      "name": "Lát xanh",
+      "scientific_name": "Chukrasia var. quadrivalvis Pell?",
+      "other_names": ""
+    },
+    {
+      "stt": 25,
+      "name": "Lát lông",
+      "scientific_name": "Chukrasia var. velutina King?",
+      "other_names": ""
+    },
+    {
+      "stt": 26,
+      "name": "Mạy lay",
+      "scientific_name": "Sideroxylon eburneum A. Chev.",
+      "other_names": ""
+    },
+    {
+      "stt": 27,
+      "name": "Mun sừng",
+      "scientific_name": "Diospyros mun A. Chev. ex Lecomte",
+      "other_names": "Mun"
+    },
+    {
+      "stt": 28,
+      "name": "Mun sọc",
+      "scientific_name": "Diospyros sp???",
+      "other_names": ""
+    },
+    {
+      "stt": 29,
+      "name": "Muồng đen",
+      "scientific_name": "Senna siamea (Lam.) H.S.Irwin et Barneby",
+      "other_names": ""
+    },
+    {
+      "stt": 30,
+      "name": "Pơ mu",
+      "scientific_name": "Fokienia hodginsii (Dunn) A.Henry & H.H.Thomas",
+      "other_names": ""
+    },
+    {
+      "stt": 31,
+      "name": "Sa mu dầu",
+      "scientific_name": "Cunninghamia konishii Hayata",
+      "other_names": "Sa mộc Quế Phong, thông mụ Nhật"
+    },
+    {
+      "stt": 32,
+      "name": "Sơn huyết",
+      "scientific_name": "Melanorrhoea laccifera Pierre",
+      "other_names": "Sơn tiêu, sơn rừng"
+    },
+    {
+      "stt": 33,
+      "name": "Sưa",
+      "scientific_name": "Dalbergia tonkinensis Prain",
+      "other_names": "Trắc thối"
+    },
+    {
+      "stt": 34,
+      "name": "Thông ré",
+      "scientific_name": "Pinus krempfii Lecomte",
+      "other_names": "Thông lá dẹt"
+    },
+    {
+      "stt": 35,
+      "name": "Thông tre",
+      "scientific_name": "Podocarpus neriifolius D.Don",
+      "other_names": "Bách niên tùng"
+    },
+    {
+      "stt": 36,
+      "name": "Trai(Nam Bộ)",
+      "scientific_name": "Fagraea fragrans Roxb.",
+      "other_names": "Trai, vàng dành"
+    },
+    {
+      "stt": 37,
+      "name": "Trắc",
+      "scientific_name": "Dalbergia cochinchinensis Pierre",
+      "other_names": "Cẩm lai nam"
+    },
+    {
+      "stt": 38,
+      "name": "Trắc đen",
+      "scientific_name": "Dalbergia nigra Allem. ex Benth.",
+      "other_names": ""
+    },
+    {
+      "stt": 39,
+      "name": "Trắc căm-bốt",
+      "scientific_name": "Dalbergia cambodiana Pierre",
+      "other_names": ""
+    },
+    {
+      "stt": 40,
+      "name": "Trắc vàng",
+      "scientific_name": "Dalbergia cultrata Graham. ex Benth.",
+      "other_names": "Trắc dạo, cẩm lai"
+    },
+    {
+      "stt": 41,
+      "name": "Trầm hương",
+      "scientific_name": "Aquilaria crassna Pierre ex Lecomte.",
+      "other_names": "Trầm, gió bầu"
+    },
+    {
+      "stt": 42,
+      "name": "Gỗ Mật Hồng",
+      "scientific_name": "Myrtaceace",
+      "other_names": "Gỗ mật hồng tự nhiên, Myrtaceace"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách cây cho gỗ nhóm 1 ở Việt Nam - Free Download",
+    "description": "Các loài cây cho gỗ quý thuộc nhóm 1 theo phân loại gỗ ở Việt Nam, gồm tên phổ thông, danh pháp khoa học và tên gọi khác. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách cây cho gỗ nhóm 1 ở Việt Nam | ListBase",
+    "seo_description": "Download Danh sách cây cho gỗ nhóm 1 ở Việt Nam — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C3%A2y_cho_g%E1%BB%97_nh%C3%B3m_1_%E1%BB%9F_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}
