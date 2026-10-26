@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-26T02:12:34.229Z",
-  "total_datasets": 539,
-  "total_records": 125953,
+  "generated": "2026-10-26T02:12:36.707Z",
+  "total_datasets": 540,
+  "total_records": 126215,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -3949,6 +3949,31 @@
         "xlsx": {
           "name": "vi-bai-hat-ve-ha-noi_VI.xlsx",
           "size": 19321
+        }
+      }
+    },
+    {
+      "id": "vi-bai-hat-ve-sai-gon",
+      "name": "Danh sách bài hát về Sài Gòn – Thành phố Hồ Chí Minh",
+      "category": "music",
+      "record_count": 262,
+      "columns": [
+        "song",
+        "composer",
+        "year",
+        "notable_singers"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_b%C3%A0i_h%C3%A1t_v%E1%BB%81_S%C3%A0i_G%C3%B2n_%E2%80%93_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh",
+      "updated": "2026-10",
+      "size": 43950,
+      "files": {
+        "csv": {
+          "name": "vi-bai-hat-ve-sai-gon_VI.csv",
+          "size": 19288
+        },
+        "xlsx": {
+          "name": "vi-bai-hat-ve-sai-gon_VI.xlsx",
+          "size": 18020
         }
       }
     },
