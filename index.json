@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-26T02:12:24.272Z",
-  "total_datasets": 535,
-  "total_records": 125613,
+  "generated": "2026-10-26T02:12:26.703Z",
+  "total_datasets": 536,
+  "total_records": 125690,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -12694,6 +12694,32 @@
         "xlsx": {
           "name": "vi-bao-chi_VI.xlsx",
           "size": 18745
+        }
+      }
+    },
+    {
+      "id": "vi-giai-thuong-viet-nam",
+      "name": "Danh sách giải thưởng tại Việt Nam",
+      "category": "society",
+      "record_count": 77,
+      "columns": [
+        "stt",
+        "name",
+        "period",
+        "organizer",
+        "group"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 19310,
+      "files": {
+        "csv": {
+          "name": "vi-giai-thuong-viet-nam_VI.csv",
+          "size": 10349
+        },
+        "xlsx": {
+          "name": "vi-giai-thuong-viet-nam_VI.xlsx",
+          "size": 10962
         }
       }
     },

@@ -1,0 +1,590 @@
+{
+  "id": "vi-giai-thuong-viet-nam",
+  "name": "Danh sách giải thưởng tại Việt Nam",
+  "title": "Danh sách giải thưởng tại Việt Nam",
+  "description": "Các giải thưởng được tổ chức tại Việt Nam (cấp Nhà nước, bộ ngành, văn hóa nghệ thuật, báo chí...) kèm giai đoạn và đơn vị tổ chức.",
+  "category": "society",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 77,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    },
+    {
+      "key": "organizer",
+      "label": "Organizer",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 1,
+      "name": "Giải thưởng Chất lượng Quốc gia",
+      "period": "1996–nay",
+      "organizer": "Chính phủ",
+      "group": "Cấp Nhà nước / Chính phủ"
+    },
+    {
+      "stt": 2,
+      "name": "Giải thưởng Hồ Chí Minh",
+      "period": "1996–nay",
+      "organizer": "Nhà nước",
+      "group": "Cấp Nhà nước / Chính phủ"
+    },
+    {
+      "stt": 3,
+      "name": "Giải thưởng Nhà nước",
+      "period": "2001–nay",
+      "organizer": "Nhà nước",
+      "group": "Cấp Nhà nước / Chính phủ"
+    },
+    {
+      "stt": 4,
+      "name": "Giải thưởng toàn quốc về Thông tin đối ngoại",
+      "period": "2015–nay",
+      "organizer": "Ban Chỉ đạo Trung ương về Công tác thông tin đối ngoại, Ban Tuyên giáo và Dân vận Trung ương",
+      "group": "Cấp Nhà nước / Chính phủ"
+    },
+    {
+      "stt": 1,
+      "name": "Giải thưởng Bông lúa vàng Việt Nam",
+      "period": "2004–nay",
+      "organizer": "Bộ Nông nghiệp và Môi trường",
+      "group": "Cấp Bộ"
+    },
+    {
+      "stt": 2,
+      "name": "Giải thưởng Quảng cáo sáng tạo Việt Nam (Vạn Xuân Awards)",
+      "period": "2021, 2023–nay",
+      "organizer": "Bộ Văn hóa, Thể thao và Du lịch, Hiệp hội Quảng cáo Việt Nam",
+      "group": "Cấp Bộ"
+    },
+    {
+      "stt": 3,
+      "name": "Giải thưởng sách Quốc gia",
+      "period": "2018–nay",
+      "organizer": "Bộ Thông tin và Truyền thông, Hội Xuất bản Việt Nam",
+      "group": "Cấp Bộ"
+    },
+    {
+      "stt": 4,
+      "name": "Giải thưởng Sản phẩm công nghệ số Make in Viet Nam",
+      "period": "2020–nay",
+      "organizer": "Bộ Khoa học và Công nghệ, Liên đoàn Thương mại và Công nghiệp Việt Nam",
+      "group": "Cấp Bộ"
+    },
+    {
+      "stt": 5,
+      "name": "Giải thưởng Tạ Quang Bửu",
+      "period": "2013–nay",
+      "organizer": "Bộ Khoa học và Công nghệ",
+      "group": "Cấp Bộ"
+    },
+    {
+      "stt": 1,
+      "name": "Giải thưởng Âm nhạc Việt Nam",
+      "period": "1993–nay",
+      "organizer": "Hội Nhạc sĩ Việt Nam",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 2,
+      "name": "Giải thưởng Các nhà sáng tạo nội dung số Việt Nam (Vietnam iContent Awards)",
+      "period": "2024–nay",
+      "organizer": "Cục Phát thanh, Truyền hình và Thông tin Điện tử, báo VnExpress, Công ty Cổ phần dịch vụ trực tuyến FPT",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 3,
+      "name": "Giải thưởng Chuyển đổi số Việt Nam (Vietnam Digital Awards)",
+      "period": "2018–nay",
+      "organizer": "Hội Truyền thông số Việt Nam",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 4,
+      "name": "Giải thưởng Game Việt Nam",
+      "period": "2023–nay",
+      "organizer": "Cục Phát thanh, Truyền hình và Thông tin Điện tử, báo VnExpress, Liên minh Game Việt Nam",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 5,
+      "name": "Giải thưởng Gương mặt trẻ Việt Nam tiêu biểu",
+      "period": "1996–nay",
+      "organizer": "Đoàn Thanh niên Cộng sản Hồ Chí Minh",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 6,
+      "name": "Giải thưởng Hội Điện ảnh Việt Nam",
+      "period": "1994–2002",
+      "organizer": "Hội Điện ảnh Việt Nam",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 6,
+      "name": "Giải Cánh diều",
+      "period": "2003–nay, trừ 2022",
+      "organizer": "Hội Điện ảnh Việt Nam",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 7,
+      "name": "Giải thưởng Hội Nhà văn Việt Nam",
+      "period": "1999–nay",
+      "organizer": "Hội Nhà văn Việt Nam",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 8,
+      "name": "Giải thưởng Kiến trúc Quốc gia",
+      "period": "1994–nay",
+      "organizer": "Hội Kiến trúc sư Việt Nam",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 9,
+      "name": "Giải thưởng Kovalevskaya",
+      "period": "1985–nay",
+      "organizer": "Hội Liên hiệp Phụ nữ Việt Nam",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 10,
+      "name": "Giải thưởng Lao động sáng tạo",
+      "period": "1981–nay",
+      "organizer": "Tổng Liên đoàn Lao động Việt Nam",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 11,
+      "name": "Giải thưởng Lê Văn Thiêm",
+      "period": "1990, 1997–2020",
+      "organizer": "Hội Toán học Việt Nam",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 12,
+      "name": "Giải thưởng Lý Tự Trọng",
+      "period": "2007–nay",
+      "organizer": "Đoàn Thanh niên Cộng sản Hồ Chí Minh",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 13,
+      "name": "Giải thưởng Nguyễn Đức Cảnh",
+      "period": "2008–nay",
+      "organizer": "Tổng Liên đoàn Lao động Việt Nam",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 14,
+      "name": "Giải thưởng Nhân tài Đất Việt",
+      "period": "2005–nay",
+      "organizer": "Hội Khuyến học Việt Nam, Tập đoàn Bưu chính Viễn thông Việt Nam",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 15,
+      "name": "Giải thưởng Sáng tạo nội dung số Việt Nam",
+      "period": "2023–nay",
+      "organizer": "Hội Truyền thông số Việt Nam, Liên minh Sáng tạo Nội dung số Việt Nam",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 16,
+      "name": "Giải thưởng Sao Đỏ",
+      "period": "1999–nay",
+      "organizer": "Hội Doanh nhân trẻ Việt Nam",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 17,
+      "name": "Giải thưởng Sao Khuê",
+      "period": "2003–nay",
+      "organizer": "Hiệp hội Phần mềm và Dịch vụ Công nghệ thông tin Việt Nam",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 18,
+      "name": "Giải thưởng Sao Vàng Đất Việt",
+      "period": "2003–nay",
+      "organizer": "Hội Liên hiệp Thanh niên Việt Nam, Hội Doanh nhân trẻ Việt Nam",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 19,
+      "name": "Giải thưởng Tình nguyện Quốc gia",
+      "period": "2012–nay",
+      "organizer": "Đoàn Thanh niên Cộng sản Hồ Chí Minh",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 20,
+      "name": "Giải thưởng Trần Đại Nghĩa",
+      "period": "2016–nay",
+      "organizer": "Viện Hàn lâm Khoa học và Công nghệ Việt Nam",
+      "group": "Cấp Ngành / hiệp hội"
+    },
+    {
+      "stt": 1,
+      "name": "Ấn tượng VTV (VTV Awards)",
+      "period": "2014–2024",
+      "organizer": "Đài Truyền hình Việt Nam",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 2,
+      "name": "Cúp Chiến thắng",
+      "period": "2015–nay, trừ 2021 và 2022",
+      "organizer": "Truyền hình Cáp Việt Nam, Vietcontent, Cục Thể dục Thể thao",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 3,
+      "name": "Đẹp Awards",
+      "period": "2004, 2007–nay",
+      "organizer": "Tạp chí Đẹp",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 4,
+      "name": "Elle Beauty Awards Vietnam",
+      "period": "2018–nay",
+      "organizer": "Tạp chí Elle Vietnam",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 5,
+      "name": "Elle Style Awards Vietnam",
+      "period": "2015–2019",
+      "organizer": "Tạp chí Elle Vietnam",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 6,
+      "name": "Giải Mai Vàng",
+      "period": "1995–nay",
+      "organizer": "Báo Người Lao Động",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 7,
+      "name": "Giải thưởng Bùi Xuân Phái – Vì tình yêu Hà Nội",
+      "period": "2008–nay",
+      "organizer": "Báo Thể thao & Văn hóa",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 8,
+      "name": "Giải thưởng Cống hiến",
+      "period": "2005–nay",
+      "organizer": "Báo Thể thao & Văn hóa",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 9,
+      "name": "Giải thưởng Fair Play Việt Nam",
+      "period": "2012–nay",
+      "organizer": "Báo Pháp luật Thành phố Hồ Chí Minh, Liên đoàn bóng đá Việt Nam",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 10,
+      "name": "Giải thưởng Làn Sóng Xanh",
+      "period": "1997–nay",
+      "organizer": "Đài Phát thanh và Truyền hình Thành phố Hồ Chí Minh",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 11,
+      "name": "Giải thưởng Ngôi Sao Xanh",
+      "period": "2014–nay",
+      "organizer": "Tạp chí Thế giới Điện ảnh, TodayTV",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 12,
+      "name": "Giải thưởng Phan Châu Trinh",
+      "period": "2007–2017",
+      "organizer": "Nhà xuất bản Tri Thức, Quỹ Văn hóa Phan Châu Trinh",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 13,
+      "name": "Giải thưởng Trần Văn Giàu",
+      "period": "2003–2010",
+      "organizer": "Ủy ban giải thưởng Trần Văn Giàu",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 14,
+      "name": "Giải thưởng truyền hình HTV (HTV Awards)",
+      "period": "2007–2016",
+      "organizer": "Đài Phát thanh và Truyền hình Thành phố Hồ Chí Minh",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 15,
+      "name": "Giải thưởng VinFuture",
+      "period": "2021–nay",
+      "organizer": "Quỹ VinFuture",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 16,
+      "name": "Giải thưởng Vinh danh nước Việt",
+      "period": "2004–2006",
+      "organizer": "Báo VietNamNet",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 17,
+      "name": "Harper's Bazaar Star Awards",
+      "period": "2019–nay",
+      "organizer": "Tạp chí Harper's Bazaar Vietnam",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 18,
+      "name": "Her World Young Achiever Vietnam",
+      "period": "2016, 2018",
+      "organizer": "Tạp chí Her World Vietnam",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 19,
+      "name": "Her World Awards Vietnam",
+      "period": "2023–nay",
+      "organizer": "Tạp chí Her World Vietnam",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 20,
+      "name": "Keeng Young Awards",
+      "period": "2017–2018",
+      "organizer": "Keeng, Imuzik",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 21,
+      "name": "L'Officiel Beauty Choice Awards",
+      "period": "2022–nay",
+      "organizer": "Tạp chí L'Officiel Vietnam",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 22,
+      "name": "Male Icon Awards",
+      "period": "2020–nay",
+      "organizer": "Tạp chí Men's Folio Vietnam",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 23,
+      "name": "Men&life Awards",
+      "period": "2019, 2022–nay",
+      "organizer": "Tạp chí Men&life",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 24,
+      "name": "M-Merging Faces Awards",
+      "period": "2024–nay",
+      "organizer": "Tạp chí Men's Folio Vietnam",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 25,
+      "name": "MTV Fan Choice",
+      "period": "2020–2022",
+      "organizer": "MTV Việt Nam",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 26,
+      "name": "Ngôi sao Bạch Kim",
+      "period": "2003, 2006",
+      "organizer": "Báo Màn ảnh sân khấu",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 27,
+      "name": "Ngôi sao của năm",
+      "period": "2012–nay",
+      "organizer": "Chuyên trang Ngôi sao (VnExpress)",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 28,
+      "name": "POPS Awards",
+      "period": "2014–2019",
+      "organizer": "POPS Worldwide",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 29,
+      "name": "Quả bóng vàng Việt Nam",
+      "period": "1995–nay, trừ 2013",
+      "organizer": "Báo Sài Gòn Giải Phóng",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 30,
+      "name": "SR Fashion Awards",
+      "period": "2020–nay",
+      "organizer": "Chuyên trang Style-Republik",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 31,
+      "name": "Sản phẩm công nghệ xuất sắc (Tech Awards)",
+      "period": "2012–nay",
+      "organizer": "Báo VnExpress",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 32,
+      "name": "TikTok Awards Việt Nam",
+      "period": "2020–nay, trừ 2021",
+      "organizer": "TikTok Vietnam",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 33,
+      "name": "V Live Awards",
+      "period": "2016–2020",
+      "organizer": "V Live",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 34,
+      "name": "WeChoice Awards",
+      "period": "2014–2020, 2023–nay",
+      "organizer": "Công ty Cổ phần VCCorp",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 35,
+      "name": "YAN Vpop 20 Awards",
+      "period": "2010–2016",
+      "organizer": "YanTV",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 36,
+      "name": "Zing Music Awards",
+      "period": "2010–2020",
+      "organizer": "Zing",
+      "group": "Cấp Doanh nghiệp / báo chí"
+    },
+    {
+      "stt": 1,
+      "name": "Liên hoan phim Việt Nam",
+      "period": "1970–nay, 2 hoặc 3 năm 1 lần",
+      "organizer": "Cục Điện ảnh, Ủy ban nhân dân của tỉnh thành đăng cai",
+      "group": "Liên hoan phim"
+    },
+    {
+      "stt": 2,
+      "name": "Liên hoan phim quốc tế Hà Nội",
+      "period": "2010–nay, trừ 2020",
+      "organizer": "Cục Điện ảnh, Sở Văn hóa và Thể thao Thành phố Hà Nội",
+      "group": "Liên hoan phim"
+    },
+    {
+      "stt": 3,
+      "name": "Liên hoan phim châu Á Đà Nẵng",
+      "period": "2023–nay",
+      "organizer": "Sở Văn hóa và Thể thao Thành phố Đà Nẵng, Hiệp hội Xúc tiến phát triển Điện ảnh Việt Nam",
+      "group": "Liên hoan phim"
+    },
+    {
+      "stt": 4,
+      "name": "Liên hoan phim quốc tế Thành phố Hồ Chí Minh",
+      "period": "2024–nay",
+      "organizer": "Sở Văn hóa và Thể thao Thành phố Hồ Chí Minh, Hội điện ảnh Thành phố Hồ Chí Minh",
+      "group": "Liên hoan phim"
+    },
+    {
+      "stt": 1,
+      "name": "Liên hoan truyền hình toàn quốc",
+      "period": "1981–nay",
+      "organizer": "Đài Truyền hình Việt Nam, Đài Phát thanh – Truyền hình của tỉnh thành đăng cai",
+      "group": "Liên hoan truyền hình, sân khấu"
+    },
+    {
+      "stt": 2,
+      "name": "Liên hoan kịch nói toàn quốc",
+      "period": "",
+      "organizer": "",
+      "group": "Liên hoan truyền hình, sân khấu"
+    },
+    {
+      "stt": 1,
+      "name": "Liên hoan tiếng hát truyền hình toàn quốc",
+      "period": "1997–2019, 2022",
+      "organizer": "Đài Truyền hình Việt Nam",
+      "group": "Cuộc thi âm nhạc"
+    },
+    {
+      "stt": 2,
+      "name": "VTV – Bài hát tôi yêu",
+      "period": "2002–2004, 2016",
+      "organizer": "Đài Truyền hình Việt Nam, Đông Tây Promotion",
+      "group": "Cuộc thi âm nhạc"
+    },
+    {
+      "stt": 3,
+      "name": "Sao Mai điểm hẹn",
+      "period": "2004–2014",
+      "organizer": "Đài Truyền hình Việt Nam, Đông Tây Promotion",
+      "group": "Cuộc thi âm nhạc"
+    },
+    {
+      "stt": 4,
+      "name": "Bài hát Việt",
+      "period": "2005–2015",
+      "organizer": "Đài Truyền hình Việt Nam, Cát Tiên Sa",
+      "group": "Cuộc thi âm nhạc"
+    },
+    {
+      "stt": 5,
+      "name": "Chuông vàng vọng cổ truyền hình",
+      "period": "2006–nay",
+      "organizer": "Đài Phát thanh và Truyền hình Thành phố Hồ Chí Minh",
+      "group": "Cuộc thi âm nhạc"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách giải thưởng tại Việt Nam - Free Download",
+    "description": "Các giải thưởng được tổ chức tại Việt Nam (cấp Nhà nước, bộ ngành, văn hóa nghệ thuật, báo chí...) kèm giai đoạn và đơn vị tổ chức. Contains 77 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách giải thưởng tại Việt Nam | ListBase",
+    "seo_description": "Download Danh sách giải thưởng tại Việt Nam — 77 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 77 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}
