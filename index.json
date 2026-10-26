@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-26T02:12:31.878Z",
-  "total_datasets": 538,
-  "total_records": 125788,
+  "generated": "2026-10-26T02:12:34.229Z",
+  "total_datasets": 539,
+  "total_records": 125953,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -3974,6 +3974,32 @@
         "xlsx": {
           "name": "vi-lan-dieu-cheo_VI.xlsx",
           "size": 21225
+        }
+      }
+    },
+    {
+      "id": "vi-quan-quan-billboard-vietnam-hot-100",
+      "name": "Danh sách bài hát quán quân Billboard Vietnam Hot 100",
+      "category": "music",
+      "record_count": 165,
+      "columns": [
+        "year",
+        "issue_date",
+        "number_one_order",
+        "song",
+        "artist"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_b%C3%A0i_h%C3%A1t_qu%C3%A1n_qu%C3%A2n_Hot_100_%28Vi%E1%BB%87t_Nam%29",
+      "updated": "2026-10",
+      "size": 30910,
+      "files": {
+        "csv": {
+          "name": "vi-quan-quan-billboard-vietnam-hot-100_VI.csv",
+          "size": 11619
+        },
+        "xlsx": {
+          "name": "vi-quan-quan-billboard-vietnam-hot-100_VI.xlsx",
+          "size": 12309
         }
       }
     },
