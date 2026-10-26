@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-26T02:12:29.393Z",
-  "total_datasets": 537,
-  "total_records": 125738,
+  "generated": "2026-10-26T02:12:31.878Z",
+  "total_datasets": 538,
+  "total_records": 125788,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -3974,6 +3974,33 @@
         "xlsx": {
           "name": "vi-lan-dieu-cheo_VI.xlsx",
           "size": 21225
+        }
+      }
+    },
+    {
+      "id": "vi-video-am-nhac-nhieu-luot-xem-youtube",
+      "name": "Video âm nhạc Việt Nam có lượt xem nhiều nhất trên YouTube",
+      "category": "music",
+      "record_count": 50,
+      "columns": [
+        "rank",
+        "song",
+        "artist",
+        "release_date",
+        "views_million",
+        "genre"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_video_%C3%A2m_nh%E1%BA%A1c_c%C3%B3_l%C6%B0%E1%BB%A3t_xem_nhi%E1%BB%81u_nh%E1%BA%A5t_YouTube_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 13033,
+      "files": {
+        "csv": {
+          "name": "vi-video-am-nhac-nhieu-luot-xem-youtube_VI.csv",
+          "size": 4831
+        },
+        "xlsx": {
+          "name": "vi-video-am-nhac-nhieu-luot-xem-youtube_VI.xlsx",
+          "size": 9956
         }
       }
     },

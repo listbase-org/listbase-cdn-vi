@@ -1,0 +1,456 @@
+{
+  "id": "vi-video-am-nhac-nhieu-luot-xem-youtube",
+  "name": "Video âm nhạc Việt Nam có lượt xem nhiều nhất trên YouTube",
+  "title": "Video âm nhạc Việt Nam có lượt xem nhiều nhất trên YouTube",
+  "description": "Danh sách 50 video âm nhạc Việt Nam có lượt xem nhiều nhất mọi thời đại trên YouTube, kèm nghệ sĩ, ngày phát hành, lượt xem (triệu) và thể loại.",
+  "category": "music",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_video_%C3%A2m_nh%E1%BA%A1c_c%C3%B3_l%C6%B0%E1%BB%A3t_xem_nhi%E1%BB%81u_nh%E1%BA%A5t_YouTube_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_video_%C3%A2m_nh%E1%BA%A1c_c%C3%B3_l%C6%B0%E1%BB%A3t_xem_nhi%E1%BB%81u_nh%E1%BA%A5t_YouTube_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "song",
+      "label": "Song",
+      "type": "string"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    },
+    {
+      "key": "release_date",
+      "label": "Release Date",
+      "type": "string"
+    },
+    {
+      "key": "views_million",
+      "label": "Views Million",
+      "type": "number"
+    },
+    {
+      "key": "genre",
+      "label": "Genre",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "song": "Một con vịt",
+      "artist": "Heo Con",
+      "release_date": "31 tháng 8 năm 2019",
+      "views_million": 1193,
+      "genre": "Nhạc thiếu nhi"
+    },
+    {
+      "rank": 2,
+      "song": "Cả nhà thương nhau (hoạt hình 2D)",
+      "artist": "Nhạc thiếu nhi - Sáo TV",
+      "release_date": "9 tháng 9 năm 2017",
+      "views_million": 738,
+      "genre": "Nhạc thiếu nhi"
+    },
+    {
+      "rank": 3,
+      "song": "A con cá sấu",
+      "artist": "Voi TV",
+      "release_date": "16 tháng 7 năm 2018",
+      "views_million": 719,
+      "genre": "Nhạc thiếu nhi"
+    },
+    {
+      "rank": 4,
+      "song": "Bống Bống Bang Bang",
+      "artist": "Bảo Ngư",
+      "release_date": "11 tháng 8 năm 2016",
+      "views_million": 616,
+      "genre": "Nhạc thiếu nhi"
+    },
+    {
+      "rank": 5,
+      "song": "Bống bống bang bang",
+      "artist": "365daband",
+      "release_date": "27 tháng 6 năm 2016",
+      "views_million": 618,
+      "genre": "Nhạc thiếu nhi, nhạc phim"
+    },
+    {
+      "rank": 6,
+      "song": "Thương lắm thầy cô ơi!",
+      "artist": "Phan Hiếu Kiên",
+      "release_date": "15 tháng 7 năm 2014",
+      "views_million": 519,
+      "genre": "Nhạc thiếu nhi"
+    },
+    {
+      "rank": 7,
+      "song": "Tập thể dục buổi sáng",
+      "artist": "Mai Vy",
+      "release_date": "21 tháng 5 năm 2019",
+      "views_million": 486,
+      "genre": "Nhạc thiếu nhi"
+    },
+    {
+      "rank": 8,
+      "song": "Sóng gió",
+      "artist": "Jack, K-ICM",
+      "release_date": "12 tháng 7 năm 2019",
+      "views_million": 449,
+      "genre": "Rap, pop, ballad"
+    },
+    {
+      "rank": 9,
+      "song": "Nơi này có anh",
+      "artist": "Sơn Tùng M-TP",
+      "release_date": "14 tháng 2 năm 2017",
+      "views_million": 448,
+      "genre": "Pop, R&B"
+    },
+    {
+      "rank": 10,
+      "song": "Xúc xắc xúc xẻ",
+      "artist": "Bảo An, Phi Long",
+      "release_date": "30 tháng 1 năm 2011",
+      "views_million": 432,
+      "genre": "Nhạc thiếu nhi"
+    },
+    {
+      "rank": 11,
+      "song": "Bạc phận",
+      "artist": "Jack, K-ICM",
+      "release_date": "16 tháng 4 năm 2019",
+      "views_million": 418,
+      "genre": "Rap, pop"
+    },
+    {
+      "rank": 12,
+      "song": "Cả Nhà Thương Nhau (học màu sắc tiếng Anh với đồ chơi Playdoh)",
+      "artist": "Nhạc thiếu nhi - Sáo TV",
+      "release_date": "9 tháng 5 năm 2018",
+      "views_million": 376.77,
+      "genre": "Nhạc thiếu nhi"
+    },
+    {
+      "rank": 13,
+      "song": "Xúc xắc xúc xẻ",
+      "artist": "Bảo An, Phi Long",
+      "release_date": "31 tháng 1 năm 2011",
+      "views_million": 376,
+      "genre": "Nhạc thiếu nhi"
+    },
+    {
+      "rank": 14,
+      "song": "Em gì ơi",
+      "artist": "Jack, K-ICM",
+      "release_date": "5 tháng 10 năm 2019",
+      "views_million": 369,
+      "genre": "Rap, pop"
+    },
+    {
+      "rank": 15,
+      "song": "2 phút hơn",
+      "artist": "Pháo, Kaiz",
+      "release_date": "28 tháng 11 năm 2020",
+      "views_million": 350,
+      "genre": "Rap, pop, remix"
+    },
+    {
+      "rank": 16,
+      "song": "Đại ca lớp 12A",
+      "artist": "Vanh Leg",
+      "release_date": "16 tháng 12 năm 2017",
+      "views_million": 341,
+      "genre": "Parody, pop"
+    },
+    {
+      "rank": 17,
+      "song": "Xúc xắc xúc xẻ",
+      "artist": "Nhạc thiếu nhi - Sáo TV",
+      "release_date": "21 tháng 8 năm 2017",
+      "views_million": 323.06,
+      "genre": "Nhạc thiếu nhi"
+    },
+    {
+      "rank": 18,
+      "song": "Hai bàn tay của em",
+      "artist": "Heo Con TV",
+      "release_date": "20 tháng 8 năm 2018",
+      "views_million": 300,
+      "genre": "Nhạc thiếu nhi"
+    },
+    {
+      "rank": 19,
+      "song": "Hồng nhan",
+      "artist": "Jack",
+      "release_date": "19 tháng 2 năm 2019",
+      "views_million": 295,
+      "genre": "Rap, pop"
+    },
+    {
+      "rank": 20,
+      "song": "Hãy trao cho anh",
+      "artist": "Sơn Tùng M-TP, Snoop Dogg",
+      "release_date": "1 tháng 7 năm 2019",
+      "views_million": 299,
+      "genre": "Hip hop, nhạc latinh"
+    },
+    {
+      "rank": 21,
+      "song": "Khúc hát mừng sinh nhật",
+      "artist": "Phan Đinh Tùng",
+      "release_date": "19 tháng 11 năm 2016",
+      "views_million": 284,
+      "genre": "Pop"
+    },
+    {
+      "rank": 22,
+      "song": "Lạc trôi",
+      "artist": "Sơn Tùng M-TP",
+      "release_date": "1 tháng 1 năm 2017",
+      "views_million": 279,
+      "genre": "Future bass, EDM, Folktronica"
+    },
+    {
+      "rank": 23,
+      "song": "Thằng điên",
+      "artist": "Phương Ly, JustaTee",
+      "release_date": "12 tháng 10 năm 2018",
+      "views_million": 275,
+      "genre": "Pop"
+    },
+    {
+      "rank": 24,
+      "song": "Sức mạnh của sao đỏ",
+      "artist": "Hậu Hoàng",
+      "release_date": "23 tháng 9 năm 2019",
+      "views_million": 267,
+      "genre": "Parody, pop"
+    },
+    {
+      "rank": 25,
+      "song": "Dậy đi ba ơi",
+      "artist": "Thanh Hằng",
+      "release_date": "21 tháng 9 năm 2017",
+      "views_million": 263,
+      "genre": "Nhạc thiếu nhi"
+    },
+    {
+      "rank": 26,
+      "song": "Phía sau một cô gái",
+      "artist": "Soobin Hoàng Sơn",
+      "release_date": "18 tháng 10 năm 2016",
+      "views_million": 257,
+      "genre": "Pop, ballad"
+    },
+    {
+      "rank": 27,
+      "song": "Xúc xắc xúc xẻ",
+      "artist": "Tú Anh",
+      "release_date": "14 tháng 1 năm 2017",
+      "views_million": 256,
+      "genre": "Nhạc thiếu nhi, cover"
+    },
+    {
+      "rank": 28,
+      "song": "Chuyện cũ bỏ qua",
+      "artist": "Bích Phương",
+      "release_date": "25 tháng 12 năm 2018",
+      "views_million": 249,
+      "genre": "Pop, nhạc tết"
+    },
+    {
+      "rank": 29,
+      "song": "Mình cưới nhau đi",
+      "artist": "Pjnboys, Huỳnh James",
+      "release_date": "2 tháng 2 năm 2018",
+      "views_million": 243,
+      "genre": "Rap, pop"
+    },
+    {
+      "rank": 30,
+      "song": "Ngắm hoa lệ rơi",
+      "artist": "Châu Khải Phong",
+      "release_date": "17 tháng 3 năm 2018",
+      "views_million": 240,
+      "genre": "Pop, ballad"
+    },
+    {
+      "rank": 31,
+      "song": "Anh thanh niên",
+      "artist": "HuyR",
+      "release_date": "21 tháng 1 năm 2020",
+      "views_million": 237,
+      "genre": "Rap, pop"
+    },
+    {
+      "rank": 32,
+      "song": "2 phút hơn",
+      "artist": "Pháo, Kaiz",
+      "release_date": "18 tháng 1 năm 2021",
+      "views_million": 236,
+      "genre": "Rap, Pop, EDM"
+    },
+    {
+      "rank": 33,
+      "song": "Chúng ta không thuộc về nhau",
+      "artist": "Sơn Tùng M-TP",
+      "release_date": "3 tháng 8 năm 2016",
+      "views_million": 235,
+      "genre": "Tropical house"
+    },
+    {
+      "rank": 34,
+      "song": "Sữa chuối tranh tài",
+      "artist": "Bào Ngư, Gia Khiêm, Hứa Minh Đạt, Lâm Vỹ Dạ",
+      "release_date": "23 tháng 8 năm 2018",
+      "views_million": 234,
+      "genre": "Parody, pop, quảng cáo"
+    },
+    {
+      "rank": 35,
+      "song": "Người lạ ơi",
+      "artist": "Karik, Orange",
+      "release_date": "6 tháng 1 năm 2018",
+      "views_million": 232,
+      "genre": "Rap, R&B, hiphop"
+    },
+    {
+      "rank": 36,
+      "song": "Mẹ ơi, tại sao",
+      "artist": "Bảo An",
+      "release_date": "5 tháng 12 năm 2012",
+      "views_million": 231,
+      "genre": "Nhạc thiếu nhi"
+    },
+    {
+      "rank": 37,
+      "song": "Muộn rồi mà sao còn",
+      "artist": "Sơn Tùng M-TP",
+      "release_date": "29 tháng 4 năm 2021",
+      "views_million": 229,
+      "genre": "Pop, R&B"
+    },
+    {
+      "rank": 38,
+      "song": "Bí quyết nuôi con phát triển toàn diện",
+      "artist": "Phan Mạnh Quỳnh, Thu Trang, Huỳnh Lập",
+      "release_date": "12 tháng 10 năm 2016",
+      "views_million": 222,
+      "genre": "Parody, pop, quảng cáo"
+    },
+    {
+      "rank": 39,
+      "song": "Hoa hải đường",
+      "artist": "Jack",
+      "release_date": "22 tháng 9 năm 2020",
+      "views_million": 220.6,
+      "genre": "Rap, Pop, EDM"
+    },
+    {
+      "rank": 40,
+      "song": "Hoa nở không màu",
+      "artist": "Hoài Lâm",
+      "release_date": "26 tháng 6 năm 2020",
+      "views_million": 220.5,
+      "genre": "Pop, acoustic"
+    },
+    {
+      "rank": 41,
+      "song": "Bé thương ông địa",
+      "artist": "Trúc Tiên",
+      "release_date": "24 tháng 5 năm 2016",
+      "views_million": 216,
+      "genre": "Nhạc thiếu nhi"
+    },
+    {
+      "rank": 42,
+      "song": "Túy âm",
+      "artist": "Xesi, Masew, Nhatnguyen",
+      "release_date": "25 tháng 8 năm 2017",
+      "views_million": 215,
+      "genre": "Pop, EDM"
+    },
+    {
+      "rank": 43,
+      "song": "Tháng tư là lời nói dối của em",
+      "artist": "Hà Anh Tuấn",
+      "release_date": "14 tháng 9 năm 2016",
+      "views_million": 213,
+      "genre": "Pop, ballad"
+    },
+    {
+      "rank": 44,
+      "song": "Rồi tới luôn",
+      "artist": "Nal",
+      "release_date": "25 tháng 7 năm 2021",
+      "views_million": 205,
+      "genre": "Pop"
+    },
+    {
+      "rank": 45,
+      "song": "Những Chị Đại Học Đường",
+      "artist": "Hậu Hoàng",
+      "release_date": "11 tháng 3 năm 2019",
+      "views_million": 203,
+      "genre": "Parody, pop"
+    },
+    {
+      "rank": 46,
+      "song": "Từng yêu",
+      "artist": "Phan Duy Anh",
+      "release_date": "12 tháng 6 năm 2019",
+      "views_million": 203,
+      "genre": "Pop, ballad"
+    },
+    {
+      "rank": 47,
+      "song": "Đã lỡ yêu em nhiều",
+      "artist": "JustaTee",
+      "release_date": "13 tháng 11 năm 2017",
+      "views_million": 200,
+      "genre": "Pop"
+    },
+    {
+      "rank": 48,
+      "song": "Mượn rượu tỏ tình",
+      "artist": "BigDaddy, Emily",
+      "release_date": "8 tháng 2 năm 2019",
+      "views_million": 199.6,
+      "genre": "Rap, pop"
+    },
+    {
+      "rank": 49,
+      "song": "Giấc mộng ca sĩ",
+      "artist": "Vanh Leg",
+      "release_date": "8 tháng 4 năm 2018",
+      "views_million": 199.2,
+      "genre": "Parody, pop"
+    },
+    {
+      "rank": 50,
+      "song": "Chạm đáy nỗi đau",
+      "artist": "Erik, Mr. Siro",
+      "release_date": "27 tháng 4 năm 2018",
+      "views_million": 192,
+      "genre": "Pop, ballad"
+    }
+  ],
+  "meta": {
+    "title": "Video âm nhạc Việt Nam có lượt xem nhiều nhất trên YouTube - Free Download",
+    "description": "Danh sách 50 video âm nhạc Việt Nam có lượt xem nhiều nhất mọi thời đại trên YouTube, kèm nghệ sĩ, ngày phát hành, lượt xem (triệu) và thể loại. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Video âm nhạc Việt Nam có lượt xem nhiều nhất trên YouTube | ListBase",
+    "seo_description": "Download Video âm nhạc Việt Nam có lượt xem nhiều nhất trên YouTube — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_video_%C3%A2m_nh%E1%BA%A1c_c%C3%B3_l%C6%B0%E1%BB%A3t_xem_nhi%E1%BB%81u_nh%E1%BA%A5t_YouTube_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}
