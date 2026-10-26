@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-26T02:12:21.865Z",
-  "total_datasets": 534,
-  "total_records": 125348,
+  "generated": "2026-10-26T02:12:24.272Z",
+  "total_datasets": 535,
+  "total_records": 125613,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "entertainment",
@@ -844,6 +844,34 @@
         "xlsx": {
           "name": "vi-truong-thpt-chuyen_VI.xlsx",
           "size": 11256
+        }
+      }
+    },
+    {
+      "id": "vi-truong-thpt-ha-noi",
+      "name": "Danh sách trường trung học phổ thông tại Hà Nội",
+      "category": "education",
+      "record_count": 265,
+      "columns": [
+        "stt",
+        "name",
+        "founded",
+        "address",
+        "school_code",
+        "type",
+        "ward"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%C6%B0%E1%BB%9Dng_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_t%E1%BA%A1i_H%C3%A0_N%E1%BB%99i",
+      "updated": "2026-10",
+      "size": 75331,
+      "files": {
+        "csv": {
+          "name": "vi-truong-thpt-ha-noi_VI.csv",
+          "size": 39796
+        },
+        "xlsx": {
+          "name": "vi-truong-thpt-ha-noi_VI.xlsx",
+          "size": 23044
         }
       }
     },

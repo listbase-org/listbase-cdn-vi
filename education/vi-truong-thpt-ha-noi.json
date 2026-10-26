@@ -1,0 +1,2446 @@
+{
+  "id": "vi-truong-thpt-ha-noi",
+  "name": "Danh sách trường trung học phổ thông tại Hà Nội",
+  "title": "Danh sách trường trung học phổ thông tại Hà Nội",
+  "description": "Danh sách các trường THPT tại Hà Nội (chuyên, công lập, dân lập, tư thục, quốc tế) kèm năm thành lập, địa chỉ và mã trường.",
+  "category": "education",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%C6%B0%E1%BB%9Dng_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_t%E1%BA%A1i_H%C3%A0_N%E1%BB%99i",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%C6%B0%E1%BB%9Dng_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_t%E1%BA%A1i_H%C3%A0_N%E1%BB%99i",
+  "updated": "2026-10",
+  "record_count": 265,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "school_code",
+      "label": "School Code",
+      "type": "number"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "ward",
+      "label": "Ward",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 1,
+      "name": "Trường THPT chuyên Hà Nội - Amsterdam",
+      "founded": 1985,
+      "address": "Số 1, đường Hoàng Minh Giám, phường Yên Hòa",
+      "school_code": "",
+      "type": "Trường chuyên thuộc Sở Giáo dục và Đào tạo",
+      "ward": ""
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT chuyên Nguyễn Huệ",
+      "founded": 1947,
+      "address": "Số 560B, đường Quang Trung, phường Dương Nội",
+      "school_code": "",
+      "type": "Trường chuyên thuộc Sở Giáo dục và Đào tạo",
+      "ward": ""
+    },
+    {
+      "stt": 3,
+      "name": "Trường THPT chuyên Chu Văn An",
+      "founded": 1908,
+      "address": "Số 10, đường Thụy Khuê, phường Tây Hồ",
+      "school_code": "",
+      "type": "Trường chuyên thuộc Sở Giáo dục và Đào tạo",
+      "ward": ""
+    },
+    {
+      "stt": 4,
+      "name": "Trường THPT chuyên Sơn Tây",
+      "founded": 1959,
+      "address": "Số 45, đường Đền Và, phường Sơn Tây",
+      "school_code": "",
+      "type": "Trường chuyên thuộc Sở Giáo dục và Đào tạo",
+      "ward": ""
+    },
+    {
+      "stt": 5,
+      "name": "Trường THPT chuyên Đại học Sư phạm Hà Nội",
+      "founded": 1966,
+      "address": "Số 136, đường Xuân Thủy, phường Cầu Giấy",
+      "school_code": "",
+      "type": "Trường chuyên thuộc Sở Giáo dục và Đào tạo",
+      "ward": "Trường chuyên thuộc các Trường Đại học"
+    },
+    {
+      "stt": 6,
+      "name": "Trường THPT chuyên Ngoại ngữ",
+      "founded": 1969,
+      "address": "Số 2, đường Phạm Văn Đồng, phường Cầu Giấy",
+      "school_code": "",
+      "type": "Trường chuyên thuộc Sở Giáo dục và Đào tạo",
+      "ward": "Trường chuyên thuộc các Trường Đại học"
+    },
+    {
+      "stt": 7,
+      "name": "Trường THPT chuyên Khoa học Tự nhiên",
+      "founded": 1965,
+      "address": "Số 182, đường Lương Thế Vinh, phường Thanh Xuân",
+      "school_code": "",
+      "type": "Trường chuyên thuộc Sở Giáo dục và Đào tạo",
+      "ward": "Trường chuyên thuộc các Trường Đại học"
+    },
+    {
+      "stt": 8,
+      "name": "Trường THPT chuyên Khoa học Xã hội và Nhân văn",
+      "founded": 2019,
+      "address": "Số 336, đường Nguyễn Trãi, phường Thanh Xuân",
+      "school_code": "",
+      "type": "Trường chuyên thuộc Sở Giáo dục và Đào tạo",
+      "ward": "Trường chuyên thuộc các Trường Đại học"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Phan Đình Phùng",
+      "founded": "10/3/1973",
+      "address": "Số 30, phố Phan Đình Phùng, phường Ba Đình",
+      "school_code": "0103",
+      "type": "Các trường công lập",
+      "ward": "Phường Ba Đình"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Đoàn Kết - Hai Bà Trưng",
+      "founded": 1960,
+      "address": "Số 174, phố Hồng Mai, phường Bạch Mai",
+      "school_code": "1101",
+      "type": "Các trường công lập",
+      "ward": "Phường Bạch Mai"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Thăng Long",
+      "founded": "1920; 1965",
+      "address": "Số 44, phố Tạ Quang Bửu, phường Bạch Mai",
+      "school_code": "1102",
+      "type": "Các trường công lập",
+      "ward": "Phường Bạch Mai"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Nguyễn Gia Thiều",
+      "founded": 1950,
+      "address": "Số 27, ngõ 298 phố Ngọc Lâm, phường Bồ Đề",
+      "school_code": "1502",
+      "type": "Các trường công lập",
+      "ward": "Phường Bồ Đề"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Chương Mỹ A",
+      "founded": "10/1963",
+      "address": "Số 42, đường Yên Sơn, phường Chương Mỹ",
+      "school_code": "0502",
+      "type": "Các trường công lập",
+      "ward": "Phường Chương Mỹ"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Trần Phú - Hoàn Kiếm",
+      "founded": "01/11/1960",
+      "address": "Số 8, phố Hai Bà Trưng, phường Cửa Nam",
+      "school_code": "1301",
+      "type": "Các trường công lập",
+      "ward": "Phường Cửa Nam"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Việt Đức",
+      "founded": "03/03/1955",
+      "address": "Số 47, phố Lý Thường Kiệt, phường Cửa Nam",
+      "school_code": "1302",
+      "type": "Các trường công lập",
+      "ward": "Phường Cửa Nam"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Trung Văn",
+      "founded": "7/2008",
+      "address": "Phố Tố Hữu, phường Đại Mỗ",
+      "school_code": "1802",
+      "type": "Các trường công lập",
+      "ward": "Phường Đại Mỗ"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Lê Quý Đôn - Đống Đa",
+      "founded": 1970,
+      "address": "Số 195, ngõ Xã Đàn 2, phường Đống Đa",
+      "school_code": "0803",
+      "type": "Các trường công lập",
+      "ward": "Phường Đống Đa"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Quang Trung - Đống Đa",
+      "founded": 1970,
+      "address": "Số 178, đường Láng, phường Đống Đa",
+      "school_code": "0804",
+      "type": "Các trường công lập",
+      "ward": "Phường Đống Đa"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT chuyên Nguyễn Huệ",
+      "founded": 1947,
+      "address": "Số 560B, đường Quang Trung, phường Dương Nội",
+      "school_code": "1001",
+      "type": "Các trường công lập",
+      "ward": "Phường Dương Nội"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Nguyễn Trãi - Ba Đình",
+      "founded": "24/8/1950",
+      "address": "Số 50, phố Nam Cao, phường Giảng Võ",
+      "school_code": "0101",
+      "type": "Các trường công lập",
+      "ward": "Phường Giảng Võ"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Phạm Hồng Thái",
+      "founded": 1976,
+      "address": "Số 1, phố Nguyễn Văn Ngọc, phường Giảng Võ",
+      "school_code": "0102",
+      "type": "Các trường công lập",
+      "ward": "Phường Giảng Võ"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Lê Lợi",
+      "founded": 2013,
+      "address": "Số 72, phố Bà Triệu, phường Hà Đông",
+      "school_code": "1002",
+      "type": "Các trường công lập",
+      "ward": "Phường Hà Đông"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Lê Quý Đôn - Hà Đông",
+      "founded": "14/12/1970",
+      "address": "Số 4, phố Nhuệ Giang, phường Hà Đông",
+      "school_code": "1003",
+      "type": "Các trường công lập",
+      "ward": "Phường Hà Đông"
+    },
+    {
+      "stt": 3,
+      "name": "Trường THPT Quang Trung - Hà Đông",
+      "founded": 1985,
+      "address": "Ngõ 2, đường Quang Trung, phường Hà Đông",
+      "school_code": "1004",
+      "type": "Các trường công lập",
+      "ward": "Phường Hà Đông"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Trần Nhân Tông",
+      "founded": 1960,
+      "address": "Số 15, phố Hương Viên, phường Hai Bà Trưng",
+      "school_code": "1103",
+      "type": "Các trường công lập",
+      "ward": "Phường Hai Bà Trưng"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Việt Nam - Ba Lan",
+      "founded": "26/3/1960",
+      "address": "Số 1, ngõ 48 đường Ngọc Hồi, phường Hoàng Liệt",
+      "school_code": "1403",
+      "type": "Các trường công lập",
+      "ward": "Phường Hoàng Liệt"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Hoàng Văn Thụ",
+      "founded": 1967,
+      "address": "Số 234, đường Lĩnh Nam, phường Hoàng Mai",
+      "school_code": "1401",
+      "type": "Các trường công lập",
+      "ward": "Phường Hoàng Mai"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Trương Định",
+      "founded": 1973,
+      "address": "Số 204, phố Tân Mai, phường Hoàng Mai",
+      "school_code": "1402",
+      "type": "Các trường công lập",
+      "ward": "Phường Hoàng Mai"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Khương Đình",
+      "founded": "25/7/2020",
+      "address": "Ngách 29/78 phố Khương Hạ, phường Khương Đình",
+      "school_code": "2803",
+      "type": "Các trường công lập",
+      "ward": "Phường Khương Đình"
+    },
+    {
+      "stt": 2,
+      "name": "Trường TH, THCS và THPT Khương Hạ",
+      "founded": 2021,
+      "address": "Số 31, phố Khương Hạ, phường Khương Đình",
+      "school_code": "2804",
+      "type": "Các trường công lập",
+      "ward": "Phường Khương Đình"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Kim Liên",
+      "founded": 1974,
+      "address": "Số 1, ngõ 4C phố Đặng Văn Ngữ, phường Kim Liên",
+      "school_code": "0802",
+      "type": "Các trường công lập",
+      "ward": "Phường Kim Liên"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Thạch Bàn",
+      "founded": 2012,
+      "address": "Số 2, phố Vũ Đình Tụng, phường Long Biên",
+      "school_code": "1504",
+      "type": "Các trường công lập",
+      "ward": "Phường Long Biên"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Cầu Giấy",
+      "founded": "27/4/2007",
+      "address": "Số 8, ngõ 118 đường Nguyễn Khánh Toàn, phường Nghĩa Đô",
+      "school_code": "0402",
+      "type": "Các trường công lập",
+      "ward": "Phường Nghĩa Đô"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Đống Đa",
+      "founded": 1960,
+      "address": "Số 10, ngõ Quan Thổ 1, phố Tôn Đức Thắng, phường Ô Chợ Dừa",
+      "school_code": "0801",
+      "type": "Các trường công lập",
+      "ward": "Phường Ô Chợ Dừa"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Hoàng Cầu",
+      "founded": 1977,
+      "address": "Số 27/44, phố Nguyễn Phúc Lai, phường Ô Chợ Dừa",
+      "school_code": "0805",
+      "type": "Các trường công lập",
+      "ward": "Phường Ô Chợ Dừa"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Nguyễn Thị Minh Khai",
+      "founded": 1965,
+      "address": "Số 4, phố Võ Quý Huân, phường Phú Diễn",
+      "school_code": "0301",
+      "type": "Các trường công lập",
+      "ward": "Phường Phú Diễn"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Trần Hưng Đạo - Hà Đông",
+      "founded": "08/1985",
+      "address": "Số 157, phố Xốm, phường Phú Lương",
+      "school_code": "1005",
+      "type": "Các trường công lập",
+      "ward": "Phường Phú Lương"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Tây Hồ",
+      "founded": "07/2002",
+      "address": "Số 143, phố Phú Thượng, phường Phú Thượng",
+      "school_code": "2402",
+      "type": "Các trường công lập",
+      "ward": "Phường Phú Thượng"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Phúc Lợi",
+      "founded": "04/07/2014",
+      "address": "Đường Phúc Lợi, Tổ 4, phường Phúc Lợi",
+      "school_code": "1503",
+      "type": "Các trường công lập",
+      "ward": "Phường Phúc Lợi"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT chuyên Sơn Tây",
+      "founded": 1959,
+      "address": "Số 45, đường Đền Và, phường Sơn Tây",
+      "school_code": "2301",
+      "type": "Các trường công lập",
+      "ward": "Phường Sơn Tây"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT chuyên Chu Văn An",
+      "founded": 1908,
+      "address": "Số 10, đường Thụy Khuê, phường Tây Hồ",
+      "school_code": "2401",
+      "type": "Các trường công lập",
+      "ward": "Phường Tây Hồ"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Đại Mỗ",
+      "founded": "20/07/2002",
+      "address": "Ngõ 8 phố Quang Tiến, phường Tây Mỗ",
+      "school_code": "1801",
+      "type": "Các trường công lập",
+      "ward": "Phường Tây Mỗ"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Trần Hưng Đạo - Thanh Xuân",
+      "founded": "10/10/1993",
+      "address": "Ngõ 477 đường Nguyễn Trãi, phường Thanh Liệt",
+      "school_code": "2802",
+      "type": "Các trường công lập",
+      "ward": "Phường Thanh Liệt"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Nhân Chính",
+      "founded": "24/07/2002",
+      "address": "Số 1, phố Ngụy Như Kon Tum, phường Thanh Xuân",
+      "school_code": "2801",
+      "type": "Các trường công lập",
+      "ward": "Phường Thanh Xuân"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Thượng Cát",
+      "founded": 2004,
+      "address": "Đường Sùng Khang, phường Thượng Cát",
+      "school_code": "0302",
+      "type": "Các trường công lập",
+      "ward": "Phường Thượng Cát"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Mỹ Đình",
+      "founded": 2021,
+      "address": "Sô 89, đường Mỹ Đình, phường Từ Liêm",
+      "school_code": "1804",
+      "type": "Các trường công lập",
+      "ward": "Phường Từ Liêm"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Tùng Thiện",
+      "founded": 1966,
+      "address": "Số 20, phố Tùng Thiện, phường Tùng Thiện",
+      "school_code": "2302",
+      "type": "Các trường công lập",
+      "ward": "Phường Tùng Thiện"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Xuân Khanh",
+      "founded": 1992,
+      "address": "Số 175, đường Đá Bạc, phường Tùng Thiện",
+      "school_code": "2303",
+      "type": "Các trường công lập",
+      "ward": "Phường Tùng Thiện"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Lý Thường Kiệt",
+      "founded": 2002,
+      "address": "Tổ 11, ngõ 94 phố Thượng Thanh, phường Việt Hưng",
+      "school_code": "1501",
+      "type": "Các trường công lập",
+      "ward": "Phường Việt Hưng"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Xuân Đỉnh",
+      "founded": 1960,
+      "address": "Số 178, đường Xuân Đỉnh, phường Xuân Đỉnh",
+      "school_code": "0303",
+      "type": "Các trường công lập",
+      "ward": "Phường Xuân Đỉnh"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Xuân Phương",
+      "founded": "26/4/2018",
+      "address": "Khu đô thị mới Xuân Phương, tổ 3, phường Xuân Phương",
+      "school_code": "1803",
+      "type": "Các trường công lập",
+      "ward": "Phường Xuân Phương"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT chuyên Hà Nội - Amsterdam",
+      "founded": 1985,
+      "address": "Số 1, đường Hoàng Minh Giám, phường Yên Hòa",
+      "school_code": "0401",
+      "type": "Các trường công lập",
+      "ward": "Phường Yên Hòa"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Yên Hòa",
+      "founded": 1960,
+      "address": "Ngõ 251, đường Nguyễn Khang, phường Yên Hòa",
+      "school_code": "0403",
+      "type": "Các trường công lập",
+      "ward": "Phường Yên Hòa"
+    },
+    {
+      "stt": 3,
+      "name": "Trường THPT Hoàng Quán Chi",
+      "founded": 2026,
+      "address": "Phố Nguyễn Như Uyên, phường Yên Hòa",
+      "school_code": "0405",
+      "type": "Các trường công lập",
+      "ward": "Phường Yên Hòa"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Đỗ Mười",
+      "founded": "14/7/2025",
+      "address": "Số 286, phố Trần Thủ Độ, phường Yên Sở",
+      "school_code": "1404",
+      "type": "Các trường công lập",
+      "ward": "Phường Yên Sở"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Hoài Đức B",
+      "founded": "25/11/1978",
+      "address": "Đường Chùa Tổng, thôn Ngãi Cầu, xã An Khánh",
+      "school_code": "1202",
+      "type": "Các trường công lập",
+      "ward": "Xã An Khánh"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Minh Quang",
+      "founded": 2014,
+      "address": "Thôn Lặt, xã Ba Vì",
+      "school_code": "0203",
+      "type": "Các trường công lập",
+      "ward": "Xã Ba Vì"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Bất Bạt",
+      "founded": 1965,
+      "address": "Thôn Khê Thượng, xã Bất Bạt",
+      "school_code": "0202",
+      "type": "Các trường công lập",
+      "ward": "Xã Bất Bạt"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Nguyễn Văn Cừ",
+      "founded": 1977,
+      "address": "Đường Bát Khối, xã Bát Tràng",
+      "school_code": "0903",
+      "type": "Các trường công lập",
+      "ward": "Xã Bát Tràng"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Tô Hiệu - Thường Tín",
+      "founded": 1984,
+      "address": "Thôn An Duyên, xã Chương Dương",
+      "school_code": "2903",
+      "type": "Các trường công lập",
+      "ward": "Xã Chương Dương"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Tân Dân",
+      "founded": 1998,
+      "address": "Thôn Đại Nghiệp, xã Chuyên Mỹ",
+      "school_code": "1904",
+      "type": "Các trường công lập",
+      "ward": "Xã Chuyên Mỹ"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Ngô Quyền - Ba Vì",
+      "founded": 1982,
+      "address": "Xã Cổ Đô",
+      "school_code": "0204",
+      "type": "Các trường công lập",
+      "ward": "Xã Cổ Đô"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Xuân Giang",
+      "founded": 2006,
+      "address": "Phố Thá, xã Đa Phúc",
+      "school_code": "2206",
+      "type": "Các trường công lập",
+      "ward": "Xã Đa Phúc"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Ngô Thì Nhậm",
+      "founded": "10/10/1977",
+      "address": "Đường Tả Thanh Oai, xã Đại Thanh",
+      "school_code": "2702",
+      "type": "Các trường công lập",
+      "ward": "Xã Đại Thanh"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Phú Xuyên B",
+      "founded": "17/11/1971",
+      "address": "Thôn Tri Thủy, xã Đại Xuyên",
+      "school_code": "1903",
+      "type": "Các trường công lập",
+      "ward": "Xã Đại Xuyên"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Nguyễn Du - Thanh Oai",
+      "founded": "15/08/1985",
+      "address": "Quốc lộ 21B, xã Dân Hòa",
+      "school_code": "2601",
+      "type": "Các trường công lập",
+      "ward": "Xã Dân Hòa"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Đan Phượng",
+      "founded": 1962,
+      "address": "Số 19, phố Phan Đình Phùng, xã Đan Phượng",
+      "school_code": "0601",
+      "type": "Các trường công lập",
+      "ward": "Xã Đan Phượng"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Cổ Loa",
+      "founded": 1966,
+      "address": "Số 1, đường Đông Hội, xã Đông Anh",
+      "school_code": "0702",
+      "type": "Các trường công lập",
+      "ward": "Xã Đông Anh"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Việt Hùng",
+      "founded": 2026,
+      "address": "Thôn Đông, xã Đông Anh",
+      "school_code": "0707",
+      "type": "Các trường công lập",
+      "ward": "Xã Đông Anh"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Vạn Xuân - Hoài Đức",
+      "founded": "6/3/2002",
+      "address": "Số 11, đường Quế Dương, thôn 2, xã Dương Hòa",
+      "school_code": "1203",
+      "type": "Các trường công lập",
+      "ward": "Xã Dương Hòa"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Cao Bá Quát - Gia Lâm",
+      "founded": 1961,
+      "address": "Số 57, đường Cổ Bi, xã Gia Lâm",
+      "school_code": "0901",
+      "type": "Các trường công lập",
+      "ward": "Xã Gia Lâm"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Dương Xá",
+      "founded": "09/1971",
+      "address": "Số 48, đường Ỷ Lan, xã Gia Lâm",
+      "school_code": "0902",
+      "type": "Các trường công lập",
+      "ward": "Xã Gia Lâm"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Hai Bà Trưng - Thạch Thất",
+      "founded": "07/2002",
+      "address": "Thôn Tân Xã, xã Hạ Bằng",
+      "school_code": "2502",
+      "type": "Các trường công lập",
+      "ward": "Xã Hạ Bằng"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Ngọc Tảo",
+      "founded": 1983,
+      "address": "Thôn Ngọc Tảo 8, xã Hát Môn",
+      "school_code": "2001",
+      "type": "Các trường công lập",
+      "ward": "Xã Hát Môn"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Chương Mỹ B",
+      "founded": "8/1983",
+      "address": "Xã Hòa Phú",
+      "school_code": "0503",
+      "type": "Các trường công lập",
+      "ward": "Xã Hòa Phú"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Lưu Hoàng",
+      "founded": 1984,
+      "address": "Thôn Ngoại Hoàng, xã Hòa Xá",
+      "school_code": "3002",
+      "type": "Các trường công lập",
+      "ward": "Xã Hòa Xá"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Hoài Đức A",
+      "founded": 1966,
+      "address": "Đường Triệu Túc, xã Hoài Đức",
+      "school_code": "1201",
+      "type": "Các trường công lập",
+      "ward": "Xã Hoài Đức"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Mỹ Đức B",
+      "founded": "08/1972",
+      "address": "Xã Hồng Sơn",
+      "school_code": "1703",
+      "type": "Các trường công lập",
+      "ward": "Xã Hồng Sơn"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Vân Tảo",
+      "founded": 1998,
+      "address": "Số 34 Vân Hoà, xã Hồng Vân",
+      "school_code": "2905",
+      "type": "Các trường công lập",
+      "ward": "Xã Hồng Vân"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Cao Bá Quát - Quốc Oai",
+      "founded": "06/1990",
+      "address": "Thôn 12, xã Hưng Đạo",
+      "school_code": "2101",
+      "type": "Các trường công lập",
+      "ward": "Xã Hưng Đạo"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Mỹ Đức C",
+      "founded": 1984,
+      "address": "Xã Hương Sơn",
+      "school_code": "1704",
+      "type": "Các trường công lập",
+      "ward": "Xã Hương Sơn"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Minh Khai",
+      "founded": "20/08/1985",
+      "address": "Thôn Cấn Hữu, xã Kiều Phú",
+      "school_code": "2102",
+      "type": "Các trường công lập",
+      "ward": "Xã Kiều Phú"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Minh Phú",
+      "founded": "06/2006",
+      "address": "Km9+500, Quốc lộ 35, xã Kim Anh",
+      "school_code": "2203",
+      "type": "Các trường công lập",
+      "ward": "Xã Kim Anh"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Thọ Xuân",
+      "founded": "16/05/2023",
+      "address": "Xã Liên Minh",
+      "school_code": "0604",
+      "type": "Các trường công lập",
+      "ward": "Xã Liên Minh"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Tiền Phong",
+      "founded": 2004,
+      "address": "QL.23, xã Mê Linh",
+      "school_code": "1603",
+      "type": "Các trường công lập",
+      "ward": "Xã Mê Linh"
+    },
+    {
+      "stt": 1,
+      "name": "Trường TH, THCS và THPT Minh Châu",
+      "founded": 2026,
+      "address": "Xã Minh Châu",
+      "school_code": "0207",
+      "type": "Các trường công lập",
+      "ward": "Xã Minh Châu"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Hợp Thanh",
+      "founded": 2004,
+      "address": "Xã Mỹ Đức",
+      "school_code": "1701",
+      "type": "Các trường công lập",
+      "ward": "Xã Mỹ Đức"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Mỹ Đức A",
+      "founded": "11/1965",
+      "address": "Xã Mỹ Đức",
+      "school_code": "1702",
+      "type": "Các trường công lập",
+      "ward": "Xã Mỹ Đức"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Đông Mỹ",
+      "founded": 2017,
+      "address": "Xã Nam Phù",
+      "school_code": "2703",
+      "type": "Các trường công lập",
+      "ward": "Xã Nam Phù"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Nguyễn Quốc Trinh",
+      "founded": "24/07/2019",
+      "address": "Đường Đại Hưng, xã Ngọc Hồi",
+      "school_code": "2704",
+      "type": "Các trường công lập",
+      "ward": "Xã Ngọc Hồi"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Kim Anh",
+      "founded": "09/1965",
+      "address": "Tổ dân cư Kim Anh, xã Nội Bài",
+      "school_code": "2202",
+      "type": "Các trường công lập",
+      "ward": "Xã Nội Bài"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Hồng Thái",
+      "founded": "30/10/1996",
+      "address": "Số 319, Hồng Giang, xã Ô Diên",
+      "school_code": "0602",
+      "type": "Các trường công lập",
+      "ward": "Xã Ô Diên"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Tân Lập",
+      "founded": "02/07/2003",
+      "address": "Số 251, đường Hạ Hội, xã Ô Diên",
+      "school_code": "0603",
+      "type": "Các trường công lập",
+      "ward": "Xã Ô Diên"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Yên Viên",
+      "founded": "8/1965",
+      "address": "Số 18, đường Đình Xuyên, xã Phù Đổng",
+      "school_code": "0904",
+      "type": "Các trường công lập",
+      "ward": "Xã Phù Đổng"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Phú Xuyên A",
+      "founded": 1957,
+      "address": "Thôn Phú Mỹ, xã Phú Xuyên",
+      "school_code": "1902",
+      "type": "Các trường công lập",
+      "ward": "Xã Phú Xuyên"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Phúc Thọ",
+      "founded": 1966,
+      "address": "Xã Phúc Lộc",
+      "school_code": "2002",
+      "type": "Các trường công lập",
+      "ward": "Xã Phúc Lộc"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Vân Cốc",
+      "founded": 1992,
+      "address": "Thôn Vân Nam 6, xã Phúc Lộc",
+      "school_code": "2003",
+      "type": "Các trường công lập",
+      "ward": "Xã Phúc Lộc"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Vân Nội",
+      "founded": "09/1965",
+      "address": "Thôn Ba Chữ, xã Phúc Thịnh",
+      "school_code": "0705",
+      "type": "Các trường công lập",
+      "ward": "Xã Phúc Thịnh"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Phúc Thịnh",
+      "founded": "14/07/2025",
+      "address": "Xã Phúc Thịnh",
+      "school_code": "0706",
+      "type": "Các trường công lập",
+      "ward": "Xã Phúc Thịnh"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Đồng Quan",
+      "founded": 1975,
+      "address": "Thôn Phượng Vũ, xã Phượng Dực",
+      "school_code": "1901",
+      "type": "Các trường công lập",
+      "ward": "Xã Phượng Dực"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Chúc Động",
+      "founded": 1987,
+      "address": "Xã Quảng Bị",
+      "school_code": "0501",
+      "type": "Các trường công lập",
+      "ward": "Xã Quảng Bị"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Mê Linh",
+      "founded": 1985,
+      "address": "Thôn Thường Lệ, xã Quang Minh",
+      "school_code": "1601",
+      "type": "Các trường công lập",
+      "ward": "Xã Quang Minh"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Quang Minh",
+      "founded": "06/2000",
+      "address": "Số 88, đường Chi Đông, xã Quang Minh",
+      "school_code": "1602",
+      "type": "Các trường công lập",
+      "ward": "Xã Quang Minh"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Quảng Oai",
+      "founded": 1961,
+      "address": "Số 288, đường Quảng Oai, xã Quảng Oai",
+      "school_code": "0205",
+      "type": "Các trường công lập",
+      "ward": "Xã Quảng Oai"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Quốc Oai",
+      "founded": 1962,
+      "address": "Thôn Phú Quốc, xã Quốc Oai",
+      "school_code": "2103",
+      "type": "Các trường công lập",
+      "ward": "Xã Quốc Oai"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Phan Huy Chú - Quốc Oai",
+      "founded": "26/06/2018",
+      "address": "Thôn Sài Khê, xã Quốc Oai",
+      "school_code": "2104",
+      "type": "Các trường công lập",
+      "ward": "Xã Quốc Oai"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Đa Phúc",
+      "founded": 1963,
+      "address": "Ngõ 29, đường Núi Đôi, xã Sóc Sơn",
+      "school_code": "2201",
+      "type": "Các trường công lập",
+      "ward": "Xã Sóc Sơn"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Sóc Sơn",
+      "founded": 1984,
+      "address": "Quốc lộ 2, xã Sóc Sơn",
+      "school_code": "2204",
+      "type": "Các trường công lập",
+      "ward": "Xã Sóc Sơn"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Hoài Đức C",
+      "founded": "06/1990",
+      "address": "Thôn Phương Bảng 1, xã Sơn Đồng",
+      "school_code": "1204",
+      "type": "Các trường công lập",
+      "ward": "Xã Sơn Đồng"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Ba Vì",
+      "founded": 1962,
+      "address": "Thôn 7, xã Suối Hai",
+      "school_code": "0201",
+      "type": "Các trường công lập",
+      "ward": "Xã Suối Hai"
+    },
+    {
+      "stt": 2,
+      "name": "Trường phổ thông Dân tộc Nội trú",
+      "founded": 1994,
+      "address": "Xã Suối Hai",
+      "school_code": "0206",
+      "type": "Các trường công lập",
+      "ward": "Xã Suối Hai"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Thanh Oai B",
+      "founded": 1973,
+      "address": "Xã Tam Hưng",
+      "school_code": "2603",
+      "type": "Các trường công lập",
+      "ward": "Xã Tam Hưng"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Phùng Khắc Khoan - Thạch Thất",
+      "founded": 1984,
+      "address": "Thôn Bình Phú, xã Tây Phương",
+      "school_code": "2503",
+      "type": "Các trường công lập",
+      "ward": "Xã Tây Phương"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Minh Hà",
+      "founded": "07/2022",
+      "address": "Xã Tây Phương",
+      "school_code": "2505",
+      "type": "Các trường công lập",
+      "ward": "Xã Tây Phương"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Thạch Thất",
+      "founded": 1966,
+      "address": "Số 120, đường 84, xã Thạch Thất",
+      "school_code": "2504",
+      "type": "Các trường công lập",
+      "ward": "Xã Thạch Thất"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Thanh Oai A",
+      "founded": "09/1965",
+      "address": "Xã Thanh Oai",
+      "school_code": "2602",
+      "type": "Các trường công lập",
+      "ward": "Xã Thanh Oai"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Ngọc Hồi",
+      "founded": 1966,
+      "address": "Đường Lưu Phái, xã Thanh Trì",
+      "school_code": "2701",
+      "type": "Các trường công lập",
+      "ward": "Xã Thanh Trì"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Bắc Thăng Long",
+      "founded": 2010,
+      "address": "Thôn Bầu, xã Thiên Lộc",
+      "school_code": "0701",
+      "type": "Các trường công lập",
+      "ward": "Xã Thiên Lộc"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Đông Anh",
+      "founded": 1999,
+      "address": "Tổ 9, xã Thư Lâm",
+      "school_code": "0703",
+      "type": "Các trường công lập",
+      "ward": "Xã Thư Lâm"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Liên Hà",
+      "founded": 1966,
+      "address": "Thôn Lỗ Khê, xã Thư Lâm",
+      "school_code": "0704",
+      "type": "Các trường công lập",
+      "ward": "Xã Thư Lâm"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Lý Tử Tấn",
+      "founded": "05/2005",
+      "address": "Thôn Lộc Dư, xã Thượng Phúc",
+      "school_code": "2901",
+      "type": "Các trường công lập",
+      "ward": "Xã Thượng Phúc"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Nguyễn Trãi - Thường Tín",
+      "founded": 1985,
+      "address": "Thôn Thượng Đình, xã Thường Tín",
+      "school_code": "2902",
+      "type": "Các trường công lập",
+      "ward": "Xã Thường Tín"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Thường Tín",
+      "founded": 1958,
+      "address": "Đường Doãn Tuế, xã Thường Tín",
+      "school_code": "2904",
+      "type": "Các trường công lập",
+      "ward": "Xã Thường Tín"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Tự Lập",
+      "founded": 2008,
+      "address": "Thôn Phú Mỹ, xã Tiến Thắng",
+      "school_code": "1605",
+      "type": "Các trường công lập",
+      "ward": "Xã Tiến Thắng"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Nguyễn Văn Trỗi",
+      "founded": 2021,
+      "address": "Xã Trần Phú",
+      "school_code": "0505",
+      "type": "Các trường công lập",
+      "ward": "Xã Trần Phú"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Trung Giã",
+      "founded": 1999,
+      "address": "Phố Nỉ, xã Trung Giã",
+      "school_code": "2205",
+      "type": "Các trường công lập",
+      "ward": "Xã Trung Giã"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Đại Cường",
+      "founded": 2009,
+      "address": "Ngõ 25, thôn Kim Giang, xã Ứng Hoà",
+      "school_code": "3001",
+      "type": "Các trường công lập",
+      "ward": "Xã Ứng Hòa"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Ứng Hòa B",
+      "founded": "18/11/1967",
+      "address": "Thôn Đồng Xung, xã Ứng Hoà",
+      "school_code": "3005",
+      "type": "Các trường công lập",
+      "ward": "Xã Ứng Hòa"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Trần Đăng Ninh",
+      "founded": "09/1977",
+      "address": "Thôn Miêng Hạ, xã Ứng Thiên",
+      "school_code": "3003",
+      "type": "Các trường công lập",
+      "ward": "Xã Ứng Thiên"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Ứng Hòa A",
+      "founded": 1960,
+      "address": "175 Nguyễn Thượng Hiền, xã Vân Đình",
+      "school_code": "3004",
+      "type": "Các trường công lập",
+      "ward": "Xã Vân Đình"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Xuân Mai",
+      "founded": 1972,
+      "address": "Khu Tân Bình, xã Xuân Mai",
+      "school_code": "0504",
+      "type": "Các trường công lập",
+      "ward": "Xã Xuân Mai"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Tiến Thịnh",
+      "founded": 2003,
+      "address": "Thôn Thọ Lão, xã Yên Lãng",
+      "school_code": "1604",
+      "type": "Các trường công lập",
+      "ward": "Xã Yên Lãng"
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Yên Lãng",
+      "founded": 1965,
+      "address": "Thôn Bồng Mạc, xã Yên Lãng",
+      "school_code": "1606",
+      "type": "Các trường công lập",
+      "ward": "Xã Yên Lãng"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Bắc Lương Sơn",
+      "founded": "08/1985",
+      "address": "Thôn 2, xã Yên Xuân",
+      "school_code": "2501",
+      "type": "Các trường công lập",
+      "ward": "Xã Yên Xuân"
+    },
+    {
+      "stt": 1,
+      "name": "Trường THCS - THPT Trần Quốc Tuấn",
+      "founded": 1999,
+      "address": "Phường Từ Liêm",
+      "school_code": "",
+      "type": "Các trường công lập",
+      "ward": ""
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Phan Huy Chú - Đống Đa",
+      "founded": 1997,
+      "address": "Số 34, ngõ 49 phố Huỳnh Thúc Kháng, phường Láng",
+      "school_code": "",
+      "type": "Các trường công lập",
+      "ward": ""
+    },
+    {
+      "stt": 3,
+      "name": "Trường THCS - THPT Nguyễn Tất Thành",
+      "founded": "04/07/1998",
+      "address": "Số 136, đường Xuân Thủy, phường Cầu Giấy",
+      "school_code": "",
+      "type": "Các trường công lập",
+      "ward": ""
+    },
+    {
+      "stt": 4,
+      "name": "Trường TH - THCS - THPT Thực nghiệm Khoa học Giáo dục",
+      "founded": "19/9/2018",
+      "address": "Số 50-52, phố Liễu Giai, phường Giảng Võ",
+      "school_code": "",
+      "type": "Các trường công lập",
+      "ward": ""
+    },
+    {
+      "stt": 5,
+      "name": "Trường THPT Khoa học Giáo dục",
+      "founded": 2016,
+      "address": "Cơ sở 1: Nhà G4, số 144, đường Xuân Thủy, phường Cầu Giấy Cơ sở 2: Phố Kiều Mai, phường Xuân Phương",
+      "school_code": "",
+      "type": "Các trường công lập",
+      "ward": ""
+    },
+    {
+      "stt": 6,
+      "name": "Trường THPT Lâm nghiệp",
+      "founded": "30/11/2017",
+      "address": "Xã Xuân Mai",
+      "school_code": "",
+      "type": "Các trường công lập",
+      "ward": ""
+    },
+    {
+      "stt": 7,
+      "name": "Trường Phổ thông Năng khiếu Thể dục Thể thao Hà Nội",
+      "founded": "03/06/1966",
+      "address": "Trung tâm Đào tạo Vận động viên cấp cao Hà Nội, đường Lê Đức Thọ, phường Từ Liêm",
+      "school_code": "",
+      "type": "Các trường công lập",
+      "ward": ""
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Lương Thế Vinh",
+      "founded": "01/06/1989",
+      "address": "Cơ sở A: Số 35, phố Đinh Núp, phường Yên Hòa; Cơ sở 1: Đường số 1, khu đô thị Tổng cục 5, phường Thanh Liệt",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Lê Quý Đôn",
+      "founded": "13/02/2018",
+      "address": "Lô 1 A2 Đường Hàm Nghi, khu đô thị Mỹ Đình 1, phường Từ Liêm",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 3,
+      "name": "Trường THPT Xuân Thủy",
+      "founded": "30/03/2010",
+      "address": "Hòe Thị, phường Xuân Phương",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 4,
+      "name": "Trường THPT Đào Duy Từ",
+      "founded": 2004,
+      "address": "Số 182, đường Lương Thế Vinh, phường Thanh Xuân",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 5,
+      "name": "Trường THPT Huỳnh Thúc Kháng",
+      "founded": 1996,
+      "address": "Số 131, đường Nguyễn Trãi, phường Khương Đình",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 6,
+      "name": "Trường THPT Xa La",
+      "founded": 2010,
+      "address": "Khu đô thị mới Xa La, phường Hà Đông",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 7,
+      "name": "Trường THPT Phan Chu Trinh",
+      "founded": "10/05/2000",
+      "address": "Số 481, đường Âu Cơ, phường Tây Hồ",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 8,
+      "name": "Trường phổ thông võ thuật Bảo Long",
+      "founded": "3/10/2007",
+      "address": "Trại Hồ, Xã Cổ Đông, Sơn Tây",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 9,
+      "name": "Trường THPT Việt Hoàng",
+      "founded": "24/10/2014",
+      "address": "Km12, đường Cầu Diễn, phường Xuân Phương",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 10,
+      "name": "Trường THPT Vạn Xuân - Long Biên",
+      "founded": "19/6/2000",
+      "address": "Số 56, phố Hoàng Như Tiếp, phường Bồ Đề",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 11,
+      "name": "Trường THPT Văn Lang",
+      "founded": 1997,
+      "address": "Số 160, phố Tôn Đức Thắng, phường Ô Chợ Dừa Số 1, phố Phan Văn Trị, phường Ô Chợ Dừa",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 12,
+      "name": "Trường THPT Văn Hiến",
+      "founded": "19/6/2000",
+      "address": "Số 9 Hai Bà Trưng, Hoàn Kiếm",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 13,
+      "name": "Trường THPT Trí Đức",
+      "founded": 1998,
+      "address": "Tổ dân phố Số 5 Phú Mỹ, phường Từ Liêm",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 14,
+      "name": "Trường THPT Phan Bội Châu",
+      "founded": "2/7/1996",
+      "address": "Số 21, phố Vũ Trọng Phụng, phường Thanh Xuân",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 15,
+      "name": "Trường THPT Trần Thánh Tông",
+      "founded": "08/03/2013",
+      "address": "Trong trường Cao đẳng xây dựng số 1 - đường Trung Văn - phường Trung Văn - quận Nam Từ Liêm",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 16,
+      "name": "Trường THPT Trần Quang Khải",
+      "founded": 1998,
+      "address": "Ngõ 1277/26 Đường Giải Phóng",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 17,
+      "name": "Trường THPT Trần Phú - Ba Vì",
+      "founded": 2007,
+      "address": "Thị Trấn Tây Đằng, Ba Vì",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 18,
+      "name": "Trường THPT Trần Đại Nghĩa",
+      "founded": 2004,
+      "address": "Thôn Phương Hạnh - Xã Tân Tiến - huyện Chương Mỹ",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 19,
+      "name": "Trường THPT Tô Hiệu - Gia Lâm",
+      "founded": "26/07/1996",
+      "address": "Xã Dương Xá, Gia Lâm",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 20,
+      "name": "Trường THPT Tô Hiến Thành",
+      "founded": 1997,
+      "address": "27 ngõ Giếng, phố Đông Các, phường Ô Chợ Dừa",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 21,
+      "name": "Trường THPT Thanh Xuân",
+      "founded": "3/1/2008",
+      "address": "Xã Tam Hưng, Thanh Oai",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 22,
+      "name": "Trường THPT Tây Sơn",
+      "founded": "22/06/2000",
+      "address": "Số 2, ngõ 167 phố Gia Quất, phường Bồ Đề",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 23,
+      "name": "Trường THPT Tây Đô",
+      "founded": 1997,
+      "address": "Tổ Phúc Lý, Phường Minh Khai, Quận Bắc Từ Liêm",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 24,
+      "name": "Trường THPT Phương Nam",
+      "founded": 1998,
+      "address": "Lô 18 Khu đô thị Định Công, Hoàng Mai",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 25,
+      "name": "Trường THPT Phùng Khắc Khoan - Đống Đa",
+      "founded": "10/06/1998",
+      "address": "Số 85 phố Lương Định Của",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 26,
+      "name": "Trường THPT Phạm Văn Đồng",
+      "founded": "19/04/2012",
+      "address": "Cơ sở 1: Nhà A2 - trường Đại học Sân khấu Điện ảnh, đường Hồ Tùng Mậu, phường Phú Diễn Cơ Sở 2: Khu đô thị Thành phố Giao Lưu 232-234, đường Phạm Văn Đồng",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 27,
+      "name": "Trường THPT Nguyễn Văn Huyên",
+      "founded": 1997,
+      "address": "Ngõ 157 phố chùa Láng, Đống Đa",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 28,
+      "name": "Trường THPT Nguyễn Tất Thành - Sơn Tây",
+      "founded": "12/10/2007",
+      "address": "Trường THCS Phùng Hưng, phường Quang Trung, Sơn Tây",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 29,
+      "name": "Trường THPT Nguyễn Du - Mê Linh",
+      "founded": "4/1997",
+      "address": "Xã Đại Thịnh, huyện Mê Linh",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 30,
+      "name": "Trường THPT Nguyễn Đình Chiểu",
+      "founded": 2016,
+      "address": "Ô 14 Lô 6 đền lừ 1 - Hoàng Mai",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 31,
+      "name": "Trường THPT Ngô Tất Tố",
+      "founded": 1991,
+      "address": "Xã Kim Chung - Đông Anh",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 32,
+      "name": "Trường THPT Ngô Sĩ Liên",
+      "founded": 2000,
+      "address": "Khu Chiến Thắng, Thị Trấn Xuân Mai",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 33,
+      "name": "Trường THPT Ngô Quyền - Đông Anh",
+      "founded": "13/7/2007",
+      "address": "Thôn Vĩnh Thanh, Xã Vĩnh Ngọc, H. Đông Anh",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 34,
+      "name": "Trường THPT Ngô Gia Tự",
+      "founded": "13/04/1998",
+      "address": "82 Lê Trọng Tấn, Thanh Xuân",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 35,
+      "name": "Trường THPT Minh Trí",
+      "founded": 2024,
+      "address": "Thôn Thắng Trí, Xã Minh Trí, huyện Sóc Sơn",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 36,
+      "name": "Trường THPT Mai Hắc Đế",
+      "founded": 2009,
+      "address": "Số 29A ngõ Vĩnh Tuy, Hai Bà Trưng/ tòa nhà Intecen, lô 2, khu 10A, số 431 Tam Trinh, Hoàng Mai",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 37,
+      "name": "Trường THPT Mạc Đĩnh Chi",
+      "founded": 1998,
+      "address": "128 Phố Kim Anh, Thanh Xuân, Sóc Sơn",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 38,
+      "name": "Trường THPT Lý Thánh Tông",
+      "founded": 1996,
+      "address": "Xã Dương Xá, Gia Lâm",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 39,
+      "name": "Trường THPT Lý Thái Tổ",
+      "founded": 2004,
+      "address": "Số 165, phố Hoàng Ngân, phường Yên Hòa",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 40,
+      "name": "Trường THPT Lương Văn Can",
+      "founded": 1998,
+      "address": "Lô NT1, Khu đô thị Nam Trung Yên, Phường Trung Hòa, Cầu Giấy",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 41,
+      "name": "Trường THPT Lương Thế Vinh - Ba Vì",
+      "founded": "07/2007",
+      "address": "Km 56 Quốc lộ 32, Thôn Vật Phụ, Xã Vật Lại, huyện Ba Vì",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 42,
+      "name": "Trường THPT Lê Văn Thiêm",
+      "founded": 1997,
+      "address": "Số 44, phố Ô Cách, phường Việt Hưng",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 43,
+      "name": "Trường THPT Lê Thánh Tông",
+      "founded": 1998,
+      "address": "Thôn Việt Yên,Xã Ngũ Hiệp, huyện Thanh Trì",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 44,
+      "name": "Trường THPT Lê Ngọc Hân",
+      "founded": 1995,
+      "address": "Số 28, ngõ 622 đường Hà Huy Tập, xã Phù Đổng",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 45,
+      "name": "Trường THPT Lam Hồng",
+      "founded": 1999,
+      "address": "Khối 5 - Xã Phù Lỗ - Huyện Sóc Sơn",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 46,
+      "name": "Trường THPT Lạc Long Quân",
+      "founded": 2001,
+      "address": "Tổ 1 Thị trấn Sóc Sơn",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 47,
+      "name": "Trường THPT Kinh Đô",
+      "founded": "28/03/2011",
+      "address": "Uy Nỗ - Đông Anh",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 48,
+      "name": "Trường Phổ thông nội trú IVS",
+      "founded": 2017,
+      "address": "Thị trấn Kim Bài, huyện Thanh Oai",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 49,
+      "name": "Trường THPT Hồng Hà",
+      "founded": 1997,
+      "address": "780 Minh Khai, Hai Bà Trưng",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 50,
+      "name": "Trường THPT Hồng Đức",
+      "founded": 2020,
+      "address": "Xã Phúc Thượng, huyện Phúc Thọ",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 51,
+      "name": "Trường THPT Hồng Bàng",
+      "founded": 1988,
+      "address": "Cơ Sở 1: Số 169 Nguyễn Ngọc Vũ, Trung Hoà, Cầu Giấy Cơ Sở 2: Thị Trấn Đông Anh",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 52,
+      "name": "Trường THPT Hoàng Mai",
+      "founded": "25/04/1997",
+      "address": "56 Vũ Trọng Phụng, Thanh Xuân",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 53,
+      "name": "Trường THPT Hoàng Long",
+      "founded": 2001,
+      "address": "Số 347, phố Đội Cấn, phường Ngọc Hà",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 54,
+      "name": "Trường THPT Hoàng Diệu",
+      "founded": 1977,
+      "address": "Số 9, phố Bùi Ngọc Dương, phường Bạch Mai",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 55,
+      "name": "Trường THPT Hồ Xuân Hương",
+      "founded": 1996,
+      "address": "Số 1, phố Nguyễn Quý Đức, phường Thanh Xuân",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 56,
+      "name": "Trường THPT Hồ Tùng Mậu",
+      "founded": "05/1997",
+      "address": "Số 18, phố Khương Hạ, phường Khương Đình",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 57,
+      "name": "Trường THPT Hermann Gmeiner Hà Nội",
+      "founded": 1994,
+      "address": "Số 2, phố Doãn Kế Thiện, phường Phú Diễn",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 58,
+      "name": "Trường THPT Hà Đông",
+      "founded": "22/6/2006",
+      "address": "Khu đô thị Mộ Lao, phường Hà Đông",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 59,
+      "name": "Trường THPT Einstein",
+      "founded": 1995,
+      "address": "Số 169, đường Nguyễn Ngọc Vũ, phường Yên Hòa",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 60,
+      "name": "Trường THPT Đông Kinh",
+      "founded": "23/06/1997",
+      "address": "Số 18C, đường Tam Trinh, phường Tương Mai",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 61,
+      "name": "Trường THPT Đông Đô",
+      "founded": 1991,
+      "address": "Số 8, phố Võng Thị, phường Tây Hồ",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 62,
+      "name": "Trường THPT Phan Chu Trinh",
+      "founded": 2000,
+      "address": "Số 671, đường Hoàng Hoa Thám, phường Ngọc Hà",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 63,
+      "name": "Trường THPT Đinh Tiên Hoàng - Ba Đình",
+      "founded": "27/10/1989",
+      "address": "CS1: Số 67, phố Phó Đức Chính, phường Ba Đình CS2: Số 10, phố Chương Dương Độ, phường Hồng Hà",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 64,
+      "name": "Trường THPT Đặng Tiến Đông",
+      "founded": "2005-2006",
+      "address": "Nội An, Xã Đại Yên, huyện Chương Mỹ",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 65,
+      "name": "Trường THPT Đặng Thai Mai",
+      "founded": "29/12/2006",
+      "address": "Thôn 4 Xã Hồng Kỳ, Sóc Sơn",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 66,
+      "name": "Trường THPT Đại Việt",
+      "founded": 2007,
+      "address": "301 Nguyễn Trãi, Thanh Xuân",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 67,
+      "name": "Trường THPT Bình Minh",
+      "founded": 1997,
+      "address": "Xã Đức Thượng, huyện Hoài Đức",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 68,
+      "name": "Trường THPT Bắc Đuống",
+      "founded": 1999,
+      "address": "Số 133, đường Đặng Phúc Thông, xã Phù Đổng",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 69,
+      "name": "Trường THPT An Dương Vương",
+      "founded": "20/9/1999",
+      "address": "Tổ 12 Thị trấn Đông Anh, huyện Đông Anh",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 70,
+      "name": "Trường THPT Hà Thành",
+      "founded": "20/06/2008",
+      "address": "36A Phạm Văn Đồng, Cổ Nhuế, Bắc Từ Liêm",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 71,
+      "name": "Trường THPT Tạ Quang Bửu",
+      "founded": "2/5/2013",
+      "address": "Số 94A, phố Lê Thanh Nghị, phường Bạch Mai",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 72,
+      "name": "Trường THPT M.V.Lômônôxốp",
+      "founded": "10/6/1992",
+      "address": "Khu đô thị Mỹ Đình 2, Đường Lê Đức Thọ, Nam Từ Liêm",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 73,
+      "name": "Trường THPT Phùng Hưng",
+      "founded": "29/1/2008",
+      "address": "Trung tâm KTTH Thường Tín, huyện Thường Tín",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 74,
+      "name": "Trường THPT Nguyễn Trực",
+      "founded": "31/7/2008",
+      "address": "Đồng Quang, Quốc Oai",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 75,
+      "name": "Trường THPT Nguyễn Trường Tộ",
+      "founded": 1999,
+      "address": "Tân Hội, Đan Phượng. Số 31 ngõ 475/49 Nguyễn Trãi, quận Thanh Xuân.",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 76,
+      "name": "Trường THPT Bắc Hà - Đống Đa",
+      "founded": 1999,
+      "address": "Số 1A, Ngõ 538, Đường Láng, Đống Đa",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 77,
+      "name": "Trường THPT Ngô Gia Tự - Hà Đông",
+      "founded": 1998,
+      "address": "Ngõ 2, Phố Xa La, Phúc La, Hà Đông",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 78,
+      "name": "Trường THPT Ngô Sĩ Liên",
+      "founded": 2000,
+      "address": "tổ 5, khu Chiến Thắng, thị trấn Xuân Mai, huyện Chương Mỹ",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 79,
+      "name": "Trường THPT Phùng Hưng",
+      "founded": "29/1/2008",
+      "address": "Số 2 Phố Nguyễn Phi Khanh, Thị trấn Thường Tín (nhà B4 Cao đẳng sư phạm Hà Tây)",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 80,
+      "name": "Trường THPT Nguyễn Bỉnh Khiêm - Phú Xuyên",
+      "founded": "14/9/2007",
+      "address": "xã Khai Thái, huyện Phú Xuyên",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 81,
+      "name": "Trường THPT Nguyễn Thượng Hiền - Ứng Hòa",
+      "founded": 2017,
+      "address": "số 2 đường đê, thị trấn Vân Đình, huyện Ứng Hòa",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 82,
+      "name": "Trường THPT Lương Văn Can - Cầu Giấy",
+      "founded": 1998,
+      "address": "Lô NT1 khu đô thị Nam Trung Yên, quận Cầu Giấy",
+      "school_code": "",
+      "type": "Các trường dân lập",
+      "ward": ""
+    },
+    {
+      "stt": 1,
+      "name": "Trường THPT Marie Curie",
+      "founded": 1992,
+      "address": "TH1, phố Trần Văn Lai, phường Từ Liêm",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 2,
+      "name": "Trường THPT Nguyễn Bỉnh Khiêm",
+      "founded": 1993,
+      "address": "Số 6, phố Trần Quốc Hoàn, phường Nghĩa Đô",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 3,
+      "name": "Trường Phổ thông FPT",
+      "founded": 2013,
+      "address": "Khuôn viên Đại học FPT, Khu Công nghệ Cao Hòa Lạc, xã Hòa Lạc",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 4,
+      "name": "Trường Phổ thông TH School",
+      "founded": "5/9/2016",
+      "address": "Số 4-6, phố Chùa Bộc, phường Kim Liên",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 5,
+      "name": "Trường THPT Ban Mai",
+      "founded": 2008,
+      "address": "Lô TH4 khu đô thị Văn Phú, phường Kiến Hưng",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 6,
+      "name": "Trường THPT Nguyễn Huệ",
+      "founded": 1997,
+      "address": "Ngõ 234 đường Hoàng Quốc Việt, phường Nghĩa Đô",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 7,
+      "name": "Trường THPT Phạm Ngũ Lão",
+      "founded": 1999,
+      "address": "Xã Nam Hồng, huyện Đông Anh",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 8,
+      "name": "Trường THPT Phan Huy Chú - Thạch Thất",
+      "founded": "15/1/2008",
+      "address": "xã Bình Phú - huyện Thạch Thất",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 9,
+      "name": "Trường Phổ thông liên cấp Vinschool",
+      "founded": 2013,
+      "address": "T35, T36, T37 Times City, phường Vĩnh Tuy",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 10,
+      "name": "Trường TH - THCS - THPT Archimedes Đông Anh",
+      "founded": 2012,
+      "address": "Lô I-F1, KĐT Bắc 23B, xã Phúc Thịnh",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 11,
+      "name": "Trường THPT IVS",
+      "founded": 2017,
+      "address": "Tổ 1, xã Thanh Oai",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 12,
+      "name": "Trường THPT Global",
+      "founded": 2009,
+      "address": "Lô C1, C2 - Khu đô thị mới Yên Hòa, phường Yên Hòa",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 13,
+      "name": "Trường Phổ thông Liên cấp SenTia",
+      "founded": 2016,
+      "address": "KĐT Mới Phùng Khoang, 19 Tố Hữu, Trung Văn, Nam Từ Liêm, Hà Nội",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 14,
+      "name": "Trường THPT Quốc tế Thăng Long",
+      "founded": 2010,
+      "address": "Lô X1, phố Linh Đàm, khu đô thị Bắc Linh Đàm, phường Định Công",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 15,
+      "name": "Trường Phổ thông Liên cấp Hòa Bình Latrobe - Hà Nội",
+      "founded": 2016,
+      "address": "Số 65, phố Cảm Hội, phường Hai Bà Trưng",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 16,
+      "name": "Trường Phổ thông Liên cấp Hà Nội Adelaide School",
+      "founded": "31/5/2018",
+      "address": "CS1: B17, phố Lương Định Của, khu tập thể Kim Liên, phường Kim Liên CS2: C35, khu đô thị mới Lê Trọng Tấn - Geleximco, phường Dương Nội",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 17,
+      "name": "Trường phổ thông quốc tế ParkCity Hà Nội",
+      "founded": 1990,
+      "address": "Khu đô thị ParkCity, đường Lê Trọng Tấn, phường La Khê, quận Hà Đông",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 18,
+      "name": "Trường Phổ thông Dewey",
+      "founded": 2015,
+      "address": "Lô H3-LC, Khu đô thị Tây Hồ Tây, phố Dương Văn An, phường Xuân Đỉnh",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 19,
+      "name": "Trường phổ thông liên cấp Đa Trí Tuệ",
+      "founded": 2013,
+      "address": "Lô TH2 Khu đô thị mới Dịch Vọng, số 37, phố Hoàng Quán Chi, phường Cầu Giấy",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 20,
+      "name": "Trường THPT Green City Academy",
+      "founded": 1999,
+      "address": "Số 31 tổ 23 cụm 6 Phường Hạ Đình, Thanh Xuân",
+      "school_code": "",
+      "type": "Các trường tư thục",
+      "ward": ""
+    },
+    {
+      "stt": 1,
+      "name": "Trường Phổ thông Song ngữ Liên cấp Wellspring",
+      "founded": 2011,
+      "address": "Số 95, phố Ái Mộ, phường Bồ Đề",
+      "school_code": "",
+      "type": "Các trường có yếu tố nước ngoài",
+      "ward": ""
+    },
+    {
+      "stt": 2,
+      "name": "Trường Phổ thông Liên cấp Olympia",
+      "founded": 2007,
+      "address": "Khu Đô thị mới Trung Văn, phường Đại Mỗ",
+      "school_code": "",
+      "type": "Các trường có yếu tố nước ngoài",
+      "ward": ""
+    },
+    {
+      "stt": 3,
+      "name": "Trường Phổ thông Liên cấp Newton",
+      "founded": 2008,
+      "address": "Lô TH2, khu đô thị mới Hoàng Quốc Việt, phường Nghĩa Đô",
+      "school_code": "",
+      "type": "Các trường có yếu tố nước ngoài",
+      "ward": ""
+    },
+    {
+      "stt": 4,
+      "name": "Trường Song ngữ Quốc tế Hà Nội Academy",
+      "founded": 2009,
+      "address": "Nhà D45-D46, khu đô thị Quốc tế Nam Thăng Long - Ciputra, Quận Tây Hồ",
+      "school_code": "",
+      "type": "Các trường có yếu tố nước ngoài",
+      "ward": ""
+    },
+    {
+      "stt": 5,
+      "name": "Trường THPT Đoàn Thị Điểm",
+      "founded": "8/2008",
+      "address": "Khu đô thị Bắc Cổ Nhuế, phố Nguyễn Đình Tứ, phường Đông Ngạc",
+      "school_code": "",
+      "type": "Các trường có yếu tố nước ngoài",
+      "ward": ""
+    },
+    {
+      "stt": 6,
+      "name": "Trường Phổ thông Liên cấp Alfred Nobel",
+      "founded": "17/6/2009",
+      "address": "Số 28, phố Huỳnh Thúc Kháng, phường Láng",
+      "school_code": "",
+      "type": "Các trường có yếu tố nước ngoài",
+      "ward": ""
+    },
+    {
+      "stt": 7,
+      "name": "Trường Phổ thông Liên cấp Việt - Úc, Hà Nội",
+      "founded": 2007,
+      "address": "Khu đô thị Mỹ Đình I - Mỹ Đình - Nam Từ Liêm",
+      "school_code": "",
+      "type": "Các trường có yếu tố nước ngoài",
+      "ward": ""
+    },
+    {
+      "stt": 8,
+      "name": "Trường phổ thông liên cấp Nguyễn Siêu",
+      "founded": "11/09/1991",
+      "address": "Số 38, phố Nguyễn Xuân Nham, phường Yên Hòa",
+      "school_code": "",
+      "type": "Các trường có yếu tố nước ngoài",
+      "ward": ""
+    },
+    {
+      "stt": 9,
+      "name": "Trường Phổ thông liên cấp TH School Hòa Lạc",
+      "founded": "5/9/2016",
+      "address": "Km 9 khu công nghệ cao Hòa Lạc, Thạch Thất",
+      "school_code": "",
+      "type": "Các trường có yếu tố nước ngoài",
+      "ward": ""
+    },
+    {
+      "stt": 10,
+      "name": "Trường Phổ thông Quốc tế Việt Nam",
+      "founded": 2012,
+      "address": "Phường Dương Nội – Quận Hà Đông",
+      "school_code": "",
+      "type": "Các trường có yếu tố nước ngoài",
+      "ward": ""
+    },
+    {
+      "stt": 11,
+      "name": "Trường Phổ thông Liên cấp Vinschool The Harmony",
+      "founded": "2/1/2018",
+      "address": "Đường Nguyệt Quế 1, khu đô thị Vinhomes Riverside, phường Phúc Lợi",
+      "school_code": "",
+      "type": "Các trường có yếu tố nước ngoài",
+      "ward": ""
+    },
+    {
+      "stt": 12,
+      "name": "Trường Phổ thông đa cấp Concordia Hanoi",
+      "founded": 2011,
+      "address": "thôn Thọ Đa, xã Kim Nổ, huyện Đông Anh",
+      "school_code": "",
+      "type": "Các trường có yếu tố nước ngoài",
+      "ward": ""
+    },
+    {
+      "stt": 13,
+      "name": "Trường Phổ thông Song ngữ Quốc tế Horizon",
+      "founded": 2007,
+      "address": "Villa 1 & 2, số 98, phố Tô Ngọc Vân, phường Tây Hồ",
+      "school_code": "",
+      "type": "Các trường có yếu tố nước ngoài",
+      "ward": ""
+    },
+    {
+      "stt": 14,
+      "name": "Trường Phổ thông Quốc tế Singapore",
+      "founded": 2012,
+      "address": "Khu đô thị mới C2 - Gamuda Gardens, phường Hoàng Mai",
+      "school_code": "",
+      "type": "Các trường có yếu tố nước ngoài",
+      "ward": ""
+    },
+    {
+      "stt": 15,
+      "name": "Trường Phổ thông Quốc tế St.Paul",
+      "founded": 2011,
+      "address": "khu đô thị mới Splendora, Km10+600, Đại lộ Thăng Long, xã An Khánh, huyện Hoài Đức",
+      "school_code": "",
+      "type": "Các trường có yếu tố nước ngoài",
+      "ward": ""
+    },
+    {
+      "stt": 1,
+      "name": "Trường Quốc tế Đa cấp Anh Việt Hoàng gia",
+      "founded": "08/2013",
+      "address": "Khu đô thị Royal City, số 72A, đường Nguyễn Trãi, phường Thanh Xuân",
+      "school_code": "",
+      "type": "Các trường quốc tế",
+      "ward": ""
+    },
+    {
+      "stt": 2,
+      "name": "Trường Quốc Tế Anh BIS Hà Nội",
+      "founded": "08/2012",
+      "address": "H3-H4, đường Hoa Lan, khu đô thị Vinhomes Riverside, phường Phúc Lợi",
+      "school_code": "",
+      "type": "Các trường quốc tế",
+      "ward": ""
+    },
+    {
+      "stt": 3,
+      "name": "Trường Quốc tế Hàn Quốc tại Hà Nội",
+      "founded": 2006,
+      "address": "Đường Trịnh Văn Bô, phường Xuân Phương",
+      "school_code": "",
+      "type": "Các trường quốc tế",
+      "ward": ""
+    },
+    {
+      "stt": 4,
+      "name": "Trường Quốc tế Nhật Bản",
+      "founded": 1996,
+      "address": "Số 84A, đường Nguyễn Thanh Bình, phường Hà Đông",
+      "school_code": "",
+      "type": "Các trường quốc tế",
+      "ward": ""
+    },
+    {
+      "stt": 5,
+      "name": "Trường Quốc tế Pháp Alexandre Yersin",
+      "founded": 1982,
+      "address": "Số 44, phố Gia Thượng, phường Bồ Đề",
+      "school_code": "",
+      "type": "Các trường quốc tế",
+      "ward": ""
+    },
+    {
+      "stt": 6,
+      "name": "Trường Phổ thông Quốc tế Hà Nội",
+      "founded": 1996,
+      "address": "Số 48, phố Liễu Giai, phường Giảng Võ",
+      "school_code": "",
+      "type": "Các trường quốc tế",
+      "ward": ""
+    },
+    {
+      "stt": 7,
+      "name": "Trường Quốc tế Liên Hợp Quốc Hà Nội",
+      "founded": 1988,
+      "address": "G9, khu đô thị Ciputra, phường Phú Thượng",
+      "school_code": "",
+      "type": "Các trường quốc tế",
+      "ward": ""
+    }
+  ],
+  "meta": {
+    "title": "Danh sách trường trung học phổ thông tại Hà Nội - Free Download",
+    "description": "Danh sách các trường THPT tại Hà Nội (chuyên, công lập, dân lập, tư thục, quốc tế) kèm năm thành lập, địa chỉ và mã trường. Contains 265 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách trường trung học phổ thông tại Hà Nội | ListBase",
+    "seo_description": "Download Danh sách trường trung học phổ thông tại Hà Nội — 265 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 265 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%C6%B0%E1%BB%9Dng_trung_h%E1%BB%8Dc_ph%E1%BB%95_th%C3%B4ng_t%E1%BA%A1i_H%C3%A0_N%E1%BB%99i"
+    ]
+  }
+}
