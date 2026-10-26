@@ -1,0 +1,546 @@
+{
+  "id": "vi-don-vi-do-luong-co",
+  "name": "Hệ đo lường cổ Việt Nam",
+  "title": "Hệ đo lường cổ Việt Nam",
+  "description": "Các đơn vị đo lường cổ của Việt Nam (độ dài, diện tích, thể tích, khối lượng) như trượng, thước, mẫu, sào, cân, lạng, kèm chữ Hán/Nôm và giá trị quy đổi.",
+  "category": "units",
+  "source": "https://vi.wikipedia.org/wiki/H%E1%BB%87_%C4%91o_l%C6%B0%E1%BB%9Dng_c%E1%BB%95_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/H%E1%BB%87_%C4%91o_l%C6%B0%E1%BB%9Dng_c%E1%BB%95_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "quantity",
+      "label": "Quantity",
+      "type": "string"
+    },
+    {
+      "key": "han_nom",
+      "label": "Han Nom",
+      "type": "string"
+    },
+    {
+      "key": "old_value",
+      "label": "Old Value",
+      "type": "string"
+    },
+    {
+      "key": "old_conversion",
+      "label": "Old Conversion",
+      "type": "string"
+    },
+    {
+      "key": "modern_value",
+      "label": "Modern Value",
+      "type": "string"
+    },
+    {
+      "key": "modern_conversion",
+      "label": "Modern Conversion",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit": "trượng",
+      "quantity": "Độ dài",
+      "han_nom": "丈",
+      "old_value": "4 m",
+      "old_conversion": "2 ngũ = 10 thước",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "ngũ",
+      "quantity": "Độ dài",
+      "han_nom": "五",
+      "old_value": "2 m",
+      "old_conversion": "5 thước",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "thước hay xích",
+      "quantity": "Độ dài",
+      "han_nom": "尺",
+      "old_value": "40 cm",
+      "old_conversion": "10 tấc",
+      "modern_value": "1 m",
+      "modern_conversion": "10 tấc",
+      "note": ""
+    },
+    {
+      "unit": "tấc",
+      "quantity": "Độ dài",
+      "han_nom": "𡬷",
+      "old_value": "4 cm",
+      "old_conversion": "10 phân",
+      "modern_value": "10 cm",
+      "modern_conversion": "10 phân",
+      "note": ""
+    },
+    {
+      "unit": "phân",
+      "quantity": "Độ dài",
+      "han_nom": "分",
+      "old_value": "4 mm",
+      "old_conversion": "10 ly",
+      "modern_value": "1 cm",
+      "modern_conversion": "10 ly",
+      "note": ""
+    },
+    {
+      "unit": "ly hay li",
+      "quantity": "Độ dài",
+      "han_nom": "釐",
+      "old_value": "0,4 mm",
+      "old_conversion": "10 hào",
+      "modern_value": "1 mm",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "hào",
+      "quantity": "Độ dài",
+      "han_nom": "毫",
+      "old_value": "0,04 mm",
+      "old_conversion": "10 ti",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "ti",
+      "quantity": "Độ dài",
+      "han_nom": "絲",
+      "old_value": "4 µm",
+      "old_conversion": "10 hốt",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "hốt",
+      "quantity": "Độ dài",
+      "han_nom": "忽",
+      "old_value": "0,4 µm",
+      "old_conversion": "10 vi",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "vi",
+      "quantity": "Độ dài",
+      "han_nom": "微",
+      "old_value": "0,04 µm",
+      "old_conversion": "",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "mẫu",
+      "quantity": "Diện tích",
+      "han_nom": "畝",
+      "old_value": "3600 m²",
+      "old_conversion": "10 sào",
+      "modern_value": "4970 m²",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "sào",
+      "quantity": "Diện tích",
+      "han_nom": "巢",
+      "old_value": "360 m²",
+      "old_conversion": "10 miếng",
+      "modern_value": "497 m²",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "miếng",
+      "quantity": "Diện tích",
+      "han_nom": "",
+      "old_value": "36 m²",
+      "old_conversion": "1,5 xích",
+      "modern_value": "",
+      "modern_conversion": "3 ngũ × 3 ngũ",
+      "note": ""
+    },
+    {
+      "unit": "xích hay thước",
+      "quantity": "Diện tích",
+      "han_nom": "尺/𡱩",
+      "old_value": "24 m²",
+      "old_conversion": "10 tấc",
+      "modern_value": "33 m²",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "than",
+      "quantity": "Diện tích",
+      "han_nom": "",
+      "old_value": "4 m²",
+      "old_conversion": "",
+      "modern_value": "",
+      "modern_conversion": "1 ngũ × 1 ngũ",
+      "note": ""
+    },
+    {
+      "unit": "tấc hay thốn",
+      "quantity": "Diện tích",
+      "han_nom": "𡬷/寸",
+      "old_value": "2,4 m²",
+      "old_conversion": "10 phân",
+      "modern_value": "3,3135 m²",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "phân",
+      "quantity": "Diện tích",
+      "han_nom": "",
+      "old_value": "0,24 m²",
+      "old_conversion": "1,5 ô",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "ô hay ghế",
+      "quantity": "Diện tích",
+      "han_nom": "",
+      "old_value": "0,16 m²",
+      "old_conversion": "10 khấu",
+      "modern_value": "",
+      "modern_conversion": "1 thước × 1 thước",
+      "note": ""
+    },
+    {
+      "unit": "khấu",
+      "quantity": "Diện tích",
+      "han_nom": "",
+      "old_value": "0,016 m²",
+      "old_conversion": "",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "miếng",
+      "quantity": "Thể tích",
+      "han_nom": "",
+      "old_value": "14,4 m³",
+      "old_conversion": "",
+      "modern_value": "",
+      "modern_conversion": "3 ngũ × 3 ngũ × 1 thước",
+      "note": "Đo đất trong mua bán đất"
+    },
+    {
+      "unit": "lẻ hay than",
+      "quantity": "Thể tích",
+      "han_nom": "",
+      "old_value": "1,6 m³",
+      "old_conversion": "",
+      "modern_value": "",
+      "modern_conversion": "1 ngũ × 1 ngũ × 1 thước",
+      "note": "Khi đong gạo, 1 lẻ ≈ 0,1 lít"
+    },
+    {
+      "unit": "đấu",
+      "quantity": "Thể tích",
+      "han_nom": "斗",
+      "old_value": "10 L",
+      "old_conversion": "2 bát = 5 cáp",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "thưng hay thăng",
+      "quantity": "Thể tích",
+      "han_nom": "",
+      "old_value": "1 L",
+      "old_conversion": "",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "bát",
+      "quantity": "Thể tích",
+      "han_nom": "",
+      "old_value": "0,5 L",
+      "old_conversion": "",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "cáp",
+      "quantity": "Thể tích",
+      "han_nom": "",
+      "old_value": "0,2 L",
+      "old_conversion": "100 sao",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "hộc (hợp)",
+      "quantity": "Thể tích",
+      "han_nom": "合",
+      "old_value": "0,1 L",
+      "old_conversion": "",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "sao tục gọi là nhắm",
+      "quantity": "Thể tích",
+      "han_nom": "抄",
+      "old_value": "2 mL",
+      "old_conversion": "10 toát",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": "Đong ngũ cốc"
+    },
+    {
+      "unit": "toát tục gọi là nhón",
+      "quantity": "Thể tích",
+      "han_nom": "撮",
+      "old_value": "0,2 mL",
+      "old_conversion": "",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": "Đong ngũ cốc"
+    },
+    {
+      "unit": "hộc",
+      "quantity": "Thể tích",
+      "han_nom": "",
+      "old_value": "26 thăng",
+      "old_conversion": "",
+      "modern_value": "71,905 lít",
+      "modern_conversion": "",
+      "note": "đong thóc"
+    },
+    {
+      "unit": "vuông",
+      "quantity": "Thể tích",
+      "han_nom": "",
+      "old_value": "13 thăng",
+      "old_conversion": "",
+      "modern_value": "35,953 lít sau lại định là 40 lít",
+      "modern_conversion": "",
+      "note": "đong gạo"
+    },
+    {
+      "unit": "thăng",
+      "quantity": "Thể tích",
+      "han_nom": "",
+      "old_value": "",
+      "old_conversion": "",
+      "modern_value": "2,766 lít",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "hiệp",
+      "quantity": "Thể tích",
+      "han_nom": "",
+      "old_value": "0,1 thăng",
+      "old_conversion": "",
+      "modern_value": "0,276 lít",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "thược",
+      "quantity": "Thể tích",
+      "han_nom": "",
+      "old_value": "0,01 thăng",
+      "old_conversion": "",
+      "modern_value": "0,0276 lít",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "tấn",
+      "quantity": "Khối lượng",
+      "han_nom": "擯",
+      "old_value": "604,5 kg",
+      "old_conversion": "10 tạ",
+      "modern_value": "1000 kg",
+      "modern_conversion": "10 tạ",
+      "note": ""
+    },
+    {
+      "unit": "quân",
+      "quantity": "Khối lượng",
+      "han_nom": "",
+      "old_value": "302,25 kg",
+      "old_conversion": "5 tạ",
+      "modern_value": "500 kg",
+      "modern_conversion": "không còn dùng",
+      "note": ""
+    },
+    {
+      "unit": "tạ",
+      "quantity": "Khối lượng",
+      "han_nom": "榭",
+      "old_value": "60,45 kg",
+      "old_conversion": "10 yến",
+      "modern_value": "100 kg",
+      "modern_conversion": "10 yến",
+      "note": ""
+    },
+    {
+      "unit": "bình",
+      "quantity": "Khối lượng",
+      "han_nom": "",
+      "old_value": "30,225 kg",
+      "old_conversion": "5 yến",
+      "modern_value": "50 kg",
+      "modern_conversion": "không còn dùng",
+      "note": ""
+    },
+    {
+      "unit": "yến",
+      "quantity": "Khối lượng",
+      "han_nom": "",
+      "old_value": "6,045",
+      "old_conversion": "10 cân",
+      "modern_value": "10 kg",
+      "modern_conversion": "10 cân",
+      "note": ""
+    },
+    {
+      "unit": "cân",
+      "quantity": "Khối lượng",
+      "han_nom": "斤",
+      "old_value": "604,5 g",
+      "old_conversion": "16 lạng",
+      "modern_value": "1 kg",
+      "modern_conversion": "10 lạng",
+      "note": ""
+    },
+    {
+      "unit": "nén",
+      "quantity": "Khối lượng",
+      "han_nom": "",
+      "old_value": "378 g",
+      "old_conversion": "10 lạng",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "lạng",
+      "quantity": "Khối lượng",
+      "han_nom": "兩",
+      "old_value": "37,8 g",
+      "old_conversion": "10 đồng (hoa)",
+      "modern_value": "100 g",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "đồng hay hoa",
+      "quantity": "Khối lượng",
+      "han_nom": "钱",
+      "old_value": "3,78 g",
+      "old_conversion": "10 phân",
+      "modern_value": "10 g",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "phân",
+      "quantity": "Khối lượng",
+      "han_nom": "分",
+      "old_value": "0,38 g",
+      "old_conversion": "10 ly",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "ly hay li",
+      "quantity": "Khối lượng",
+      "han_nom": "厘",
+      "old_value": "37,8 mg",
+      "old_conversion": "10 hào",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "hào",
+      "quantity": "Khối lượng",
+      "han_nom": "毫",
+      "old_value": "3,8 mg",
+      "old_conversion": "10 ti",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "ti",
+      "quantity": "Khối lượng",
+      "han_nom": "絲",
+      "old_value": "0,4 mg",
+      "old_conversion": "10 hốt",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "hốt",
+      "quantity": "Khối lượng",
+      "han_nom": "忽",
+      "old_value": "0,04 mg",
+      "old_conversion": "10 vi",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    },
+    {
+      "unit": "vi",
+      "quantity": "Khối lượng",
+      "han_nom": "微",
+      "old_value": "0,004 mg",
+      "old_conversion": "",
+      "modern_value": "",
+      "modern_conversion": "",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Hệ đo lường cổ Việt Nam - Free Download",
+    "description": "Các đơn vị đo lường cổ của Việt Nam (độ dài, diện tích, thể tích, khối lượng) như trượng, thước, mẫu, sào, cân, lạng, kèm chữ Hán/Nôm và giá trị quy đổi. Contains 48 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hệ đo lường cổ Việt Nam | ListBase",
+    "seo_description": "Download Hệ đo lường cổ Việt Nam — 48 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 48 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/H%E1%BB%87_%C4%91o_l%C6%B0%E1%BB%9Dng_c%E1%BB%95_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}

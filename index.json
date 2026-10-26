@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-26T02:12:26.703Z",
-  "total_datasets": 536,
-  "total_records": 125690,
+  "generated": "2026-10-26T02:12:29.393Z",
+  "total_datasets": 537,
+  "total_records": 125738,
   "categories": [
     {
       "id": "agriculture",
@@ -102,7 +102,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 4
+      "dataset_count": 5
     }
   ],
   "datasets": [
@@ -16433,6 +16433,35 @@
         "xlsx": {
           "name": "units-temperatures_VI.xlsx",
           "size": 9204
+        }
+      }
+    },
+    {
+      "id": "vi-don-vi-do-luong-co",
+      "name": "Hệ đo lường cổ Việt Nam",
+      "category": "units",
+      "record_count": 48,
+      "columns": [
+        "unit",
+        "quantity",
+        "han_nom",
+        "old_value",
+        "old_conversion",
+        "modern_value",
+        "modern_conversion",
+        "note"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/H%E1%BB%87_%C4%91o_l%C6%B0%E1%BB%9Dng_c%E1%BB%95_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 13911,
+      "files": {
+        "csv": {
+          "name": "vi-don-vi-do-luong-co_VI.csv",
+          "size": 3377
+        },
+        "xlsx": {
+          "name": "vi-don-vi-do-luong-co_VI.xlsx",
+          "size": 9331
         }
       }
     }
