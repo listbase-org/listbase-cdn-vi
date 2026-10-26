@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-26T02:12:02.419Z",
-  "total_datasets": 526,
-  "total_records": 124784,
+  "generated": "2026-10-26T02:12:04.836Z",
+  "total_datasets": 527,
+  "total_records": 124960,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "finance",
@@ -1040,6 +1040,31 @@
         "xlsx": {
           "name": "vi-bao-thiet-hai-lon-nhat_VI.xlsx",
           "size": 7088
+        }
+      }
+    },
+    {
+      "id": "vi-ca-nuoc-ngot-dong-bang-song-cuu-long",
+      "name": "Danh sách loài cá nước ngọt ở Đồng bằng sông Cửu Long",
+      "category": "environment",
+      "record_count": 176,
+      "columns": [
+        "name",
+        "scientific_name",
+        "family",
+        "khmer_name"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_lo%C3%A0i_c%C3%A1_n%C6%B0%E1%BB%9Bc_ng%E1%BB%8Dt_%E1%BB%9F_%C4%90%E1%BB%93ng_b%E1%BA%B1ng_s%C3%B4ng_C%E1%BB%ADu_Long",
+      "updated": "2026-10",
+      "size": 30902,
+      "files": {
+        "csv": {
+          "name": "vi-ca-nuoc-ngot-dong-bang-song-cuu-long_VI.csv",
+          "size": 12684
+        },
+        "xlsx": {
+          "name": "vi-ca-nuoc-ngot-dong-bang-song-cuu-long_VI.xlsx",
+          "size": 13440
         }
       }
     },
