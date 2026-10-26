@@ -1,0 +1,160 @@
+{
+  "id": "vi-khu-kinh-te",
+  "name": "Danh sách khu kinh tế ven biển Việt Nam",
+  "title": "Danh sách khu kinh tế ven biển Việt Nam",
+  "description": "Các khu kinh tế tại Việt Nam theo Nghị định 29/2008/NĐ-CP, gồm địa điểm, thời điểm thành lập và diện tích (ha).",
+  "category": "economy",
+  "source": "https://vi.wikipedia.org/wiki/Khu_kinh_t%E1%BA%BF_%28Vi%E1%BB%87t_Nam%29",
+  "source_url": "https://vi.wikipedia.org/wiki/Khu_kinh_t%E1%BA%BF_%28Vi%E1%BB%87t_Nam%29",
+  "updated": "2026-10",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "established",
+      "label": "Established",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Vân Đồn",
+      "province": "Quảng Ninh",
+      "established": "26/7/2007",
+      "area_ha": 217133
+    },
+    {
+      "name": "Quảng Yên",
+      "province": "Quảng Ninh",
+      "established": "15/11/2020",
+      "area_ha": 13303
+    },
+    {
+      "name": "Đình Vũ – Cát Hải",
+      "province": "Hải Phòng",
+      "established": "10/1/2008",
+      "area_ha": 22540
+    },
+    {
+      "name": "Thái Bình",
+      "province": "Hưng Yên",
+      "established": "1/10/2017",
+      "area_ha": 30583
+    },
+    {
+      "name": "Ninh Cơ",
+      "province": "Ninh Bình",
+      "established": "",
+      "area_ha": ""
+    },
+    {
+      "name": "Nghi Sơn",
+      "province": "Thanh Hóa",
+      "established": "15/5/2006",
+      "area_ha": 106000
+    },
+    {
+      "name": "Đông Nam Nghệ An",
+      "province": "Nghệ An",
+      "established": "11/6/2007",
+      "area_ha": 20776.47
+    },
+    {
+      "name": "Vũng Áng",
+      "province": "Hà Tĩnh",
+      "established": "3/4/2006",
+      "area_ha": 22781
+    },
+    {
+      "name": "Hòn La",
+      "province": "Quảng Trị",
+      "established": "10/6/2008",
+      "area_ha": 10000
+    },
+    {
+      "name": "Đông Nam Quảng Trị",
+      "province": "Quảng Trị",
+      "established": "5/11/2015",
+      "area_ha": 23792
+    },
+    {
+      "name": "Chân Mây – Lăng Cô",
+      "province": "Huế",
+      "established": "5/1/2006",
+      "area_ha": 27108
+    },
+    {
+      "name": "Chu Lai",
+      "province": "Đà Nẵng",
+      "established": "5/6/2003",
+      "area_ha": 27040
+    },
+    {
+      "name": "Dung Quất",
+      "province": "Quảng Ngãi",
+      "established": "11/3/2005",
+      "area_ha": 45332
+    },
+    {
+      "name": "Nhơn Hội",
+      "province": "Gia Lai",
+      "established": "14/6/2005",
+      "area_ha": 14308
+    },
+    {
+      "name": "Nam Phú Yên",
+      "province": "Đắk Lắk",
+      "established": "28/4/2008",
+      "area_ha": 20730
+    },
+    {
+      "name": "Vân Phong",
+      "province": "Khánh Hòa",
+      "established": "25/4/2006",
+      "area_ha": 150000
+    },
+    {
+      "name": "Định An",
+      "province": "Vĩnh Long",
+      "established": "22/6/2009",
+      "area_ha": 39020
+    },
+    {
+      "name": "Năm Căn",
+      "province": "Cà Mau",
+      "established": "1/1/2011",
+      "area_ha": 10801.95
+    },
+    {
+      "name": "Phú Quốc",
+      "province": "An Giang",
+      "established": "10/7/2013",
+      "area_ha": 58923
+    }
+  ],
+  "meta": {
+    "title": "Danh sách khu kinh tế ven biển Việt Nam - Free Download",
+    "description": "Các khu kinh tế tại Việt Nam theo Nghị định 29/2008/NĐ-CP, gồm địa điểm, thời điểm thành lập và diện tích (ha). Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách khu kinh tế ven biển Việt Nam | ListBase",
+    "seo_description": "Download Danh sách khu kinh tế ven biển Việt Nam — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Khu_kinh_t%E1%BA%BF_%28Vi%E1%BB%87t_Nam%29"
+    ]
+  }
+}
