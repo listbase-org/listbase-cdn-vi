@@ -1,12 +1,12 @@
 {
   "lang": "vi",
-  "generated": "2026-10-25T02:09:25.694Z",
-  "total_datasets": 524,
-  "total_records": 124294,
+  "generated": "2026-10-26T02:11:59.793Z",
+  "total_datasets": 525,
+  "total_records": 124742,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -129,6 +129,31 @@
         "xlsx": {
           "name": "vi-chi-dan-dia-ly-bao-ho_VI.xlsx",
           "size": 9842
+        }
+      }
+    },
+    {
+      "id": "vi-giong-khoai",
+      "name": "Danh sách giống khoai tại Việt Nam",
+      "category": "agriculture",
+      "record_count": 448,
+      "columns": [
+        "stt",
+        "name",
+        "scientific_name",
+        "group"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_gi%E1%BB%91ng_khoai_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 62594,
+      "files": {
+        "csv": {
+          "name": "vi-giong-khoai_VI.csv",
+          "size": 24535
+        },
+        "xlsx": {
+          "name": "vi-giong-khoai_VI.xlsx",
+          "size": 19498
         }
       }
     },

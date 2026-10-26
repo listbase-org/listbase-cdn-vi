@@ -1,0 +1,2734 @@
+{
+  "id": "vi-giong-khoai",
+  "name": "Danh sách giống khoai tại Việt Nam",
+  "title": "Danh sách giống khoai tại Việt Nam",
+  "description": "Danh sách các giống khoai (khoai lang, khoai sọ, khoai môn, khoai mỡ, khoai mùng, khoai tây, sắn...) được trồng tại Việt Nam, kèm tên khoa học.",
+  "category": "agriculture",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_gi%E1%BB%91ng_khoai_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_gi%E1%BB%91ng_khoai_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 448,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "scientific_name",
+      "label": "Scientific Name",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 1,
+      "name": "Khoai chuối",
+      "scientific_name": "Canna edulis",
+      "group": ""
+    },
+    {
+      "stt": 2,
+      "name": "Khoai đao",
+      "scientific_name": "Canna edulis",
+      "group": ""
+    },
+    {
+      "stt": 3,
+      "name": "Bầu đờ",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 4,
+      "name": "Bí",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 5,
+      "name": "Bướm bay 4",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 6,
+      "name": "Bướm trắng",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 7,
+      "name": "Canh nông",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 8,
+      "name": "Chân vịt 1",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 9,
+      "name": "Chân vịt 2",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 10,
+      "name": "Chết đói Cam Lộ",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 11,
+      "name": "Chia muống Cam Lộ",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 12,
+      "name": "Chiêm dâu",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 13,
+      "name": "Chiêm dâu Bình Lục",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 14,
+      "name": "Chiêm tĩnh",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 15,
+      "name": "Chim nồi rang",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 16,
+      "name": "Chúc voi",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 17,
+      "name": "Chùm dâu",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 18,
+      "name": "CN 67.3",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 19,
+      "name": "CN 76.2",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 20,
+      "name": "CN 84",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 21,
+      "name": "Cù lầu gạo",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 22,
+      "name": "Đà Nẵng",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 23,
+      "name": "Đặc lý 2",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 24,
+      "name": "Đặc lý 5",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 25,
+      "name": "Đỗ",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 26,
+      "name": "Đỏ đọt Kim Long",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 27,
+      "name": "Đỏ lá tròn",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 28,
+      "name": "Đồng Nai 5",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 29,
+      "name": "Đồng Nai 10",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 30,
+      "name": "Đồng Nai 11",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 31,
+      "name": "Dương Ngọc",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 32,
+      "name": "Dương Ngọc 1",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 33,
+      "name": "EKMATS 8-2",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 34,
+      "name": "EKMATS 16",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 35,
+      "name": "EKMATS 25",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 36,
+      "name": "EKMATS 45",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 37,
+      "name": "EKMATS 7",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 38,
+      "name": "EKMATS 8-1",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 39,
+      "name": "Giống khoai trắng",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 40,
+      "name": "Gò vấp 2",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 41,
+      "name": "Hà lam đỏ",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 42,
+      "name": "Hà lam ngọn trắng",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 43,
+      "name": "Hồng quảng",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 44,
+      "name": "Khoai 5 tấn",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 45,
+      "name": "Khoai Ba Tài",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 46,
+      "name": "Khoai bí đường",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 47,
+      "name": "Khoai Cù lần",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 48,
+      "name": "Khoai đậu xanh",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 49,
+      "name": "Khoai đỏ đốt",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 50,
+      "name": "Khoai Dương Ngọc- Hậu Giang",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 51,
+      "name": "Khoai lang (3 tháng)",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 52,
+      "name": "Khoai lang 2 tháng rưỡi",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 53,
+      "name": "Khoai lang 3 tháng tím",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 54,
+      "name": "Khoai lang Biển",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 55,
+      "name": "Khoai lang Cái Rồng",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 56,
+      "name": "Khoai lang củ trắng",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 57,
+      "name": "Khoai lang Đà Nẵng",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 58,
+      "name": "Khoai lang dâu 2",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 59,
+      "name": "Khoai lang đỏ",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 60,
+      "name": "Khoai lang Hoàng Anh",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 61,
+      "name": "Khoai lang Hoàng Long",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 62,
+      "name": "Khoai lang Hồng Thanh",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 63,
+      "name": "Khoai lang Huyết Dụ",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 64,
+      "name": "Khoai lang lẽo",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 65,
+      "name": "Khoai lang muống",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 66,
+      "name": "Khoai lang trắng",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 67,
+      "name": "Khoai Như Ngọc",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 68,
+      "name": "Khoai rau răm",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 69,
+      "name": "Khoai su canh trắng",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 70,
+      "name": "Khoai tím bộ đội",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 71,
+      "name": "Khoai trôm",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 72,
+      "name": "Lang dân tộc lá tím",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 73,
+      "name": "Lang gạo 4",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 74,
+      "name": "Lang Ông Cố",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 75,
+      "name": "Lang pói vàng",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 76,
+      "name": "Lang rau muống",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 77,
+      "name": "Lang tre",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 78,
+      "name": "Lào 1",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 79,
+      "name": "Lệ cần",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 80,
+      "name": "Lim",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 81,
+      "name": "Lim 3",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 82,
+      "name": "Lim Bắc Thái",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 83,
+      "name": "Lim Quảng Ninh",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 84,
+      "name": "Lông gà",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 85,
+      "name": "Long Khánh 7",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 86,
+      "name": "Mằm bưng vàng",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 87,
+      "name": "Mắn Nghĩa Bình",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 88,
+      "name": "Mật",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 89,
+      "name": "Mây",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 90,
+      "name": "Muống đỏ",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 91,
+      "name": "Muống tím ngọn lá lớn",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 92,
+      "name": "Muống trắng 2",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 93,
+      "name": "Mướp trắng 1",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 94,
+      "name": "Nạ",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 95,
+      "name": "Nam Vang",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 96,
+      "name": "Ngắn ngày",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 97,
+      "name": "No 44",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 98,
+      "name": "No 925.2",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 99,
+      "name": "Núi 1",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 100,
+      "name": "Núi 2",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 101,
+      "name": "Ong ngọc 2",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 102,
+      "name": "Quế Hường",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 103,
+      "name": "Sen",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 104,
+      "name": "Sơn chu",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 105,
+      "name": "Su canh đỏ",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 106,
+      "name": "Sucuza (Nhật Bản)",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 107,
+      "name": "Tai voi 2",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 108,
+      "name": "Tây Nguyên",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 109,
+      "name": "Thái Bình",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 110,
+      "name": "Thống nhất 1",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 111,
+      "name": "Thống nhất 5",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 112,
+      "name": "Thống nhất 14",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 113,
+      "name": "Thống nhất 17",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 114,
+      "name": "TN 67",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 115,
+      "name": "Trắng",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 116,
+      "name": "Trùi sa đỏ (Quảng Nam)",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 117,
+      "name": "Trùi sa trắng (Quảng Nam)",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 118,
+      "name": "Tứ quý Đà Nẵng",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 119,
+      "name": "Tửu thái",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 120,
+      "name": "Vồ",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 121,
+      "name": "Vỏ vàng Hà Bắc",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 122,
+      "name": "VPS1",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 123,
+      "name": "VPS6",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 124,
+      "name": "VSP 6",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 125,
+      "name": "Xẻ chân chim",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 126,
+      "name": "Yên Thủy",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 127,
+      "name": "Yên Thủy - xẻ thuỳ",
+      "scientific_name": "Ipomoea batatas",
+      "group": "Khoai lang"
+    },
+    {
+      "stt": 128,
+      "name": "Cậm kênh",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 129,
+      "name": "Chiều đòi tím",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 130,
+      "name": "Chiều đòi trắng",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 131,
+      "name": "Cò sa",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 132,
+      "name": "Củ cái",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 133,
+      "name": "Củ cái tía",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 134,
+      "name": "Củ cẩm",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 135,
+      "name": "Củ canh",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 136,
+      "name": "Củ chân tượng",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 137,
+      "name": "Củ cọc dậu",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 138,
+      "name": "Củ cọc rào",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 139,
+      "name": "Củ đầu rồng",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 140,
+      "name": "Củ đầu trâu",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 141,
+      "name": "Củ gan trâu",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 142,
+      "name": "Củ gạo tháng 8",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 143,
+      "name": "Củ lăng ngọt",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 144,
+      "name": "Củ lỗ",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 145,
+      "name": "Củ lỗ trắng",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 146,
+      "name": "Củ lỗ vàng",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 147,
+      "name": "Củ nần",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 148,
+      "name": "Củ ngà",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 149,
+      "name": "Củ nhà",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 150,
+      "name": "Củ nổi",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 151,
+      "name": "Củ tháng 8",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 152,
+      "name": "Củ thơm",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 153,
+      "name": "Củ tím",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 154,
+      "name": "Đoi mầm tím",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 155,
+      "name": "Đòi xí",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 156,
+      "name": "Khoai bị",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 157,
+      "name": "Khoai bướu",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 158,
+      "name": "Khoai choái",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 159,
+      "name": "Khoai chút",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 160,
+      "name": "Khoai lăng tím",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 161,
+      "name": "Khoai mài đỏ",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 162,
+      "name": "Khoai ngà ngóc",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 163,
+      "name": "Khoai ngọt",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 164,
+      "name": "Khoai tía",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 165,
+      "name": "Khoai tím",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 166,
+      "name": "Khoai trắng",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 167,
+      "name": "Lòm trâu",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 168,
+      "name": "Mằn",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 169,
+      "name": "Mắn hăm",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 170,
+      "name": "Mằn tạp vài",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 171,
+      "name": "Mền ngó hom",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 172,
+      "name": "Min trắng",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 173,
+      "name": "Củ mỡ, Khoai mỡ",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 174,
+      "name": "Củ mỡ (cọc rào)",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 175,
+      "name": "Củ mỡ bò",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 176,
+      "name": "Củ mỡ đỏ",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 177,
+      "name": "Củ mỡ năm",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 178,
+      "name": "Khoai mỡ tía",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 179,
+      "name": "Củ mỡ tím, Khoai mỡ tím, Mỡ tím",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 180,
+      "name": "Củ mỡ trắng, Khoai mỡ trắng, Mỡ trắng",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 181,
+      "name": "Mỡ tím bông lau",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 182,
+      "name": "Mỡ tím Đà Lạt",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 183,
+      "name": "Mỡ trắng nhẵn",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 184,
+      "name": "Pông aloang",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 185,
+      "name": "Tía vồng",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 186,
+      "name": "Khoai từ",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 187,
+      "name": "Củ từ canh",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 188,
+      "name": "Củ từ rắn",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 189,
+      "name": "Củ từ trắng",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 190,
+      "name": "Từ tía",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 191,
+      "name": "Củ vạc, Khoai vạc",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 192,
+      "name": "Vạc hơng",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 193,
+      "name": "Vạc ngà",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 194,
+      "name": "Khoai vạc vồng",
+      "scientific_name": "Dioscorea alata",
+      "group": ""
+    },
+    {
+      "stt": 195,
+      "name": "Từ ngầm",
+      "scientific_name": "Dioscorea arachnida",
+      "group": ""
+    },
+    {
+      "stt": 196,
+      "name": "Từ bon",
+      "scientific_name": "Dioscorea bonii",
+      "group": ""
+    },
+    {
+      "stt": 197,
+      "name": "Không rõ tên",
+      "scientific_name": "Dioscorea brevipestiolata",
+      "group": ""
+    },
+    {
+      "stt": 198,
+      "name": "Khoai dai",
+      "scientific_name": "Dioscorea bulbifera",
+      "group": ""
+    },
+    {
+      "stt": 199,
+      "name": "Từ cam bốt",
+      "scientific_name": "Dioscorea cambodiana",
+      "group": ""
+    },
+    {
+      "stt": 200,
+      "name": "Từ ching",
+      "scientific_name": "Dioscorea chingii",
+      "group": ""
+    },
+    {
+      "stt": 201,
+      "name": "Củ nâu",
+      "scientific_name": "Dioscorea cirrhosa",
+      "group": ""
+    },
+    {
+      "stt": 202,
+      "name": "Nần nghệ",
+      "scientific_name": "Dioscorea collettii",
+      "group": ""
+    },
+    {
+      "stt": 203,
+      "name": "Từ Craib",
+      "scientific_name": "Dioscorea craibiana",
+      "group": ""
+    },
+    {
+      "stt": 204,
+      "name": "Từ lưỡng",
+      "scientific_name": "Dioscorea decipiens",
+      "group": ""
+    },
+    {
+      "stt": 205,
+      "name": "Từ tam giác",
+      "scientific_name": "Dioscorea deltoidea",
+      "group": ""
+    },
+    {
+      "stt": 206,
+      "name": "Từ nghèo",
+      "scientific_name": "Dioscorea depauperata",
+      "group": ""
+    },
+    {
+      "stt": 207,
+      "name": "Từ dấu",
+      "scientific_name": "Dioscorea dissimulans",
+      "group": ""
+    },
+    {
+      "stt": 208,
+      "name": "Cầm ghim",
+      "scientific_name": "Dioscorea esculenta",
+      "group": ""
+    },
+    {
+      "stt": 209,
+      "name": "Củ bòng",
+      "scientific_name": "Dioscorea esculenta",
+      "group": ""
+    },
+    {
+      "stt": 210,
+      "name": "Mác ón son",
+      "scientific_name": "Dioscorea esculenta",
+      "group": ""
+    },
+    {
+      "stt": 211,
+      "name": "Mền nam khuông (Khoai vạc gai)",
+      "scientific_name": "Dioscorea esculenta",
+      "group": ""
+    },
+    {
+      "stt": 212,
+      "name": "Củ mỡ",
+      "scientific_name": "Dioscorea esculenta",
+      "group": ""
+    },
+    {
+      "stt": 213,
+      "name": "Củ từ, Khoai từ",
+      "scientific_name": "Dioscorea esculenta",
+      "group": ""
+    },
+    {
+      "stt": 214,
+      "name": "Khoai từ bơn",
+      "scientific_name": "Dioscorea esculenta",
+      "group": ""
+    },
+    {
+      "stt": 215,
+      "name": "Củ từ cẩm",
+      "scientific_name": "Dioscorea esculenta",
+      "group": ""
+    },
+    {
+      "stt": 216,
+      "name": "Củ từ cùi, Khoai từ cùi",
+      "scientific_name": "Dioscorea esculenta",
+      "group": ""
+    },
+    {
+      "stt": 217,
+      "name": "Củ từ gai",
+      "scientific_name": "Dioscorea esculenta",
+      "group": ""
+    },
+    {
+      "stt": 218,
+      "name": "Khoai từ lớn",
+      "scientific_name": "Dioscorea esculenta",
+      "group": ""
+    },
+    {
+      "stt": 219,
+      "name": "Củ từ lông, Khoai từ lông",
+      "scientific_name": "Dioscorea esculenta",
+      "group": ""
+    },
+    {
+      "stt": 220,
+      "name": "Khoai từ phố Lu",
+      "scientific_name": "Dioscorea esculenta",
+      "group": ""
+    },
+    {
+      "stt": 221,
+      "name": "Củ từ ta",
+      "scientific_name": "Dioscorea esculenta",
+      "group": ""
+    },
+    {
+      "stt": 222,
+      "name": "Củ từ tăng sản",
+      "scientific_name": "Dioscorea esculenta",
+      "group": ""
+    },
+    {
+      "stt": 223,
+      "name": "Từ trơn",
+      "scientific_name": "Dioscorea esculenta",
+      "group": ""
+    },
+    {
+      "stt": 224,
+      "name": "Từ gai",
+      "scientific_name": "Dioscorea esculenta var. spinosa",
+      "group": ""
+    },
+    {
+      "stt": 225,
+      "name": "Rạng",
+      "scientific_name": "Dioscorea glabra",
+      "group": ""
+    },
+    {
+      "stt": 226,
+      "name": "Chụp",
+      "scientific_name": "Dioscorea hamiltonii",
+      "group": ""
+    },
+    {
+      "stt": 227,
+      "name": "Từ hemsley",
+      "scientific_name": "Dioscorea hemsleyi",
+      "group": ""
+    },
+    {
+      "stt": 228,
+      "name": "Củ nâu trắng",
+      "scientific_name": "Dioscorea hispida",
+      "group": ""
+    },
+    {
+      "stt": 229,
+      "name": "Từ ngược mùa",
+      "scientific_name": "Dioscorea intempestiva",
+      "group": ""
+    },
+    {
+      "stt": 230,
+      "name": "Từ Kamoon",
+      "scientific_name": "Dioscorea kamoonensis",
+      "group": ""
+    },
+    {
+      "stt": 231,
+      "name": "Khoai mọi",
+      "scientific_name": "Dioscorea kratica",
+      "group": ""
+    },
+    {
+      "stt": 232,
+      "name": "Từ lá quế",
+      "scientific_name": "Dioscorea laurifolia",
+      "group": ""
+    },
+    {
+      "stt": 233,
+      "name": "Từ mỏng",
+      "scientific_name": "Dioscorea membranacea",
+      "group": ""
+    },
+    {
+      "stt": 234,
+      "name": "Từ tròn",
+      "scientific_name": "Dioscorea nummularia",
+      "group": ""
+    },
+    {
+      "stt": 235,
+      "name": "Khoai chuột",
+      "scientific_name": "Dioscorea oryzetorum",
+      "group": ""
+    },
+    {
+      "stt": 236,
+      "name": "Từ ngược",
+      "scientific_name": "Dioscorea paradoxa",
+      "group": ""
+    },
+    {
+      "stt": 237,
+      "name": "Từ lốt",
+      "scientific_name": "Dioscorea peperoides",
+      "group": ""
+    },
+    {
+      "stt": 238,
+      "name": "Củ mài",
+      "scientific_name": "Dioscorea persimilis",
+      "group": ""
+    },
+    {
+      "stt": 239,
+      "name": "Từ petelot",
+      "scientific_name": "Dioscorea petelotii",
+      "group": ""
+    },
+    {
+      "stt": 240,
+      "name": "Từ nước",
+      "scientific_name": "Dioscorea pierrei",
+      "group": ""
+    },
+    {
+      "stt": 241,
+      "name": "Từ poilane",
+      "scientific_name": "Dioscorea poilanei",
+      "group": ""
+    },
+    {
+      "stt": 242,
+      "name": "Từ lá xá lị",
+      "scientific_name": "Dioscorea pyrifolia",
+      "group": ""
+    },
+    {
+      "stt": 243,
+      "name": "Từ scortechin",
+      "scientific_name": "Dioscorea scortechini",
+      "group": ""
+    },
+    {
+      "stt": 244,
+      "name": "Từ ba gân",
+      "scientific_name": "Dioscorea trinervia",
+      "group": ""
+    },
+    {
+      "stt": 245,
+      "name": "Từ nhám",
+      "scientific_name": "Dioscorea triphylla var. reticulata",
+      "group": ""
+    },
+    {
+      "stt": 246,
+      "name": "Nưa 3 lá",
+      "scientific_name": "Amorphophallus trifolium",
+      "group": "Khoai nưa"
+    },
+    {
+      "stt": 247,
+      "name": "Nưa Bắc bộ",
+      "scientific_name": "Amorphophallus tonkinensis",
+      "group": "Khoai nưa"
+    },
+    {
+      "stt": 248,
+      "name": "Nưa Cửu Long",
+      "scientific_name": "Amorphophallus mekongensis",
+      "group": "Khoai nưa"
+    },
+    {
+      "stt": 249,
+      "name": "Nưa gián đoạn",
+      "scientific_name": "Amorphophallus interruptus",
+      "group": "Khoai nưa"
+    },
+    {
+      "stt": 250,
+      "name": "Nưa khổng lồ",
+      "scientific_name": "Amorphophallus sp.",
+      "group": "Khoai nưa"
+    },
+    {
+      "stt": 251,
+      "name": "Nưa Thái",
+      "scientific_name": "Amorphophallus panomensis",
+      "group": "Khoai nưa"
+    },
+    {
+      "stt": 252,
+      "name": "Bon cắn lắm",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 253,
+      "name": "Cay bon (mùng tím)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 254,
+      "name": "Chật chày hậu",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 255,
+      "name": "Cò blồng cơlơ",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 256,
+      "name": "Cò bong",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 257,
+      "name": "Co chin chua",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 258,
+      "name": "Co chơn chua",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 259,
+      "name": "Cò chư hà (khoai sọ mầm trắng)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 260,
+      "name": "Cò chư hà (khoai sọ)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 261,
+      "name": "Co chu hang",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 262,
+      "name": "Cò đu",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 263,
+      "name": "Cỏ hát háng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 264,
+      "name": "Cỏ hát háng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 265,
+      "name": "Cò lan dầu",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 266,
+      "name": "Cò lằng (khoai vàng)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 267,
+      "name": "Complong",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 268,
+      "name": "Hậu (khoai sọ Lệ Phố)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 269,
+      "name": "Hầu bắc",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 270,
+      "name": "Hậu chang",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 271,
+      "name": "Hậu choàng cháo",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 272,
+      "name": "Hậu cùn pẹ",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 273,
+      "name": "Hậu đành",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 274,
+      "name": "Hậu đành đao",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 275,
+      "name": "Hậu đành pẻ",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 276,
+      "name": "Hầu doàng đón",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 277,
+      "name": "Hậu đòi (khoai sọ vua)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 278,
+      "name": "Hậu đòn (khoai sọ thơm)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 279,
+      "name": "Hậu giằng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 280,
+      "name": "Hầu hòi đang",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 281,
+      "name": "Hậu hòi đang",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 282,
+      "name": "Hậu Hùng (khoai sọ vua)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 283,
+      "name": "Hầu nhi",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 284,
+      "name": "Hầu pè",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 285,
+      "name": "Hậu pến doàng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 286,
+      "name": "Hậu plot",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 287,
+      "name": "Hậu pun chỏ",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 288,
+      "name": "Hậu quyên",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 289,
+      "name": "Hậu tạp thầy",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 290,
+      "name": "Hầu tí",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 291,
+      "name": "Hậu vàng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 292,
+      "name": "Hầu vàng (khoai sọ)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 293,
+      "name": "Hậu xi (lụa)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 294,
+      "name": "Hậu xiền",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 295,
+      "name": "Hậu zan (khoai sọ chân hổ)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 296,
+      "name": "Kào pụa",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 297,
+      "name": "Khoai bế em",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 298,
+      "name": "Khoai bỏi",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 299,
+      "name": "Khoai bòi hỏm",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 300,
+      "name": "Khoai bộp",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 301,
+      "name": "Khoai chân chó",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 302,
+      "name": "Khoai gà trắng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 303,
+      "name": "Khoai hương",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 304,
+      "name": "Khoai làng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 305,
+      "name": "Khoai mán",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 306,
+      "name": "Khoai mán vàng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 307,
+      "name": "Khoai mía",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 308,
+      "name": "Khoai môn",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 309,
+      "name": "Khoai môn Nghệ An",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 310,
+      "name": "Khoai môn sọ",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 311,
+      "name": "Khoai môn Sơn La",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 312,
+      "name": "Khoai môn tía",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 313,
+      "name": "Khoai môn tím",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 314,
+      "name": "Khoai môn trắng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 314,
+      "name": "Khoai môn xanh",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 316,
+      "name": "Khoai mùng dọc xanh",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 317,
+      "name": "Khoai muộn",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 318,
+      "name": "Khoai nước núi",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 319,
+      "name": "Khoai nương",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 320,
+      "name": "Khoai sáp tím",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 321,
+      "name": "Khoai sáp vàng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 322,
+      "name": "Khoai sọ",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 323,
+      "name": "Khoai sọ 3 tháng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 324,
+      "name": "Khoai sọ chân chó",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 325,
+      "name": "Khoai sọ chân trắng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 326,
+      "name": "Khoai sọ Chợ Đồn",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 327,
+      "name": "Khoai sọ Cụ Cang Thuận Châu (Sơn La)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 328,
+      "name": "Khoai sọ đỏ",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 329,
+      "name": "Khoai sọ dọc tía",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 330,
+      "name": "Khoai sọ dọc tím",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 331,
+      "name": "Khoai sọ dọc trắng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 332,
+      "name": "Khoai sọ dọc xanh",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 333,
+      "name": "Khoai sọ đồi",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 334,
+      "name": "Khoai sọ đồi chỏm đỏ",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 335,
+      "name": "Khoai sọ đồi chỏm tím",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 336,
+      "name": "Khoai sọ đồng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 337,
+      "name": "Khoai sọ Hà Bắc",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 338,
+      "name": "Khoai sọ hao",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 339,
+      "name": "Khoai sọ Lục Yên",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 340,
+      "name": "Khoai sọ lủi",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 341,
+      "name": "Khoai sọ mặt quỷ",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 342,
+      "name": "Khoai sọ mắt trắng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 343,
+      "name": "Khoai sọ muộn",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 344,
+      "name": "Khoai sọ Nam Đàn",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 345,
+      "name": "Khoai sọ nghệ",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 346,
+      "name": "Khoai sọ núi",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 347,
+      "name": "Khoai sọ nương",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 348,
+      "name": "Khoai sọ rừng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 349,
+      "name": "Khoai sọ ruột vàng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 350,
+      "name": "Khoai sọ sớm",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 351,
+      "name": "Khoai sọ Tây Ninh",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 352,
+      "name": "Khoai sọ tía",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 353,
+      "name": "Khoai sọ tím",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 354,
+      "name": "Khoai sọ TN",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 355,
+      "name": "Khoai sọ trắng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 356,
+      "name": "Khoai sọ trứng dọc tím",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 357,
+      "name": "Khoai sượng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 358,
+      "name": "Khoai Tam Đảo",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 359,
+      "name": "Khoai tầng Đà Bắc",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 360,
+      "name": "Khoai tăng sản",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 361,
+      "name": "Khoai tím thơm",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 362,
+      "name": "Khoai trại",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 363,
+      "name": "Khoai trò mịn",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 364,
+      "name": "Khoai tròn",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 365,
+      "name": "Khoai vảy",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 366,
+      "name": "Khoai xá xanh",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 367,
+      "name": "LO 31",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 368,
+      "name": "Má phứa",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 369,
+      "name": "Má phứa căn",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 370,
+      "name": "Má phứa lẳng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 371,
+      "name": "Má phứa tím",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 372,
+      "name": "Mạc phiệc cỏ (khoai dài)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 373,
+      "name": "Mạc phiệc hòm (khoai sọ thơm)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 374,
+      "name": "Mặc phớc kịp",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 375,
+      "name": "Mác phứa lanh (khoai sọ tím)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 376,
+      "name": "Mác phứa lón (khoai sọ trắng)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 377,
+      "name": "Mặc phước",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 378,
+      "name": "Mặc phước bay",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 379,
+      "name": "Mặc phước be",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 380,
+      "name": "Mặc phước bét",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 381,
+      "name": "Mặc phước hom",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 382,
+      "name": "Mặc phước khăn",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 383,
+      "name": "Mặc phước lành",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 384,
+      "name": "Mặc phước nành",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 385,
+      "name": "Mằn hua vài",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 386,
+      "name": "Mắng phứa",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 387,
+      "name": "Môn ađơ",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 388,
+      "name": "Môn bạc hà",
+      "scientific_name": "Alocasia odora Koch",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 389,
+      "name": "Môn bạc hà",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 390,
+      "name": "Môn đỏ",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 391,
+      "name": "Môn mịn",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 392,
+      "name": "Môn rụi Mộ Đức",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 393,
+      "name": "Môn sáp đen",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 394,
+      "name": "Môn sen",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 395,
+      "name": "Môn sọ",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 396,
+      "name": "Môn sọ Gia Lai",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 397,
+      "name": "Môn tầng 6 tháng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 398,
+      "name": "Môn thơm",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 399,
+      "name": "Môn trắng Đồng Nai",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 400,
+      "name": "Môn trốn",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 401,
+      "name": "Môn trứng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 402,
+      "name": "Môn voi Cam Lộ",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 403,
+      "name": "Pè tạ",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 404,
+      "name": "Phứa lanh",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 405,
+      "name": "Phước be",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 406,
+      "name": "Phước bơn bét",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 407,
+      "name": "Phước của",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 408,
+      "name": "Phước đạnh",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 409,
+      "name": "Phước đao",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 410,
+      "name": "Phước đen",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 411,
+      "name": "Phước đòn",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 412,
+      "name": "Phước hao",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 413,
+      "name": "Phước héo moong",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 414,
+      "name": "Phước hỏm (khoai sọ thơm)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 415,
+      "name": "Phước lạ (khoai sọ)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 416,
+      "name": "Phước lanh",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 417,
+      "name": "Phước lim",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 418,
+      "name": "Phước lón",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 419,
+      "name": "Phước lượng nang",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 420,
+      "name": "Phước mán",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 421,
+      "name": "Phước my",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 422,
+      "name": "Phước ỏi 1",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 423,
+      "name": "Phước ỏi 2",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 424,
+      "name": "Phước rãi",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 425,
+      "name": "Phước sạy",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 426,
+      "name": "Phước say (khoai trứng)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 427,
+      "name": "Phước tịn tráng",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 428,
+      "name": "Sơ rô",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 429,
+      "name": "Srôclock (khoai sọ trắng)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 430,
+      "name": "Srôhiêng (khoai sọ đen)",
+      "scientific_name": "Colocasia esculenta",
+      "group": "Khoai môn"
+    },
+    {
+      "stt": 431,
+      "name": "Bon đeng",
+      "scientific_name": "Xanthosoma sagittifolium",
+      "group": "Khoai mùng"
+    },
+    {
+      "stt": 432,
+      "name": "Có hát háng",
+      "scientific_name": "Xanthosoma sagittifolium",
+      "group": "Khoai mùng"
+    },
+    {
+      "stt": 433,
+      "name": "Khoai môn tí",
+      "scientific_name": "Xanthosoma sagittifolium",
+      "group": ""
+    },
+    {
+      "stt": 434,
+      "name": "Môn lựu đạn",
+      "scientific_name": "Xanthosoma sagittifolium",
+      "group": ""
+    },
+    {
+      "stt": 435,
+      "name": "Môn lựu đạn Gio Linh",
+      "scientific_name": "Xanthosoma sagittifolium",
+      "group": ""
+    },
+    {
+      "stt": 436,
+      "name": "Môn Sáp",
+      "scientific_name": "Xanthosoma nigra (Veel.) Stellfeld",
+      "group": ""
+    },
+    {
+      "stt": 437,
+      "name": "Môn tàu",
+      "scientific_name": "Xanthosoma sagittifolium",
+      "group": ""
+    },
+    {
+      "stt": 438,
+      "name": "Khoai mùng",
+      "scientific_name": "Xanthosoma sagittifolium",
+      "group": ""
+    },
+    {
+      "stt": 439,
+      "name": "Mùng tía",
+      "scientific_name": "Xanthosoma sagittifolium",
+      "group": ""
+    },
+    {
+      "stt": 440,
+      "name": "Khoai riềng quảng",
+      "scientific_name": "Xanthosoma sagittifolium",
+      "group": ""
+    },
+    {
+      "stt": 441,
+      "name": "Khoai sọ đồi",
+      "scientific_name": "Xanthosoma sagittifolium",
+      "group": ""
+    },
+    {
+      "stt": 442,
+      "name": "Khoai sọ mèo",
+      "scientific_name": "Xanthosoma sagittifolium",
+      "group": ""
+    },
+    {
+      "stt": 443,
+      "name": "Khoai Tam Đảo",
+      "scientific_name": "Xanthosoma sagittifolium",
+      "group": "Khoai mùng"
+    },
+    {
+      "stt": 444,
+      "name": "Pằn noòng KM1",
+      "scientific_name": "Xanthosoma sagittifolium",
+      "group": "Khoai mùng"
+    },
+    {
+      "stt": 445,
+      "name": "Phước tăm 14",
+      "scientific_name": "Xanthosoma sagittifolium",
+      "group": "Khoai mùng"
+    },
+    {
+      "stt": 446,
+      "name": "Tam đảo xanh",
+      "scientific_name": "Xanthosoma sagittifolium",
+      "group": "Khoai mùng"
+    },
+    {
+      "stt": 447,
+      "name": "Khoai tây",
+      "scientific_name": "Solanum tuberosum",
+      "group": ""
+    },
+    {
+      "stt": 448,
+      "name": "Khoai mì (sắn)",
+      "scientific_name": "Manihot esculenta",
+      "group": ""
+    }
+  ],
+  "meta": {
+    "title": "Danh sách giống khoai tại Việt Nam - Free Download",
+    "description": "Danh sách các giống khoai (khoai lang, khoai sọ, khoai môn, khoai mỡ, khoai mùng, khoai tây, sắn...) được trồng tại Việt Nam, kèm tên khoa học. Contains 448 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách giống khoai tại Việt Nam | ListBase",
+    "seo_description": "Download Danh sách giống khoai tại Việt Nam — 448 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 448 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_gi%E1%BB%91ng_khoai_t%E1%BA%A1i_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}
