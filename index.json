@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-26T02:12:16.940Z",
-  "total_datasets": 532,
-  "total_records": 125151,
+  "generated": "2026-10-26T02:12:19.399Z",
+  "total_datasets": 533,
+  "total_records": 125329,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -673,6 +673,32 @@
         "xlsx": {
           "name": "vi-grdp-tinh-thanh_VI.xlsx",
           "size": 9172
+        }
+      }
+    },
+    {
+      "id": "vi-khu-cong-nghiep",
+      "name": "Danh sách khu công nghiệp Việt Nam",
+      "category": "economy",
+      "record_count": 178,
+      "columns": [
+        "name",
+        "province",
+        "area_ha_2020",
+        "area_note",
+        "approval_document"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Khu_c%C3%B4ng_nghi%E1%BB%87p_%28Vi%E1%BB%87t_Nam%29",
+      "updated": "2026-10",
+      "size": 37285,
+      "files": {
+        "csv": {
+          "name": "vi-khu-cong-nghiep_VI.csv",
+          "size": 15057
+        },
+        "xlsx": {
+          "name": "vi-khu-cong-nghiep_VI.xlsx",
+          "size": 13125
         }
       }
     },

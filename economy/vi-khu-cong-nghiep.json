@@ -1,0 +1,1297 @@
+{
+  "id": "vi-khu-cong-nghiep",
+  "name": "Danh sách khu công nghiệp Việt Nam",
+  "title": "Danh sách khu công nghiệp Việt Nam",
+  "description": "Danh sách các khu công nghiệp tại Việt Nam theo địa phương, kèm diện tích (ha, năm 2020) và văn bản phê duyệt.",
+  "category": "economy",
+  "source": "https://vi.wikipedia.org/wiki/Khu_c%C3%B4ng_nghi%E1%BB%87p_%28Vi%E1%BB%87t_Nam%29",
+  "source_url": "https://vi.wikipedia.org/wiki/Khu_c%C3%B4ng_nghi%E1%BB%87p_%28Vi%E1%BB%87t_Nam%29",
+  "updated": "2026-10",
+  "record_count": 178,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "area_ha_2020",
+      "label": "Area Ha 2020",
+      "type": "number"
+    },
+    {
+      "key": "area_note",
+      "label": "Area Note",
+      "type": "string"
+    },
+    {
+      "key": "approval_document",
+      "label": "Approval Document",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "KCN Sonadezi Châu Đức",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 2287,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Hiệp Phước",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 2000,
+      "area_note": "",
+      "approval_document": "Quyết định số 188/2004/QĐ-TTg"
+    },
+    {
+      "name": "KCN Tân Phú Trung",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 590,
+      "area_note": "",
+      "approval_document": "Số 861/CP-CN"
+    },
+    {
+      "name": "KCN Đông Nam",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 342.53,
+      "area_note": "",
+      "approval_document": "Quyết định số 5945/QĐ-UBND"
+    },
+    {
+      "name": "KCN Phước Đông",
+      "province": "Tây Ninh",
+      "area_ha_2020": 3158,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Song Khê - Nội Hoàng",
+      "province": "Bắc Ninh",
+      "area_ha_2020": 150,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Lương Sơn",
+      "province": "Phú Thọ",
+      "area_ha_2020": 72,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Mai Sơn",
+      "province": "Sơn La",
+      "area_ha_2020": 150,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Lương Sơn",
+      "province": "Thái Nguyên",
+      "area_ha_2020": 150,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Sông Công 2",
+      "province": "Thái Nguyên",
+      "area_ha_2020": 250,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Phù Ninh",
+      "province": "Phú Thọ",
+      "area_ha_2020": 100,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Long Bình An",
+      "province": "Tuyên Quang",
+      "area_ha_2020": 200,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Đông Phố Mới",
+      "province": "Lào Cai",
+      "area_ha_2020": 100,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN phía Đông Nam",
+      "province": "Điện Biên",
+      "area_ha_2020": 60,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Thanh Bình",
+      "province": "Thái Nguyên",
+      "area_ha_2020": 70,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Bình Vàng",
+      "province": "Tuyên Quang",
+      "area_ha_2020": 100,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN phía Nam Yên Bái",
+      "province": "Lào Cai",
+      "area_ha_2020": 100,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Đồng Bành",
+      "province": "Lạng Sơn",
+      "area_ha_2020": 207,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Đề Thám",
+      "province": "Cao Bằng",
+      "area_ha_2020": 100,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Quế Võ III Lưu trữ ngày 8 tháng 8 năm 2020 tại Wayback Machine",
+      "province": "Bắc Ninh",
+      "area_ha_2020": "",
+      "area_note": "303.8 (Giai đoạn 1)",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Nam Sơn - Hạp Lĩnh",
+      "province": "Bắc Ninh",
+      "area_ha_2020": 200,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Yên Phong II",
+      "province": "Bắc Ninh",
+      "area_ha_2020": 300,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Quế Võ II",
+      "province": "Bắc Ninh",
+      "area_ha_2020": 200,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Thuận Thành",
+      "province": "Bắc Ninh",
+      "area_ha_2020": 200,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Tân Trường Lưu trữ ngày 8 tháng 8 năm 2020 tại Wayback Machine",
+      "province": "Hải Phòng",
+      "area_ha_2020": 198,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Nam Sách Lưu trữ ngày 8 tháng 8 năm 2020 tại Wayback Machine",
+      "province": "Hải Phòng",
+      "area_ha_2020": 62,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Phúc Điền Lưu trữ ngày 8 tháng 8 năm 2020 tại Wayback Machine",
+      "province": "Hải Phòng",
+      "area_ha_2020": 82,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Việt Hoà",
+      "province": "Hải Phòng",
+      "area_ha_2020": 47,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Phú Thái",
+      "province": "Hải Phòng",
+      "area_ha_2020": 72,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Cộng Hoà",
+      "province": "Hải Phòng",
+      "area_ha_2020": 300,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Tàu thủy Lai Vu",
+      "province": "Hải Phòng",
+      "area_ha_2020": 212,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Minh Quang Lưu trữ ngày 8 tháng 8 năm 2020 tại Wayback Machine",
+      "province": "Hưng Yên",
+      "area_ha_2020": 153,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN thị xã Hưng Yên",
+      "province": "Hưng Yên",
+      "area_ha_2020": 60,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Minh Đức",
+      "province": "Hưng Yên",
+      "area_ha_2020": 200,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Vĩnh Khúc",
+      "province": "Hưng Yên",
+      "area_ha_2020": 200,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Đò Nống - Chợ Hỗ",
+      "province": "Hải Phòng",
+      "area_ha_2020": 150,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Nam Cầu Kiền",
+      "province": "Hải Phòng",
+      "area_ha_2020": 100,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Tràng Duệ",
+      "province": "Hải Phòng",
+      "area_ha_2020": 150,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Tàu thủy An Hồng",
+      "province": "Hải Phòng",
+      "area_ha_2020": 30,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Đông Mai",
+      "province": "Quảng Ninh",
+      "area_ha_2020": 200,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Tàu thủy Cái Lân",
+      "province": "Quảng Ninh",
+      "area_ha_2020": 70,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Hà Nội Đài Tư Lưu trữ ngày 8 tháng 8 năm 2020 tại Wayback Machine",
+      "province": "Hà Nội",
+      "area_ha_2020": 40,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Quang Minh Lưu trữ ngày 8 tháng 8 năm 2020 tại Wayback Machine",
+      "province": "Hà Nội",
+      "area_ha_2020": 343,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Thạch Thất Quốc Oai Lưu trữ ngày 8 tháng 8 năm 2020 tại Wayback Machine",
+      "province": "Hà Nội",
+      "area_ha_2020": 148,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Đông Anh",
+      "province": "Hà Nội",
+      "area_ha_2020": 300,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Sóc Sơn",
+      "province": "Hà Nội",
+      "area_ha_2020": 300,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Khai Quang",
+      "province": "Vĩnh Phúc",
+      "area_ha_2020": 262,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Chấn Hưng",
+      "province": "Vĩnh Phúc",
+      "area_ha_2020": 80,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Bá Thiện 2 Lưu trữ ngày 29 tháng 11 năm 2012 tại Wayback Machine",
+      "province": "Vĩnh Phúc",
+      "area_ha_2020": 327,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN An Hòa",
+      "province": "Hưng Yên",
+      "area_ha_2020": 400,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Đồng Văn II Lưu trữ ngày 8 tháng 8 năm 2020 tại Wayback Machine",
+      "province": "Ninh Bình",
+      "area_ha_2020": 323,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Châu Sơn",
+      "province": "Ninh Bình",
+      "area_ha_2020": 170,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Ascendas - Protrade",
+      "province": "Ninh Bình",
+      "area_ha_2020": 300,
+      "area_note": "",
+      "approval_document": "Công văn 1350/TTg-KTN"
+    },
+    {
+      "name": "KCN Liêm Cần - Thanh Bình",
+      "province": "Ninh Bình",
+      "area_ha_2020": 200,
+      "area_note": "",
+      "approval_document": "Công văn 1350/TTg-KTN"
+    },
+    {
+      "name": "KCN Thanh Liêm",
+      "province": "Ninh Bình",
+      "area_ha_2020": 293,
+      "area_note": "",
+      "approval_document": "Quyết định số 281/QĐ-TTg"
+    },
+    {
+      "name": "KCN ITAHAN",
+      "province": "Ninh Bình",
+      "area_ha_2020": 300,
+      "area_note": "",
+      "approval_document": "Công văn 1350/TTg-KTN"
+    },
+    {
+      "name": "KCN Đồng Văn I",
+      "province": "Ninh Bình",
+      "area_ha_2020": 300,
+      "area_note": "",
+      "approval_document": "Quyết định 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Mỹ Trung",
+      "province": "Ninh Bình",
+      "area_ha_2020": 150,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Bảo Minh",
+      "province": "Ninh Bình",
+      "area_ha_2020": 150,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Thành An",
+      "province": "Ninh Bình",
+      "area_ha_2020": 105,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Hồng Tiến (Ý Yên I)",
+      "province": "Ninh Bình",
+      "area_ha_2020": 150,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Nghĩa An (Nam Trực)",
+      "province": "Ninh Bình",
+      "area_ha_2020": 150,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Ý Yên II (Ý Yên)",
+      "province": "Ninh Bình",
+      "area_ha_2020": 200,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Gián Khẩu",
+      "province": "Ninh Bình",
+      "area_ha_2020": 262,
+      "area_note": "",
+      "approval_document": "Công văn số: 1818/TTg-KTN"
+    },
+    {
+      "name": "KCN Khánh Phú",
+      "province": "Ninh Bình",
+      "area_ha_2020": 334,
+      "area_note": "",
+      "approval_document": "Công văn số: 1818/TTg-KTN"
+    },
+    {
+      "name": "KCN Phúc Sơn",
+      "province": "Ninh Bình",
+      "area_ha_2020": 134,
+      "area_note": "",
+      "approval_document": "Công văn số: 1818/TTg-KTN"
+    },
+    {
+      "name": "KCN Khánh Cư",
+      "province": "Ninh Bình",
+      "area_ha_2020": 170,
+      "area_note": "",
+      "approval_document": "Công văn số: 1818/TTg-KTN"
+    },
+    {
+      "name": "KCN Kim Sơn",
+      "province": "Ninh Bình",
+      "area_ha_2020": 200,
+      "area_note": "",
+      "approval_document": "Quyết định số: 1499/TTg-KTN Lưu trữ ngày 20 tháng 8 năm 2014 tại Wayback Machine"
+    },
+    {
+      "name": "KCN Tam Điệp II",
+      "province": "Ninh Bình",
+      "area_ha_2020": 386,
+      "area_note": "",
+      "approval_document": "Quyết định số: 1499/TTg-KTN Lưu trữ ngày 20 tháng 8 năm 2014 tại Wayback Machine"
+    },
+    {
+      "name": "KCN Tam Điệp I",
+      "province": "Ninh Bình",
+      "area_ha_2020": 64,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Bỉm Sơn, Bắc Khu A Lưu trữ ngày 8 tháng 8 năm 2020 tại Wayback Machine",
+      "province": "Thanh Hóa",
+      "area_ha_2020": 450,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Lam Sơn",
+      "province": "Thanh Hóa",
+      "area_ha_2020": 200,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Cửa Lò",
+      "province": "Nghệ An",
+      "area_ha_2020": 50,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Hạ Vàng",
+      "province": "Hà Tĩnh",
+      "area_ha_2020": 100,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Gia Lách",
+      "province": "Hà Tĩnh",
+      "area_ha_2020": 100,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Bắc Đồng Hới",
+      "province": "Quảng Trị",
+      "area_ha_2020": 150,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Quán Ngang",
+      "province": "Quảng Trị",
+      "area_ha_2020": 140,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Bố Trạch",
+      "province": "Quảng Trị",
+      "area_ha_2020": 450,
+      "area_note": "",
+      "approval_document": "Quyết định số 2118/QĐ-KKT ngày 31/12/2025."
+    },
+    {
+      "name": "KCN đa ngành Triệu Phú",
+      "province": "Quảng Trị",
+      "area_ha_2020": 531.25,
+      "area_note": "",
+      "approval_document": "Quyết định số 308/QĐ-TTg"
+    },
+    {
+      "name": "KCN Quảng Trị",
+      "province": "Quảng Trị",
+      "area_ha_2020": 481.2,
+      "area_note": "",
+      "approval_document": "Quyết định số 418/QĐ-TTg"
+    },
+    {
+      "name": "KCN Amber Tây Bắc Hồ Xá",
+      "province": "Quảng Trị",
+      "area_ha_2020": 214.77,
+      "area_note": "",
+      "approval_document": "Quyết định số 396/QĐ-TTg"
+    },
+    {
+      "name": "KCN Nam Đông Hà",
+      "province": "Quảng Trị",
+      "area_ha_2020": 120,
+      "area_note": "",
+      "approval_document": ""
+    },
+    {
+      "name": "KCN Bến Quan",
+      "province": "Quảng Trị",
+      "area_ha_2020": "",
+      "area_note": "",
+      "approval_document": ""
+    },
+    {
+      "name": "KCN Tây Bắc Đồng Hới",
+      "province": "Quảng Trị",
+      "area_ha_2020": 66.32,
+      "area_note": "",
+      "approval_document": "Quyết định số 47/2006/QĐ-UBND Quảng Bình"
+    },
+    {
+      "name": "KCN Tứ Hạ",
+      "province": "Huế",
+      "area_ha_2020": 100,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Phong Thu",
+      "province": "Huế",
+      "area_ha_2020": 100,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Hoà Cầm 2",
+      "province": "Đà Nẵng",
+      "area_ha_2020": 150,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Hoà Ninh",
+      "province": "Đà Nẵng",
+      "area_ha_2020": 200,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Thuận Yên",
+      "province": "Đà Nẵng",
+      "area_ha_2020": 230,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Đông Quế Sơn",
+      "province": "Đà Nẵng",
+      "area_ha_2020": 200,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Phổ Phong",
+      "province": "Quảng Ngãi",
+      "area_ha_2020": 140,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Phú Tài",
+      "province": "Gia Lai",
+      "area_ha_2020": 350,
+      "area_note": "",
+      "approval_document": "Quyết định số 1127/QĐ-TTg"
+    },
+    {
+      "name": "KCN Long Mỹ",
+      "province": "Gia Lai",
+      "area_ha_2020": 120,
+      "area_note": "",
+      "approval_document": "Quyết định số 561/CP-CN"
+    },
+    {
+      "name": "KCN Cát Trinh",
+      "province": "Gia Lai",
+      "area_ha_2020": 370,
+      "area_note": "",
+      "approval_document": "Quyết định số 1975/TTg-KTN"
+    },
+    {
+      "name": "KCN Bình Nghi - Nhơn Tân",
+      "province": "Gia Lai",
+      "area_ha_2020": 370,
+      "area_note": "",
+      "approval_document": "Quyết định số 1975/TTg-KTN"
+    },
+    {
+      "name": "KCN Nhơn Hội",
+      "province": "Gia Lai",
+      "area_ha_2020": 1050,
+      "area_note": "",
+      "approval_document": "Quyết định số 141/2005/QĐ-TTg"
+    },
+    {
+      "name": "KCN Nhơn Hòa",
+      "province": "Gia Lai",
+      "area_ha_2020": 320,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Hoà Hội",
+      "province": "Gia Lai",
+      "area_ha_2020": 340,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Đông Bắc Sông Cầu",
+      "province": "Đắk Lắk",
+      "area_ha_2020": 105,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN An Phú",
+      "province": "Đắk Lắk",
+      "area_ha_2020": 100,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Hòa Tâm",
+      "province": "Đắk Lắk",
+      "area_ha_2020": 150,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Nam Cam Ranh",
+      "province": "Khánh Hoà",
+      "area_ha_2020": 200,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Bắc Cam Ranh",
+      "province": "Khánh Hoà",
+      "area_ha_2020": 150,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Du Long",
+      "province": "Khánh Hoà",
+      "area_ha_2020": 410,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Hàm Kiệm I",
+      "province": "Lâm Đồng",
+      "area_ha_2020": 147,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Hàm Kiệm II",
+      "province": "Lâm Đồng",
+      "area_ha_2020": 433,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Phan Thiết I",
+      "province": "Lâm Đồng",
+      "area_ha_2020": 58,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Phan Thiết II",
+      "province": "Lâm Đồng",
+      "area_ha_2020": 47,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Hòa Phú",
+      "province": "Đắk Lắk",
+      "area_ha_2020": 100,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Tây Pleiku",
+      "province": "Gia Lai",
+      "area_ha_2020": 200,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Hòa Bình",
+      "province": "Quảng Ngãi",
+      "area_ha_2020": 100,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Phú Hội",
+      "province": "Lâm Đồng",
+      "area_ha_2020": 174,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Nhân Cơ",
+      "province": "Lâm Đồng",
+      "area_ha_2020": 100,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Tân Phú",
+      "province": "Đồng Nai",
+      "area_ha_2020": 60,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Ông Kèo",
+      "province": "Đồng Nai",
+      "area_ha_2020": 300,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Bàu Xéo",
+      "province": "Đồng Nai",
+      "area_ha_2020": 500,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Lộc An - Bình Sơn",
+      "province": "Đồng Nai",
+      "area_ha_2020": 500,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Long Đức",
+      "province": "Đồng Nai",
+      "area_ha_2020": 450,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Long Khánh",
+      "province": "Đồng Nai",
+      "area_ha_2020": 300,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Giang Điền",
+      "province": "Đồng Nai",
+      "area_ha_2020": 500,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Dầu Giây",
+      "province": "Đồng Nai",
+      "area_ha_2020": 300,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Mỹ Phước 1",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 450,
+      "area_note": "",
+      "approval_document": "Quyết định số 452/QĐ-TTg"
+    },
+    {
+      "name": "KCN Mỹ Phước 2",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 800,
+      "area_note": "",
+      "approval_document": "Quyết định số 59/TTg-CN"
+    },
+    {
+      "name": "KCN Mỹ Phước 3",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 1000,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Xanh Bình Dương",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 200,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN An Tây",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 500,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Việt Nam - Singapore",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 500,
+      "area_note": "",
+      "approval_document": "Quyết định số 870/TTg"
+    },
+    {
+      "name": "KCN VSIP II",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 345,
+      "area_note": "",
+      "approval_document": "Quyết định số 870/TTg"
+    },
+    {
+      "name": "KCN VSIP III",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 1000,
+      "area_note": "",
+      "approval_document": "Quyết định số 40/QĐ-TTg"
+    },
+    {
+      "name": "KCN Bàu Bàng",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 997.74,
+      "area_note": "",
+      "approval_document": "Quyết định số số 566/TTg-CN"
+    },
+    {
+      "name": "KCN Bình An",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 25.9,
+      "area_note": "",
+      "approval_document": "Quyết định số 1722/CP-CN"
+    },
+    {
+      "name": "KCN Đất Cuốc",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 212.84,
+      "area_note": "",
+      "approval_document": "Quyết định số 3590/QĐ"
+    },
+    {
+      "name": "KCN Nam Tân Uyên",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 330.51,
+      "area_note": "",
+      "approval_document": "Quyết định số 1717/CP-CN"
+    },
+    {
+      "name": "KCN Nam Tân Uyên Mở Rộng",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 288.52,
+      "area_note": "",
+      "approval_document": "Quyết định số 1285/TTg-KCN"
+    },
+    {
+      "name": "KCN Rạch Bắp",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 278.6,
+      "area_note": "",
+      "approval_document": "Quyết định số 1838/TTg-CN"
+    },
+    {
+      "name": "KCN Sóng Thần 1",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 178,
+      "area_note": "",
+      "approval_document": "Quyết định số 577/TTg"
+    },
+    {
+      "name": "KCN Sóng Thần 2",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 279.27,
+      "area_note": "",
+      "approval_document": "Quyết định số 796/TTg"
+    },
+    {
+      "name": "KCN Sóng Thần 3",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 533.85,
+      "area_note": "",
+      "approval_document": "Quyết định số 912/QĐ-TTg"
+    },
+    {
+      "name": "KCN Tân Đông Hiệp A",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 52.86,
+      "area_note": "",
+      "approval_document": "Quyết định số 1282/QĐ-TTg"
+    },
+    {
+      "name": "KCN Tân Đông Hiệp B",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 162.92,
+      "area_note": "",
+      "approval_document": "Quyết định số 327/TTg"
+    },
+    {
+      "name": "KCN Thới Hoà",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 202.4,
+      "area_note": "",
+      "approval_document": "Quyết định số số 1717/CP-CN"
+    },
+    {
+      "name": "KCN Việt Hương 2",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 250,
+      "area_note": "",
+      "approval_document": "Quyết định số 3681/QĐ-CT"
+    },
+    {
+      "name": "KCN Tân Bình",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 352.5,
+      "area_note": "",
+      "approval_document": "Quyết định số 1158/TTg-KTN"
+    },
+    {
+      "name": "KCN Phú Tân",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 107,
+      "area_note": "",
+      "approval_document": "Quyết định số 912/QĐ-TTg"
+    },
+    {
+      "name": "KCN Bình Đường",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 16.5,
+      "area_note": "",
+      "approval_document": "Quyết định số 196/TTg"
+    },
+    {
+      "name": "KCN Mai Trung",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 50.55,
+      "area_note": "",
+      "approval_document": "Quyết định số 1475/CP-CN"
+    },
+    {
+      "name": "KCN Minh Hưng - Sikico",
+      "province": "Đồng Nai",
+      "area_ha_2020": 655,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Nam Đồng Phú",
+      "province": "Đồng Nai",
+      "area_ha_2020": 150,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Tân Khai",
+      "province": "Đồng Nai",
+      "area_ha_2020": 700,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Minh Hưng",
+      "province": "Đồng Nai",
+      "area_ha_2020": 700,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Đồng Xoài",
+      "province": "Đồng Nai",
+      "area_ha_2020": 650,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Bắc Đồng Phú",
+      "province": "Đồng Nai",
+      "area_ha_2020": 250,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Long Hương",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 400,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Phú Hữu",
+      "province": "TP. Hồ Chí Minh",
+      "area_ha_2020": 162,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Trâm Vàng",
+      "province": "Tây Ninh",
+      "area_ha_2020": 375,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Cầu Tràm (Cầu Đước)",
+      "province": "Tây Ninh",
+      "area_ha_2020": 80,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Mỹ Yên - Tân Bửu - Long Hiệp",
+      "province": "Tây Ninh",
+      "area_ha_2020": 340,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Nhật Chánh",
+      "province": "Tây Ninh",
+      "area_ha_2020": 122,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Đức Hòa III",
+      "province": "Tây Ninh",
+      "area_ha_2020": 2300,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Thạnh Đức",
+      "province": "Tây Ninh",
+      "area_ha_2020": 256,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN An Nhật Tân",
+      "province": "Tây Ninh",
+      "area_ha_2020": 120,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Long Hậu (bao gồm 3 giai đoạn)",
+      "province": "Tây Ninh",
+      "area_ha_2020": 425,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Tân Thành",
+      "province": "Tây Ninh",
+      "area_ha_2020": 300,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Nam Tân Tập",
+      "province": "Tây Ninh",
+      "area_ha_2020": 200,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Bắc Tân Tập",
+      "province": "Tây Ninh",
+      "area_ha_2020": 100,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Tàu thủy Soài Rạp",
+      "province": "Đồng Tháp",
+      "area_ha_2020": 290,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN An Hiệp",
+      "province": "Vĩnh Long",
+      "area_ha_2020": 72,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Sông Hậu",
+      "province": "Đồng Tháp",
+      "area_ha_2020": 60,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Bình Minh",
+      "province": "Vĩnh Long",
+      "area_ha_2020": 162,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Hưng Phú 2",
+      "province": "Cần Thơ",
+      "area_ha_2020": 226,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Bình Long",
+      "province": "An Giang",
+      "area_ha_2020": 67,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Bình Hòa",
+      "province": "An Giang",
+      "area_ha_2020": 150,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Thạnh Lộc",
+      "province": "An Giang",
+      "area_ha_2020": 100,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Rạch V­ợt",
+      "province": "An Giang",
+      "area_ha_2020": 100,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Sông Hậu",
+      "province": "Cần Thơ",
+      "area_ha_2020": 150,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Trần Đề",
+      "province": "Cần Thơ",
+      "area_ha_2020": 140,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Đại Ngãi",
+      "province": "Cần Thơ",
+      "area_ha_2020": 120,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    },
+    {
+      "name": "KCN Trà Kha",
+      "province": "Cà Mau",
+      "area_ha_2020": 66,
+      "area_note": "",
+      "approval_document": "Quyết định số 1107/QĐ-TTg"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách khu công nghiệp Việt Nam - Free Download",
+    "description": "Danh sách các khu công nghiệp tại Việt Nam theo địa phương, kèm diện tích (ha, năm 2020) và văn bản phê duyệt. Contains 178 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách khu công nghiệp Việt Nam | ListBase",
+    "seo_description": "Download Danh sách khu công nghiệp Việt Nam — 178 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 178 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Khu_c%C3%B4ng_nghi%E1%BB%87p_%28Vi%E1%BB%87t_Nam%29"
+    ]
+  }
+}
