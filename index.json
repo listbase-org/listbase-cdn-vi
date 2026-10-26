@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-26T02:12:04.836Z",
-  "total_datasets": 527,
-  "total_records": 124960,
+  "generated": "2026-10-26T02:12:07.171Z",
+  "total_datasets": 528,
+  "total_records": 124981,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "finance",
@@ -1065,6 +1065,31 @@
         "xlsx": {
           "name": "vi-ca-nuoc-ngot-dong-bang-song-cuu-long_VI.xlsx",
           "size": 13440
+        }
+      }
+    },
+    {
+      "id": "vi-khu-du-tru-sinh-quyen",
+      "name": "Danh sách khu dự trữ sinh quyển thế giới tại Việt Nam",
+      "category": "environment",
+      "record_count": 21,
+      "columns": [
+        "name",
+        "year_recognized",
+        "status",
+        "note"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_khu_d%E1%BB%B1_tr%E1%BB%AF_sinh_quy%E1%BB%83n_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 6773,
+      "files": {
+        "csv": {
+          "name": "vi-khu-du-tru-sinh-quyen_VI.csv",
+          "size": 3080
+        },
+        "xlsx": {
+          "name": "vi-khu-du-tru-sinh-quyen_VI.xlsx",
+          "size": 7992
         }
       }
     },

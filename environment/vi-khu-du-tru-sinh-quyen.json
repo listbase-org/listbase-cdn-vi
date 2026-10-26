@@ -1,0 +1,172 @@
+{
+  "id": "vi-khu-du-tru-sinh-quyen",
+  "name": "Danh sách khu dự trữ sinh quyển thế giới tại Việt Nam",
+  "title": "Danh sách khu dự trữ sinh quyển thế giới tại Việt Nam",
+  "description": "Các khu dự trữ sinh quyển thế giới được UNESCO công nhận tại Việt Nam cùng năm công nhận, và các khu đang được đề xuất.",
+  "category": "environment",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_khu_d%E1%BB%B1_tr%E1%BB%AF_sinh_quy%E1%BB%83n_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_khu_d%E1%BB%B1_tr%E1%BB%AF_sinh_quy%E1%BB%83n_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "year_recognized",
+      "label": "Year Recognized",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Khu dự trữ sinh quyển rừng ngập mặn Cần Giờ",
+      "year_recognized": 2000,
+      "status": "Đã công nhận",
+      "note": ""
+    },
+    {
+      "name": "Khu dự trữ sinh quyển Đồng Nai",
+      "year_recognized": 2011,
+      "status": "Đã công nhận",
+      "note": ""
+    },
+    {
+      "name": "Khu dự trữ sinh quyển Cát Bà",
+      "year_recognized": 2004,
+      "status": "Đã công nhận",
+      "note": ""
+    },
+    {
+      "name": "Khu dự trữ sinh quyển châu thổ sông Hồng",
+      "year_recognized": 2004,
+      "status": "Đã công nhận",
+      "note": ""
+    },
+    {
+      "name": "Khu dự trữ sinh quyển ven biển và biển đảo Kiên Giang",
+      "year_recognized": 2006,
+      "status": "Đã công nhận",
+      "note": ""
+    },
+    {
+      "name": "Khu dự trữ sinh quyển miền tây Nghệ An",
+      "year_recognized": 2007,
+      "status": "Đã công nhận",
+      "note": ""
+    },
+    {
+      "name": "Khu dự trữ sinh quyển Mũi Cà Mau",
+      "year_recognized": 2009,
+      "status": "Đã công nhận",
+      "note": ""
+    },
+    {
+      "name": "Khu dự trữ sinh quyển Cù Lao Chàm",
+      "year_recognized": 2009,
+      "status": "Đã công nhận",
+      "note": ""
+    },
+    {
+      "name": "Khu dự trữ sinh quyển Langbian",
+      "year_recognized": 2015,
+      "status": "Đã công nhận",
+      "note": ""
+    },
+    {
+      "name": "Khu dự trữ sinh quyền Núi Chúa",
+      "year_recognized": 2021,
+      "status": "Đã công nhận",
+      "note": ""
+    },
+    {
+      "name": "Khu dự trữ sinh quyển Cao nguyên Kon Hà Nừng",
+      "year_recognized": 2021,
+      "status": "Đã công nhận",
+      "note": ""
+    },
+    {
+      "name": "Khu dự trữ sinh quyển Phong Nha - Kẻ Bàng",
+      "year_recognized": 2026,
+      "status": "Đã công nhận",
+      "note": ""
+    },
+    {
+      "name": "Khu dự trữ sinh quyển Côn Đảo",
+      "year_recognized": "",
+      "status": "Đang đề xuất",
+      "note": "Khu dự trữ sinh quyển Côn Đảo, Thành phố Hồ Chí Minh"
+    },
+    {
+      "name": "Khu dự trữ sinh quyển Bù Gia Mập",
+      "year_recognized": "",
+      "status": "Đang đề xuất",
+      "note": "Khu dự trữ sinh quyển Bù Gia Mập (hoặc Khu dự trữ sinh quyển Bình Phước), thành phố Đồng Nai"
+    },
+    {
+      "name": "Khu dự trữ sinh quyển Kon Tum",
+      "year_recognized": "",
+      "status": "Đang đề xuất",
+      "note": "Khu dự trữ sinh quyển Kon Tum, tỉnh Quảng Ngãi (vùng lõi: Vườn quốc gia Chư Mom Ray, Khu bảo tồn Ngọc Linh, Rừng phòng hộ Đăk Glei)"
+    },
+    {
+      "name": "Khu dự trữ sinh quyển Mù Căng Chải",
+      "year_recognized": "",
+      "status": "Đang đề xuất",
+      "note": "Khu dự trữ sinh quyển Mù Căng Chải, tỉnh Lào Cai (vùng lõi: Khu bảo tồn loài & sinh cảnh Chế Tạo, Khu dự trữ thiên nhiên Nà Hẩu)"
+    },
+    {
+      "name": "Khu dự trữ sinh quyển ở Đà Nẵng",
+      "year_recognized": "",
+      "status": "Đang đề xuất",
+      "note": "Khu dự trữ sinh quyển ở Đà Nẵng (vùng lõi: Khu bảo tồn Sơn Trà, Khu bảo tồn Bà Nà - Núi Chúa, Khu bảo tồn Nam Hải Vân, Rừng phòng hộ Hòa Bắc)"
+    },
+    {
+      "name": "Khu dự trữ sinh quyển Cúc Phương - Ngọc Sơn - Pù Luông",
+      "year_recognized": "",
+      "status": "Đang đề xuất",
+      "note": "Khu dự trữ sinh quyển Cúc Phương - Ngọc Sơn - Pù Luông: thuộc địa bàn 3 tỉnh Phú Thọ, Ninh Bình và Thanh Hóa ."
+    },
+    {
+      "name": "Khu dự trữ sinh quyển cửa sông Cửu Long",
+      "year_recognized": "",
+      "status": "Đang đề xuất",
+      "note": "Khu dự trữ sinh quyển cửa sông Cửu Long : nằm ở ven biển 2 tỉnh thành Vĩnh Long và Cần Thơ ."
+    },
+    {
+      "name": "Khu dự trữ sinh quyển Hoàng Liên Sơn",
+      "year_recognized": "",
+      "status": "Đang đề xuất",
+      "note": "Khu dự trữ sinh quyển Hoàng Liên Sơn : thuộc địa phận tỉnh Lào Cai với 3 vùng lõi là Vườn quốc gia Hoàng Liên, khu bảo tồn thiên nhiên Văn Bàn và khu rừng đặc dụng Y Tý ."
+    },
+    {
+      "name": "Khu dự trữ sinh quyển Ba Bể",
+      "year_recognized": "",
+      "status": "Đang đề xuất",
+      "note": "Khu dự trữ sinh quyển Ba Bể : thuộc địa phận 2 tỉnh Thái Nguyên và Tuyên Quang với các vùng lõi là Vườn quốc gia Ba Bể và các khu rừng cấm Tát Kẻ-Bản Bung (khu dự trữ thiên nhiên Na Hang )"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách khu dự trữ sinh quyển thế giới tại Việt Nam - Free Download",
+    "description": "Các khu dự trữ sinh quyển thế giới được UNESCO công nhận tại Việt Nam cùng năm công nhận, và các khu đang được đề xuất. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách khu dự trữ sinh quyển thế giới tại Việt Nam | ListBase",
+    "seo_description": "Download Danh sách khu dự trữ sinh quyển thế giới tại Việt Nam — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_khu_d%E1%BB%B1_tr%E1%BB%AF_sinh_quy%E1%BB%83n_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}
