@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-26T02:12:14.403Z",
-  "total_datasets": 531,
-  "total_records": 125140,
+  "generated": "2026-10-26T02:12:16.940Z",
+  "total_datasets": 532,
+  "total_records": 125151,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "math",
@@ -3598,6 +3598,32 @@
         "xlsx": {
           "name": "vi-ngon-ngu-the-gioi_VI.xlsx",
           "size": 22974
+        }
+      }
+    },
+    {
+      "id": "vi-chanh-an-toa-an-nhan-dan-toi-cao",
+      "name": "Danh sách Chánh án Tòa án nhân dân tối cao Việt Nam",
+      "category": "law",
+      "record_count": 11,
+      "columns": [
+        "order",
+        "name",
+        "term",
+        "party",
+        "note"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Ch%C3%A1nh_%C3%A1n_T%C3%B2a_%C3%A1n_nh%C3%A2n_d%C3%A2n_t%E1%BB%91i_cao_%28Vi%E1%BB%87t_Nam%29",
+      "updated": "2026-10",
+      "size": 4949,
+      "files": {
+        "csv": {
+          "name": "vi-chanh-an-toa-an-nhan-dan-toi-cao_VI.csv",
+          "size": 1985
+        },
+        "xlsx": {
+          "name": "vi-chanh-an-toa-an-nhan-dan-toi-cao_VI.xlsx",
+          "size": 7555
         }
       }
     },
