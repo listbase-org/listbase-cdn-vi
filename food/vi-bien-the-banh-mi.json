@@ -1,0 +1,196 @@
+{
+  "id": "vi-bien-the-banh-mi",
+  "name": "Các biến thể bánh mì Việt Nam",
+  "title": "Các biến thể bánh mì Việt Nam",
+  "description": "Danh sách các loại bánh mì Việt Nam theo biến thể, kèm nơi xuất xứ và mô tả nhân, cách chế biến.",
+  "category": "food",
+  "source": "https://vi.wikipedia.org/wiki/B%C3%A1nh_m%C3%AC_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/B%C3%A1nh_m%C3%AC_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "origin",
+      "label": "Origin",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bánh mì thịt",
+      "origin": "Thành phố Hồ Chí Minh",
+      "description": "Là biến tấu phổ biến nhất ở Thành phố Hồ Chí Minh, trong đó ổ bánh được xẻ dọc và nhét thịt, chả, bơ, pa tê, giò thủ, thịt nguội cùng một ít hành ngò, rau, đồ chua và ớt vào bên trong. Thông dụng nhất ở Thành phố Hồ Chí Minh là tên gọi \"bánh mì heo quay\", còn \"bánh mì thịt\" thường đi liền với thịt nguội."
+    },
+    {
+      "name": "Bánh mì bì",
+      "origin": "Thành phố Hồ Chí Minh",
+      "description": "Ám chỉ đến loại bánh mì kẹp thịt hoặc da heo cắt sợi nhỏ. Để tăng thêm độ hấp dẫn của món bì, người bán sẽ chan thêm nước mắm vào bánh mì sao cho đậm đà, vừa vị. Cách ăn của món này tương tự như cơm tấm: người bán rạch đôi ổ bánh, quết mỡ hành dọc thân, cho bì, đồ chua, dưa leo, ngò, rồi chan muỗng nước mắm có độ sệt và vị chua ngọt như dùng trong cơm tấm."
+    },
+    {
+      "name": "Bánh mì bò kho",
+      "origin": "Miền Nam Việt Nam",
+      "description": "Tức bánh mì không chấm và ăn kèm với bò kho. Khi ấy, người ăn sẽ xé bánh thành từng miếng nhỏ rồi chấm nước xốt kho sền sệt kèm với thịt bò và rau húng quế."
+    },
+    {
+      "name": "Bánh mì bò né",
+      "origin": "Thành phố Hồ Chí Minh",
+      "description": "Là bánh mì ăn kèm với bò né – món ăn có nhiều thành phần gồm thịt bò thái lát, khoai tây, pa tê, trứng ốp la và salad. Sở dĩ có tên gọi như vậy là vì khi thưởng thức món này, thực khách phải né ra để khỏi dính dầu nóng bị bắn ra từ chảo gang nóng hổi."
+    },
+    {
+      "name": "Bánh mì bột lọc",
+      "origin": "Huế",
+      "description": "Có phần nhân là bánh bột lọc (làm từ tôm, thịt và gia vị được bao lại bởi bột rồi hấp chín), cho thêm một ít ớt trái xắt sợi, ít rau rồi rưới chút nước chấm và thưởng thức. Loại nước chấm dùng cho món này là nước mắm tỏi ớt, trong khi bánh mì mà người ta sử dụng thường là loại dài, nhiều ruột. Thực khách có thể bắt gặp những xe bán bánh mì bột lọc ở dọc các con đường tại Đà Nẵng, Huế và Nghệ An."
+    },
+    {
+      "name": "Bánh mì cá mòi",
+      "origin": "Việt Nam",
+      "description": "Là loại bánh mì ăn kèm với cá mòi, thường là cá hộp xốt cà. Bên cạnh đó, người ăn cũng có thể chủ động gia giảm các loại đồ ăn kèm thêm như thêm trứng ốp la, xíu mại, thịt bò, xúc xích... tuỳ vào sở thích và lượng thực phẩm có sẵn tại nhà."
+    },
+    {
+      "name": "Bánh mì cá sấu",
+      "origin": "An Giang",
+      "description": "Có hình dạng cá sấu với cân nặng gần 2 kg, dài từ 60–70 cm, là ý tưởng của một lò bánh mì ở Long Xuyên, An Giang. Thợ làm bánh vẫn dùng bột mì như công thức truyền thống, sau đó dùng tay tạo hình rồi dùng dao, kéo đắp thêm các chi tiết như vảy, mắt và mũi. Bánh nướng chín, ra khỏi lò được rắc thêm mè và quét một lớp bơ sầu riêng."
+    },
+    {
+      "name": "Bánh mì cắt",
+      "origin": "Thành phố Hồ Chí Minh",
+      "description": "Với phiên bản này, bánh mì sẽ được phết một lớp pa tê mỏng rồi cán sơ qua để bánh dẹp ra, sau đó cắt thành từng miếng vừa ăn, cho vào hộp và thêm rất nhiều loại đồ ăn kèm khác nhau như chả, nem, giò thủ, ngò, dưa leo hoặc ớt."
+    },
+    {
+      "name": "Bánh mì cóc",
+      "origin": "Thành phố Hồ Chí Minh",
+      "description": "Là loại bánh mì có hình dáng giống như con cóc và bề ngoài khá tương đồng với hamburger, bề dài cỡ 1 gang tay, kích thước chiếm khoảng 60% so với bánh mì thường. Phiên bản này kẹp thịt và pa tê như bánh mì thịt nguyên mẫu, hiện tại được biết đến nhiều nhất khi bán ở tiệm bánh Đức Phát và Bánh mì Cóc Cô Bích."
+    },
+    {
+      "name": "Bánh mì chả cá",
+      "origin": "Thành phố Hồ Chí Minh, Nha Trang (Khánh Hòa)...",
+      "description": "Là phiên bản kẹp với chả cá chiên, ngày càng được biết đến rộng rãi ở Thành phố Hồ Chí Minh và Nha Trang. Tại Nha Trang, bánh rất mỏng và không sử dụng bơ. Chả cá tươi được nặn theo hình thuôn dài, chiên phồng vàng trong chảo dầu sôi, sau đó kẹp vào bánh mì giòn rồi thêm đồ chua, dưa leo, ngò hoặc rau răm, tùy khẩu vị mà cho tương ớt, nước tương hoặc muối tiêu vào trong ổ bánh."
+    },
+    {
+      "name": "Bánh mì chảo",
+      "origin": "Hà Nội",
+      "description": "Gồm bánh mì không nhân giòn, khi ăn sẽ được dọn lên cùng với một chảo hoặc khay gang có đầy đủ pa tê, bít tết, trứng ốp la..."
+    },
+    {
+      "name": "Bánh mì dân tổ",
+      "origin": "Hà Nội",
+      "description": "Phiên bản này thường được bán vào lúc nửa đêm ở Hà Nội, do có nhiều thanh niên đi chơi đêm về muộn nên đã ghé qua thưởng thức món ăn, từ đó hình thành nên cái tên \"bánh mì dân tổ\" được biết đến rộng rãi bởi người dân thủ đô. Người chế biến sẽ xào các nguyên liệu gồm chả, xúc xích, trứng, bò khô, pa tê kèm với rau sống cùng các loại gia vị và cho vào bánh."
+    },
+    {
+      "name": "Bánh mì đậu hũ",
+      "origin": "Việt Nam",
+      "description": "Là loại bánh dành cho người ăn chay."
+    },
+    {
+      "name": "Bánh mì hấp",
+      "origin": "Thành phố Hồ Chí Minh",
+      "description": "Được cải biến bởi người dân ngày xưa khi họ đang cố tìm ra cách chế biến để giúp bánh mì không bị khô và ngán. Theo đó, người làm bánh sẽ hấp bánh mì cùng nước dừa và lá dứa, sau đó cho thịt bằm, sắn sợi, mỡ hành cùng hành phi vào ổ bánh để tăng phần hấp dẫn cho món ăn."
+    },
+    {
+      "name": "Bánh mì hến",
+      "origin": "Huế, Thành phố Hồ Chí Minh",
+      "description": "Bánh mì có nhân là hến xào với hành, tỏi, dầu hào, xốt me và ớt. Đặc biệt, người nấu thường hay dùng bơ (thay vì dầu) để xào món hến."
+    },
+    {
+      "name": "Bánh mì gà tây",
+      "origin": "Hoa Kỳ",
+      "description": "Thường được chế biến vào ngày Lễ Tạ ơn ở Hoa Kỳ. Trước hết người ta sẽ đánh đều các thành phần của xốt aioli nam việt quất lại với nhau, sau đó nhồi gà tây vào ổ bánh rồi phủ lên trên những hạt đậu xanh muối chua."
+    },
+    {
+      "name": "Bánh mì kẹp kem",
+      "origin": "Việt Nam",
+      "description": "Là món bánh mì kẹp kem ký và đậu phộng giã nhỏ. Người chế biến rạch giữa ổ bánh rồi múc vào những muỗng kem dừa, vani hoặc khoai môn (tùy theo lựa chọn của người ăn), sau đó rắc lên những hạt đậu phộng."
+    },
+    {
+      "name": "Bánh mì khô bò đen",
+      "origin": "Thành phố Hồ Chí Minh",
+      "description": "Là loại bánh mì nhân khô bò đen (làm từ lá lách, gan bò tẩm ướp cẩn thận), nước xốt, đậu phộng và rau răm. Phiên bản này giống như một món ăn vặt được biến tấu lại để vui miệng hơn là ăn no bụng như bữa sáng."
+    },
+    {
+      "name": "Bánh mì nướng muối ớt",
+      "origin": "An Giang",
+      "description": "Món ăn này bắt nguồn từ người Khmer, khi họ chế biến bánh mì bằng cách quét muối ớt lên ổ bánh rồi nướng trên bếp than. Sau này, bánh mì nướng muối ớt được biến tấu khác đi, tùy theo người bán và khẩu vị của thực khách ở từng khu vực. Đầu tiên, người bán sẽ quết mỡ, sau đó thêm phần nước xốt được pha chế đặc biệt. Những miếng bánh có vị mặn của muối ớt được nướng trên than hồng, ăn kèm với phô mai, chà bông, ruốc tép, mỡ hành, mayonnaise, xúc xích cùng pa tê."
+    },
+    {
+      "name": "Bánh mì ốp la",
+      "origin": "Việt Nam",
+      "description": "Là loại bánh mì kẹp trứng gà ốp la. Trứng được chiên trên những chiếc chảo gang nhỏ sao cho sắc nét lớp viền, nửa sống nửa chín lòng đỏ, ăn kèm dưa chua, nước tương hoặc tương ớt... Do có cách chế biến đơn giản, nhanh gọn nên biến thể này có mặt ở hầu hết các tiệm bán bánh mì."
+    },
+    {
+      "name": "Bánh mì phá lấu",
+      "origin": "Thành phố Hồ Chí Minh",
+      "description": "Tức món bánh mì có phần nhân phá lấu, gồm bao tử, phèo, tai, mũi heo được tẩm ướp gia vị kỹ càng, kèm với đó là dưa leo và đầu hành lá cay nồng, được rưới lên một loại nước xốt đặc biệt làm từ nước phá lấu và tương ớt cay."
+    },
+    {
+      "name": "Bánh mì que",
+      "origin": "Hải Phòng",
+      "description": "Thứ bánh có nguồn gốc từ Hải Phòng này mang hình dáng của một chiếc que, có thể thấm đẫm vị thịt hòa quyện với rau, rất ngon khi ăn với xốt. Do luôn được nướng nóng nên vỏ bánh giòn rụm khi thưởng thức."
+    },
+    {
+      "name": "Bánh mì thanh long",
+      "origin": "Thành phố Hồ Chí Minh",
+      "description": "Là loại bánh mì làm từ trái thanh long, được tạo ra nhằm \"cứu vớt\" nông sản xuất khẩu trong thời kỳ dịch bệnh. Bột bánh được nhào trộn cùng ruột thanh long đỏ nghiền nhuyễn, sau đó tạo hình và nướng như thông thường. Theo đó, thanh long xay nhuyễn sẽ thay thế được 60% lượng nước làm bánh. Bánh có vỏ và ruột hồng, lấm tấm hạt đen, khi ăn có vị thơm nhẹ, mùi và vị đều rất thanh. Sau khi bỏ vỏ, nghiền nát và đông lạnh, loại quả này có thể dự trữ để làm bánh mì. Ngoài ra, món này còn có ba hương vị là bánh mì thanh long, thanh long bơ và thanh long nhân khoai môn."
+    },
+    {
+      "name": "Bánh mì than",
+      "origin": "Quảng Ninh",
+      "description": "Như tên gọi, món ăn này có màu đen như than với ý tưởng bắt nguồn từ những chiếc bánh mì lót dạ của công nhân hầm mỏ. Vỏ bánh được tạo màu từ bầu mực của con mực và tinh than tre, còn chả thì làm từ mực mai giã tay, chiên nóng, cắt thành từng miếng nhỏ rồi rưới lên nước xốt rau củ. Nước xốt của bánh có vị chua, làm từ các loại rau củ như hành tây, cà chua, cà rốt, kinh giới... cùng đầu tôm ninh trong một tiếng rồi đem đi xay nhuyễn."
+    },
+    {
+      "name": "Bánh mì tóp mỡ",
+      "origin": "Hà Nội",
+      "description": "Chứa các phần nhân đặc trưng như pa tê, thịt, xúc xích, dưa chuột nhưng lại bổ sung thêm tóp mỡ. Bản thân tóp mơ đã được rút hết mỡ nên chỉ còn lại phần bì chứa nhiều collagen nên lúc ăn sẽ không bị ngấy."
+    },
+    {
+      "name": "Bánh mì xíu",
+      "origin": "Quảng Trị",
+      "description": "Đề cập đến loại bánh mì nhân thịt xíu (thịt lợn rim mặn ngọt với xì dầu, gần giống với xá xíu), bỏ thêm chút rau răm và chan ớt chưng hoặc nước xíu (nước thịt)."
+    },
+    {
+      "name": "Bánh mì xíu mại",
+      "origin": "Xuân Hương – Đà Lạt, Cam Ly – Đà Lạt, (Lâm Đồng)",
+      "description": "Loại bánh mì có nhân thịt xíu mại ăn kèm với xốt cà. Bánh mì xíu mại Sài Gòn thường có vị ngọt, khác với vị cay của biến tấu ở Đà Lạt — nơi bánh có lớp vỏ dày hơn một chút. Người ta sẽ dọn kèm một chén xíu mại còn bốc khói, nước xốt sền sệt phủ lên những viên xíu mại và chả cây, da heo. Khi ăn, bánh mì được cắt ra thành từng miếng nhỏ, chấm vào chén nước dùng xíu mại, cho thêm một chút sa tế nhằm tạo ra vị cay cay cho món ăn."
+    },
+    {
+      "name": "Bánh mì xíu mại trứng muối",
+      "origin": "Thành phố Hồ Chí Minh",
+      "description": "Là loại bánh mì xíu mại bổ sung thêm vài viên xíu mại trứng muối, làm chiếc bánh trông có vẻ dày dặn hơn. Ngoài ra, bánh còn có các phần nhân khác như mỡ hành, thịt nướng, tóp mỡ hoặc bì, đồ chua và dưa leo để tăng thêm hương vị cho món ăn. Đây thường là lựa chọn cho bữa sáng hoặc bữa khuya của thực khách."
+    },
+    {
+      "name": "Bánh mì xíu mại khô",
+      "origin": "Thành phố Hồ Chí Minh",
+      "description": "Có xíu mại được bọc trong lớp vỏ hoành thánh rồi hấp trong xửng tre. Ngoài ra, loại này không cần ăn kèm đồ chua, rau, dưa chuột... mà chỉ phết chút tương ớt hoặc nước tương."
+    },
+    {
+      "name": "Bánh mì xốt cá nục",
+      "origin": "Thành phố Hồ Chí Minh",
+      "description": "Bánh mì ăn kèm với cá nục được nấu rục xương. Theo đó, người bán chọn cá nục con tươi, làm sạch rồi hầm nhiều giờ với nước dừa rồi nêm nếm theo công thức riêng. Tiếp đến, họ sẽ để cá chín trên nồi than giữ ấm để không bị tanh. Khi khách gọi món, người bán mới lấy cá ra, tán thịt đều khắp ổ bánh, đồng thời cho thêm dưa chua, dưa leo, nước xốt cá và nước mắm ớt cay."
+    },
+    {
+      "name": "Bánh mì yêu nước",
+      "origin": "Hội An, Hội An Đông (Đà Nẵng)",
+      "description": "Có hình quốc kỳ Việt Nam, gồm một chiếc bánh màu đỏ có đính thêm ngôi sao vàng. Màu đỏ của vỏ được làm từ nước củ dền, trong khi ngôi sao vàng thì được tạo màu bằng bột nghệ. Loại bánh này có nhiều kiểu nhân khác nhau cho thực khách lựa chọn, chẳng hạn như bò gừng phân phối, pa tê truyền thống, gà đổi mới, tóp mỡ bao cấp cùng trứng chiên lướt hành."
+    }
+  ],
+  "meta": {
+    "title": "Các biến thể bánh mì Việt Nam - Free Download",
+    "description": "Danh sách các loại bánh mì Việt Nam theo biến thể, kèm nơi xuất xứ và mô tả nhân, cách chế biến. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Các biến thể bánh mì Việt Nam | ListBase",
+    "seo_description": "Download Các biến thể bánh mì Việt Nam — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/B%C3%A1nh_m%C3%AC_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}

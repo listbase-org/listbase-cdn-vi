@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-26T02:12:07.171Z",
-  "total_datasets": 528,
-  "total_records": 124981,
+  "generated": "2026-10-26T02:12:09.495Z",
+  "total_datasets": 529,
+  "total_records": 125012,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "geography",
@@ -1521,6 +1521,30 @@
         "xlsx": {
           "name": "vi-vn30-co-phieu_VI.xlsx",
           "size": 8069
+        }
+      }
+    },
+    {
+      "id": "vi-bien-the-banh-mi",
+      "name": "Các biến thể bánh mì Việt Nam",
+      "category": "food",
+      "record_count": 31,
+      "columns": [
+        "name",
+        "origin",
+        "description"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/B%C3%A1nh_m%C3%AC_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 16643,
+      "files": {
+        "csv": {
+          "name": "vi-bien-the-banh-mi_VI.csv",
+          "size": 13101
+        },
+        "xlsx": {
+          "name": "vi-bien-the-banh-mi_VI.xlsx",
+          "size": 11878
         }
       }
     },
