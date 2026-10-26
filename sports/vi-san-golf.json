@@ -1,0 +1,432 @@
+{
+  "id": "vi-san-golf",
+  "name": "Danh sách sân golf tại Việt Nam",
+  "title": "Danh sách sân golf tại Việt Nam",
+  "description": "Danh sách các sân golf tại Việt Nam theo miền, gồm vị trí, diện tích, số lỗ và tình trạng hoạt động.",
+  "category": "sports",
+  "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_s%C3%A2n_golf_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_s%C3%A2n_golf_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    },
+    {
+      "key": "holes",
+      "label": "Holes",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "stt": 1,
+      "name": "Sapa Grand Golf Course",
+      "location": "Xã Bát Xát, tỉnh Lào Cai",
+      "area": "84 ha",
+      "holes": 18,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 2,
+      "name": "Stone Valley Golf & Resort",
+      "location": "Phường Tam Chúc, tỉnh Ninh Bình",
+      "area": "200 ha",
+      "holes": 36,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 3,
+      "name": "Stone Highland Việt Yên",
+      "location": "Phường Vân Hà, tỉnh Bắc Ninh",
+      "area": "141,4 ha",
+      "holes": 36,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 4,
+      "name": "Tam Đảo Golf & Resort",
+      "location": "Xã Tam Đảo, tỉnh Phú Thọ",
+      "area": "7200 thước Anh",
+      "holes": 18,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 5,
+      "name": "Chí Linh Star Golf",
+      "location": "Phường Chu Văn An, thành phố Hải Phòng",
+      "area": "325 ha",
+      "holes": 36,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 6,
+      "name": "BRG Kings Island Golf",
+      "location": "Xã Đoài Phương, thành phố Hà Nội",
+      "area": "350 ha",
+      "holes": 54,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 7,
+      "name": "BRG Legend Valley",
+      "location": "Phường Nguyễn Úy, tỉnh Ninh Bình",
+      "area": "186 ha",
+      "holes": "",
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 8,
+      "name": "Hà Nội Golf Club",
+      "location": "Xã Kim Anh, thành phố Hà Nội",
+      "area": "108ha",
+      "holes": 27,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 9,
+      "name": "Phoenix Golf and Resorts",
+      "location": "Xã Lương Sơn, tỉnh Phú Thọ",
+      "area": "311,7 ha",
+      "holes": 54,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 10,
+      "name": "Đầm Vạc (Heron Lake) Golf Club",
+      "location": "Phường Vĩnh Phúc, tỉnh Phú Thọ",
+      "area": "90ha",
+      "holes": 18,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 11,
+      "name": "Tràng An Golf & Country Club",
+      "location": "Xã Phú Long, tỉnh Ninh Bình",
+      "area": "150ha",
+      "holes": 36,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 12,
+      "name": "Vân Trì Golf Club",
+      "location": "Xã Thiên Lộc, thành phố Hà Nội",
+      "area": "",
+      "holes": 18,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 13,
+      "name": "Sky Lake Resort Golf Club",
+      "location": "Phường Chương Mỹ, thành phố Hà Nội",
+      "area": "",
+      "holes": 36,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 14,
+      "name": "Đồ Sơn Seaside Golf Resort",
+      "location": "Phường Đồ Sơn, thành phố Hải Phòng",
+      "area": "",
+      "holes": 18,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 15,
+      "name": "Sông Giá Resort Complex Golf & Country",
+      "location": "Chợ Tổng Lưu Kiếm, phường Lưu Kiếm, thành phố Hải Phòng",
+      "area": "",
+      "holes": 27,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 16,
+      "name": "Móng Cái International Golf Club",
+      "location": "Trà Cổ, Móng Cái, Quảng Ninh",
+      "area": "7204 thước Anh",
+      "holes": 18,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 17,
+      "name": "Sân golf Hoàng Gia (Royal Golf Club)",
+      "location": "Tam Điệp, Ninh Bình",
+      "area": "670ha",
+      "holes": 36,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 18,
+      "name": "BRG Legend Hill Golf Resort (Soc Son course)",
+      "location": "Sóc Sơn, Hà Nội",
+      "area": "",
+      "holes": 18,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 19,
+      "name": "Long Bien Golf Course",
+      "location": "Long Biên, Hà Nội",
+      "area": "",
+      "holes": 27,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 20,
+      "name": "Vinpearl Golf Hải Phòng",
+      "location": "Vũ yên, Hải Phòng",
+      "area": "",
+      "holes": 18,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 21,
+      "name": "YenBai Star Golf and Resort",
+      "location": "Yên Bái",
+      "area": "",
+      "holes": 18,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 22,
+      "name": "Dai Lai Star Golf & Country Club",
+      "location": "Vĩnh Phúc",
+      "area": "",
+      "holes": 27,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 23,
+      "name": "FLc Hạ Long Golf",
+      "location": "Hạ Long,Quảng Ninh",
+      "area": "",
+      "holes": 18,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 24,
+      "name": "FLC Sầm Sơn Thanh Hóa",
+      "location": "Sầm Sơn,Thanh Hóa",
+      "area": "",
+      "holes": 18,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 25,
+      "name": "Hilltop golf club",
+      "location": "Hòa Bình",
+      "area": "",
+      "holes": 18,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 26,
+      "name": "Tuan chau golf club",
+      "location": "Tuần Châu, Quảng Ninh",
+      "area": "",
+      "holes": 18,
+      "status": "Đang xây dựng"
+    },
+    {
+      "stt": 1,
+      "name": "Cửa Lò Golf Resort",
+      "location": "Bình Minh, Cửa Lò, Nghệ An",
+      "area": "133 ha",
+      "holes": 18,
+      "status": ""
+    },
+    {
+      "stt": 2,
+      "name": "Laguna Lăng Cô Golf Resort",
+      "location": "Thôn Cù Dù, Xã Lộc Vĩnh, huyện Phú Lộc, Thừa Thiên – Huế",
+      "area": "7000 thước Anh",
+      "holes": 18,
+      "status": ""
+    },
+    {
+      "stt": 3,
+      "name": "Montgomerie Links",
+      "location": "Điện Ngọc, Điện Bàn, Quảng Nam",
+      "area": "ha",
+      "holes": 18,
+      "status": ""
+    },
+    {
+      "stt": 4,
+      "name": "Đà Nẵng Golf Club",
+      "location": "Sơn Trà, Điện Ngọc, Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",
+      "area": "150 ha",
+      "holes": 18,
+      "status": ""
+    },
+    {
+      "stt": 5,
+      "name": "Sân golf FLC Quảng Bình",
+      "location": "Quảng Bình",
+      "area": "",
+      "holes": 36,
+      "status": ""
+    },
+    {
+      "stt": 6,
+      "name": "Sân golf FLC Quy Nhơn",
+      "location": "Quy Nhơn,Bình Định",
+      "area": "",
+      "holes": 36,
+      "status": ""
+    },
+    {
+      "stt": 1,
+      "name": "Vinperl Golf Club",
+      "location": "Đảo Hòn Tre, Nha Trang, Khánh Hòa",
+      "area": "182ha",
+      "holes": 18,
+      "status": ""
+    },
+    {
+      "stt": 2,
+      "name": "Diamond Bay",
+      "location": "Nguyễn Tất Thành, Phước Hà, Phước Đông, Nha Trang, Khánh Hòa",
+      "area": "76ha",
+      "holes": 18,
+      "status": ""
+    },
+    {
+      "stt": 3,
+      "name": "Sea Links Golf & Country Club",
+      "location": "Mũi Né, Bình Thuận",
+      "area": "7671 thước Anh",
+      "holes": 18,
+      "status": ""
+    },
+    {
+      "stt": 4,
+      "name": "Du Parc Golf Club Ocean Dunes",
+      "location": "Phan Thiết, Bình Thuận",
+      "area": "6746 thước Anh",
+      "holes": 18,
+      "status": ""
+    },
+    {
+      "stt": 5,
+      "name": "Đà Lạt Palace Golf Course",
+      "location": "Phù Đổng Thiên Vương, Đà Lạt, Lâm Đồng",
+      "area": "7009 thước Anh",
+      "holes": 18,
+      "status": ""
+    },
+    {
+      "stt": 6,
+      "name": "Long Thành Golf Resorts",
+      "location": "Long Thành, Đồng Nai",
+      "area": "350ha",
+      "holes": 36,
+      "status": ""
+    },
+    {
+      "stt": 7,
+      "name": "Bo Chang Dong Nai Golf Resort",
+      "location": "Trảng Bom, Đồng Nai",
+      "area": "300ha",
+      "holes": 27,
+      "status": ""
+    },
+    {
+      "stt": 8,
+      "name": "Sông Bé Golf Resort",
+      "location": "Thuận An, Bình Dương",
+      "area": "",
+      "holes": 27,
+      "status": ""
+    },
+    {
+      "stt": 9,
+      "name": "Taekwang Jeongsan Country Club",
+      "location": "Nhơn Trạch, Đồng Nai",
+      "area": "7500 thước Anh",
+      "holes": 18,
+      "status": ""
+    },
+    {
+      "stt": 10,
+      "name": "Twin Doves Golf Club",
+      "location": "Thủ Dầu Một, Bình Dương",
+      "area": "165ha",
+      "holes": 27,
+      "status": ""
+    },
+    {
+      "stt": 11,
+      "name": "Vietnam Golf & Country Club",
+      "location": "Thủ Đức, TP Hồ Chí Minh",
+      "area": "300ha",
+      "holes": 36,
+      "status": ""
+    },
+    {
+      "stt": 12,
+      "name": "Paradise Golf Resort",
+      "location": "Vũng Tàu, Bà Rịa-Vũng Tàu",
+      "area": "",
+      "holes": 27,
+      "status": ""
+    },
+    {
+      "stt": 13,
+      "name": "Sân golf Tân Sơn Nhất",
+      "location": "Tân Bình, Thành phố Hồ Chí Minh",
+      "area": "",
+      "holes": 36,
+      "status": ""
+    },
+    {
+      "stt": 14,
+      "name": "Sân Golf NovaWorld Phan Thiết",
+      "location": "Xã Tiến Thành, TP. Phan Thiết, Bình Thuận",
+      "area": "",
+      "holes": 36,
+      "status": "Đang hoạt động"
+    },
+    {
+      "stt": 15,
+      "name": "KN Golf Links - Cam Ranh",
+      "location": "Bãi Dài, Cam Nghĩa, Cam Ranh, Khánh Hòa",
+      "area": "",
+      "holes": 27,
+      "status": "Đang hoạt động"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách sân golf tại Việt Nam - Free Download",
+    "description": "Danh sách các sân golf tại Việt Nam theo miền, gồm vị trí, diện tích, số lỗ và tình trạng hoạt động. Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách sân golf tại Việt Nam | ListBase",
+    "seo_description": "Download Danh sách sân golf tại Việt Nam — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_s%C3%A2n_golf_t%E1%BA%A1i_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}

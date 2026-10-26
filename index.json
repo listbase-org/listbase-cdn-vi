@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-26T02:12:36.707Z",
-  "total_datasets": 540,
-  "total_records": 126215,
+  "generated": "2026-10-26T02:12:39.119Z",
+  "total_datasets": 541,
+  "total_records": 126262,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tech",
@@ -12905,6 +12905,33 @@
         "xlsx": {
           "name": "vi-nha-vo-dich-bong-da-quoc-gia_VI.xlsx",
           "size": 8990
+        }
+      }
+    },
+    {
+      "id": "vi-san-golf",
+      "name": "Danh sách sân golf tại Việt Nam",
+      "category": "sports",
+      "record_count": 47,
+      "columns": [
+        "stt",
+        "name",
+        "location",
+        "area",
+        "holes",
+        "status"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_s%C3%A2n_golf_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 11331,
+      "files": {
+        "csv": {
+          "name": "vi-san-golf_VI.csv",
+          "size": 4659
+        },
+        "xlsx": {
+          "name": "vi-san-golf_VI.xlsx",
+          "size": 9565
         }
       }
     },
