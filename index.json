@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-26T02:12:09.495Z",
-  "total_datasets": 529,
-  "total_records": 125012,
+  "generated": "2026-10-26T02:12:11.923Z",
+  "total_datasets": 530,
+  "total_records": 125076,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "history",
@@ -2888,6 +2888,31 @@
         "xlsx": {
           "name": "vi-bo-truong-bo-y-te_VI.xlsx",
           "size": 8849
+        }
+      }
+    },
+    {
+      "id": "vi-covid-19-theo-tinh-thanh",
+      "name": "Số ca nhiễm COVID-19 tại Việt Nam theo tỉnh thành",
+      "category": "health",
+      "record_count": 64,
+      "columns": [
+        "province",
+        "cases",
+        "deaths",
+        "new_cases"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_d%E1%BB%8Bch_COVID-19_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 8990,
+      "files": {
+        "csv": {
+          "name": "vi-covid-19-theo-tinh-thanh_VI.csv",
+          "size": 2117
+        },
+        "xlsx": {
+          "name": "vi-covid-19-theo-tinh-thanh_VI.xlsx",
+          "size": 8798
         }
       }
     },

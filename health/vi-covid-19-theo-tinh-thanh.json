@@ -1,0 +1,430 @@
+{
+  "id": "vi-covid-19-theo-tinh-thanh",
+  "name": "Số ca nhiễm COVID-19 tại Việt Nam theo tỉnh thành",
+  "title": "Số ca nhiễm COVID-19 tại Việt Nam theo tỉnh thành",
+  "description": "Tổng số ca nhiễm, tử vong và ca mắc mới COVID-19 tại Việt Nam theo từng tỉnh/thành phố (số liệu tổng hợp trên Wikipedia tiếng Việt).",
+  "category": "health",
+  "source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_d%E1%BB%8Bch_COVID-19_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_d%E1%BB%8Bch_COVID-19_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "cases",
+      "label": "Cases",
+      "type": "number"
+    },
+    {
+      "key": "deaths",
+      "label": "Deaths",
+      "type": "number"
+    },
+    {
+      "key": "new_cases",
+      "label": "New Cases",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "province": "Cả nước",
+      "cases": 11549848,
+      "deaths": 42789,
+      "new_cases": 140
+    },
+    {
+      "province": "Hà Nội",
+      "cases": 1646923,
+      "deaths": 1232,
+      "new_cases": 2
+    },
+    {
+      "province": "TP. Hồ Chí Minh",
+      "cases": 629018,
+      "deaths": 19985,
+      "new_cases": 3
+    },
+    {
+      "province": "Hải Phòng",
+      "cases": 537527,
+      "deaths": 138,
+      "new_cases": 5
+    },
+    {
+      "province": "Nghệ An",
+      "cases": 502049,
+      "deaths": 145,
+      "new_cases": 11
+    },
+    {
+      "province": "Bắc Giang",
+      "cases": 391440,
+      "deaths": 92,
+      "new_cases": 0
+    },
+    {
+      "province": "Vĩnh Phúc",
+      "cases": 375686,
+      "deaths": 19,
+      "new_cases": 0
+    },
+    {
+      "province": "Hải Dương",
+      "cases": 372391,
+      "deaths": 117,
+      "new_cases": 5
+    },
+    {
+      "province": "Quảng Ninh",
+      "cases": 356404,
+      "deaths": 150,
+      "new_cases": 7
+    },
+    {
+      "province": "Bắc Ninh",
+      "cases": 353869,
+      "deaths": 136,
+      "new_cases": 0
+    },
+    {
+      "province": "Thái Nguyên",
+      "cases": 347519,
+      "deaths": 112,
+      "new_cases": 1
+    },
+    {
+      "province": "Phú Thọ",
+      "cases": 331520,
+      "deaths": 97,
+      "new_cases": 4
+    },
+    {
+      "province": "Bình Dương",
+      "cases": 325667,
+      "deaths": 3519,
+      "new_cases": 4
+    },
+    {
+      "province": "Nam Định",
+      "cases": 301101,
+      "deaths": 150,
+      "new_cases": 1
+    },
+    {
+      "province": "Thái Bình",
+      "cases": 296789,
+      "deaths": 23,
+      "new_cases": 0
+    },
+    {
+      "province": "Hưng Yên",
+      "cases": 244028,
+      "deaths": 5,
+      "new_cases": 2
+    },
+    {
+      "province": "Hoà Bình",
+      "cases": 239941,
+      "deaths": 102,
+      "new_cases": 1
+    },
+    {
+      "province": "Lào Cai",
+      "cases": 188846,
+      "deaths": 38,
+      "new_cases": 0
+    },
+    {
+      "province": "Thanh Hóa",
+      "cases": 178595,
+      "deaths": 109,
+      "new_cases": 2
+    },
+    {
+      "province": "Đắk Lắk",
+      "cases": 172439,
+      "deaths": 201,
+      "new_cases": 0
+    },
+    {
+      "province": "Lạng Sơn",
+      "cases": 160752,
+      "deaths": 85,
+      "new_cases": 0
+    },
+    {
+      "province": "Yên Bái",
+      "cases": 158046,
+      "deaths": 13,
+      "new_cases": 6
+    },
+    {
+      "province": "Sơn La",
+      "cases": 153602,
+      "deaths": 0,
+      "new_cases": 8
+    },
+    {
+      "province": "Cà Mau",
+      "cases": 147734,
+      "deaths": 357,
+      "new_cases": 2
+    },
+    {
+      "province": "Tuyên Quang",
+      "cases": 147582,
+      "deaths": 14,
+      "new_cases": 0
+    },
+    {
+      "province": "Tây Ninh",
+      "cases": 140444,
+      "deaths": 944,
+      "new_cases": 0
+    },
+    {
+      "province": "Bình Định",
+      "cases": 139890,
+      "deaths": 281,
+      "new_cases": 6
+    },
+    {
+      "province": "Quảng Bình",
+      "cases": 129648,
+      "deaths": 74,
+      "new_cases": 13
+    },
+    {
+      "province": "Hà Giang",
+      "cases": 122610,
+      "deaths": 80,
+      "new_cases": 0
+    },
+    {
+      "province": "Khánh Hòa",
+      "cases": 122036,
+      "deaths": 364,
+      "new_cases": 4
+    },
+    {
+      "province": "Bình Phước",
+      "cases": 120003,
+      "deaths": 224,
+      "new_cases": 1
+    },
+    {
+      "province": "Bà Rịa - Vũng Tàu",
+      "cases": 110822,
+      "deaths": 497,
+      "new_cases": 2
+    },
+    {
+      "province": "Đà Nẵng",
+      "cases": 108712,
+      "deaths": 338,
+      "new_cases": 0
+    },
+    {
+      "province": "Đồng Nai",
+      "cases": 107518,
+      "deaths": 1903,
+      "new_cases": 0
+    },
+    {
+      "province": "Ninh Bình",
+      "cases": 104800,
+      "deaths": 93,
+      "new_cases": 0
+    },
+    {
+      "province": "Vĩnh Long",
+      "cases": 103505,
+      "deaths": 829,
+      "new_cases": 0
+    },
+    {
+      "province": "Bến Tre",
+      "cases": 99799,
+      "deaths": 490,
+      "new_cases": 0
+    },
+    {
+      "province": "Cao Bằng",
+      "cases": 99051,
+      "deaths": 59,
+      "new_cases": 3
+    },
+    {
+      "province": "Lâm Đồng",
+      "cases": 98238,
+      "deaths": 141,
+      "new_cases": 0
+    },
+    {
+      "province": "Hà Nam",
+      "cases": 91467,
+      "deaths": 65,
+      "new_cases": 3
+    },
+    {
+      "province": "Điện Biên",
+      "cases": 90757,
+      "deaths": 23,
+      "new_cases": 26
+    },
+    {
+      "province": "Quảng Trị",
+      "cases": 86293,
+      "deaths": 38,
+      "new_cases": 3
+    },
+    {
+      "province": "Bắc Kạn",
+      "cases": 77048,
+      "deaths": 19,
+      "new_cases": 2
+    },
+    {
+      "province": "Cần Thơ",
+      "cases": 76925,
+      "deaths": 958,
+      "new_cases": 0
+    },
+    {
+      "province": "Lai Châu",
+      "cases": 75519,
+      "deaths": 0,
+      "new_cases": 1
+    },
+    {
+      "province": "Trà Vinh",
+      "cases": 75174,
+      "deaths": 115,
+      "new_cases": 0
+    },
+    {
+      "province": "Đắk Nông",
+      "cases": 73427,
+      "deaths": 47,
+      "new_cases": 0
+    },
+    {
+      "province": "Gia Lai",
+      "cases": 70961,
+      "deaths": 116,
+      "new_cases": 0
+    },
+    {
+      "province": "Hà Tĩnh",
+      "cases": 55279,
+      "deaths": 50,
+      "new_cases": 0
+    },
+    {
+      "province": "Bình Thuận",
+      "cases": 54300,
+      "deaths": 482,
+      "new_cases": 0
+    },
+    {
+      "province": "Đồng Tháp",
+      "cases": 51614,
+      "deaths": 1007,
+      "new_cases": 6
+    },
+    {
+      "province": "Quảng Ngãi",
+      "cases": 50513,
+      "deaths": 127,
+      "new_cases": 0
+    },
+    {
+      "province": "Long An",
+      "cases": 50297,
+      "deaths": 1088,
+      "new_cases": 0
+    },
+    {
+      "province": "Quảng Nam",
+      "cases": 49556,
+      "deaths": 150,
+      "new_cases": 0
+    },
+    {
+      "province": "Thừa Thiên Huế",
+      "cases": 48186,
+      "deaths": 173,
+      "new_cases": 6
+    },
+    {
+      "province": "Bạc Liêu",
+      "cases": 46949,
+      "deaths": 470,
+      "new_cases": 0
+    },
+    {
+      "province": "Phú Yên",
+      "cases": 44481,
+      "deaths": 137,
+      "new_cases": 0
+    },
+    {
+      "province": "Kiên Giang",
+      "cases": 43659,
+      "deaths": 1027,
+      "new_cases": 0
+    },
+    {
+      "province": "An Giang",
+      "cases": 43297,
+      "deaths": 1325,
+      "new_cases": 0
+    },
+    {
+      "province": "Tiền Giang",
+      "cases": 39902,
+      "deaths": 1290,
+      "new_cases": 0
+    },
+    {
+      "province": "Sóc Trăng",
+      "cases": 34457,
+      "deaths": 634,
+      "new_cases": 0
+    },
+    {
+      "province": "Kon Tum",
+      "cases": 26342,
+      "deaths": 1,
+      "new_cases": 0
+    },
+    {
+      "province": "Hậu Giang",
+      "cases": 17900,
+      "deaths": 231,
+      "new_cases": 0
+    },
+    {
+      "province": "Ninh Thuận",
+      "cases": 9001,
+      "deaths": 60,
+      "new_cases": 0
+    }
+  ],
+  "meta": {
+    "title": "Số ca nhiễm COVID-19 tại Việt Nam theo tỉnh thành - Free Download",
+    "description": "Tổng số ca nhiễm, tử vong và ca mắc mới COVID-19 tại Việt Nam theo từng tỉnh/thành phố (số liệu tổng hợp trên Wikipedia tiếng Việt). Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Số ca nhiễm COVID-19 tại Việt Nam theo tỉnh thành | ListBase",
+    "seo_description": "Download Số ca nhiễm COVID-19 tại Việt Nam theo tỉnh thành — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_d%E1%BB%8Bch_COVID-19_t%E1%BA%A1i_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}
