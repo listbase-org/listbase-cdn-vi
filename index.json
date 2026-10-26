@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-26T02:12:11.923Z",
-  "total_datasets": 530,
-  "total_records": 125076,
+  "generated": "2026-10-26T02:12:14.403Z",
+  "total_datasets": 531,
+  "total_records": 125140,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "history",
@@ -2913,6 +2913,32 @@
         "xlsx": {
           "name": "vi-covid-19-theo-tinh-thanh_VI.xlsx",
           "size": 8798
+        }
+      }
+    },
+    {
+      "id": "vi-tiem-chung-covid-19-theo-dia-phuong",
+      "name": "Tiêm chủng vắc-xin COVID-19 tại Việt Nam theo địa phương",
+      "category": "health",
+      "record_count": 64,
+      "columns": [
+        "province",
+        "population",
+        "doses_distributed",
+        "doses_administered",
+        "doses_per_100"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Ti%C3%AAm_ch%E1%BB%A7ng_ng%E1%BB%ABa_COVID-19_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+      "updated": "2026-10",
+      "size": 13634,
+      "files": {
+        "csv": {
+          "name": "vi-tiem-chung-covid-19-theo-dia-phuong_VI.csv",
+          "size": 3450
+        },
+        "xlsx": {
+          "name": "vi-tiem-chung-covid-19-theo-dia-phuong_VI.xlsx",
+          "size": 9835
         }
       }
     },

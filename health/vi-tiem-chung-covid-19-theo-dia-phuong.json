@@ -1,0 +1,499 @@
+{
+  "id": "vi-tiem-chung-covid-19-theo-dia-phuong",
+  "name": "Tiêm chủng vắc-xin COVID-19 tại Việt Nam theo địa phương",
+  "title": "Tiêm chủng vắc-xin COVID-19 tại Việt Nam theo địa phương",
+  "description": "Số liều vắc-xin COVID-19 được phân phối và đã tiêm theo từng tỉnh/thành phố Việt Nam, kèm dân số và số liều trên 100 người.",
+  "category": "health",
+  "source": "https://vi.wikipedia.org/wiki/Ti%C3%AAm_ch%E1%BB%A7ng_ng%E1%BB%ABa_COVID-19_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Ti%C3%AAm_ch%E1%BB%A7ng_ng%E1%BB%ABa_COVID-19_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+  "updated": "2026-10",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "doses_distributed",
+      "label": "Doses Distributed",
+      "type": "number"
+    },
+    {
+      "key": "doses_administered",
+      "label": "Doses Administered",
+      "type": "number"
+    },
+    {
+      "key": "doses_per_100",
+      "label": "Doses Per 100",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "province": "Cả nước",
+      "population": 96108532,
+      "doses_distributed": 135829696,
+      "doses_administered": 248242161,
+      "doses_per_100": "258,3%"
+    },
+    {
+      "province": "TP. Hồ Chí Minh",
+      "population": 8993082,
+      "doses_distributed": 14637020,
+      "doses_administered": 23117024,
+      "doses_per_100": "257,1%"
+    },
+    {
+      "province": "Hà Nội",
+      "population": 8053664,
+      "doses_distributed": 12294742,
+      "doses_administered": 19040925,
+      "doses_per_100": "236,4%"
+    },
+    {
+      "province": "Đồng Nai",
+      "population": 3097107,
+      "doses_distributed": 5025430,
+      "doses_administered": 8587597,
+      "doses_per_100": "277,3%"
+    },
+    {
+      "province": "Bình Dương",
+      "population": 2426561,
+      "doses_distributed": 4772470,
+      "doses_administered": 7233613,
+      "doses_per_100": "298,1%"
+    },
+    {
+      "province": "Nghệ An",
+      "population": 3327791,
+      "doses_distributed": 3900900,
+      "doses_administered": 7804532,
+      "doses_per_100": "234,5%"
+    },
+    {
+      "province": "Thanh Hóa",
+      "population": 3640128,
+      "doses_distributed": 3877590,
+      "doses_administered": 9297198,
+      "doses_per_100": "255,4%"
+    },
+    {
+      "province": "An Giang",
+      "population": 1908352,
+      "doses_distributed": 3112132,
+      "doses_administered": 5059848,
+      "doses_per_100": "265,1%"
+    },
+    {
+      "province": "Kiên Giang",
+      "population": 1723067,
+      "doses_distributed": 3001880,
+      "doses_administered": 4254342,
+      "doses_per_100": "246,9%"
+    },
+    {
+      "province": "Long An",
+      "population": 1688547,
+      "doses_distributed": 2998000,
+      "doses_administered": 5374074,
+      "doses_per_100": "318,3%"
+    },
+    {
+      "province": "Tiền Giang",
+      "population": 1764185,
+      "doses_distributed": 2974320,
+      "doses_administered": 4792047,
+      "doses_per_100": "271,6%"
+    },
+    {
+      "province": "Hải Phòng",
+      "population": 1837173,
+      "doses_distributed": 2767400,
+      "doses_administered": 5699337,
+      "doses_per_100": "310,2%"
+    },
+    {
+      "province": "Đồng Tháp",
+      "population": 1599504,
+      "doses_distributed": 2705690,
+      "doses_administered": 4263509,
+      "doses_per_100": "266,6%"
+    },
+    {
+      "province": "Bắc Giang",
+      "population": 1803950,
+      "doses_distributed": 2203610,
+      "doses_administered": 5466281,
+      "doses_per_100": "303,0%"
+    },
+    {
+      "province": "Quảng Nam",
+      "population": 1495812,
+      "doses_distributed": 2149770,
+      "doses_administered": 3709231,
+      "doses_per_100": "248,0%"
+    },
+    {
+      "province": "Cần Thơ",
+      "population": 1235171,
+      "doses_distributed": 2132068,
+      "doses_administered": 3368201,
+      "doses_per_100": "272,7%"
+    },
+    {
+      "province": "Quảng Ninh",
+      "population": 1320324,
+      "doses_distributed": 2121498,
+      "doses_administered": 3943816,
+      "doses_per_100": "298,7%"
+    },
+    {
+      "province": "Sóc Trăng",
+      "population": 1199653,
+      "doses_distributed": 2114660,
+      "doses_administered": 3553947,
+      "doses_per_100": "296,2%"
+    },
+    {
+      "province": "Đắk Lắk",
+      "population": 1869322,
+      "doses_distributed": 2100110,
+      "doses_administered": 4432970,
+      "doses_per_100": "237,1%"
+    },
+    {
+      "province": "Tây Ninh",
+      "population": 1169165,
+      "doses_distributed": 2055900,
+      "doses_administered": 3057930,
+      "doses_per_100": "261,6%"
+    },
+    {
+      "province": "Bà Rịa - Vũng Tàu",
+      "population": 1148313,
+      "doses_distributed": 2034410,
+      "doses_administered": 3039800,
+      "doses_per_100": "264,7%"
+    },
+    {
+      "province": "Hải Dương",
+      "population": 1892254,
+      "doses_distributed": 2025640,
+      "doses_administered": 4571543,
+      "doses_per_100": "241,6%"
+    },
+    {
+      "province": "Lâm Đồng",
+      "population": 1296606,
+      "doses_distributed": 1952774,
+      "doses_administered": 3854949,
+      "doses_per_100": "297,3%"
+    },
+    {
+      "province": "Bình Định",
+      "population": 1486918,
+      "doses_distributed": 1902530,
+      "doses_administered": 3760483,
+      "doses_per_100": "252,9%"
+    },
+    {
+      "province": "Thái Bình",
+      "population": 1860447,
+      "doses_distributed": 1893980,
+      "doses_administered": 4244451,
+      "doses_per_100": "228,1%"
+    },
+    {
+      "province": "Khánh Hòa",
+      "population": 1231107,
+      "doses_distributed": 1886770,
+      "doses_administered": 3457177,
+      "doses_per_100": "280,8%"
+    },
+    {
+      "province": "Bến Tre",
+      "population": 1288463,
+      "doses_distributed": 1882520,
+      "doses_administered": 3752916,
+      "doses_per_100": "291,3%"
+    },
+    {
+      "province": "Bắc Ninh",
+      "population": 1368840,
+      "doses_distributed": 1865510,
+      "doses_administered": 4228457,
+      "doses_per_100": "308,9%"
+    },
+    {
+      "province": "Gia Lai",
+      "population": 1513847,
+      "doses_distributed": 1795832,
+      "doses_administered": 3634825,
+      "doses_per_100": "240,1%"
+    },
+    {
+      "province": "Nam Định",
+      "population": 1780393,
+      "doses_distributed": 1772560,
+      "doses_administered": 4122563,
+      "doses_per_100": "231,6%"
+    },
+    {
+      "province": "Vĩnh Long",
+      "population": 1022791,
+      "doses_distributed": 1733130,
+      "doses_administered": 3091815,
+      "doses_per_100": "302,3%"
+    },
+    {
+      "province": "Phú Thọ",
+      "population": 1463726,
+      "doses_distributed": 1729400,
+      "doses_administered": 3665600,
+      "doses_per_100": "250,4%"
+    },
+    {
+      "province": "Đà Nẵng",
+      "population": 1134310,
+      "doses_distributed": 1720782,
+      "doses_administered": 2862101,
+      "doses_per_100": "252,3%"
+    },
+    {
+      "province": "Bình Thuận",
+      "population": 1230808,
+      "doses_distributed": 1701850,
+      "doses_administered": 2929066,
+      "doses_per_100": "238,0%"
+    },
+    {
+      "province": "Hưng Yên",
+      "population": 1252731,
+      "doses_distributed": 1686572,
+      "doses_administered": 2921927,
+      "doses_per_100": "233,2%"
+    },
+    {
+      "province": "Cà Mau",
+      "population": 1194476,
+      "doses_distributed": 1677630,
+      "doses_administered": 3313526,
+      "doses_per_100": "277,4%"
+    },
+    {
+      "province": "Thừa Thiên Huế",
+      "population": 1128620,
+      "doses_distributed": 1616626,
+      "doses_administered": 2802408,
+      "doses_per_100": "248,3%"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "population": 1231697,
+      "doses_distributed": 1562604,
+      "doses_administered": 2922563,
+      "doses_per_100": "237,3%"
+    },
+    {
+      "province": "Bình Phước",
+      "population": 994679,
+      "doses_distributed": 1528060,
+      "doses_administered": 2688723,
+      "doses_per_100": "270,3%"
+    },
+    {
+      "province": "Vĩnh Phúc",
+      "population": 1154154,
+      "doses_distributed": 1462250,
+      "doses_administered": 3007540,
+      "doses_per_100": "260,6%"
+    },
+    {
+      "province": "Trà Vinh",
+      "population": 1009168,
+      "doses_distributed": 1353410,
+      "doses_administered": 2664931,
+      "doses_per_100": "264,1%"
+    },
+    {
+      "province": "Thái Nguyên",
+      "population": 1286751,
+      "doses_distributed": 1271330,
+      "doses_administered": 3361656,
+      "doses_per_100": "261,2%"
+    },
+    {
+      "province": "Bạc Liêu",
+      "population": 907236,
+      "doses_distributed": 1269690,
+      "doses_administered": 2232909,
+      "doses_per_100": "246,1%"
+    },
+    {
+      "province": "Ninh Bình",
+      "population": 982487,
+      "doses_distributed": 1239970,
+      "doses_administered": 2452906,
+      "doses_per_100": "249,7%"
+    },
+    {
+      "province": "Hà Tĩnh",
+      "population": 1288866,
+      "doses_distributed": 1220150,
+      "doses_administered": 2875059,
+      "doses_per_100": "223,1%"
+    },
+    {
+      "province": "Hà Nam",
+      "population": 852800,
+      "doses_distributed": 1213520,
+      "doses_administered": 2208618,
+      "doses_per_100": "259,0%"
+    },
+    {
+      "province": "Sơn La",
+      "population": 1248415,
+      "doses_distributed": 1193980,
+      "doses_administered": 2856476,
+      "doses_per_100": "228,8%"
+    },
+    {
+      "province": "Hậu Giang",
+      "population": 733017,
+      "doses_distributed": 1190250,
+      "doses_administered": 2057802,
+      "doses_per_100": "280,7%"
+    },
+    {
+      "province": "Hà Giang",
+      "population": 854679,
+      "doses_distributed": 1128820,
+      "doses_administered": 2009451,
+      "doses_per_100": "235,1%"
+    },
+    {
+      "province": "Lạng Sơn",
+      "population": 781655,
+      "doses_distributed": 1117220,
+      "doses_administered": 1898232,
+      "doses_per_100": "242,8%"
+    },
+    {
+      "province": "Phú Yên",
+      "population": 961152,
+      "doses_distributed": 1108954,
+      "doses_administered": 2029570,
+      "doses_per_100": "211,2%"
+    },
+    {
+      "province": "Hoà Bình",
+      "population": 854131,
+      "doses_distributed": 1046120,
+      "doses_administered": 2165479,
+      "doses_per_100": "253,5%"
+    },
+    {
+      "province": "Yên Bái",
+      "population": 821030,
+      "doses_distributed": 1034300,
+      "doses_administered": 2211316,
+      "doses_per_100": "269,3%"
+    },
+    {
+      "province": "Quảng Bình",
+      "population": 895430,
+      "doses_distributed": 978810,
+      "doses_administered": 1942352,
+      "doses_per_100": "216,9%"
+    },
+    {
+      "province": "Lào Cai",
+      "population": 730420,
+      "doses_distributed": 933550,
+      "doses_administered": 2013325,
+      "doses_per_100": "275,6%"
+    },
+    {
+      "province": "Tuyên Quang",
+      "population": 784811,
+      "doses_distributed": 930610,
+      "doses_administered": 1842830,
+      "doses_per_100": "234,8%"
+    },
+    {
+      "province": "Ninh Thuận",
+      "population": 590467,
+      "doses_distributed": 892660,
+      "doses_administered": 1496827,
+      "doses_per_100": "253,5%"
+    },
+    {
+      "province": "Quảng Trị",
+      "population": 632375,
+      "doses_distributed": 848182,
+      "doses_administered": 1485193,
+      "doses_per_100": "234,9%"
+    },
+    {
+      "province": "Đắk Nông",
+      "population": 622168,
+      "doses_distributed": 819420,
+      "doses_administered": 1646214,
+      "doses_per_100": "264,6%"
+    },
+    {
+      "province": "Điện Biên",
+      "population": 598856,
+      "doses_distributed": 629460,
+      "doses_administered": 1495668,
+      "doses_per_100": "249,8%"
+    },
+    {
+      "province": "Kon Tum",
+      "population": 540438,
+      "doses_distributed": 621200,
+      "doses_administered": 1328077,
+      "doses_per_100": "245,7%"
+    },
+    {
+      "province": "Cao Bằng",
+      "population": 530341,
+      "doses_distributed": 550460,
+      "doses_administered": 1222940,
+      "doses_per_100": "230,6%"
+    },
+    {
+      "province": "Lai Châu",
+      "population": 460196,
+      "doses_distributed": 517840,
+      "doses_administered": 1103450,
+      "doses_per_100": "239,8%"
+    },
+    {
+      "province": "Bắc Kạn",
+      "population": 313905,
+      "doses_distributed": 343170,
+      "doses_administered": 712025,
+      "doses_per_100": "226,8%"
+    }
+  ],
+  "meta": {
+    "title": "Tiêm chủng vắc-xin COVID-19 tại Việt Nam theo địa phương - Free Download",
+    "description": "Số liều vắc-xin COVID-19 được phân phối và đã tiêm theo từng tỉnh/thành phố Việt Nam, kèm dân số và số liều trên 100 người. Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tiêm chủng vắc-xin COVID-19 tại Việt Nam theo địa phương | ListBase",
+    "seo_description": "Download Tiêm chủng vắc-xin COVID-19 tại Việt Nam theo địa phương — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Ti%C3%AAm_ch%E1%BB%A7ng_ng%E1%BB%ABa_COVID-19_t%E1%BA%A1i_Vi%E1%BB%87t_Nam"
+    ]
+  }
+}
