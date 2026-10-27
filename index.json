@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-27T02:43:41.998Z",
-  "total_datasets": 554,
-  "total_records": 126595,
+  "generated": "2026-10-27T02:43:44.534Z",
+  "total_datasets": 555,
+  "total_records": 126606,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "math",
@@ -3990,6 +3990,31 @@
         "xlsx": {
           "name": "vi-trai-giam_VI.xlsx",
           "size": 8984
+        }
+      }
+    },
+    {
+      "id": "vi-vien-truong-vksndtc",
+      "name": "Danh sách Viện trưởng Viện kiểm sát nhân dân tối cao Việt Nam",
+      "category": "law",
+      "record_count": 11,
+      "columns": [
+        "ho_ten",
+        "bat_dau",
+        "ket_thuc",
+        "chuc_vu"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Viện_trưởng_Viện_kiểm_sát_nhân_dân_tối_cao_(Việt_Nam)",
+      "updated": "2026-10",
+      "size": 3948,
+      "files": {
+        "csv": {
+          "name": "vi-vien-truong-vksndtc_VI.csv",
+          "size": 1103
+        },
+        "xlsx": {
+          "name": "vi-vien-truong-vksndtc_VI.xlsx",
+          "size": 7189
         }
       }
     },
