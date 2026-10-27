@@ -1,0 +1,256 @@
+{
+  "id": "vi-bo-truong-bo-giao-duc",
+  "name": "Danh sách Bộ trưởng Bộ Giáo dục Việt Nam",
+  "title": "Danh sách Bộ trưởng Bộ Giáo dục Việt Nam",
+  "description": "Các Bộ trưởng ngành Giáo dục Việt Nam (Bộ Quốc gia Giáo dục, Bộ Giáo dục, Bộ Giáo dục và Đào tạo) từ năm 1945.",
+  "category": "education",
+  "source": "https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Giáo_dục_và_Đào_tạo_(Việt_Nam)",
+  "source_url": "https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Giáo_dục_và_Đào_tạo_(Việt_Nam)",
+  "updated": "2026-10",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "co_quan",
+      "label": "Co Quan",
+      "type": "string"
+    },
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ho_ten",
+      "label": "Ho Ten",
+      "type": "string"
+    },
+    {
+      "key": "bat_dau",
+      "label": "Bat Dau",
+      "type": "string"
+    },
+    {
+      "key": "ket_thuc",
+      "label": "Ket Thuc",
+      "type": "string"
+    },
+    {
+      "key": "thoi_gian_tai_nhiem",
+      "label": "Thoi Gian Tai Nhiem",
+      "type": "string"
+    },
+    {
+      "key": "chuc_vu",
+      "label": "Chuc Vu",
+      "type": "string"
+    },
+    {
+      "key": "ghi_chu",
+      "label": "Ghi Chu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "co_quan": "Bộ Quốc gia Giáo dục (1945–1946)",
+      "stt": 1,
+      "ho_ten": "Vũ Đình Hoè (1912–2011)",
+      "bat_dau": "28 tháng 8 năm 1945",
+      "ket_thuc": "2 tháng 3 năm 1946",
+      "thoi_gian_tai_nhiem": "186 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Quốc gia Giáo dục",
+      "ghi_chu": "Bộ trưởng Bộ Quốc gia Giáo dục (nay là Bộ Giáo dục và Đào tạo ) trong Chính phủ đầu tiên của nước Việt Nam Dân chủ Cộng hòa"
+    },
+    {
+      "co_quan": "Bộ Giáo dục (1946–1975)",
+      "stt": 2,
+      "ho_ten": "GS. Đặng Thai Mai (1902–1984)",
+      "bat_dau": "2 tháng 3 năm 1946",
+      "ket_thuc": "3 tháng 11 năm 1946",
+      "thoi_gian_tai_nhiem": "246 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Giáo dục",
+      "ghi_chu": "Chủ tịch Ủy ban Liên hiệp các Hội Văn học Nghệ thuật toàn Việt Nam"
+    },
+    {
+      "co_quan": "Bộ Giáo dục (1946–1975)",
+      "stt": "",
+      "ho_ten": "GS. Ca Văn Thỉnh (1902–1987)",
+      "bat_dau": "3 tháng 11 năm 1946",
+      "ket_thuc": "3 tháng 11 năm 1946",
+      "thoi_gian_tai_nhiem": "0 ngày",
+      "chuc_vu": "Quyền Bộ trưởng Bộ Giáo dục",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Giáo dục (1946–1975)",
+      "stt": 3,
+      "ho_ten": "GS. Tiến sĩ Nguyễn Văn Huyên (1905–1975)",
+      "bat_dau": "3 tháng 11 năm 1946",
+      "ket_thuc": "19 tháng 10 năm 1975",
+      "thoi_gian_tai_nhiem": "28 năm 350 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Giáo dục",
+      "ghi_chu": "Qua đời khi tại nhiệm có nhiệm kỳ lâu nhất"
+    },
+    {
+      "co_quan": "Bộ Giáo dục và Thanh niên của Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam (1969-1976)",
+      "stt": "",
+      "ho_ten": "Nguyễn Văn Kiết (1906–1987)",
+      "bat_dau": "6 tháng 6 năm 1969",
+      "ket_thuc": "2 tháng 7 năm 1976",
+      "thoi_gian_tai_nhiem": "7 năm 26 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Giáo dục và Thanh niên",
+      "ghi_chu": "Kiêm chức Phó Chủ tịch Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam"
+    },
+    {
+      "co_quan": "Bộ Giáo dục (1975–1990)",
+      "stt": "",
+      "ho_ten": "Hồ Trúc",
+      "bat_dau": "19 tháng 10 năm 1975",
+      "ket_thuc": "2 tháng 7 năm 1976",
+      "thoi_gian_tai_nhiem": "257 ngày",
+      "chuc_vu": "Quyền Bộ trưởng Phụ trách Bộ Giáo dục",
+      "ghi_chu": "Thứ trưởng kiêm Bí thư Đảng đoàn phụ trách công việc chung của Bộ"
+    },
+    {
+      "co_quan": "Bộ Giáo dục (1975–1990)",
+      "stt": 4,
+      "ho_ten": "Nguyễn Thị Bình (sinh 1927)",
+      "bat_dau": "3 tháng 7 năm 1976",
+      "ket_thuc": "16 tháng 2 năm 1987",
+      "thoi_gian_tai_nhiem": "10 năm 228 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Giáo dục",
+      "ghi_chu": "Phó Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam Nữ Bộ trưởng đầu tiên"
+    },
+    {
+      "co_quan": "Bộ Giáo dục (1975–1990)",
+      "stt": 5,
+      "ho_ten": "GS. Viện sĩ Phạm Minh Hạc (1935–2026)",
+      "bat_dau": "16 tháng 2 năm 1987",
+      "ket_thuc": "1 tháng 3 năm 1990",
+      "thoi_gian_tai_nhiem": "3 năm 13 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Giáo dục",
+      "ghi_chu": "Thứ trưởng Bộ Giáo dục và Đào tạo"
+    },
+    {
+      "co_quan": "Bộ Đại học và Trung học chuyên nghiệp (1965–1990)",
+      "stt": 1,
+      "ho_ten": "GS. Tiến sĩ Tạ Quang Bửu (1910–1986)",
+      "bat_dau": "1 tháng 10 năm 1965",
+      "ket_thuc": "3 tháng 7 năm 1976",
+      "thoi_gian_tai_nhiem": "10 năm 276 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Đại học và Trung học chuyên nghiệp",
+      "ghi_chu": "Bộ trưởng Bộ Quốc phòng"
+    },
+    {
+      "co_quan": "Bộ Đại học và Trung học chuyên nghiệp (1965–1990)",
+      "stt": 2,
+      "ho_ten": "GS. Tiến sĩ Nguyễn Đình Tứ (1932–1996)",
+      "bat_dau": "3 tháng 7 năm 1976",
+      "ket_thuc": "26 tháng 2 năm 1987",
+      "thoi_gian_tai_nhiem": "10 năm 238 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Đại học và Trung học chuyên nghiệp",
+      "ghi_chu": "Phó Hiệu trưởng Trường Đại học Tổng hợp Hà Nội"
+    },
+    {
+      "co_quan": "Bộ Đại học và Trung học chuyên nghiệp (1965–1990)",
+      "stt": 3,
+      "ho_ten": "GS. Tiến sĩ Trần Hồng Quân (1937–2023)",
+      "bat_dau": "26 tháng 2 năm 1987",
+      "ket_thuc": "1 tháng 3 năm 1990",
+      "thoi_gian_tai_nhiem": "3 năm 3 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Đại học và Trung học chuyên nghiệp",
+      "ghi_chu": "Chủ tịch Hiệp hội các trường đại học, cao đẳng Việt Nam"
+    },
+    {
+      "co_quan": "Bộ trưởng Bộ Giáo dục và Đào tạo (1990–nay)",
+      "stt": 1,
+      "ho_ten": "GS. Tiến sĩ Trần Hồng Quân (1937–2023)",
+      "bat_dau": "1 tháng 3 năm 1990",
+      "ket_thuc": "29 tháng 9 năm 1997",
+      "thoi_gian_tai_nhiem": "7 năm 212 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Giáo dục và Đào tạo",
+      "ghi_chu": "Nguyên Hiệu trưởng Trường Đại học Bách Khoa, Đại học Quốc gia TP. HCM"
+    },
+    {
+      "co_quan": "Bộ trưởng Bộ Giáo dục và Đào tạo (1990–nay)",
+      "stt": 2,
+      "ho_ten": "GS. Tiến sĩ Nguyễn Minh Hiển (sinh 1948)",
+      "bat_dau": "29 tháng 9 năm 1997",
+      "ket_thuc": "28 tháng 6 năm 2006",
+      "thoi_gian_tai_nhiem": "8 năm 272 ngày",
+      "chuc_vu": "Ủy viên Trung ương Đảng Bộ trưởng Bộ Giáo dục và Đào tạo",
+      "ghi_chu": "Nguyên Hiệu trưởng Trường Đại học Bách khoa Hà Nội"
+    },
+    {
+      "co_quan": "Bộ trưởng Bộ Giáo dục và Đào tạo (1990–nay)",
+      "stt": 3,
+      "ho_ten": "GS. Tiến sĩ Nguyễn Thiện Nhân (sinh 1953)",
+      "bat_dau": "28 tháng 6 năm 2006",
+      "ket_thuc": "17 tháng 6 năm 2010",
+      "thoi_gian_tai_nhiem": "3 năm 354 ngày",
+      "chuc_vu": "Ủy viên Trung ương Đảng Bộ trưởng Bộ Giáo dục và Đào tạo",
+      "ghi_chu": "Bí thư Thành ủy Thành phố Hồ Chí Minh Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam Phó Thủ tướng Chính phủ kiêm nhiệm chức vụ này trong giai đoạn (8/2007 – 11/2010) Nguyên phó hiệu trưởng Trường Đại học Bách Khoa, Đại học Quốc gia TP. HCM"
+    },
+    {
+      "co_quan": "Bộ trưởng Bộ Giáo dục và Đào tạo (1990–nay)",
+      "stt": 4,
+      "ho_ten": "GS. Tiến sĩ Phạm Vũ Luận (sinh 1955)",
+      "bat_dau": "17 tháng 6 năm 2010",
+      "ket_thuc": "8 tháng 4 năm 2016",
+      "thoi_gian_tai_nhiem": "5 năm 296 ngày",
+      "chuc_vu": "Ủy viên Trung ương Đảng Bộ trưởng Bộ Giáo dục và Đào tạo",
+      "ghi_chu": "Nguyên Hiệu trưởng Trường Đại học Thương mại"
+    },
+    {
+      "co_quan": "Bộ trưởng Bộ Giáo dục và Đào tạo (1990–nay)",
+      "stt": 5,
+      "ho_ten": "GS. Tiến sĩ Phùng Xuân Nhạ (sinh 1963)",
+      "bat_dau": "9 tháng 4 năm 2016",
+      "ket_thuc": "7 tháng 4 năm 2021",
+      "thoi_gian_tai_nhiem": "4 năm 363 ngày",
+      "chuc_vu": "Ủy viên Trung ương Đảng Bộ trưởng Bộ Giáo dục và Đào tạo",
+      "ghi_chu": "Nguyên Giám đốc Đại học Quốc gia Hà Nội"
+    },
+    {
+      "co_quan": "Bộ trưởng Bộ Giáo dục và Đào tạo (1990–nay)",
+      "stt": 6,
+      "ho_ten": "PGS. Tiến sĩ Nguyễn Kim Sơn (sinh 1966)",
+      "bat_dau": "8 tháng 4 năm 2021",
+      "ket_thuc": "28 tháng 2 năm 2026",
+      "thoi_gian_tai_nhiem": "4 năm 326 ngày",
+      "chuc_vu": "Ủy viên Trung ương Đảng Bộ trưởng Bộ Giáo dục và Đào tạo",
+      "ghi_chu": "Nguyên Giám đốc Đại học Quốc gia Hà Nội"
+    },
+    {
+      "co_quan": "Bộ trưởng Bộ Giáo dục và Đào tạo (1990–nay)",
+      "stt": "-",
+      "ho_ten": "PGS. Tiến sĩ Hoàng Minh Sơn (sinh 1969)",
+      "bat_dau": "27 tháng 2 năm 2026",
+      "ket_thuc": "8 tháng 4 năm 2026",
+      "thoi_gian_tai_nhiem": "40 ngày",
+      "chuc_vu": "Ủy viên Trung ương Đảng Quyền Bộ trưởng Bộ Giáo dục và Đào tạo",
+      "ghi_chu": "Nguyên Giám đốc Đại học Quốc gia Hà Nội"
+    },
+    {
+      "co_quan": "Bộ trưởng Bộ Giáo dục và Đào tạo (1990–nay)",
+      "stt": 7,
+      "ho_ten": "PGS. Tiến sĩ Hoàng Minh Sơn (sinh 1969)",
+      "bat_dau": "8 tháng 4 năm 2026",
+      "ket_thuc": "Đương nhiệm",
+      "thoi_gian_tai_nhiem": "202 ngày",
+      "chuc_vu": "Ủy viên Trung ương Đảng Bộ trưởng Bộ Giáo dục và Đào tạo",
+      "ghi_chu": "Nguyên Giám đốc Đại học Quốc gia Hà Nội"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách Bộ trưởng Bộ Giáo dục Việt Nam - Free Download",
+    "description": "Các Bộ trưởng ngành Giáo dục Việt Nam (Bộ Quốc gia Giáo dục, Bộ Giáo dục, Bộ Giáo dục và Đào tạo) từ năm 1945. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách Bộ trưởng Bộ Giáo dục Việt Nam | ListBase",
+    "seo_description": "Download Danh sách Bộ trưởng Bộ Giáo dục Việt Nam — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Giáo_dục_và_Đào_tạo_(Việt_Nam)"
+    ]
+  }
+}

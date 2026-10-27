@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-27T02:43:13.171Z",
-  "total_datasets": 543,
-  "total_records": 126360,
+  "generated": "2026-10-27T02:43:15.750Z",
+  "total_datasets": 544,
+  "total_records": 126379,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "entertainment",
@@ -757,6 +757,35 @@
         "xlsx": {
           "name": "vi-ty-phu-viet-nam_VI.xlsx",
           "size": 21242
+        }
+      }
+    },
+    {
+      "id": "vi-bo-truong-bo-giao-duc",
+      "name": "Danh sách Bộ trưởng Bộ Giáo dục Việt Nam",
+      "category": "education",
+      "record_count": 19,
+      "columns": [
+        "co_quan",
+        "stt",
+        "ho_ten",
+        "bat_dau",
+        "ket_thuc",
+        "thoi_gian_tai_nhiem",
+        "chuc_vu",
+        "ghi_chu"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Giáo_dục_và_Đào_tạo_(Việt_Nam)",
+      "updated": "2026-10",
+      "size": 11262,
+      "files": {
+        "csv": {
+          "name": "vi-bo-truong-bo-giao-duc_VI.csv",
+          "size": 6083
+        },
+        "xlsx": {
+          "name": "vi-bo-truong-bo-giao-duc_VI.xlsx",
+          "size": 8781
         }
       }
     },
