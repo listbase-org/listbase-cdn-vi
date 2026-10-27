@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-27T02:43:23.694Z",
-  "total_datasets": 547,
-  "total_records": 126433,
+  "generated": "2026-10-27T02:43:26.415Z",
+  "total_datasets": 548,
+  "total_records": 126451,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "food",
@@ -1389,6 +1389,35 @@
         "xlsx": {
           "name": "finance-vat-rates_VI.xlsx",
           "size": 10564
+        }
+      }
+    },
+    {
+      "id": "vi-bo-truong-bo-tai-chinh",
+      "name": "Danh sách Bộ trưởng Bộ Tài chính Việt Nam",
+      "category": "finance",
+      "record_count": 18,
+      "columns": [
+        "co_quan",
+        "stt",
+        "ho_ten",
+        "bat_dau",
+        "ket_thuc",
+        "thoi_gian_tai_nhiem",
+        "chuc_vu",
+        "ghi_chu"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Tài_chính_(Việt_Nam)",
+      "updated": "2026-10",
+      "size": 9148,
+      "files": {
+        "csv": {
+          "name": "vi-bo-truong-bo-tai-chinh_VI.csv",
+          "size": 4284
+        },
+        "xlsx": {
+          "name": "vi-bo-truong-bo-tai-chinh_VI.xlsx",
+          "size": 8416
         }
       }
     },
