@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-27T02:43:15.750Z",
-  "total_datasets": 544,
-  "total_records": 126379,
+  "generated": "2026-10-27T02:43:18.317Z",
+  "total_datasets": 545,
+  "total_records": 126399,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -4141,6 +4141,34 @@
         "xlsx": {
           "name": "vi-video-am-nhac-nhieu-luot-xem-youtube_VI.xlsx",
           "size": 9956
+        }
+      }
+    },
+    {
+      "id": "vi-bo-truong-bo-ngoai-giao",
+      "name": "Danh sách Bộ trưởng Bộ Ngoại giao Việt Nam",
+      "category": "politics",
+      "record_count": 20,
+      "columns": [
+        "stt",
+        "ho_ten",
+        "bat_dau",
+        "ket_thuc",
+        "thoi_gian_tai_nhiem",
+        "chuc_vu",
+        "ghi_chu"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Ngoại_giao_(Việt_Nam)",
+      "updated": "2026-10",
+      "size": 11593,
+      "files": {
+        "csv": {
+          "name": "vi-bo-truong-bo-ngoai-giao_VI.csv",
+          "size": 6773
+        },
+        "xlsx": {
+          "name": "vi-bo-truong-bo-ngoai-giao_VI.xlsx",
+          "size": 9013
         }
       }
     },
