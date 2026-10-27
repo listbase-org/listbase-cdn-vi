@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-27T02:43:34.183Z",
-  "total_datasets": 551,
-  "total_records": 126525,
+  "generated": "2026-10-27T02:43:36.603Z",
+  "total_datasets": 552,
+  "total_records": 126546,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "food",
@@ -1636,6 +1636,35 @@
         "xlsx": {
           "name": "vi-cong-ty-niem-yet-theo-nganh_VI.xlsx",
           "size": 94490
+        }
+      }
+    },
+    {
+      "id": "vi-thong-doc-ngan-hang-nha-nuoc",
+      "name": "Danh sách Thống đốc Ngân hàng Nhà nước Việt Nam",
+      "category": "finance",
+      "record_count": 21,
+      "columns": [
+        "co_quan",
+        "stt",
+        "ho_ten",
+        "bat_dau",
+        "ket_thuc",
+        "thoi_gian_tai_nhiem",
+        "chuc_vu",
+        "ghi_chu"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Thống_đốc_Ngân_hàng_Nhà_nước_Việt_Nam",
+      "updated": "2026-10",
+      "size": 10187,
+      "files": {
+        "csv": {
+          "name": "vi-thong-doc-ngan-hang-nha-nuoc_VI.csv",
+          "size": 4699
+        },
+        "xlsx": {
+          "name": "vi-thong-doc-ngan-hang-nha-nuoc_VI.xlsx",
+          "size": 8461
         }
       }
     },
