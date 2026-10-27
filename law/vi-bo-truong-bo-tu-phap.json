@@ -1,0 +1,196 @@
+{
+  "id": "vi-bo-truong-bo-tu-phap",
+  "name": "Danh sách Bộ trưởng Bộ Tư pháp Việt Nam",
+  "title": "Danh sách Bộ trưởng Bộ Tư pháp Việt Nam",
+  "description": "Các Bộ trưởng Bộ Tư pháp Việt Nam từ năm 1945 với nhiệm kỳ, thời gian tại nhiệm và chức vụ.",
+  "category": "law",
+  "source": "https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Tư_pháp_(Việt_Nam)",
+  "source_url": "https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Tư_pháp_(Việt_Nam)",
+  "updated": "2026-10",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "co_quan",
+      "label": "Co Quan",
+      "type": "string"
+    },
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ho_ten",
+      "label": "Ho Ten",
+      "type": "string"
+    },
+    {
+      "key": "bat_dau",
+      "label": "Bat Dau",
+      "type": "string"
+    },
+    {
+      "key": "ket_thuc",
+      "label": "Ket Thuc",
+      "type": "string"
+    },
+    {
+      "key": "thoi_gian_tai_nhiem",
+      "label": "Thoi Gian Tai Nhiem",
+      "type": "string"
+    },
+    {
+      "key": "chuc_vu",
+      "label": "Chuc Vu",
+      "type": "string"
+    },
+    {
+      "key": "ghi_chu",
+      "label": "Ghi Chu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "co_quan": "Bộ Tư pháp (1945-1959)",
+      "stt": 1,
+      "ho_ten": "Vũ Trọng Khánh (1912-1996)",
+      "bat_dau": "2 tháng 9 năm 1945",
+      "ket_thuc": "2 tháng 3 năm 1946",
+      "thoi_gian_tai_nhiem": "181 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Tư pháp",
+      "ghi_chu": "Bộ trưởng Tư pháp Chính phủ lâm thời Đảng Dân chủ Việt Nam"
+    },
+    {
+      "co_quan": "Bộ Tư pháp (1945-1959)",
+      "stt": 2,
+      "ho_ten": "Vũ Đình Hòe (1919-2011)",
+      "bat_dau": "2 tháng 3 năm 1946",
+      "ket_thuc": "27 tháng 5 năm 1959",
+      "thoi_gian_tai_nhiem": "13 năm 86 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Tư pháp",
+      "ghi_chu": "Đảng Dân chủ Việt Nam"
+    },
+    {
+      "co_quan": "Bộ Tư pháp Cộng hòa miền Nam Việt Nam (1969-1976)",
+      "stt": "",
+      "ho_ten": "Trương Như Tảng (1923-2005)",
+      "bat_dau": "6 tháng 6 năm 1969",
+      "ket_thuc": "2 tháng 7 năm 1976",
+      "thoi_gian_tai_nhiem": "7 năm 26 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Tư pháp",
+      "ghi_chu": "Bộ trưởng Bộ Tư pháp của Chính phủ cách mạng lâm thời Cộng hòa miền Nam Việt Nam"
+    },
+    {
+      "co_quan": "Ủy ban Pháp chế của Hội đồng Bộ trưởng",
+      "stt": 3,
+      "ho_ten": "Trần Công Tường (1915-1990)",
+      "bat_dau": "1 tháng 2 năm 1972",
+      "ket_thuc": "1 tháng 2 năm 1978",
+      "thoi_gian_tai_nhiem": "6 năm",
+      "chuc_vu": "Chủ nhiệm Ủy ban Pháp chế của Hội đồng Bộ trưởng",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Ủy ban Pháp chế của Hội đồng Bộ trưởng",
+      "stt": 4,
+      "ho_ten": "Nguyễn Ngọc Minh (sinh 1917)",
+      "bat_dau": "1 tháng 2 năm 1978",
+      "ket_thuc": "1 tháng 2 năm 1980",
+      "thoi_gian_tai_nhiem": "2 năm",
+      "chuc_vu": "Chủ nhiệm Ủy ban Pháp chế của Hội đồng Bộ trưởng",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Ủy ban Pháp chế của Chính phủ",
+      "stt": 5,
+      "ho_ten": "Trần Quang Huy (1922-1995)",
+      "bat_dau": "1 tháng 2 năm 1980",
+      "ket_thuc": "4 tháng 7 năm 1981",
+      "thoi_gian_tai_nhiem": "1 năm 154 ngày",
+      "chuc_vu": "Bộ trưởng, Chủ nhiệm Ủy ban Pháp chế của Chính phủ",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Tư pháp tái lập",
+      "stt": 6,
+      "ho_ten": "Phan Hiền (1918-2002)",
+      "bat_dau": "4 tháng 7 năm 1981",
+      "ket_thuc": "15 tháng 4 năm 1992",
+      "thoi_gian_tai_nhiem": "10 năm 286 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Tư pháp",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Tư pháp tái lập",
+      "stt": 7,
+      "ho_ten": "Nguyễn Đình Lộc (1935-2021)",
+      "bat_dau": "15 tháng 4 năm 1992",
+      "ket_thuc": "12 tháng 8 năm 2002",
+      "thoi_gian_tai_nhiem": "10 năm 119 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Tư pháp",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Tư pháp tái lập",
+      "stt": 8,
+      "ho_ten": "Tiến sĩ Uông Chu Lưu (sinh 1955)",
+      "bat_dau": "12 tháng 8 năm 2002",
+      "ket_thuc": "2 tháng 8 năm 2007",
+      "thoi_gian_tai_nhiem": "4 năm 355 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Tư pháp",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Tư pháp tái lập",
+      "stt": 9,
+      "ho_ten": "PGS. Tiến sĩ Hà Hùng Cường (sinh 1953)",
+      "bat_dau": "2 tháng 8 năm 2007",
+      "ket_thuc": "8 tháng 4 năm 2016",
+      "thoi_gian_tai_nhiem": "8 năm 250 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Tư pháp",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Tư pháp tái lập",
+      "stt": 10,
+      "ho_ten": "Tiến sĩ Lê Thành Long (sinh 1963)",
+      "bat_dau": "9 tháng 4 năm 2016",
+      "ket_thuc": "26 tháng 8 năm 2024",
+      "thoi_gian_tai_nhiem": "8 năm 139 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Tư pháp",
+      "ghi_chu": "Kiêm nhiệm Phó Thủ tướng Chính phủ (2024)"
+    },
+    {
+      "co_quan": "Bộ Tư pháp tái lập",
+      "stt": 11,
+      "ho_ten": "Tiến sĩ Nguyễn Hải Ninh (sinh 1976)",
+      "bat_dau": "26 tháng 8 năm 2024",
+      "ket_thuc": "8 tháng 4 năm 2026",
+      "thoi_gian_tai_nhiem": "1 năm, 225 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Tư pháp",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Tư pháp tái lập",
+      "stt": 12,
+      "ho_ten": "Thạc sĩ Hoàng Thanh Tùng (sinh 1966)",
+      "bat_dau": "8 tháng 4 năm 2026",
+      "ket_thuc": "đương nhiệm",
+      "thoi_gian_tai_nhiem": "202 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Tư pháp",
+      "ghi_chu": ""
+    }
+  ],
+  "meta": {
+    "title": "Danh sách Bộ trưởng Bộ Tư pháp Việt Nam - Free Download",
+    "description": "Các Bộ trưởng Bộ Tư pháp Việt Nam từ năm 1945 với nhiệm kỳ, thời gian tại nhiệm và chức vụ. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách Bộ trưởng Bộ Tư pháp Việt Nam | ListBase",
+    "seo_description": "Download Danh sách Bộ trưởng Bộ Tư pháp Việt Nam — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Tư_pháp_(Việt_Nam)"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-27T02:43:26.415Z",
-  "total_datasets": 548,
-  "total_records": 126451,
+  "generated": "2026-10-27T02:43:29.089Z",
+  "total_datasets": 549,
+  "total_records": 126464,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "math",
@@ -3795,6 +3795,35 @@
         "xlsx": {
           "name": "vi-bo-truong-bo-cong-an_VI.xlsx",
           "size": 8671
+        }
+      }
+    },
+    {
+      "id": "vi-bo-truong-bo-tu-phap",
+      "name": "Danh sách Bộ trưởng Bộ Tư pháp Việt Nam",
+      "category": "law",
+      "record_count": 13,
+      "columns": [
+        "co_quan",
+        "stt",
+        "ho_ten",
+        "bat_dau",
+        "ket_thuc",
+        "thoi_gian_tai_nhiem",
+        "chuc_vu",
+        "ghi_chu"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Tư_pháp_(Việt_Nam)",
+      "updated": "2026-10",
+      "size": 6841,
+      "files": {
+        "csv": {
+          "name": "vi-bo-truong-bo-tu-phap_VI.csv",
+          "size": 2759
+        },
+        "xlsx": {
+          "name": "vi-bo-truong-bo-tu-phap_VI.xlsx",
+          "size": 7974
         }
       }
     },
