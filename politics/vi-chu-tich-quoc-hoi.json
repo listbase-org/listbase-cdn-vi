@@ -1,0 +1,226 @@
+{
+  "id": "vi-chu-tich-quoc-hoi",
+  "name": "Danh sách Chủ tịch Quốc hội Việt Nam",
+  "title": "Danh sách Chủ tịch Quốc hội Việt Nam",
+  "description": "Những người đứng đầu Quốc hội Việt Nam từ năm 1946 với nhiệm kỳ, thời gian tại nhiệm, đảng phái và khóa Quốc hội.",
+  "category": "politics",
+  "source": "https://vi.wikipedia.org/wiki/Chủ_tịch_Quốc_hội_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Chủ_tịch_Quốc_hội_Việt_Nam",
+  "updated": "2026-10",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "co_quan",
+      "label": "Co Quan",
+      "type": "string"
+    },
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ho_ten",
+      "label": "Ho Ten",
+      "type": "string"
+    },
+    {
+      "key": "bat_dau",
+      "label": "Bat Dau",
+      "type": "string"
+    },
+    {
+      "key": "ket_thuc",
+      "label": "Ket Thuc",
+      "type": "string"
+    },
+    {
+      "key": "thoi_gian_tai_nhiem",
+      "label": "Thoi Gian Tai Nhiem",
+      "type": "string"
+    },
+    {
+      "key": "dang_phai",
+      "label": "Dang Phai",
+      "type": "string"
+    },
+    {
+      "key": "ghi_chu",
+      "label": "Ghi Chu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "co_quan": "Trưởng ban Thường trực Quốc hội nước Việt Nam Dân chủ Cộng hòa (1945–1960)",
+      "stt": 1,
+      "ho_ten": "Nguyễn Văn Tố (1889–1947)",
+      "bat_dau": "2 tháng 3 năm 1946",
+      "ket_thuc": "8 tháng 11 năm 1946",
+      "thoi_gian_tai_nhiem": "251 ngày",
+      "dang_phai": "Không đảng phái",
+      "ghi_chu": "Bị Thực dân Pháp ám sát Chủ tịch Quốc hội có nhiệm kỳ ngắn nhất"
+    },
+    {
+      "co_quan": "Trưởng ban Thường trực Quốc hội nước Việt Nam Dân chủ Cộng hòa (1945–1960)",
+      "stt": 2,
+      "ho_ten": "Bùi Bằng Đoàn (1889–1955)",
+      "bat_dau": "9 tháng 11 năm 1946",
+      "ket_thuc": "13 tháng 4 năm 1955",
+      "thoi_gian_tai_nhiem": "8 năm, 155 ngày",
+      "dang_phai": "Không đảng phái",
+      "ghi_chu": "Mất khi đang tại nhiệm"
+    },
+    {
+      "co_quan": "Trưởng ban Thường trực Quốc hội nước Việt Nam Dân chủ Cộng hòa (1945–1960)",
+      "stt": "—",
+      "ho_ten": "Tôn Đức Thắng (1888–1980)",
+      "bat_dau": "1 tháng 8 năm 1948",
+      "ket_thuc": "20 tháng 9 năm 1955",
+      "thoi_gian_tai_nhiem": "7 năm, 50 ngày",
+      "dang_phai": "Đảng Cộng sản Đông Dương (đến 1951) Đảng Lao động Việt Nam (từ 1951)",
+      "ghi_chu": "Tạm quyền chức Trưởng ban Thường trực Quốc hội khi Bùi Bằng Đoàn bị bệnh nặng"
+    },
+    {
+      "co_quan": "Trưởng ban Thường trực Quốc hội nước Việt Nam Dân chủ Cộng hòa (1945–1960)",
+      "stt": 3,
+      "ho_ten": "Tôn Đức Thắng (1888–1980)",
+      "bat_dau": "20 tháng 9 năm 1955",
+      "ket_thuc": "6 tháng 7 năm 1960",
+      "thoi_gian_tai_nhiem": "4 năm, 290 ngày",
+      "dang_phai": "Đảng Cộng sản Đông Dương (đến 1951) Đảng Lao động Việt Nam (từ 1951)",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Chủ tịch Ủy ban Thường vụ Quốc hội Việt Nam Dân chủ Cộng hòa (1960–1976)",
+      "stt": 4,
+      "ho_ten": "Trường Chinh (1907–1988)",
+      "bat_dau": "6 tháng 7 năm 1960",
+      "ket_thuc": "2 tháng 7 năm 1976",
+      "thoi_gian_tai_nhiem": "15 năm, 362 ngày",
+      "dang_phai": "Đảng Lao động Việt Nam",
+      "ghi_chu": "Chủ tịch Quốc hội có nhiệm kỳ dài nhất"
+    },
+    {
+      "co_quan": "Chủ tịch Quốc hội Cộng hòa xã hội chủ nghĩa Việt Nam (1976–nay)",
+      "stt": 4,
+      "ho_ten": "Trường Chinh (1907–1988)",
+      "bat_dau": "2 tháng 7 năm 1976",
+      "ket_thuc": "4 tháng 7 năm 1981",
+      "thoi_gian_tai_nhiem": "5 năm, 2 ngày",
+      "dang_phai": "Đảng Cộng sản Việt Nam",
+      "ghi_chu": "Chủ tịch Quốc hội có nhiệm kỳ dài nhất"
+    },
+    {
+      "co_quan": "Chủ tịch Quốc hội Cộng hòa xã hội chủ nghĩa Việt Nam (1976–nay)",
+      "stt": 5,
+      "ho_ten": "Nguyễn Hữu Thọ (1910–1996)",
+      "bat_dau": "4 tháng 7 năm 1981",
+      "ket_thuc": "17 tháng 6 năm 1987",
+      "thoi_gian_tai_nhiem": "5 năm, 348 ngày",
+      "dang_phai": "Đảng Cộng sản Việt Nam",
+      "ghi_chu": "Chủ tịch Quốc hội lớn tuổi nhất (70 tuổi)"
+    },
+    {
+      "co_quan": "Chủ tịch Quốc hội Cộng hòa xã hội chủ nghĩa Việt Nam (1976–nay)",
+      "stt": 6,
+      "ho_ten": "Lê Quang Đạo (1921–1999)",
+      "bat_dau": "17 tháng 6 năm 1987",
+      "ket_thuc": "23 tháng 9 năm 1992",
+      "thoi_gian_tai_nhiem": "5 năm, 98 ngày",
+      "dang_phai": "Đảng Cộng sản Việt Nam",
+      "ghi_chu": "Kiêm nhiệm chức vụ Phó Chủ tịch Hội đồng Nhà nước"
+    },
+    {
+      "co_quan": "Chủ tịch Quốc hội Cộng hòa xã hội chủ nghĩa Việt Nam (1976–nay)",
+      "stt": 7,
+      "ho_ten": "Nông Đức Mạnh (1940–)",
+      "bat_dau": "23 tháng 9 năm 1992",
+      "ket_thuc": "27 tháng 6 năm 2001",
+      "thoi_gian_tai_nhiem": "8 năm, 277 ngày",
+      "dang_phai": "Đảng Cộng sản Việt Nam",
+      "ghi_chu": "Rời chức sau khi trở thành Tổng Bí thư Chủ tịch Quốc hội trẻ tuổi nhất (52 tuổi) Chủ tịch Quốc hội đầu tiên là người dân tộc thiểu số (dân tộc Tày)"
+    },
+    {
+      "co_quan": "Chủ tịch Quốc hội Cộng hòa xã hội chủ nghĩa Việt Nam (1976–nay)",
+      "stt": 8,
+      "ho_ten": "Nguyễn Văn An (1937–)",
+      "bat_dau": "27 tháng 6 năm 2001",
+      "ket_thuc": "26 tháng 6 năm 2006",
+      "thoi_gian_tai_nhiem": "4 năm, 364 ngày",
+      "dang_phai": "Đảng Cộng sản Việt Nam",
+      "ghi_chu": "Từ chức"
+    },
+    {
+      "co_quan": "Chủ tịch Quốc hội Cộng hòa xã hội chủ nghĩa Việt Nam (1976–nay)",
+      "stt": 9,
+      "ho_ten": "Nguyễn Phú Trọng (1944–2024)",
+      "bat_dau": "26 tháng 6 năm 2006",
+      "ket_thuc": "23 tháng 7 năm 2011",
+      "thoi_gian_tai_nhiem": "5 năm, 27 ngày",
+      "dang_phai": "Đảng Cộng sản Việt Nam",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Chủ tịch Quốc hội Cộng hòa xã hội chủ nghĩa Việt Nam (1976–nay)",
+      "stt": 10,
+      "ho_ten": "Nguyễn Sinh Hùng (1946–)",
+      "bat_dau": "23 tháng 7 năm 2011",
+      "ket_thuc": "31 tháng 3 năm 2016",
+      "thoi_gian_tai_nhiem": "4 năm, 252 ngày",
+      "dang_phai": "Đảng Cộng sản Việt Nam",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Chủ tịch Quốc hội Cộng hòa xã hội chủ nghĩa Việt Nam (1976–nay)",
+      "stt": 11,
+      "ho_ten": "Nguyễn Thị Kim Ngân (1954–)",
+      "bat_dau": "31 tháng 3 năm 2016",
+      "ket_thuc": "31 tháng 3 năm 2021",
+      "thoi_gian_tai_nhiem": "5 năm, 0 ngày",
+      "dang_phai": "Đảng Cộng sản Việt Nam",
+      "ghi_chu": "Người phụ nữ đầu tiên giữ chức vụ"
+    },
+    {
+      "co_quan": "Chủ tịch Quốc hội Cộng hòa xã hội chủ nghĩa Việt Nam (1976–nay)",
+      "stt": 12,
+      "ho_ten": "Vương Đình Huệ (1957–)",
+      "bat_dau": "31 tháng 3 năm 2021",
+      "ket_thuc": "2 tháng 5 năm 2024",
+      "thoi_gian_tai_nhiem": "3 năm, 32 ngày",
+      "dang_phai": "Đảng Cộng sản Việt Nam",
+      "ghi_chu": "Từ chức Kỷ luật bằng hình thức cảnh cáo Kỷ luật bằng hình thức cách tất cả chức vụ trong Đảng"
+    },
+    {
+      "co_quan": "Chủ tịch Quốc hội Cộng hòa xã hội chủ nghĩa Việt Nam (1976–nay)",
+      "stt": "—",
+      "ho_ten": "Trần Thanh Mẫn (1962–)",
+      "bat_dau": "2 tháng 5 năm 2024",
+      "ket_thuc": "20 tháng 5 năm 2024",
+      "thoi_gian_tai_nhiem": "18 ngày",
+      "dang_phai": "Đảng Cộng sản Việt Nam",
+      "ghi_chu": "Phụ trách điều hành hoạt động của Ủy ban Thường vụ Quốc hội và Quốc hội"
+    },
+    {
+      "co_quan": "Chủ tịch Quốc hội Cộng hòa xã hội chủ nghĩa Việt Nam (1976–nay)",
+      "stt": 13,
+      "ho_ten": "Trần Thanh Mẫn (1962–)",
+      "bat_dau": "20 tháng 5 năm 2024",
+      "ket_thuc": "đương nhiệm",
+      "thoi_gian_tai_nhiem": "2 năm, 160 ngày",
+      "dang_phai": "Đảng Cộng sản Việt Nam",
+      "ghi_chu": ""
+    }
+  ],
+  "meta": {
+    "title": "Danh sách Chủ tịch Quốc hội Việt Nam - Free Download",
+    "description": "Những người đứng đầu Quốc hội Việt Nam từ năm 1946 với nhiệm kỳ, thời gian tại nhiệm, đảng phái và khóa Quốc hội. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách Chủ tịch Quốc hội Việt Nam | ListBase",
+    "seo_description": "Download Danh sách Chủ tịch Quốc hội Việt Nam — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Chủ_tịch_Quốc_hội_Việt_Nam"
+    ]
+  }
+}

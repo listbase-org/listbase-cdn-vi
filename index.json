@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-27T02:43:31.544Z",
-  "total_datasets": 550,
-  "total_records": 126509,
+  "generated": "2026-10-27T02:43:34.183Z",
+  "total_datasets": 551,
+  "total_records": 126525,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "reference",
@@ -4345,6 +4345,35 @@
         "xlsx": {
           "name": "vi-chu-tich-nuoc_VI.xlsx",
           "size": 8752
+        }
+      }
+    },
+    {
+      "id": "vi-chu-tich-quoc-hoi",
+      "name": "Danh sách Chủ tịch Quốc hội Việt Nam",
+      "category": "politics",
+      "record_count": 16,
+      "columns": [
+        "co_quan",
+        "stt",
+        "ho_ten",
+        "bat_dau",
+        "ket_thuc",
+        "thoi_gian_tai_nhiem",
+        "dang_phai",
+        "ghi_chu"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Chủ_tịch_Quốc_hội_Việt_Nam",
+      "updated": "2026-10",
+      "size": 9491,
+      "files": {
+        "csv": {
+          "name": "vi-chu-tich-quoc-hoi_VI.csv",
+          "size": 4859
+        },
+        "xlsx": {
+          "name": "vi-chu-tich-quoc-hoi_VI.xlsx",
+          "size": 8425
         }
       }
     },
