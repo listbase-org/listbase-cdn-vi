@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-27T02:43:21.028Z",
-  "total_datasets": 546,
-  "total_records": 126419,
+  "generated": "2026-10-27T02:43:23.694Z",
+  "total_datasets": 547,
+  "total_records": 126433,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "reference",
@@ -4198,6 +4198,35 @@
         "xlsx": {
           "name": "vi-bo-truong-bo-noi-vu_VI.xlsx",
           "size": 9004
+        }
+      }
+    },
+    {
+      "id": "vi-bo-truong-bo-quoc-phong",
+      "name": "Danh sách Bộ trưởng Bộ Quốc phòng Việt Nam",
+      "category": "politics",
+      "record_count": 14,
+      "columns": [
+        "stt",
+        "ho_ten",
+        "cap_bac",
+        "bat_dau",
+        "ket_thuc",
+        "thoi_gian_tai_nhiem",
+        "chuc_vu",
+        "ghi_chu"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Quốc_phòng_(Việt_Nam)",
+      "updated": "2026-10",
+      "size": 8480,
+      "files": {
+        "csv": {
+          "name": "vi-bo-truong-bo-quoc-phong_VI.csv",
+          "size": 4184
+        },
+        "xlsx": {
+          "name": "vi-bo-truong-bo-quoc-phong_VI.xlsx",
+          "size": 8452
         }
       }
     },
