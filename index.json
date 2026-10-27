@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-27T02:43:36.603Z",
-  "total_datasets": 552,
-  "total_records": 126546,
+  "generated": "2026-10-27T02:43:39.402Z",
+  "total_datasets": 553,
+  "total_records": 126571,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "reference",
@@ -4568,6 +4568,32 @@
         "xlsx": {
           "name": "vi-nguoi-dung-dau-chinh-phu_VI.xlsx",
           "size": 10777
+        }
+      }
+    },
+    {
+      "id": "vi-tong-bi-thu",
+      "name": "Danh sách Tổng Bí thư Đảng Cộng sản Việt Nam",
+      "category": "politics",
+      "record_count": 25,
+      "columns": [
+        "thu_tu",
+        "ho_ten",
+        "nhiem_ky",
+        "thoi_gian_tai_nhiem",
+        "ban_chap_hanh"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Tổng_Bí_thư_Ban_Chấp_hành_Trung_ương_Đảng_Cộng_sản_Việt_Nam",
+      "updated": "2026-10",
+      "size": 9102,
+      "files": {
+        "csv": {
+          "name": "vi-tong-bi-thu_VI.csv",
+          "size": 4082
+        },
+        "xlsx": {
+          "name": "vi-tong-bi-thu_VI.xlsx",
+          "size": 8165
         }
       }
     },
