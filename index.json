@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-27T02:43:39.402Z",
-  "total_datasets": 553,
-  "total_records": 126571,
+  "generated": "2026-10-27T02:43:41.998Z",
+  "total_datasets": 554,
+  "total_records": 126595,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "math",
@@ -3937,6 +3937,34 @@
         "xlsx": {
           "name": "vi-quan-chuc-bi-ky-luat_VI.xlsx",
           "size": 26259
+        }
+      }
+    },
+    {
+      "id": "vi-tong-thanh-tra-chinh-phu",
+      "name": "Danh sách Tổng Thanh tra Chính phủ Việt Nam",
+      "category": "law",
+      "record_count": 24,
+      "columns": [
+        "co_quan",
+        "stt",
+        "ho_ten",
+        "bat_dau",
+        "ket_thuc",
+        "thoi_gian_tai_nhiem",
+        "chuc_vu"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Thanh_tra_Chính_phủ",
+      "updated": "2026-10",
+      "size": 9478,
+      "files": {
+        "csv": {
+          "name": "vi-tong-thanh-tra-chinh-phu_VI.csv",
+          "size": 4102
+        },
+        "xlsx": {
+          "name": "vi-tong-thanh-tra-chinh-phu_VI.xlsx",
+          "size": 8345
         }
       }
     },
