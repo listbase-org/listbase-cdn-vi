@@ -1,0 +1,516 @@
+{
+  "id": "vi-bo-truong-nong-nghiep",
+  "name": "Danh sách Bộ trưởng ngành Nông nghiệp Việt Nam",
+  "title": "Danh sách Bộ trưởng ngành Nông nghiệp Việt Nam",
+  "description": "Những người đứng đầu các bộ ngành nông nghiệp, lâm nghiệp, thủy lợi, lương thực và thủy sản Việt Nam từ năm 1945, theo từng cơ quan.",
+  "category": "agriculture",
+  "source": "https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Nông_nghiệp_và_Phát_triển_nông_thôn_(Việt_Nam)",
+  "source_url": "https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Nông_nghiệp_và_Phát_triển_nông_thôn_(Việt_Nam)",
+  "updated": "2026-10",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "co_quan",
+      "label": "Co Quan",
+      "type": "string"
+    },
+    {
+      "key": "stt",
+      "label": "Stt",
+      "type": "number"
+    },
+    {
+      "key": "ho_ten",
+      "label": "Ho Ten",
+      "type": "string"
+    },
+    {
+      "key": "bat_dau",
+      "label": "Bat Dau",
+      "type": "string"
+    },
+    {
+      "key": "ket_thuc",
+      "label": "Ket Thuc",
+      "type": "string"
+    },
+    {
+      "key": "thoi_gian_tai_nhiem",
+      "label": "Thoi Gian Tai Nhiem",
+      "type": "string"
+    },
+    {
+      "key": "chuc_vu",
+      "label": "Chuc Vu",
+      "type": "string"
+    },
+    {
+      "key": "ghi_chu",
+      "label": "Ghi Chu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "co_quan": "Bộ Canh nông (1945-1955)",
+      "stt": 1,
+      "ho_ten": "Cù Huy Cận (1919-2005)",
+      "bat_dau": "1 tháng 1 năm 1946",
+      "ket_thuc": "2 tháng 3 năm 1946",
+      "thoi_gian_tai_nhiem": "60 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Canh nông",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Canh nông (1945-1955)",
+      "stt": 2,
+      "ho_ten": "Bồ Xuân Luật (1907-1994)",
+      "bat_dau": "2 tháng 3 năm 1946",
+      "ket_thuc": "1 tháng 4 năm 1946",
+      "thoi_gian_tai_nhiem": "30 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Canh nông",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Canh nông (1945-1955)",
+      "stt": 3,
+      "ho_ten": "Huỳnh Thiện Lộc (1910-1953)",
+      "bat_dau": "1 tháng 4 năm 1946",
+      "ket_thuc": "3 tháng 11 năm 1946",
+      "thoi_gian_tai_nhiem": "216 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Canh nông",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Canh nông (1945-1955)",
+      "stt": 4,
+      "ho_ten": "Ngô Tấn Nhơn (1914-2005)",
+      "bat_dau": "3 tháng 11 năm 1946",
+      "ket_thuc": "1 tháng 3 năm 1954",
+      "thoi_gian_tai_nhiem": "7 năm 118 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Canh nông",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Canh nông (1945-1955)",
+      "stt": 5,
+      "ho_ten": "Nghiêm Xuân Yêm (1913-2001)",
+      "bat_dau": "1 tháng 3 năm 1954",
+      "ket_thuc": "20 tháng 9 năm 1955 (Bộ đổi tên)",
+      "thoi_gian_tai_nhiem": "1 năm 203 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Canh nông",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Nông lâm (1955-1960)",
+      "stt": 1,
+      "ho_ten": "Nghiêm Xuân Yêm (1913-2001)",
+      "bat_dau": "20 tháng 9 năm 1955",
+      "ket_thuc": "6 tháng 7 năm 1960",
+      "thoi_gian_tai_nhiem": "4 năm 290 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Nông lâm",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Thủy lợi (1955-1995)",
+      "stt": 1,
+      "ho_ten": "Trần Đăng Khoa (1907-1989)",
+      "bat_dau": "20 tháng 9 năm 1955",
+      "ket_thuc": "6 tháng 7 năm 1960",
+      "thoi_gian_tai_nhiem": "4 năm 290 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Thủy lợi",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Thủy lợi (1955-1995)",
+      "stt": 2,
+      "ho_ten": "Dương Quốc Chính (1918-1992)",
+      "bat_dau": "6 tháng 7 năm 1960",
+      "ket_thuc": "7 tháng 1 năm 1963",
+      "thoi_gian_tai_nhiem": "2 năm 185 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Thủy lợi",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Thủy lợi (1955-1995)",
+      "stt": 3,
+      "ho_ten": "Hà Kế Tấn (1912-1997)",
+      "bat_dau": "7 tháng 1 năm 1963",
+      "ket_thuc": "14 tháng 6 năm 1973",
+      "thoi_gian_tai_nhiem": "10 năm 158 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Thủy lợi",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Thủy lợi (1955-1995)",
+      "stt": 4,
+      "ho_ten": "Nguyễn Thanh Bình (1918-2008)",
+      "bat_dau": "14 tháng 6 năm 1973",
+      "ket_thuc": "22 tháng 1 năm 1981",
+      "thoi_gian_tai_nhiem": "7 năm 222 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Thủy lợi",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Thủy lợi (1955-1995)",
+      "stt": 5,
+      "ho_ten": "Nguyễn Cảnh Dinh (sinh 1934)",
+      "bat_dau": "22 tháng 1 năm 1981",
+      "ket_thuc": "21 tháng 10 năm 1995",
+      "thoi_gian_tai_nhiem": "14 năm 272 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Thủy lợi",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Nông nghiệp (1960-1971)",
+      "stt": 1,
+      "ho_ten": "Nghiêm Xuân Yêm (1913-2001)",
+      "bat_dau": "6 tháng 7 năm 1960",
+      "ket_thuc": "7 tháng 1 năm 1963",
+      "thoi_gian_tai_nhiem": "2 năm 185 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Nông nghiệp",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Nông nghiệp (1960-1971)",
+      "stt": 2,
+      "ho_ten": "Dương Quốc Chính (1918-1992)",
+      "bat_dau": "7 tháng 1 năm 1963",
+      "ket_thuc": "1 tháng 4 năm 1965",
+      "thoi_gian_tai_nhiem": "2 năm 84 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Nông nghiệp",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Nông nghiệp (1960-1971)",
+      "stt": 3,
+      "ho_ten": "Hoàng Anh (1912-2016)",
+      "bat_dau": "1 tháng 4 năm 1965",
+      "ket_thuc": "30 tháng 10 năm 1967",
+      "thoi_gian_tai_nhiem": "2 năm 212 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Nông nghiệp",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Nông nghiệp (1960-1971)",
+      "stt": 4,
+      "ho_ten": "Nguyễn Văn Lộc (1914-1979)",
+      "bat_dau": "30 tháng 10 năm 1967",
+      "ket_thuc": "1 tháng 4 năm 1971",
+      "thoi_gian_tai_nhiem": "3 năm 152 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Nông nghiệp",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Nông trường (1960-1971)",
+      "stt": 1,
+      "ho_ten": "Trần Hữu Dực (1910-1993)",
+      "bat_dau": "6 tháng 7 năm 1960",
+      "ket_thuc": "7 tháng 1 năm 1963",
+      "thoi_gian_tai_nhiem": "2 năm 185 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Nông trường",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Nông trường (1960-1971)",
+      "stt": 2,
+      "ho_ten": "Nghiêm Xuân Yêm (1913-2001)",
+      "bat_dau": "7 tháng 1 năm 1963",
+      "ket_thuc": "1 tháng 4 năm 1971",
+      "thoi_gian_tai_nhiem": "8 năm 84 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Nông trường",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Ủy ban Nông nghiệp Trung ương (1971-1976)",
+      "stt": 1,
+      "ho_ten": "Hoàng Anh (1912-2016)",
+      "bat_dau": "1 tháng 4 năm 1971",
+      "ket_thuc": "26 tháng 4 năm 1974",
+      "thoi_gian_tai_nhiem": "3 năm 25 ngày",
+      "chuc_vu": "Chủ nhiệm Ủy ban Nông nghiệp trung ương",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Ủy ban Nông nghiệp Trung ương (1971-1976)",
+      "stt": "-",
+      "ho_ten": "Võ Thúc Đồng (1914-2007)",
+      "bat_dau": "26 tháng 4 năm 1974",
+      "ket_thuc": "19 tháng 11 năm 1974",
+      "thoi_gian_tai_nhiem": "2 năm 67 ngày",
+      "chuc_vu": "Quyền Chủ nhiệm Ủy ban Nông nghiệp trung ương",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Ủy ban Nông nghiệp Trung ương (1971-1976)",
+      "stt": 2,
+      "ho_ten": "Võ Thúc Đồng (1914-2007)",
+      "bat_dau": "19 tháng 11 năm 1974",
+      "ket_thuc": "2 tháng 7 năm 1976",
+      "thoi_gian_tai_nhiem": "2 năm 67 ngày",
+      "chuc_vu": "Chủ nhiệm Ủy ban Nông nghiệp trung ương",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Lương thực và Thực phẩm (1969-1981)",
+      "stt": 1,
+      "ho_ten": "Ngô Minh Loan (1915 - 2001)",
+      "bat_dau": "11 tháng 8 năm 1969",
+      "ket_thuc": "23 tháng 4 năm 1979",
+      "thoi_gian_tai_nhiem": "9 năm 255 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Lương thực và Thực phẩm",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Lương thực và Thực phẩm (1969-1981)",
+      "stt": 2,
+      "ho_ten": "Hồ Viết Thắng (1918-1998)",
+      "bat_dau": "23 tháng 4 năm 1979",
+      "ket_thuc": "22 tháng 1 năm 1981",
+      "thoi_gian_tai_nhiem": "1 năm 274 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Lương thực và Thực phẩm",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Hải sản (1976-1981)",
+      "stt": 1,
+      "ho_ten": "Võ Chí Công (1912-2011)",
+      "bat_dau": "2 tháng 7 năm 1976",
+      "ket_thuc": "28 tháng 2 năm 1977",
+      "thoi_gian_tai_nhiem": "241 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Hải sản",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Hải sản (1976-1981)",
+      "stt": 2,
+      "ho_ten": "Nguyễn Quang Lâm (1919-1991)",
+      "bat_dau": "28 tháng 2 năm 1977",
+      "ket_thuc": "22 tháng 11 năm 1977",
+      "thoi_gian_tai_nhiem": "267 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Hải sản",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Hải sản (1976-1981)",
+      "stt": 3,
+      "ho_ten": "Đỗ Chính (1926-1994)",
+      "bat_dau": "22 tháng 11 năm 1977",
+      "ket_thuc": "22 tháng 1 năm 1981",
+      "thoi_gian_tai_nhiem": "3 năm 61 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Hải sản",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Hải sản (1976-1981)",
+      "stt": 4,
+      "ho_ten": "Nguyễn Tấn Trịnh (1936-2016)",
+      "bat_dau": "22 tháng 1 năm 1981",
+      "ket_thuc": "4 tháng 7 năm 1981",
+      "thoi_gian_tai_nhiem": "163 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Hải sản",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Lâm nghiệp (1976-1995)",
+      "stt": 1,
+      "ho_ten": "Hoàng Văn Kiểu (1921-2006)",
+      "bat_dau": "2 tháng 7 năm 1976",
+      "ket_thuc": "23 tháng 7 năm 1979",
+      "thoi_gian_tai_nhiem": "3 năm 21 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Lâm nghiệp",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Lâm nghiệp (1976-1995)",
+      "stt": 2,
+      "ho_ten": "Trần Kiên (1920-2003)",
+      "bat_dau": "23 tháng 7 năm 1979",
+      "ket_thuc": "22 tháng 1 năm 1981",
+      "thoi_gian_tai_nhiem": "1 năm 183 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Lâm nghiệp",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Lâm nghiệp (1976-1995)",
+      "stt": 3,
+      "ho_ten": "Phan Xuân Đợt (sinh 1934)",
+      "bat_dau": "22 tháng 1 năm 1981",
+      "ket_thuc": "8 tháng 10 năm 1992",
+      "thoi_gian_tai_nhiem": "11 năm 260 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Lâm nghiệp",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Lâm nghiệp (1976-1995)",
+      "stt": 4,
+      "ho_ten": "Nguyễn Quang Hà",
+      "bat_dau": "8 tháng 10 năm 1992",
+      "ket_thuc": "21 tháng 10 năm 1995",
+      "thoi_gian_tai_nhiem": "3 năm 13 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Lâm nghiệp",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Nông nghiệp (1976-1987)",
+      "stt": 1,
+      "ho_ten": "Võ Thúc Đồng (1914-2007)",
+      "bat_dau": "2 tháng 7 năm 1976",
+      "ket_thuc": "30 tháng 7 năm 1977",
+      "thoi_gian_tai_nhiem": "1 năm 28 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Nông nghiệp",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Nông nghiệp (1976-1987)",
+      "stt": 2,
+      "ho_ten": "Võ Chí Công (1912-2011)",
+      "bat_dau": "30 tháng 7 năm 1977",
+      "ket_thuc": "23 tháng 2 năm 1979",
+      "thoi_gian_tai_nhiem": "1 năm 208 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Nông nghiệp",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Nông nghiệp (1976-1987)",
+      "stt": 3,
+      "ho_ten": "Nguyễn Ngọc Trìu (1926-2016)",
+      "bat_dau": "23 tháng 2 năm 1979",
+      "ket_thuc": "16 tháng 2 năm 1987",
+      "thoi_gian_tai_nhiem": "7 năm 358 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Nông nghiệp",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Lương thực (1981-1987)",
+      "stt": 1,
+      "ho_ten": "La Lâm Gia (1919-2014)",
+      "bat_dau": "22 tháng 1 năm 1981",
+      "ket_thuc": "24 tháng 1 năm 1984",
+      "thoi_gian_tai_nhiem": "3 năm 2 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Lương thực",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Lương thực (1981-1987)",
+      "stt": 2,
+      "ho_ten": "Nguyễn Văn Chính (1924-2016)",
+      "bat_dau": "24 tháng 1 năm 1984",
+      "ket_thuc": "16 tháng 2 năm 1987",
+      "thoi_gian_tai_nhiem": "3 năm 23 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Lương thực",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Công nghiệp thực phẩm (1981-1987)",
+      "stt": 1,
+      "ho_ten": "Vũ Tuân (1922-1993)",
+      "bat_dau": "22 tháng 1 năm 1981",
+      "ket_thuc": "16 tháng 6 năm 1982",
+      "thoi_gian_tai_nhiem": "1 năm 145 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Công nghiệp thực phẩm",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Thủy sản (1981-2007)",
+      "stt": 1,
+      "ho_ten": "Nguyễn Tấn Trịnh (1936-2016)",
+      "bat_dau": "4 tháng 7 năm 1981",
+      "ket_thuc": "6 tháng 11 năm 1996",
+      "thoi_gian_tai_nhiem": "15 năm 125 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Thủy sản",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Thủy sản (1981-2007)",
+      "stt": 2,
+      "ho_ten": "Tạ Quang Ngọc (sinh 1944)",
+      "bat_dau": "6 tháng 11 năm 1996",
+      "ket_thuc": "31 tháng 7 năm 2007",
+      "thoi_gian_tai_nhiem": "10 năm 267 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Thủy sản",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Nông nghiệp và Công nghiệp thực phẩm (1987-1995)",
+      "stt": 1,
+      "ho_ten": "Nguyễn Công Tạn (1935-2014)",
+      "bat_dau": "16 tháng 2 năm 1987",
+      "ket_thuc": "21 tháng 10 năm 1995",
+      "thoi_gian_tai_nhiem": "8 năm 247 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Nông nghiệp và Công nghiệp thực phẩm",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Nông nghiệp và Phát triển nông thôn (1995-2025)",
+      "stt": 1,
+      "ho_ten": "Nguyễn Công Tạn (1935-2014)",
+      "bat_dau": "21 tháng 10 năm 1995",
+      "ket_thuc": "26 tháng 9 năm 1997",
+      "thoi_gian_tai_nhiem": "1 năm 340 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Nông nghiệp và Phát triển nông thôn (1995-2025)",
+      "stt": 2,
+      "ho_ten": "Lê Huy Ngọ (1938-2025)",
+      "bat_dau": "26 tháng 9 năm 1997",
+      "ket_thuc": "1 tháng 6 năm 2004",
+      "thoi_gian_tai_nhiem": "6 năm 249 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn",
+      "ghi_chu": "Từ chức"
+    },
+    {
+      "co_quan": "Bộ Nông nghiệp và Phát triển nông thôn (1995-2025)",
+      "stt": "-",
+      "ho_ten": "Cao Đức Phát (sinh 1956)",
+      "bat_dau": "1 tháng 6 năm 2004",
+      "ket_thuc": "3 tháng 11 năm 2004",
+      "thoi_gian_tai_nhiem": "12 năm 56 ngày",
+      "chuc_vu": "Quyền Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Nông nghiệp và Phát triển nông thôn (1995-2025)",
+      "stt": 3,
+      "ho_ten": "Cao Đức Phát (sinh 1956)",
+      "bat_dau": "3 tháng 11 năm 2004",
+      "ket_thuc": "27 tháng 7 năm 2016",
+      "thoi_gian_tai_nhiem": "12 năm 56 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Nông nghiệp và Phát triển nông thôn (1995-2025)",
+      "stt": 4,
+      "ho_ten": "Nguyễn Xuân Cường (sinh 1959)",
+      "bat_dau": "28 tháng 7 năm 2016",
+      "ket_thuc": "7 tháng 4 năm 2021",
+      "thoi_gian_tai_nhiem": "4 năm 253 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn",
+      "ghi_chu": ""
+    },
+    {
+      "co_quan": "Bộ Nông nghiệp và Phát triển nông thôn (1995-2025)",
+      "stt": 5,
+      "ho_ten": "Lê Minh Hoan (sinh 1961)",
+      "bat_dau": "8 tháng 4 năm 2021",
+      "ket_thuc": "18 tháng 2 năm 2025",
+      "thoi_gian_tai_nhiem": "3 năm 316 ngày",
+      "chuc_vu": "Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn",
+      "ghi_chu": ""
+    }
+  ],
+  "meta": {
+    "title": "Danh sách Bộ trưởng ngành Nông nghiệp Việt Nam - Free Download",
+    "description": "Những người đứng đầu các bộ ngành nông nghiệp, lâm nghiệp, thủy lợi, lương thực và thủy sản Việt Nam từ năm 1945, theo từng cơ quan. Contains 45 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách Bộ trưởng ngành Nông nghiệp Việt Nam | ListBase",
+    "seo_description": "Download Danh sách Bộ trưởng ngành Nông nghiệp Việt Nam — 45 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 45 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Nông_nghiệp_và_Phát_triển_nông_thôn_(Việt_Nam)"
+    ]
+  }
+}

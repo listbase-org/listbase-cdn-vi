@@ -1,12 +1,12 @@
 {
   "lang": "vi",
-  "generated": "2026-10-27T02:43:29.089Z",
-  "total_datasets": 549,
-  "total_records": 126464,
+  "generated": "2026-10-27T02:43:31.544Z",
+  "total_datasets": 550,
+  "total_records": 126509,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -106,6 +106,35 @@
     }
   ],
   "datasets": [
+    {
+      "id": "vi-bo-truong-nong-nghiep",
+      "name": "Danh sách Bộ trưởng ngành Nông nghiệp Việt Nam",
+      "category": "agriculture",
+      "record_count": 45,
+      "columns": [
+        "co_quan",
+        "stt",
+        "ho_ten",
+        "bat_dau",
+        "ket_thuc",
+        "thoi_gian_tai_nhiem",
+        "chuc_vu",
+        "ghi_chu"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Nông_nghiệp_và_Phát_triển_nông_thôn_(Việt_Nam)",
+      "updated": "2026-10",
+      "size": 18053,
+      "files": {
+        "csv": {
+          "name": "vi-bo-truong-nong-nghiep_VI.csv",
+          "size": 8534
+        },
+        "xlsx": {
+          "name": "vi-bo-truong-nong-nghiep_VI.xlsx",
+          "size": 9683
+        }
+      }
+    },
     {
       "id": "vi-chi-dan-dia-ly-bao-ho",
       "name": "Danh sách chỉ dẫn địa lý được bảo hộ ở Việt Nam",
