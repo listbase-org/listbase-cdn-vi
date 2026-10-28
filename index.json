@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-27T02:43:44.534Z",
-  "total_datasets": 555,
-  "total_records": 126606,
+  "generated": "2026-10-28T02:22:28.467Z",
+  "total_datasets": 556,
+  "total_records": 126660,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "economy",
@@ -567,6 +567,33 @@
         "xlsx": {
           "name": "vi-lang-nghe-truyen-thong_VI.xlsx",
           "size": 10123
+        }
+      }
+    },
+    {
+      "id": "vi-le-hoi-truyen-thong",
+      "name": "Danh sách lễ hội truyền thống Việt Nam",
+      "category": "culture",
+      "record_count": 54,
+      "columns": [
+        "start_date_lunar",
+        "location",
+        "festival",
+        "first_held",
+        "related_figures",
+        "notes"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Lễ_hội_Việt_Nam",
+      "updated": "2026-10",
+      "size": 15678,
+      "files": {
+        "csv": {
+          "name": "vi-le-hoi-truyen-thong_VI.csv",
+          "size": 6306
+        },
+        "xlsx": {
+          "name": "vi-le-hoi-truyen-thong_VI.xlsx",
+          "size": 10716
         }
       }
     },
