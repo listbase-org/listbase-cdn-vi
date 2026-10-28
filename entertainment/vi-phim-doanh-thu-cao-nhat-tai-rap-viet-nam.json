@@ -1,0 +1,702 @@
+{
+  "id": "vi-phim-doanh-thu-cao-nhat-tai-rap-viet-nam",
+  "name": "Phim điện ảnh có doanh thu cao nhất tại Việt Nam (gồm phim nước ngoài)",
+  "title": "Phim điện ảnh có doanh thu cao nhất tại Việt Nam (gồm phim nước ngoài)",
+  "description": "Xếp hạng các phim điện ảnh, cả phim Việt Nam và phim nước ngoài, có doanh thu phòng vé cao nhất tại Việt Nam (tỉ đồng).",
+  "category": "entertainment",
+  "source": "https://vi.wikipedia.org/wiki/Danh_sách_phim_điện_ảnh_có_doanh_thu_cao_nhất_tại_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_sách_phim_điện_ảnh_có_doanh_thu_cao_nhất_tại_Việt_Nam",
+  "updated": "2026-10",
+  "record_count": 93,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "director",
+      "label": "Director",
+      "type": "string"
+    },
+    {
+      "key": "revenue_billion_vnd",
+      "label": "Revenue Billion Vnd",
+      "type": "number"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "film": "Mưa đỏ",
+      "director": "Đặng Thái Huyền",
+      "revenue_billion_vnd": 714,
+      "year": 2025
+    },
+    {
+      "rank": 2,
+      "film": "Mai",
+      "director": "Trấn Thành",
+      "revenue_billion_vnd": 551,
+      "year": 2024
+    },
+    {
+      "rank": 3,
+      "film": "Trại buôn người",
+      "director": "Toni Dương Bảo Anh",
+      "revenue_billion_vnd": 487,
+      "year": 2026
+    },
+    {
+      "rank": 4,
+      "film": "Lật mặt 7: Một điều ước",
+      "director": "Lý Hải",
+      "revenue_billion_vnd": 483,
+      "year": 2024
+    },
+    {
+      "rank": 5,
+      "film": "Nhà bà Nữ",
+      "director": "Trấn Thành",
+      "revenue_billion_vnd": 475,
+      "year": 2023
+    },
+    {
+      "rank": 6,
+      "film": "Thỏ ơi!!",
+      "director": "Trấn Thành",
+      "revenue_billion_vnd": 450,
+      "year": 2026
+    },
+    {
+      "rank": 7,
+      "film": "Bố già",
+      "director": "Trấn Thành Vũ Ngọc Đãng",
+      "revenue_billion_vnd": 427,
+      "year": 2021
+    },
+    {
+      "rank": 8,
+      "film": "Bộ tứ báo thủ",
+      "director": "Trấn Thành",
+      "revenue_billion_vnd": 332,
+      "year": 2025
+    },
+    {
+      "rank": 9,
+      "film": "Avengers: Hồi kết",
+      "director": "Anthony Russo Joe Russo",
+      "revenue_billion_vnd": 305,
+      "year": 2019
+    },
+    {
+      "rank": 10,
+      "film": "Avatar: Lửa và tro tàn",
+      "director": "James Cameron",
+      "revenue_billion_vnd": 286,
+      "year": 2025
+    },
+    {
+      "rank": 11,
+      "film": "Avatar: Dòng chảy của nước",
+      "director": "James Cameron",
+      "revenue_billion_vnd": 285,
+      "year": 2022
+    },
+    {
+      "rank": 12,
+      "film": "Lật mặt 6: Tấm vé định mệnh",
+      "director": "Lý Hải",
+      "revenue_billion_vnd": 273,
+      "year": 2023
+    },
+    {
+      "rank": 13,
+      "film": "Tử chiến trên không",
+      "director": "Trần Hàm",
+      "revenue_billion_vnd": 251,
+      "year": 2025
+    },
+    {
+      "rank": 14,
+      "film": "Thám tử Kiên: Kỳ án không đầu",
+      "director": "Victor Vũ",
+      "revenue_billion_vnd": 249,
+      "year": 2025
+    },
+    {
+      "rank": 15,
+      "film": "Nhà gia tiên",
+      "director": "Huỳnh Lập",
+      "revenue_billion_vnd": 243,
+      "year": 2025
+    },
+    {
+      "rank": 16,
+      "film": "Zootopia: Phi vụ động trời 2",
+      "director": "Jared Bush Byron Howard",
+      "revenue_billion_vnd": 233,
+      "year": 2025
+    },
+    {
+      "rank": 17,
+      "film": "Lật mặt 8: Vòng tay nắng",
+      "director": "Lý Hải",
+      "revenue_billion_vnd": 232,
+      "year": 2025
+    },
+    {
+      "rank": 18,
+      "film": "Người Nhện: Khởi đầu mới",
+      "director": "Destin Daniel Cretton",
+      "revenue_billion_vnd": 217,
+      "year": 2026
+    },
+    {
+      "rank": 19,
+      "film": "Exhuma: Quật mộ trùng ma",
+      "director": "Jang Jae-hyun",
+      "revenue_billion_vnd": 213,
+      "year": 2024
+    },
+    {
+      "rank": 20,
+      "film": "Nụ hôn bạc tỷ",
+      "director": "Thu Trang",
+      "revenue_billion_vnd": 212,
+      "year": 2025
+    },
+    {
+      "rank": 21,
+      "film": "Nghỉ hè sợ nghỉ hưu",
+      "director": "Huỳnh Lập",
+      "revenue_billion_vnd": 208,
+      "year": 2026
+    },
+    {
+      "rank": 22,
+      "film": "Truy tìm long diên hương",
+      "director": "Dương Minh Chiến",
+      "revenue_billion_vnd": 207,
+      "year": 2025
+    },
+    {
+      "rank": 23,
+      "film": "Doraemon: Nobita và lâu đài dưới đáy biển",
+      "director": "Tetsuo Yajima",
+      "revenue_billion_vnd": 205,
+      "year": 2026
+    },
+    {
+      "rank": 24,
+      "film": "Phí Phông: Quỷ máu rừng thiêng",
+      "director": "Đỗ Quốc Trung",
+      "revenue_billion_vnd": 201,
+      "year": 2026
+    },
+    {
+      "rank": 24,
+      "film": "Phù thủy tối thượng trong Đa Vũ trụ hỗn loạn",
+      "director": "Sam Raimi",
+      "revenue_billion_vnd": 201,
+      "year": 2022
+    },
+    {
+      "rank": 26,
+      "film": "Minions: Sự trỗi dậy của Gru",
+      "director": "Kyle Balda",
+      "revenue_billion_vnd": 200,
+      "year": 2022
+    },
+    {
+      "rank": 26,
+      "film": "Hai Phượng",
+      "director": "Lê Văn Kiệt",
+      "revenue_billion_vnd": 200,
+      "year": 2019
+    },
+    {
+      "rank": 28,
+      "film": "Cua lại vợ bầu",
+      "director": "Nhất Trung",
+      "revenue_billion_vnd": 192,
+      "year": 2019
+    },
+    {
+      "rank": 29,
+      "film": "Avengers: Cuộc chiến vô cực",
+      "director": "Anthony Russo Joe Russo",
+      "revenue_billion_vnd": 189,
+      "year": 2018
+    },
+    {
+      "rank": 30,
+      "film": "Bỗng dưng trúng số",
+      "director": "Park Gyu-Tae",
+      "revenue_billion_vnd": 182,
+      "year": 2022
+    },
+    {
+      "rank": 31,
+      "film": "Mắt biếc",
+      "director": "Victor Vũ",
+      "revenue_billion_vnd": 180,
+      "year": 2019
+    },
+    {
+      "rank": 32,
+      "film": "Thám tử lừng danh Conan: Dư ảnh của độc nhãn",
+      "director": "Katsuya Shigehara",
+      "revenue_billion_vnd": 175,
+      "year": 2025
+    },
+    {
+      "rank": 32,
+      "film": "Tiệc trăng máu",
+      "director": "Nguyễn Quang Dũng",
+      "revenue_billion_vnd": 175,
+      "year": 2020
+    },
+    {
+      "rank": 34,
+      "film": "Địa đạo: Mặt trời trong bóng tối",
+      "director": "Bùi Thạc Chuyên",
+      "revenue_billion_vnd": 173,
+      "year": 2025
+    },
+    {
+      "rank": 35,
+      "film": "Mang mẹ đi bỏ",
+      "director": "Mo Hong-jin",
+      "revenue_billion_vnd": 172,
+      "year": 2025
+    },
+    {
+      "rank": 36,
+      "film": "Em chưa 18",
+      "director": "Lê Thanh Sơn",
+      "revenue_billion_vnd": 171,
+      "year": 2017
+    },
+    {
+      "rank": 37,
+      "film": "Doraemon: Nobita và cuộc phiêu lưu vào thế giới trong tranh",
+      "director": "Teramoto Yukiyo",
+      "revenue_billion_vnd": 170,
+      "year": 2025
+    },
+    {
+      "rank": 38,
+      "film": "Kong: Đảo Đầu lâu",
+      "director": "Jordan Vogt-Roberts",
+      "revenue_billion_vnd": 169,
+      "year": 2017
+    },
+    {
+      "rank": 39,
+      "film": "Gái già lắm chiêu 3",
+      "director": "Bảo Nhân Nam Cito",
+      "revenue_billion_vnd": 165,
+      "year": 2020
+    },
+    {
+      "rank": 40,
+      "film": "Minions & quái vật",
+      "director": "Pierre Coffin",
+      "revenue_billion_vnd": 163,
+      "year": 2026
+    },
+    {
+      "rank": 41,
+      "film": "Fast & Furious 8",
+      "director": "F. Gary Gray",
+      "revenue_billion_vnd": 158,
+      "year": 2017
+    },
+    {
+      "rank": 41,
+      "film": "Fast & Furious: Hobbs & Shaw",
+      "director": "David Leitch",
+      "revenue_billion_vnd": 158,
+      "year": 2019
+    },
+    {
+      "rank": 41,
+      "film": "Aquaman: Đế vương Atlantis",
+      "director": "James Wan",
+      "revenue_billion_vnd": 158,
+      "year": 2018
+    },
+    {
+      "rank": 44,
+      "film": "Lật mặt: 48h",
+      "director": "Lý Hải",
+      "revenue_billion_vnd": 157,
+      "year": 2021
+    },
+    {
+      "rank": 45,
+      "film": "Quỷ nhập tràng",
+      "director": "Pom Nguyễn",
+      "revenue_billion_vnd": 150,
+      "year": 2025
+    },
+    {
+      "rank": 46,
+      "film": "Doraemon: Nobita và bản giao hưởng Địa Cầu",
+      "director": "Imai Kazuaki",
+      "revenue_billion_vnd": 148,
+      "year": 2024
+    },
+    {
+      "rank": 47,
+      "film": "Fast & Furious 7",
+      "director": "James Wan",
+      "revenue_billion_vnd": 146,
+      "year": 2015
+    },
+    {
+      "rank": 47,
+      "film": "Ma Xó",
+      "director": "Phan Bá Hỷ",
+      "revenue_billion_vnd": 146,
+      "year": 2026
+    },
+    {
+      "rank": 49,
+      "film": "Godzilla x Kong: Đế chế mới",
+      "director": "Adam Wingard",
+      "revenue_billion_vnd": 141,
+      "year": 2024
+    },
+    {
+      "rank": 50,
+      "film": "Thanh gươm diệt quỷ: Vô hạn thành",
+      "director": "Haruo Sotozaki",
+      "revenue_billion_vnd": 140,
+      "year": 2025
+    },
+    {
+      "rank": 50,
+      "film": "Đất rừng phương Nam",
+      "director": "Nguyễn Quang Dũng",
+      "revenue_billion_vnd": 140,
+      "year": 2023
+    },
+    {
+      "rank": 50,
+      "film": "Godzilla đại chiến Kong",
+      "director": "Adam Wingard",
+      "revenue_billion_vnd": 140,
+      "year": 2021
+    },
+    {
+      "rank": 50,
+      "film": "Kẻ trộm Mặt Trăng 4",
+      "director": "Chris Renaud",
+      "revenue_billion_vnd": 140,
+      "year": 2024
+    },
+    {
+      "rank": 54,
+      "film": "Kung Fu Panda 4",
+      "director": "Mike Mitchell",
+      "revenue_billion_vnd": 136,
+      "year": 2024
+    },
+    {
+      "rank": 55,
+      "film": "Quỷ nhập tràng 2",
+      "director": "Pom Nguyễn",
+      "revenue_billion_vnd": 134,
+      "year": 2026
+    },
+    {
+      "rank": 56,
+      "film": "Làm giàu với ma",
+      "director": "Trung Lùn",
+      "revenue_billion_vnd": 128,
+      "year": 2024
+    },
+    {
+      "rank": 57,
+      "film": "Ma da",
+      "director": "Nguyễn Hữu Hoàng",
+      "revenue_billion_vnd": 127,
+      "year": 2024
+    },
+    {
+      "rank": 57,
+      "film": "Người Nhện: Không còn nhà",
+      "director": "Jon Watts",
+      "revenue_billion_vnd": 127,
+      "year": 2021
+    },
+    {
+      "rank": 59,
+      "film": "Thám tử lừng danh Conan: Thiên thần sa ngã trên xa lộ",
+      "director": "Hasui Takahiro",
+      "revenue_billion_vnd": 126,
+      "year": 2026
+    },
+    {
+      "rank": 59,
+      "film": "Thiên đường máu",
+      "director": "Hoàng Tuấn Cường",
+      "revenue_billion_vnd": 126,
+      "year": 2025
+    },
+    {
+      "rank": 61,
+      "film": "Heo 5 móng",
+      "director": "Lưu Thành Luân",
+      "revenue_billion_vnd": 125,
+      "year": 2026
+    },
+    {
+      "rank": 62,
+      "film": "Avengers: Đế chế Ultron",
+      "director": "Joss Whedon",
+      "revenue_billion_vnd": 124,
+      "year": 2015
+    },
+    {
+      "rank": 63,
+      "film": "Siêu lừa gặp siêu lầy",
+      "director": "Võ Thanh Hòa",
+      "revenue_billion_vnd": 122,
+      "year": 2023
+    },
+    {
+      "rank": 64,
+      "film": "Thor: Tình yêu và sấm sét",
+      "director": "Taika Waititi",
+      "revenue_billion_vnd": 120,
+      "year": 2022
+    },
+    {
+      "rank": 65,
+      "film": "Thám tử lừng danh Conan: Ngôi sao 5 cánh 1 triệu đô",
+      "director": "Tomoka Nagaoka",
+      "revenue_billion_vnd": 119,
+      "year": 2024
+    },
+    {
+      "rank": 65,
+      "film": "Hẹn em ngày nhật thực",
+      "director": "Lê Thiện Viễn",
+      "revenue_billion_vnd": 119,
+      "year": 2026
+    },
+    {
+      "rank": 67,
+      "film": "Lật mặt: Nhà có khách",
+      "director": "Lý Hải",
+      "revenue_billion_vnd": 118,
+      "year": 2019
+    },
+    {
+      "rank": 68,
+      "film": "Chị chị em em 2",
+      "director": "Vũ Nọc Đãng",
+      "revenue_billion_vnd": 117,
+      "year": 2023
+    },
+    {
+      "rank": 68,
+      "film": "Người Nhện xa nhà",
+      "director": "Jon Watts",
+      "revenue_billion_vnd": 117,
+      "year": 2019
+    },
+    {
+      "rank": 68,
+      "film": "Cám",
+      "director": "Trần Hữu Tấn",
+      "revenue_billion_vnd": 117,
+      "year": 2024
+    },
+    {
+      "rank": 71,
+      "film": "The Odyssey",
+      "director": "Christopher Nolan",
+      "revenue_billion_vnd": 113,
+      "year": 2026
+    },
+    {
+      "rank": 71,
+      "film": "Chị dâu",
+      "director": "Khương Ngọc",
+      "revenue_billion_vnd": 113,
+      "year": 2024
+    },
+    {
+      "rank": 71,
+      "film": "Tài",
+      "director": "Mai Tài Phến",
+      "revenue_billion_vnd": 113,
+      "year": 2026
+    },
+    {
+      "rank": 74,
+      "film": "Nhà ba tôi một phòng",
+      "director": "Trường Giang",
+      "revenue_billion_vnd": 111,
+      "year": 2026
+    },
+    {
+      "rank": 75,
+      "film": "Chị Mười Ba: 3 ngày sinh tử",
+      "director": "Võ Thanh Hoà",
+      "revenue_billion_vnd": 109,
+      "year": 2020
+    },
+    {
+      "rank": 75,
+      "film": "Quỷ cẩu",
+      "director": "Lưu Thành Luân",
+      "revenue_billion_vnd": 109,
+      "year": 2023
+    },
+    {
+      "rank": 75,
+      "film": "Siêu sao siêu ngố",
+      "director": "Đức Thịnh",
+      "revenue_billion_vnd": 109,
+      "year": 2018
+    },
+    {
+      "rank": 78,
+      "film": "Đèn âm hồn",
+      "director": "Hoàng Nam",
+      "revenue_billion_vnd": 106,
+      "year": 2025
+    },
+    {
+      "rank": 78,
+      "film": "Mỹ nhân ngư",
+      "director": "Châu Tinh Trì",
+      "revenue_billion_vnd": 106,
+      "year": 2016
+    },
+    {
+      "rank": 78,
+      "film": "Thế Giới Khủng Long",
+      "director": "Colin Trevorrow",
+      "revenue_billion_vnd": 106,
+      "year": 2015
+    },
+    {
+      "rank": 81,
+      "film": "Gặp lại chị bầu",
+      "director": "Đoàn Nhất Trung",
+      "revenue_billion_vnd": 105,
+      "year": 2024
+    },
+    {
+      "rank": 81,
+      "film": "404 Chạy ngay đi",
+      "director": "Pichaya Jarusboonpracha",
+      "revenue_billion_vnd": 105,
+      "year": 2024
+    },
+    {
+      "rank": 83,
+      "film": "Black Panther: Chiến binh Báo Đen",
+      "director": "Ryan Coogler",
+      "revenue_billion_vnd": 104,
+      "year": 2018
+    },
+    {
+      "rank": 83,
+      "film": "Báu vật trời cho",
+      "director": "Lê Thanh Sơn",
+      "revenue_billion_vnd": 104,
+      "year": 2026
+    },
+    {
+      "rank": 85,
+      "film": "Em là bà nội của anh",
+      "director": "Phan Gia Nhật Linh",
+      "revenue_billion_vnd": 102,
+      "year": 2015
+    },
+    {
+      "rank": 86,
+      "film": "Làm giàu với ma 2: Cuộc chiến hột xoàn",
+      "director": "Trung Lùn",
+      "revenue_billion_vnd": 101,
+      "year": 2025
+    },
+    {
+      "rank": 86,
+      "film": "Để Mai tính 2",
+      "director": "Charlie Nguyễn",
+      "revenue_billion_vnd": 101,
+      "year": 2014
+    },
+    {
+      "rank": 88,
+      "film": "Trạng Quỳnh",
+      "director": "Đức Thịnh",
+      "revenue_billion_vnd": 100,
+      "year": 2019
+    },
+    {
+      "rank": 88,
+      "film": "Em và Trịnh",
+      "director": "Phan Gia Nhật Linh",
+      "revenue_billion_vnd": 100,
+      "year": 2022
+    },
+    {
+      "rank": 88,
+      "film": "Người vợ cuối cùng",
+      "director": "Victor Vũ",
+      "revenue_billion_vnd": 100,
+      "year": 2023
+    },
+    {
+      "rank": 88,
+      "film": "Fast & Furious X",
+      "director": "Louis Leterrier",
+      "revenue_billion_vnd": 100,
+      "year": 2023
+    },
+    {
+      "rank": 88,
+      "film": "Tee Yod: Quỷ ăn tạng 2",
+      "director": "Taweewat Wanta",
+      "revenue_billion_vnd": 100,
+      "year": 2024
+    },
+    {
+      "rank": 88,
+      "film": "Minions",
+      "director": "Pierre Coffin Kyle Balda",
+      "revenue_billion_vnd": 100,
+      "year": 2015
+    }
+  ],
+  "meta": {
+    "title": "Phim điện ảnh có doanh thu cao nhất tại Việt Nam (gồm phim nước ngoài) - Free Download",
+    "description": "Xếp hạng các phim điện ảnh, cả phim Việt Nam và phim nước ngoài, có doanh thu phòng vé cao nhất tại Việt Nam (tỉ đồng). Contains 93 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Phim điện ảnh có doanh thu cao nhất tại Việt Nam (gồm phim nước ngoài) | ListBase",
+    "seo_description": "Download Phim điện ảnh có doanh thu cao nhất tại Việt Nam (gồm phim nước ngoài) — 93 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 93 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_sách_phim_điện_ảnh_có_doanh_thu_cao_nhất_tại_Việt_Nam"
+    ]
+  }
+}

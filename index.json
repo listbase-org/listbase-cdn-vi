@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-28T02:22:33.499Z",
-  "total_datasets": 558,
-  "total_records": 126729,
+  "generated": "2026-10-28T02:22:36.077Z",
+  "total_datasets": 559,
+  "total_records": 126822,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -1124,6 +1124,32 @@
         "xlsx": {
           "name": "vi-phim-doanh-thu-cao-nhat_VI.xlsx",
           "size": 9952
+        }
+      }
+    },
+    {
+      "id": "vi-phim-doanh-thu-cao-nhat-tai-rap-viet-nam",
+      "name": "Phim điện ảnh có doanh thu cao nhất tại Việt Nam (gồm phim nước ngoài)",
+      "category": "entertainment",
+      "record_count": 93,
+      "columns": [
+        "rank",
+        "film",
+        "director",
+        "revenue_billion_vnd",
+        "year"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_phim_điện_ảnh_có_doanh_thu_cao_nhất_tại_Việt_Nam",
+      "updated": "2026-10",
+      "size": 17399,
+      "files": {
+        "csv": {
+          "name": "vi-phim-doanh-thu-cao-nhat-tai-rap-viet-nam_VI.csv",
+          "size": 5997
+        },
+        "xlsx": {
+          "name": "vi-phim-doanh-thu-cao-nhat-tai-rap-viet-nam_VI.xlsx",
+          "size": 11345
         }
       }
     },
