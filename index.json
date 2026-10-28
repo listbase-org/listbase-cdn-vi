@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-28T02:22:31.091Z",
-  "total_datasets": 557,
-  "total_records": 126702,
+  "generated": "2026-10-28T02:22:33.499Z",
+  "total_datasets": 558,
+  "total_records": 126729,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -13450,6 +13450,34 @@
         "xlsx": {
           "name": "vi-uefa-champions-league-tran-dau_VI.xlsx",
           "size": 146516
+        }
+      }
+    },
+    {
+      "id": "vi-viet-nam-tai-sea-games",
+      "name": "Việt Nam tại Đại hội Thể thao Đông Nam Á (SEA Games)",
+      "category": "sports",
+      "record_count": 27,
+      "columns": [
+        "games",
+        "athletes",
+        "gold",
+        "silver",
+        "bronze",
+        "total",
+        "rank"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Việt_Nam_tại_Đại_hội_Thể_thao_Đông_Nam_Á",
+      "updated": "2026-10",
+      "size": 6587,
+      "files": {
+        "csv": {
+          "name": "vi-viet-nam-tai-sea-games_VI.csv",
+          "size": 1475
+        },
+        "xlsx": {
+          "name": "vi-viet-nam-tai-sea-games_VI.xlsx",
+          "size": 8042
         }
       }
     },

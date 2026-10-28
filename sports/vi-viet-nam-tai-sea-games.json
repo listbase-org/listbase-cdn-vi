@@ -1,0 +1,304 @@
+{
+  "id": "vi-viet-nam-tai-sea-games",
+  "name": "Việt Nam tại Đại hội Thể thao Đông Nam Á (SEA Games)",
+  "title": "Việt Nam tại Đại hội Thể thao Đông Nam Á (SEA Games)",
+  "description": "Thành tích huy chương và thứ hạng của đoàn thể thao Việt Nam qua các kỳ SEA Games.",
+  "category": "sports",
+  "source": "https://vi.wikipedia.org/wiki/Việt_Nam_tại_Đại_hội_Thể_thao_Đông_Nam_Á",
+  "source_url": "https://vi.wikipedia.org/wiki/Việt_Nam_tại_Đại_hội_Thể_thao_Đông_Nam_Á",
+  "updated": "2026-10",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "games",
+      "label": "Games",
+      "type": "string"
+    },
+    {
+      "key": "athletes",
+      "label": "Athletes",
+      "type": "string"
+    },
+    {
+      "key": "gold",
+      "label": "Gold",
+      "type": "number"
+    },
+    {
+      "key": "silver",
+      "label": "Silver",
+      "type": "number"
+    },
+    {
+      "key": "bronze",
+      "label": "Bronze",
+      "type": "number"
+    },
+    {
+      "key": "total",
+      "label": "Total",
+      "type": "number"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "games": "Băng Cốc 1959",
+      "athletes": "Không rõ",
+      "gold": 5,
+      "silver": 5,
+      "bronze": 6,
+      "total": 16,
+      "rank": 5
+    },
+    {
+      "games": "Rangoon 1961",
+      "athletes": "Không rõ",
+      "gold": 9,
+      "silver": 5,
+      "bronze": 8,
+      "total": 22,
+      "rank": 4
+    },
+    {
+      "games": "Kuala Lumpur 1965",
+      "athletes": "Không rõ",
+      "gold": 5,
+      "silver": 7,
+      "bronze": 7,
+      "total": 19,
+      "rank": 6
+    },
+    {
+      "games": "Băng Cốc 1967",
+      "athletes": "Không rõ",
+      "gold": 6,
+      "silver": 10,
+      "bronze": 17,
+      "total": 33,
+      "rank": 5
+    },
+    {
+      "games": "Rangoon 1969",
+      "athletes": "Không rõ",
+      "gold": 9,
+      "silver": 5,
+      "bronze": 8,
+      "total": 22,
+      "rank": 4
+    },
+    {
+      "games": "Kuala Lumpur 1971",
+      "athletes": "Không rõ",
+      "gold": 3,
+      "silver": 6,
+      "bronze": 9,
+      "total": 18,
+      "rank": 6
+    },
+    {
+      "games": "Singapore 1973",
+      "athletes": "Không rõ",
+      "gold": 2,
+      "silver": 13,
+      "bronze": 10,
+      "total": 25,
+      "rank": 6
+    },
+    {
+      "games": "Kuala Lumpur 1989",
+      "athletes": "46",
+      "gold": 3,
+      "silver": 11,
+      "bronze": 5,
+      "total": 19,
+      "rank": 7
+    },
+    {
+      "games": "Manila 1991",
+      "athletes": "100",
+      "gold": 7,
+      "silver": 12,
+      "bronze": 10,
+      "total": 29,
+      "rank": 7
+    },
+    {
+      "games": "Singapore 1993",
+      "athletes": "139",
+      "gold": 9,
+      "silver": 6,
+      "bronze": 19,
+      "total": 34,
+      "rank": 6
+    },
+    {
+      "games": "Chiang Mai 1995",
+      "athletes": "180",
+      "gold": 10,
+      "silver": 18,
+      "bronze": 24,
+      "total": 52,
+      "rank": 6
+    },
+    {
+      "games": "Jakarta 1997",
+      "athletes": "340",
+      "gold": 35,
+      "silver": 48,
+      "bronze": 50,
+      "total": 133,
+      "rank": 5
+    },
+    {
+      "games": "Bandar Seri Begawan 1999",
+      "athletes": "174",
+      "gold": 17,
+      "silver": 20,
+      "bronze": 27,
+      "total": 64,
+      "rank": 5
+    },
+    {
+      "games": "Kuala Lumpur 2001",
+      "athletes": "431",
+      "gold": 33,
+      "silver": 35,
+      "bronze": 64,
+      "total": 132,
+      "rank": 4
+    },
+    {
+      "games": "Hà Nội–Thành phố Hồ Chí Minh 2003",
+      "athletes": "752",
+      "gold": 158,
+      "silver": 97,
+      "bronze": 91,
+      "total": 346,
+      "rank": 1
+    },
+    {
+      "games": "Manila 2005",
+      "athletes": "528",
+      "gold": 71,
+      "silver": 71,
+      "bronze": 86,
+      "total": 228,
+      "rank": 3
+    },
+    {
+      "games": "Nakhon Ratchasima 2007",
+      "athletes": "624",
+      "gold": 64,
+      "silver": 58,
+      "bronze": 82,
+      "total": 204,
+      "rank": 3
+    },
+    {
+      "games": "Viêng Chăn 2009",
+      "athletes": "671",
+      "gold": 83,
+      "silver": 75,
+      "bronze": 57,
+      "total": 215,
+      "rank": 2
+    },
+    {
+      "games": "Jakarta–Palembang 2011",
+      "athletes": "608",
+      "gold": 96,
+      "silver": 92,
+      "bronze": 100,
+      "total": 288,
+      "rank": 3
+    },
+    {
+      "games": "Naypyidaw 2013",
+      "athletes": "511",
+      "gold": 74,
+      "silver": 85,
+      "bronze": 86,
+      "total": 245,
+      "rank": 3
+    },
+    {
+      "games": "Singapore 2015",
+      "athletes": "391",
+      "gold": 73,
+      "silver": 53,
+      "bronze": 60,
+      "total": 186,
+      "rank": 3
+    },
+    {
+      "games": "Kuala Lumpur 2017",
+      "athletes": "460",
+      "gold": 58,
+      "silver": 50,
+      "bronze": 60,
+      "total": 168,
+      "rank": 3
+    },
+    {
+      "games": "Manila 2019",
+      "athletes": "856",
+      "gold": 98,
+      "silver": 85,
+      "bronze": 105,
+      "total": 288,
+      "rank": 2
+    },
+    {
+      "games": "Hà Nội 2021",
+      "athletes": "965",
+      "gold": 205,
+      "silver": 125,
+      "bronze": 116,
+      "total": 446,
+      "rank": 1
+    },
+    {
+      "games": "Phnôm Pênh 2023",
+      "athletes": "702",
+      "gold": 136,
+      "silver": 105,
+      "bronze": 114,
+      "total": 355,
+      "rank": 1
+    },
+    {
+      "games": "Băng Cốc–Chonburi 2025",
+      "athletes": "835",
+      "gold": 87,
+      "silver": 81,
+      "bronze": 110,
+      "total": 278,
+      "rank": 3
+    },
+    {
+      "games": "Tổng số",
+      "athletes": "Tổng số",
+      "gold": 1356,
+      "silver": 1178,
+      "bronze": 1331,
+      "total": 3865,
+      "rank": 4
+    }
+  ],
+  "meta": {
+    "title": "Việt Nam tại Đại hội Thể thao Đông Nam Á (SEA Games) - Free Download",
+    "description": "Thành tích huy chương và thứ hạng của đoàn thể thao Việt Nam qua các kỳ SEA Games. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Việt Nam tại Đại hội Thể thao Đông Nam Á (SEA Games) | ListBase",
+    "seo_description": "Download Việt Nam tại Đại hội Thể thao Đông Nam Á (SEA Games) — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Việt_Nam_tại_Đại_hội_Thể_thao_Đông_Nam_Á"
+    ]
+  }
+}
