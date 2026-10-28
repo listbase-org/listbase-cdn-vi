@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-28T02:22:36.077Z",
-  "total_datasets": 559,
-  "total_records": 126822,
+  "generated": "2026-10-28T02:22:38.593Z",
+  "total_datasets": 560,
+  "total_records": 127442,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "environment",
@@ -1097,6 +1097,32 @@
         "xlsx": {
           "name": "vi-nghe-si-uu-tu_VI.xlsx",
           "size": 72302
+        }
+      }
+    },
+    {
+      "id": "vi-phim-dien-anh-viet-nam",
+      "name": "Danh sách phim điện ảnh Việt Nam",
+      "category": "entertainment",
+      "record_count": 620,
+      "columns": [
+        "year",
+        "title",
+        "director",
+        "cast",
+        "genre"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_phim_điện_ảnh_Việt_Nam",
+      "updated": "2026-10",
+      "size": 149910,
+      "files": {
+        "csv": {
+          "name": "vi-phim-dien-anh-viet-nam_VI.csv",
+          "size": 91790
+        },
+        "xlsx": {
+          "name": "vi-phim-dien-anh-viet-nam_VI.xlsx",
+          "size": 46802
         }
       }
     },
