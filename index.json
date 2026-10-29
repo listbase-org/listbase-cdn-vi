@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-29T02:12:18.492Z",
-  "total_datasets": 564,
-  "total_records": 127896,
+  "generated": "2026-10-29T02:12:21.174Z",
+  "total_datasets": 565,
+  "total_records": 127960,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -3785,6 +3785,34 @@
         "xlsx": {
           "name": "vi-trieu-dai_VI.xlsx",
           "size": 9943
+        }
+      }
+    },
+    {
+      "id": "vi-vu-tham-sat",
+      "name": "Danh sách vụ thảm sát ở Việt Nam",
+      "category": "history",
+      "record_count": 64,
+      "columns": [
+        "name",
+        "period",
+        "date",
+        "location",
+        "deaths",
+        "perpetrator",
+        "description"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_vụ_thảm_sát_ở_Việt_Nam",
+      "updated": "2026-10",
+      "size": 29379,
+      "files": {
+        "csv": {
+          "name": "vi-vu-tham-sat_VI.csv",
+          "size": 18608
+        },
+        "xlsx": {
+          "name": "vi-vu-tham-sat_VI.xlsx",
+          "size": 12706
         }
       }
     },
