@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-29T02:12:13.330Z",
-  "total_datasets": 562,
-  "total_records": 127775,
+  "generated": "2026-10-29T02:12:15.896Z",
+  "total_datasets": 563,
+  "total_records": 127864,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 27
+      "dataset_count": 28
     },
     {
       "id": "units",
@@ -16293,6 +16293,36 @@
         "xlsx": {
           "name": "vi-cang-bien_VI.xlsx",
           "size": 8217
+        }
+      }
+    },
+    {
+      "id": "vi-cau-dai-nhat-viet-nam",
+      "name": "Danh sách cầu dài nhất Việt Nam",
+      "category": "transport",
+      "record_count": 89,
+      "columns": [
+        "rank",
+        "name",
+        "length_m",
+        "completed",
+        "traffic",
+        "crosses",
+        "location",
+        "status",
+        "note"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_cầu_dài_nhất_Việt_Nam",
+      "updated": "2026-10",
+      "size": 29011,
+      "files": {
+        "csv": {
+          "name": "vi-cau-dai-nhat-viet-nam_VI.csv",
+          "size": 12357
+        },
+        "xlsx": {
+          "name": "vi-cau-dai-nhat-viet-nam_VI.xlsx",
+          "size": 12534
         }
       }
     },
