@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-28T02:22:38.593Z",
-  "total_datasets": 560,
-  "total_records": 127442,
+  "generated": "2026-10-29T02:12:10.387Z",
+  "total_datasets": 561,
+  "total_records": 127763,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -1306,6 +1306,37 @@
         "xlsx": {
           "name": "vi-khu-du-tru-sinh-quyen_VI.xlsx",
           "size": 7992
+        }
+      }
+    },
+    {
+      "id": "vi-nha-may-dien-mat-troi-dien-gio",
+      "name": "Danh sách nhà máy điện mặt trời và điện gió tại Việt Nam",
+      "category": "environment",
+      "record_count": 321,
+      "columns": [
+        "name",
+        "type",
+        "status",
+        "owner",
+        "capacity_mw",
+        "capacity_mwp",
+        "location",
+        "province",
+        "start_date",
+        "grid_connection"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_nhà_máy_điện_tại_Việt_Nam",
+      "updated": "2026-10",
+      "size": 124537,
+      "files": {
+        "csv": {
+          "name": "vi-nha-may-dien-mat-troi-dien-gio_VI.csv",
+          "size": 57157
+        },
+        "xlsx": {
+          "name": "vi-nha-may-dien-mat-troi-dien-gio_VI.xlsx",
+          "size": 28060
         }
       }
     },
