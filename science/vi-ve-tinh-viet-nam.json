@@ -1,0 +1,152 @@
+{
+  "id": "vi-ve-tinh-viet-nam",
+  "name": "Danh sách vệ tinh của Việt Nam",
+  "title": "Danh sách vệ tinh của Việt Nam",
+  "description": "Các vệ tinh nhân tạo của Việt Nam đã phóng, dự kiến phóng và bị hủy, kèm đơn vị chủ quản và ngày phóng",
+  "category": "science",
+  "source": "https://vi.wikipedia.org/wiki/Danh_sách_vệ_tinh_của_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_sách_vệ_tinh_của_Việt_Nam",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "launch_date",
+      "label": "Launch Date",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    },
+    {
+      "key": "reason",
+      "label": "Reason",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Vinasat-1",
+      "owner": "VNPT",
+      "launch_date": "19 tháng 4 năm 2008",
+      "status": "Đang hoạt động",
+      "note": "Đây là vệ tinh viễn thông đầu tiên của Việt Nam .",
+      "reason": ""
+    },
+    {
+      "name": "Vinasat-2",
+      "owner": "VNPT",
+      "launch_date": "16 tháng 5 năm 2012",
+      "status": "Đang hoạt động",
+      "note": "Đây là vệ tinh viễn thông thứ hai của Việt Nam , sẽ thay thế cho Vinasat-1.",
+      "reason": ""
+    },
+    {
+      "name": "Vệ tinh nano F-1",
+      "owner": "FPT",
+      "launch_date": "21 tháng 7 năm 2012",
+      "status": "Đang hoạt động",
+      "note": "Là vệ tinh siêu nhỏ đầu tiên và do một tập đoàn tư nhân Việt Nam tự chế tạo được phóng lên quỹ đạo, nhưng đã bị mất tín hiệu khi được thả ra khỏi ISS.",
+      "reason": ""
+    },
+    {
+      "name": "VNREDSat-1",
+      "owner": "VAST",
+      "launch_date": "7 tháng 5 năm 2013",
+      "status": "Đang hoạt động",
+      "note": "Là vệ tinh nhỏ quan sát Tài nguyên Thiên nhiên, Môi trường và Thiên tai. Vệ tinh viễn thám đầu tiên của Việt Nam.",
+      "reason": ""
+    },
+    {
+      "name": "PicoDragon",
+      "owner": "VNSC",
+      "launch_date": "4 tháng 8 năm 2013",
+      "status": "Đang hoạt động",
+      "note": "Đây là một vệ tinh nhỏ đầu tiên được chế tạo bởi Việt Nam và Nhật Bản hoạt động thành công ngoài không gian.",
+      "reason": ""
+    },
+    {
+      "name": "MicroDragon",
+      "owner": "VNSC",
+      "launch_date": "18 tháng 1 năm 2019",
+      "status": "Đang hoạt động",
+      "note": "Đây là vệ tinh nhỏ thứ hai được chế tạo bởi Việt Nam và Nhật Bản,vệ tinh này đã tách thành công khỏi tên lửa Epsilon số 4 của Nhật Bản.",
+      "reason": ""
+    },
+    {
+      "name": "NanoDragon",
+      "owner": "VNSC",
+      "launch_date": "9 tháng 11 năm 2021",
+      "status": "Đang hoạt động",
+      "note": "Vệ tinh có trọng lượng 3.4 kg; có nhiệm vụ thực hiện giám sát rừng, tàu biển và thử nghiệm công nghệ. Vệ tinh đã bị mất tín hiệu sau khi được phóng bởi tên lửa Epsilon-5.",
+      "reason": ""
+    },
+    {
+      "name": "Vinasat-3 (đã bị hoãn vào năm 2022, đã trở lại vào năm 2028)",
+      "owner": "VNPT",
+      "launch_date": "2028",
+      "status": "Dự án trong tương lai",
+      "note": "Vinasat-3 nặng khoảng 3.000 kg. Dự án bị hoãn vì vệ tinh cũ vẫn hoạt động tốt, chi phí đầu tư lớn và VNPT đang chọn đối tác công nghệ phù hợp. Dự án đã quay trở lại vào năm 2028.",
+      "reason": ""
+    },
+    {
+      "name": "JVLOTUSat-1",
+      "owner": "VNSC",
+      "launch_date": "2023",
+      "status": "Dự án trong tương lai",
+      "note": "Vệ tinh nặng 600 kg; sẽ được chế tạo, tích hợp, thử nghiệm tại Nhật. Vệ tinh phục vụ việc phòng chống, giảm nhẹ thiên tai và biến đổi khí hậu.",
+      "reason": ""
+    },
+    {
+      "name": "JVLOTUSat-2",
+      "owner": "VNSC",
+      "launch_date": "",
+      "status": "Dự án trong tương lai",
+      "note": "Vệ tinh hoàn toàn do người Việt Nam chế tạo, tích hợp và thử nghiệm ngay tại Trung tâm Vũ trụ Việt Nam. Vệ tinh phục vụ việc phòng chống, giảm nhẹ thiên tai và biến đổi khí hậu.",
+      "reason": ""
+    },
+    {
+      "name": "VNREDSat-1B",
+      "owner": "VAST",
+      "launch_date": "2017",
+      "status": "Dự án bị hủy",
+      "note": "Dự án được hợp tác với công ty SpaceBel của Vương quốc Bỉ vào năm 2012. Hợp đồng trị giá hơn 60 triệu Euro đã được ký vào tháng 1 năm 2014. Vệ tinh có khối lượng 130 kg và thời gian sống là 5 năm.",
+      "reason": "Vệ tinh được dự kiến phóng vào năm 2017 nhưng hiện đang bị tạm ngưng."
+    },
+    {
+      "name": "Vệ tinh nano F-2",
+      "owner": "FPT",
+      "launch_date": "2015",
+      "status": "Dự án bị hủy",
+      "note": "Nằm trong dự án hợp tác vũ trụ QB50.",
+      "reason": "Dự án hoãn vô thời hạn sau thất bại của Vệ tinh nano F-1"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách vệ tinh của Việt Nam - Free Download",
+    "description": "Các vệ tinh nhân tạo của Việt Nam đã phóng, dự kiến phóng và bị hủy, kèm đơn vị chủ quản và ngày phóng Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách vệ tinh của Việt Nam | ListBase",
+    "seo_description": "Download Danh sách vệ tinh của Việt Nam — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_sách_vệ_tinh_của_Việt_Nam"
+    ]
+  }
+}

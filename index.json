@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-29T02:12:10.387Z",
-  "total_datasets": 561,
-  "total_records": 127763,
+  "generated": "2026-10-29T02:12:13.330Z",
+  "total_datasets": 562,
+  "total_records": 127775,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "society",
@@ -13253,6 +13253,33 @@
         "xlsx": {
           "name": "science-solubility-rules_VI.xlsx",
           "size": 9165
+        }
+      }
+    },
+    {
+      "id": "vi-ve-tinh-viet-nam",
+      "name": "Danh sách vệ tinh của Việt Nam",
+      "category": "science",
+      "record_count": 12,
+      "columns": [
+        "name",
+        "owner",
+        "launch_date",
+        "status",
+        "note",
+        "reason"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_vệ_tinh_của_Việt_Nam",
+      "updated": "2026-10",
+      "size": 6237,
+      "files": {
+        "csv": {
+          "name": "vi-ve-tinh-viet-nam_VI.csv",
+          "size": 3118
+        },
+        "xlsx": {
+          "name": "vi-ve-tinh-viet-nam_VI.xlsx",
+          "size": 8214
         }
       }
     },
