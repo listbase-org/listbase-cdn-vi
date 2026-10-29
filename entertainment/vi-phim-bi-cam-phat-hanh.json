@@ -1,0 +1,312 @@
+{
+  "id": "vi-phim-bi-cam-phat-hanh",
+  "name": "Danh sách phim bị cấm phát hành tại Việt Nam",
+  "title": "Danh sách phim bị cấm phát hành tại Việt Nam",
+  "description": "Các bộ phim bị cấm phát hành hoặc chiếu tại Việt Nam, kèm năm, quốc gia sản xuất và lý do bị cấm",
+  "category": "entertainment",
+  "source": "https://vi.wikipedia.org/wiki/Danh_sách_phim_bị_cấm_phát_hành_tại_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_sách_phim_bị_cấm_phát_hành_tại_Việt_Nam",
+  "updated": "2026-10",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "ban_reason",
+      "label": "Ban Reason",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1986,
+      "title": "Platoon",
+      "country": "Hoa Kỳ",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Bôi nhọ Quân đội Việt Nam. Nhưng sau đó đã được cho phép phát hành rộng rãi trở lại.",
+      "note": ""
+    },
+    {
+      "year": 1995,
+      "title": "Xích lô",
+      "country": "Việt Nam Pháp Hồng Kông",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Phản ánh xã hội đau thương, cảnh bạo lực không phù hợp với hiện thực Việt Nam.",
+      "note": ""
+    },
+    {
+      "year": 2008,
+      "title": "Khi tôi 20",
+      "country": "Việt Nam",
+      "type": "Phim ngắn",
+      "ban_reason": "Gây phương hại tới hình ảnh Việt Nam. Hình ảnh và lối sống của người thiếu nữ trong phim đi ngược lại phong tục tập quán và lối sống của người Việt.",
+      "note": ""
+    },
+    {
+      "year": 2012,
+      "title": "Bẫy cấp 3",
+      "country": "Việt Nam",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Không phù hợp đạo đức: bạo lực và tình dục.",
+      "note": ""
+    },
+    {
+      "year": 2012,
+      "title": "Cô gái có hình xăm rồng",
+      "country": "Hoa Kỳ Thụy Điển Vương quốc Anh",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Xuất hiện phân cảnh nhạy cảm, \"mông trần\".",
+      "note": ""
+    },
+    {
+      "year": 2012,
+      "title": "Đấu trường sinh tử",
+      "country": "Hoa Kỳ",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Nội dung không phù hợp vì quá bạo lực. Tuy nhiên, phần hai của bộ phim lại được cấp phép tại Việt Nam.",
+      "note": ""
+    },
+    {
+      "year": 2013,
+      "title": "Bụi đời chợ lớn",
+      "country": "Việt Nam",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Vi phạm điều cấm tuyên truyền, kích động bạo lực của Luật Điện ảnh. Nhà sản xuất không trình kịch bản chỉnh sửa sau khi có ý kiến của Hội đồng duyệt kịch bản.",
+      "note": ""
+    },
+    {
+      "year": 2014,
+      "title": "Rừng xác sống",
+      "country": "Việt Nam",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Chứa nhiều hình ảnh ghê rợn, bạo lực, máu me, tàn phá cơ thể người",
+      "note": ""
+    },
+    {
+      "year": 2014,
+      "title": "Người truyền giống",
+      "country": "Việt Nam",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Nhiều lý do khác nhau.",
+      "note": ""
+    },
+    {
+      "year": 2018,
+      "title": "Pine Gap",
+      "country": "Úc",
+      "type": "Phim chiếu mạng",
+      "ban_reason": "Có phân cảnh đường chín đoạn của Trung Quốc. Thông tin sai lệch về chủ quyền của Việt Nam .",
+      "note": ""
+    },
+    {
+      "year": 2018,
+      "title": "Điệp vụ Biển đỏ",
+      "country": "Trung Quốc",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Có phân cảnh đường chín đoạn của Trung Quốc. Thông tin sai lệch về chủ quyền của Việt Nam .",
+      "note": ""
+    },
+    {
+      "year": 2018,
+      "title": "Truth or Dare: Chơi hay chết?",
+      "country": "Hoa Kỳ",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Yếu tố kinh dị và bạo lực gây hoang mang trong khán giả.",
+      "note": ""
+    },
+    {
+      "year": 2018,
+      "title": "You Shall Not Sleep",
+      "country": "Tây Ban Nha Argentina Uruguay",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Yếu tố kinh dị và bạo lực gây hoang mang trong khán giả.",
+      "note": ""
+    },
+    {
+      "year": 2018,
+      "title": "Điệp vụ chim sẻ đỏ",
+      "country": "Hoa Kỳ",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Xuất hiện yếu tố kinh dị và hình ảnh phản cảm, 18+.",
+      "note": ""
+    },
+    {
+      "year": 2019,
+      "title": "Everest Người tuyết bé nhỏ",
+      "country": "Hoa Kỳ Trung Quốc",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Có phân cảnh đường chín đoạn của Trung Quốc. Thông tin sai lệch về chủ quyền của Việt Nam . Xem chi tiết: Everest: Người tuyết bé nhỏ#Tranh cãi",
+      "note": ""
+    },
+    {
+      "year": 2019,
+      "title": "Vợ ba",
+      "country": "Việt Nam",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Nhà sản xuất xin rút vì không muốn ảnh hưởng tới đời sống của gia đình nữ diễn viên chính Trà My.",
+      "note": ""
+    },
+    {
+      "year": 2019,
+      "title": "0.0 MHz - Tần số chết",
+      "country": "Hàn Quốc",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Mê tín dị đoan, không phù hợp với thuần phong mỹ tục Việt Nam.",
+      "note": ""
+    },
+    {
+      "year": 2019,
+      "title": "Tu viện kinh hoàng",
+      "country": "Hoa Kỳ",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Kinh dị, không phù hợp với thuần phong mỹ tục Việt Nam.",
+      "note": ""
+    },
+    {
+      "year": 2019,
+      "title": "Nghĩa địa ma quái",
+      "country": "Hoa Kỳ",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Gây ảnh hưởng tới khán giả, khi có nhiều cảnh trẻ em lấy mạng người một cách bạo lực, kinh hoàng.",
+      "note": ""
+    },
+    {
+      "year": 2021,
+      "title": "The King's Man",
+      "country": "Hoa Kỳ Anh",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Nội dung bôi nhọ lãnh tụ đảng Bolshevik Vladimir Ilyich Lenin cùng hội kín với Adolf Hitler",
+      "note": ""
+    },
+    {
+      "year": 2021,
+      "title": "Vị",
+      "country": "Việt Nam Singapore",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Có phân cảnh khỏa thân kéo dài trong 30 phút.",
+      "note": ""
+    },
+    {
+      "year": 2022,
+      "title": "Ba chị em",
+      "country": "Hàn Quốc",
+      "type": "Phim chiếu mạng",
+      "ban_reason": "Xuyên tạc lịch sử, phủ nhận thành tựu cách mạng, xúc phạm dân tộc và vi phạm những hành vi bị cấm trong hoạt động điện ảnh tại Việt Nam. Xem chi tiết: Ba chị em (phim truyền hình Hàn Quốc) #Cấm phát hành tại Việt Nam",
+      "note": ""
+    },
+    {
+      "year": 2022,
+      "title": "Thợ săn cổ vật",
+      "country": "Hoa Kỳ",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Có phân cảnh đường chín đoạn của Trung Quốc. Thông tin sai lệch về chủ quyền của Việt Nam .",
+      "note": ""
+    },
+    {
+      "year": 2022,
+      "title": "Barbarian",
+      "country": "Hoa Kỳ",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Kinh dị và bạo lực, không phổ biến rộng rãi qua màn ảnh rộng.",
+      "note": ""
+    },
+    {
+      "year": 2022,
+      "title": "Ngoài vòng pháp luật 2",
+      "country": "Hàn Quốc",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Vì quá bạo lực và khắc họa tiêu cực về Thành phố Hồ Chí Minh .",
+      "note": ""
+    },
+    {
+      "year": 2023,
+      "title": "John Wick Chapter 4",
+      "country": "Hoa Kỳ",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Có diễn viên ủng hộ đường chín đoạn",
+      "note": ""
+    },
+    {
+      "year": 2023,
+      "title": "Scream VI",
+      "country": "Hoa Kỳ",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Chứa các phân cảnh bạo lực máu me, không phù hợp thuần phong mỹ tục",
+      "note": ""
+    },
+    {
+      "year": 2023,
+      "title": "Ma Cây Trỗi Dậy",
+      "country": "Hoa Kỳ",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Quá bạo lực, máu me ghê rợn",
+      "note": ""
+    },
+    {
+      "year": 2023,
+      "title": "Nàng Barbie",
+      "country": "Vương quốc Anh Hoa Kỳ",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Có phân cảnh đường chín đoạn của Trung Quốc. Thông tin sai lệch về chủ quyền của Việt Nam .",
+      "note": ""
+    },
+    {
+      "year": 2024,
+      "title": "Trong lòng đất",
+      "country": "Việt Nam Philippines",
+      "type": "Phim điện ảnh",
+      "ban_reason": "Cái nhìn u ám, bế tắc về con người và đất nước Việt Nam.",
+      "note": ""
+    },
+    {
+      "year": 2025,
+      "title": "Hãy để tôi tỏa sáng",
+      "country": "Trung Quốc",
+      "type": "Phim chiếu mạng",
+      "ban_reason": "Có phân cảnh đường chín đoạn của Trung Quốc. Thông tin sai lệch về chủ quyền của Việt Nam .",
+      "note": ""
+    },
+    {
+      "year": 2025,
+      "title": "Tôi thấy ánh dương rực rỡ",
+      "country": "Trung Quốc",
+      "type": "Phim chiếu mạng",
+      "ban_reason": "Có phân cảnh đường chín đoạn của Trung Quốc. Thông tin sai lệch về chủ quyền của Việt Nam .",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Danh sách phim bị cấm phát hành tại Việt Nam - Free Download",
+    "description": "Các bộ phim bị cấm phát hành hoặc chiếu tại Việt Nam, kèm năm, quốc gia sản xuất và lý do bị cấm Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách phim bị cấm phát hành tại Việt Nam | ListBase",
+    "seo_description": "Download Danh sách phim bị cấm phát hành tại Việt Nam — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_sách_phim_bị_cấm_phát_hành_tại_Việt_Nam"
+    ]
+  }
+}
