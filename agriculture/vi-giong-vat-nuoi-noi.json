@@ -1,0 +1,416 @@
+{
+  "id": "vi-giong-vat-nuoi-noi",
+  "name": "Danh sách giống vật nuôi bản địa Việt Nam",
+  "title": "Danh sách giống vật nuôi bản địa Việt Nam",
+  "description": "Các giống vật nuôi nội địa của Việt Nam (trâu, bò, ngựa, dê, cừu, lợn, gà, vịt...) phân theo nhóm loài",
+  "category": "agriculture",
+  "source": "https://vi.wikipedia.org/wiki/Giống_vật_nuôi_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Giống_vật_nuôi_Việt_Nam",
+  "updated": "2026-10",
+  "record_count": 95,
+  "columns": [
+    {
+      "key": "breed",
+      "label": "Breed",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "breed": "Trâu nội",
+      "group": "Giống trâu"
+    },
+    {
+      "breed": "Trâu Ngố",
+      "group": "Giống trâu"
+    },
+    {
+      "breed": "Trâu Bảo Yên",
+      "group": "Giống trâu"
+    },
+    {
+      "breed": "Trâu Langbiang",
+      "group": "Giống trâu"
+    },
+    {
+      "breed": "Bò Vàng",
+      "group": "Giống bò"
+    },
+    {
+      "breed": "Bò H'Mông",
+      "group": "Giống bò"
+    },
+    {
+      "breed": "Bò U đầu rìu",
+      "group": "Giống bò"
+    },
+    {
+      "breed": "Bò Phú Yên",
+      "group": "Giống bò"
+    },
+    {
+      "breed": "Bò Bảy Núi",
+      "group": "Giống bò"
+    },
+    {
+      "breed": "Bò lai",
+      "group": "Giống bò"
+    },
+    {
+      "breed": "Ngựa nội",
+      "group": "Giống ngựa"
+    },
+    {
+      "breed": "Ngựa bạch",
+      "group": "Giống ngựa"
+    },
+    {
+      "breed": "Ngựa Phú Yên",
+      "group": "Giống ngựa"
+    },
+    {
+      "breed": "Dê cỏ",
+      "group": "Giống dê"
+    },
+    {
+      "breed": "Dê Bách Thảo",
+      "group": "Giống dê"
+    },
+    {
+      "breed": "Cừu Phan Rang",
+      "group": "Giống cừu"
+    },
+    {
+      "breed": "Lợn Táp Ná",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn đen Lũng Pù",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn Mường Khương",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn Mường Lay",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn ỉ",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn Móng Cái",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn lửng",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn mán",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn Mẹo",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn cỏ",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn cắp nách",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn Bản",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn Bảo Lạc",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn Hạ Lang",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn Hương",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn sóc",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn Khùa",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn Vân Pa",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn Lang Hồng",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn Phú Khánh",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn Kiềng Sắt",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn Bồ Xụ",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn Ba Xuyên",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Lợn Thuộc Nhiêu",
+      "group": "Giống lợn"
+    },
+    {
+      "breed": "Gà ri",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà Re",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà ác",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà Okê",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà Tò",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà Tè",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà mía",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà Móng",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà Hồ",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà H'Mông",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà nòi",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà tre",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà kiến",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà Tàu vàng",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà Đông Tảo",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà Liên Minh",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà Lạc Thủy",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà Tiên Yên",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà Văn Phú",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà đồi Yên Thế",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà ri Ninh Hòa",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà râu Cái Chiên",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà chọi Bình Định",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà chín cựa",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà cáy củm",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà lông chân",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà Cao Lãnh",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà Chợ Lách",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà tre Tân Châu",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà ta lai",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà VCN",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà cải tiến",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà Phù Lưu Tế",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Gà Ma hoàng",
+      "group": "Giống gà"
+    },
+    {
+      "breed": "Vịt cỏ",
+      "group": "Giống vịt"
+    },
+    {
+      "breed": "Vịt bầu",
+      "group": "Giống vịt"
+    },
+    {
+      "breed": "Vịt bầu Minh Hương",
+      "group": "Giống vịt"
+    },
+    {
+      "breed": "Vịt Pất Lài",
+      "group": "Giống vịt"
+    },
+    {
+      "breed": "Vịt Sín Chéng",
+      "group": "Giống vịt"
+    },
+    {
+      "breed": "Vịt Kỳ Lừa",
+      "group": "Giống vịt"
+    },
+    {
+      "breed": "Vịt Cổ Lũng",
+      "group": "Giống vịt"
+    },
+    {
+      "breed": "Vịt cỏ Vân Đình",
+      "group": "Giống vịt"
+    },
+    {
+      "breed": "Vịt Bạch Tuyết",
+      "group": "Giống vịt"
+    },
+    {
+      "breed": "Vịt Đại Xuyên",
+      "group": "Giống vịt"
+    },
+    {
+      "breed": "Vịt cao sản",
+      "group": "Giống vịt"
+    },
+    {
+      "breed": "Ngan nội",
+      "group": "Giống ngan"
+    },
+    {
+      "breed": "Ngỗng cỏ",
+      "group": "Giống ngỗng"
+    },
+    {
+      "breed": "Ngỗng Xám",
+      "group": "Giống ngỗng"
+    },
+    {
+      "breed": "Ngỗng sư tử",
+      "group": "Giống ngỗng"
+    },
+    {
+      "breed": "Bồ câu ta",
+      "group": "Giống chim"
+    },
+    {
+      "breed": "Chim cút",
+      "group": "Giống chim"
+    },
+    {
+      "breed": "Thỏ ta",
+      "group": "Giống thỏ"
+    },
+    {
+      "breed": "Thỏ đen",
+      "group": "Giống thỏ"
+    },
+    {
+      "breed": "Thỏ xám",
+      "group": "Giống thỏ"
+    },
+    {
+      "breed": "Ong nội",
+      "group": "Giống Ong"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách giống vật nuôi bản địa Việt Nam - Free Download",
+    "description": "Các giống vật nuôi nội địa của Việt Nam (trâu, bò, ngựa, dê, cừu, lợn, gà, vịt...) phân theo nhóm loài Contains 95 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách giống vật nuôi bản địa Việt Nam | ListBase",
+    "seo_description": "Download Danh sách giống vật nuôi bản địa Việt Nam — 95 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 95 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Giống_vật_nuôi_Việt_Nam"
+    ]
+  }
+}

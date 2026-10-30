@@ -1,12 +1,12 @@
 {
   "lang": "vi",
-  "generated": "2026-10-30T02:25:49.278Z",
-  "total_datasets": 567,
-  "total_records": 128099,
+  "generated": "2026-10-30T02:25:57.301Z",
+  "total_datasets": 568,
+  "total_records": 128194,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -208,6 +208,29 @@
         "xlsx": {
           "name": "vi-giong-lua_VI.xlsx",
           "size": 23779
+        }
+      }
+    },
+    {
+      "id": "vi-giong-vat-nuoi-noi",
+      "name": "Danh sách giống vật nuôi bản địa Việt Nam",
+      "category": "agriculture",
+      "record_count": 95,
+      "columns": [
+        "breed",
+        "group"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Giống_vật_nuôi_Việt_Nam",
+      "updated": "2026-10",
+      "size": 8707,
+      "files": {
+        "csv": {
+          "name": "vi-giong-vat-nuoi-noi_VI.csv",
+          "size": 3018
+        },
+        "xlsx": {
+          "name": "vi-giong-vat-nuoi-noi_VI.xlsx",
+          "size": 8630
         }
       }
     },
