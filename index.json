@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-30T02:25:41.831Z",
-  "total_datasets": 566,
-  "total_records": 128065,
+  "generated": "2026-10-30T02:25:49.278Z",
+  "total_datasets": 567,
+  "total_records": 128099,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -652,6 +652,38 @@
         "xlsx": {
           "name": "vi-rap-chieu-phim_VI.xlsx",
           "size": 7726
+        }
+      }
+    },
+    {
+      "id": "vi-34-tinh-thanh-chi-tieu-kinh-te-2024",
+      "name": "Chỉ tiêu kinh tế – xã hội của 34 tỉnh thành sau sáp nhập (2024)",
+      "category": "economy",
+      "record_count": 34,
+      "columns": [
+        "province",
+        "area_km2",
+        "area_rank",
+        "population",
+        "population_rank",
+        "grdp_2024_million_vnd",
+        "grdp_rank",
+        "budget_revenue_million_vnd",
+        "budget_revenue_rank",
+        "avg_income_2024_million_vnd_year",
+        "avg_income_rank"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Sáp_nhập_tỉnh,_thành_Việt_Nam_2025",
+      "updated": "2026-10",
+      "size": 15412,
+      "files": {
+        "csv": {
+          "name": "vi-34-tinh-thanh-chi-tieu-kinh-te-2024_VI.csv",
+          "size": 3191
+        },
+        "xlsx": {
+          "name": "vi-34-tinh-thanh-chi-tieu-kinh-te-2024_VI.xlsx",
+          "size": 9553
         }
       }
     },
