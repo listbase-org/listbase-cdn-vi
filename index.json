@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-29T02:12:21.174Z",
-  "total_datasets": 565,
-  "total_records": 127960,
+  "generated": "2026-10-30T02:25:41.831Z",
+  "total_datasets": 566,
+  "total_records": 128065,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -780,6 +780,35 @@
         "xlsx": {
           "name": "vi-khu-kinh-te_VI.xlsx",
           "size": 7630
+        }
+      }
+    },
+    {
+      "id": "vi-ngan-hang-thuong-mai-von-dieu-le",
+      "name": "Danh sách ngân hàng tại Việt Nam theo loại hình và vốn điều lệ",
+      "category": "economy",
+      "record_count": 105,
+      "columns": [
+        "name",
+        "short_or_english_name",
+        "type",
+        "country",
+        "charter_capital",
+        "capital_unit",
+        "website_headquarters",
+        "parent_bank"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_ngân_hàng_tại_Việt_Nam",
+      "updated": "2026-10",
+      "size": 52252,
+      "files": {
+        "csv": {
+          "name": "vi-ngan-hang-thuong-mai-von-dieu-le_VI.csv",
+          "size": 29604
+        },
+        "xlsx": {
+          "name": "vi-ngan-hang-thuong-mai-von-dieu-le_VI.xlsx",
+          "size": 15408
         }
       }
     },

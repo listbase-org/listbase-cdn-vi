@@ -1,0 +1,1116 @@
+{
+  "id": "vi-ngan-hang-thuong-mai-von-dieu-le",
+  "name": "Danh sách ngân hàng tại Việt Nam theo loại hình và vốn điều lệ",
+  "title": "Danh sách ngân hàng tại Việt Nam theo loại hình và vốn điều lệ",
+  "description": "Danh sách ngân hàng chính sách, ngân hàng thương mại nhà nước, thương mại cổ phần, ngân hàng 100% vốn nước ngoài và liên doanh tại Việt Nam kèm vốn điều lệ và hội sở",
+  "category": "economy",
+  "source": "https://vi.wikipedia.org/wiki/Danh_sách_ngân_hàng_tại_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_sách_ngân_hàng_tại_Việt_Nam",
+  "updated": "2026-10",
+  "record_count": 105,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "short_or_english_name",
+      "label": "Short Or English Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "charter_capital",
+      "label": "Charter Capital",
+      "type": "number"
+    },
+    {
+      "key": "capital_unit",
+      "label": "Capital Unit",
+      "type": "string"
+    },
+    {
+      "key": "website_headquarters",
+      "label": "Website Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "parent_bank",
+      "label": "Parent Bank",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Chính sách xã hội",
+      "short_or_english_name": "NHCSXH/VBSP",
+      "type": "Ngân hàng chính sách",
+      "country": "Việt Nam",
+      "charter_capital": 24270.5,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "vbsp.org.vn 169 phố Linh Đường, phường Hoàng Mai, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Phát triển Việt Nam",
+      "short_or_english_name": "VDB",
+      "type": "Ngân hàng chính sách",
+      "country": "Việt Nam",
+      "charter_capital": 15086,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "vdb.gov.vn 25A phố Cát Linh, phường Ô Chợ Dừa, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Nông nghiệp và Phát triển Nông thôn Việt Nam",
+      "short_or_english_name": "Agribank",
+      "type": "Ngân hàng thương mại do Nhà nước làm chủ sở hữu",
+      "country": "Việt Nam",
+      "charter_capital": 51639,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "agribank.com.vn 2 Láng Hạ, phường Giảng Võ, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Ngoại thương Việt Nam",
+      "short_or_english_name": "Vietcombank, VCB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 83557,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "vietcombank.com.vn/ Vietcombank Tower, 198 Trần Quang Khải, phường Hoàn Kiếm, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Việt Nam Thịnh Vượng",
+      "short_or_english_name": "VPBank, VPB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 79339,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "vpbank.com.vn VPBank Tower, 89 Láng Hạ, phường Đống Đa, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Kỹ Thương Việt Nam",
+      "short_or_english_name": "Techcombank, TCB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 70862,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "techcombank.com Số 6 Quang Trung, phường Cửa Nam, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Đầu tư và Phát triển Việt Nam",
+      "short_or_english_name": "BIDV, BID",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 70214,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "bidv.com.vn BIDV Tower, 194 Trần Quang Khải, phường Hoàn Kiếm, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Quân đội",
+      "short_or_english_name": "MBBank, MBB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 61023,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "mbbank.com.vn MB Grand Tower, 18 Lê Văn Lương, phường Yên Hòa, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Công Thương Việt Nam",
+      "short_or_english_name": "VietinBank, CTG",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 53700,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "vietinbank.vn 108 Trần Hưng Đạo, phường Cửa Nam, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Á Châu",
+      "short_or_english_name": "ACB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 51367,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "acb.com.vn Lưu trữ ngày 26 tháng 1 năm 2021 tại Wayback Machine 442 Nguyễn Thị Minh Khai, phường Bàn Cờ, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Sài Gòn – Hà Nội",
+      "short_or_english_name": "SHB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 40657,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "shb.com.vn 77 Trần Hưng Đạo, phường Cửa Nam, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Phát triển Thành phố Hồ Chí Minh",
+      "short_or_english_name": "HDBank, HDB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 35101,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "hdbank.com.vn 25Bis Nguyễn Thị Minh Khai, phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Quốc tế Việt Nam",
+      "short_or_english_name": "VIB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 34040,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "vib.com.vn 111A Pasteur, phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Lộc Phát Việt Nam",
+      "short_or_english_name": "LPBank, LPB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 29873,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "lpbank.com.vn Hội sở: Số 8, ngõ 1, đường Tôn Đức Thắng, phường Hoa Lư, Ninh Bình Địa điểm làm việc chính: LPB Tower, 210 đường Trần Quang Khải, phường Hoàn Kiếm, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Đông Nam Á",
+      "short_or_english_name": "SeABank, SSB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 28450,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "seabank.com.vn BRG Tower, 198 Trần Quang Khải, phường Hoàn Kiếm, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Tiên Phong",
+      "short_or_english_name": "TPBank, TPB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 26420,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "tpb.vn 57 Lý Thường Kiệt, phường Cửa Nam, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Hàng hải Việt Nam",
+      "short_or_english_name": "MSB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 26000,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "msb.com.vn Lưu trữ ngày 12 tháng 5 năm 2008 tại Wayback Machine ROX Tower, 54A Nguyễn Chí Thanh, phường Láng, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Phương Đông",
+      "short_or_english_name": "OCB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 24658,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "ocb.com.vn The Hallmark, 15 Trần Bạch Đằng, phường An Khánh, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Sài Gòn",
+      "short_or_english_name": "SCB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 20020,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "https://www.scb.com.vn/ 242 Cống Quỳnh, phường Bến Thành, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Sài Gòn Tài Lộc",
+      "short_or_english_name": "Sacombank, STB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 18852,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "sacombank.com.vn 43-45-47 Nguyễn Thị Minh Khai, phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Xuất Nhập khẩu Việt Nam",
+      "short_or_english_name": "Eximbank, EIB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 18688,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "eximbank.com.vn 27-29 Lý Thái Tổ, phường Hoàn Kiếm, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Nam Á",
+      "short_or_english_name": "Nam A Bank, NAB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 18007,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "namabank.com.vn 201 - 203 Cách Mạng Tháng Tám, phường Bàn Cờ, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Quốc Dân",
+      "short_or_english_name": "NCB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 11780,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "ncb-bank.vn 25 Lê Đại Hành, phường Hai Bà Trưng, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "An Bình",
+      "short_or_english_name": "ABBANK, ABB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 10350,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "abbank.vn Lưu trữ ngày 7 tháng 12 năm 2025 tại Wayback Machine Tòa nhà Geleximco, 36 Hoàng Cầu, phường Ô Chợ Dừa, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Bắc Á",
+      "short_or_english_name": "Bac A Bank, BAB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 9580,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "baca-bank.vn 117 Quang Trung, phường Thành Vinh, Nghệ An",
+      "parent_bank": ""
+    },
+    {
+      "name": "Đại Chúng Việt Nam",
+      "short_or_english_name": "PVCombank",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 9000,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "pvcombank.com.vn 22 Ngô Quyền, phường Cửa Nam, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Việt Nam Thương Tín",
+      "short_or_english_name": "VietBank, VBB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 8210,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "vietbank.com.vn 47 Trần Hưng Đạo, phường Phú Lợi, Cần Thơ",
+      "parent_bank": ""
+    },
+    {
+      "name": "Bản Việt",
+      "short_or_english_name": "BVBank, BVB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 6408,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "bvbank.net.vn 412 Nguyễn Thị Minh Khai, phường Bàn Cờ, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Việt Á",
+      "short_or_english_name": "Viet A Bank, VAB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 5400,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "vietabank.com.vn 105 Chu Văn An, phường Hà Đông, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Thịnh vượng và Phát triển",
+      "short_or_english_name": "PGBank, PGB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 5000,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "pgbank.com.vn Tòa nhà Thành Công, Ô đất P-D17 Khu đô thị Cầu Giấy, phường Cầu Giấy, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Kiên Long",
+      "short_or_english_name": "Kienlongbank, KLB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 3653,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "kienlongbank.com Số 40-42-44 Phạm Hồng Thái, phường Rạch Giá, An Giang",
+      "parent_bank": ""
+    },
+    {
+      "name": "Sài Gòn Công Thương",
+      "short_or_english_name": "Saigonbank, SGB",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 3388,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "saigonbank.com.vn 2C Phó Đức Chính, phường Bến Thành, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Bảo Việt",
+      "short_or_english_name": "Baoviet Bank",
+      "type": "Ngân hàng thương mại cổ phần đại chúng",
+      "country": "Việt Nam",
+      "charter_capital": 3150,
+      "capital_unit": "tỷ đồng",
+      "website_headquarters": "baovietbank.vn Tòa nhà Corner Stone, 16 Phan Chu Trinh, phường Cửa Nam, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Ngoại thương Công nghệ số",
+      "short_or_english_name": "VCBNeo",
+      "type": "Ngân hàng thương mại trách nhiệm hữu hạn một thành viên thuộc diện đã được chuyển giao bắt buộc do các ngân hàng thương mại khác làm chủ sở hữu",
+      "country": "Việt Nam",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "vcbneo.com.vn 10 phố Thiền Quang, phường Hai Bà Trưng, Hà Nội",
+      "parent_bank": "Vietcombank"
+    },
+    {
+      "name": "Việt Nam Hiện Đại",
+      "short_or_english_name": "MBV",
+      "type": "Ngân hàng thương mại trách nhiệm hữu hạn một thành viên thuộc diện đã được chuyển giao bắt buộc do các ngân hàng thương mại khác làm chủ sở hữu",
+      "country": "Việt Nam",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "mbv.com.vn 3 Liễu Giai, phường Ngọc Hà, Hà Nội",
+      "parent_bank": "MB"
+    },
+    {
+      "name": "Kỷ Nguyên Thịnh Vượng",
+      "short_or_english_name": "GPBank",
+      "type": "Ngân hàng thương mại trách nhiệm hữu hạn một thành viên thuộc diện đã được chuyển giao bắt buộc do các ngân hàng thương mại khác làm chủ sở hữu",
+      "country": "Việt Nam",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "gpbank.com.vn Lưu trữ ngày 29 tháng 1 năm 2009 tại Wayback Machine 19 Bà Triệu, phường Cửa Nam, Hà Nội",
+      "parent_bank": "VPBank"
+    },
+    {
+      "name": "Số Vikki",
+      "short_or_english_name": "Vikki Bank",
+      "type": "Ngân hàng thương mại trách nhiệm hữu hạn một thành viên thuộc diện đã được chuyển giao bắt buộc do các ngân hàng thương mại khác làm chủ sở hữu",
+      "country": "Việt Nam",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "vikkibank.vn 72 phố Lý Thường Kiệt, phường Cửa Nam, Hà Nội",
+      "parent_bank": "HDBank"
+    },
+    {
+      "name": "Woori Việt Nam",
+      "short_or_english_name": "Woori Bank",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Hàn Quốc",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "woori.com.vn Tòa nhà Keangnam Hanoi Landmark Tower, E6 đường Phạm Hùng, phường Yên Hòa, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "UOB Việt Nam",
+      "short_or_english_name": "UOB",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Singapore",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "uob.com.vn Tòa nhà Central Plaza, 17 Lê Duẩn, phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "HSBC Việt Nam",
+      "short_or_english_name": "HSBC",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Anh Quốc",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "hsbc.com.vn Tòa nhà Metropolitan, 235 Đồng Khởi, phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Public Việt Nam",
+      "short_or_english_name": "Public Bank",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Malaysia",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "publicbank.com.vn Tòa nhà Hanoi Tungshing Square, 2 Ngô Quyền, phường Hoàn Kiếm, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Standard Chartered Việt Nam",
+      "short_or_english_name": "Standard Chartered",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Anh Quốc",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "sc.com /vn Tòa nhà Capital Place, 29 Liễu Giai, phường Ngọc Hà, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Shinhan Việt Nam",
+      "short_or_english_name": "Shinhan Bank",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Hàn Quốc",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "shinhan.com.vn Tòa nhà The Mett, số 15, Đường Trần Bạch Đằng, Phường An Khánh, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "CIMB Việt Nam",
+      "short_or_english_name": "CIMB Bank",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Malaysia",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "cimbbank.com.vn Tòa nhà Corner Stone, 16 Phan Chu Trinh, phường Cửa Nam, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Hong Leong Việt Nam",
+      "short_or_english_name": "HongLeong Bank",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Malaysia",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "hlb.com.my /vn Centec Tower, 72-74 Nguyễn Thị Minh Khai, phường Xuân Hòa, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "ANZ Việt Nam",
+      "short_or_english_name": "ANZ",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Úc",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "anz.com /vietnam /vn Tòa nhà Capital Place, 29 Liễu Giai, phường Ngọc Hà, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Citibank Việt Nam",
+      "short_or_english_name": "Citibank",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Hoa Kỳ",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "citibank.com.vn Trụ sở trước chuyển giao: Tòa nhà Sunwah, 115 Nguyễn Huệ, phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "JP Morgan Chase",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Hoa Kỳ",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "jpmorganchase.com Tòa nhà The Nexus, 3A-3B Tôn Đức Thắng, phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Wells Fargo",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Hoa Kỳ",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "wellsfargo.com Tòa nhà Corner Stone, 16 Phan Chu Trinh, phường Cửa Nam, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Raiffeisen International",
+      "short_or_english_name": "RBI",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Áo",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "rbinternational.com /en Habour View Tower, 35 Nguyễn Huệ, Phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Ấn Độ",
+      "short_or_english_name": "Bank of India, BOI",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Ấn Độ",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "bankofindiavn.com.vn Cao ốc Saigon Trade Center, 37 Tôn Đức Thắng, phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Đài Loan",
+      "short_or_english_name": "Bank of Taiwan, BOT",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Đài Loan",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "www.bot.com.tw /en Royal Tower B, Royal Centre, 235 Nguyễn Văn Cừ, Phường Cầu Ông Lãnh, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "CTBC",
+      "short_or_english_name": "Chinatrust Bank",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Đài Loan",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "ctbcbank.com Chi nhánh TP.HCM: Tòa nhà MPlaza, 39 Lê Duẩn, phường Sài Gòn Văn phòng Hà Nội: Tòa nhà Lotte Center Hanoi, 54 Liễu Giai, Phường Giảng Võ",
+      "parent_bank": ""
+    },
+    {
+      "name": "Cathay United",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Đài Loan",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "cathaybk.com.tw /vn /hcmc /vi-vn Chi nhánh TP.HCM: Tòa nhà Lim Tower 3, 29A Nguyễn Đình Chiểu, phường Sài Gòn Văn phòng Hà Nội: Tòa nhà Hanoi Tower, 49 Hai Bà Trưng, phường Cửa Nam Văn phòng Quảng Nam: Tòa nhà Viettel Quảng Nam, 121 Hùng Vương, phường Tam Kỳ, Đà Nẵng",
+      "parent_bank": ""
+    },
+    {
+      "name": "Taipei Fubon",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Đài Loan",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "www.fubon.com Chi nhánh TP.HCM: Tháp 2, Tòa nhà Saigon Centre, số 67 Đường Lê Lợi, Phường Sài Gòn Chi nhánh Hà Nội: Tòa nhà Grand Plaza-Charmvit, 117 Trần Duy Hưng, Phường Yên Hòa Chi nhánh Bình Dương: Tòa nhà Minh Sáng Plaza, Số 888 Đại lộ Bình Dương, Phường Thuận Giao, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "First Commercial",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Đài Loan",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "Chi nhánh TP.HCM : Tòa nhà A&B, Số 76A Lê Lai, Phường Bến Thành Chi nhánh Hà Nội : Tòa nhà Charmvit Tower, Số 117 đường Trần Duy Hưng, Phường Yên Hòa",
+      "parent_bank": ""
+    },
+    {
+      "name": "E.Sun Commercial",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Đài Loan",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "www.esunbank.com/en Tòa nhà Trung tâm Dịch vụ Amata, Khu Thương mại Amata, phường Long Bình, Đồng Nai",
+      "parent_bank": ""
+    },
+    {
+      "name": "Hua Nan Commercial",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Đài Loan",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "www.hncb.com.tw Chi nhánh TP.HCM: Tháp Royal, 235 Nguyễn Văn Cừ, Phường Cầu Ông Lãnh Văn phòng Hà Nội: Tòa nhà DMC, 535 Kim Mã, Phường Giảng Võ",
+      "parent_bank": ""
+    },
+    {
+      "name": "Quốc tế Đài Tân",
+      "short_or_english_name": "Taishin International Bank",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Đài Loan",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "www.taishinbank.com.tw /TSB /en Tòa nhà Vinatex Tower, 10 Nguyễn Huệ, phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Sinopac",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Đài Loan",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "global.sinopac.com /sinopacGB /en Tòa nhà Friendship Tower, 31 Lê Duẩn, phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Union Bank of Taiwan",
+      "short_or_english_name": "UBOT",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Đài Loan",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "web.ubot.com.tw /english /representative _office.asp Văn phòng TP.HCM: Tòa nhà Royal Tower, 235 Nguyễn Văn Cừ, phường Cầu Ông Lãnh Văn phòng Hà Nội: Tòa nhà Pacific Place, 83B Lý Thường Kiệt, phường Cửa Nam",
+      "parent_bank": ""
+    },
+    {
+      "name": "Shanghai Commercial & Savings",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Đài Loan",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "Chi nhánh Đồng Nai : Cao ốc Sonadezi, Số 1, đường 1, KCN Biên Hòa 1, phường Trấn Biên Văn phòng Bắc Ninh : Khu nhà ở và dịch vụ công cộng Việt Long, số 30, đường Lý Thái Tổ, Phường Kinh Bắc",
+      "parent_bank": ""
+    },
+    {
+      "name": "Taiwan Shin Kong Commercial",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Đài Loan",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "www.skbank.com.tw /english Toà nhà B, Lô D-01 đường Tân Thuận, phường Tân Thuận, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Deutsche Việt Nam",
+      "short_or_english_name": "DB",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Đức",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "db.com /vietnam Tòa nhà Deutsches Haus TP. Hồ Chí Minh, 33 Lê Duẩn, phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Commerzbank",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Đức",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "commerzbank.de Tòa nhà Deutsches Haus TP. Hồ Chí Minh, 33 Lê Duẩn, phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Landesbank Baden-Wuerttemberg",
+      "short_or_english_name": "LBBW",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Đức",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "lbbw.de Tòa nhà Corner Stone, 16 Phan Chu Trinh, phường Cửa Nam, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "ING",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Hà Lan",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "ingwb.com /en /network /asia-pacific /vietnam Tòa nhà Thaiholdings, 210 Trần Quang Khải, Phường Hoàn Kiếm, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Kookmin",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Hàn Quốc",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "global.kbstar.com /vtn /main Chi nhánh TP.HCM: Tòa nhà MPlaza, 39 Lê Duẩn, phường Sài Gòn Chi nhánh Hà Nội: Tòa nhà Keangnam Hanoi Landmark Tower, E6 đường Phạm Hùng, phường Yên Hòa",
+      "parent_bank": ""
+    },
+    {
+      "name": "KEB Hana",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Hàn Quốc",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "kebhana.com Chi nhánh TP.HCM: Tòa nhà The Hallmark, 15 Trần Bạch Đằng, phường An Khánh Chi nhánh Hà Nội: Trung tâm thương mại Daeha, 360 Kim Mã, phường Giảng Võ",
+      "parent_bank": ""
+    },
+    {
+      "name": "Công nghiệp Hàn Quốc",
+      "short_or_english_name": "Industrial Bank of Korea, IBK",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Hàn Quốc",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "global.ibk.co.kr /vi / Chi nhánh TP.HCM: Tòa nhà Diamond Plaza, 34 Lê Duẩn, phường Sài Gòn Chi nhánh Hà Nội: Tòa nhà Keangnam Hanoi Landmark Tower, E6 đường Phạm Hùng, phường Yên Hòa",
+      "parent_bank": ""
+    },
+    {
+      "name": "Nonghyup",
+      "short_or_english_name": "NHBank",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Hàn Quốc",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "www.nhbank.com Tòa nhà Lotte Center Hà Nội, 54 đường Liễu Giai, Phường Giảng Võ, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Phát triển Hàn Quốc",
+      "short_or_english_name": "Korea Development Bank, KDB",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Hàn Quốc",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "kdb.co.kr Tòa nhà MPlaza, 39 Lê Duẩn, phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Xuất nhập khẩu Hàn Quốc",
+      "short_or_english_name": "Korea Eximbank, KEXIM",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Hàn Quốc",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "koreaexim.go.kr Toà nhà Daiha, 360 Kim Mã, phường Giảng Võ, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Busan",
+      "short_or_english_name": "BNK",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Hàn Quốc",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "eng.bnkfg.com Chi nhánh TP.HCM: Tòa nhà MPlaza, 39 Lê Duẩn, phường Sài Gòn Văn phòng Hà Nội: Tòa đông, Lotte Center Hà Nội, 54 Liễu Giai, phường Ngọc Hà",
+      "parent_bank": ""
+    },
+    {
+      "name": "iM (Daegu)",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Hàn Quốc",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "imbank.co.kr Mplaza Saigon, Số 39 Lê Duẩn, Phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Malayan Banking Berhad",
+      "short_or_english_name": "Maybank, MBB",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Malaysia",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "maybank.com /en /worldwide /vietnam.page Toà nhà Pearl 5, 5 Lê Quý Đôn, phường Xuân Hoà, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "MUFG",
+      "short_or_english_name": "Mitsubishi UFJ Financial Group",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Nhật Bản",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "bk.mufg.jp Chi nhánh TP.HCM: The Nexus, 3A-3B Tôn Đức Thắng, phường Sài Gòn Chi nhánh Hà Nội: Tòa nhà Capital Place, 29 Liễu Giai, phường Ngọc Hà",
+      "parent_bank": ""
+    },
+    {
+      "name": "Sumitomo Mitsui Banking Corporation",
+      "short_or_english_name": "SMBC",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Nhật Bản",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "smbc.co.jp /asia /vietnam Chi nhánh TP.HCM: Tòa nhà Times Square, 22-36 Nguyễn Huệ, phường Sài Gòn Chi nhánh Hà Nội: Trung tâm Lotte Hà Nội, 54 Liễu Giai, phường Giảng Võ",
+      "parent_bank": ""
+    },
+    {
+      "name": "Mizuho",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Nhật Bản",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "mizuhogroup.com /asia-pacific /vietnam Chi nhánh TP.HCM: Tòa nhà Sunwah, 115 Nguyễn Huệ, phường Sài Gòn Chi nhánh Hà Nội: 63 Lý Thái Tổ, phường Hoàn Kiếm",
+      "parent_bank": ""
+    },
+    {
+      "name": "Resona",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Nhật Bản",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "www.resonabank.co.jp Tòa nhà CornerStone, số 16 Phan Chu Trinh, Phường Cửa Nam, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Hiroshima",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Nhật Bản",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "hirogin.co.jp Pacific Place, số 83B phố Lý Thường Kiệt, Phường Cửa Nam, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Hợp tác quốc tế Nhật Bản",
+      "short_or_english_name": "JBIC",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Nhật Bản",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "www.jbic.go.jp /en /about /hanoi.html Tòa nhà CornerStone, 16 Phan Chu Trinh, Phường Cửa Nam, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Joyo",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Nhật Bản",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "www.joyobank.co.jp Tòa nhà Mặt Trời Sông Hồng, 23 Phan Chu Trinh, Phường Cửa Nam, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Juroku",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Nhật Bản",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "www.juroku.co.jp Pacific Place, 83B Lý Thường Kiệt, Phường Cửa Nam, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Senshu Ikeda",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Nhật Bản",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "www.sihd-bk.jp Sunwah Tower, 115 Nguyễn Huệ, Phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "BNP Paribas",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Pháp",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "apac.bnpparibas /en /vietnam Chi nhánh TP.HCM: Tòa nhà Saigon Tower, 29 Lê Duẩn, phường Sài Gòn Chi nhánh Hà Nội: Pan Pacific Hà Nội, số 1, đường Thanh Niên, phường Ba Đình",
+      "parent_bank": ""
+    },
+    {
+      "name": "BPCE IOM",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Pháp",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "bpce-vietnam.com Chi nhánh TP.HCM: Tòa nhà Pearl 5, 5 Lê Quý Đôn, phường Xuân Hòa Văn phòng Hà Nội: Tòa nhà Prime Center, 53 Quang Trung, phường Hai Bà Trưng",
+      "parent_bank": ""
+    },
+    {
+      "name": "Société Générale",
+      "short_or_english_name": "SocGen",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Pháp",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "societegenerale.com BIDV Tower, 194 Trần Quang Khải, phường Hoàn Kiếm, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "ODDO BHF",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Pháp",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "oddo-bhf.com /locations /ho-chi-minh-city Tháp Harbour View, 35 Nguyễn Huệ, phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Qatar National",
+      "short_or_english_name": "QNB",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Qatar",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "qnb.com Tòa Nhà Times Square, 57-69F Đồng Khởi, Phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "DBS",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Singapore",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "dbs.com /vn Chi nhánh TP.HCM: Sai Gon Centre, 65 Lê Lợi, Phường Sài Gòn Văn phòng Hà Nội: TN Pacific Place, số 83B Lý Thường Kiệt, Phường Cửa Nam",
+      "parent_bank": ""
+    },
+    {
+      "name": "Oversea Chinese Banking Corporation",
+      "short_or_english_name": "OCBC",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Singapore",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "ocbc.com Tòa nhà Saigon Tower, 29 Lê Duẩn, phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Đại chúng Kasikornbank",
+      "short_or_english_name": "KBank",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Thái Lan",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "www.kasikornbank.com.vn Chi nhánh TP.HCM: Tòa nhà Sunwah, 115 Nguyễn Huệ, phường Sài Gòn Văn phòng Hà Nội: Tòa nhà Pacific Place, 83B Lý Thường Kiệt, phường Cửa Nam",
+      "parent_bank": ""
+    },
+    {
+      "name": "Siam Commercial",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Thái Lan",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "scb.co.th /vn /corporate-banking Tòa nhà MPlaza, 39 Lê Duẩn, phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Bangkok Đại chúng",
+      "short_or_english_name": "Bangkok Bank",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Thái Lan",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "bangkokbank.com Chi nhánh TP.HCM: Tháp Harbour View, 35 Nguyễn Huệ, phường Sài Gòn Chi nhánh Hà Nội: Trung tâm Quốc tế, 17 Ngô Quyền, phường Cửa Nam",
+      "parent_bank": ""
+    },
+    {
+      "name": "Công thương Trung Quốc",
+      "short_or_english_name": "ICBC",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Trung Quốc",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "hanoi.icbc.com.cn Tòa nhà Capital Place, 29 Liễu Giai, phường Ngọc Hà, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Nông nghiệp Trung Quốc",
+      "short_or_english_name": "Agricultural Bank of China, AgBank",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Trung Quốc",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "www.vn.abchina.com Tòa nhà TNR, 54A Nguyễn Chí Thanh, Phường Láng, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Xây dựng Trung Quốc",
+      "short_or_english_name": "China Construction Bank, CCB",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Trung Quốc",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "vn.ccb.com /lng /hochiminh /old /en /index.shtml Sailing Tower, 111A đường Pasteur, Phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Bank of China (Hong Kong)",
+      "short_or_english_name": "BOCHK",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Trung Quốc",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "bankofchina.com.vn Chi nhánh TP.HCM: Tòa nhà Times Square, 22-36 Nguyễn Huệ, phường Sài Gòn và 57- 69F Đồng Khởi, phường Sài Gòn Văn phòng Hà Nội: Tòa nhà Capital Place, 29 Liễu Giai, phường Ngọc Hà",
+      "parent_bank": ""
+    },
+    {
+      "name": "Bank of Communications",
+      "short_or_english_name": "BankComm",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Trung Quốc",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "Chi nhánh Thành phố Hồ Chí Minh Vincom Center, số 72 Lê Thánh Tôn, Phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Intesa Sanpaolo",
+      "short_or_english_name": "",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Ý",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "intesasanpaolo.com 2 Bis 4-6 Lê Thánh Tôn, phường Sài Gòn, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Cơ quan đại diện thường trú Ngân hàng Phát triển châu Á",
+      "short_or_english_name": "ADB Vietnam Resident Mission",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Quốc tế",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "adb.org /vi /where-we-work /viet-nam Tòa nhà Corner Stone, 16 Phan Chu Trinh, phường Cửa Nam, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Chi nhánh Ngân hàng Thế giới tại Việt Nam",
+      "short_or_english_name": "WB",
+      "type": "Ngân hàng 100% vốn nước ngoài và chi nhánh, văn phòng đại diện ngân hàng nước ngoài tại Việt Nam",
+      "country": "Quốc tế",
+      "charter_capital": "",
+      "capital_unit": "",
+      "website_headquarters": "worldbank.org /vi /country /vietnam Tòa nhà 63 Lý Thái Tổ, phường Hoàn Kiếm, Hà Nội",
+      "parent_bank": ""
+    },
+    {
+      "name": "Indovina",
+      "short_or_english_name": "IVB",
+      "type": "Ngân hàng liên doanh",
+      "country": "Việt Nam",
+      "charter_capital": "165 triệu USD",
+      "capital_unit": "",
+      "website_headquarters": "https://www.indovinabank.com.vn/vi/ Lưu trữ ngày 1 tháng 7 năm 2019 tại Wayback Machine 97A Nguyễn Văn Trỗi, phường Phú Nhuận, TP.HCM",
+      "parent_bank": ""
+    },
+    {
+      "name": "Việt – Nga",
+      "short_or_english_name": "VRB",
+      "type": "Ngân hàng liên doanh",
+      "country": "Việt Nam",
+      "charter_capital": "168,5 triệu USD",
+      "capital_unit": "",
+      "website_headquarters": "http://www.vrbank.com.vn Lưu trữ ngày 22 tháng 10 năm 2009 tại Wayback Machine 75 Trần Hưng Đạo, phường Cửa Nam, Hà Nội",
+      "parent_bank": ""
+    }
+  ],
+  "meta": {
+    "title": "Danh sách ngân hàng tại Việt Nam theo loại hình và vốn điều lệ - Free Download",
+    "description": "Danh sách ngân hàng chính sách, ngân hàng thương mại nhà nước, thương mại cổ phần, ngân hàng 100% vốn nước ngoài và liên doanh tại Việt Nam kèm vốn điều lệ và hội sở Contains 105 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách ngân hàng tại Việt Nam theo loại hình và vốn điều lệ | ListBase",
+    "seo_description": "Download Danh sách ngân hàng tại Việt Nam theo loại hình và vốn điều lệ — 105 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 105 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_sách_ngân_hàng_tại_Việt_Nam"
+    ]
+  }
+}
