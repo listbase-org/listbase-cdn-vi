@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-02T02:34:19.809Z",
-  "total_datasets": 570,
-  "total_records": 128656,
+  "generated": "2026-11-02T02:34:26.538Z",
+  "total_datasets": 571,
+  "total_records": 128793,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -4119,6 +4119,32 @@
         "xlsx": {
           "name": "vi-ngon-ngu-the-gioi_VI.xlsx",
           "size": 22974
+        }
+      }
+    },
+    {
+      "id": "vi-tu-muon-tieng-phap-anh-nga",
+      "name": "Từ mượn tiếng Pháp, tiếng Anh và tiếng Nga trong tiếng Việt",
+      "category": "language",
+      "record_count": 137,
+      "columns": [
+        "ngon_ngu_goc",
+        "tu_goc",
+        "phien_am",
+        "tieng_viet",
+        "ghi_chu"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Từ_mượn_trong_tiếng_Việt",
+      "updated": "2026-11",
+      "size": 28584,
+      "files": {
+        "csv": {
+          "name": "vi-tu-muon-tieng-phap-anh-nga_VI.csv",
+          "size": 11625
+        },
+        "xlsx": {
+          "name": "vi-tu-muon-tieng-phap-anh-nga_VI.xlsx",
+          "size": 14405
         }
       }
     },
