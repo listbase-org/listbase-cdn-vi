@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-10-30T02:25:57.301Z",
-  "total_datasets": 568,
-  "total_records": 128194,
+  "generated": "2026-11-02T02:34:12.042Z",
+  "total_datasets": 569,
+  "total_records": 128601,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "language",
@@ -3377,6 +3377,33 @@
         "xlsx": {
           "name": "vi-tiem-chung-covid-19-theo-dia-phuong_VI.xlsx",
           "size": 9835
+        }
+      }
+    },
+    {
+      "id": "vi-anh-hung-luc-luong-vu-trang",
+      "name": "Danh sách Anh hùng Lực lượng vũ trang nhân dân",
+      "category": "history",
+      "record_count": 407,
+      "columns": [
+        "ho_va_ten",
+        "nam_sinh_nam_mat",
+        "dan_toc",
+        "que_quan",
+        "nam_phong",
+        "chuc_vu_thanh_tich"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_Anh_hùng_Lực_lượng_vũ_trang_nhân_dân",
+      "updated": "2026-11",
+      "size": 157415,
+      "files": {
+        "csv": {
+          "name": "vi-anh-hung-luc-luong-vu-trang_VI.csv",
+          "size": 96333
+        },
+        "xlsx": {
+          "name": "vi-anh-hung-luc-luong-vu-trang_VI.xlsx",
+          "size": 41646
         }
       }
     },
