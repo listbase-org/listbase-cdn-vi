@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-02T02:34:12.042Z",
-  "total_datasets": 569,
-  "total_records": 128601,
+  "generated": "2026-11-02T02:34:19.809Z",
+  "total_datasets": 570,
+  "total_records": 128656,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -926,6 +926,34 @@
         "xlsx": {
           "name": "vi-bo-truong-bo-giao-duc_VI.xlsx",
           "size": 8781
+        }
+      }
+    },
+    {
+      "id": "vi-trang-nguyen",
+      "name": "Danh sách Trạng nguyên Việt Nam",
+      "category": "education",
+      "record_count": 55,
+      "columns": [
+        "thu_tu",
+        "ten",
+        "nam_sinh_nam_mat",
+        "que",
+        "nam_do_trang_nguyen",
+        "doi_vua",
+        "ghi_chu"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Trạng_nguyên_Việt_Nam",
+      "updated": "2026-11",
+      "size": 15366,
+      "files": {
+        "csv": {
+          "name": "vi-trang-nguyen_VI.csv",
+          "size": 5386
+        },
+        "xlsx": {
+          "name": "vi-trang-nguyen_VI.xlsx",
+          "size": 10301
         }
       }
     },

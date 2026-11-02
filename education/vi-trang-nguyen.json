@@ -1,0 +1,556 @@
+{
+  "id": "vi-trang-nguyen",
+  "name": "Danh sách Trạng nguyên Việt Nam",
+  "title": "Danh sách Trạng nguyên Việt Nam",
+  "description": "Danh sách các Trạng nguyên trong lịch sử khoa cử Việt Nam: tên, năm sinh – năm mất, quê quán, năm đỗ, đời vua và ghi chú.",
+  "category": "education",
+  "source": "https://vi.wikipedia.org/wiki/Trạng_nguyên_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Trạng_nguyên_Việt_Nam",
+  "updated": "2026-11",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "thu_tu",
+      "label": "Thu Tu",
+      "type": "number"
+    },
+    {
+      "key": "ten",
+      "label": "Ten",
+      "type": "string"
+    },
+    {
+      "key": "nam_sinh_nam_mat",
+      "label": "Nam Sinh Nam Mat",
+      "type": "string"
+    },
+    {
+      "key": "que",
+      "label": "Que",
+      "type": "string"
+    },
+    {
+      "key": "nam_do_trang_nguyen",
+      "label": "Nam Do Trang Nguyen",
+      "type": "number"
+    },
+    {
+      "key": "doi_vua",
+      "label": "Doi Vua",
+      "type": "string"
+    },
+    {
+      "key": "ghi_chu",
+      "label": "Ghi Chu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "thu_tu": 1,
+      "ten": "Khương Công Phụ",
+      "nam_sinh_nam_mat": "731 - 805",
+      "que": "Thanh Hóa",
+      "nam_do_trang_nguyen": "780",
+      "doi_vua": "Đường Đức Tông",
+      "ghi_chu": "Trạng nguyên đầu tiên, làm đến tể tướng thời Đường."
+    },
+    {
+      "thu_tu": 2,
+      "ten": "Lê Văn Thịnh",
+      "nam_sinh_nam_mat": "1050 - 1096",
+      "que": "Bắc Ninh",
+      "nam_do_trang_nguyen": "1075",
+      "doi_vua": "Lý Nhân Tông",
+      "ghi_chu": "Trạng nguyên đầu tiên thời kì độc lập"
+    },
+    {
+      "thu_tu": 3,
+      "ten": "Mạc Hiển Tích",
+      "nam_sinh_nam_mat": "1060 - 1189",
+      "que": "Hải Phòng",
+      "nam_do_trang_nguyen": "1086",
+      "doi_vua": "Lý Nhân Tông",
+      "ghi_chu": "Tổ 5 đời của Trạng nguyên Mạc Đĩnh Chi."
+    },
+    {
+      "thu_tu": 4,
+      "ten": "Bùi Quốc Khái",
+      "nam_sinh_nam_mat": "1141 - 1234",
+      "que": "Hải Phòng",
+      "nam_do_trang_nguyen": "1185",
+      "doi_vua": "Lý Cao Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 5,
+      "ten": "Nguyễn Công Bình",
+      "nam_sinh_nam_mat": "",
+      "que": "Phú Thọ",
+      "nam_do_trang_nguyen": "1213",
+      "doi_vua": "Lý Huệ Tông",
+      "ghi_chu": "Ông tổ nghề nuôi ong"
+    },
+    {
+      "thu_tu": 6,
+      "ten": "Trương Hanh",
+      "nam_sinh_nam_mat": "1200 -?",
+      "que": "Hải Phòng",
+      "nam_do_trang_nguyen": "1232",
+      "doi_vua": "Trần Thái Tông",
+      "ghi_chu": "Trạng nguyên đầu tiên của triều đại nhà Trần."
+    },
+    {
+      "thu_tu": 7,
+      "ten": "Lưu Miễn",
+      "nam_sinh_nam_mat": "",
+      "que": "Thanh Hóa",
+      "nam_do_trang_nguyen": "1239",
+      "doi_vua": "Trần Thái Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 8,
+      "ten": "Nguyễn Quan Quang",
+      "nam_sinh_nam_mat": "1222 -?",
+      "que": "Bắc Ninh",
+      "nam_do_trang_nguyen": "1246",
+      "doi_vua": "Trần Thái Tông",
+      "ghi_chu": "Trạng nguyên đầu tiên của nước ta. (Khoa thi đầu tiên đặt ra danh hiệu Tam Khôi)"
+    },
+    {
+      "thu_tu": 9,
+      "ten": "Nguyễn Hiền",
+      "nam_sinh_nam_mat": "1234 - 1255",
+      "que": "Ninh Bình",
+      "nam_do_trang_nguyen": "1247",
+      "doi_vua": "Trần Thái Tông",
+      "ghi_chu": "Trạng nguyên nhỏ tuổi nhất."
+    },
+    {
+      "thu_tu": 10,
+      "ten": "Trần Quốc Lặc",
+      "nam_sinh_nam_mat": "1230 -?",
+      "que": "Hải Phòng",
+      "nam_do_trang_nguyen": "1256",
+      "doi_vua": "Trần Thái Tông",
+      "ghi_chu": "Kinh Trạng nguyên"
+    },
+    {
+      "thu_tu": 11,
+      "ten": "Trương Xán",
+      "nam_sinh_nam_mat": "1227 -?",
+      "que": "Quảng Trị",
+      "nam_do_trang_nguyen": "1256",
+      "doi_vua": "Trần Thái Tông",
+      "ghi_chu": "Trại Trạng nguyên"
+    },
+    {
+      "thu_tu": 12,
+      "ten": "Trần Cố",
+      "nam_sinh_nam_mat": "",
+      "que": "Hải Phòng",
+      "nam_do_trang_nguyen": "1266",
+      "doi_vua": "Trần Thánh Tông",
+      "ghi_chu": "Kinh Trạng nguyên"
+    },
+    {
+      "thu_tu": 13,
+      "ten": "Bạch Liêu",
+      "nam_sinh_nam_mat": "1236 - 1315",
+      "que": "Nghệ An",
+      "nam_do_trang_nguyen": "1266",
+      "doi_vua": "Trần Thánh Tông",
+      "ghi_chu": "Trại Trạng nguyên"
+    },
+    {
+      "thu_tu": 14,
+      "ten": "Lý Đạo Tái",
+      "nam_sinh_nam_mat": "1254 - 1334",
+      "que": "Bắc Ninh",
+      "nam_do_trang_nguyen": "1272",
+      "doi_vua": "Trần Thánh Tông",
+      "ghi_chu": "Tổ thứ ba (Huyền Quang) của thiền phái Trúc Lâm Yên Tử"
+    },
+    {
+      "thu_tu": 15,
+      "ten": "Đào Tiêu",
+      "nam_sinh_nam_mat": "",
+      "que": "Hà Tĩnh",
+      "nam_do_trang_nguyen": "1275",
+      "doi_vua": "Trần Thánh Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 16,
+      "ten": "Mạc Đĩnh Chi",
+      "nam_sinh_nam_mat": "1272 - 1346",
+      "que": "Hải Phòng",
+      "nam_do_trang_nguyen": "1304",
+      "doi_vua": "Trần Anh Tông",
+      "ghi_chu": "Cháu 5 đời của Mạc Hiển Tích, Lưỡng quốc Trạng nguyên"
+    },
+    {
+      "thu_tu": 17,
+      "ten": "Đào Sư Tích",
+      "nam_sinh_nam_mat": "1348 - 1396",
+      "que": "Ninh Bình",
+      "nam_do_trang_nguyen": "1374",
+      "doi_vua": "Trần Duệ Tông",
+      "ghi_chu": "Tam nguyên"
+    },
+    {
+      "thu_tu": 18,
+      "ten": "Lưu Thúc Kiệm",
+      "nam_sinh_nam_mat": "1373 - 1434",
+      "que": "Bắc Ninh",
+      "nam_do_trang_nguyen": "1400",
+      "doi_vua": "Hồ Quý Ly",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 19,
+      "ten": "Nguyễn Trực",
+      "nam_sinh_nam_mat": "1417 - 1474",
+      "que": "Hà Nội",
+      "nam_do_trang_nguyen": "1442",
+      "doi_vua": "Lê Thái Tông",
+      "ghi_chu": "Lưỡng quốc Trạng nguyên - văn bia đầu tiên."
+    },
+    {
+      "thu_tu": 20,
+      "ten": "Nguyễn Nghiêu Tư",
+      "nam_sinh_nam_mat": "1383 - 1471",
+      "que": "Bắc Ninh",
+      "nam_do_trang_nguyen": "1448",
+      "doi_vua": "Lê Nhân Tông",
+      "ghi_chu": "Trạng Lợn, Lưỡng quốc trạng nguyên, Trạng nguyên lớn tuổi nhất"
+    },
+    {
+      "thu_tu": 21,
+      "ten": "Lương Thế Vinh",
+      "nam_sinh_nam_mat": "1441 - 1496",
+      "que": "Ninh Bình",
+      "nam_do_trang_nguyen": "1463",
+      "doi_vua": "Lê Thánh Tông",
+      "ghi_chu": "Trạng Lường"
+    },
+    {
+      "thu_tu": 22,
+      "ten": "Vũ Kiệt",
+      "nam_sinh_nam_mat": "1452 -?",
+      "que": "Bắc Ninh",
+      "nam_do_trang_nguyen": "1472",
+      "doi_vua": "Lê Thánh Tông",
+      "ghi_chu": "Trạng Vít"
+    },
+    {
+      "thu_tu": 23,
+      "ten": "Vũ Tuấn Chiêu",
+      "nam_sinh_nam_mat": "1425 -?",
+      "que": "Ninh Bình",
+      "nam_do_trang_nguyen": "1475",
+      "doi_vua": "Lê Thánh Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 24,
+      "ten": "Phạm Đôn Lễ",
+      "nam_sinh_nam_mat": "1454 -?",
+      "que": "Hưng Yên",
+      "nam_do_trang_nguyen": "1481",
+      "doi_vua": "Lê Thánh Tông",
+      "ghi_chu": "Trạng Chiếu (Tam nguyên)"
+    },
+    {
+      "thu_tu": 25,
+      "ten": "Nguyễn Quang Bật",
+      "nam_sinh_nam_mat": "1463 - 1505",
+      "que": "Bắc Ninh",
+      "nam_do_trang_nguyen": "1484",
+      "doi_vua": "Lê Thánh Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 26,
+      "ten": "Trần Sùng Dĩnh",
+      "nam_sinh_nam_mat": "1465 -?",
+      "que": "Hải Phòng",
+      "nam_do_trang_nguyen": "1487",
+      "doi_vua": "Lê Thánh Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 27,
+      "ten": "Vũ Duệ",
+      "nam_sinh_nam_mat": "?- 1520",
+      "que": "Phú Thọ",
+      "nam_do_trang_nguyen": "1490",
+      "doi_vua": "Lê Thánh Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 28,
+      "ten": "Vũ Tích (Vũ Dương)",
+      "nam_sinh_nam_mat": "1472 -?",
+      "que": "Hải Phòng",
+      "nam_do_trang_nguyen": "1493",
+      "doi_vua": "Lê Thánh Tông",
+      "ghi_chu": "Tam nguyên"
+    },
+    {
+      "thu_tu": 29,
+      "ten": "Nghiêm Hoản",
+      "nam_sinh_nam_mat": "",
+      "que": "Bắc Ninh",
+      "nam_do_trang_nguyen": "1496",
+      "doi_vua": "Lê Thánh Tông",
+      "ghi_chu": "Trạng Hổ"
+    },
+    {
+      "thu_tu": 30,
+      "ten": "Đỗ Lý Khiêm",
+      "nam_sinh_nam_mat": "?-1512",
+      "que": "Hưng Yên",
+      "nam_do_trang_nguyen": "1499",
+      "doi_vua": "Lê Hiến Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 31,
+      "ten": "Lê Ích Mộc",
+      "nam_sinh_nam_mat": "1458 - 1538",
+      "que": "Hải Phòng",
+      "nam_do_trang_nguyen": "1502",
+      "doi_vua": "Lê Hiến Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 32,
+      "ten": "Lê Nại",
+      "nam_sinh_nam_mat": "1528 -?",
+      "que": "Hải Phòng",
+      "nam_do_trang_nguyen": "1505",
+      "doi_vua": "Lê Uy Mục",
+      "ghi_chu": "Trạng Ăn"
+    },
+    {
+      "thu_tu": 33,
+      "ten": "Nguyễn Giản Thanh",
+      "nam_sinh_nam_mat": "1482 -?",
+      "que": "Bắc Ninh",
+      "nam_do_trang_nguyen": "1508",
+      "doi_vua": "Lê Uy Mục",
+      "ghi_chu": "Trạng Me"
+    },
+    {
+      "thu_tu": 34,
+      "ten": "Hoàng Nghĩa Phú",
+      "nam_sinh_nam_mat": "1479 -?",
+      "que": "Hà Nội",
+      "nam_do_trang_nguyen": "1511",
+      "doi_vua": "Lê Tương Dực",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 35,
+      "ten": "Nguyễn Đức Lượng",
+      "nam_sinh_nam_mat": "1465 -?",
+      "que": "Hà Nội",
+      "nam_do_trang_nguyen": "1514",
+      "doi_vua": "Lê Tương Dực",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 36,
+      "ten": "Ngô Miễn Thiệu",
+      "nam_sinh_nam_mat": "1498 -?",
+      "que": "Bắc Ninh",
+      "nam_do_trang_nguyen": "1518",
+      "doi_vua": "Lê Chiêu Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 37,
+      "ten": "Hoàng Văn Tán",
+      "nam_sinh_nam_mat": "",
+      "que": "Bắc Ninh",
+      "nam_do_trang_nguyen": "1523",
+      "doi_vua": "Lê Cung Hoàng",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 38,
+      "ten": "Trần Tất Văn",
+      "nam_sinh_nam_mat": "1428 - 1527",
+      "que": "Hải Phòng",
+      "nam_do_trang_nguyen": "1526",
+      "doi_vua": "Lê Cung Hoàng",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 39,
+      "ten": "Đỗ Tống",
+      "nam_sinh_nam_mat": "1504 -?",
+      "que": "Hưng Yên",
+      "nam_do_trang_nguyen": "1529",
+      "doi_vua": "Mạc Thái Tổ",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 40,
+      "ten": "Nguyễn Thiến",
+      "nam_sinh_nam_mat": "1495 - 1557",
+      "que": "Hà Nội",
+      "nam_do_trang_nguyen": "1532",
+      "doi_vua": "Mạc Thái Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 41,
+      "ten": "Nguyễn Bỉnh Khiêm",
+      "nam_sinh_nam_mat": "1491 - 1585",
+      "que": "Hải Phòng",
+      "nam_do_trang_nguyen": "1535",
+      "doi_vua": "Mạc Thái Tông",
+      "ghi_chu": "Trạng Trình"
+    },
+    {
+      "thu_tu": 42,
+      "ten": "Giáp Hải",
+      "nam_sinh_nam_mat": "1517 - 1586",
+      "que": "Bắc Ninh",
+      "nam_do_trang_nguyen": "1538",
+      "doi_vua": "Mạc Thái Tông",
+      "ghi_chu": "Trạng Ác"
+    },
+    {
+      "thu_tu": 43,
+      "ten": "Nguyễn Kỳ",
+      "nam_sinh_nam_mat": "1518 -?",
+      "que": "Hưng Yên",
+      "nam_do_trang_nguyen": "1541",
+      "doi_vua": "Mạc Hiến Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 44,
+      "ten": "Dương Phúc Tư",
+      "nam_sinh_nam_mat": "1505 - 1564",
+      "que": "Hưng Yên",
+      "nam_do_trang_nguyen": "1547",
+      "doi_vua": "Mạc Tuyên Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 45,
+      "ten": "Trần Văn Bảo",
+      "nam_sinh_nam_mat": "1524 - 1610",
+      "que": "Ninh Bình",
+      "nam_do_trang_nguyen": "1550",
+      "doi_vua": "Mạc Tuyên Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 46,
+      "ten": "Nguyễn Lượng Thái",
+      "nam_sinh_nam_mat": "1525 - 1576",
+      "que": "Bắc Ninh",
+      "nam_do_trang_nguyen": "1553",
+      "doi_vua": "Mạc Tuyên Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 47,
+      "ten": "Phạm Trấn",
+      "nam_sinh_nam_mat": "1523 -?",
+      "que": "Hải Phòng",
+      "nam_do_trang_nguyen": "1556",
+      "doi_vua": "Mạc Tuyên Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 48,
+      "ten": "Phạm Duy Quyết",
+      "nam_sinh_nam_mat": "1521 -?",
+      "que": "Hải Phòng",
+      "nam_do_trang_nguyen": "1562",
+      "doi_vua": "Mạc Mậu Hợp",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 49,
+      "ten": "Phạm Quang Tiến",
+      "nam_sinh_nam_mat": "1530 -?",
+      "que": "Bắc Ninh",
+      "nam_do_trang_nguyen": "1565",
+      "doi_vua": "Mạc Mậu Hợp",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 50,
+      "ten": "Nguyễn Xuân Chính",
+      "nam_sinh_nam_mat": "1587 -?",
+      "que": "Bắc Ninh",
+      "nam_do_trang_nguyen": "1637",
+      "doi_vua": "Lê Thần Tông",
+      "ghi_chu": "Trạng Cháy"
+    },
+    {
+      "thu_tu": 51,
+      "ten": "Nguyễn Quốc Trinh",
+      "nam_sinh_nam_mat": "1624 - 1674",
+      "que": "Hà Nội",
+      "nam_do_trang_nguyen": "1659",
+      "doi_vua": "Lê Thần Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 52,
+      "ten": "Đặng Công Chất",
+      "nam_sinh_nam_mat": "1621 - 1683",
+      "que": "Hà Nội",
+      "nam_do_trang_nguyen": "1661",
+      "doi_vua": "Lê Thần Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 53,
+      "ten": "Lưu Danh Công",
+      "nam_sinh_nam_mat": "1643 -?",
+      "que": "Hà Nội",
+      "nam_do_trang_nguyen": "1670",
+      "doi_vua": "Lê Huyền Tông",
+      "ghi_chu": ""
+    },
+    {
+      "thu_tu": 54,
+      "ten": "Nguyễn Đăng Đạo",
+      "nam_sinh_nam_mat": "1650 - 1718",
+      "que": "Bắc Ninh",
+      "nam_do_trang_nguyen": "1683",
+      "doi_vua": "Lê Hy Tông",
+      "ghi_chu": "Trạng Bịu, Lưỡng quốc Trạng nguyên"
+    },
+    {
+      "thu_tu": 55,
+      "ten": "Trịnh Tuệ / Trịnh Huệ",
+      "nam_sinh_nam_mat": "1701 -?",
+      "que": "Thanh Hóa",
+      "nam_do_trang_nguyen": "1736",
+      "doi_vua": "Lê Ý Tông",
+      "ghi_chu": "Trạng nguyên cuối cùng"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách Trạng nguyên Việt Nam - Free Download",
+    "description": "Danh sách các Trạng nguyên trong lịch sử khoa cử Việt Nam: tên, năm sinh – năm mất, quê quán, năm đỗ, đời vua và ghi chú. Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách Trạng nguyên Việt Nam | ListBase",
+    "seo_description": "Download Danh sách Trạng nguyên Việt Nam — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Trạng_nguyên_Việt_Nam"
+    ]
+  }
+}
