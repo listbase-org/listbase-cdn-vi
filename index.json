@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-03T02:35:26.393Z",
-  "total_datasets": 572,
-  "total_records": 128892,
+  "generated": "2026-11-03T02:35:33.026Z",
+  "total_datasets": 573,
+  "total_records": 129095,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "environment",
@@ -1341,6 +1341,30 @@
         "xlsx": {
           "name": "vi-phim-gui-tranh-oscar_VI.xlsx",
           "size": 8251
+        }
+      }
+    },
+    {
+      "id": "vi-phim-hoat-hinh-viet-nam",
+      "name": "Danh sách phim hoạt hình Việt Nam",
+      "category": "entertainment",
+      "record_count": 203,
+      "columns": [
+        "ten_phim",
+        "nam",
+        "thap_nien"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_bộ_phim_hoạt_hình_Việt_Nam",
+      "updated": "2026-11",
+      "size": 25547,
+      "files": {
+        "csv": {
+          "name": "vi-phim-hoat-hinh-viet-nam_VI.csv",
+          "size": 11144
+        },
+        "xlsx": {
+          "name": "vi-phim-hoat-hinh-viet-nam_VI.xlsx",
+          "size": 12324
         }
       }
     },
