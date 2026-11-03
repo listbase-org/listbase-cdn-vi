@@ -1,0 +1,236 @@
+{
+  "id": "vi-truong-quan-su",
+  "name": "Danh sách trường đại học, học viện và cao đẳng quân sự Việt Nam",
+  "title": "Danh sách trường đại học, học viện và cao đẳng quân sự Việt Nam",
+  "description": "Danh sách các học viện, trường sĩ quan, trường đại học, cao đẳng và trung cấp quân sự của Quân đội nhân dân Việt Nam kèm cơ quan chủ quản và mô tả.",
+  "category": "education",
+  "source": "https://vi.wikipedia.org/wiki/Danh_sách_trường_đại_học,_cao_đẳng_quân_sự_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_sách_trường_đại_học,_cao_đẳng_quân_sự_Việt_Nam",
+  "updated": "2026-11",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "ten_truong",
+      "label": "Ten Truong",
+      "type": "string"
+    },
+    {
+      "key": "nhom",
+      "label": "Nhom",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ten_truong": "Học viện Quốc phòng (Học viện Quân sự cấp cao)",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Chính phủ Việt Nam, Bộ Quốc phòng quản lý, là trung tâm huấn luyện và đào tạo tướng lĩnh, sĩ quan cao cấp của Quân đội nhân dân Việt Nam. Học viện là trung tâm đào tạo, bồi dưỡng cán bộ cao cấp gồm: đào tạo sĩ quan cấp chiến dịch, chiến lược cho quân đội; bồi dưỡng kiến thức quốc phòng cho cán bộ chủ chốt của các bộ, ban ngành, đoàn thể ở trung ương và địa phương; đào tạo cao học và nghiên cứu sinh quân sự; hợp tác quốc tế về đào tạo, bồi dưỡng cán bộ quân sự, dân sự về quốc phòng với một số nước.. Thành lập năm 1976 Trụ sở: số 93, đường Hoàng Quốc Việt, quận Cầu Giấy, Thành phố Hà Nội (đối diện Viện Toán học Việt Nam). Lưu ý: Học viện Quốc phòng không tuyển sinh học sinh phổ thông và hạ sĩ quan, binh sĩ"
+    },
+    {
+      "ten_truong": "Học viện Chính trị Quân sự (Học viện quân sự cấp cao)",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "Trực thuộc Bộ Quốc phòng Việt Nam. Trụ sở: Số 124, đường Ngô Quyền, phường Quang Trung, quận Hà Đông, Thành phố Hà Nội, thành lập năm 1951 với tên gọi ban đầu là Trường Chính trị Trung cấp, đào tạo sĩ quan chính trị cấp trung đoàn, sư đoàn (chính ủy). Lưu ý: Học viện Chính trị không tuyển sinh học sinh phổ thông và hạ sĩ quan, binh sĩ"
+    },
+    {
+      "ten_truong": "Học viện Lục quân (Học viện quân sự cấp cao)",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Bộ Quốc phòng Việt Nam, thành lập năm 1946, là học viện đào tạo cán bộ sĩ quan Lục quân cấp chiến thuật - chiến dịch cấp trung đoàn-sư đoàn, các chuyên ngành chỉ huy-tham mưu lục quân (tương ứng với các binh chủng thuộc quân chủng Lục quân). Trụ sở: Số 2, đường Lữ Gia, phường 9, thành phố Đà Lạt, tỉnh Lâm Đồng. Lưu ý: Học viện Lục quân Đà Lạt không tuyển sinh học sinh phổ thông và hạ sĩ quan, binh sĩ"
+    },
+    {
+      "ten_truong": "Học viện Kỹ thuật Quân sự (Đại học Kỹ thuật Lê Quý Đôn)",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Bộ Quốc phòng Việt Nam, là một Học viện quân sự cấp trung, trường đại học trọng điểm quốc gia Việt Nam chuyên đào tạo kỹ sư quân sự, cán bộ quản lý kỹ thuật và sĩ quan chỉ huy kỹ thuật cấp chiến thuật - chiến dịch. Thành lập năm 1966. Trụ sở: Số 236 đường Hoàng Quốc Việt, phường Cổ Nhuế 1, quận Bắc Từ Liêm, Hà Nội"
+    },
+    {
+      "ten_truong": "Học viện Quân y",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "Trực thuộc Bộ Quốc phòng Việt Nam, là một trường đại học đào tạo bác sĩ, dược sĩ, thạc sĩ, tiến sĩ y khoa và y sĩ, là trường đại học trọng điểm quốc gia Việt Nam. Thành lập năm 1949. Trụ sở: đường Phùng Hưng, quận Hà Đông, Hà Nội"
+    },
+    {
+      "ten_truong": "Học viện Hậu cần (Học viện quân sự cấp trung)",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Bộ Quốc phòng Việt Nam, đào tạo sĩ quan hậu cần cấp chiến thuật phân đội và cấp chiến thuật- chiến dịch. Thành lập năm 1982 trên cơ sở trường sĩ quan Hậu cần (thành lập năm 1951). Trụ sở: phường Ngọc Thụy, quận Long Biên, Hà Nội"
+    },
+    {
+      "ten_truong": "Học viện Hải quân (Học viện quân sự cấp trung)",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Quân chủng Hải quân Việt Nam, đào tạo sĩ quan chiến thuật, kỹ thuật hải quân cấp phân đội và sĩ quan chiến thuật- chiến dịch hải quân. Trụ sở: 30, đường Trần Phú, phường Vĩnh Nguyên, thành phố Nha Trang, tỉnh Khánh Hòa"
+    },
+    {
+      "ten_truong": "Học viện Phòng không - Không quân (Học viện quân sự cấp trung)",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Quân chủng Phòng không-Không quân Việt Nam, thành lập năm 1964: đào tạo sĩ quan chiến thuật phòng không-không quân cấp phân đội; kỹ sư hàng không và sĩ quan chiến thuật- chiến dịch... Trụ sở: xã Kim Sơn, thị xã Sơn Tây, Hà Nội"
+    },
+    {
+      "ten_truong": "Học viện Biên phòng",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Bộ Tư lệnh Bộ đội Biên phòng Việt Nam, đào tạo sĩ quan biên phòng, đào tạo sĩ quan Biên phòng trình độ cao đẳng, đại học và sau đại học các chuyên ngành: Quản lý Biên giới, Trinh sát Biên phòng, Quản lý cửa khẩu. Trụ sở: phường Sơn Lộc, Thị xã Sơn Tây, Hà Nội"
+    },
+    {
+      "ten_truong": "Học viện Khoa học Quân sự, (Học viện quân sự cấp trung)",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Tổng cục 2, Bộ Quốc phòng Việt Nam, đào tạo sĩ quan ngoại ngữ, ngoại giao (tùy viên quốc phòng), tình báo, trinh sát kỹ thuật. Học viện được thành lập năm 1998 trên cơ sở 2 trường chính: Đại học Ngoại ngữ quân sự (Thành lập năm 1982) Trường Sĩ quan Trinh sát - Quân báo (Thành lập ngày 10/6/1989) Trụ sở: Lai Xá, Hoài Đức, Hà Nội"
+    },
+    {
+      "ten_truong": "Học viện Kỹ thuật Mật mã",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Ban Cơ yếu chính phủ, thành lập năm 1985: cán bộ cơ yếu, sĩ quan chỉ huy kỹ thuật mật mã có trình độ đại học, sau đại học và nghiên cứu khoa học kỹ thuật mật mã của ngành Cơ yếu Việt Nam, Cơ yếu Quân đội nhân dân Việt Nam. Trụ sở: 141 Chiến Thắng, xã Tân Triều, huyện Thanh Trì, thành phố Hà Nội. Lưu ý: Học viện Kỹ thuật Mật mã không tuyển sinh quân nhân tại ngũ, chỉ tuyển sinh dân sự"
+    },
+    {
+      "ten_truong": "Trường Sĩ quan Chính trị",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "đào tạo sĩ quan chính trị cấp phân đội (chính trị viên đại đội, tiểu đoàn) trình độ đại học và cao đẳng. Trụ sở: xã Thạch Hòa, huyện Thạch Thất, thành phố Hà Nội"
+    },
+    {
+      "ten_truong": "Trường Sĩ quan Lục quân 1",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Bộ Quốc phòng Việt Nam, được thành lập năm 1945, là trường đại học quân sự chuyên đào tạo sĩ quan chiến thuật lục quân cấp phân đội cho các quân khu, quân đoàn phía bắc Việt Nam. Đào tạo sĩ quan Lục quân chiến thuật cấp phân đội (trung đội, đại đội, tiểu đoàn) trình độ cử nhân khoa học quân sự (đại học và cao đẳng) các chuyên ngành: Bộ binh-Binh chủng hợp thành, Bộ binh cơ giới, Trinh sát cơ giới, Trinh sát đặc nghiệm, Trinh sát bộ đội. Trụ sở chính: xã Đoài Phương, thành phố Hà Nội"
+    },
+    {
+      "ten_truong": "Trường Sĩ quan Lục quân 2",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Bộ Quốc phòng Việt Nam, được thành lập năm 1961, là trường đại học quân sự chuyên đào tạo sĩ quan chiến thuật lục quân cấp phân đội cho các quân khu quân đoàn phía nam Việt Nam. Trụ sở: xã Tam Phước, huyện Long Thành, tỉnh Đồng Nai"
+    },
+    {
+      "ten_truong": "Trường Sĩ quan Không quân",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Quân chủng Phòng không-Không quân Việt Nam, thành lập năm 1958, chuyên đào tạo phi công và kỹ thuật viên hàng không trình độ đại học, cao đẳng.,. Trụ sở: thành phố Nha Trang, tỉnh Khánh Hòa"
+    },
+    {
+      "ten_truong": "Trường Sĩ quan Tăng-Thiết giáp",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc binh chủng Tăng-Thiết giáp, thành lập ngày ngày 10 tháng 4 năm 1973: đào tạo sĩ quan chỉ huy chiến thuật tăng và thiết giáp cấp phân đội Trụ sở: đường Vĩnh Yên - Tam Đảo, huyện Tam Đảo, tỉnh Vĩnh Phúc"
+    },
+    {
+      "ten_truong": "Trường Đại học Thông tin Liên lạc (Trường Sĩ quan Thông tin)",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Binh chủng Thông tin liên lạc, Quân đội nhân dân Việt Nam, thành lập năm 1951: đào tạo sĩ quan chỉ huy kỹ thuật trình độ đại học, cao đẳng quân sự các chuyên ngành: Vô tuyển Điện; Hữu tuyến điện; Viba; Tác chiến điện tử; Tác chiến mạng. Trụ sở: phường Đồng Đế, Thành phố Nha Trang, tỉnh Khánh Hòa"
+    },
+    {
+      "ten_truong": "Trường Sĩ quan Đặc công",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Binh chủng Đặc công, thành lập ngày ngày 20 tháng 7 năm 1967: đào tạo sĩ quan chiến thuật đặc công cấp phân đội các chuyên ngành: Đặc công bộ; Đặc công nước; Đặc công biệt động. Trụ sở: Thị trấn Xuân Mai, huyện Chương Mỹ, Hà Nội"
+    },
+    {
+      "ten_truong": "Trường Sĩ quan Công binh",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Binh chủng Công binh, Quân đội nhân dân Việt Nam, thành lập năm 1955, đào tạo sĩ quan chỉ huy kỹ thuật công binh cấp phân đội các chuyên ngành: Công trình; Cầu đường; Vượt sông; Xe máy. Trụ sở chính: TP Thủ Dầu Một, tỉnh Bình Dương"
+    },
+    {
+      "ten_truong": "Trường Sĩ quan Phòng hóa",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Binh chủng Hóa học, thành lập năm 1976, đào tạo sĩ quan chỉ huy kỹ thuật hóa học trình độ đại học quân sự và trung học chuyên nghiệp, các chuyên ngành: Khai thác sửa chữa khí tài Phòng hoá; Phân tích chất độc quân sự. Trụ sở: xã Đoài Phương, thành phố Hà Nội"
+    },
+    {
+      "ten_truong": "Trường Sĩ quan Pháo binh",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Binh chủng Pháo binh - Tên lửa, thành lập năm 1957, đào tạo sĩ quan chiến thuật pháo binh cấp phân đội; Đào tạo chuyển loại cán bộ chính trị pháo binh; Đào tạo cán bộ tên lửa mặt đất và tên lửa chống tăng. Trụ sở: Phố Thanh Vị, phường Tùng Thiện, thành phố Hà Nội"
+    },
+    {
+      "ten_truong": "Trường Đại học Văn hóa - Nghệ thuật quân đội",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Tổng cục Chính trị Quân đội nhân dân Việt Nam, đào tạo nghệ sĩ diễn viên, ca sĩ, nhạc sĩ, họa sĩ,.. và sĩ quan văn hóa nghệ thuật quân đội, sĩ quan Quân nhạc. Trụ sở: Hòa Lạc, Hà Nội"
+    },
+    {
+      "ten_truong": "Trường Sĩ quan Kỹ thuật Quân sự",
+      "nhom": "Các Học viện, Trường Sĩ quan",
+      "mo_ta": "trực thuộc Tổng cục Hậu cần - Kỹ thuật - Bộ Quốc phòng, Trường đào tạo sĩ quan kỹ thuật quân sự và kỹ sư hệ dân sự chất lượng cao. Trụ sở: 189 Nguyễn Oanh, Phường 10, Quận Gò Vấp, TP. Hồ Chí Minh"
+    },
+    {
+      "ten_truong": "Trường Cao đẳng Kỹ thuật quân sự 1",
+      "nhom": "Các Trường đào tạo quân nhân chuyên nghiệp, hạ sĩ quan và công nhân quốc phòng trình độ cao đẳng, trung cấp",
+      "mo_ta": "thành lập tháng 10/1951 trực thuộc trực thuộc Tổng cục Hậu cần - Kỹ thuật, Bộ Quốc phòng Việt Nam. Đào tạo cán bộ, nhân viên chuyên môn kỹ thuật cả quân sự và dân sự; Đào tạo cao đẳng dân sự hệ chính quy: Công nghệ kỹ thuật ô tô; Công nghệ kỹ thuật cơ khí; Tiêu chuẩn-Đo lường-Chất lượng; Công nghệ kỹ thuật điện, điện tử; Công nghệ thông tin và Kế toán Trụ sở: Phố Cầu Hang, Tổ dân phố Thắng Lợi, Phường Tùng Thiện, thành phố Hà Nội"
+    },
+    {
+      "ten_truong": "Trường Cao đẳng Công nghiệp Quốc phòng",
+      "nhom": "Các Trường đào tạo quân nhân chuyên nghiệp, hạ sĩ quan và công nhân quốc phòng trình độ cao đẳng, trung cấp",
+      "mo_ta": "trực thuộc Tổng cục Công nghiệp Quốc phòng, Bộ Quốc phòng Việt Nam Đào tạo kỹ thuật viên cao đẳng, trung cấp, công nhân kỹ thuật, kinh tế phục vụ các nhà máy, xí nghiệp thuộc Tổng cục Công nghiệp Quốc phòng và các cơ quan, đơn vị thuộc Bộ Quốc phòng. Trụ sở: Xã Thanh Vinh, Thị xã Phú Thọ, tỉnh Phú Thọ"
+    },
+    {
+      "ten_truong": "Trường Cao đẳng Kỹ thuật Mật mã",
+      "nhom": "Các Trường đào tạo quân nhân chuyên nghiệp, hạ sĩ quan và công nhân quốc phòng trình độ cao đẳng, trung cấp",
+      "mo_ta": "Trực thuộc Bộ Tổng Tham mưu"
+    },
+    {
+      "ten_truong": "Trường Cao đẳng Hậu cần 1",
+      "nhom": "Các Trường đào tạo quân nhân chuyên nghiệp, hạ sĩ quan và công nhân quốc phòng trình độ cao đẳng, trung cấp",
+      "mo_ta": "trực thuộc Tổng cục Hậu cần - Kỹ thuật, Bộ Quốc phòng Việt Nam; Trụ sở: Ngõ 18, Chùa Thông, tổ dân phố Sơn Lộc, phường Sơn Tây, thành phố Hà Nội"
+    },
+    {
+      "ten_truong": "Trường Cao đẳng Hậu cần 2",
+      "nhom": "Các Trường đào tạo quân nhân chuyên nghiệp, hạ sĩ quan và công nhân quốc phòng trình độ cao đẳng, trung cấp",
+      "mo_ta": "trực thuộc Tổng cục Hậu cần - Kỹ thuật, Bộ Quốc phòng Việt Nam; Trụ sở: Số 50 Đường Lê Văn Việt, Khu Phố 49, Phường Tăng Nhơn Phú, Thành Phố Hồ Chí Minh"
+    },
+    {
+      "ten_truong": "Trường Cao đẳng Trinh sát",
+      "nhom": "Các Trường đào tạo quân nhân chuyên nghiệp, hạ sĩ quan và công nhân quốc phòng trình độ cao đẳng, trung cấp",
+      "mo_ta": "Trực thuộc Tổng cục II"
+    },
+    {
+      "ten_truong": "Trường Cao đẳng Kỹ thuật Hải quân",
+      "nhom": "Các Trường đào tạo quân nhân chuyên nghiệp, hạ sĩ quan và công nhân quốc phòng trình độ cao đẳng, trung cấp",
+      "mo_ta": "Trực thuộc Quân chủng Hải quân"
+    },
+    {
+      "ten_truong": "Trường Cao đẳng Kỹ thuật Phòng không- Không quân",
+      "nhom": "Các Trường đào tạo quân nhân chuyên nghiệp, hạ sĩ quan và công nhân quốc phòng trình độ cao đẳng, trung cấp",
+      "mo_ta": "Trực thuộc Quân chủng Phòng không-Không quân"
+    },
+    {
+      "ten_truong": "Trường Cao đẳng Kỹ thuật Thông tin",
+      "nhom": "Các Trường đào tạo quân nhân chuyên nghiệp, hạ sĩ quan và công nhân quốc phòng trình độ cao đẳng, trung cấp",
+      "mo_ta": "trực thuộc Binh chủng Thông tin liên lạc, Quân đội nhân dân Việt Nam"
+    },
+    {
+      "ten_truong": "Trường Trung cấp Kỹ thuật Công binh",
+      "nhom": "Các Trường đào tạo quân nhân chuyên nghiệp, hạ sĩ quan và công nhân quốc phòng trình độ cao đẳng, trung cấp",
+      "mo_ta": "trực thuộc Binh chủng Công binh, Quân đội nhân dân Việt Nam"
+    },
+    {
+      "ten_truong": "Trường Trung cấp Kỹ thuật Tăng-Thiết giáp",
+      "nhom": "Các Trường đào tạo quân nhân chuyên nghiệp, hạ sĩ quan và công nhân quốc phòng trình độ cao đẳng, trung cấp",
+      "mo_ta": "trực thuộc Binh chủng Tăng-Thiết giáp, Quân đội nhân dân Việt Nam"
+    },
+    {
+      "ten_truong": "Trường Trung cấp Kỹ thuật miền Trung",
+      "nhom": "Các Trường đào tạo quân nhân chuyên nghiệp, hạ sĩ quan và công nhân quốc phòng trình độ cao đẳng, trung cấp",
+      "mo_ta": "trực thuộc Tổng cục Hậu cần - Kỹ thuật, Bộ Quốc phòng Việt Nam"
+    },
+    {
+      "ten_truong": "Trường Trung cấp Kỹ thuật Mật mã Quân đội",
+      "nhom": "Các Trường đào tạo quân nhân chuyên nghiệp, hạ sĩ quan và công nhân quốc phòng trình độ cao đẳng, trung cấp",
+      "mo_ta": "trực thuộc Cục Cơ yếu"
+    },
+    {
+      "ten_truong": "Trường Trung cấp Biên phòng 1",
+      "nhom": "Các Trường đào tạo quân nhân chuyên nghiệp, hạ sĩ quan và công nhân quốc phòng trình độ cao đẳng, trung cấp",
+      "mo_ta": "trực thuộc Bộ Tư lệnh Bộ đội Biên phòng Việt Nam"
+    },
+    {
+      "ten_truong": "Trường Trung cấp Biên phòng 2",
+      "nhom": "Các Trường đào tạo quân nhân chuyên nghiệp, hạ sĩ quan và công nhân quốc phòng trình độ cao đẳng, trung cấp",
+      "mo_ta": "trực thuộc Bộ Tư lệnh Bộ đội Biên phòng Việt Nam"
+    },
+    {
+      "ten_truong": "Trường Trung cấp 24 Biên phòng",
+      "nhom": "Các Trường đào tạo quân nhân chuyên nghiệp, hạ sĩ quan và công nhân quốc phòng trình độ cao đẳng, trung cấp",
+      "mo_ta": "trực thuộc Bộ Tư lệnh Bộ đội Biên phòng Việt Nam"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách trường đại học, học viện và cao đẳng quân sự Việt Nam - Free Download",
+    "description": "Danh sách các học viện, trường sĩ quan, trường đại học, cao đẳng và trung cấp quân sự của Quân đội nhân dân Việt Nam kèm cơ quan chủ quản và mô tả. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách trường đại học, học viện và cao đẳng quân sự Việt Nam | ListBase",
+    "seo_description": "Download Danh sách trường đại học, học viện và cao đẳng quân sự Việt Nam — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_sách_trường_đại_học,_cao_đẳng_quân_sự_Việt_Nam"
+    ]
+  }
+}

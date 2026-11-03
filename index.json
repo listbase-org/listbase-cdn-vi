@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-03T02:35:40.680Z",
-  "total_datasets": 574,
-  "total_records": 129143,
+  "generated": "2026-11-03T02:35:48.468Z",
+  "total_datasets": 575,
+  "total_records": 129182,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "entertainment",
@@ -1013,6 +1013,30 @@
         "xlsx": {
           "name": "vi-truong-hoc_VI.xlsx",
           "size": 10044
+        }
+      }
+    },
+    {
+      "id": "vi-truong-quan-su",
+      "name": "Danh sách trường đại học, học viện và cao đẳng quân sự Việt Nam",
+      "category": "education",
+      "record_count": 39,
+      "columns": [
+        "ten_truong",
+        "nhom",
+        "mo_ta"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_trường_đại_học,_cao_đẳng_quân_sự_Việt_Nam",
+      "updated": "2026-11",
+      "size": 20718,
+      "files": {
+        "csv": {
+          "name": "vi-truong-quan-su_VI.csv",
+          "size": 16248
+        },
+        "xlsx": {
+          "name": "vi-truong-quan-su_VI.xlsx",
+          "size": 10467
         }
       }
     },
