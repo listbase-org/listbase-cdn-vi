@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-03T02:35:48.468Z",
-  "total_datasets": 575,
-  "total_records": 129182,
+  "generated": "2026-11-03T02:35:55.741Z",
+  "total_datasets": 576,
+  "total_records": 129555,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "law",
@@ -4193,6 +4193,29 @@
         "xlsx": {
           "name": "vi-tieng-long-gen-z_VI.xlsx",
           "size": 14623
+        }
+      }
+    },
+    {
+      "id": "vi-tu-han-viet-goc-nhat",
+      "name": "Từ Hán-Việt gốc Nhật",
+      "category": "language",
+      "record_count": 373,
+      "columns": [
+        "tu",
+        "linh_vuc"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_từ_Hán-Việt_gốc_Nhật",
+      "updated": "2026-11",
+      "size": 35549,
+      "files": {
+        "csv": {
+          "name": "vi-tu-han-viet-goc-nhat_VI.csv",
+          "size": 17682
+        },
+        "xlsx": {
+          "name": "vi-tu-han-viet-goc-nhat_VI.xlsx",
+          "size": 13215
         }
       }
     },
