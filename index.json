@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-03T02:35:33.026Z",
-  "total_datasets": 573,
-  "total_records": 129095,
+  "generated": "2026-11-03T02:35:40.680Z",
+  "total_datasets": 574,
+  "total_records": 129143,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -4143,6 +4143,32 @@
         "xlsx": {
           "name": "vi-ngon-ngu-the-gioi_VI.xlsx",
           "size": 22974
+        }
+      }
+    },
+    {
+      "id": "vi-tieng-long-gen-z",
+      "name": "Tiếng lóng của thế hệ Z trong tiếng Việt",
+      "category": "language",
+      "record_count": 48,
+      "columns": [
+        "tu_long",
+        "dinh_nghia",
+        "nguon_goc",
+        "vi_du",
+        "bien_the"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_tiếng_lóng_trong_tiếng_Việt_của_thế_hệ_Z",
+      "updated": "2026-11",
+      "size": 25612,
+      "files": {
+        "csv": {
+          "name": "vi-tieng-long-gen-z_VI.csv",
+          "size": 18663
+        },
+        "xlsx": {
+          "name": "vi-tieng-long-gen-z_VI.xlsx",
+          "size": 14623
         }
       }
     },
