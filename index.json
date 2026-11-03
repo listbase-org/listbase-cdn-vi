@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-02T02:34:26.538Z",
-  "total_datasets": 571,
-  "total_records": 128793,
+  "generated": "2026-11-03T02:35:26.393Z",
+  "total_datasets": 572,
+  "total_records": 128892,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "society",
@@ -13473,6 +13473,32 @@
         "xlsx": {
           "name": "science-solubility-rules_VI.xlsx",
           "size": 9165
+        }
+      }
+    },
+    {
+      "id": "vi-giai-thuong-ho-chi-minh-khoa-hoc-cong-nghe",
+      "name": "Giải thưởng Hồ Chí Minh về Khoa học và Công nghệ",
+      "category": "science",
+      "record_count": 99,
+      "columns": [
+        "dot",
+        "nam",
+        "linh_vuc",
+        "cong_trinh",
+        "tac_gia"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_Giải_thưởng_Hồ_Chí_Minh_về_Khoa_học_Công_nghệ",
+      "updated": "2026-11",
+      "size": 45024,
+      "files": {
+        "csv": {
+          "name": "vi-giai-thuong-ho-chi-minh-khoa-hoc-cong-nghe_VI.csv",
+          "size": 33528
+        },
+        "xlsx": {
+          "name": "vi-giai-thuong-ho-chi-minh-khoa-hoc-cong-nghe_VI.xlsx",
+          "size": 18204
         }
       }
     },
