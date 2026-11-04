@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-03T02:35:55.741Z",
-  "total_datasets": 576,
-  "total_records": 129555,
+  "generated": "2026-11-04T02:25:55.237Z",
+  "total_datasets": 577,
+  "total_records": 129604,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -3341,6 +3341,28 @@
         "xlsx": {
           "name": "vi-vuon-quoc-gia_VI.xlsx",
           "size": 9975
+        }
+      }
+    },
+    {
+      "id": "vi-benh-hiem-ngheo",
+      "name": "Danh sách bệnh hiểm nghèo được giảm thuế thu nhập cá nhân",
+      "category": "health",
+      "record_count": 49,
+      "columns": [
+        "ten_benh"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_bệnh_hiểm_nghèo",
+      "updated": "2026-11",
+      "size": 4450,
+      "files": {
+        "csv": {
+          "name": "vi-benh-hiem-ngheo_VI.csv",
+          "size": 1335
+        },
+        "xlsx": {
+          "name": "vi-benh-hiem-ngheo_VI.xlsx",
+          "size": 7775
         }
       }
     },
