@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-04T02:25:55.237Z",
-  "total_datasets": 577,
-  "total_records": 129604,
+  "generated": "2026-11-04T02:26:01.708Z",
+  "total_datasets": 578,
+  "total_records": 129617,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -3363,6 +3363,29 @@
         "xlsx": {
           "name": "vi-benh-hiem-ngheo_VI.xlsx",
           "size": 7775
+        }
+      }
+    },
+    {
+      "id": "vi-benh-lien-quan-dioxin",
+      "name": "Danh sách bệnh có liên quan đến dioxin (chất độc da cam)",
+      "category": "health",
+      "record_count": 13,
+      "columns": [
+        "ten_benh",
+        "nhom"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_bệnh_có_liên_quan_đến_dioxin",
+      "updated": "2026-11",
+      "size": 3945,
+      "files": {
+        "csv": {
+          "name": "vi-benh-lien-quan-dioxin_VI.csv",
+          "size": 1611
+        },
+        "xlsx": {
+          "name": "vi-benh-lien-quan-dioxin_VI.xlsx",
+          "size": 7260
         }
       }
     },
