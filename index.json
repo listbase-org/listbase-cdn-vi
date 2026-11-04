@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-04T02:26:08.801Z",
-  "total_datasets": 579,
-  "total_records": 129663,
+  "generated": "2026-11-04T02:26:16.860Z",
+  "total_datasets": 580,
+  "total_records": 129679,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -13793,6 +13793,31 @@
         "xlsx": {
           "name": "vi-hdi-tinh-thanh_VI.xlsx",
           "size": 8786
+        }
+      }
+    },
+    {
+      "id": "vi-tai-nan-hoc-duong",
+      "name": "Danh sách tai nạn học đường tại Việt Nam",
+      "category": "society",
+      "record_count": 16,
+      "columns": [
+        "vu_viec",
+        "nam",
+        "mo_ta",
+        "nhom"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_tai_nạn_học_đường_Việt_Nam",
+      "updated": "2026-11",
+      "size": 9023,
+      "files": {
+        "csv": {
+          "name": "vi-tai-nan-hoc-duong_VI.csv",
+          "size": 6124
+        },
+        "xlsx": {
+          "name": "vi-tai-nan-hoc-duong_VI.xlsx",
+          "size": 9239
         }
       }
     },

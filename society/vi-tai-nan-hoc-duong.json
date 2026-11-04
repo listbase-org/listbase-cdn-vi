@@ -1,0 +1,142 @@
+{
+  "id": "vi-tai-nan-hoc-duong",
+  "name": "Danh sách tai nạn học đường tại Việt Nam",
+  "title": "Danh sách tai nạn học đường tại Việt Nam",
+  "description": "Các vụ tai nạn xảy ra tại trường học ở Việt Nam như sập tường, sập trần, đổ cây, với năm và mô tả sự việc.",
+  "category": "society",
+  "source": "https://vi.wikipedia.org/wiki/Danh_sách_tai_nạn_học_đường_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_sách_tai_nạn_học_đường_Việt_Nam",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "vu_viec",
+      "label": "Vu Viec",
+      "type": "string"
+    },
+    {
+      "key": "nam",
+      "label": "Nam",
+      "type": "number"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    },
+    {
+      "key": "nhom",
+      "label": "Nhom",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "vu_viec": "Vụ sập cổng trường tại Lào Cai (2020)",
+      "nam": 2020,
+      "mo_ta": "Ngày 7 tháng 9 năm 2020, tại Phân hiệu Bản Phung thuộc Trường Tiểu học Khánh Yên Thượng, cổng trường bất ngờ đổ sập trong giờ ra chơi. Vụ tai nạn khiến 3 học sinh mầm non và tiểu học tử vong tại chỗ, 3 em khác bị thương. Nguyên nhân được xác định do trụ cổng xây bằng gạch không có cốt thép, xây trên nền đất dốc và bị mưa lũ làm suy yếu.",
+      "nhom": "Sập cổng trường và tường rào"
+    },
+    {
+      "vu_viec": "Vụ sập cổng trường tại Nghệ An (2020)",
+      "nam": 2020,
+      "mo_ta": "Chỉ vài ngày sau vụ việc tại Lào Cai, vào ngày 11 tháng 9 năm 2020, một vụ sập tường rào xảy ra tại Trường Tiểu học Nam Lộc khiến một học sinh lớp 5 tử vong.",
+      "nhom": "Sập cổng trường và tường rào"
+    },
+    {
+      "vu_viec": "Vụ sập trụ cổng tại Đắk Nông (2020)",
+      "nam": 2020,
+      "mo_ta": "Ngày 30 tháng 12 năm 2020, tại Trường Tiểu học Lê Hữu Trác, một cánh cổng sắt cùng trụ bê tông đổ sập đè lên một học sinh lớp 4 khiến em tử vong. Nguyên nhân do học sinh đu lên cánh cổng cũ kỹ.",
+      "nhom": "Sập cổng trường và tường rào"
+    },
+    {
+      "vu_viec": "Vụ sập tường rào tại Quảng Bình (2024)",
+      "nam": 2024,
+      "mo_ta": "Tháng 11 năm 2024, một đoạn tường rào dài hơn 30 mét của Trường THCS Quảng Xuân bất ngờ đổ sập do mưa lớn và kết cấu yếu. Rất may sự việc xảy ra vào ngày nghỉ nên không có thương vong.",
+      "nhom": "Sập cổng trường và tường rào"
+    },
+    {
+      "vu_viec": "Vụ sập trần gỗ tại Nghệ An (2023)",
+      "nam": 2023,
+      "mo_ta": "Sáng ngày 21 tháng 12 năm 2023, tại Trường Phổ thông Hermann Gmeiner (thành phố Vinh), trần gỗ của một lớp học bất ngờ sập xuống khi học sinh đang trong giờ học. Sự cố khiến nhiều học sinh bị thương, trong đó có một em bị chấn thương sọ não và gãy xương.",
+      "nhom": "Sập trần và sàn lớp học"
+    },
+    {
+      "vu_viec": "Vụ sập giàn giáo tại TP.HCM (2018)",
+      "nam": 2018,
+      "mo_ta": "Ngày 20 tháng 11 năm 2018, trong lễ kỷ niệm ngày Nhà giáo Việt Nam tại Trường Tiểu học Huỳnh Văn Bánh, hệ thống giàn giáo sân khấu bị sập khiến 25 học sinh bị thương và hoảng loạn.",
+      "nhom": "Sập trần và sàn lớp học"
+    },
+    {
+      "vu_viec": "Vụ rơi vữa trần tại Hà Nội (2018)",
+      "nam": 2018,
+      "mo_ta": "Tại Trường THPT Trần Nhân Tông, một mảng vữa lớn từ trần nhà rơi xuống trúng đầu 3 học sinh lớp 12 đang ngồi học, khiến các em phải nhập viện cấp cứu.",
+      "nhom": "Sập trần và sàn lớp học"
+    },
+    {
+      "vu_viec": "Vụ sập trần thạch cao tại Nghệ An (2025)",
+      "nam": 2025,
+      "mo_ta": "Ngày 31 tháng 10 năm 2025, tại Cơ sở mầm non Song Phan 2, trần thạch cao đổ sập trong giờ ngủ trưa đè trúng các bé mầm non. Một bé 22 tháng tuổi bị thương nặng vùng mặt và phải khâu thẩm mỹ. Phụ huynh sau đó đã chuẩn bị khởi kiện nhà trường vì thiếu trách nhiệm trong bồi thường.",
+      "nhom": "Sập trần và sàn lớp học"
+    },
+    {
+      "vu_viec": "Trường THPT Kim Liên (Hà Nội, 2009)",
+      "nam": 2009,
+      "mo_ta": "Một chiếc quạt trần đang quay bị gãy trục rơi xuống lớp 12A15, chém vào đầu hai học sinh gây thương tích phải khâu nhiều mũi.",
+      "nhom": "Sự cố quạt trần rơi"
+    },
+    {
+      "vu_viec": "Trường Tân Lâm (Quảng Trị, 2015)",
+      "nam": 2015,
+      "mo_ta": "Trong giờ Mỹ thuật, quạt trần rơi xuống bàn học sinh lớp 7 khiến 2 em bị cắt trúng, chảy máu đầu và tai.",
+      "nhom": "Sự cố quạt trần rơi"
+    },
+    {
+      "vu_viec": "Trường Tiểu học Kim Đồng (Lào Cai, 2020)",
+      "nam": 2020,
+      "mo_ta": "Quạt trần rơi trúng một học sinh lớp 2 trong giờ học, gây chấn thương phần mềm ở trán.",
+      "nhom": "Sự cố quạt trần rơi"
+    },
+    {
+      "vu_viec": "Vụ cây phượng đổ tại Trường THCS Bạch Đằng (2020)",
+      "nam": 2020,
+      "mo_ta": "Sáng ngày 26 tháng 5 năm 2020, một cây phượng vĩ cổ thụ trong sân Trường THCS Bạch Đằng bất ngờ bật gốc, đè trúng nhóm học sinh lớp 6 đang ăn sáng. Tai nạn khiến em N.T.K. (12 tuổi) tử vong và 17 học sinh khác bị thương. Sự kiện này dẫn đến làn sóng chặt bỏ hoặc cắt trụi cây phượng tại nhiều trường học trên cả nước do lo ngại an toàn.",
+      "nhom": "Tai nạn liên quan đến cây xanh và thiên nhiên"
+    },
+    {
+      "vu_viec": "Vụ Gateway (Hà Nội, 2019)",
+      "nam": 2019,
+      "mo_ta": "Đây là vụ án rúng động nhất liên quan đến xe đưa đón. Ngày 6 tháng 8 năm 2019, bé Lê Hoàng Long (6 tuổi, lớp 1) Trường Phổ thông liên cấp Quốc tế Gateway (quận Cầu Giấy) bị bỏ quên trên xe 16 chỗ suốt 9 tiếng đồng hồ dưới trời nắng. Bé được phát hiện đã tử vong vào buổi chiều cùng ngày. Vụ việc dẫn đến việc khởi tố tài xế, người đưa đón (monitor) và giáo viên chủ nhiệm.",
+      "nhom": "Bỏ quên học sinh trên xe đưa đón"
+    },
+    {
+      "vu_viec": "Vụ trường mầm non Hồng Nhung (Thái Bình, 2024)",
+      "nam": 2024,
+      "mo_ta": "Ngày 29 tháng 5 năm 2024, một bé trai 5 tuổi bị bỏ quên trên xe đưa đón của Trường Mầm non Hồng Nhung 2. Bé bị kẹt trong xe từ sáng đến chiều tối và tử vong do suy hô hấp và sốc nhiệt.",
+      "nhom": "Bỏ quên học sinh trên xe đưa đón"
+    },
+    {
+      "vu_viec": "Vụ rơi học sinh tại Đồng Nai (2019)",
+      "nam": 2019,
+      "mo_ta": "Trong tháng 11 năm 2019, liên tiếp xảy ra hai vụ học sinh bị văng khỏi xe đưa đón khi xe đang chạy. Tại Trường Tiểu học Phan Bội Châu (Biên Hòa), 3 học sinh bị rơi xuống đường khi cửa sau xe bung ra ở khúc cua. Vài ngày sau, 2 học sinh Trường Tiểu học Diên Hồng (huyện Trảng Bom) cũng bị rơi khỏi xe do cửa hỏng.",
+      "nhom": "Tai nạn khi xe đang di chuyển"
+    },
+    {
+      "vu_viec": "Vụ học sinh bị xe đưa đón cán tử vong (Đồng Nai, 2023)",
+      "nam": 2023,
+      "mo_ta": "Tháng 2 năm 2023, một bé gái lớp 3 Trường Tiểu học Hà Huy Giáp (TP. Biên Hòa) sau khi xuống xe đưa đón đã đi vòng qua đầu xe và bị tài xế thiếu quan sát cán tử vong tại chỗ.",
+      "nhom": "Tai nạn khi xe đang di chuyển"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách tai nạn học đường tại Việt Nam - Free Download",
+    "description": "Các vụ tai nạn xảy ra tại trường học ở Việt Nam như sập tường, sập trần, đổ cây, với năm và mô tả sự việc. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách tai nạn học đường tại Việt Nam | ListBase",
+    "seo_description": "Download Danh sách tai nạn học đường tại Việt Nam — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_sách_tai_nạn_học_đường_Việt_Nam"
+    ]
+  }
+}
