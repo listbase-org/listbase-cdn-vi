@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-04T02:26:01.708Z",
-  "total_datasets": 578,
-  "total_records": 129617,
+  "generated": "2026-11-04T02:26:08.801Z",
+  "total_datasets": 579,
+  "total_records": 129663,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -1468,6 +1468,30 @@
         "xlsx": {
           "name": "vi-ca-nuoc-ngot-dong-bang-song-cuu-long_VI.xlsx",
           "size": 13440
+        }
+      }
+    },
+    {
+      "id": "vi-cay-di-san",
+      "name": "Danh sách cây di sản Việt Nam",
+      "category": "environment",
+      "record_count": 46,
+      "columns": [
+        "ten_cay",
+        "loai_cay",
+        "mo_ta"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_cây_di_sản_ở_Việt_Nam",
+      "updated": "2026-11",
+      "size": 27195,
+      "files": {
+        "csv": {
+          "name": "vi-cay-di-san_VI.csv",
+          "size": 22635
+        },
+        "xlsx": {
+          "name": "vi-cay-di-san_VI.xlsx",
+          "size": 15237
         }
       }
     },
