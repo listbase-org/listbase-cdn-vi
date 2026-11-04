@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-04T02:26:16.860Z",
-  "total_datasets": 580,
-  "total_records": 129679,
+  "generated": "2026-11-04T02:26:23.924Z",
+  "total_datasets": 581,
+  "total_records": 129872,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -13818,6 +13818,28 @@
         "xlsx": {
           "name": "vi-tai-nan-hoc-duong_VI.xlsx",
           "size": 9239
+        }
+      }
+    },
+    {
+      "id": "vi-to-chuc-phi-chinh-phu",
+      "name": "Danh sách tổ chức phi chính phủ tại Việt Nam",
+      "category": "society",
+      "record_count": 193,
+      "columns": [
+        "ten_to_chuc"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_tổ_chức_phi_chính_phủ_tại_Việt_Nam",
+      "updated": "2026-11",
+      "size": 14916,
+      "files": {
+        "csv": {
+          "name": "vi-to-chuc-phi-chinh-phu_VI.csv",
+          "size": 6802
+        },
+        "xlsx": {
+          "name": "vi-to-chuc-phi-chinh-phu_VI.xlsx",
+          "size": 11392
         }
       }
     },
