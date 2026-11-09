@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-09T02:35:10.927Z",
-  "total_datasets": 582,
-  "total_records": 129946,
+  "generated": "2026-11-09T02:35:18.296Z",
+  "total_datasets": 583,
+  "total_records": 130009,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -2087,6 +2087,29 @@
         "xlsx": {
           "name": "vi-bien-the-banh-mi_VI.xlsx",
           "size": 11878
+        }
+      }
+    },
+    {
+      "id": "vi-cac-loai-banh-viet-nam",
+      "name": "Các loại bánh Việt Nam",
+      "category": "food",
+      "record_count": 63,
+      "columns": [
+        "ten",
+        "mo_ta"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Thể_loại:Bánh_Việt_Nam",
+      "updated": "2026-11",
+      "size": 17496,
+      "files": {
+        "csv": {
+          "name": "vi-cac-loai-banh-viet-nam_VI.csv",
+          "size": 13427
+        },
+        "xlsx": {
+          "name": "vi-cac-loai-banh-viet-nam_VI.xlsx",
+          "size": 11741
         }
       }
     },
