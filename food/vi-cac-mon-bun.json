@@ -1,0 +1,112 @@
+{
+  "id": "vi-cac-mon-bun",
+  "name": "Các món bún Việt Nam",
+  "title": "Các món bún Việt Nam",
+  "description": "Các món bún của Việt Nam kèm mô tả ngắn (theo thể loại Bún trên Wikipedia tiếng Việt).",
+  "category": "food",
+  "source": "https://vi.wikipedia.org/wiki/Thể_loại:Bún",
+  "source_url": "https://vi.wikipedia.org/wiki/Thể_loại:Bún",
+  "updated": "2026-11",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "ten",
+      "label": "Ten",
+      "type": "string"
+    },
+    {
+      "key": "mo_ta",
+      "label": "Mo Ta",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ten": "Bún bò Huế",
+      "mo_ta": "Bún bò Huế là một trong những đặc sản của thành phố Huế, mặc dù món bún này phổ biến trên cả ba miền ở Việt Nam và cả người Việt tại hải ngoại."
+    },
+    {
+      "ten": "Bún bò Nam Bộ",
+      "mo_ta": "Bún bò Nam Bộ (còn gọi là bún bò xào) là một món ăn Việt Nam phổ biến ở vùng Nam Bộ."
+    },
+    {
+      "ten": "Bún đậu mắm tôm",
+      "mo_ta": "Bún đậu mắm tôm, bún đậu mẹt hay bún đậu là món ăn đơn giản, dân dã trong ẩm thực miền Bắc Việt Nam và có xuất xứ từ Hà Nội."
+    },
+    {
+      "ten": "Bún Mạch Tràng",
+      "mo_ta": "Bún Mạch Tràng (còn gọi là bún tiến vua, bún đen), là một món bún đặc sản thuộc làng Mạch Tràng, xã Đông Anh, thành phố Hà Nội."
+    },
+    {
+      "ten": "Bún mắm",
+      "mo_ta": "Bún mắm là một trong số các món ăn đặc sản của miền tây Nam bộ Việt Nam."
+    },
+    {
+      "ten": "Bún suông",
+      "mo_ta": "Bún suông còn được gọi là bún đuông."
+    },
+    {
+      "ten": "Bún thịt nướng",
+      "mo_ta": "Bún thịt nướng là một món ăn món ăn có nguồn gốc ở miền Nam Việt Nam, về sau đã phổ biến lan rộng tại nhiều nơi trên cả nước."
+    },
+    {
+      "ten": "Bún bung",
+      "mo_ta": "Bún bung là một món ăn dân dã của người Hà Nội, Thái Bình."
+    },
+    {
+      "ten": "Bún chả",
+      "mo_ta": "Bún chả là một món ăn của Việt Nam, bao gồm bún, chả thịt lợn nướng trên than hoa và bát nước mắm chua cay mặn ngọt."
+    },
+    {
+      "ten": "Bún chả cá",
+      "mo_ta": "Bún chả cá là một món ăn đặc trưng của khu vực MIền Trung Việt Nam."
+    },
+    {
+      "ten": "Khao poon",
+      "mo_ta": "Khao poon (tiếng Lào: ເຂົ້າປຸ້ນ, phát âm [kʰà(ː)w pûn]); hay còn biết đến với tên gọi Bún cà ri Hoàng gia Lào hay Laksa Lào và đôi khi được đánh vần là kapoon, khao poun hoặc khao pun) là một món ăn trứ danh trong nền ẩm thực Lào."
+    },
+    {
+      "ten": "Bún mọc",
+      "mo_ta": "Bún mọc, là món ăn có nguồn gốc miền Bắc Việt Nam, món bún này đặc trưng với nguyên liệu là một viên mọc (thịt bằm nhuyễn vo tròn) trong tô bún."
+    },
+    {
+      "ten": "Mohinga",
+      "mo_ta": "Mohinga (tiếng Miến Điện: မုန့်ဟင်းခါး; MLCTS: mun.hang: hka:, IPA: [mo̰ʊɰ̃hɪ́ɰ̃ɡá]; còn phát âm là mont hin gar) là món bún nước lèo với cá tại Myanmar và là một phần thiết yếu trong ẩm thực Miến Điện."
+    },
+    {
+      "ten": "Bún nem",
+      "mo_ta": "Bún nem (theo cách gọi miền Bắc) hay bún chả giò (miền Nam) là một món ăn đặc sản của người Hà Nội gồm bún (bún rối hoặc bún lá) và nem rán (chả giò)."
+    },
+    {
+      "ten": "Bún nước lèo",
+      "mo_ta": "Bún nước lèo là loại bún nước thịnh hành tại nhiều địa phương miền Nam Việt Nam, đặc biệt nổi tiếng tại Sóc Trăng (nay là Cần Thơ), Trà Vinh (nay là Vĩnh Long), Châu Đốc, Cà Mau."
+    },
+    {
+      "ten": "Bún ốc",
+      "mo_ta": "Bún ốc là một đặc sản ẩm thực của người Hà Nội."
+    },
+    {
+      "ten": "Bún riêu cua",
+      "mo_ta": "Bún riêu cua là một món ăn truyền thống Việt Nam, có nguồn gốc từ vùng đồng bằng sông Hồng của Việt Nam, được biết đến rộng rãi trong nước và quốc tế."
+    },
+    {
+      "ten": "Bún sứa",
+      "mo_ta": "Bún sứa là món ăn không thể thiếu và là món ăn đặc sản vùng đất Miền Trung từ Phan Thiết trở ra."
+    },
+    {
+      "ten": "Bún thang",
+      "mo_ta": "Bún thang là một đặc sản ẩm thực của người Hà Nội-Việt Nam."
+    }
+  ],
+  "meta": {
+    "title": "Các món bún Việt Nam - Free Download",
+    "description": "Các món bún của Việt Nam kèm mô tả ngắn (theo thể loại Bún trên Wikipedia tiếng Việt). Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Các món bún Việt Nam | ListBase",
+    "seo_description": "Download Các món bún Việt Nam — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Thể_loại:Bún"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-09T02:35:26.029Z",
-  "total_datasets": 584,
-  "total_records": 130034,
+  "generated": "2026-11-09T02:35:33.154Z",
+  "total_datasets": 585,
+  "total_records": 130053,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -2155,6 +2155,29 @@
         "xlsx": {
           "name": "vi-cac-loai-ruou-viet-nam_VI.xlsx",
           "size": 8745
+        }
+      }
+    },
+    {
+      "id": "vi-cac-mon-bun",
+      "name": "Các món bún Việt Nam",
+      "category": "food",
+      "record_count": 19,
+      "columns": [
+        "ten",
+        "mo_ta"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Thể_loại:Bún",
+      "updated": "2026-11",
+      "size": 5384,
+      "files": {
+        "csv": {
+          "name": "vi-cac-mon-bun_VI.csv",
+          "size": 3323
+        },
+        "xlsx": {
+          "name": "vi-cac-mon-bun_VI.xlsx",
+          "size": 8245
         }
       }
     },
