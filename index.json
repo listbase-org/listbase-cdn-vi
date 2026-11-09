@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-04T02:26:23.924Z",
-  "total_datasets": 581,
-  "total_records": 129872,
+  "generated": "2026-11-09T02:35:10.927Z",
+  "total_datasets": 582,
+  "total_records": 129946,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "economy",
@@ -284,6 +284,32 @@
         "xlsx": {
           "name": "vi-bao-tang_VI.xlsx",
           "size": 13893
+        }
+      }
+    },
+    {
+      "id": "vi-bieu-trung-tinh-thanh",
+      "name": "Biểu trưng (logo) các tỉnh thành Việt Nam",
+      "category": "culture",
+      "record_count": 74,
+      "columns": [
+        "tinh_thanh",
+        "ma",
+        "vung",
+        "noi_dung_bieu_trung",
+        "trang_thai"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_biểu_trưng_tỉnh_thành_và_lãnh_thổ_Việt_Nam",
+      "updated": "2026-11",
+      "size": 19290,
+      "files": {
+        "csv": {
+          "name": "vi-bieu-trung-tinh-thanh_VI.csv",
+          "size": 9133
+        },
+        "xlsx": {
+          "name": "vi-bieu-trung-tinh-thanh_VI.xlsx",
+          "size": 10777
         }
       }
     },
