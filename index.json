@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-09T02:35:33.154Z",
+  "generated": "2026-11-09T02:36:12.409Z",
   "total_datasets": 585,
-  "total_records": 130053,
+  "total_records": 130049,
   "categories": [
     {
       "id": "agriculture",
@@ -291,7 +291,7 @@
       "id": "vi-bieu-trung-tinh-thanh",
       "name": "Biểu trưng (logo) các tỉnh thành Việt Nam",
       "category": "culture",
-      "record_count": 74,
+      "record_count": 70,
       "columns": [
         "tinh_thanh",
         "ma",
@@ -301,15 +301,15 @@
       ],
       "source": "https://vi.wikipedia.org/wiki/Danh_sách_biểu_trưng_tỉnh_thành_và_lãnh_thổ_Việt_Nam",
       "updated": "2026-11",
-      "size": 19290,
+      "size": 18507,
       "files": {
         "csv": {
           "name": "vi-bieu-trung-tinh-thanh_VI.csv",
-          "size": 9133
+          "size": 8798
         },
         "xlsx": {
           "name": "vi-bieu-trung-tinh-thanh_VI.xlsx",
-          "size": 10777
+          "size": 10683
         }
       }
     },
