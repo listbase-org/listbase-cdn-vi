@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-09T02:35:18.296Z",
-  "total_datasets": 583,
-  "total_records": 130009,
+  "generated": "2026-11-09T02:35:26.029Z",
+  "total_datasets": 584,
+  "total_records": 130034,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -2132,6 +2132,29 @@
         "xlsx": {
           "name": "vi-cac-loai-che_VI.xlsx",
           "size": 7332
+        }
+      }
+    },
+    {
+      "id": "vi-cac-loai-ruou-viet-nam",
+      "name": "Các loại rượu Việt Nam",
+      "category": "food",
+      "record_count": 25,
+      "columns": [
+        "ten",
+        "mo_ta"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Thể_loại:Rượu_Việt_Nam",
+      "updated": "2026-11",
+      "size": 7825,
+      "files": {
+        "csv": {
+          "name": "vi-cac-loai-ruou-viet-nam_VI.csv",
+          "size": 5328
+        },
+        "xlsx": {
+          "name": "vi-cac-loai-ruou-viet-nam_VI.xlsx",
+          "size": 8745
         }
       }
     },
