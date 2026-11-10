@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-10T02:33:42.222Z",
-  "total_datasets": 586,
-  "total_records": 130109,
+  "generated": "2026-11-10T02:33:51.431Z",
+  "total_datasets": 587,
+  "total_records": 130126,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "society",
@@ -13784,6 +13784,33 @@
         "xlsx": {
           "name": "vi-giai-thuong-ho-chi-minh-khoa-hoc-cong-nghe_VI.xlsx",
           "size": 18204
+        }
+      }
+    },
+    {
+      "id": "vi-nui-lua",
+      "name": "Danh sách núi lửa tại Việt Nam",
+      "category": "science",
+      "record_count": 17,
+      "columns": [
+        "ten",
+        "do_cao_m",
+        "vi_tri",
+        "tinh",
+        "lan_phun_trao_gan_nhat",
+        "kieu"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_núi_lửa_tại_Việt_Nam",
+      "updated": "2026-11",
+      "size": 5667,
+      "files": {
+        "csv": {
+          "name": "vi-nui-lua_VI.csv",
+          "size": 1761
+        },
+        "xlsx": {
+          "name": "vi-nui-lua_VI.xlsx",
+          "size": 8023
         }
       }
     },

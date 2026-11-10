@@ -1,0 +1,192 @@
+{
+  "id": "vi-nui-lua",
+  "name": "Danh sách núi lửa tại Việt Nam",
+  "title": "Danh sách núi lửa tại Việt Nam",
+  "description": "Các núi lửa (đã tắt) trên lãnh thổ Việt Nam với độ cao, tọa độ, tỉnh, lần phun trào gần nhất và kiểu núi lửa.",
+  "category": "science",
+  "source": "https://vi.wikipedia.org/wiki/Danh_sách_núi_lửa_tại_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_sách_núi_lửa_tại_Việt_Nam",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "ten",
+      "label": "Ten",
+      "type": "string"
+    },
+    {
+      "key": "do_cao_m",
+      "label": "Do Cao M",
+      "type": "number"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "tinh",
+      "label": "Tinh",
+      "type": "string"
+    },
+    {
+      "key": "lan_phun_trao_gan_nhat",
+      "label": "Lan Phun Trao Gan Nhat",
+      "type": "string"
+    },
+    {
+      "key": "kieu",
+      "label": "Kieu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ten": "Định Quán - Đồng Nai Hạ",
+      "do_cao_m": 392,
+      "vi_tri": "10,8°B 107,2°Đ",
+      "tinh": "Đồng Nai",
+      "lan_phun_trao_gan_nhat": "Thế Holocen",
+      "kieu": "Tổ hợp"
+    },
+    {
+      "ten": "Lý Sơn",
+      "do_cao_m": "181",
+      "vi_tri": "15,38°B 109,12°Đ",
+      "tinh": "Quảng Ngãi",
+      "lan_phun_trao_gan_nhat": "Thế Holocen",
+      "kieu": "Tổ hợp"
+    },
+    {
+      "ten": "Đồng Nai Thượng",
+      "do_cao_m": "-",
+      "vi_tri": "11,6°B 108,2°Đ",
+      "tinh": "Lâm Đồng",
+      "lan_phun_trao_gan_nhat": "Thế Holocen",
+      "kieu": "Đã bị phá hủy"
+    },
+    {
+      "ten": "Hòn Tro",
+      "do_cao_m": "-20",
+      "vi_tri": "10,158°B 109,014°Đ",
+      "tinh": "Ngoài khơi Lâm Đồng",
+      "lan_phun_trao_gan_nhat": "1923",
+      "kieu": "Núi lửa ngầm"
+    },
+    {
+      "ten": "Toroeng Prong",
+      "do_cao_m": "-",
+      "vi_tri": "14,93°B 108°Đ",
+      "tinh": "Quảng Ngãi",
+      "lan_phun_trao_gan_nhat": "Thế Holocen",
+      "kieu": "Đã bị phá hủy"
+    },
+    {
+      "ten": "Veteran",
+      "do_cao_m": "-",
+      "vi_tri": "9,83°B 109,05°Đ",
+      "tinh": "Ngoài khơi Lâm Đồng",
+      "lan_phun_trao_gan_nhat": "1928",
+      "kieu": "Núi lửa ngầm"
+    },
+    {
+      "ten": "Núi Bà Đen",
+      "do_cao_m": "996",
+      "vi_tri": "11,382°B 106,171°Đ",
+      "tinh": "Tây Ninh",
+      "lan_phun_trao_gan_nhat": "Thế Holocen",
+      "kieu": "Núi lửa đã tắt"
+    },
+    {
+      "ten": "Núi Yên Ngựa",
+      "do_cao_m": "452",
+      "vi_tri": "19°21'53.5\"B 105°26 '54.1\"Đ",
+      "tinh": "Nghệ An",
+      "lan_phun_trao_gan_nhat": "-",
+      "kieu": "Núi lửa hình nón"
+    },
+    {
+      "ten": "Chư Đăng Ya",
+      "do_cao_m": "",
+      "vi_tri": "14°08′16″B 108°02′48″Đ",
+      "tinh": "Gia Lai",
+      "lan_phun_trao_gan_nhat": "Khoảng 10,000 năm trước",
+      "kieu": "Tổ hợp"
+    },
+    {
+      "ten": "Núi Tà Cú",
+      "do_cao_m": "649",
+      "vi_tri": "10° 49′ 41″ N, 107° 52′ 58″ E",
+      "tinh": "Lâm Đồng",
+      "lan_phun_trao_gan_nhat": "-",
+      "kieu": "Núi lửa đã tắt"
+    },
+    {
+      "ten": "Chư Blưk",
+      "do_cao_m": "290",
+      "vi_tri": "12,4B 107,9Đ",
+      "tinh": "Lâm Đồng",
+      "lan_phun_trao_gan_nhat": "-",
+      "kieu": "Núi lửa dạng tầng, Hang động núi lửa"
+    },
+    {
+      "ten": "T'Nưng",
+      "do_cao_m": "-19",
+      "vi_tri": "14° 3′ 34″ N, 108° 0′ 52″ E",
+      "tinh": "Gia Lai",
+      "lan_phun_trao_gan_nhat": "-",
+      "kieu": "Tổ hợp, Miệng núi lửa đổ sụp"
+    },
+    {
+      "ten": "Vinhkh - Linhkh",
+      "do_cao_m": "-",
+      "vi_tri": "17.08°N 107.05°E",
+      "tinh": "Quảng Trị",
+      "lan_phun_trao_gan_nhat": "Thế Pleistocene",
+      "kieu": "Đã bị phá hủy"
+    },
+    {
+      "ten": "Bà Rá",
+      "do_cao_m": "563",
+      "vi_tri": "11.81, 107.00",
+      "tinh": "Đồng Nai",
+      "lan_phun_trao_gan_nhat": "-",
+      "kieu": "Núi lửa đã tắt"
+    },
+    {
+      "ten": "R'chai",
+      "do_cao_m": "250",
+      "vi_tri": "11.706943443661809, 108.31473297243528",
+      "tinh": "Lâm Đồng",
+      "lan_phun_trao_gan_nhat": "-",
+      "kieu": "Tổ hợp"
+    },
+    {
+      "ten": "Núi Đọ",
+      "do_cao_m": "160m",
+      "vi_tri": "19.874861793531796, 105.73260407591457",
+      "tinh": "Thanh Hóa",
+      "lan_phun_trao_gan_nhat": "-",
+      "kieu": "Núi lửa đã tắt"
+    },
+    {
+      "ten": "Trường Sơn (núi lửa)",
+      "do_cao_m": "<150m",
+      "vi_tri": "12.991735482750078, 109.07172949473637",
+      "tinh": "Đắk Lắk",
+      "lan_phun_trao_gan_nhat": "-",
+      "kieu": "Núi lửa hình nón"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách núi lửa tại Việt Nam - Free Download",
+    "description": "Các núi lửa (đã tắt) trên lãnh thổ Việt Nam với độ cao, tọa độ, tỉnh, lần phun trào gần nhất và kiểu núi lửa. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách núi lửa tại Việt Nam | ListBase",
+    "seo_description": "Download Danh sách núi lửa tại Việt Nam — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_sách_núi_lửa_tại_Việt_Nam"
+    ]
+  }
+}
