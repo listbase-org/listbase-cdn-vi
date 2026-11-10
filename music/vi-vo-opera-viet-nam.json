@@ -1,0 +1,214 @@
+{
+  "id": "vi-vo-opera-viet-nam",
+  "name": "Danh sách vở opera Việt Nam",
+  "title": "Danh sách vở opera Việt Nam",
+  "description": "Các vở opera do nhạc sĩ Việt Nam sáng tác: tên, tác giả, bố cục, năm sáng tác và năm công diễn lần đầu.",
+  "category": "music",
+  "source": "https://vi.wikipedia.org/wiki/Danh_sách_vở_opera_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_sách_vở_opera_Việt_Nam",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "ten",
+      "label": "Ten",
+      "type": "string"
+    },
+    {
+      "key": "ten_nguyen_goc",
+      "label": "Ten Nguyen Goc",
+      "type": "string"
+    },
+    {
+      "key": "tac_gia",
+      "label": "Tac Gia",
+      "type": "string"
+    },
+    {
+      "key": "bo_cuc",
+      "label": "Bo Cuc",
+      "type": "string"
+    },
+    {
+      "key": "nam_sang_tac",
+      "label": "Nam Sang Tac",
+      "type": "number"
+    },
+    {
+      "key": "nam_cong_dien",
+      "label": "Nam Cong Dien",
+      "type": "number"
+    },
+    {
+      "key": "nhom",
+      "label": "Nhom",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ten": "Cô Sao",
+      "ten_nguyen_goc": "",
+      "tac_gia": "Đỗ Nhuận",
+      "bo_cuc": "3 màn",
+      "nam_sang_tac": 1965,
+      "nam_cong_dien": 1965,
+      "nhom": "Opera của người Việt"
+    },
+    {
+      "ten": "Bông sen",
+      "ten_nguyen_goc": "",
+      "tac_gia": "Hoàng Việt, Lưu Hữu Phước và Nguyễn Vũ",
+      "bo_cuc": "1 màn",
+      "nam_sang_tac": 1967,
+      "nam_cong_dien": 1968,
+      "nhom": "Opera của người Việt"
+    },
+    {
+      "ten": "Bên bờ Krông Pa",
+      "ten_nguyen_goc": "",
+      "tac_gia": "Nhật Lai",
+      "bo_cuc": "3 màn",
+      "nam_sang_tac": 1968,
+      "nam_cong_dien": 1968,
+      "nhom": "Opera của người Việt"
+    },
+    {
+      "ten": "Người tạc tượng",
+      "ten_nguyen_goc": "",
+      "tac_gia": "Đỗ Nhuận",
+      "bo_cuc": "3 màn",
+      "nam_sang_tac": 1968,
+      "nam_cong_dien": 1968,
+      "nhom": "Opera của người Việt"
+    },
+    {
+      "ten": "Nguyễn Trãi ở Đông Quan",
+      "ten_nguyen_goc": "",
+      "tac_gia": "Đỗ Nhuận",
+      "bo_cuc": "3 màn",
+      "nam_sang_tac": 1980,
+      "nam_cong_dien": "",
+      "nhom": "Opera của người Việt"
+    },
+    {
+      "ten": "Tình yêu của em",
+      "ten_nguyen_goc": "",
+      "tac_gia": "Nguyễn Đình Tấn",
+      "bo_cuc": "3 màn",
+      "nam_sang_tac": 1981,
+      "nam_cong_dien": "",
+      "nhom": "Opera của người Việt"
+    },
+    {
+      "ten": "Người giữ cồn",
+      "ten_nguyen_goc": "",
+      "tac_gia": "Ca Lê Thuần",
+      "bo_cuc": "2 màn",
+      "nam_sang_tac": 2009,
+      "nam_cong_dien": 2013,
+      "nhom": "Opera của người Việt"
+    },
+    {
+      "ten": "Lá đỏ",
+      "ten_nguyen_goc": "",
+      "tac_gia": "Đỗ Hồng Quân",
+      "bo_cuc": "2 màn",
+      "nam_sang_tac": 2013,
+      "nam_cong_dien": 2016,
+      "nhom": "Opera của người Việt"
+    },
+    {
+      "ten": "Bài ca tình yêu",
+      "ten_nguyen_goc": "",
+      "tac_gia": "Doãn Nho",
+      "bo_cuc": "2 màn",
+      "nam_sang_tac": 2014,
+      "nam_cong_dien": 2022,
+      "nhom": "Opera của người Việt"
+    },
+    {
+      "ten": "Công nữ Anio",
+      "ten_nguyen_goc": "",
+      "tac_gia": "Trần Mạnh Hùng",
+      "bo_cuc": "4 màn",
+      "nam_sang_tac": 2022,
+      "nam_cong_dien": 2023,
+      "nhom": "Opera của người Việt"
+    },
+    {
+      "ten": "Vầng trăng Điện Biên",
+      "ten_nguyen_goc": "",
+      "tac_gia": "Đỗ Hồng Quân",
+      "bo_cuc": "2 màn",
+      "nam_sang_tac": 2024,
+      "nam_cong_dien": "",
+      "nhom": "Opera của người Việt"
+    },
+    {
+      "ten": "Mị Châu – Trọng Thuỷ",
+      "ten_nguyen_goc": "",
+      "tac_gia": "Nguyễn Thiên Đạo",
+      "bo_cuc": "2 màn",
+      "nam_sang_tac": 1978,
+      "nam_cong_dien": 1978,
+      "nhom": "Opera của người Việt hải ngoại"
+    },
+    {
+      "ten": "",
+      "ten_nguyen_goc": "Lorenzo de' Medici",
+      "tac_gia": "Phan Quang Phục",
+      "bo_cuc": "",
+      "nam_sang_tac": 2006,
+      "nam_cong_dien": 2007,
+      "nhom": "Opera của người Việt hải ngoại"
+    },
+    {
+      "ten": "Câu chuyện bà Thị Kính",
+      "ten_nguyen_goc": "The Tale of Lady Thị Kính",
+      "tac_gia": "Phan Quang Phục",
+      "bo_cuc": "2 màn",
+      "nam_sang_tac": 2014,
+      "nam_cong_dien": 2014,
+      "nhom": "Opera của người Việt hải ngoại"
+    },
+    {
+      "ten": "Trong bụng ngựa",
+      "ten_nguyen_goc": "What the Horse Eats",
+      "tac_gia": "Phan Quang Phục",
+      "bo_cuc": "5 màn",
+      "nam_sang_tac": 2018,
+      "nam_cong_dien": 2018,
+      "nhom": "Opera của người Việt hải ngoại"
+    },
+    {
+      "ten": "Khung cảnh lãng quên",
+      "ten_nguyen_goc": "Paysage dans L'Oubli",
+      "tac_gia": "Olivier Dhénin Hữu",
+      "bo_cuc": "5 màn",
+      "nam_sang_tac": 2023,
+      "nam_cong_dien": 2023,
+      "nhom": "Opera của người Việt hải ngoại"
+    },
+    {
+      "ten": "Đất nước đứng lên",
+      "ten_nguyen_goc": "",
+      "tac_gia": "An Thuyên",
+      "bo_cuc": "6 màn",
+      "nam_sang_tac": 2005,
+      "nam_cong_dien": 2005,
+      "nhom": "Những tác phẩm khác"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách vở opera Việt Nam - Free Download",
+    "description": "Các vở opera do nhạc sĩ Việt Nam sáng tác: tên, tác giả, bố cục, năm sáng tác và năm công diễn lần đầu. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách vở opera Việt Nam | ListBase",
+    "seo_description": "Download Danh sách vở opera Việt Nam — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_sách_vở_opera_Việt_Nam"
+    ]
+  }
+}

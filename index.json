@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-10T02:34:00.899Z",
-  "total_datasets": 588,
-  "total_records": 130197,
+  "generated": "2026-11-10T02:34:11.884Z",
+  "total_datasets": 589,
+  "total_records": 130214,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "politics",
@@ -4970,6 +4970,34 @@
         "xlsx": {
           "name": "vi-video-am-nhac-nhieu-luot-xem-youtube_VI.xlsx",
           "size": 9956
+        }
+      }
+    },
+    {
+      "id": "vi-vo-opera-viet-nam",
+      "name": "Danh sách vở opera Việt Nam",
+      "category": "music",
+      "record_count": 17,
+      "columns": [
+        "ten",
+        "ten_nguyen_goc",
+        "tac_gia",
+        "bo_cuc",
+        "nam_sang_tac",
+        "nam_cong_dien",
+        "nhom"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_vở_opera_Việt_Nam",
+      "updated": "2026-11",
+      "size": 6148,
+      "files": {
+        "csv": {
+          "name": "vi-vo-opera-viet-nam_VI.csv",
+          "size": 1898
+        },
+        "xlsx": {
+          "name": "vi-vo-opera-viet-nam_VI.xlsx",
+          "size": 7888
         }
       }
     },
