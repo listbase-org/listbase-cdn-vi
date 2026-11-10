@@ -1,0 +1,341 @@
+{
+  "id": "vi-cua-bien",
+  "name": "Danh sách cửa biển Việt Nam",
+  "title": "Danh sách cửa biển Việt Nam",
+  "description": "Các cửa sông đổ ra biển (cửa biển) của Việt Nam theo miền Bắc, Trung, Nam và các cửa biển cũ, kèm tên sông và tỉnh.",
+  "category": "geography",
+  "source": "https://vi.wikipedia.org/wiki/Danh_sách_cửa_biển_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_sách_cửa_biển_Việt_Nam",
+  "updated": "2026-11",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "ten",
+      "label": "Ten",
+      "type": "string"
+    },
+    {
+      "key": "ghi_chu",
+      "label": "Ghi Chu",
+      "type": "string"
+    },
+    {
+      "key": "vung",
+      "label": "Vung",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ten": "Cửa Bắc Luân",
+      "ghi_chu": "sông Ka Long, Quảng Ninh",
+      "vung": "miền Bắc"
+    },
+    {
+      "ten": "Cửa Bạch Đằng",
+      "ghi_chu": "",
+      "vung": "miền Bắc"
+    },
+    {
+      "ten": "Cửa Nam Triệu",
+      "ghi_chu": "sông Bạch Đằng, Hải Phòng",
+      "vung": "miền Bắc"
+    },
+    {
+      "ten": "Cửa Văn Úc",
+      "ghi_chu": "sông Văn Úc, Hải Phòng",
+      "vung": "miền Bắc"
+    },
+    {
+      "ten": "Cửa Lạch Tray",
+      "ghi_chu": "sông Lạch Tray, Hải Phòng",
+      "vung": "miền Bắc"
+    },
+    {
+      "ten": "Cửa Cấm",
+      "ghi_chu": "sông Cấm, Hải Phòng",
+      "vung": "miền Bắc"
+    },
+    {
+      "ten": "Cửa Thái Bình",
+      "ghi_chu": "sông Thái Bình, Hải Phòng",
+      "vung": "miền Bắc"
+    },
+    {
+      "ten": "Cửa Diêm Hộ",
+      "ghi_chu": "sông Diêm Hộ, Thái Thụy, Hưng Yên",
+      "vung": "miền Bắc"
+    },
+    {
+      "ten": "Cửa Trà Lý",
+      "ghi_chu": "sông Trà Lý, Hưng Yên",
+      "vung": "miền Bắc"
+    },
+    {
+      "ten": "Cửa Ba Lạt",
+      "ghi_chu": "sông Hồng, Hưng Yên - Ninh Bình",
+      "vung": "miền Bắc"
+    },
+    {
+      "ten": "Cửa Lạch Giang",
+      "ghi_chu": "sông Ninh Cơ, Ninh Bình",
+      "vung": "miền Bắc"
+    },
+    {
+      "ten": "Cửa Đáy",
+      "ghi_chu": "cửa Đại An, Ninh Bình",
+      "vung": "miền Bắc"
+    },
+    {
+      "ten": "Cửa Càn",
+      "ghi_chu": "cửa Lạch Càn, Ninh Bình - Thanh Hóa",
+      "vung": "miền Bắc"
+    },
+    {
+      "ten": "Cửa Lèn",
+      "ghi_chu": "sông Lèn, Thanh Hóa",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Hới",
+      "ghi_chu": "sông Mã, Thanh Hóa",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Lạch Ghép",
+      "ghi_chu": "sông Yên, Thanh Hóa",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Lạch Bạng",
+      "ghi_chu": "Thanh Hóa",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Lò, sông Cấm, Nghệ An",
+      "ghi_chu": "",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Hội",
+      "ghi_chu": "sông Lam, Nghệ An - Hà Tĩnh",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Sót",
+      "ghi_chu": "sông Nghèn, Hà Tĩnh",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Nhượng",
+      "ghi_chu": "Sông Rác, Hà Tĩnh",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Gianh",
+      "ghi_chu": "sông Gianh, Quảng Trị",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Nhật Lệ",
+      "ghi_chu": "sông Nhật Lệ, Quảng Trị",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Tùng",
+      "ghi_chu": "sông Bến Hải, Quảng Trị",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Việt",
+      "ghi_chu": "sông Thạch Hãn, Quảng Trị",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Thuận An",
+      "ghi_chu": "sông Hương, Huế",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Tư Hiền",
+      "ghi_chu": "Huế",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Nam Ô",
+      "ghi_chu": "sông Cu Đê, Đà Nẵng",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Đại",
+      "ghi_chu": "sông Thu Bồn, Đà Nẵng",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Sơn Trà",
+      "ghi_chu": "sông Trà Bồng, Quảng Ngãi",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Sa Kỳ",
+      "ghi_chu": "Quảng Ngãi",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Đại Cổ Lũy",
+      "ghi_chu": "sông Trà Khúc, Quảng Ngãi",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Lở",
+      "ghi_chu": "sông Vệ, Quảng Ngãi",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Mỹ Á",
+      "ghi_chu": "Quảng Ngãi",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Sa Huỳnh",
+      "ghi_chu": "Quảng Ngãi",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Tam Quan",
+      "ghi_chu": "Gia Lai",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Thị Nại",
+      "ghi_chu": "Gia Lai",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Tiên Châu",
+      "ghi_chu": "sông Kỳ Lộ, Đăk Lăk",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Đà Diễn",
+      "ghi_chu": "sông Đà Rằng, Đăk Lăk",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Đà Nông",
+      "ghi_chu": "sông Bàn Thạch, Đăk Lăk",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Hà Liên",
+      "ghi_chu": "sông Dinh, Khánh Hòa",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Lớn",
+      "ghi_chu": "Đại Cù Huân) (sông Cái, Khánh Hòa",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Bé",
+      "ghi_chu": "Tiểu Cù Huân) (sông Cái, Khánh Hòa",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Cam Ranh",
+      "ghi_chu": "Khánh Hòa",
+      "vung": "miền Trung"
+    },
+    {
+      "ten": "Cửa Soài Rạp",
+      "ghi_chu": "sông Soài Rạp, Thành phố Hồ Chí Minh - Đồng Tháp",
+      "vung": "miền Nam"
+    },
+    {
+      "ten": "Cửa Tiểu",
+      "ghi_chu": "sông Cửa Tiểu, Đồng Tháp",
+      "vung": "miền Nam"
+    },
+    {
+      "ten": "Cửa Đại",
+      "ghi_chu": "sông Cửu Long) (sông Mỹ Tho, Đồng Tháp - Vĩnh Long",
+      "vung": "miền Nam"
+    },
+    {
+      "ten": "Cửa Ba Lai",
+      "ghi_chu": "sông Ba Lai, Vĩnh Long",
+      "vung": "miền Nam"
+    },
+    {
+      "ten": "Cửa Hàm Luông",
+      "ghi_chu": "sông Hàm Luông, Vĩnh Long",
+      "vung": "miền Nam"
+    },
+    {
+      "ten": "Cửa Cổ Chiên",
+      "ghi_chu": "sông Cổ Chiên, Vĩnh Long",
+      "vung": "miền Nam"
+    },
+    {
+      "ten": "Cửa Cung Hầu",
+      "ghi_chu": "sông Cổ Chiên, Vĩnh Long",
+      "vung": "miền Nam"
+    },
+    {
+      "ten": "Cửa Định An",
+      "ghi_chu": "Vĩnh Long - Cần Thơ",
+      "vung": "miền Nam"
+    },
+    {
+      "ten": "Cửa Trần Đề",
+      "ghi_chu": "Cần Thơ",
+      "vung": "miền Nam"
+    },
+    {
+      "ten": "Cửa Mỹ Thanh",
+      "ghi_chu": "sông Mỹ Thanh, Cần Thơ",
+      "vung": "miền Nam"
+    },
+    {
+      "ten": "Cửa Gành Hào",
+      "ghi_chu": "sông Gành Hào, Cà Mau",
+      "vung": "miền Nam"
+    },
+    {
+      "ten": "Cửa Bồ Đề",
+      "ghi_chu": "sông Cửa Lớn, Cà Mau",
+      "vung": "miền Nam"
+    },
+    {
+      "ten": "Cửa Mũi Ông Trang",
+      "ghi_chu": "sông Cửa Lớn, Cà Mau",
+      "vung": "miền Nam"
+    },
+    {
+      "ten": "Cửa Bảy Háp",
+      "ghi_chu": "sông Bảy Háp, Cà Mau",
+      "vung": "miền Nam"
+    },
+    {
+      "ten": "Cửa Thần Phù",
+      "ghi_chu": "Ninh Bình - Thanh Hóa",
+      "vung": "Cửa biển cũ"
+    },
+    {
+      "ten": "Cửa Ba Thắc",
+      "ghi_chu": "sông Hậu, đã bị đất bồi từ khoảng thập niên 1970",
+      "vung": "Cửa biển cũ"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách cửa biển Việt Nam - Free Download",
+    "description": "Các cửa sông đổ ra biển (cửa biển) của Việt Nam theo miền Bắc, Trung, Nam và các cửa biển cũ, kèm tên sông và tỉnh. Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách cửa biển Việt Nam | ListBase",
+    "seo_description": "Download Danh sách cửa biển Việt Nam — 60 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 60 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_sách_cửa_biển_Việt_Nam"
+    ]
+  }
+}

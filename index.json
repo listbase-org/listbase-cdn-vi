@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-09T02:36:12.409Z",
-  "total_datasets": 585,
-  "total_records": 130049,
+  "generated": "2026-11-10T02:33:42.222Z",
+  "total_datasets": 586,
+  "total_records": 130109,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 40
+      "dataset_count": 41
     },
     {
       "id": "health",
@@ -2774,6 +2774,30 @@
         "xlsx": {
           "name": "vi-cac-quoc-gia-the-gioi_VI.xlsx",
           "size": 13655
+        }
+      }
+    },
+    {
+      "id": "vi-cua-bien",
+      "name": "Danh sách cửa biển Việt Nam",
+      "category": "geography",
+      "record_count": 60,
+      "columns": [
+        "ten",
+        "ghi_chu",
+        "vung"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_cửa_biển_Việt_Nam",
+      "updated": "2026-11",
+      "size": 8818,
+      "files": {
+        "csv": {
+          "name": "vi-cua-bien_VI.csv",
+          "size": 3762
+        },
+        "xlsx": {
+          "name": "vi-cua-bien_VI.xlsx",
+          "size": 8650
         }
       }
     },
