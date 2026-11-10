@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-10T02:33:51.431Z",
-  "total_datasets": 587,
-  "total_records": 130126,
+  "generated": "2026-11-10T02:34:00.899Z",
+  "total_datasets": 588,
+  "total_records": 130197,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "economy",
@@ -701,6 +701,29 @@
         "xlsx": {
           "name": "vi-rap-chieu-phim_VI.xlsx",
           "size": 7726
+        }
+      }
+    },
+    {
+      "id": "vi-tro-choi-truyen-thong",
+      "name": "Trò chơi dân gian truyền thống Việt Nam",
+      "category": "culture",
+      "record_count": 71,
+      "columns": [
+        "tro_choi",
+        "dan_toc"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_trò_chơi_truyền_thống_của_Việt_Nam",
+      "updated": "2026-11",
+      "size": 7571,
+      "files": {
+        "csv": {
+          "name": "vi-tro-choi-truyen-thong_VI.csv",
+          "size": 2520
+        },
+        "xlsx": {
+          "name": "vi-tro-choi-truyen-thong_VI.xlsx",
+          "size": 8206
         }
       }
     },
