@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-10T02:34:11.884Z",
-  "total_datasets": 589,
-  "total_records": 130214,
+  "generated": "2026-11-11T02:20:31.627Z",
+  "total_datasets": 590,
+  "total_records": 130232,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 28
+      "dataset_count": 29
     },
     {
       "id": "units",
@@ -16949,6 +16949,34 @@
         "xlsx": {
           "name": "vi-cang-bien_VI.xlsx",
           "size": 8217
+        }
+      }
+    },
+    {
+      "id": "vi-cau-cao-nhat-viet-nam",
+      "name": "Danh sách cầu cao nhất Việt Nam",
+      "category": "transport",
+      "record_count": 18,
+      "columns": [
+        "hang",
+        "cau",
+        "chieu_cao_m",
+        "hoan_thanh",
+        "bac_qua",
+        "vi_tri",
+        "ghi_chu"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_cầu_cao_nhất_Việt_Nam",
+      "updated": "2026-11",
+      "size": 5919,
+      "files": {
+        "csv": {
+          "name": "vi-cau-cao-nhat-viet-nam_VI.csv",
+          "size": 1740
+        },
+        "xlsx": {
+          "name": "vi-cau-cao-nhat-viet-nam_VI.xlsx",
+          "size": 7963
         }
       }
     },

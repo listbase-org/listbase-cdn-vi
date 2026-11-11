@@ -1,0 +1,223 @@
+{
+  "id": "vi-cau-cao-nhat-viet-nam",
+  "name": "Danh sách cầu cao nhất Việt Nam",
+  "title": "Danh sách cầu cao nhất Việt Nam",
+  "description": "Các cây cầu có trụ tháp cao nhất Việt Nam với chiều cao, năm hoàn thành, sông vượt qua và vị trí.",
+  "category": "transport",
+  "source": "https://vi.wikipedia.org/wiki/Danh_sách_cầu_cao_nhất_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_sách_cầu_cao_nhất_Việt_Nam",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "hang",
+      "label": "Hang",
+      "type": "number"
+    },
+    {
+      "key": "cau",
+      "label": "Cau",
+      "type": "string"
+    },
+    {
+      "key": "chieu_cao_m",
+      "label": "Chieu Cao M",
+      "type": "number"
+    },
+    {
+      "key": "hoan_thanh",
+      "label": "Hoan Thanh",
+      "type": "number"
+    },
+    {
+      "key": "bac_qua",
+      "label": "Bac Qua",
+      "type": "string"
+    },
+    {
+      "key": "vi_tri",
+      "label": "Vi Tri",
+      "type": "string"
+    },
+    {
+      "key": "ghi_chu",
+      "label": "Ghi Chu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "hang": 1,
+      "cau": "Cầu Cần Thơ",
+      "chieu_cao_m": 175,
+      "hoan_thanh": 2010,
+      "bac_qua": "Sông Hậu",
+      "vi_tri": "Cần Thơ - Vĩnh Long",
+      "ghi_chu": "Cầu dây văng cao nhất Việt Nam."
+    },
+    {
+      "hang": 2,
+      "cau": "Cầu Phú Mỹ",
+      "chieu_cao_m": 162.5,
+      "hoan_thanh": 2009,
+      "bac_qua": "Sông Sài Gòn",
+      "vi_tri": "Tp Hồ Chí Minh",
+      "ghi_chu": "Cầu dây văng lớn nhất Thành phố Hồ Chí Minh. Một trong các cây cầu hiện đại nhất thế giới."
+    },
+    {
+      "hang": 3,
+      "cau": "Cầu Vàm Cống",
+      "chieu_cao_m": 150,
+      "hoan_thanh": 2018,
+      "bac_qua": "Sông Hậu",
+      "vi_tri": "Cần Thơ - Đồng Tháp",
+      "ghi_chu": ""
+    },
+    {
+      "hang": 4,
+      "cau": "Cầu Trần Thị Lý",
+      "chieu_cao_m": 145,
+      "hoan_thanh": 2013,
+      "bac_qua": "Sông Hàn",
+      "vi_tri": "Đà Nẵng",
+      "ghi_chu": ""
+    },
+    {
+      "hang": 5,
+      "cau": "Cầu Bãi Cháy",
+      "chieu_cao_m": 137.5,
+      "hoan_thanh": 2006,
+      "bac_qua": "Vịnh Cửa Lục",
+      "vi_tri": "Quảng Ninh",
+      "ghi_chu": ""
+    },
+    {
+      "hang": 6,
+      "cau": "Cầu Cao Lãnh",
+      "chieu_cao_m": 123,
+      "hoan_thanh": 2018,
+      "bac_qua": "Sông Tiền",
+      "vi_tri": "Đồng Tháp",
+      "ghi_chu": ""
+    },
+    {
+      "hang": 7,
+      "cau": "Cầu Rạch Miễu",
+      "chieu_cao_m": 117,
+      "hoan_thanh": 2009,
+      "bac_qua": "Sông Tiền",
+      "vi_tri": "Tiền Giang - Bến Tre",
+      "ghi_chu": ""
+    },
+    {
+      "hang": 8,
+      "cau": "Cầu Mỹ Thuận",
+      "chieu_cao_m": 116.5,
+      "hoan_thanh": 2000,
+      "bac_qua": "Sông Tiền",
+      "vi_tri": "Tiền Giang - Vĩnh Long",
+      "ghi_chu": ""
+    },
+    {
+      "hang": 9,
+      "cau": "Cầu Ba Son",
+      "chieu_cao_m": 113,
+      "hoan_thanh": 2022,
+      "bac_qua": "Sông Sài Gòn",
+      "vi_tri": "Tp Hồ Chí Minh",
+      "ghi_chu": ""
+    },
+    {
+      "hang": 10,
+      "cau": "Cầu Nhật Tân",
+      "chieu_cao_m": 110,
+      "hoan_thanh": 2015,
+      "bac_qua": "Sông Hồng",
+      "vi_tri": "Hà Nội",
+      "ghi_chu": "Cầu dây văng lớn nhất Việt Nam."
+    },
+    {
+      "hang": 11,
+      "cau": "Cầu Bính",
+      "chieu_cao_m": 101.6,
+      "hoan_thanh": 2005,
+      "bac_qua": "Sông Cấm",
+      "vi_tri": "Hải Phòng",
+      "ghi_chu": ""
+    },
+    {
+      "hang": 12,
+      "cau": "Cầu Bạch Đằng",
+      "chieu_cao_m": 100,
+      "hoan_thanh": 2018,
+      "bac_qua": "Sông Thái Bình",
+      "vi_tri": "Hải Phòng - Quảng Ninh",
+      "ghi_chu": ""
+    },
+    {
+      "hang": 13,
+      "cau": "Cầu Kiền",
+      "chieu_cao_m": 100,
+      "hoan_thanh": 2003,
+      "bac_qua": "Sông Cấm",
+      "vi_tri": "Hải Phòng",
+      "ghi_chu": ""
+    },
+    {
+      "hang": 14,
+      "cau": "Cầu Pá Uôn",
+      "chieu_cao_m": 99,
+      "hoan_thanh": 2010,
+      "bac_qua": "Sông Đà",
+      "vi_tri": "Sơn La",
+      "ghi_chu": "Cầu có trụ cầu cao nhất Việt Nam."
+    },
+    {
+      "hang": 15,
+      "cau": "Cầu Nhật Lệ 2",
+      "chieu_cao_m": 97.5,
+      "hoan_thanh": 2017,
+      "bac_qua": "Sông Nhật Lệ",
+      "vi_tri": "Quảng Bình",
+      "ghi_chu": ""
+    },
+    {
+      "hang": 16,
+      "cau": "Cầu Thuận Phước",
+      "chieu_cao_m": 92,
+      "hoan_thanh": 2009,
+      "bac_qua": "Sông Hàn",
+      "vi_tri": "Đà Nẵng",
+      "ghi_chu": "Cầu dây võng cao nhất Việt Nam"
+    },
+    {
+      "hang": 17,
+      "cau": "Cầu Móng Sến",
+      "chieu_cao_m": 83,
+      "hoan_thanh": 2021,
+      "bac_qua": "Cầu cạn",
+      "vi_tri": "Lào Cai",
+      "ghi_chu": "Cầu cạn có trụ cao nhất Việt Nam"
+    },
+    {
+      "hang": 18,
+      "cau": "Cầu Sông Hiếu",
+      "chieu_cao_m": 74,
+      "hoan_thanh": 2022,
+      "bac_qua": "Sông Hiếu",
+      "vi_tri": "Quảng Trị",
+      "ghi_chu": ""
+    }
+  ],
+  "meta": {
+    "title": "Danh sách cầu cao nhất Việt Nam - Free Download",
+    "description": "Các cây cầu có trụ tháp cao nhất Việt Nam với chiều cao, năm hoàn thành, sông vượt qua và vị trí. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách cầu cao nhất Việt Nam | ListBase",
+    "seo_description": "Download Danh sách cầu cao nhất Việt Nam — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_sách_cầu_cao_nhất_Việt_Nam"
+    ]
+  }
+}
