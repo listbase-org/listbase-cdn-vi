@@ -1,0 +1,621 @@
+{
+  "id": "vi-tien-giay-dong-viet-nam",
+  "name": "Tiền giấy đồng Việt Nam qua các đợt phát hành",
+  "title": "Tiền giấy đồng Việt Nam qua các đợt phát hành",
+  "description": "Các mệnh giá tiền giấy đồng Việt Nam từ năm 1976 đến nay: kích thước, màu, hình ảnh mặt trước và mặt sau, chất liệu, ngày phát hành và thu hồi.",
+  "category": "finance",
+  "source": "https://vi.wikipedia.org/wiki/Đồng_(đơn_vị_tiền_tệ)",
+  "source_url": "https://vi.wikipedia.org/wiki/Đồng_(đơn_vị_tiền_tệ)",
+  "updated": "2026-11",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "dot_phat_hanh",
+      "label": "Dot Phat Hanh",
+      "type": "string"
+    },
+    {
+      "key": "menh_gia",
+      "label": "Menh Gia",
+      "type": "string"
+    },
+    {
+      "key": "kich_thuoc",
+      "label": "Kich Thuoc",
+      "type": "string"
+    },
+    {
+      "key": "mau_chu_dao",
+      "label": "Mau Chu Dao",
+      "type": "string"
+    },
+    {
+      "key": "mat_truoc",
+      "label": "Mat Truoc",
+      "type": "string"
+    },
+    {
+      "key": "mat_sau",
+      "label": "Mat Sau",
+      "type": "string"
+    },
+    {
+      "key": "loai_giay",
+      "label": "Loai Giay",
+      "type": "string"
+    },
+    {
+      "key": "ngay_phat_hanh",
+      "label": "Ngay Phat Hanh",
+      "type": "string"
+    },
+    {
+      "key": "thu_hoi",
+      "label": "Thu Hoi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "dot_phat_hanh": "Năm 1976",
+      "menh_gia": "5 hào",
+      "kich_thuoc": "107 × 53 mm",
+      "mau_chu_dao": "",
+      "mat_truoc": "Quốc huy",
+      "mat_sau": "Cây dừa, Kênh rạch sông nước Miền Nam",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "2/5/1978",
+      "thu_hoi": "14/9/1985"
+    },
+    {
+      "dot_phat_hanh": "Năm 1976",
+      "menh_gia": "1 Đồng",
+      "kich_thuoc": "113 × 57 mm",
+      "mau_chu_dao": "",
+      "mat_truoc": "Quốc huy",
+      "mat_sau": "Nhà máy sản xuất",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "2/5/1978",
+      "thu_hoi": "14/9/1985"
+    },
+    {
+      "dot_phat_hanh": "Năm 1976",
+      "menh_gia": "5 Đồng",
+      "kich_thuoc": "123 × 62 mm",
+      "mau_chu_dao": "",
+      "mat_truoc": "Quốc huy",
+      "mat_sau": "Bến cảng cá Sài Gòn",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "2/5/1978",
+      "thu_hoi": "14/9/1985"
+    },
+    {
+      "dot_phat_hanh": "Năm 1976",
+      "menh_gia": "10 Đồng",
+      "kich_thuoc": "131 × 64 mm",
+      "mau_chu_dao": "",
+      "mat_truoc": "Quốc huy",
+      "mat_sau": "Voi kéo gỗ",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "2/5/1978",
+      "thu_hoi": "14/9/1985"
+    },
+    {
+      "dot_phat_hanh": "Năm 1976",
+      "menh_gia": "20 Đồng",
+      "kich_thuoc": "140 × 68 mm",
+      "mau_chu_dao": "",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Máy cày và đập nước",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "2/5/1978",
+      "thu_hoi": "14/9/1985"
+    },
+    {
+      "dot_phat_hanh": "Năm 1976",
+      "menh_gia": "50 Đồng",
+      "kich_thuoc": "150 × 75 mm",
+      "mau_chu_dao": "",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Công trường",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "2/5/1978",
+      "thu_hoi": "14/9/1985"
+    },
+    {
+      "dot_phat_hanh": "Năm 1980-1981 (Mệnh giá bổ sung)",
+      "menh_gia": "2 Đồng",
+      "kich_thuoc": "116 × 58 mm",
+      "mau_chu_dao": "",
+      "mat_truoc": "Quốc huy",
+      "mat_sau": "Cầu Phú Xuân, Tòa Thương Bạc",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "1980",
+      "thu_hoi": "14/9/1985"
+    },
+    {
+      "dot_phat_hanh": "Năm 1980-1981 (Mệnh giá bổ sung)",
+      "menh_gia": "10 Đồng",
+      "kich_thuoc": "123 × 63 mm",
+      "mau_chu_dao": "",
+      "mat_truoc": "Quốc huy",
+      "mat_sau": "Nhà sàn chủ tịch Hồ Chí Minh",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "1980",
+      "thu_hoi": "14/9/1985"
+    },
+    {
+      "dot_phat_hanh": "Năm 1980-1981 (Mệnh giá bổ sung)",
+      "menh_gia": "30 Đồng",
+      "kich_thuoc": "139 × 70 mm",
+      "mau_chu_dao": "",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Bến Nhà Rồng hoặc xưởng đóng tàu Ba Son",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "1981",
+      "thu_hoi": "14/9/1985"
+    },
+    {
+      "dot_phat_hanh": "Năm 1980-1981 (Mệnh giá bổ sung)",
+      "menh_gia": "100 Đồng",
+      "kich_thuoc": "158 × 79 mm",
+      "mau_chu_dao": "",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Vịnh Hạ Long",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "1980",
+      "thu_hoi": "14/9/1985"
+    },
+    {
+      "dot_phat_hanh": "Năm 1985",
+      "menh_gia": "5 hào",
+      "kich_thuoc": "100 × 50 mm",
+      "mau_chu_dao": "hồng tím",
+      "mat_truoc": "Cột cờ Hà Nội",
+      "mat_sau": "Bông Sen cách điệu",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "14/9/1985",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1985",
+      "menh_gia": "1 Đồng",
+      "kich_thuoc": "114 × 57 mm",
+      "mau_chu_dao": "Xanh Dương",
+      "mat_truoc": "Cột cờ Hà Nội",
+      "mat_sau": "Hòn Phụ Tử",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "14/9/1985",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1985",
+      "menh_gia": "2 Đồng",
+      "kich_thuoc": "110 × 56 mm",
+      "mau_chu_dao": "xám hồng",
+      "mat_truoc": "Cột cờ Hà Nội",
+      "mat_sau": "Cảng Hà Tiên",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "14/9/1985",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1985",
+      "menh_gia": "5 Đồng",
+      "kich_thuoc": "127 × 63 mm",
+      "mau_chu_dao": "Xanh lá",
+      "mat_truoc": "Cột cờ Hà Nội",
+      "mat_sau": "Sông Hương, Cầu Trường Tiền",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "14/9/1985",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1985",
+      "menh_gia": "10 Đồng",
+      "kich_thuoc": "125 × 64 mm",
+      "mau_chu_dao": "Tím Nâu",
+      "mat_truoc": "Cột cờ Hà Nội",
+      "mat_sau": "Cầu Thê Húc",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "14/9/1985",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1985",
+      "menh_gia": "20 Đồng",
+      "kich_thuoc": "124 × 63 mm",
+      "mau_chu_dao": "nâu tím",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Chùa Một Cột",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "14/9/1985",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1985",
+      "menh_gia": "30 Đồng",
+      "kich_thuoc": "150 × 75 mm",
+      "mau_chu_dao": "xanh đậm",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Chợ Bến Thành",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "14/9/1985",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1985",
+      "menh_gia": "50 Đồng",
+      "kich_thuoc": "150 × 75 mm",
+      "mau_chu_dao": "Xanh hồng",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Cầu Thăng Long",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "14/9/1985",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1985",
+      "menh_gia": "50 Đồng",
+      "kich_thuoc": "151 × 74 mm,",
+      "mau_chu_dao": "Xanh lá cây",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Thuỷ điện Thác Bà",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "14/9/1985",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1985",
+      "menh_gia": "100 Đồng",
+      "kich_thuoc": "158 × 78 mm",
+      "mau_chu_dao": "Nâu Vàng",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Nông dân cấy lúa",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "14/9/1985",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1985",
+      "menh_gia": "500 Đồng",
+      "kich_thuoc": "158 × 78 mm",
+      "mau_chu_dao": "Hồng phai",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Nhà máy xi măng Bỉm Sơn",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "14/9/1985",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1987-1988 (Mệnh giá bổ sung)",
+      "menh_gia": "200 ₫",
+      "kich_thuoc": "130 × 65 mm",
+      "mau_chu_dao": "Nâu đỏ",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Thu hoạch lúa tại cánh đồng 5 tấn tỉnh Thái Bình",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "30/9/1987",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1987-1988 (Mệnh giá bổ sung)",
+      "menh_gia": "500 ₫",
+      "kich_thuoc": "130 × 65 mm",
+      "mau_chu_dao": "Đỏ Cánh Sen",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Cảng Hải Phòng",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "15/8/1988",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1987-1988 (Mệnh giá bổ sung)",
+      "menh_gia": "1.000 ₫",
+      "kich_thuoc": "130 × 65 mm",
+      "mau_chu_dao": "Nâu xanh lá cây",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Khai thác Than ở Quảng Ninh",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "1987",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1987-1988 (Mệnh giá bổ sung)",
+      "menh_gia": "2.000 ₫",
+      "kich_thuoc": "130 × 65 mm",
+      "mau_chu_dao": "Nâu Hồng",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Tổng công ty Gang thép Thái Nguyên",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "1987",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1987-1988 (Mệnh giá bổ sung)",
+      "menh_gia": "5.000 ₫",
+      "kich_thuoc": "130 × 65 mm",
+      "mau_chu_dao": "Xanh biển",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Giàn khoan dầu",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "1987",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1988-1991",
+      "menh_gia": "100 ₫",
+      "kich_thuoc": "120 × 59 mm",
+      "mau_chu_dao": "Nâu đen",
+      "mat_truoc": "Quốc huy",
+      "mat_sau": "Chùa Phổ Minh",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "2/5/1992",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1988-1991",
+      "menh_gia": "1.000 ₫",
+      "kich_thuoc": "130 × 65 mm",
+      "mau_chu_dao": "Xanh nhạt, vàng",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Khai thác gỗ bằng voi kéo ở Tây Nguyên",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "20/10/1989",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1988-1991",
+      "menh_gia": "2.000 ₫",
+      "kich_thuoc": "130 × 65 mm",
+      "mau_chu_dao": "Nâu sẫm",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Nhà máy dệt Nam Định",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "20/10/1989",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1988-1991",
+      "menh_gia": "5.000 ₫",
+      "kich_thuoc": "130 × 65 mm",
+      "mau_chu_dao": "Xanh lơ sẫm",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Nhà máy thủy điện Trị An",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "15/01/1993",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1988-1991",
+      "menh_gia": "10.000 ₫",
+      "kich_thuoc": "140 × 68 mm",
+      "mau_chu_dao": "Đỏ tia",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Vịnh Hạ Long",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "2/5/1992",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1988-1991",
+      "menh_gia": "20.000 ₫",
+      "kich_thuoc": "140 × 68 mm",
+      "mau_chu_dao": "Xanh lơ sẫm",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Xưởng sản xuất đồ hộp",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "02/03/1993",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1988-1991",
+      "menh_gia": "50.000 ₫",
+      "kich_thuoc": "140 × 68 mm",
+      "mau_chu_dao": "Xanh lá cây xẫm",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Bến Nhà Rồng",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "2/3/1993",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1993-1994",
+      "menh_gia": "10.000 ₫",
+      "kich_thuoc": "140 × 68 mm",
+      "mau_chu_dao": "Đỏ tia",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Vịnh Hạ Long",
+      "loai_giay": "",
+      "ngay_phat_hanh": "15/10/1994",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1993-1994",
+      "menh_gia": "50.000 ₫",
+      "kich_thuoc": "140 × 68 mm",
+      "mau_chu_dao": "Xanh lá cây xẫm",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Bến Nhà Rồng",
+      "loai_giay": "",
+      "ngay_phat_hanh": "15/10/1994",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Năm 1993-1994",
+      "menh_gia": "100.000 ₫",
+      "kich_thuoc": "145 × 71 mm",
+      "mau_chu_dao": "Nâu sẫm",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Nhà sàn Bác Hồ",
+      "loai_giay": "",
+      "ngay_phat_hanh": "01/09/2000",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Các mệnh giá đang lưu hành",
+      "menh_gia": "100 ₫",
+      "kich_thuoc": "120 × 59 mm",
+      "mau_chu_dao": "Nâu đen",
+      "mat_truoc": "Quốc huy",
+      "mat_sau": "Chùa Phổ Minh",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "2/5/1992",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Các mệnh giá đang lưu hành",
+      "menh_gia": "200 ₫",
+      "kich_thuoc": "130 × 65 mm",
+      "mau_chu_dao": "Nâu đỏ",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Thu hoạch lúa tại cánh đồng 5 tấn tỉnh Thái Bình",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "30/09/1987",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Các mệnh giá đang lưu hành",
+      "menh_gia": "500 ₫",
+      "kich_thuoc": "130 × 65 mm",
+      "mau_chu_dao": "Đỏ cánh sen",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Cảng Hải Phòng",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "15/08/1989",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Các mệnh giá đang lưu hành",
+      "menh_gia": "1.000 ₫",
+      "kich_thuoc": "130 × 65 mm",
+      "mau_chu_dao": "Xanh nhạt, vàng",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Khai thác gỗ bằng voi kéo ở Tây Nguyên",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "20/10/1989",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Các mệnh giá đang lưu hành",
+      "menh_gia": "2.000 ₫",
+      "kich_thuoc": "130 × 65 mm",
+      "mau_chu_dao": "Nâu sẫm",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Nhà máy dệt Nam Định",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "20/10/1989",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Các mệnh giá đang lưu hành",
+      "menh_gia": "5.000 ₫",
+      "kich_thuoc": "130 × 65 mm",
+      "mau_chu_dao": "Xanh lơ sẫm",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Nhà máy thủy điện Trị An",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "15/01/1993",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Các mệnh giá đang lưu hành",
+      "menh_gia": "10.000 ₫",
+      "kich_thuoc": "132 × 60 mm",
+      "mau_chu_dao": "Nâu đậm trên nền vàng",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Mỏ dầu Bạch Hổ",
+      "loai_giay": "Polymer",
+      "ngay_phat_hanh": "30/08/2006",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Các mệnh giá đang lưu hành",
+      "menh_gia": "20.000 ₫",
+      "kich_thuoc": "136 × 65 mm",
+      "mau_chu_dao": "Xanh lơ đậm",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Chùa Cầu Hội An",
+      "loai_giay": "Polymer",
+      "ngay_phat_hanh": "17/05/2006",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Các mệnh giá đang lưu hành",
+      "menh_gia": "50.000 ₫",
+      "kich_thuoc": "140 × 65 mm",
+      "mau_chu_dao": "Nâu tím đỏ",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "khu di tích Nghênh Lương Đình - Phu Văn Lâu",
+      "loai_giay": "Polymer",
+      "ngay_phat_hanh": "17/12/2003",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Các mệnh giá đang lưu hành",
+      "menh_gia": "100.000 ₫",
+      "kich_thuoc": "144 × 65 mm",
+      "mau_chu_dao": "Xanh lá cây đậm",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Quốc Tử Giám",
+      "loai_giay": "Polymer",
+      "ngay_phat_hanh": "01/09/2004",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Các mệnh giá đang lưu hành",
+      "menh_gia": "200.000 ₫",
+      "kich_thuoc": "148 × 65 mm",
+      "mau_chu_dao": "Đỏ nâu",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "hòn Đỉnh Hương ở Vịnh Hạ Long",
+      "loai_giay": "Polymer",
+      "ngay_phat_hanh": "30/08/2006",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Các mệnh giá đang lưu hành",
+      "menh_gia": "500.000 ₫",
+      "kich_thuoc": "152 × 65 mm",
+      "mau_chu_dao": "Xanh lơ tím sẫm",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Ngôi nhà tranh 5 gian tại Làng Sen, Kim Liên, Nam Đàn, Nghệ An",
+      "loai_giay": "Polymer",
+      "ngay_phat_hanh": "17/12/2003",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Tiền kỉ niệm",
+      "menh_gia": "50 ₫",
+      "kich_thuoc": "165 × 82 mm",
+      "mau_chu_dao": "Hồng và đỏ",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Tòa nhà trụ sở Ngân hàng Nhà nước Việt Nam",
+      "loai_giay": "Polymer",
+      "ngay_phat_hanh": "(tiền kỷ niệm nhân dịp 50 năm thành lập Ngân hàng Nhà nước Việt Nam (06/05/1951-06/05/2001) Được xem là tờ tiền Polymer đầu tiên của Việt Nam",
+      "thu_hoi": ""
+    },
+    {
+      "dot_phat_hanh": "Tiền kỉ niệm",
+      "menh_gia": "100 ₫",
+      "kich_thuoc": "163 x 82mm",
+      "mau_chu_dao": "Đỏ và vàng",
+      "mat_truoc": "Hồ Chí Minh",
+      "mat_sau": "Tòa nhà trụ sở Ngân hàng Nhà nước Việt Nam",
+      "loai_giay": "Cotton",
+      "ngay_phat_hanh": "(tiền lưu niệm nhân dịp 65 năm thành lập Ngân hàng Nhà nước Việt Nam (6/5/1951 – 6/5/2016).",
+      "thu_hoi": ""
+    }
+  ],
+  "meta": {
+    "title": "Tiền giấy đồng Việt Nam qua các đợt phát hành - Free Download",
+    "description": "Các mệnh giá tiền giấy đồng Việt Nam từ năm 1976 đến nay: kích thước, màu, hình ảnh mặt trước và mặt sau, chất liệu, ngày phát hành và thu hồi. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tiền giấy đồng Việt Nam qua các đợt phát hành | ListBase",
+    "seo_description": "Download Tiền giấy đồng Việt Nam qua các đợt phát hành — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Đồng_(đơn_vị_tiền_tệ)"
+    ]
+  }
+}

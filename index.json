@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-11T02:20:31.627Z",
-  "total_datasets": 590,
-  "total_records": 130232,
+  "generated": "2026-11-11T02:20:42.878Z",
+  "total_datasets": 591,
+  "total_records": 130282,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "food",
@@ -2035,6 +2035,36 @@
         "xlsx": {
           "name": "vi-thong-doc-ngan-hang-nha-nuoc_VI.xlsx",
           "size": 8461
+        }
+      }
+    },
+    {
+      "id": "vi-tien-giay-dong-viet-nam",
+      "name": "Tiền giấy đồng Việt Nam qua các đợt phát hành",
+      "category": "finance",
+      "record_count": 50,
+      "columns": [
+        "dot_phat_hanh",
+        "menh_gia",
+        "kich_thuoc",
+        "mau_chu_dao",
+        "mat_truoc",
+        "mat_sau",
+        "loai_giay",
+        "ngay_phat_hanh",
+        "thu_hoi"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Đồng_(đơn_vị_tiền_tệ)",
+      "updated": "2026-11",
+      "size": 19543,
+      "files": {
+        "csv": {
+          "name": "vi-tien-giay-dong-viet-nam_VI.csv",
+          "size": 7374
+        },
+        "xlsx": {
+          "name": "vi-tien-giay-dong-viet-nam_VI.xlsx",
+          "size": 10200
         }
       }
     },
