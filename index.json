@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-12T02:05:34.011Z",
-  "total_datasets": 594,
-  "total_records": 130371,
+  "generated": "2026-11-12T02:05:46.434Z",
+  "total_datasets": 595,
+  "total_records": 130442,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tourism",
@@ -14881,6 +14881,30 @@
         "xlsx": {
           "name": "vi-luc-thap-hoa-giap_VI.xlsx",
           "size": 8613
+        }
+      }
+    },
+    {
+      "id": "vi-ngay-ky-niem-trong-nam",
+      "name": "Các ngày kỷ niệm, ngày truyền thống trong năm ở Việt Nam",
+      "category": "time",
+      "record_count": 71,
+      "columns": [
+        "date",
+        "name",
+        "event_year"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Các_ngày_lễ_ở_Việt_Nam",
+      "updated": "2026-11",
+      "size": 10869,
+      "files": {
+        "csv": {
+          "name": "vi-ngay-ky-niem-trong-nam_VI.csv",
+          "size": 4779
+        },
+        "xlsx": {
+          "name": "vi-ngay-ky-niem-trong-nam_VI.xlsx",
+          "size": 9258
         }
       }
     },
