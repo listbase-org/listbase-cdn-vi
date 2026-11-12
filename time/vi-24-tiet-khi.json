@@ -1,0 +1,277 @@
+{
+  "id": "vi-24-tiet-khi",
+  "name": "24 tiết khí trong năm",
+  "title": "24 tiết khí trong năm",
+  "description": "Hai mươi bốn tiết khí theo lịch nông nghiệp: kinh độ Mặt Trời, tên tiếng Việt, Trung, Nhật, Hàn, ý nghĩa và thời gian bắt đầu.",
+  "category": "time",
+  "source": "https://vi.wikipedia.org/wiki/Tiết_khí",
+  "source_url": "https://vi.wikipedia.org/wiki/Tiết_khí",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "solar_longitude",
+      "label": "Solar Longitude",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_chinese",
+      "label": "Name Chinese",
+      "type": "string"
+    },
+    {
+      "key": "name_japanese",
+      "label": "Name Japanese",
+      "type": "string"
+    },
+    {
+      "key": "name_korean",
+      "label": "Name Korean",
+      "type": "string"
+    },
+    {
+      "key": "meaning",
+      "label": "Meaning",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "solar_longitude": "315°",
+      "name": "Lập xuân",
+      "name_chinese": "立春",
+      "name_japanese": "立春（りっしゅん）",
+      "name_korean": "입춘 (立春)",
+      "meaning": "Thời gian bắt đầu mùa xuân",
+      "period": "Từ ngày 4 tháng 2 hoặc ngày 5 tháng 2 đến thời gian bắt đầu tiết vũ thủy"
+    },
+    {
+      "solar_longitude": "330°",
+      "name": "Vũ thủy",
+      "name_chinese": "雨水",
+      "name_japanese": "雨水（うすい）",
+      "name_korean": "우수 (雨水)",
+      "meaning": "Thời tiết mưa ẩm",
+      "period": "Từ ngày 18 tháng 2 hoặc ngày 19 tháng 2 đến thời gian bắt đầu tiết kinh trập"
+    },
+    {
+      "solar_longitude": "345°",
+      "name": "Kinh trập",
+      "name_chinese": "驚蟄 (惊蛰)",
+      "name_japanese": "啓蟄（けいちつ）",
+      "name_korean": "경칩 (驚蟄)",
+      "meaning": "Sâu nở.",
+      "period": "Từ ngày 5 tháng 3 hoặc ngày 6 tháng 3 đến thời gian bắt đầu tiết xuân phân."
+    },
+    {
+      "solar_longitude": "0°",
+      "name": "Xuân phân",
+      "name_chinese": "春分",
+      "name_japanese": "春分（しゅんぶん）",
+      "name_korean": "춘분 (春分)",
+      "meaning": "Thời gian giữa mùa xuân.",
+      "period": "Từ ngày 20 tháng 3 hoặc ngày 21 tháng 3 đến thời gian bắt đầu tiết thanh minh."
+    },
+    {
+      "solar_longitude": "15°",
+      "name": "Thanh minh",
+      "name_chinese": "清明",
+      "name_japanese": "清明（せいめい）",
+      "name_korean": "청명 (清明)",
+      "meaning": "Thời tiết trong sáng.",
+      "period": "Từ ngày 4 tháng 4 hoặc ngày 5 tháng 4 đến thời gian bắt đầu tiết cốc vũ."
+    },
+    {
+      "solar_longitude": "30°",
+      "name": "Cốc vũ",
+      "name_chinese": "穀雨 (谷雨)",
+      "name_japanese": "穀雨（こくう）",
+      "name_korean": "곡우 (穀雨)",
+      "meaning": "Mưa rào.",
+      "period": "Từ ngày 20 tháng 4 hoặc ngày 21 tháng 4 đến thời gian bắt đầu tiết lập hạ."
+    },
+    {
+      "solar_longitude": "45°",
+      "name": "Lập hạ",
+      "name_chinese": "立夏",
+      "name_japanese": "立夏（りっか）",
+      "name_korean": "입하 (立夏)",
+      "meaning": "Thời gian bắt đầu mùa hè.",
+      "period": "Từ ngày 5 tháng 5 hoặc ngày 6 tháng 5 đến thời gian bắt đầu tiết tiểu mãn."
+    },
+    {
+      "solar_longitude": "60°",
+      "name": "Tiểu mãn",
+      "name_chinese": "小滿 (小满)",
+      "name_japanese": "小満（しょうまん）",
+      "name_korean": "소만 (小滿)",
+      "meaning": "Lũ nhỏ, duối vàng.",
+      "period": "Từ ngày 21 tháng 5 hoặc ngày 22 tháng 5 đến thời gian bắt đầu tiết mang chủng."
+    },
+    {
+      "solar_longitude": "75°",
+      "name": "Mang chủng",
+      "name_chinese": "芒種 (芒种)",
+      "name_japanese": "芒種（ぼうしゅ）",
+      "name_korean": "망종 (芒種)",
+      "meaning": "Chòm sao Tua Rua bắt đầu mọc.",
+      "period": "Từ ngày 5 tháng 6 hoặc ngày 6 tháng 6 đến thời gian bắt đầu tiết hạ chí."
+    },
+    {
+      "solar_longitude": "90°",
+      "name": "Hạ chí",
+      "name_chinese": "夏至",
+      "name_japanese": "夏至（げし）",
+      "name_korean": "하지 (夏至)",
+      "meaning": "Thời gian giữa mùa hè.",
+      "period": "Từ ngày 21 tháng 6 hoặc ngày 22 tháng 6 đến thời gian bắt đầu tiết tiểu thử."
+    },
+    {
+      "solar_longitude": "105°",
+      "name": "Tiểu thử",
+      "name_chinese": "小暑",
+      "name_japanese": "小暑（しょうしょ）",
+      "name_korean": "소서 (小暑)",
+      "meaning": "Nóng nhẹ.",
+      "period": "Từ ngày 7 tháng 7 hoặc ngày 8 tháng 7 đến thời gian bắt đầu tiết đại thử."
+    },
+    {
+      "solar_longitude": "120°",
+      "name": "Đại thử",
+      "name_chinese": "大暑",
+      "name_japanese": "大暑（たいしょ）",
+      "name_korean": "대서 (大暑)",
+      "meaning": "Thời tiết nóng oi, nóng nực.",
+      "period": "Từ ngày 22 tháng 7 hoặc ngày 23 tháng 7 đến thời gian bắt đầu tiết lập thu."
+    },
+    {
+      "solar_longitude": "135°",
+      "name": "Lập thu",
+      "name_chinese": "立秋",
+      "name_japanese": "立秋（りっしゅう）",
+      "name_korean": "입추 (立秋)",
+      "meaning": "Thời gian bắt đầu mùa thu.",
+      "period": "Từ ngày 7 tháng 8 hoặc ngày 8 tháng 8 đến thời gian bắt đầu tiết xử thử."
+    },
+    {
+      "solar_longitude": "150°",
+      "name": "Xử thử",
+      "name_chinese": "處暑 (处暑)",
+      "name_japanese": "処暑（しょしょ）",
+      "name_korean": "처서 (處暑)",
+      "meaning": "Mưa ngâu.",
+      "period": "Từ ngày 23 tháng 8 hoặc ngày 24 tháng 8 đến thời gian bắt đầu tiết bạch lộ."
+    },
+    {
+      "solar_longitude": "165°",
+      "name": "Bạch lộ",
+      "name_chinese": "白露",
+      "name_japanese": "白露（はくろ）",
+      "name_korean": "백로 (白露)",
+      "meaning": "Nắng nhạt.",
+      "period": "Từ ngày 7 tháng 9 hoặc ngày 8 tháng 9 đến thời gian bắt đầu tiết thu phân."
+    },
+    {
+      "solar_longitude": "180°",
+      "name": "Thu phân",
+      "name_chinese": "秋分",
+      "name_japanese": "秋分（しゅうぶん）",
+      "name_korean": "추분 (秋分)",
+      "meaning": "Thời gian giữa mùa thu.",
+      "period": "Từ ngày 23 tháng 9 hoặc ngày 24 tháng 9 đến thời gian bắt đầu tiết hàn lộ."
+    },
+    {
+      "solar_longitude": "195°",
+      "name": "Hàn lộ",
+      "name_chinese": "寒露",
+      "name_japanese": "寒露（かんろ）",
+      "name_korean": "한로 (寒露)",
+      "meaning": "Mát mẻ.",
+      "period": "Từ ngày 8 tháng 10 hoặc ngày 9 tháng 10 đến thời gian bắt đầu tiết sương giáng."
+    },
+    {
+      "solar_longitude": "210°",
+      "name": "Sương giáng",
+      "name_chinese": "霜降",
+      "name_japanese": "霜降（そうこう）",
+      "name_korean": "상강 (霜降)",
+      "meaning": "Sương mù xuất hiện.",
+      "period": "Từ ngày 23 tháng 10 hoặc ngày 24 tháng 10 đến thời gian bắt đầu tiết lập đông."
+    },
+    {
+      "solar_longitude": "225°",
+      "name": "Lập đông",
+      "name_chinese": "立冬",
+      "name_japanese": "立冬（りっとう）",
+      "name_korean": "입동 (立冬)",
+      "meaning": "Thời gian bắt đầu mùa đông.",
+      "period": "Từ ngày 7 tháng 11 hoặc ngày 8 tháng 11 đến thời gian bắt đầu tiết tiểu tuyết."
+    },
+    {
+      "solar_longitude": "240°",
+      "name": "Tiểu tuyết",
+      "name_chinese": "小雪",
+      "name_japanese": "小雪（しょうせつ）",
+      "name_korean": "소설 (小雪)",
+      "meaning": "Tuyết xuất hiện ở một số nơi.",
+      "period": "Từ ngày 22 tháng 11 hoặc ngày 23 tháng 11 đến thời gian bắt đầu tiết đại tuyết."
+    },
+    {
+      "solar_longitude": "255°",
+      "name": "Đại tuyết",
+      "name_chinese": "大雪",
+      "name_japanese": "大雪（たいせつ）",
+      "name_korean": "대설 (大雪)",
+      "meaning": "Tuyết bắt đầu dày.",
+      "period": "Từ ngày 7 tháng 12 hoặc ngày 8 tháng 12 đến thời gian bắt đầu tiết đông chí."
+    },
+    {
+      "solar_longitude": "270°",
+      "name": "Đông chí",
+      "name_chinese": "冬至",
+      "name_japanese": "冬至（とうじ）",
+      "name_korean": "동지 (冬至)",
+      "meaning": "Thời gian giữa mùa đông.",
+      "period": "Từ ngày 21 tháng 12 hoặc ngày 22 tháng 12 đến thời gian bắt đầu tiết tiểu hàn."
+    },
+    {
+      "solar_longitude": "285°",
+      "name": "Tiểu hàn",
+      "name_chinese": "小寒",
+      "name_japanese": "小寒（しょうかん）",
+      "name_korean": "소한 (小寒)",
+      "meaning": "Thời tiết rét nhẹ.",
+      "period": "Từ ngày 5 tháng 1 hoặc ngày 6 tháng 1 đến thời gian bắt đầu tiết đại hàn."
+    },
+    {
+      "solar_longitude": "300°",
+      "name": "Đại hàn",
+      "name_chinese": "大寒",
+      "name_japanese": "大寒（だいかん）",
+      "name_korean": "대한 (大寒)",
+      "meaning": "Thời tiết rét đậm.",
+      "period": "Từ ngày 20 tháng 1 hoặc ngày 21 tháng 1 đến thời gian bắt đầu tiết lập xuân."
+    }
+  ],
+  "meta": {
+    "title": "24 tiết khí trong năm - Free Download",
+    "description": "Hai mươi bốn tiết khí theo lịch nông nghiệp: kinh độ Mặt Trời, tên tiếng Việt, Trung, Nhật, Hàn, ý nghĩa và thời gian bắt đầu. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "24 tiết khí trong năm | ListBase",
+    "seo_description": "Download 24 tiết khí trong năm — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Tiết_khí"
+    ]
+  }
+}

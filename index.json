@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-11T02:20:53.816Z",
-  "total_datasets": 592,
-  "total_records": 130287,
+  "generated": "2026-11-12T02:05:25.514Z",
+  "total_datasets": 593,
+  "total_records": 130311,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -14766,6 +14766,34 @@
         "xlsx": {
           "name": "time-zodiac-signs_VI.xlsx",
           "size": 8968
+        }
+      }
+    },
+    {
+      "id": "vi-24-tiet-khi",
+      "name": "24 tiết khí trong năm",
+      "category": "time",
+      "record_count": 24,
+      "columns": [
+        "solar_longitude",
+        "name",
+        "name_chinese",
+        "name_japanese",
+        "name_korean",
+        "meaning",
+        "period"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Tiết_khí",
+      "updated": "2026-11",
+      "size": 10597,
+      "files": {
+        "csv": {
+          "name": "vi-24-tiet-khi_VI.csv",
+          "size": 5071
+        },
+        "xlsx": {
+          "name": "vi-24-tiet-khi_VI.xlsx",
+          "size": 9102
         }
       }
     },
