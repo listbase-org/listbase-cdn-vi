@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-12T02:05:25.514Z",
-  "total_datasets": 593,
-  "total_records": 130311,
+  "generated": "2026-11-12T02:05:34.011Z",
+  "total_datasets": 594,
+  "total_records": 130371,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tourism",
@@ -14855,6 +14855,32 @@
         "xlsx": {
           "name": "vi-lich-am-duong_VI.xlsx",
           "size": 225128
+        }
+      }
+    },
+    {
+      "id": "vi-luc-thap-hoa-giap",
+      "name": "Lục thập hoa giáp – 60 tổ hợp Can Chi",
+      "category": "time",
+      "record_count": 60,
+      "columns": [
+        "order",
+        "name",
+        "can",
+        "chi",
+        "year_mod_60"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Can_Chi",
+      "updated": "2026-11",
+      "size": 9329,
+      "files": {
+        "csv": {
+          "name": "vi-luc-thap-hoa-giap_VI.csv",
+          "size": 2324
+        },
+        "xlsx": {
+          "name": "vi-luc-thap-hoa-giap_VI.xlsx",
+          "size": 8613
         }
       }
     },

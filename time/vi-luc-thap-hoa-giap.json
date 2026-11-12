@@ -1,0 +1,471 @@
+{
+  "id": "vi-luc-thap-hoa-giap",
+  "name": "Lục thập hoa giáp – 60 tổ hợp Can Chi",
+  "title": "Lục thập hoa giáp – 60 tổ hợp Can Chi",
+  "description": "Sáu mươi tổ hợp Thiên can – Địa chi (Giáp Tý đến Quý Hợi) theo thứ tự, kèm số dư của năm dương lịch khi chia cho 60.",
+  "category": "time",
+  "source": "https://vi.wikipedia.org/wiki/Can_Chi",
+  "source_url": "https://vi.wikipedia.org/wiki/Can_Chi",
+  "updated": "2026-11",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "can",
+      "label": "Can",
+      "type": "string"
+    },
+    {
+      "key": "chi",
+      "label": "Chi",
+      "type": "string"
+    },
+    {
+      "key": "year_mod_60",
+      "label": "Year Mod 60",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "order": 1,
+      "name": "Giáp Tý",
+      "can": "Giáp",
+      "chi": "Tý",
+      "year_mod_60": 4
+    },
+    {
+      "order": 2,
+      "name": "Ất Sửu",
+      "can": "Ất",
+      "chi": "Sửu",
+      "year_mod_60": 5
+    },
+    {
+      "order": 3,
+      "name": "Bính Dần",
+      "can": "Bính",
+      "chi": "Dần",
+      "year_mod_60": 6
+    },
+    {
+      "order": 4,
+      "name": "Đinh Mão",
+      "can": "Đinh",
+      "chi": "Mão",
+      "year_mod_60": 7
+    },
+    {
+      "order": 5,
+      "name": "Mậu Thìn",
+      "can": "Mậu",
+      "chi": "Thìn",
+      "year_mod_60": 8
+    },
+    {
+      "order": 6,
+      "name": "Kỷ Tỵ",
+      "can": "Kỷ",
+      "chi": "Tỵ",
+      "year_mod_60": 9
+    },
+    {
+      "order": 7,
+      "name": "Canh Ngọ",
+      "can": "Canh",
+      "chi": "Ngọ",
+      "year_mod_60": 10
+    },
+    {
+      "order": 8,
+      "name": "Tân Mùi",
+      "can": "Tân",
+      "chi": "Mùi",
+      "year_mod_60": 11
+    },
+    {
+      "order": 9,
+      "name": "Nhâm Thân",
+      "can": "Nhâm",
+      "chi": "Thân",
+      "year_mod_60": 12
+    },
+    {
+      "order": 10,
+      "name": "Quý Dậu",
+      "can": "Quý",
+      "chi": "Dậu",
+      "year_mod_60": 13
+    },
+    {
+      "order": 11,
+      "name": "Giáp Tuất",
+      "can": "Giáp",
+      "chi": "Tuất",
+      "year_mod_60": 14
+    },
+    {
+      "order": 12,
+      "name": "Ất Hợi",
+      "can": "Ất",
+      "chi": "Hợi",
+      "year_mod_60": 15
+    },
+    {
+      "order": 13,
+      "name": "Bính Tý",
+      "can": "Bính",
+      "chi": "Tý",
+      "year_mod_60": 16
+    },
+    {
+      "order": 14,
+      "name": "Đinh Sửu",
+      "can": "Đinh",
+      "chi": "Sửu",
+      "year_mod_60": 17
+    },
+    {
+      "order": 15,
+      "name": "Mậu Dần",
+      "can": "Mậu",
+      "chi": "Dần",
+      "year_mod_60": 18
+    },
+    {
+      "order": 16,
+      "name": "Kỷ Mão",
+      "can": "Kỷ",
+      "chi": "Mão",
+      "year_mod_60": 19
+    },
+    {
+      "order": 17,
+      "name": "Canh Thìn",
+      "can": "Canh",
+      "chi": "Thìn",
+      "year_mod_60": 20
+    },
+    {
+      "order": 18,
+      "name": "Tân Tỵ",
+      "can": "Tân",
+      "chi": "Tỵ",
+      "year_mod_60": 21
+    },
+    {
+      "order": 19,
+      "name": "Nhâm Ngọ",
+      "can": "Nhâm",
+      "chi": "Ngọ",
+      "year_mod_60": 22
+    },
+    {
+      "order": 20,
+      "name": "Quý Mùi",
+      "can": "Quý",
+      "chi": "Mùi",
+      "year_mod_60": 23
+    },
+    {
+      "order": 21,
+      "name": "Giáp Thân",
+      "can": "Giáp",
+      "chi": "Thân",
+      "year_mod_60": 24
+    },
+    {
+      "order": 22,
+      "name": "Ất Dậu",
+      "can": "Ất",
+      "chi": "Dậu",
+      "year_mod_60": 25
+    },
+    {
+      "order": 23,
+      "name": "Bính Tuất",
+      "can": "Bính",
+      "chi": "Tuất",
+      "year_mod_60": 26
+    },
+    {
+      "order": 24,
+      "name": "Đinh Hợi",
+      "can": "Đinh",
+      "chi": "Hợi",
+      "year_mod_60": 27
+    },
+    {
+      "order": 25,
+      "name": "Mậu Tý",
+      "can": "Mậu",
+      "chi": "Tý",
+      "year_mod_60": 28
+    },
+    {
+      "order": 26,
+      "name": "Kỷ Sửu",
+      "can": "Kỷ",
+      "chi": "Sửu",
+      "year_mod_60": 29
+    },
+    {
+      "order": 27,
+      "name": "Canh Dần",
+      "can": "Canh",
+      "chi": "Dần",
+      "year_mod_60": 30
+    },
+    {
+      "order": 28,
+      "name": "Tân Mão",
+      "can": "Tân",
+      "chi": "Mão",
+      "year_mod_60": 31
+    },
+    {
+      "order": 29,
+      "name": "Nhâm Thìn",
+      "can": "Nhâm",
+      "chi": "Thìn",
+      "year_mod_60": 32
+    },
+    {
+      "order": 30,
+      "name": "Quý Tỵ",
+      "can": "Quý",
+      "chi": "Tỵ",
+      "year_mod_60": 33
+    },
+    {
+      "order": 31,
+      "name": "Giáp Ngọ",
+      "can": "Giáp",
+      "chi": "Ngọ",
+      "year_mod_60": 34
+    },
+    {
+      "order": 32,
+      "name": "Ất Mùi",
+      "can": "Ất",
+      "chi": "Mùi",
+      "year_mod_60": 35
+    },
+    {
+      "order": 33,
+      "name": "Bính Thân",
+      "can": "Bính",
+      "chi": "Thân",
+      "year_mod_60": 36
+    },
+    {
+      "order": 34,
+      "name": "Đinh Dậu",
+      "can": "Đinh",
+      "chi": "Dậu",
+      "year_mod_60": 37
+    },
+    {
+      "order": 35,
+      "name": "Mậu Tuất",
+      "can": "Mậu",
+      "chi": "Tuất",
+      "year_mod_60": 38
+    },
+    {
+      "order": 36,
+      "name": "Kỷ Hợi",
+      "can": "Kỷ",
+      "chi": "Hợi",
+      "year_mod_60": 39
+    },
+    {
+      "order": 37,
+      "name": "Canh Tý",
+      "can": "Canh",
+      "chi": "Tý",
+      "year_mod_60": 40
+    },
+    {
+      "order": 38,
+      "name": "Tân Sửu",
+      "can": "Tân",
+      "chi": "Sửu",
+      "year_mod_60": 41
+    },
+    {
+      "order": 39,
+      "name": "Nhâm Dần",
+      "can": "Nhâm",
+      "chi": "Dần",
+      "year_mod_60": 42
+    },
+    {
+      "order": 40,
+      "name": "Quý Mão",
+      "can": "Quý",
+      "chi": "Mão",
+      "year_mod_60": 43
+    },
+    {
+      "order": 41,
+      "name": "Giáp Thìn",
+      "can": "Giáp",
+      "chi": "Thìn",
+      "year_mod_60": 44
+    },
+    {
+      "order": 42,
+      "name": "Ất Tỵ",
+      "can": "Ất",
+      "chi": "Tỵ",
+      "year_mod_60": 45
+    },
+    {
+      "order": 43,
+      "name": "Bính Ngọ",
+      "can": "Bính",
+      "chi": "Ngọ",
+      "year_mod_60": 46
+    },
+    {
+      "order": 44,
+      "name": "Đinh Mùi",
+      "can": "Đinh",
+      "chi": "Mùi",
+      "year_mod_60": 47
+    },
+    {
+      "order": 45,
+      "name": "Mậu Thân",
+      "can": "Mậu",
+      "chi": "Thân",
+      "year_mod_60": 48
+    },
+    {
+      "order": 46,
+      "name": "Kỷ Dậu",
+      "can": "Kỷ",
+      "chi": "Dậu",
+      "year_mod_60": 49
+    },
+    {
+      "order": 47,
+      "name": "Canh Tuất",
+      "can": "Canh",
+      "chi": "Tuất",
+      "year_mod_60": 50
+    },
+    {
+      "order": 48,
+      "name": "Tân Hợi",
+      "can": "Tân",
+      "chi": "Hợi",
+      "year_mod_60": 51
+    },
+    {
+      "order": 49,
+      "name": "Nhâm Tý",
+      "can": "Nhâm",
+      "chi": "Tý",
+      "year_mod_60": 52
+    },
+    {
+      "order": 50,
+      "name": "Quý Sửu",
+      "can": "Quý",
+      "chi": "Sửu",
+      "year_mod_60": 53
+    },
+    {
+      "order": 51,
+      "name": "Giáp Dần",
+      "can": "Giáp",
+      "chi": "Dần",
+      "year_mod_60": 54
+    },
+    {
+      "order": 52,
+      "name": "Ất Mão",
+      "can": "Ất",
+      "chi": "Mão",
+      "year_mod_60": 55
+    },
+    {
+      "order": 53,
+      "name": "Bính Thìn",
+      "can": "Bính",
+      "chi": "Thìn",
+      "year_mod_60": 56
+    },
+    {
+      "order": 54,
+      "name": "Đinh Tỵ",
+      "can": "Đinh",
+      "chi": "Tỵ",
+      "year_mod_60": 57
+    },
+    {
+      "order": 55,
+      "name": "Mậu Ngọ",
+      "can": "Mậu",
+      "chi": "Ngọ",
+      "year_mod_60": 58
+    },
+    {
+      "order": 56,
+      "name": "Kỷ Mùi",
+      "can": "Kỷ",
+      "chi": "Mùi",
+      "year_mod_60": 59
+    },
+    {
+      "order": 57,
+      "name": "Canh Thân",
+      "can": "Canh",
+      "chi": "Thân",
+      "year_mod_60": 0
+    },
+    {
+      "order": 58,
+      "name": "Tân Dậu",
+      "can": "Tân",
+      "chi": "Dậu",
+      "year_mod_60": 1
+    },
+    {
+      "order": 59,
+      "name": "Nhâm Tuất",
+      "can": "Nhâm",
+      "chi": "Tuất",
+      "year_mod_60": 2
+    },
+    {
+      "order": 60,
+      "name": "Quý Hợi",
+      "can": "Quý",
+      "chi": "Hợi",
+      "year_mod_60": 3
+    }
+  ],
+  "meta": {
+    "title": "Lục thập hoa giáp – 60 tổ hợp Can Chi - Free Download",
+    "description": "Sáu mươi tổ hợp Thiên can – Địa chi (Giáp Tý đến Quý Hợi) theo thứ tự, kèm số dư của năm dương lịch khi chia cho 60. Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lục thập hoa giáp – 60 tổ hợp Can Chi | ListBase",
+    "seo_description": "Download Lục thập hoa giáp – 60 tổ hợp Can Chi — 60 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 60 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Can_Chi"
+    ]
+  }
+}
