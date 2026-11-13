@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-13T02:17:41.639Z",
-  "total_datasets": 597,
-  "total_records": 130491,
+  "generated": "2026-11-13T02:17:49.841Z",
+  "total_datasets": 598,
+  "total_records": 130531,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "food",
@@ -2065,6 +2065,35 @@
         "xlsx": {
           "name": "vi-tien-giay-dong-viet-nam_VI.xlsx",
           "size": 10200
+        }
+      }
+    },
+    {
+      "id": "vi-tien-giay-viet-nam-cong-hoa",
+      "name": "Tiền giấy Việt Nam Cộng hòa (1955–1975)",
+      "category": "finance",
+      "record_count": 40,
+      "columns": [
+        "issue",
+        "denomination",
+        "size_mm",
+        "main_color",
+        "obverse",
+        "reverse",
+        "watermark",
+        "issue_date"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Đồng_(tiền_Việt_Nam_Cộng_hòa)",
+      "updated": "2026-11",
+      "size": 16611,
+      "files": {
+        "csv": {
+          "name": "vi-tien-giay-viet-nam-cong-hoa_VI.csv",
+          "size": 7743
+        },
+        "xlsx": {
+          "name": "vi-tien-giay-viet-nam-cong-hoa_VI.xlsx",
+          "size": 9764
         }
       }
     },

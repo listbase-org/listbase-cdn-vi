@@ -1,0 +1,466 @@
+{
+  "id": "vi-tien-giay-viet-nam-cong-hoa",
+  "name": "Tiền giấy Việt Nam Cộng hòa (1955–1975)",
+  "title": "Tiền giấy Việt Nam Cộng hòa (1955–1975)",
+  "description": "Các loại tiền giấy do Ngân hàng Quốc gia Việt Nam (Việt Nam Cộng hòa) phát hành qua các đợt: mệnh giá, kích thước, màu sắc, hình ảnh mặt trước, mặt sau, hình mờ và ngày phát hành.",
+  "category": "finance",
+  "source": "https://vi.wikipedia.org/wiki/Đồng_(tiền_Việt_Nam_Cộng_hòa)",
+  "source_url": "https://vi.wikipedia.org/wiki/Đồng_(tiền_Việt_Nam_Cộng_hòa)",
+  "updated": "2026-11",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "issue",
+      "label": "Issue",
+      "type": "string"
+    },
+    {
+      "key": "denomination",
+      "label": "Denomination",
+      "type": "string"
+    },
+    {
+      "key": "size_mm",
+      "label": "Size Mm",
+      "type": "string"
+    },
+    {
+      "key": "main_color",
+      "label": "Main Color",
+      "type": "string"
+    },
+    {
+      "key": "obverse",
+      "label": "Obverse",
+      "type": "string"
+    },
+    {
+      "key": "reverse",
+      "label": "Reverse",
+      "type": "string"
+    },
+    {
+      "key": "watermark",
+      "label": "Watermark",
+      "type": "string"
+    },
+    {
+      "key": "issue_date",
+      "label": "Issue Date",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "issue": "Phát hành từ năm 1955 đến năm 1962",
+      "denomination": "1 đồng",
+      "size_mm": "115×65",
+      "main_color": "Xám",
+      "obverse": "Một người nông dân đập lúa.",
+      "reverse": "Ruộng Muối",
+      "watermark": "",
+      "issue_date": "1955"
+    },
+    {
+      "issue": "Phát hành từ năm 1955 đến năm 1962",
+      "denomination": "2 đồng",
+      "size_mm": "120×65",
+      "main_color": "Tím",
+      "obverse": "Thuyền buồm",
+      "reverse": "Cảnh thôn quê",
+      "watermark": "",
+      "issue_date": "1955"
+    },
+    {
+      "issue": "Phát hành từ năm 1955 đến năm 1962",
+      "denomination": "5 đồng",
+      "size_mm": "126×65",
+      "main_color": "Đỏ Gạch",
+      "obverse": "Con Trâu cày ruộng",
+      "reverse": "Ngôi Nhà Nông Thôn.",
+      "watermark": "Không",
+      "issue_date": "1955"
+    },
+    {
+      "issue": "Phát hành từ năm 1955 đến năm 1962",
+      "denomination": "10 đồng",
+      "size_mm": "131×66",
+      "main_color": "Màu đỏ",
+      "obverse": "Vợ chồng ôm Lúa",
+      "reverse": "Lăng Lê Văn Duyệt",
+      "watermark": "Không",
+      "issue_date": "1962"
+    },
+    {
+      "issue": "Phát hành từ năm 1955 đến năm 1962",
+      "denomination": "20 đồng",
+      "size_mm": "136×66",
+      "main_color": "Màu nâu",
+      "obverse": "Xe bò chở rơm",
+      "reverse": "Phụ nữ đang xúc than",
+      "watermark": "",
+      "issue_date": "1962"
+    },
+    {
+      "issue": "Phát hành từ năm 1955 đến năm 1962",
+      "denomination": "50 đồng",
+      "size_mm": "144×66",
+      "main_color": "Cà tím",
+      "obverse": "Xỏ mũi trâu",
+      "reverse": "Phơi thóc",
+      "watermark": "Không",
+      "issue_date": "1956"
+    },
+    {
+      "issue": "Phát hành từ năm 1955 đến năm 1962",
+      "denomination": "100 đồng",
+      "size_mm": "153×66",
+      "main_color": "Xám, xanh lá cây",
+      "obverse": "Máy cày",
+      "reverse": "Con phụng",
+      "watermark": "Không",
+      "issue_date": "1955"
+    },
+    {
+      "issue": "Phát hành từ năm 1955 đến năm 1962",
+      "denomination": "200 đồng",
+      "size_mm": "162×71",
+      "main_color": "Màu xanh lá",
+      "obverse": "Lính bồng súng",
+      "reverse": "Nông dân gánh lúa",
+      "watermark": "",
+      "issue_date": "1955"
+    },
+    {
+      "issue": "Phát hành từ năm 1955 đến năm 1962",
+      "denomination": "500 đồng",
+      "size_mm": "",
+      "main_color": "Xanh lam, cam",
+      "obverse": "Chùa Thiên Mụ",
+      "reverse": "Hoa văn",
+      "watermark": "",
+      "issue_date": "1955"
+    },
+    {
+      "issue": "Phát hành từ năm 1955 đến năm 1962",
+      "denomination": "1 đồng",
+      "size_mm": "123×77",
+      "main_color": "Hồng, xanh lá cây",
+      "obverse": "Đền thờ Vua Hùng (Thảo Cầm Viên)",
+      "reverse": "Bảo tàng Lịch sử Sài Gòn",
+      "watermark": "con hổ",
+      "issue_date": "1956"
+    },
+    {
+      "issue": "Phát hành từ năm 1955 đến năm 1962",
+      "denomination": "5 đồng",
+      "size_mm": "133×84",
+      "main_color": "Xanh lá",
+      "obverse": "Phượng hoàng và Rồng",
+      "reverse": "Trâu cày ruộng",
+      "watermark": "con hổ",
+      "issue_date": "1955"
+    },
+    {
+      "issue": "Phát hành từ năm 1955 đến năm 1962",
+      "denomination": "10 đồng",
+      "size_mm": "138×88",
+      "main_color": "Hồng",
+      "obverse": "Cá chép",
+      "reverse": "Con thuyền, bến nước",
+      "watermark": "con hổ",
+      "issue_date": "1955"
+    },
+    {
+      "issue": "Phát hành từ năm 1955 đến năm 1962",
+      "denomination": "20 đồng",
+      "size_mm": "146×92",
+      "main_color": "Xanh, Hồng",
+      "obverse": "Nhà, thuyền, cây chuối",
+      "reverse": "Quang cảnh cày ruộng",
+      "watermark": "con hổ",
+      "issue_date": "1956"
+    },
+    {
+      "issue": "Phát hành từ năm 1955 đến năm 1962",
+      "denomination": "100 đồng",
+      "size_mm": "158×78",
+      "main_color": "Màu nâu",
+      "obverse": "Toà nhà Quốc hội của chính quyền Việt Nam Cộng hòa nay là Nhà hát Thành phố Hồ Chí Minh",
+      "reverse": "Đập Đồng Cam",
+      "watermark": "Cây tre",
+      "issue_date": "Năm 1960"
+    },
+    {
+      "issue": "Phát hành từ năm 1955 đến năm 1962",
+      "denomination": "200 đồng",
+      "size_mm": "168×83",
+      "main_color": "Tím",
+      "obverse": "Tòa nhà Ngân hàng Quốc gia Việt Nam nay là Trụ sở Ngân hàng Nhà nước Việt Nam chi nhánh TP.HCM",
+      "reverse": "Bến đò trên sông",
+      "watermark": "Không",
+      "issue_date": "1958"
+    },
+    {
+      "issue": "Phát hành từ năm 1955 đến năm 1962",
+      "denomination": "500 đồng",
+      "size_mm": "",
+      "main_color": "Màu xanh da trời",
+      "obverse": "Dinh Norodom",
+      "reverse": "Cảnh người nông dân đang cày ruộng với hai con trâu",
+      "watermark": "Chân dung Ngô Đình Diệm",
+      "issue_date": "1962"
+    },
+    {
+      "issue": "Phát hành từ năm 1955 đến năm 1962",
+      "denomination": "1000 đồng (Không phát hành)",
+      "size_mm": "",
+      "main_color": "Nhiều màu",
+      "obverse": "cụ già mặc áo dài đen vấn khăn và Đền Trung Liệt ở Thảo Cầm Viên Sài Gòn",
+      "reverse": "Người phụ nữ, chiếc thuyền",
+      "watermark": "phụ nữ Nam Bộ búi tóc kiểu xưa và ghe bầu miền Trung trên biển.",
+      "issue_date": "1955"
+    },
+    {
+      "issue": "phát hành năm 1964-1966",
+      "denomination": "1 đồng",
+      "size_mm": "127×63",
+      "main_color": "màu nâu",
+      "obverse": "Hoa văn",
+      "reverse": "Máy cày",
+      "watermark": "Cây tre",
+      "issue_date": "1964"
+    },
+    {
+      "issue": "phát hành năm 1964-1966",
+      "denomination": "20 đồng",
+      "size_mm": "142×71",
+      "main_color": "màu xanh lá",
+      "obverse": "Hoa văn",
+      "reverse": "Cá chép hoá rồng",
+      "watermark": "rồng",
+      "issue_date": "1964"
+    },
+    {
+      "issue": "phát hành năm 1964-1966",
+      "denomination": "50 đồng",
+      "size_mm": "142×71",
+      "main_color": "màu tím",
+      "obverse": "hoa văn",
+      "reverse": "hoa văn",
+      "watermark": "KHÔNG",
+      "issue_date": "1966"
+    },
+    {
+      "issue": "phát hành năm 1964-1966",
+      "denomination": "100 đồng",
+      "size_mm": "145×73",
+      "main_color": "màu đỏ",
+      "obverse": "Chân dung Lê Văn Duyệt",
+      "reverse": "Đền Lê Văn Duyệt ở Sài Gòn",
+      "watermark": "rồng",
+      "issue_date": "1966"
+    },
+    {
+      "issue": "phát hành năm 1964-1966",
+      "denomination": "100 đồng",
+      "size_mm": "145×73",
+      "main_color": "màu đỏ",
+      "obverse": "Chân dung Lê Văn Duyệt",
+      "reverse": "Đền Lê Văn Duyệt ở Sài Gòn",
+      "watermark": "chân dung Lê Văn Duyệt",
+      "issue_date": "1966"
+    },
+    {
+      "issue": "phát hành năm 1964-1966",
+      "denomination": "200 đồng",
+      "size_mm": "145×72",
+      "main_color": "kem",
+      "obverse": "chân dung Nguyễn Huệ",
+      "reverse": "Nguyễn Huệ trên lưng ngựa trong tư thế chiến đấu, dẫn đầu đoàn quân chiến đấu",
+      "watermark": "rồng",
+      "issue_date": "1966"
+    },
+    {
+      "issue": "phát hành năm 1964-1966",
+      "denomination": "200 đồng",
+      "size_mm": "145×72",
+      "main_color": "kem",
+      "obverse": "chân dung Nguyễn Huệ",
+      "reverse": "Nguyễn Huệ trên lưng ngựa trong tư thế chiến đấu, dẫn đầu đoàn quân chiến đấu",
+      "watermark": "chân dung Nguyễ Huệ",
+      "issue_date": "1966"
+    },
+    {
+      "issue": "phát hành năm 1964-1966",
+      "denomination": "500 đồng",
+      "size_mm": "149×73",
+      "main_color": "màu ngọc lam",
+      "obverse": "Viện Bảo Tàng trong Thảo Cầm Viên ở Sài Gòn.",
+      "reverse": "Lân Đấu",
+      "watermark": "Đầu rồng",
+      "issue_date": "1964"
+    },
+    {
+      "issue": "phát hành năm 1964-1966",
+      "denomination": "500 đồng",
+      "size_mm": "148×74",
+      "main_color": "màu xanh da trời",
+      "obverse": "Trần Hưng Đạo",
+      "reverse": "Hình ảnh thuyền buồm ra khơi",
+      "watermark": "Đầu rồng",
+      "issue_date": "1966"
+    },
+    {
+      "issue": "Phát hành năm 1969-1971 (Bộ hoa văn)",
+      "denomination": "20 đồng",
+      "size_mm": "142×71",
+      "main_color": "hồng",
+      "obverse": "Tòa nhà Ngân hàng Quốc gia Việt Nam nay là Trụ sở Ngân hàng Nhà nước Việt Nam chi nhánh TP.HCM",
+      "reverse": "Hoa văn",
+      "watermark": "Trần Hưng Đạo",
+      "issue_date": "1969"
+    },
+    {
+      "issue": "Phát hành năm 1969-1971 (Bộ hoa văn)",
+      "denomination": "50 đồng",
+      "size_mm": "142×71",
+      "main_color": "xám",
+      "obverse": "Tòa nhà Ngân hàng Quốc gia Việt Nam nay là Trụ sở Ngân hàng Nhà nước Việt Nam chi nhánh TP.HCM",
+      "reverse": "Hoa văn",
+      "watermark": "Trần Hưng Đạo",
+      "issue_date": "1969"
+    },
+    {
+      "issue": "Phát hành năm 1969-1971 (Bộ hoa văn)",
+      "denomination": "100 đồng",
+      "size_mm": "147×73",
+      "main_color": "màu xanh lá",
+      "obverse": "Tòa nhà Ngân hàng Quốc gia Việt Nam nay là Trụ sở Ngân hàng Nhà nước Việt Nam chi nhánh TP.HCM",
+      "reverse": "Hoa văn",
+      "watermark": "Trần Hưng Đạo",
+      "issue_date": "1970"
+    },
+    {
+      "issue": "Phát hành năm 1969-1971 (Bộ hoa văn)",
+      "denomination": "200 đồng",
+      "size_mm": "147×73",
+      "main_color": "màu đỏ thẫm",
+      "obverse": "Tòa nhà Ngân hàng Quốc gia Việt Nam nay là Trụ sở Ngân hàng Nhà nước Việt Nam chi nhánh TP.HCM",
+      "reverse": "Hoa văn",
+      "watermark": "Trần Hưng Đạo",
+      "issue_date": "1970"
+    },
+    {
+      "issue": "Phát hành năm 1969-1971 (Bộ hoa văn)",
+      "denomination": "500 đồng",
+      "size_mm": "152×76",
+      "main_color": "quả cam",
+      "obverse": "Tòa nhà Ngân hàng Quốc gia Việt Nam nay là Trụ sở Ngân hàng Nhà nước Việt Nam chi nhánh TP.HCM",
+      "reverse": "Hoa văn",
+      "watermark": "Trần Hưng Đạo",
+      "issue_date": "1970"
+    },
+    {
+      "issue": "Phát hành năm 1969-1971 (Bộ hoa văn)",
+      "denomination": "1000 đồng",
+      "size_mm": "152×76",
+      "main_color": "màu ngọc lam",
+      "obverse": "Tòa nhà Ngân hàng Quốc gia Việt Nam nay là Trụ sở Ngân hàng Nhà nước Việt Nam chi nhánh TP.HCM",
+      "reverse": "Hoa văn",
+      "watermark": "Trần Hưng Đạo",
+      "issue_date": "1971"
+    },
+    {
+      "issue": "Phát hành 1972-1975 (Bộ thú)",
+      "denomination": "50 đồng",
+      "size_mm": "140×70",
+      "main_color": "màu xanh da trời",
+      "obverse": "Dinh Độc lập",
+      "reverse": "Ba con ngựa phi nước đại và hoa nở.",
+      "watermark": "Chân dung của vợ Tổng thống Nguyễn Văn Thiệu, Bà Nguyễn Thị Mai Anh",
+      "issue_date": "1972"
+    },
+    {
+      "issue": "Phát hành 1972-1975 (Bộ thú)",
+      "denomination": "100 đồng",
+      "size_mm": "145×73",
+      "main_color": "màu xanh lá",
+      "obverse": "Dinh Độc lập",
+      "reverse": "Hình nông dân cưỡi trâu.",
+      "watermark": "Chân dung của vợ Tổng thống Nguyễn Văn Thiệu, Bà Nguyễn Thị Mai Anh",
+      "issue_date": "1972"
+    },
+    {
+      "issue": "Phát hành 1972-1975 (Bộ thú)",
+      "denomination": "200 đồng",
+      "size_mm": "142×71",
+      "main_color": "màu đỏ thẫm",
+      "obverse": "Dinh Độc lập",
+      "reverse": "Hình 3 Con Nai Ngoảnh Đầu.",
+      "watermark": "Chân dung của vợ Tổng thống Nguyễn Văn Thiệu, Bà Nguyễn Thị Mai Anh",
+      "issue_date": "1972"
+    },
+    {
+      "issue": "Phát hành 1972-1975 (Bộ thú)",
+      "denomination": "500 đồng",
+      "size_mm": "152×76",
+      "main_color": "cam",
+      "obverse": "Dinh Độc lập",
+      "reverse": "Cọp Đông Dương",
+      "watermark": "Chân dung của vợ Tổng thống Nguyễn Văn Thiệu, Bà Nguyễn Thị Mai Anh",
+      "issue_date": "1972"
+    },
+    {
+      "issue": "Phát hành 1972-1975 (Bộ thú)",
+      "denomination": "1000 đồng",
+      "size_mm": "152×76",
+      "main_color": "Xanh",
+      "obverse": "Dinh Độc lập",
+      "reverse": "Voi",
+      "watermark": "Chân dung của vợ Tổng thống Nguyễn Văn Thiệu, Bà Nguyễn Thị Mai Anh",
+      "issue_date": "1972"
+    },
+    {
+      "issue": "Phát hành 1972-1975 (Bộ thú)",
+      "denomination": "1000 đồng (Không phát hành)",
+      "size_mm": "152 x 75 mm",
+      "main_color": "xanh dương",
+      "obverse": "Chân dung Trương Công Định",
+      "reverse": "lăng mộ của Trương Công Định, Gò Công, Đồng Tháp và cá chép hóa rồng",
+      "watermark": "chân dung hình Trương Công Định",
+      "issue_date": "1975"
+    },
+    {
+      "issue": "Phát hành 1972-1975 (Bộ thú)",
+      "denomination": "5000 đồng (Không phát hành)",
+      "size_mm": "không có dữ liệu",
+      "main_color": "Màu vàng",
+      "obverse": "Dinh Độc lập",
+      "reverse": "Báo đốm (Beo), hoa văn guilloche",
+      "watermark": "Chân dung của vợ Tổng thống Nguyễn Văn Thiệu, Bà Nguyễn Thị Mai Anh",
+      "issue_date": "1975"
+    },
+    {
+      "issue": "Phát hành 1972-1975 (Bộ thú)",
+      "denomination": "10.000 đồng (Không phát hành)",
+      "size_mm": "142 x 71 mm",
+      "main_color": "Tím, đỏ",
+      "obverse": "Dinh Độc lập",
+      "reverse": "Trâu nước, hoa văn guilloche",
+      "watermark": "Chân dung của vợ Tổng thống Nguyễn Văn Thiệu, Bà Nguyễn Thị Mai Anh",
+      "issue_date": "1975"
+    }
+  ],
+  "meta": {
+    "title": "Tiền giấy Việt Nam Cộng hòa (1955–1975) - Free Download",
+    "description": "Các loại tiền giấy do Ngân hàng Quốc gia Việt Nam (Việt Nam Cộng hòa) phát hành qua các đợt: mệnh giá, kích thước, màu sắc, hình ảnh mặt trước, mặt sau, hình mờ và ngày phát hành. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tiền giấy Việt Nam Cộng hòa (1955–1975) | ListBase",
+    "seo_description": "Download Tiền giấy Việt Nam Cộng hòa (1955–1975) — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Đồng_(tiền_Việt_Nam_Cộng_hòa)"
+    ]
+  }
+}
