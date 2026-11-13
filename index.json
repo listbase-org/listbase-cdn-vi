@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-12T02:05:46.434Z",
-  "total_datasets": 595,
-  "total_records": 130442,
+  "generated": "2026-11-13T02:17:31.253Z",
+  "total_datasets": 596,
+  "total_records": 130472,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -14123,6 +14123,39 @@
         "xlsx": {
           "name": "vi-ton-giao-theo-dan-so_VI.xlsx",
           "size": 7504
+        }
+      }
+    },
+    {
+      "id": "vi-huan-luyen-vien-doi-tuyen-bong-da-quoc-gia",
+      "name": "Huấn luyện viên đội tuyển bóng đá quốc gia Việt Nam",
+      "category": "sports",
+      "record_count": 30,
+      "columns": [
+        "coach",
+        "start",
+        "end",
+        "role",
+        "matches",
+        "wins",
+        "draws",
+        "losses",
+        "goals_for",
+        "goals_against",
+        "win_pct",
+        "achievements"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Đội_tuyển_bóng_đá_quốc_gia_Việt_Nam",
+      "updated": "2026-11",
+      "size": 12795,
+      "files": {
+        "csv": {
+          "name": "vi-huan-luyen-vien-doi-tuyen-bong-da-quoc-gia_VI.csv",
+          "size": 3829
+        },
+        "xlsx": {
+          "name": "vi-huan-luyen-vien-doi-tuyen-bong-da-quoc-gia_VI.xlsx",
+          "size": 9285
         }
       }
     },
