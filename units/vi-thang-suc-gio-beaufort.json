@@ -1,0 +1,208 @@
+{
+  "id": "vi-thang-suc-gio-beaufort",
+  "name": "Thang sức gió Beaufort (cấp 0–17)",
+  "title": "Thang sức gió Beaufort (cấp 0–17)",
+  "description": "Bảng cấp gió Beaufort mở rộng đến cấp 17 như dùng trong dự báo thời tiết ở Việt Nam: tốc độ gió, mô tả, độ cao sóng và tình trạng mặt biển, đất liền.",
+  "category": "units",
+  "source": "https://vi.wikipedia.org/wiki/Thang_sức_gió_Beaufort",
+  "source_url": "https://vi.wikipedia.org/wiki/Thang_sức_gió_Beaufort",
+  "updated": "2026-11",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "beaufort_level",
+      "label": "Beaufort Level",
+      "type": "number"
+    },
+    {
+      "key": "wind_speed_knots_kmh_mph",
+      "label": "Wind Speed Knots Kmh Mph",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "wave_height_m",
+      "label": "Wave Height M",
+      "type": "number"
+    },
+    {
+      "key": "sea_condition",
+      "label": "Sea Condition",
+      "type": "string"
+    },
+    {
+      "key": "land_condition",
+      "label": "Land Condition",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "beaufort_level": "0",
+      "wind_speed_knots_kmh_mph": "<1 / <1 / 1",
+      "description": "Êm đềm",
+      "wave_height_m": "0",
+      "sea_condition": "Phẳng lặng",
+      "land_condition": "Mặt đất êm đềm, hầu như lặng gió."
+    },
+    {
+      "beaufort_level": "1",
+      "wind_speed_knots_kmh_mph": "1-3 / 1-5 / 1-3",
+      "description": "Gió rất nhẹ",
+      "wave_height_m": "0,1",
+      "sea_condition": "Sóng lăn tăn, không có ngọn.",
+      "land_condition": "Chuyển động của gió thấy được trong khói."
+    },
+    {
+      "beaufort_level": "2",
+      "wind_speed_knots_kmh_mph": "4-6 / 6-11 / 4-7",
+      "description": "Gió thổi nhẹ vừa phải",
+      "wave_height_m": "0,2",
+      "sea_condition": "Sóng lăn tăn.",
+      "land_condition": "Cảm thấy gió trên da trần. Tiếng lá xào xạc."
+    },
+    {
+      "beaufort_level": "3",
+      "wind_speed_knots_kmh_mph": "7-10 / 12-19 / 8-12",
+      "description": "Gió nhẹ nhàng",
+      "wave_height_m": "0,6",
+      "sea_condition": "Sóng lăn tăn lớn.",
+      "land_condition": "Lá và cọng nhỏ chuyển động theo gió."
+    },
+    {
+      "beaufort_level": "4",
+      "wind_speed_knots_kmh_mph": "11-16 / 20-28 / 13-18",
+      "description": "Gió vừa phải",
+      "wave_height_m": "1",
+      "sea_condition": "Sóng nhỏ.",
+      "land_condition": "Bụi và giấy rời bay lên. Những cành cây nhỏ chuyển động."
+    },
+    {
+      "beaufort_level": "5",
+      "wind_speed_knots_kmh_mph": "17-21 / 29-38 / 19-24",
+      "description": "Gió mạnh vừa phải",
+      "wave_height_m": "2",
+      "sea_condition": "Sóng dài vừa phải (1,2 m). Có một chút bọt và bụi nước.",
+      "land_condition": "Cây nhỏ đu đưa."
+    },
+    {
+      "beaufort_level": "6",
+      "wind_speed_knots_kmh_mph": "22-27 / 39-49 / 25-31",
+      "description": "Gió mạnh",
+      "wave_height_m": "3",
+      "sea_condition": "Sóng lớn với chỏm bọt và bụi nước.",
+      "land_condition": "Cành lớn chuyển động. Sử dụng ô khó khăn."
+    },
+    {
+      "beaufort_level": "7",
+      "wind_speed_knots_kmh_mph": "28-33 / 50-61 / 32-38",
+      "description": "Gió mạnh",
+      "wave_height_m": "4",
+      "sea_condition": "Biển cuộn sóng và bọt bắt đầu có vệt.",
+      "land_condition": "Cây to chuyển động. Phải có sự gắng sức khi đi ngược gió."
+    },
+    {
+      "beaufort_level": "8",
+      "wind_speed_knots_kmh_mph": "34-40 / 62-74 / 39-46",
+      "description": "Gió mạnh hơn",
+      "wave_height_m": "5,5",
+      "sea_condition": "Sóng cao vừa phải với ngọn sóng gãy tạo ra nhiều bụi. Các vệt bọt nước.",
+      "land_condition": "Cành nhỏ gãy khỏi cây."
+    },
+    {
+      "beaufort_level": "9",
+      "wind_speed_knots_kmh_mph": "41-47 / 75-88 / 47-54",
+      "description": "Gió rất mạnh",
+      "wave_height_m": "7",
+      "sea_condition": "Sóng cao (2,75 m) với nhiều bọt hơn. Ngọn sóng bắt đầu cuộn lại. Nhiều bụi nước.",
+      "land_condition": "Một số công trình xây dựng bị hư hại nhỏ."
+    },
+    {
+      "beaufort_level": "10",
+      "wind_speed_knots_kmh_mph": "48-55 / 89-102 / 55-63",
+      "description": "Gió bão",
+      "wave_height_m": "9",
+      "sea_condition": "Sóng rất cao. Mặt biển trắng xóa và xô mạnh vào bờ. Tầm nhìn bị giảm.",
+      "land_condition": "Cây bật gốc. Một số công trình xây dựng hư hại vừa phải."
+    },
+    {
+      "beaufort_level": "11",
+      "wind_speed_knots_kmh_mph": "56-63 / 103-117 / 64-72",
+      "description": "Gió bão dữ dội",
+      "wave_height_m": "11,5",
+      "sea_condition": "Sóng cực cao.",
+      "land_condition": "Nhiều công trình xây dựng hư hỏng."
+    },
+    {
+      "beaufort_level": "12",
+      "wind_speed_knots_kmh_mph": "64 / 118-133 / 73 và cao hơn",
+      "description": "Gió bão cực mạnh",
+      "wave_height_m": "14+",
+      "sea_condition": "Các con sóng khổng lồ. Không gian bị bao phủ bởi bọt và bụi nước. Biển hoàn toàn trắng với các bụi nước.",
+      "land_condition": "Nhiều công trình hư hỏng nặng."
+    },
+    {
+      "beaufort_level": "13*",
+      "wind_speed_knots_kmh_mph": "76 / 134-149 / 88",
+      "description": "Gió bão cực mạnh",
+      "wave_height_m": "14+",
+      "sea_condition": "Sóng biển cực kỳ mạnh. Đánh đắm tàu biển có trọng tải lớn.",
+      "land_condition": "Sức phá hoại cực kỳ lớn."
+    },
+    {
+      "beaufort_level": "14*",
+      "wind_speed_knots_kmh_mph": "85 / 150-166 / 98",
+      "description": "Gió bão cực mạnh",
+      "wave_height_m": "14+",
+      "sea_condition": "Sóng biển cực kỳ mạnh. Đánh đắm tàu biển có trọng tải lớn.",
+      "land_condition": "Sức phá hoại cực kỳ lớn."
+    },
+    {
+      "beaufort_level": "15*",
+      "wind_speed_knots_kmh_mph": "94 / 167-183 / 109",
+      "description": "Gió bão cực mạnh",
+      "wave_height_m": "14+",
+      "sea_condition": "Sóng biển cực kỳ mạnh. Đánh đắm tàu biển có trọng tải lớn.",
+      "land_condition": "Sức phá hoại cực kỳ lớn."
+    },
+    {
+      "beaufort_level": "16*",
+      "wind_speed_knots_kmh_mph": "104 / 184-201 / 120",
+      "description": "Gió bão cực mạnh",
+      "wave_height_m": "14+",
+      "sea_condition": "Sóng biển cực kỳ mạnh. Đánh đắm tàu biển có trọng tải lớn.",
+      "land_condition": "Sức phá hoại cực kỳ lớn."
+    },
+    {
+      "beaufort_level": "17*",
+      "wind_speed_knots_kmh_mph": "114 / 202-220 / 131",
+      "description": "Gió bão cực mạnh",
+      "wave_height_m": "14+",
+      "sea_condition": "Sóng biển cực kỳ mạnh. Đánh đắm tàu biển có trọng tải lớn.",
+      "land_condition": "Sức phá hoại cực kỳ lớn."
+    },
+    {
+      "beaufort_level": "> 17*",
+      "wind_speed_knots_kmh_mph": ">119 / >221 / >137",
+      "description": "Gió bão cực kỳ mạnh",
+      "wave_height_m": "14+",
+      "sea_condition": "Sóng biển vô cùng mạnh. Đánh đắm tàu biển có trọng tải rất lớn.",
+      "land_condition": "Sức phá hoại cực kỳ tàn bạo."
+    }
+  ],
+  "meta": {
+    "title": "Thang sức gió Beaufort (cấp 0–17) - Free Download",
+    "description": "Bảng cấp gió Beaufort mở rộng đến cấp 17 như dùng trong dự báo thời tiết ở Việt Nam: tốc độ gió, mô tả, độ cao sóng và tình trạng mặt biển, đất liền. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Thang sức gió Beaufort (cấp 0–17) | ListBase",
+    "seo_description": "Download Thang sức gió Beaufort (cấp 0–17) — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Thang_sức_gió_Beaufort"
+    ]
+  }
+}
