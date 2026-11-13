@@ -1,0 +1,226 @@
+{
+  "id": "vi-viet-nam-tai-aff-cup",
+  "name": "Thành tích đội tuyển Việt Nam tại Giải vô địch bóng đá Đông Nam Á (AFF Cup)",
+  "title": "Thành tích đội tuyển Việt Nam tại Giải vô địch bóng đá Đông Nam Á (AFF Cup)",
+  "description": "Kết quả của đội tuyển bóng đá quốc gia Việt Nam qua từng kỳ Giải vô địch bóng đá Đông Nam Á (Tiger Cup/AFF Cup/ASEAN Cup): thứ hạng, số trận, thắng, hòa, thua và bàn thắng – bàn thua.",
+  "category": "sports",
+  "source": "https://vi.wikipedia.org/wiki/Đội_tuyển_bóng_đá_quốc_gia_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Đội_tuyển_bóng_đá_quốc_gia_Việt_Nam",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "result",
+      "label": "Result",
+      "type": "string"
+    },
+    {
+      "key": "played",
+      "label": "Played",
+      "type": "number"
+    },
+    {
+      "key": "won",
+      "label": "Won",
+      "type": "number"
+    },
+    {
+      "key": "drawn",
+      "label": "Drawn",
+      "type": "number"
+    },
+    {
+      "key": "lost",
+      "label": "Lost",
+      "type": "number"
+    },
+    {
+      "key": "goals_for",
+      "label": "Goals For",
+      "type": "number"
+    },
+    {
+      "key": "goals_against",
+      "label": "Goals Against",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1996,
+      "result": "Hạng ba",
+      "played": 6,
+      "won": 3,
+      "drawn": 2,
+      "lost": 1,
+      "goals_for": 14,
+      "goals_against": 10
+    },
+    {
+      "year": 1998,
+      "result": "Á quân",
+      "played": 5,
+      "won": 3,
+      "drawn": 1,
+      "lost": 1,
+      "goals_for": 8,
+      "goals_against": 2
+    },
+    {
+      "year": 2000,
+      "result": "Hạng tư",
+      "played": 6,
+      "won": 3,
+      "drawn": 1,
+      "lost": 2,
+      "goals_for": 14,
+      "goals_against": 6
+    },
+    {
+      "year": 2002,
+      "result": "Hạng ba",
+      "played": 6,
+      "won": 4,
+      "drawn": 1,
+      "lost": 1,
+      "goals_for": 21,
+      "goals_against": 12
+    },
+    {
+      "year": 2004,
+      "result": "Vòng bảng",
+      "played": 4,
+      "won": 2,
+      "drawn": 1,
+      "lost": 1,
+      "goals_for": 13,
+      "goals_against": 5
+    },
+    {
+      "year": 2007,
+      "result": "Bán kết",
+      "played": 5,
+      "won": 1,
+      "drawn": 3,
+      "lost": 1,
+      "goals_for": 10,
+      "goals_against": 3
+    },
+    {
+      "year": 2008,
+      "result": "Vô địch",
+      "played": 7,
+      "won": 4,
+      "drawn": 2,
+      "lost": 1,
+      "goals_for": 11,
+      "goals_against": 6
+    },
+    {
+      "year": 2010,
+      "result": "Bán kết",
+      "played": 5,
+      "won": 2,
+      "drawn": 1,
+      "lost": 2,
+      "goals_for": 8,
+      "goals_against": 5
+    },
+    {
+      "year": 2012,
+      "result": "Vòng bảng",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "goals_for": 2,
+      "goals_against": 5
+    },
+    {
+      "year": 2014,
+      "result": "Bán kết",
+      "played": 5,
+      "won": 3,
+      "drawn": 1,
+      "lost": 1,
+      "goals_for": 12,
+      "goals_against": 8
+    },
+    {
+      "year": 2016,
+      "result": "Bán kết",
+      "played": 5,
+      "won": 3,
+      "drawn": 1,
+      "lost": 1,
+      "goals_for": 8,
+      "goals_against": 6
+    },
+    {
+      "year": 2018,
+      "result": "Vô địch",
+      "played": 8,
+      "won": 6,
+      "drawn": 2,
+      "lost": 0,
+      "goals_for": 15,
+      "goals_against": 4
+    },
+    {
+      "year": 2020,
+      "result": "Bán kết",
+      "played": 6,
+      "won": 3,
+      "drawn": 2,
+      "lost": 1,
+      "goals_for": 9,
+      "goals_against": 2
+    },
+    {
+      "year": 2022,
+      "result": "Á quân",
+      "played": 8,
+      "won": 4,
+      "drawn": 3,
+      "lost": 1,
+      "goals_for": 16,
+      "goals_against": 3
+    },
+    {
+      "year": 2024,
+      "result": "Vô địch",
+      "played": 8,
+      "won": 7,
+      "drawn": 1,
+      "lost": 0,
+      "goals_for": 21,
+      "goals_against": 6
+    },
+    {
+      "year": 2026,
+      "result": "Vô địch",
+      "played": 8,
+      "won": 6,
+      "drawn": 2,
+      "lost": 0,
+      "goals_for": 21,
+      "goals_against": 3
+    }
+  ],
+  "meta": {
+    "title": "Thành tích đội tuyển Việt Nam tại Giải vô địch bóng đá Đông Nam Á (AFF Cup) - Free Download",
+    "description": "Kết quả của đội tuyển bóng đá quốc gia Việt Nam qua từng kỳ Giải vô địch bóng đá Đông Nam Á (Tiger Cup/AFF Cup/ASEAN Cup): thứ hạng, số trận, thắng, hòa, thua và bàn thắng – bàn thua. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Thành tích đội tuyển Việt Nam tại Giải vô địch bóng đá Đông Nam Á (AFF Cup) | ListBase",
+    "seo_description": "Download Thành tích đội tuyển Việt Nam tại Giải vô địch bóng đá Đông Nam Á (AFF Cup) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Đội_tuyển_bóng_đá_quốc_gia_Việt_Nam"
+    ]
+  }
+}

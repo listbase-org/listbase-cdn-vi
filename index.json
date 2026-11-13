@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-13T02:17:59.532Z",
-  "total_datasets": 599,
-  "total_records": 130548,
+  "generated": "2026-11-13T02:18:07.981Z",
+  "total_datasets": 600,
+  "total_records": 130564,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tech",
@@ -14366,6 +14366,35 @@
         "xlsx": {
           "name": "vi-uefa-champions-league-tran-dau_VI.xlsx",
           "size": 146516
+        }
+      }
+    },
+    {
+      "id": "vi-viet-nam-tai-aff-cup",
+      "name": "Thành tích đội tuyển Việt Nam tại Giải vô địch bóng đá Đông Nam Á (AFF Cup)",
+      "category": "sports",
+      "record_count": 16,
+      "columns": [
+        "year",
+        "result",
+        "played",
+        "won",
+        "drawn",
+        "lost",
+        "goals_for",
+        "goals_against"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Đội_tuyển_bóng_đá_quốc_gia_Việt_Nam",
+      "updated": "2026-11",
+      "size": 5408,
+      "files": {
+        "csv": {
+          "name": "vi-viet-nam-tai-aff-cup_VI.csv",
+          "size": 795
+        },
+        "xlsx": {
+          "name": "vi-viet-nam-tai-aff-cup_VI.xlsx",
+          "size": 7385
         }
       }
     },
