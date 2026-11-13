@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-13T02:17:49.841Z",
-  "total_datasets": 598,
-  "total_records": 130531,
+  "generated": "2026-11-13T02:17:59.532Z",
+  "total_datasets": 599,
+  "total_records": 130548,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 19
+      "dataset_count": 20
     },
     {
       "id": "food",
@@ -2124,6 +2124,34 @@
         "xlsx": {
           "name": "vi-tien-xu-dong-viet-nam_VI.xlsx",
           "size": 7370
+        }
+      }
+    },
+    {
+      "id": "vi-tien-xu-viet-nam-cong-hoa",
+      "name": "Tiền xu Việt Nam Cộng hòa (1953–1975)",
+      "category": "finance",
+      "record_count": 17,
+      "columns": [
+        "series",
+        "denomination",
+        "diameter",
+        "material",
+        "obverse",
+        "reverse",
+        "year_minted"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Đồng_(tiền_Việt_Nam_Cộng_hòa)",
+      "updated": "2026-11",
+      "size": 7432,
+      "files": {
+        "csv": {
+          "name": "vi-tien-xu-viet-nam-cong-hoa_VI.csv",
+          "size": 2881
+        },
+        "xlsx": {
+          "name": "vi-tien-xu-viet-nam-cong-hoa_VI.xlsx",
+          "size": 7782
         }
       }
     },

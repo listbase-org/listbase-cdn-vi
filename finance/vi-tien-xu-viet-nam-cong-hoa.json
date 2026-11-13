@@ -1,0 +1,214 @@
+{
+  "id": "vi-tien-xu-viet-nam-cong-hoa",
+  "name": "Tiền xu Việt Nam Cộng hòa (1953–1975)",
+  "title": "Tiền xu Việt Nam Cộng hòa (1953–1975)",
+  "description": "Các loại tiền kim loại do Quốc gia Việt Nam và Việt Nam Cộng hòa phát hành theo từng seri: mệnh giá, đường kính, vật liệu, hình mặt trước, mặt sau và năm đúc.",
+  "category": "finance",
+  "source": "https://vi.wikipedia.org/wiki/Đồng_(tiền_Việt_Nam_Cộng_hòa)",
+  "source_url": "https://vi.wikipedia.org/wiki/Đồng_(tiền_Việt_Nam_Cộng_hòa)",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "series",
+      "label": "Series",
+      "type": "string"
+    },
+    {
+      "key": "denomination",
+      "label": "Denomination",
+      "type": "string"
+    },
+    {
+      "key": "diameter",
+      "label": "Diameter",
+      "type": "string"
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "type": "string"
+    },
+    {
+      "key": "obverse",
+      "label": "Obverse",
+      "type": "string"
+    },
+    {
+      "key": "reverse",
+      "label": "Reverse",
+      "type": "string"
+    },
+    {
+      "key": "year_minted",
+      "label": "Year Minted",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "series": "Seri đầu tiên",
+      "denomination": "10 su",
+      "diameter": "23 mm",
+      "material": "Nhôm",
+      "obverse": "Ba người phụ nữ, \"Quốc gia Việt Nam\" (State of Vietnam)",
+      "reverse": "Cây lúa, \"Việt Nam\"",
+      "year_minted": "1953"
+    },
+    {
+      "series": "Seri đầu tiên",
+      "denomination": "20 su",
+      "diameter": "27 mm",
+      "material": "Nhôm",
+      "obverse": "Ba người phụ nữ, \"Quốc gia Việt Nam\" (State of Vietnam)",
+      "reverse": "Cây lúa, \"Việt Nam\"",
+      "year_minted": "1953"
+    },
+    {
+      "series": "Seri đầu tiên",
+      "denomination": "50 xu",
+      "diameter": "31 mm",
+      "material": "Nhôm",
+      "obverse": "Ba người phụ nữ, \"Quốc gia Việt Nam\" (State of Vietnam)",
+      "reverse": "Hai con rồng, \"Việt Nam\"",
+      "year_minted": "1953"
+    },
+    {
+      "series": "Seri thứ hai",
+      "denomination": "50 su",
+      "diameter": "31 mm",
+      "material": "Nhôm",
+      "obverse": "Ngô Đình Diệm, \"Việt Nam Cộng Hòa\" (Republic of Vietnam)",
+      "reverse": "Cây tre",
+      "year_minted": "1960"
+    },
+    {
+      "series": "Seri thứ hai",
+      "denomination": "1 đồng",
+      "diameter": "23 mm",
+      "material": "Đồng nickel",
+      "obverse": "Ngô Đình Diệm, \"Việt Nam Cộng Hòa\" (Republic of Vietnam)",
+      "reverse": "Cây tre",
+      "year_minted": "1960"
+    },
+    {
+      "series": "Seri Thứ ba",
+      "denomination": "50 xu",
+      "diameter": "30 mm",
+      "material": "Nhôm",
+      "obverse": "Ngô Đình Diệm, \"Việt Nam Cộng Hòa\" (Republic of Vietnam)",
+      "reverse": "Cây tre",
+      "year_minted": "1963"
+    },
+    {
+      "series": "Seri Thứ ba",
+      "denomination": "1 đồng",
+      "diameter": "23 mm",
+      "material": "Đồng nickel",
+      "obverse": "\"Việt Nam Cộng Hòa\", mệnh giá",
+      "reverse": "Cây lúa",
+      "year_minted": "1964"
+    },
+    {
+      "series": "Seri Thứ ba",
+      "denomination": "5 đồng",
+      "diameter": "25 mm (lớn nhất) Viền gợn sóng vỏ sò",
+      "material": "Đồng nickel",
+      "obverse": "\"Việt Nam Cộng Hòa\", mệnh giá",
+      "reverse": "Cây lúa, \"Ngân Hàng Quốc gia Việt Nam\" (National Bank of Vietnam)",
+      "year_minted": "1966-1970"
+    },
+    {
+      "series": "Seri Thứ ba",
+      "denomination": "10 đồng",
+      "diameter": "26 mm",
+      "material": "Đồng nickel",
+      "obverse": "\"Việt Nam Cộng Hòa\", mệnh giá",
+      "reverse": "Cây lúa",
+      "year_minted": "1964-1967"
+    },
+    {
+      "series": "Seri Thứ tư",
+      "denomination": "1 đồng",
+      "diameter": "23 mm",
+      "material": "Thép mạ nickel",
+      "obverse": "\"Việt Nam Cộng Hòa\", mệnh giá",
+      "reverse": "Cây lúa",
+      "year_minted": "1971"
+    },
+    {
+      "series": "Seri Thứ tư",
+      "denomination": "5 đồng",
+      "diameter": "25 mm (lớn nhất) Viền gợn sóng vỏ sò",
+      "material": "Thép mạ nickel",
+      "obverse": "\"Việt Nam Cộng Hòa\", mệnh giá",
+      "reverse": "Cây lúa, \"Ngân Hàng Quốc gia Việt Nam\" (National Bank of Vietnam)",
+      "year_minted": "1971"
+    },
+    {
+      "series": "Seri Thứ tư",
+      "denomination": "10 đồng",
+      "diameter": "26 mm",
+      "material": "Thép mạ nickel",
+      "obverse": "\"Việt Nam Cộng Hòa\", mệnh giá",
+      "reverse": "Cây lúa",
+      "year_minted": "1968-1970"
+    },
+    {
+      "series": "Seri Thứ tư",
+      "denomination": "20 đồng",
+      "diameter": "30 mm (lớn nhất) Dodecagon",
+      "material": "Thép mạ nickel",
+      "obverse": "\"Việt Nam Cộng Hòa\", mệnh giá",
+      "reverse": "Người nông dân, \"Ngân Hàng Quốc gia Việt Nam\"",
+      "year_minted": "1968"
+    },
+    {
+      "series": "Seri Thứ năm (seri F.A.O.)",
+      "denomination": "1 đồng",
+      "diameter": "23 mm",
+      "material": "Nhôm",
+      "obverse": "\"Việt Nam Cộng Hòa\", mệnh giá",
+      "reverse": "Cây lúa, khẩu hiệu chương trình F.A.O.",
+      "year_minted": "1971"
+    },
+    {
+      "series": "Seri Thứ năm (seri F.A.O.)",
+      "denomination": "10 đồng",
+      "diameter": "26 mm",
+      "material": "Thép mạ đồng thau",
+      "obverse": "\"Việt Nam Cộng Hòa\" và \"Ngân hàng Quốc gia Việt Nam\", mệnh giá",
+      "reverse": "Người nông dân, khẩu hiệu chương trình F.A.O",
+      "year_minted": "1974"
+    },
+    {
+      "series": "Seri Thứ năm (seri F.A.O.)",
+      "denomination": "20 đồng",
+      "diameter": "30 mm (lớn nhất) Dodecagon",
+      "material": "Thép mạ nickel",
+      "obverse": "\"Việt Nam Cộng Hòa\", mệnh giá",
+      "reverse": "Người nông dân, khẩu hiệu chương trình F.A.O",
+      "year_minted": "1968"
+    },
+    {
+      "series": "Seri Thứ năm (seri F.A.O.)",
+      "denomination": "50 đồng",
+      "diameter": "25 mm",
+      "material": "Thép mạ nickel",
+      "obverse": "\"Việt Nam Cộng Hòa\" và \"'Ngân hàng Quốc gia Việt Nam\", mệnh giá",
+      "reverse": "Người nông dân, khẩu hiệu chương trình F.A.O",
+      "year_minted": "1975"
+    }
+  ],
+  "meta": {
+    "title": "Tiền xu Việt Nam Cộng hòa (1953–1975) - Free Download",
+    "description": "Các loại tiền kim loại do Quốc gia Việt Nam và Việt Nam Cộng hòa phát hành theo từng seri: mệnh giá, đường kính, vật liệu, hình mặt trước, mặt sau và năm đúc. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tiền xu Việt Nam Cộng hòa (1953–1975) | ListBase",
+    "seo_description": "Download Tiền xu Việt Nam Cộng hòa (1953–1975) — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Đồng_(tiền_Việt_Nam_Cộng_hòa)"
+    ]
+  }
+}
