@@ -1,0 +1,216 @@
+{
+  "id": "vi-bo-truong-bo-giao-thong-van-tai",
+  "name": "Danh sách Bộ trưởng Bộ Giao thông Vận tải Việt Nam",
+  "title": "Danh sách Bộ trưởng Bộ Giao thông Vận tải Việt Nam",
+  "description": "Các Bộ trưởng ngành giao thông vận tải Việt Nam từ năm 1945: họ tên, nhiệm kỳ, thời gian tại nhiệm và ghi chú.",
+  "category": "transport",
+  "source": "https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Giao_thông_Vận_tải_(Việt_Nam)",
+  "source_url": "https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Giao_thông_Vận_tải_(Việt_Nam)",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "time_in_office",
+      "label": "Time In Office",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "name": "Đào Trọng Kim",
+      "term_start": "28 tháng 8 năm 1945",
+      "term_end": "2 tháng 3 năm 1946",
+      "time_in_office": "186 ngày",
+      "note": "Bộ trưởng Bộ Giao thông Công chính"
+    },
+    {
+      "no": "2",
+      "name": "Trần Đăng Khoa",
+      "term_start": "2 tháng 3 năm 1946",
+      "term_end": "20 tháng 9 năm 1955",
+      "time_in_office": "9 năm 202 ngày",
+      "note": "Bộ trưởng Bộ Giao thông"
+    },
+    {
+      "no": "3",
+      "name": "Nguyễn Văn Trân",
+      "term_start": "20 tháng 9 năm 1955",
+      "term_end": "26 tháng 7 năm 1960",
+      "time_in_office": "4 năm 310 ngày",
+      "note": "Bộ trưởng Bộ Giao thông và Bưu điện"
+    },
+    {
+      "no": "-",
+      "name": "Nguyễn Hữu Mai",
+      "term_start": "1957",
+      "term_end": "1960",
+      "time_in_office": "",
+      "note": "Quyền Bộ trưởng Bộ Giao thông và Bưu điện"
+    },
+    {
+      "no": "4",
+      "name": "Thiếu tướng Phan Trọng Tuệ",
+      "term_start": "26 tháng 7 năm 1960",
+      "term_end": "28 tháng 3 năm 1974",
+      "time_in_office": "13 năm 245 ngày",
+      "note": "Bộ trưởng Bộ Giao thông và Bưu điện Bộ trưởng Bộ Giao thông vận tải"
+    },
+    {
+      "no": "-",
+      "name": "Thiếu tướng Đinh Đức Thiện",
+      "term_start": "1972",
+      "term_end": "28 tháng 3 năm 1974",
+      "time_in_office": "",
+      "note": "Quyền Bộ trưởng Bộ Giao thông vận tải"
+    },
+    {
+      "no": "5",
+      "name": "Dương Bạch Liên",
+      "term_start": "28 tháng 3 năm 1974",
+      "term_end": "2 tháng 7 năm 1976",
+      "time_in_office": "2 năm 96 ngày",
+      "note": "Bộ trưởng Bộ Giao thông vận tải"
+    },
+    {
+      "no": "7",
+      "name": "Thiếu tướng Phan Trọng Tuệ",
+      "term_start": "2 tháng 7 năm 1976",
+      "term_end": "7 tháng 2 năm 1980",
+      "time_in_office": "3 năm 220 ngày",
+      "note": "Bộ trưởng Bộ Giao thông vận tải"
+    },
+    {
+      "no": "8",
+      "name": "Thiếu tướng Đinh Đức Thiện",
+      "term_start": "7 tháng 2 năm 1980",
+      "term_end": "23 tháng 4 năm 1982",
+      "time_in_office": "2 năm 76 ngày",
+      "note": "Bộ trưởng Bộ Giao thông vận tải"
+    },
+    {
+      "no": "9",
+      "name": "Trung tướng Đồng Sỹ Nguyên",
+      "term_start": "23 tháng 4 năm 1982",
+      "term_end": "21 tháng 6 năm 1986",
+      "time_in_office": "4 năm 59 ngày",
+      "note": "Bộ trưởng Bộ Giao thông vận tải"
+    },
+    {
+      "no": "10",
+      "name": "GS. Tiến sĩ Bùi Danh Lưu",
+      "term_start": "21 tháng 6 năm 1986",
+      "term_end": "6 tháng 11 năm 1996",
+      "time_in_office": "10 năm 138 ngày",
+      "note": "Bộ trưởng Bộ Giao thông vận tải"
+    },
+    {
+      "no": "-",
+      "name": "Lê Ngọc Hoàn",
+      "term_start": "6 tháng 11 năm 1996",
+      "term_end": "26 tháng 9 năm 1997",
+      "time_in_office": "5 năm 255 ngày",
+      "note": "Quyền Bộ trưởng Bộ Giao thông vận tải"
+    },
+    {
+      "no": "11",
+      "name": "Lê Ngọc Hoàn",
+      "term_start": "26 tháng 9 năm 1997",
+      "term_end": "19 tháng 7 năm 2002",
+      "time_in_office": "5 năm 255 ngày",
+      "note": "Bộ trưởng Bộ Giao thông vận tải"
+    },
+    {
+      "no": "12",
+      "name": "Tiến sĩ Đào Đình Bình",
+      "term_start": "19 tháng 7 năm 2002",
+      "term_end": "28 tháng 6 năm 2006",
+      "time_in_office": "3 năm 344 ngày",
+      "note": "Bộ trưởng Bộ Giao thông vận tải"
+    },
+    {
+      "no": "13",
+      "name": "Hồ Nghĩa Dũng",
+      "term_start": "28 tháng 6 năm 2006",
+      "term_end": "3 tháng 8 năm 2011",
+      "time_in_office": "5 năm 36 ngày",
+      "note": "Bộ trưởng Bộ Giao thông vận tải"
+    },
+    {
+      "no": "14",
+      "name": "Tiến sĩ Đinh La Thăng",
+      "term_start": "3 tháng 8 năm 2011",
+      "term_end": "8 tháng 4 năm 2016",
+      "time_in_office": "4 năm 249 ngày",
+      "note": "Bộ trưởng Bộ Giao thông vận tải"
+    },
+    {
+      "no": "15",
+      "name": "Thạc sĩ Trương Quang Nghĩa",
+      "term_start": "9 tháng 4 năm 2016",
+      "term_end": "26 tháng 10 năm 2017",
+      "time_in_office": "1 năm 200 ngày",
+      "note": "Bộ trưởng Bộ Giao thông vận tải"
+    },
+    {
+      "no": "16",
+      "name": "Tiến sĩ Nguyễn Văn Thể",
+      "term_start": "26 tháng 10 năm 2017",
+      "term_end": "21 tháng 10 năm 2022",
+      "time_in_office": "4 năm 360 ngày",
+      "note": "Bộ trưởng Bộ Giao thông vận tải"
+    },
+    {
+      "no": "17",
+      "name": "Tiến sĩ Nguyễn Văn Thắng",
+      "term_start": "21 tháng 10 năm 2022",
+      "term_end": "28 tháng 11 năm 2024",
+      "time_in_office": "2 năm 38 ngày",
+      "note": "Bộ trưởng Bộ Giao thông vận tải"
+    },
+    {
+      "no": "18",
+      "name": "Trung tướng, Tiến sĩ Trần Hồng Minh",
+      "term_start": "28 tháng 11 năm 2024",
+      "term_end": "18 tháng 2 năm 2025",
+      "time_in_office": "82 ngày",
+      "note": "Bộ trưởng Bộ Giao thông vận tải"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách Bộ trưởng Bộ Giao thông Vận tải Việt Nam - Free Download",
+    "description": "Các Bộ trưởng ngành giao thông vận tải Việt Nam từ năm 1945: họ tên, nhiệm kỳ, thời gian tại nhiệm và ghi chú. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách Bộ trưởng Bộ Giao thông Vận tải Việt Nam | ListBase",
+    "seo_description": "Download Danh sách Bộ trưởng Bộ Giao thông Vận tải Việt Nam — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Giao_thông_Vận_tải_(Việt_Nam)"
+    ]
+  }
+}

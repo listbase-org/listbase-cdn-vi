@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-14T02:14:11.377Z",
-  "total_datasets": 602,
-  "total_records": 130590,
+  "generated": "2026-11-14T02:14:21.354Z",
+  "total_datasets": 603,
+  "total_records": 130610,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 29
+      "dataset_count": 30
     },
     {
       "id": "units",
@@ -17200,6 +17200,33 @@
         "xlsx": {
           "name": "vi-binh-thuan-san-bay_VI.xlsx",
           "size": 7164
+        }
+      }
+    },
+    {
+      "id": "vi-bo-truong-bo-giao-thong-van-tai",
+      "name": "Danh sách Bộ trưởng Bộ Giao thông Vận tải Việt Nam",
+      "category": "transport",
+      "record_count": 20,
+      "columns": [
+        "no",
+        "name",
+        "term_start",
+        "term_end",
+        "time_in_office",
+        "note"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Giao_thông_Vận_tải_(Việt_Nam)",
+      "updated": "2026-11",
+      "size": 7362,
+      "files": {
+        "csv": {
+          "name": "vi-bo-truong-bo-giao-thong-van-tai_VI.csv",
+          "size": 2981
+        },
+        "xlsx": {
+          "name": "vi-bo-truong-bo-giao-thong-van-tai_VI.xlsx",
+          "size": 8019
         }
       }
     },
