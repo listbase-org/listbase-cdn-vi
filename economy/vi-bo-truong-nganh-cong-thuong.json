@@ -1,0 +1,706 @@
+{
+  "id": "vi-bo-truong-nganh-cong-thuong",
+  "name": "Danh sách Bộ trưởng ngành Công Thương Việt Nam",
+  "title": "Danh sách Bộ trưởng ngành Công Thương Việt Nam",
+  "description": "Các Bộ trưởng ngành công nghiệp, thương mại, năng lượng, lương thực và Bộ Công Thương Việt Nam qua các thời kỳ từ năm 1955: họ tên, bộ, nhiệm kỳ, chức vụ.",
+  "category": "economy",
+  "source": "https://vi.wikipedia.org/wiki/Danh_sách_Cựu_Bộ_trưởng_ngành_Công_Thương",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_sách_Cựu_Bộ_trưởng_ngành_Công_Thương",
+  "updated": "2026-11",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "time_in_office",
+      "label": "Time In Office",
+      "type": "string"
+    },
+    {
+      "key": "position",
+      "label": "Position",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    },
+    {
+      "key": "ministry",
+      "label": "Ministry",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "name": "Lê Thanh Nghị",
+      "term_start": "20 tháng 9 năm 1955",
+      "term_end": "6 tháng 7 năm 1960",
+      "time_in_office": "4 năm 290 ngày",
+      "position": "Bộ trưởng Bộ Công nghiệp",
+      "note": "",
+      "ministry": "Bộ Công nghiệp (1955-1960)"
+    },
+    {
+      "no": "1",
+      "name": "Kha Vạng Cân",
+      "term_start": "6 tháng 7 năm 1960",
+      "term_end": "15 tháng 5 năm 1975",
+      "time_in_office": "14 năm 313 ngày",
+      "position": "Bộ trưởng Bộ Công nghiệp nhẹ",
+      "note": "",
+      "ministry": "Bộ Công nghiệp nhẹ (1960-1995)"
+    },
+    {
+      "no": "2",
+      "name": "Vũ Tuân",
+      "term_start": "15 tháng 5 năm 1975",
+      "term_end": "28 tháng 2 năm 1977",
+      "time_in_office": "1 năm 289 ngày",
+      "position": "Bộ trưởng Bộ Công nghiệp nhẹ",
+      "note": "",
+      "ministry": "Bộ Công nghiệp nhẹ (1960-1995)"
+    },
+    {
+      "no": "3",
+      "name": "Trần Hữu Dư",
+      "term_start": "28 tháng 2 năm 1977",
+      "term_end": "23 tháng 4 năm 1982",
+      "time_in_office": "5 năm 54 ngày",
+      "position": "Bộ trưởng Bộ Công nghiệp nhẹ",
+      "note": "",
+      "ministry": "Bộ Công nghiệp nhẹ (1960-1995)"
+    },
+    {
+      "no": "4",
+      "name": "Nguyễn Chí Vu",
+      "term_start": "23 tháng 4 năm 1982",
+      "term_end": "16 tháng 2 năm 1987",
+      "time_in_office": "4 năm 299 ngày",
+      "position": "Bộ trưởng Bộ Công nghiệp nhẹ",
+      "note": "",
+      "ministry": "Bộ Công nghiệp nhẹ (1960-1995)"
+    },
+    {
+      "no": "5",
+      "name": "Vũ Tuân",
+      "term_start": "16 tháng 2 năm 1987",
+      "term_end": "20 tháng 2 năm 1990",
+      "time_in_office": "3 năm 4 ngày",
+      "position": "Bộ trưởng Bộ Công nghiệp nhẹ",
+      "note": "",
+      "ministry": "Bộ Công nghiệp nhẹ (1960-1995)"
+    },
+    {
+      "no": "6",
+      "name": "Đặng Vũ Chư",
+      "term_start": "20 tháng 2 năm 1990",
+      "term_end": "21 tháng 10 năm 1995",
+      "time_in_office": "5 năm 243 ngày",
+      "position": "Bộ trưởng Bộ Công nghiệp nhẹ",
+      "note": "",
+      "ministry": "Bộ Công nghiệp nhẹ (1960-1995)"
+    },
+    {
+      "no": "1",
+      "name": "Nguyễn Văn Trân",
+      "term_start": "26 tháng 7 năm 1960",
+      "term_end": "22 tháng 2 năm 1967",
+      "time_in_office": "6 năm 204 ngày",
+      "position": "Bộ trưởng Bộ Công nghiệp nặng",
+      "note": "",
+      "ministry": "Bộ Công nghiệp nặng (1960-1969)"
+    },
+    {
+      "no": "2",
+      "name": "Lê Thanh Nghị",
+      "term_start": "22 tháng 2 năm 1967",
+      "term_end": "30 tháng 10 năm 1967",
+      "time_in_office": "250 ngày",
+      "position": "Bộ trưởng Bộ Công nghiệp nặng",
+      "note": "",
+      "ministry": "Bộ Công nghiệp nặng (1960-1969)"
+    },
+    {
+      "no": "3",
+      "name": "Nguyễn Hữu Mai",
+      "term_start": "30 tháng 10 năm 1967",
+      "term_end": "15 tháng 12 năm 1969",
+      "time_in_office": "2 năm 46 ngày",
+      "position": "Bộ trưởng Bộ Công nghiệp nặng",
+      "note": "",
+      "ministry": "Bộ Công nghiệp nặng (1960-1969)"
+    },
+    {
+      "no": "1",
+      "name": "Phan Anh",
+      "term_start": "20 tháng 9 năm 1955",
+      "term_end": "29 tháng 4 năm 1958",
+      "time_in_office": "2 năm 221 ngày",
+      "position": "Bộ trưởng Bộ Thương nghiệp",
+      "note": "",
+      "ministry": "Bộ Thương nghiệp (1955-1958)"
+    },
+    {
+      "no": "1",
+      "name": "Đỗ Mười",
+      "term_start": "29 tháng 4 năm 1958",
+      "term_end": "1 tháng 2 năm 1961",
+      "time_in_office": "2 năm 278 ngày",
+      "position": "Bộ trưởng Bộ Nội thương",
+      "note": "",
+      "ministry": "Bộ Nội thương (1958-1990)"
+    },
+    {
+      "no": "-",
+      "name": "Nguyễn Thanh Bình",
+      "term_start": "1 tháng 2 năm 1961",
+      "term_end": "7 tháng 1 năm 1963",
+      "time_in_office": "5 năm 275 ngày",
+      "position": "Quyền Bộ trưởng Bộ Nội thương",
+      "note": "",
+      "ministry": "Bộ Nội thương (1958-1990)"
+    },
+    {
+      "no": "2",
+      "name": "Nguyễn Thanh Bình",
+      "term_start": "7 tháng 1 năm 1963",
+      "term_end": "3 tháng 11 năm 1966",
+      "time_in_office": "5 năm 275 ngày",
+      "position": "Bộ trưởng Bộ Nội thương",
+      "note": "",
+      "ministry": "Bộ Nội thương (1958-1990)"
+    },
+    {
+      "no": "-",
+      "name": "Hoàng Quốc Thịnh",
+      "term_start": "3 tháng 11 năm 1966",
+      "term_end": "30 tháng 10 năm 1967",
+      "time_in_office": "11 năm 19 ngày",
+      "position": "Quyền Bộ trưởng Bộ Nội thương",
+      "note": "",
+      "ministry": "Bộ Nội thương (1958-1990)"
+    },
+    {
+      "no": "3",
+      "name": "Hoàng Quốc Thịnh",
+      "term_start": "30 tháng 10 năm 1967",
+      "term_end": "22 tháng 11 năm 1977",
+      "time_in_office": "11 năm 19 ngày",
+      "position": "Bộ trưởng Bộ Nội thương",
+      "note": "",
+      "ministry": "Bộ Nội thương (1958-1990)"
+    },
+    {
+      "no": "4",
+      "name": "Trần Văn Hiển",
+      "term_start": "22 tháng 11 năm 1977",
+      "term_end": "22 tháng 1 năm 1981",
+      "time_in_office": "3 năm 61 ngày",
+      "position": "Bộ trưởng Bộ Nội thương",
+      "note": "",
+      "ministry": "Bộ Nội thương (1958-1990)"
+    },
+    {
+      "no": "5",
+      "name": "Trần Phương",
+      "term_start": "22 tháng 1 năm 1981",
+      "term_end": "23 tháng 4 năm 1982",
+      "time_in_office": "1 năm 91 ngày",
+      "position": "Bộ trưởng Bộ Nội thương",
+      "note": "",
+      "ministry": "Bộ Nội thương (1958-1990)"
+    },
+    {
+      "no": "6",
+      "name": "Lê Đức Thịnh",
+      "term_start": "23 tháng 4 năm 1982",
+      "term_end": "21 tháng 6 năm 1986",
+      "time_in_office": "4 năm 59 ngày",
+      "position": "Bộ trưởng Bộ Nội thương",
+      "note": "",
+      "ministry": "Bộ Nội thương (1958-1990)"
+    },
+    {
+      "no": "7",
+      "name": "Hoàng Minh Thắng",
+      "term_start": "21 tháng 6 năm 1986",
+      "term_end": "30 tháng 6 năm 1990",
+      "time_in_office": "4 năm 9 ngày",
+      "position": "Bộ trưởng Bộ Nội thương",
+      "note": "",
+      "ministry": "Bộ Nội thương (1958-1990)"
+    },
+    {
+      "no": "1",
+      "name": "Phan Anh",
+      "term_start": "29 tháng 4 năm 1958",
+      "term_end": "2 tháng 7 năm 1976",
+      "time_in_office": "18 năm 64 ngày",
+      "position": "Bộ trưởng Bộ Ngoại thương",
+      "note": "",
+      "ministry": "Bộ Ngoại thương (1958-1988)"
+    },
+    {
+      "no": "2",
+      "name": "Đặng Việt Châu",
+      "term_start": "2 tháng 7 năm 1976",
+      "term_end": "7 tháng 2 năm 1980",
+      "time_in_office": "3 năm 220 ngày",
+      "position": "Bộ trưởng Bộ Ngoại thương",
+      "note": "",
+      "ministry": "Bộ Ngoại thương (1958-1988)"
+    },
+    {
+      "no": "3",
+      "name": "Lê Khắc",
+      "term_start": "7 tháng 2 năm 1980",
+      "term_end": "21 tháng 6 năm 1986",
+      "time_in_office": "6 năm 134 ngày",
+      "position": "Bộ trưởng Bộ Ngoại thương",
+      "note": "",
+      "ministry": "Bộ Ngoại thương (1958-1988)"
+    },
+    {
+      "no": "4",
+      "name": "Đoàn Duy Thành",
+      "term_start": "21 tháng 6 năm 1986",
+      "term_end": "10 tháng 5 năm 1988",
+      "time_in_office": "1 năm 324 ngày",
+      "position": "Bộ trưởng Bộ Ngoại thương",
+      "note": "",
+      "ministry": "Bộ Ngoại thương (1958-1988)"
+    },
+    {
+      "no": "1",
+      "name": "Võ Đông Giang",
+      "term_start": "16 tháng 2 năm 1987",
+      "term_end": "10 tháng 5 năm 1988",
+      "time_in_office": "1 năm 83 ngày",
+      "position": "Chủ nhiệm Ủy ban Kinh tế Đối ngoại",
+      "note": "",
+      "ministry": "Ủy ban Kinh tế Đối ngoại (1987-1988)"
+    },
+    {
+      "no": "1",
+      "name": "Đoàn Duy Thành",
+      "term_start": "10 tháng 5 năm 1988",
+      "term_end": "31 tháng 3 năm 1990",
+      "time_in_office": "1 năm 325 ngày",
+      "position": "Bộ trưởng Bộ Kinh tế Đối ngoại",
+      "note": "",
+      "ministry": "Bộ Kinh tế Đối ngoại (1988-1990)"
+    },
+    {
+      "no": "1",
+      "name": "Nguyễn Hữu Mai",
+      "term_start": "11 tháng 8 năm 1969",
+      "term_end": "26 tháng 4 năm 1974",
+      "time_in_office": "4 năm 258 ngày",
+      "position": "Bộ trưởng Bộ Điện và Than",
+      "note": "",
+      "ministry": "Bộ Điện và Than (1969-1981)"
+    },
+    {
+      "no": "-",
+      "name": "Nguyễn Chấn",
+      "term_start": "26 tháng 4 năm 1974",
+      "term_end": "15 tháng 5 năm 1975",
+      "time_in_office": "6 năm 271 ngày",
+      "position": "Quyền Bộ trưởng Bộ Điện và Than",
+      "note": "",
+      "ministry": "Bộ Điện và Than (1969-1981)"
+    },
+    {
+      "no": "2",
+      "name": "Nguyễn Chấn",
+      "term_start": "15 tháng 5 năm 1975",
+      "term_end": "22 tháng 1 năm 1981",
+      "time_in_office": "6 năm 271 ngày",
+      "position": "Bộ trưởng Bộ Điện và Than",
+      "note": "",
+      "ministry": "Bộ Điện và Than (1969-1981)"
+    },
+    {
+      "no": "1",
+      "name": "Phạm Khai",
+      "term_start": "22 tháng 1 năm 1981",
+      "term_end": "16 tháng 2 năm 1987",
+      "time_in_office": "6 năm 25 ngày",
+      "position": "Bộ trưởng Bộ Điện lực",
+      "note": "",
+      "ministry": "Bộ Điện lực (1981-1987)"
+    },
+    {
+      "no": "1",
+      "name": "Nguyễn Chân",
+      "term_start": "22 tháng 1 năm 1981",
+      "term_end": "30 tháng 6 năm 1986",
+      "time_in_office": "5 năm 159 ngày",
+      "position": "Bộ trưởng Bộ Mỏ và Than",
+      "note": "",
+      "ministry": "Bộ Mỏ và Than (1981-1987)"
+    },
+    {
+      "no": "1",
+      "name": "Vũ Ngọc Hải",
+      "term_start": "22 tháng 2 năm 1987",
+      "term_end": "13 tháng 9 năm 1992",
+      "time_in_office": "5 năm 204 ngày",
+      "position": "",
+      "note": "",
+      "ministry": "Bộ Năng lượng (1987-1995)"
+    },
+    {
+      "no": "2",
+      "name": "Thái Phụng Nê",
+      "term_start": "13 tháng 9 năm 1992",
+      "term_end": "21 tháng 10 năm 1995",
+      "time_in_office": "3 năm 38 ngày",
+      "position": "Bộ trưởng Bộ Thương nghiệp",
+      "note": "",
+      "ministry": "Bộ Năng lượng (1987-1995)"
+    },
+    {
+      "no": "1",
+      "name": "Đinh Đức Thiện",
+      "term_start": "11 tháng 8 năm 1969",
+      "term_end": "28 tháng 3 năm 1974",
+      "time_in_office": "4 năm 229 ngày",
+      "position": "Bộ trưởng Bộ Cơ khí và Luyện kim",
+      "note": "",
+      "ministry": "Bộ Cơ khí và Luyện kim (1969-1990)"
+    },
+    {
+      "no": "2",
+      "name": "Nguyễn Côn",
+      "term_start": "28 tháng 3 năm 1974",
+      "term_end": "22 tháng 11 năm 1977",
+      "time_in_office": "3 năm 239 ngày",
+      "position": "Bộ trưởng Bộ Cơ khí và Luyện kim",
+      "note": "",
+      "ministry": "Bộ Cơ khí và Luyện kim (1969-1990)"
+    },
+    {
+      "no": "3",
+      "name": "Nguyễn Văn Kha",
+      "term_start": "23 tháng 11 năm 1977",
+      "term_end": "16 tháng 2 năm 1987",
+      "time_in_office": "9 năm 85 ngày",
+      "position": "Bộ trưởng Bộ Cơ khí và Luyện kim",
+      "note": "",
+      "ministry": "Bộ Cơ khí và Luyện kim (1969-1990)"
+    },
+    {
+      "no": "4",
+      "name": "Phan Thanh Liêm",
+      "term_start": "16 tháng 2 năm 1987",
+      "term_end": "20 tháng 2 năm 1990",
+      "time_in_office": "3 năm 4 ngày",
+      "position": "Bộ trưởng Bộ Cơ khí và Luyện kim",
+      "note": "",
+      "ministry": "Bộ Cơ khí và Luyện kim (1969-1990)"
+    },
+    {
+      "no": "1",
+      "name": "Trần Lum",
+      "term_start": "20 tháng 2 năm 1990",
+      "term_end": "21 tháng 10 năm 1995",
+      "time_in_office": "5 năm 243 ngày",
+      "position": "Bộ trưởng Bộ Công nghiệp nặng",
+      "note": "",
+      "ministry": "Bộ Công nghiệp nặng (1990-1995)"
+    },
+    {
+      "no": "1",
+      "name": "Dương Quốc Chính",
+      "term_start": "6 tháng 7 năm 1960",
+      "term_end": "7 tháng 1 năm 1963",
+      "time_in_office": "2 năm 185 ngày",
+      "position": "Bộ trưởng Bộ Thủy lợi và Điện lực",
+      "note": "",
+      "ministry": "Bộ Thủy lợi và Điện lực (1960-1964)"
+    },
+    {
+      "no": "2",
+      "name": "Hà Kế Tấn",
+      "term_start": "7 tháng 1 năm 1963",
+      "term_end": "21 tháng 1 năm 1964",
+      "time_in_office": "1 năm 14 ngày",
+      "position": "Bộ trưởng Bộ Thủy lợi và Điện lực",
+      "note": "",
+      "ministry": "Bộ Thủy lợi và Điện lực (1960-1964)"
+    },
+    {
+      "no": "1",
+      "name": "Ngô Minh Loan",
+      "term_start": "11 tháng 8 năm 1969",
+      "term_end": "23 tháng 4 năm 1979",
+      "time_in_office": "9 năm 255 ngày",
+      "position": "Bộ trưởng Bộ Lương thực và Thực phẩm",
+      "note": "",
+      "ministry": "Bộ Lương thực và Thực phẩm (1969-1981)"
+    },
+    {
+      "no": "2",
+      "name": "Hồ Viết Thắng",
+      "term_start": "23 tháng 4 năm 1979",
+      "term_end": "22 tháng 1 năm 1981",
+      "time_in_office": "1 năm 274 ngày",
+      "position": "Bộ trưởng Bộ Lương thực và Thực phẩm",
+      "note": "",
+      "ministry": "Bộ Lương thực và Thực phẩm (1969-1981)"
+    },
+    {
+      "no": "1",
+      "name": "Vũ Tuân",
+      "term_start": "22 tháng 1 năm 1981",
+      "term_end": "16 tháng 6 năm 1982",
+      "time_in_office": "1 năm 145 ngày",
+      "position": "Bộ trưởng Bộ Công nghiệp Thực phẩm",
+      "note": "",
+      "ministry": "Bộ Công nghiệp Thực phẩm (1981-1987)"
+    },
+    {
+      "no": "1",
+      "name": "La Lâm Gia",
+      "term_start": "22 tháng 1 năm 1981",
+      "term_end": "24 tháng 1 năm 1984",
+      "time_in_office": "3 năm 2 ngày",
+      "position": "Bộ trưởng Bộ Lương thực",
+      "note": "",
+      "ministry": "Bộ Lương thực (1981-1987)"
+    },
+    {
+      "no": "2",
+      "name": "Nguyễn Văn Chính",
+      "term_start": "24 tháng 1 năm 1984",
+      "term_end": "16 tháng 2 năm 1987",
+      "time_in_office": "3 năm 23 ngày",
+      "position": "Bộ trưởng Bộ Lương thực",
+      "note": "",
+      "ministry": "Bộ Lương thực (1981-1987)"
+    },
+    {
+      "no": "1",
+      "name": "Trần Danh Tuyên",
+      "term_start": "11 tháng 8 năm 1969",
+      "term_end": "2 tháng 7 năm 1976",
+      "time_in_office": "6 năm 325 ngày",
+      "position": "Bộ trưởng Bộ Vật tư",
+      "note": "",
+      "ministry": "Bộ Vật tư (1969-1990)"
+    },
+    {
+      "no": "2",
+      "name": "Trần Sâm",
+      "term_start": "2 tháng 7 năm 1976",
+      "term_end": "23 tháng 4 năm 1982",
+      "time_in_office": "5 năm 295 ngày",
+      "position": "Bộ trưởng Bộ Vật tư",
+      "note": "",
+      "ministry": "Bộ Vật tư (1969-1990)"
+    },
+    {
+      "no": "3",
+      "name": "Hoàng Đức Nghi",
+      "term_start": "23 tháng 4 năm 1982",
+      "term_end": "31 tháng 3 năm 1990",
+      "time_in_office": "7 năm 342 ngày",
+      "position": "Bộ trưởng Bộ Vật tư",
+      "note": "",
+      "ministry": "Bộ Vật tư (1969-1990)"
+    },
+    {
+      "no": "1",
+      "name": "Cao Văn Bổn",
+      "term_start": "1969",
+      "term_end": "1972",
+      "time_in_office": "",
+      "position": "Bộ trưởng Bộ Kinh tế Tài chính Cộng hòa Miền Nam Việt Nam",
+      "note": "",
+      "ministry": "Bộ Kinh tế Tài chính Cộng hòa Miền Nam (1969-1976)"
+    },
+    {
+      "no": "-",
+      "name": "Dương Kỳ Hiệp",
+      "term_start": "1972",
+      "term_end": "Tháng 4 năm 1975",
+      "time_in_office": "",
+      "position": "Quyền Bộ trưởng Bộ Kinh tế Tài chính Cộng hòa Miền Nam Việt Nam",
+      "note": "",
+      "ministry": "Bộ Kinh tế Tài chính Cộng hòa Miền Nam (1969-1976)"
+    },
+    {
+      "no": "2",
+      "name": "Dương Kỳ Hiệp",
+      "term_start": "Tháng 4 năm 1975",
+      "term_end": "1976",
+      "time_in_office": "",
+      "position": "Bộ trưởng Bộ Kinh tế Tài chính Cộng hòa Miền Nam Việt Nam",
+      "note": "",
+      "ministry": "Bộ Kinh tế Tài chính Cộng hòa Miền Nam (1969-1976)"
+    },
+    {
+      "no": "1",
+      "name": "Hoàng Minh Thắng",
+      "term_start": "30 tháng 6 năm 1990",
+      "term_end": "18 tháng 12 năm 1991",
+      "time_in_office": "1 năm 171 ngày",
+      "position": "Bộ trưởng Bộ Thương nghiệp",
+      "note": "",
+      "ministry": "Bộ Thương nghiệp (1990-1991)"
+    },
+    {
+      "no": "1",
+      "name": "Lê Văn Triết",
+      "term_start": "9 tháng 8 năm 1991",
+      "term_end": "8 tháng 10 năm 1992",
+      "time_in_office": "1 năm 60 ngày",
+      "position": "Bộ trưởng Bộ Thương mại và Du lịch",
+      "note": "",
+      "ministry": "Bộ Thương mại và Du lịch (1991-1992)"
+    },
+    {
+      "no": "1",
+      "name": "Lê Văn Triết",
+      "term_start": "8 tháng 10 năm 1992",
+      "term_end": "26 tháng 9 năm 1997",
+      "time_in_office": "4 năm 353 ngày",
+      "position": "Bộ trưởng Bộ Thương mại",
+      "note": "",
+      "ministry": "Bộ Thương mại (1992-2007)"
+    },
+    {
+      "no": "2",
+      "name": "Trương Đình Tuyển",
+      "term_start": "26 tháng 9 năm 1997",
+      "term_end": "28 tháng 1 năm 2000",
+      "time_in_office": "2 năm 124 ngày",
+      "position": "Bộ trưởng Bộ Thương mại",
+      "note": "",
+      "ministry": "Bộ Thương mại (1992-2007)"
+    },
+    {
+      "no": "3",
+      "name": "Vũ Khoan",
+      "term_start": "28 tháng 1 năm 2000",
+      "term_end": "8 tháng 8 năm 2002",
+      "time_in_office": "2 năm 192 ngày",
+      "position": "Bộ trưởng Bộ Thương mại",
+      "note": "",
+      "ministry": "Bộ Thương mại (1992-2007)"
+    },
+    {
+      "no": "(2)",
+      "name": "Trương Đình Tuyển",
+      "term_start": "10 tháng 8 năm 2002",
+      "term_end": "1 tháng 8 năm 2007",
+      "time_in_office": "4 năm 356 ngày",
+      "position": "Bộ trưởng Bộ Thương mại",
+      "note": "",
+      "ministry": "Bộ Thương mại (1992-2007)"
+    },
+    {
+      "no": "1",
+      "name": "Đặng Vũ Chư",
+      "term_start": "21 tháng 10 năm 1995",
+      "term_end": "19 tháng 7 năm 2002",
+      "time_in_office": "6 năm 271 ngày",
+      "position": "Bộ trưởng Bộ Công nghiệp",
+      "note": "",
+      "ministry": "Bộ Công nghiệp (1995 - 2007)"
+    },
+    {
+      "no": "2",
+      "name": "Hoàng Trung Hải",
+      "term_start": "19 tháng 7 năm 2002",
+      "term_end": "2 tháng 8 năm 2007",
+      "time_in_office": "5 năm 14 ngày",
+      "position": "Bộ trưởng Bộ Công nghiệp",
+      "note": "",
+      "ministry": "Bộ Công nghiệp (1995 - 2007)"
+    },
+    {
+      "no": "1",
+      "name": "Vũ Huy Hoàng",
+      "term_start": "2 tháng 8 năm 2007",
+      "term_end": "8 tháng 4 năm 2016",
+      "time_in_office": "8 năm 250 ngày",
+      "position": "Bộ trưởng Bộ Công Thương",
+      "note": "Đã bị xóa tư cách Bộ trưởng Bộ Công Thương nhiệm kỳ 2011 - 2016 vào ngày 23 tháng 1 năm 2017 vì có những sai phạm trong công tác khi còn đang nắm quyền.",
+      "ministry": "Bộ Công Thương (2007 - nay)"
+    },
+    {
+      "no": "2",
+      "name": "Trần Tuấn Anh",
+      "term_start": "9 tháng 4 năm 2016",
+      "term_end": "7 tháng 4 năm 2021",
+      "time_in_office": "4 năm 363 ngày",
+      "position": "Bộ trưởng Bộ Công Thương",
+      "note": "",
+      "ministry": "Bộ Công Thương (2007 - nay)"
+    },
+    {
+      "no": "3",
+      "name": "Nguyễn Hồng Diên",
+      "term_start": "8 tháng 4 năm 2021",
+      "term_end": "20 tháng 12 năm 2025",
+      "time_in_office": "4 năm 256 ngày",
+      "position": "Bộ trưởng Bộ Công Thương",
+      "note": "",
+      "ministry": "Bộ Công Thương (2007 - nay)"
+    },
+    {
+      "no": "-",
+      "name": "Lê Mạnh Hùng",
+      "term_start": "20 tháng 12 năm 2025",
+      "term_end": "8 tháng 4 năm 2026",
+      "time_in_office": "109 ngày",
+      "position": "Quyền Bộ trưởng Bộ Công Thương",
+      "note": "",
+      "ministry": "Bộ Công Thương (2007 - nay)"
+    },
+    {
+      "no": "4",
+      "name": "Lê Mạnh Hùng",
+      "term_start": "8 tháng 4 năm 2026",
+      "term_end": "đương nhiệm",
+      "time_in_office": "220 ngày",
+      "position": "Bộ trưởng Bộ Công Thương",
+      "note": "",
+      "ministry": "Bộ Công Thương (2007 - nay)"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách Bộ trưởng ngành Công Thương Việt Nam - Free Download",
+    "description": "Các Bộ trưởng ngành công nghiệp, thương mại, năng lượng, lương thực và Bộ Công Thương Việt Nam qua các thời kỳ từ năm 1955: họ tên, bộ, nhiệm kỳ, chức vụ. Contains 64 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách Bộ trưởng ngành Công Thương Việt Nam | ListBase",
+    "seo_description": "Download Danh sách Bộ trưởng ngành Công Thương Việt Nam — 64 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 64 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_sách_Cựu_Bộ_trưởng_ngành_Công_Thương"
+    ]
+  }
+}
