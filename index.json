@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-14T02:13:14.057Z",
-  "total_datasets": 601,
-  "total_records": 130572,
+  "generated": "2026-11-14T02:14:11.377Z",
+  "total_datasets": 602,
+  "total_records": 130590,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "society",
@@ -13926,6 +13926,35 @@
         "xlsx": {
           "name": "science-solubility-rules_VI.xlsx",
           "size": 9165
+        }
+      }
+    },
+    {
+      "id": "vi-bo-truong-bo-khoa-hoc-va-cong-nghe",
+      "name": "Danh sách Bộ trưởng Bộ Khoa học và Công nghệ Việt Nam",
+      "category": "science",
+      "record_count": 18,
+      "columns": [
+        "no",
+        "name",
+        "term_start",
+        "term_end",
+        "time_in_office",
+        "position",
+        "note",
+        "ministry"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Khoa_học_và_Công_nghệ_(Việt_Nam)",
+      "updated": "2026-11",
+      "size": 9819,
+      "files": {
+        "csv": {
+          "name": "vi-bo-truong-bo-khoa-hoc-va-cong-nghe_VI.csv",
+          "size": 4647
+        },
+        "xlsx": {
+          "name": "vi-bo-truong-bo-khoa-hoc-va-cong-nghe_VI.xlsx",
+          "size": 8404
         }
       }
     },

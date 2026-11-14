@@ -1,0 +1,246 @@
+{
+  "id": "vi-bo-truong-bo-khoa-hoc-va-cong-nghe",
+  "name": "Danh sách Bộ trưởng Bộ Khoa học và Công nghệ Việt Nam",
+  "title": "Danh sách Bộ trưởng Bộ Khoa học và Công nghệ Việt Nam",
+  "description": "Người đứng đầu cơ quan quản lý khoa học của Việt Nam từ Ủy ban Khoa học Nhà nước (1958) đến Bộ Khoa học và Công nghệ: họ tên, nhiệm kỳ, thời gian tại nhiệm, chức vụ.",
+  "category": "science",
+  "source": "https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Khoa_học_và_Công_nghệ_(Việt_Nam)",
+  "source_url": "https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Khoa_học_và_Công_nghệ_(Việt_Nam)",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "time_in_office",
+      "label": "Time In Office",
+      "type": "string"
+    },
+    {
+      "key": "position",
+      "label": "Position",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    },
+    {
+      "key": "ministry",
+      "label": "Ministry",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "name": "Trường Chinh (1907–1988)",
+      "term_start": "14 tháng 12 năm 1958",
+      "term_end": "15 tháng 7 năm 1960",
+      "time_in_office": "1 năm, 214 ngày",
+      "position": "Phó Thủ tướng Chủ nhiệm Ủy ban Khoa học Nhà nước",
+      "note": "",
+      "ministry": "Ủy ban Khoa học Nhà nước (1958–1965)"
+    },
+    {
+      "no": "2",
+      "name": "Đại tướng Võ Nguyên Giáp (1911–2013)",
+      "term_start": "15 tháng 7 năm 1960",
+      "term_end": "7 tháng 1 năm 1963",
+      "time_in_office": "2 năm, 176 ngày",
+      "position": "Phó Thủ tướng Chủ nhiệm Ủy ban Khoa học Nhà nước",
+      "note": "",
+      "ministry": "Ủy ban Khoa học Nhà nước (1958–1965)"
+    },
+    {
+      "no": "3",
+      "name": "Nguyễn Duy Trinh (1910–1985)",
+      "term_start": "7 tháng 1 năm 1963",
+      "term_end": "11 tháng 10 năm 1965",
+      "time_in_office": "2 năm, 277 ngày",
+      "position": "Phó Thủ tướng Chủ nhiệm Ủy ban Khoa học Nhà nước",
+      "note": "",
+      "ministry": "Ủy ban Khoa học Nhà nước (1958–1965)"
+    },
+    {
+      "no": "4",
+      "name": "GS. Viện sĩ Trần Đại Nghĩa (1913–1997)",
+      "term_start": "11 tháng 10 năm 1965",
+      "term_end": "28 tháng 2 năm 1977",
+      "time_in_office": "11 năm, 140 ngày",
+      "position": "Chủ nhiệm Ủy ban Khoa học - Kỹ thuật Nhà nước",
+      "note": "",
+      "ministry": "Chủ nhiệm Ủy ban Khoa học - Kỹ thuật Nhà nước (1965–1990)"
+    },
+    {
+      "no": "5",
+      "name": "Trần Quỳnh (1920–2005)",
+      "term_start": "28 tháng 2 năm 1977",
+      "term_end": "7 tháng 2 năm 1980",
+      "time_in_office": "2 năm, 344 ngày",
+      "position": "Chủ nhiệm Ủy ban Khoa học - Kỹ thuật Nhà nước",
+      "note": "",
+      "ministry": "Chủ nhiệm Ủy ban Khoa học - Kỹ thuật Nhà nước (1965–1990)"
+    },
+    {
+      "no": "-",
+      "name": "Lê Khắc (1916–1990)",
+      "term_start": "7 tháng 2 năm 1980",
+      "term_end": "4 tháng 7 năm 1981",
+      "time_in_office": "1 năm, 147 ngày",
+      "position": "Chủ nhiệm Ủy ban Khoa học - Kỹ thuật Nhà nước",
+      "note": "",
+      "ministry": "Chủ nhiệm Ủy ban Khoa học - Kỹ thuật Nhà nước (1965–1990)"
+    },
+    {
+      "no": "6",
+      "name": "Lê Khắc (1916–1990)",
+      "term_start": "4 tháng 7 năm 1981",
+      "term_end": "23 tháng 4 năm 1982",
+      "time_in_office": "293 ngày",
+      "position": "Chủ nhiệm Ủy ban Khoa học - Kỹ thuật Nhà nước",
+      "note": "",
+      "ministry": "Chủ nhiệm Ủy ban Khoa học - Kỹ thuật Nhà nước (1965–1990)"
+    },
+    {
+      "no": "7",
+      "name": "GS. Viện sĩ Đặng Hữu (Sinh 1930)",
+      "term_start": "23 tháng 4 năm 1982",
+      "term_end": "12 tháng 3 năm 1990",
+      "time_in_office": "7 năm, 323 ngày",
+      "position": "Chủ nhiệm Ủy ban Khoa học - Kỹ thuật Nhà nước",
+      "note": "",
+      "ministry": "Chủ nhiệm Ủy ban Khoa học - Kỹ thuật Nhà nước (1965–1990)"
+    },
+    {
+      "no": "(7)",
+      "name": "GS. Viện sĩ Đặng Hữu (Sinh 1930)",
+      "term_start": "12 tháng 3 năm 1990",
+      "term_end": "12 tháng 10 năm 1992",
+      "time_in_office": "2 năm, 214 ngày",
+      "position": "Chủ nhiệm Ủy ban Khoa học Nhà nước",
+      "note": "",
+      "ministry": "Ủy ban Khoa học Nhà nước (1990–1992)"
+    },
+    {
+      "no": "(7)",
+      "name": "GS. Viện sĩ Đặng Hữu (Sinh 1930)",
+      "term_start": "12 tháng 10 năm 1992",
+      "term_end": "6 tháng 11 năm 1996",
+      "time_in_office": "4 năm, 25 ngày",
+      "position": "Bộ trưởng Bộ Khoa học, Công nghệ và Môi trường",
+      "note": "",
+      "ministry": "Bộ Khoa học, Công nghệ và Môi trường (1992–2002)"
+    },
+    {
+      "no": "8",
+      "name": "Tiến sĩ Phạm Gia Khiêm (sinh 1944)",
+      "term_start": "6 tháng 11 năm 1996",
+      "term_end": "29 tháng 9 năm 1997",
+      "time_in_office": "327 ngày",
+      "position": "Bộ trưởng Bộ Khoa học, Công nghệ và Môi trường",
+      "note": "",
+      "ministry": "Bộ Khoa học, Công nghệ và Môi trường (1992–2002)"
+    },
+    {
+      "no": "9",
+      "name": "Chu Tuấn Nhạ (1939-2025)",
+      "term_start": "29 tháng 9 năm 1997",
+      "term_end": "8 tháng 8 năm 2002",
+      "time_in_office": "4 năm, 313 ngày",
+      "position": "Bộ trưởng Bộ Khoa học, Công nghệ và Môi trường",
+      "note": "",
+      "ministry": "Bộ Khoa học, Công nghệ và Môi trường (1992–2002)"
+    },
+    {
+      "no": "10",
+      "name": "PGS. Tiến sĩ Hoàng Văn Phong (sinh 1948)",
+      "term_start": "8 tháng 8 năm 2002",
+      "term_end": "1 tháng 8 năm 2011",
+      "time_in_office": "8 năm, 358 ngày",
+      "position": "Bộ trưởng Bộ Khoa học và Công nghệ",
+      "note": "",
+      "ministry": "Bộ Khoa học và Công nghệ (2002–nay)"
+    },
+    {
+      "no": "11",
+      "name": "Tiến sĩ Nguyễn Quân (sinh 1955)",
+      "term_start": "3 tháng 8 năm 2011",
+      "term_end": "8 tháng 4 năm 2016",
+      "time_in_office": "4 năm, 249 ngày",
+      "position": "Bộ trưởng Bộ Khoa học và Công nghệ",
+      "note": "",
+      "ministry": "Bộ Khoa học và Công nghệ (2002–nay)"
+    },
+    {
+      "no": "12",
+      "name": "Tiến sĩ Chu Ngọc Anh (sinh 1965)",
+      "term_start": "9 tháng 4 năm 2016",
+      "term_end": "12 tháng 11 năm 2020",
+      "time_in_office": "4 năm, 217 ngày",
+      "position": "Bộ trưởng Bộ Khoa học và Công nghệ",
+      "note": "Sau này là Phó Bí thư Thành ủy, Chủ tịch Ủy ban Nhân dân Thành phố Hà Nội Bị khởi tố, bắt tạm giam ngày 7/6/2022",
+      "ministry": "Bộ Khoa học và Công nghệ (2002–nay)"
+    },
+    {
+      "no": "13",
+      "name": "PGS. Tiến sĩ Huỳnh Thành Đạt (sinh 1962)",
+      "term_start": "12 tháng 11 năm 2020",
+      "term_end": "18 tháng 2 năm 2025",
+      "time_in_office": "4 năm, 98 ngày",
+      "position": "Bộ trưởng Bộ Khoa học và Công nghệ",
+      "note": "Sau này là Phó Trưởng ban Tuyên giáo và Dân vận Trung ương Nguyên Giám đốc Đại học Quốc gia Thành phố Hồ Chí Minh",
+      "ministry": "Bộ Khoa học và Công nghệ (2002–nay)"
+    },
+    {
+      "no": "14",
+      "name": "Thiếu tướng Nguyễn Mạnh Hùng (sinh 1962)",
+      "term_start": "18 tháng 2 năm 2025",
+      "term_end": "8 tháng 4 năm 2026",
+      "time_in_office": "1 năm, 49 ngày",
+      "position": "Bộ trưởng Bộ Khoa học và Công nghệ",
+      "note": "",
+      "ministry": "Bộ Khoa học và Công nghệ (2002–nay)"
+    },
+    {
+      "no": "15",
+      "name": "PGS. Tiến sĩ Vũ Hải Quân (sinh 1974)",
+      "term_start": "8 tháng 4 năm 2026",
+      "term_end": "đương nhiệm",
+      "time_in_office": "220 ngày",
+      "position": "Bộ trưởng Bộ Khoa học và Công nghệ",
+      "note": "Nguyên Giám đốc Đại học Quốc gia Thành phố Hồ Chí Minh",
+      "ministry": "Bộ Khoa học và Công nghệ (2002–nay)"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách Bộ trưởng Bộ Khoa học và Công nghệ Việt Nam - Free Download",
+    "description": "Người đứng đầu cơ quan quản lý khoa học của Việt Nam từ Ủy ban Khoa học Nhà nước (1958) đến Bộ Khoa học và Công nghệ: họ tên, nhiệm kỳ, thời gian tại nhiệm, chức vụ. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách Bộ trưởng Bộ Khoa học và Công nghệ Việt Nam | ListBase",
+    "seo_description": "Download Danh sách Bộ trưởng Bộ Khoa học và Công nghệ Việt Nam — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Bộ_trưởng_Bộ_Khoa_học_và_Công_nghệ_(Việt_Nam)"
+    ]
+  }
+}
