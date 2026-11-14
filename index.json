@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-13T02:18:07.981Z",
-  "total_datasets": 600,
-  "total_records": 130564,
+  "generated": "2026-11-14T02:13:14.057Z",
+  "total_datasets": 601,
+  "total_records": 130572,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -14056,6 +14056,34 @@
         "xlsx": {
           "name": "vi-bao-chi_VI.xlsx",
           "size": 18745
+        }
+      }
+    },
+    {
+      "id": "vi-bo-truong-bo-lao-dong-thuong-binh-xa-hoi",
+      "name": "Danh sách Bộ trưởng Bộ Lao động – Thương binh và Xã hội Việt Nam",
+      "category": "society",
+      "record_count": 8,
+      "columns": [
+        "no",
+        "name",
+        "term_start",
+        "term_end",
+        "time_in_office",
+        "note",
+        "ministry"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Bộ_Lao_động_–_Thương_binh_và_Xã_hội_(Việt_Nam)",
+      "updated": "2026-11",
+      "size": 4878,
+      "files": {
+        "csv": {
+          "name": "vi-bo-truong-bo-lao-dong-thuong-binh-xa-hoi_VI.csv",
+          "size": 1526
+        },
+        "xlsx": {
+          "name": "vi-bo-truong-bo-lao-dong-thuong-binh-xa-hoi_VI.xlsx",
+          "size": 7524
         }
       }
     },
