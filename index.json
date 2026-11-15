@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-15T02:17:09.111Z",
-  "total_datasets": 606,
-  "total_records": 130788,
+  "generated": "2026-11-15T02:17:17.353Z",
+  "total_datasets": 607,
+  "total_records": 131428,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "time",
@@ -14957,6 +14957,32 @@
         "xlsx": {
           "name": "tech-unicode-symbols_VI.xlsx",
           "size": 9889
+        }
+      }
+    },
+    {
+      "id": "vi-tram-phat-thanh-fm",
+      "name": "Danh sách trạm phát sóng phát thanh FM tại Việt Nam",
+      "category": "tech",
+      "record_count": 640,
+      "columns": [
+        "province",
+        "station",
+        "frequency_mhz",
+        "channel",
+        "note"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_trạm_phát_sóng_phát_thanh_FM_tại_Việt_Nam",
+      "updated": "2026-11",
+      "size": 143150,
+      "files": {
+        "csv": {
+          "name": "vi-tram-phat-thanh-fm_VI.csv",
+          "size": 73410
+        },
+        "xlsx": {
+          "name": "vi-tram-phat-thanh-fm_VI.xlsx",
+          "size": 32437
         }
       }
     },

@@ -1,0 +1,4531 @@
+{
+  "id": "vi-tram-phat-thanh-fm",
+  "name": "Danh sách trạm phát sóng phát thanh FM tại Việt Nam",
+  "title": "Danh sách trạm phát sóng phát thanh FM tại Việt Nam",
+  "description": "Các trạm phát sóng và tần số phát thanh FM tại Việt Nam theo tỉnh thành: trạm phát, tần số (MHz), tên kênh và ghi chú.",
+  "category": "tech",
+  "source": "https://vi.wikipedia.org/wiki/Danh_sách_trạm_phát_sóng_phát_thanh_FM_tại_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_sách_trạm_phát_sóng_phát_thanh_FM_tại_Việt_Nam",
+  "updated": "2026-11",
+  "record_count": 640,
+  "columns": [
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "station",
+      "label": "Station",
+      "type": "string"
+    },
+    {
+      "key": "frequency_mhz",
+      "label": "Frequency Mhz",
+      "type": "string"
+    },
+    {
+      "key": "channel",
+      "label": "Channel",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "province": "Lào Cai",
+      "station": "Đài phát thanh huyện Mường Khương",
+      "frequency_mhz": "88,0",
+      "channel": "Mường Khương + VOV1/VOV3",
+      "note": ""
+    },
+    {
+      "province": "Lào Cai",
+      "station": "Đài phát thanh huyện Bảo Yên",
+      "frequency_mhz": "88,3",
+      "channel": "Bảo Yên",
+      "note": ""
+    },
+    {
+      "province": "Lào Cai",
+      "station": "Đài phát thanh huyện Bảo Thắng",
+      "frequency_mhz": "90,2 (xã Phong Hải) 102,0 (xã Sơn Hà)",
+      "channel": "Bảo Thắng",
+      "note": ""
+    },
+    {
+      "province": "Lào Cai",
+      "station": "Báo và PT,TH Lào Cai",
+      "frequency_mhz": "90,5",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Lào Cai",
+      "station": "Đài phát thanh huyện Si Ma Cai",
+      "frequency_mhz": "90,5",
+      "channel": "Si Ma Cai",
+      "note": ""
+    },
+    {
+      "province": "Lào Cai",
+      "station": "Báo và PT,TH Lào Cai",
+      "frequency_mhz": "91,0",
+      "channel": "Lào Cai Dân Tộc",
+      "note": ""
+    },
+    {
+      "province": "Lào Cai",
+      "station": "Báo và PT,TH Lào Cai",
+      "frequency_mhz": "91,5",
+      "channel": "VOV Giao thông",
+      "note": ""
+    },
+    {
+      "province": "Lào Cai",
+      "station": "Báo và PT,TH Lào Cai",
+      "frequency_mhz": "94,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Lào Cai",
+      "station": "Báo và PT,TH Lào Cai",
+      "frequency_mhz": "101,0 → 95,3 → 95,2",
+      "channel": "VOV3",
+      "note": ""
+    },
+    {
+      "province": "Lào Cai",
+      "station": "Báo và PT,TH Lào Cai",
+      "frequency_mhz": "97,0",
+      "channel": "Lào Cai",
+      "note": ""
+    },
+    {
+      "province": "Lào Cai",
+      "station": "Báo và PT,TH Lào Cai",
+      "frequency_mhz": "103,5 (cũ) 98,0",
+      "channel": "VOV2",
+      "note": ""
+    },
+    {
+      "province": "Lào Cai",
+      "station": "Báo và PT,TH Lào Cai",
+      "frequency_mhz": "98,3",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Lào Cai",
+      "station": "Đài phát thanh huyện Bắc Hà",
+      "frequency_mhz": "98,3",
+      "channel": "Bắc Hà/Lào Cai/VOV2",
+      "note": ""
+    },
+    {
+      "province": "Lào Cai",
+      "station": "Báo và PT,TH Lào Cai",
+      "frequency_mhz": "99,1",
+      "channel": "VOV4",
+      "note": ""
+    },
+    {
+      "province": "Lào Cai",
+      "station": "Đài phát thanh TX. Sa Pa",
+      "frequency_mhz": "99,6 → 99,4",
+      "channel": "Sa Pa",
+      "note": ""
+    },
+    {
+      "province": "Lào Cai",
+      "station": "Đài phát thanh huyện Văn Bàn",
+      "frequency_mhz": "100,5",
+      "channel": "Văn Bàn",
+      "note": ""
+    },
+    {
+      "province": "Lào Cai",
+      "station": "Đài PT–TH Lào Cai",
+      "frequency_mhz": "102,5",
+      "channel": "VOV3",
+      "note": ""
+    },
+    {
+      "province": "Lào Cai",
+      "station": "Đài phát thanh huyện Bát Xát",
+      "frequency_mhz": "106,0 → 104,2",
+      "channel": "Bát Xát",
+      "note": ""
+    },
+    {
+      "province": "Lào Cai",
+      "station": "Đài phát thanh TP. Lào Cai",
+      "frequency_mhz": "105,0",
+      "channel": "TP. Lào Cai",
+      "note": ""
+    },
+    {
+      "province": "Lai Châu",
+      "station": "Đài phát thanh huyện Tam Đường",
+      "frequency_mhz": "88,0",
+      "channel": "Tam Đường",
+      "note": ""
+    },
+    {
+      "province": "Lai Châu",
+      "station": "Đài phát thanh huyện Nậm Nhùn",
+      "frequency_mhz": "89,0",
+      "channel": "Nậm Nhùn",
+      "note": ""
+    },
+    {
+      "province": "Lai Châu",
+      "station": "Đài phát thanh huyện Than Uyên",
+      "frequency_mhz": "89,0 (xã Mường Kim) 97,8 (thị trấn Than Uyên)",
+      "channel": "Than Uyên",
+      "note": ""
+    },
+    {
+      "province": "Lai Châu",
+      "station": "Đài phát thanh huyện Mường Tè",
+      "frequency_mhz": "93,4 (thị trấn Mường Tè) 95,0 (xã Mường Tè)",
+      "channel": "Mường Tè",
+      "note": ""
+    },
+    {
+      "province": "Lai Châu",
+      "station": "Báo và PT,TH Lai Châu",
+      "frequency_mhz": "94,1",
+      "channel": "Lai Châu",
+      "note": ""
+    },
+    {
+      "province": "Lai Châu",
+      "station": "Đài phát thanh huyện Sìn Hồ",
+      "frequency_mhz": "94,7 (thị trấn Sìn Hồ) 98,5 (xã Nậm Tăm)",
+      "channel": "Sìn Hồ",
+      "note": ""
+    },
+    {
+      "province": "Lai Châu",
+      "station": "Đài phát thanh huyện Phong Thổ Trạm phát sóng FM Mường Tè",
+      "frequency_mhz": "95,0/97,0 (thị trấn Phong Thổ) 96,0 (xã Dào San)",
+      "channel": "Phong Thổ VOV1 (Mường Tè)",
+      "note": "Tần số chính là 97,0 MHz. Tần số 95,0 MHz phủ sóng địa bàn xã Mường So và phụ cận."
+    },
+    {
+      "province": "Lai Châu",
+      "station": "Đài phát thanh huyện Tân Uyên",
+      "frequency_mhz": "95,5 (xã Pắc Ta) 99,0 (thị trấn Tân Uyên)",
+      "channel": "Tân Uyên",
+      "note": ""
+    },
+    {
+      "province": "Lai Châu",
+      "station": "Trạm phát sóng FM Sìn Hồ",
+      "frequency_mhz": "96,5",
+      "channel": "VOV2 (Sìn Hồ)",
+      "note": ""
+    },
+    {
+      "province": "Lai Châu",
+      "station": "Báo và PT–TH Lai Châu",
+      "frequency_mhz": "98,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Lai Châu",
+      "station": "Đài phát thanh TP. Lai Châu",
+      "frequency_mhz": "98,0",
+      "channel": "TP. Lai Châu",
+      "note": ""
+    },
+    {
+      "province": "Lai Châu",
+      "station": "Trạm phát sóng FM Sìn Hồ",
+      "frequency_mhz": "100,0",
+      "channel": "VOV1, VOV4 (Sìn Hồ)",
+      "note": ""
+    },
+    {
+      "province": "Lai Châu",
+      "station": "Báo và PT,TH Lai Châu",
+      "frequency_mhz": "101,5",
+      "channel": "VOV2",
+      "note": "Mường Tè cũ"
+    },
+    {
+      "province": "Lai Châu",
+      "station": "Trạm phát sóng FM Sìn Hồ",
+      "frequency_mhz": "103,5",
+      "channel": "VOV1 (Sìn Hồ)",
+      "note": ""
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Đài phát thanh huyện Mường Chà",
+      "frequency_mhz": "87,5",
+      "channel": "Mường Chà",
+      "note": ""
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Đài phát thanh TP. Điện Biên Phủ",
+      "frequency_mhz": "89,6",
+      "channel": "Điện Biên Phủ",
+      "note": ""
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Báo và PT,TH Điện Biên",
+      "frequency_mhz": "90,5",
+      "channel": "VOV4",
+      "note": ""
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Đài phát thanh huyện Tủa Chùa",
+      "frequency_mhz": "91,7 (xã Sính Phình) 98,9 (thị trấn Tủa Chùa)",
+      "channel": "Tủa Chùa",
+      "note": ""
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Đài phát thanh huyện Tuần Giáo",
+      "frequency_mhz": "92,7",
+      "channel": "Điện Biên (Tuần Giáo)",
+      "note": ""
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Đài phát thanh huyện Điện Biên",
+      "frequency_mhz": "93,0",
+      "channel": "Điện Biên",
+      "note": ""
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Đài phát thanh thị xã Mường Lay",
+      "frequency_mhz": "93,7",
+      "channel": "Mường Lay",
+      "note": ""
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Đài phát thanh huyện Nậm Pồ",
+      "frequency_mhz": "94,0",
+      "channel": "Nậm Pồ",
+      "note": ""
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Đài phát thanh huyện Điện Biên Đông",
+      "frequency_mhz": "94,2",
+      "channel": "Điện Biên Đông",
+      "note": ""
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Trạm phát sóng FM Tuần Giáo",
+      "frequency_mhz": "94,9",
+      "channel": "VOV1 (Tuần Giáo)",
+      "note": ""
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Đài phát thanh huyện Tuần Giáo",
+      "frequency_mhz": "95,0",
+      "channel": "Tuần Giáo",
+      "note": ""
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Báo và PT,TH Điện Biên",
+      "frequency_mhz": "97,5 → 95,0",
+      "channel": "VOV1",
+      "note": "Mường Nhé"
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Báo và PT,TH Điện Biên",
+      "frequency_mhz": "96,5",
+      "channel": "VOV2",
+      "note": "Mường Nhé & TP. Điện Biên"
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Báo và PT,TH Điện Biên",
+      "frequency_mhz": "96,3 → 98,0",
+      "channel": "Điện Biên",
+      "note": ""
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Báo và PT,TH Điện Biên",
+      "frequency_mhz": "98,0 100,5",
+      "channel": "VOV2, VOV4",
+      "note": "TP. Điện Biên"
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Đài phát thanh huyện Mường Nhé",
+      "frequency_mhz": "99,0",
+      "channel": "Mường Nhé",
+      "note": ""
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Báo và PT,TH Điện Biên",
+      "frequency_mhz": "100,0",
+      "channel": "VOV3 (cũ) VOV1",
+      "note": ""
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Báo và PT,TH Điện Biên",
+      "frequency_mhz": "98,0 → 102,7",
+      "channel": "VOV3",
+      "note": "cũ"
+    },
+    {
+      "province": "Điện Biên",
+      "station": "Đài phát thanh huyện Mường Ảng",
+      "frequency_mhz": "100,0 103,5",
+      "channel": "Mường Ảng",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Đài phát thanh huyện Sông Mã",
+      "frequency_mhz": "88,4 (thị trấn Sông Mã/xã Mường Lầm)",
+      "channel": "Sông Mã",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Đài phát thanh huyện Thuận Châu",
+      "frequency_mhz": "89,1 (thị trấn Thuận Châu) 103,1 (xã Co Mạ)",
+      "channel": "Thuận Châu",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Đài phát thanh huyện Yên Châu",
+      "frequency_mhz": "89,2, 91,0 (thị trấn Yên Châu) 100,0 (cũ) 106,0 → 104,7 (xã Tú Nang)",
+      "channel": "Yên Châu",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Đài phát thanh huyện Mường La",
+      "frequency_mhz": "89,6 (xã Mường Bú) 91,5 (xã Chiềng Ân) 94,6 (xã Ngọc Chiến) 100,0 (xã Mường Chùm) 102,0 (thị trấn Ít Ong)",
+      "channel": "Mường La",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Đài phát thanh huyện Phù Yên",
+      "frequency_mhz": "92,0 (thị trấn Phù Yên, xã Mường Do) 100,0 (xã Mường Cơi) 104,4 (xã Tân Phong)",
+      "channel": "Phù Yên",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Đài phát thanh huyện Vân Hồ",
+      "frequency_mhz": "92,0 (xã Vân Hồ) 99,0 (xã Mường Tè) 101,0 (xã Xuân Nha)",
+      "channel": "Vân Hồ",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Đài phát thanh huyện Bắc Yên",
+      "frequency_mhz": "98,0 (cũ) 93,0",
+      "channel": "Bắc Yên",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Đài phát thanh TP. Sơn La",
+      "frequency_mhz": "94,0 → 93,3",
+      "channel": "TP. Sơn La",
+      "note": "Phát sóng từ 6h30–7h00, 17h30–18h00 hàng ngày"
+    },
+    {
+      "province": "Sơn La",
+      "station": "Trạm phát sóng FM Sông Mã và Đèo Pha Đin",
+      "frequency_mhz": "94,0",
+      "channel": "VOV1",
+      "note": "Sông Mã & Đèo Pha Đin"
+    },
+    {
+      "province": "Sơn La",
+      "station": "Trạm phát sóng huyện Phù Yên",
+      "frequency_mhz": "95,0",
+      "channel": "VOV1",
+      "note": "Phù Yên"
+    },
+    {
+      "province": "Sơn La",
+      "station": "Báo và PT,TH Sơn La",
+      "frequency_mhz": "96,0",
+      "channel": "Sơn La",
+      "note": "Phát sóng từ 9h00–13h00, 18h00–22h00 hàng ngày. Từ 4h45–9h00 và 22h00–24h00 tiếp âm VOV1."
+    },
+    {
+      "province": "Sơn La",
+      "station": "Trạm phát sóng FM huyện Mai Sơn",
+      "frequency_mhz": "96,2",
+      "channel": "VOV1, VOV2 (Mai Sơn)",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Trạm phát sóng FM Sông Mã",
+      "frequency_mhz": "96,5",
+      "channel": "VOV2",
+      "note": "Sông Mã"
+    },
+    {
+      "province": "Sơn La",
+      "station": "Báo và PT,TH Sơn La",
+      "frequency_mhz": "97,0",
+      "channel": "VOV1, VOV4",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Trạm phát sóng huyện Phù Yên",
+      "frequency_mhz": "97,0",
+      "channel": "VOV4",
+      "note": "Phù Yên"
+    },
+    {
+      "province": "Sơn La",
+      "station": "Trạm phát sóng Đèo Pha Đin",
+      "frequency_mhz": "97,0",
+      "channel": "VOV4",
+      "note": "Đèo Pha Đin"
+    },
+    {
+      "province": "Sơn La",
+      "station": "Đài phát thanh huyện Mộc Châu",
+      "frequency_mhz": "97,2 (xã Chiềng Sơn) 97,6 (xã Nà Mường)",
+      "channel": "Mộc Châu",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Đài phát thanh huyện Quỳnh Nhai",
+      "frequency_mhz": "97,4",
+      "channel": "Quỳnh Nhai",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Trạm phát sóng FM Mộc Châu",
+      "frequency_mhz": "100,0 → 97,6",
+      "channel": "VOV1, VOV2 (Mộc Châu)",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Đài phát thanh huyện Mai Sơn",
+      "frequency_mhz": "97,7",
+      "channel": "Mai Sơn/Sơn La",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Đài phát thanh huyện Mai Sơn",
+      "frequency_mhz": "98,0 (xã Mường Chanh) 100,0 (xã Tà Hộc)",
+      "channel": "Mai Sơn",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Báo và PT,TH Sơn La",
+      "frequency_mhz": "95,0 → 99,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Trạm phát sóng FM Sông Mã",
+      "frequency_mhz": "100,0",
+      "channel": "VOV1 (Sông Mã)",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Đài phát thanh huyện Mai Sơn",
+      "frequency_mhz": "100,0",
+      "channel": "Mai Sơn VOV1 (Sốp Cộp)",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Báo và PT,TH Sơn La",
+      "frequency_mhz": "101,0",
+      "channel": "VOV3",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Trạm phát sóng Đèo Pha Đin",
+      "frequency_mhz": "101,0",
+      "channel": "VOV1",
+      "note": "Đèo Pha Đin"
+    },
+    {
+      "province": "Sơn La",
+      "station": "Báo và PT,TH Sơn La",
+      "frequency_mhz": "104,3 (cũ) 103,5",
+      "channel": "VOV2, VOV4",
+      "note": ""
+    },
+    {
+      "province": "Sơn La",
+      "station": "Đài phát thanh huyện Sốp Cộp",
+      "frequency_mhz": "107,1 → 104,9",
+      "channel": "Sốp Cộp",
+      "note": ""
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Đài phát thanh huyện Trà Lĩnh (cũ)",
+      "frequency_mhz": "88,0 (thị trấn Hùng Quốc) 96,0 (xã Quang Trung)",
+      "channel": "Trà Lĩnh (cũ)",
+      "note": "Hiện chỉ tiếp phát đài phát thanh huyện Trùng Khánh"
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Đài phát thanh huyện Bảo Lâm",
+      "frequency_mhz": "88,4 (xã Thái Học) 107,5 → 104,5 (thị trấn Pác Miầu) 107,9 → 104,9 (xã Nam Quang)",
+      "channel": "Bảo Lâm",
+      "note": ""
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Trạm phát sóng FM Hà Quảng",
+      "frequency_mhz": "90,6",
+      "channel": "VOV1 (Hà Quảng)",
+      "note": ""
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Đài phát thanh huyện Hòa An",
+      "frequency_mhz": "90,8 (thị trấn Nước Hai) 96,0 (xã Dân Chủ) 97,7 (xã Nguyễn Huệ)",
+      "channel": "Hòa An",
+      "note": ""
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Đài phát thanh huyện Thạch An",
+      "frequency_mhz": "91,0",
+      "channel": "Thạch An",
+      "note": ""
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Đài phát thanh huyện Quảng Uyên (cũ)",
+      "frequency_mhz": "89,1 (xã Phúc Sen) 91,5 (thị trấn Quảng Uyên)",
+      "channel": "Quảng Uyên (cũ)",
+      "note": "Hiện chỉ tiếp phát đài phát thanh huyện Quảng Hòa"
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Đài phát thanh huyện Hà Quảng",
+      "frequency_mhz": "90,6 (xã Lũng Nặm) 92,0 (xã Tổng Cọt) 98,1 (cũ) 98,8 (thị trấn Xuân Hòa)",
+      "channel": "Hà Quảng",
+      "note": ""
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Trạm phát sóng FM Phja Oắc – Nguyên Bình",
+      "frequency_mhz": "94,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Đài phát thanh huyện Bảo Lạc",
+      "frequency_mhz": "94,0 (xã Xuân Trường) 97,4 (thị trấn Bảo Lạc)",
+      "channel": "Bảo Lạc",
+      "note": ""
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Trạm phát sóng FM Phja Oắc (cũ)",
+      "frequency_mhz": "94,1 97,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Trạm phát sóng FM Phja Oắc – Nguyên Bình",
+      "frequency_mhz": "97,0",
+      "channel": "VOV4",
+      "note": ""
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Đài phát thanh huyện Quảng Hòa",
+      "frequency_mhz": "94,5 (xã Cách Linh) 105,0 (thị trấn Hòa Thuận)",
+      "channel": "Quảng Hòa",
+      "note": "Trước đây là huyện Phục Hòa"
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Đài phát thanh huyện Hạ Lang",
+      "frequency_mhz": "94,7 (xã Lý Quốc) 96,5 (thị trấn Thanh Nhật) 98,1 (cũ)",
+      "channel": "Hạ Lang",
+      "note": "Phát sóng 5h30–7h00, 17h00–19h00 hàng ngày. Chương trình của đài huyện phát sóng thứ 3 và thứ 5 hàng tuần, thời gian còn lại tiếp VOV1."
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Đài phát thanh huyện Nguyên Bình",
+      "frequency_mhz": "95,0",
+      "channel": "Nguyên Bình",
+      "note": ""
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Đài phát thanh huyện Thông Nông (cũ)",
+      "frequency_mhz": "92,1 → 96,2",
+      "channel": "Thông Nông (cũ)",
+      "note": "Hiện chỉ tiếp phát đài phát thanh huyện Hà Quảng"
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Đài phát thanh huyện Trùng Khánh",
+      "frequency_mhz": "97,7",
+      "channel": "Trùng Khánh",
+      "note": ""
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Báo Cao Bằng",
+      "frequency_mhz": "99,0 → 99,9",
+      "channel": "Cao Bằng",
+      "note": ""
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Trạm phát sóng FM Phja Oắc",
+      "frequency_mhz": "100,5",
+      "channel": "VOV3",
+      "note": ""
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Trạm phát sóng FM Phja Oắc – Nguyên Bình",
+      "frequency_mhz": "101,5 (cũ) 103,5",
+      "channel": "VOV2, VOV4 (Nguyên Bình)",
+      "note": ""
+    },
+    {
+      "province": "Cao Bằng",
+      "station": "Đài phát thanh TP. Cao Bằng",
+      "frequency_mhz": "104,0",
+      "channel": "TP. Cao Bằng",
+      "note": ""
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Báo và PT–TH Lạng Sơn Trạm phát sóng FM Mẫu Sơn",
+      "frequency_mhz": "88,2 88,6 89,3 99,5 101,0",
+      "channel": "Lạng Sơn",
+      "note": "Tần số phát sóng chính là 88,6 MHz, phát sóng từ 5h00–24h00 hàng ngày (bao gồm tiếp phát VOV3). Tần số 99,5 MHz tiếp phát nội dung của VOV2/VOV4. Tần số 88,2 MHz được đặt tại TP. Lạng Sơn, tần số 88,6 MHz được đặt trên đỉnh Mẫu Sơn"
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Đài phát thanh TP. Lạng Sơn",
+      "frequency_mhz": "89,3",
+      "channel": "TP. Lạng Sơn",
+      "note": ""
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Trạm phát sóng FM Mẫu Sơn",
+      "frequency_mhz": "91,5",
+      "channel": "VOV Giao thông",
+      "note": ""
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Đài phát thanh huyện Cao Lộc",
+      "frequency_mhz": "92,0 (thị trấn Cao Lộc) 93,4 (xã Cao Lâu)",
+      "channel": "Cao Lộc",
+      "note": ""
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Đài phát thanh huyện Văn Lãng",
+      "frequency_mhz": "93,0 (xã Thụy Hùng) 93,8 (xã Hội Hoan) 94,2 (xã Hoàng Văn Thụ) 95,5 (thị trấn Na Sầm)",
+      "channel": "Văn Lãng",
+      "note": ""
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Đài phát thanh huyện Bình Gia",
+      "frequency_mhz": "93,1 (xã Thiện Thuật) 93,5 (xã Hồng Phong) 95,3 (thị trấn Bình Gia)",
+      "channel": "Bình Gia",
+      "note": ""
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Đài phát thanh huyện Chi Lăng",
+      "frequency_mhz": "93,2 (xã Hòa Bình) 93,7 (xã Chiến Thắng) 96,0 (thị trấn Chi Lăng)",
+      "channel": "Chi Lăng",
+      "note": "Phát sóng 17h00–17h30 thứ 2, 4, 6 và phát lại 6h30–7h00 thứ 3, 5, 7 hàng tuần"
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Đài phát thanh huyện Đình Lập",
+      "frequency_mhz": "93,3 (thị trấn Đình Lập) 93,5 (thị trấn Nông trường Thái Bình)",
+      "channel": "Đình Lập",
+      "note": ""
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Đài phát thanh huyện Bắc Sơn",
+      "frequency_mhz": "93,3 (xã Trấn Yên) 93,7 (xã Tân Hương) 94,5 (thị trấn Bắc Sơn)",
+      "channel": "Bắc Sơn",
+      "note": ""
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Trung tâm Văn hóa – Thể thao và Truyền thông huyện Hữu Lũng",
+      "frequency_mhz": "93,5 (xã Yên Bình) 93,9 (thị trấn Hữu Lũng) 94,2 (xã Yên Vượng)",
+      "channel": "Hữu Lũng",
+      "note": "Phát sóng từ 6h00–7h00, 17h00–19h00 thứ 2 đến thứ 7 và 6h00–8h00, 17h00–19h00 Chủ nhật"
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Đài phát thanh huyện Lộc Bình",
+      "frequency_mhz": "94,3 (xã Tam Gia) 96,7 (thị trấn Lộc Bình) 97,2 (xã Nam Quan)",
+      "channel": "Lộc Bình",
+      "note": ""
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Trạm phát sóng FM Mẫu Sơn",
+      "frequency_mhz": "101,0 → 95,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Trạm phát sóng FM Mẫu Sơn",
+      "frequency_mhz": "92,5 95,0",
+      "channel": "VOV1, VOV4 (Mẫu Sơn)",
+      "note": ""
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Đài phát thanh huyện Văn Quan",
+      "frequency_mhz": "95,7",
+      "channel": "Văn Quan",
+      "note": ""
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Đài phát thanh huyện Tràng Định",
+      "frequency_mhz": "97,0",
+      "channel": "Tràng Định",
+      "note": ""
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Trạm phát sóng FM Mẫu Sơn",
+      "frequency_mhz": "93,5 99,5",
+      "channel": "VOV2, VOV4 (Mẫu Sơn)",
+      "note": ""
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Trạm phát sóng FM Mẫu Sơn",
+      "frequency_mhz": "101,0",
+      "channel": "VOV3",
+      "note": ""
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Trạm phát sóng FM Mẫu Sơn",
+      "frequency_mhz": "101,0",
+      "channel": "VOV1",
+      "note": "Mẫu Sơn"
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Trạm phát sóng FM Mẫu Sơn",
+      "frequency_mhz": "93,5",
+      "channel": "VOV2",
+      "note": "Mẫu Sơn"
+    },
+    {
+      "province": "Lạng Sơn",
+      "station": "Trạm phát sóng FM Mẫu Sơn",
+      "frequency_mhz": "92,5",
+      "channel": "VOV3",
+      "note": "Mẫu Sơn"
+    },
+    {
+      "province": "Tuyên Quang",
+      "station": "Báo và PT,TH Tuyên Quang",
+      "frequency_mhz": "88,0",
+      "channel": "VOV1, VOV4 (cũ)",
+      "note": ""
+    },
+    {
+      "province": "Tuyên Quang",
+      "station": "Báo và PT–TH Tuyên Quang",
+      "frequency_mhz": "91,0",
+      "channel": "VOV Giao thông",
+      "note": ""
+    },
+    {
+      "province": "Tuyên Quang",
+      "station": "Đài phát thanh TP. Tuyên Quang",
+      "frequency_mhz": "91,1 → 91,6",
+      "channel": "TP. Tuyên Quang",
+      "note": ""
+    },
+    {
+      "province": "Tuyên Quang",
+      "station": "Đài phát thanh huyện Chiêm Hóa và Lâm Bình",
+      "frequency_mhz": "92,1",
+      "channel": "VOV3 (Chiêm Hóa) Lâm Bình",
+      "note": ""
+    },
+    {
+      "province": "Tuyên Quang",
+      "station": "Đài phát thanh huyện Yên Sơn",
+      "frequency_mhz": "92,6",
+      "channel": "Yên Sơn",
+      "note": ""
+    },
+    {
+      "province": "Tuyên Quang",
+      "station": "Đài phát thanh huyện Na Hang",
+      "frequency_mhz": "94,1",
+      "channel": "Na Hang",
+      "note": ""
+    },
+    {
+      "province": "Tuyên Quang",
+      "station": "Báo và PT,TH Tuyên Quang",
+      "frequency_mhz": "95,6",
+      "channel": "Tuyên Quang",
+      "note": ""
+    },
+    {
+      "province": "Tuyên Quang",
+      "station": "Báo và PT,TH Tuyên Quang",
+      "frequency_mhz": "96,5",
+      "channel": "VOV2",
+      "note": ""
+    },
+    {
+      "province": "Tuyên Quang",
+      "station": "Đài phát thanh huyện Na Hang",
+      "frequency_mhz": "97,6",
+      "channel": "VOV2",
+      "note": ""
+    },
+    {
+      "province": "Tuyên Quang",
+      "station": "Đài phát thanh huyện Hàm Yên",
+      "frequency_mhz": "97,6",
+      "channel": "Hàm Yên",
+      "note": ""
+    },
+    {
+      "province": "Tuyên Quang",
+      "station": "Đài phát thanh huyện Sơn Dương",
+      "frequency_mhz": "98,0 (thị trấn Sơn Dương) 102,0 (xã Tân Trào)",
+      "channel": "Sơn Dương",
+      "note": ""
+    },
+    {
+      "province": "Tuyên Quang",
+      "station": "Đài phát thanh huyện Chiêm Hóa",
+      "frequency_mhz": "99,6",
+      "channel": "Chiêm Hóa",
+      "note": ""
+    },
+    {
+      "province": "Tuyên Quang",
+      "station": "Báo và PT,TH Tuyên Quang",
+      "frequency_mhz": "100,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Tuyên Quang",
+      "station": "Đài phát thanh huyện Chiêm Hóa",
+      "frequency_mhz": "100,1",
+      "channel": "Tuyên Quang",
+      "note": ""
+    },
+    {
+      "province": "Tuyên Quang",
+      "station": "Báo và PT,TH Tuyên Quang",
+      "frequency_mhz": "102,7",
+      "channel": "VOV3",
+      "note": ""
+    },
+    {
+      "province": "Thái Nguyên",
+      "station": "Đài phát thanh huyện Định Hóa",
+      "frequency_mhz": "92,3",
+      "channel": "Định Hóa",
+      "note": ""
+    },
+    {
+      "province": "Thái Nguyên",
+      "station": "Đài phát thanh TP. Thái Nguyên",
+      "frequency_mhz": "93,1",
+      "channel": "TP. Thái Nguyên",
+      "note": ""
+    },
+    {
+      "province": "Thái Nguyên",
+      "station": "Đài phát thanh TP. Phổ Yên",
+      "frequency_mhz": "94,0 → 94,4",
+      "channel": "Phổ Yên",
+      "note": ""
+    },
+    {
+      "province": "Thái Nguyên",
+      "station": "Đài phát thanh huyện Phú Lương",
+      "frequency_mhz": "95,8",
+      "channel": "Phú Lương",
+      "note": ""
+    },
+    {
+      "province": "Thái Nguyên",
+      "station": "Đài phát thanh huyện Võ Nhai",
+      "frequency_mhz": "96,0",
+      "channel": "Võ Nhai",
+      "note": ""
+    },
+    {
+      "province": "Thái Nguyên",
+      "station": "Đài phát thanh huyện Đồng Hỷ",
+      "frequency_mhz": "97,3",
+      "channel": "Đồng Hỷ",
+      "note": ""
+    },
+    {
+      "province": "Thái Nguyên",
+      "station": "Đài phát thanh huyện Đại Từ",
+      "frequency_mhz": "96,0 → 97,6",
+      "channel": "Đại Từ",
+      "note": ""
+    },
+    {
+      "province": "Thái Nguyên",
+      "station": "Đài phát thanh TP. Sông Công",
+      "frequency_mhz": "104,0 → 103,2",
+      "channel": "Sông Công",
+      "note": "Phát sóng 6h00–7h00, 17h00–19h00 hàng ngày"
+    },
+    {
+      "province": "Thái Nguyên",
+      "station": "Đài phát thanh huyện Phú Bình",
+      "frequency_mhz": "103,7",
+      "channel": "Phú Bình",
+      "note": ""
+    },
+    {
+      "province": "Thái Nguyên",
+      "station": "Báo và PT,TH Thái Nguyên",
+      "frequency_mhz": "106,5",
+      "channel": "Thái Nguyên",
+      "note": "Phát sóng 6h00–24h00 hàng ngày"
+    },
+    {
+      "province": "Phú Thọ",
+      "station": "Đài phát thanh huyện Tân Sơn",
+      "frequency_mhz": "87,9",
+      "channel": "Tân Sơn",
+      "note": "Đài đã đăng ký tần số 88,7 MHz, tuy nhiên trên thực tế vẫn dùng tần số cũ"
+    },
+    {
+      "province": "Phú Thọ",
+      "station": "Đài phát thanh huyện Hạ Hòa",
+      "frequency_mhz": "87,5 → 89,1",
+      "channel": "Hạ Hòa",
+      "note": ""
+    },
+    {
+      "province": "Phú Thọ",
+      "station": "Đài phát thanh huyện Đoan Hùng",
+      "frequency_mhz": "98,5 → 89,5",
+      "channel": "Đoan Hùng",
+      "note": ""
+    },
+    {
+      "province": "Phú Thọ",
+      "station": "Đài phát thanh thị xã Phú Thọ",
+      "frequency_mhz": "89,9",
+      "channel": "TX. Phú Thọ",
+      "note": ""
+    },
+    {
+      "province": "Phú Thọ",
+      "station": "Đài phát thanh huyện Thanh Ba",
+      "frequency_mhz": "90,5",
+      "channel": "Thanh Ba",
+      "note": ""
+    },
+    {
+      "province": "Phú Thọ",
+      "station": "Đài phát thanh huyện Thanh Sơn",
+      "frequency_mhz": "91,4",
+      "channel": "Thanh Sơn",
+      "note": ""
+    },
+    {
+      "province": "Phú Thọ",
+      "station": "Đài phát thanh huyện Cẩm Khê",
+      "frequency_mhz": "91,5",
+      "channel": "Cẩm Khê",
+      "note": ""
+    },
+    {
+      "province": "Phú Thọ",
+      "station": "Đài phát thanh TP. Việt Trì",
+      "frequency_mhz": "93,5",
+      "channel": "Việt Trì",
+      "note": ""
+    },
+    {
+      "province": "Phú Thọ",
+      "station": "Đài phát thanh huyện Tam Nông",
+      "frequency_mhz": "94,5 → 95,2",
+      "channel": "Tam Nông",
+      "note": ""
+    },
+    {
+      "province": "Phú Thọ",
+      "station": "Đài phát thanh huyện Phù Ninh",
+      "frequency_mhz": "95,9",
+      "channel": "Phù Ninh",
+      "note": ""
+    },
+    {
+      "province": "Phú Thọ",
+      "station": "Đài phát thanh huyện Thanh Thủy",
+      "frequency_mhz": "97,0 → 97,2",
+      "channel": "Thanh Thủy",
+      "note": "Phát sóng chính từ 17h30–18h00 từ thứ 2 đến thứ 6 hàng tuần, phát lại 5h30–6h00 ngày tiếp theo"
+    },
+    {
+      "province": "Phú Thọ",
+      "station": "Đài phát thanh huyện Lâm Thao",
+      "frequency_mhz": "98,2",
+      "channel": "Lâm Thao",
+      "note": "Phát sóng chính từ 16h30–17h00 từ thứ 2 đến thứ 6 hàng tuần, phát lại 5h30–6h00 ngày tiếp theo"
+    },
+    {
+      "province": "Phú Thọ",
+      "station": "Đài phát thanh huyện Yên Lập",
+      "frequency_mhz": "94,0 → 104,7",
+      "channel": "Yên Lập",
+      "note": "Thay đổi tần số để tránh can nhiễu với trạm phát sóng VOV1 (Hòa Bình)"
+    },
+    {
+      "province": "Phú Thọ",
+      "station": "Báo và PT–TH Phú Thọ",
+      "frequency_mhz": "106,0",
+      "channel": "Phú Thọ",
+      "note": "Phát sóng từ 5h00-22h00 hàng ngày"
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh TX. Đông Triều",
+      "frequency_mhz": "88,3",
+      "channel": "Đông Triều",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh huyện Hải Hà",
+      "frequency_mhz": "89,0",
+      "channel": "Quảng Ninh 1 (Hải Hà)",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh huyện Cô Tô",
+      "frequency_mhz": "89,2",
+      "channel": "Cô Tô",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh huyện Tiên Yên",
+      "frequency_mhz": "89,5 (thị trấn Tiên Yên) 97,3 (xã Tiên Lãng)",
+      "channel": "Tiên Yên",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh TP. Hạ Long",
+      "frequency_mhz": "91,4 → 89,7 95,7",
+      "channel": "Hạ Long",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh huyện Bình Liêu",
+      "frequency_mhz": "89,8",
+      "channel": "Bình Liêu",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh huyện Hải Hà",
+      "frequency_mhz": "89,9",
+      "channel": "Hải Hà",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh huyện Vân Đồn",
+      "frequency_mhz": "91,7 → 90,3",
+      "channel": "Vân Đồn",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh TP. Móng Cái",
+      "frequency_mhz": "91,0",
+      "channel": "VOVGT",
+      "note": "Móng Cái"
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh huyện Đầm Hà",
+      "frequency_mhz": "91,0",
+      "channel": "Đầm Hà/Quảng Ninh 1",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Trạm phát sóng đồi cột 5",
+      "frequency_mhz": "91,5",
+      "channel": "VOV Giao thông Duyên hải",
+      "note": "Phát sóng từ ngày 1 tháng 2 năm 2026 (Giai đoạn 2)"
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh TP. Móng Cái",
+      "frequency_mhz": "92,0",
+      "channel": "Móng Cái",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh huyện Ba Chẽ",
+      "frequency_mhz": "92,0 96,7",
+      "channel": "Ba Chẽ",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh TX. Quảng Yên",
+      "frequency_mhz": "92,1",
+      "channel": "Quảng Yên",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Trạm phát sóng FM Than Cọc Sáu",
+      "frequency_mhz": "92,5",
+      "channel": "Quảng Ninh 1 (Than Cọc Sáu)",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Trạm phát sóng đồi cột 5",
+      "frequency_mhz": "93,0",
+      "channel": "VOV5 (cũ)",
+      "note": "Hạ Long"
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh huyện Bình Liêu Trạm phát sóng đồi cột 5",
+      "frequency_mhz": "94,0",
+      "channel": "Bình Liêu VOV1 VOVGT",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Trạm phát sóng đồi cột 5",
+      "frequency_mhz": "94,0",
+      "channel": "VOV1",
+      "note": "cũ"
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Trạm phát sóng đồi cột 5",
+      "frequency_mhz": "94,0",
+      "channel": "VOV3 cũ",
+      "note": "TP. Hạ Long"
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh TP. Móng Cái",
+      "frequency_mhz": "103,5 → 95,0",
+      "channel": "VOV1",
+      "note": "Móng Cái cũ"
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh TP. Móng Cái",
+      "frequency_mhz": "95,0",
+      "channel": "Móng Cái",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh huyện Hoành Bồ (cũ)",
+      "frequency_mhz": "95,1",
+      "channel": "Hoành Bồ (cũ)",
+      "note": "Huyện đã sáp nhập vào thành phố Hạ Long"
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh huyện Hải Hà",
+      "frequency_mhz": "96,0",
+      "channel": "Hải Hà",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Trạm phát sóng đồi cột 5",
+      "frequency_mhz": "93,0 96,5",
+      "channel": "VOV2, VOV4",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Báo và PT,TH Quảng Ninh – Trạm phát sóng đồi cột 5",
+      "frequency_mhz": "97,8",
+      "channel": "Quảng Ninh 1",
+      "note": "Phát sóng 5h30–24h00 hàng ngày"
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh TP. Cẩm Phả",
+      "frequency_mhz": "99,0",
+      "channel": "Cẩm Phả",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Trạm phát sóng đồi cột 5",
+      "frequency_mhz": "99,5",
+      "channel": "VOV1 (cũ)",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Trạm phát sóng đồi cột 5",
+      "frequency_mhz": "99,8",
+      "channel": "Quảng Ninh 1",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh TP. Uông Bí",
+      "frequency_mhz": "99,8",
+      "channel": "Uông Bí",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Trạm phát sóng đồi cột 5",
+      "frequency_mhz": "100,0",
+      "channel": "VOV1",
+      "note": "Vân Đồn & Hạ Long"
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Báo và PT,TH Quảng Ninh",
+      "frequency_mhz": "100,7",
+      "channel": "Quảng Ninh 1 (Móng Cái)",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh TP. Móng Cái Trạm phát sóng đồi cột 5",
+      "frequency_mhz": "100,5 → 101,5",
+      "channel": "VOV3",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh TP. Móng Cái",
+      "frequency_mhz": "101,5 → 103,5",
+      "channel": "VOV2",
+      "note": "Móng Cái cũ"
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Trạm phát sóng đồi cột 5",
+      "frequency_mhz": "104,0",
+      "channel": "VOV Tiếng Anh 24/7 VOV3 (cũ)",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Đài phát thanh huyện Đầm Hà",
+      "frequency_mhz": "105,1 → 104,9",
+      "channel": "Đầm Hà",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ninh",
+      "station": "Trạm phát sóng đồi cột 5",
+      "frequency_mhz": "105,0 105,7",
+      "channel": "VOV5",
+      "note": ""
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh huyện Hoài Đức",
+      "frequency_mhz": "88,5",
+      "channel": "Hoài Đức",
+      "note": "Phát sóng 2 buổi từ thứ 2 đến thứ 6 hàng tuần. Buổi sáng: 5h30–6h00 chương trình của đài, 6h00–6h30 tiếp âm VOV1. Buổi chiều: Phát sóng từ 16h55–17h25."
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh quốc gia Mễ Trì",
+      "frequency_mhz": "89,0",
+      "channel": "VOV Sonata - FM89",
+      "note": "Trước đây là kênh VOV Sức Khỏe. Từ ngày 20 tháng 10 năm 2026, VOV ra mắt và phát sóng kênh VOV Sonata - FM89"
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài PT–TH Hà Nội",
+      "frequency_mhz": "90,0",
+      "channel": "Hà Nội",
+      "note": "Phát sóng 5h00–23h00 hàng ngày. Từ ngày 6/6/2022, kênh FM90 định hướng là kênh Tin tức và Giao thông Hà Nội."
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh quốc gia Mễ Trì",
+      "frequency_mhz": "91,0",
+      "channel": "VOV Giao thông Hà Nội",
+      "note": "Phát sóng 24/24h. Trước đây tần số được dùng để phát VOV5."
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài truyền thanh xã Phù Đổng",
+      "frequency_mhz": "91,5",
+      "channel": "Phù Đổng",
+      "note": "Phát sóng 6h45–7h00, 17h45–18h00 từ thứ 2 tới thứ 7 hàng tuần"
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh huyện Từ Liêm (cũ)",
+      "frequency_mhz": "91,8",
+      "channel": "Từ Liêm (cũ)",
+      "note": "Huyện đã được tách thành 2 quận Bắc Từ Liêm và Nam Từ Liêm"
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh quốc gia Mễ Trì",
+      "frequency_mhz": "92,0 (cũ)",
+      "channel": "VOV4",
+      "note": ""
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh huyện Phúc Thọ",
+      "frequency_mhz": "92,4",
+      "channel": "Phúc Thọ",
+      "note": ""
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh TX. Sơn Tây",
+      "frequency_mhz": "93,6",
+      "channel": "Sơn Tây",
+      "note": ""
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh huyện Sóc Sơn",
+      "frequency_mhz": "93,8",
+      "channel": "Sóc Sơn",
+      "note": ""
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh huyện Ứng Hòa",
+      "frequency_mhz": "92,0 → 94,1",
+      "channel": "Ứng Hòa",
+      "note": "Hiện tại đài không sử dụng máy phát FM"
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh huyện Thanh Trì",
+      "frequency_mhz": "94,3",
+      "channel": "Thanh Trì",
+      "note": "Phát sóng 6h30–7h00, 16h30–17h00 từ thứ 2 đến thứ 6 hàng tuần (từ giữa 4/2023). Trước thời điểm này, đài phát sóng hàng ngày."
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh huyện Ba Vì",
+      "frequency_mhz": "94,6",
+      "channel": "Ba Vì",
+      "note": ""
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh huyện Thạch Thất",
+      "frequency_mhz": "95,1",
+      "channel": "Thạch Thất",
+      "note": "Phát sóng 5h30–6h30, 11h30–12h00, 17h00–19h00 hàng ngày"
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh huyện Phú Xuyên",
+      "frequency_mhz": "95,8 → 95,5",
+      "channel": "Phú Xuyên",
+      "note": "Phát sóng 5h30–6h30, 11h00–11h30, 17h30–18h00 từ thứ 2 đến thứ 6 hàng tuần"
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài PT–TH Hà Nội (cơ sở Hà Đông)",
+      "frequency_mhz": "96,0",
+      "channel": "Hà Nội (Hà Tây cũ)",
+      "note": "Phát sóng 5h00–23h00 hàng ngày. Từ ngày 1/1/2024, kênh FM96 được nhận diện là kênh Tin tức và Âm nhạc. Đồng thời, kênh FM96 chính thức phát sóng khung chương trình Thời sự (5h30, 11h30, 18h), các bản tin 5 phút (8h (từ 1/11/2024 chính thức bỏ khung giờ tin nhanh buổi sáng), 11h, 16h), bản tin 15 phút (9h, 15h, 21h), cùng phần còn lại là các nội dung chuyên đề & các chương trình âm nhạc của FM96. Từ ngày 1/11/2024, chương trình Thời sự 5h30 của FM96 chính thức chuyển sang phát sóng lúc 6h30 từ thứ 2 đến thứ 7 và được đổi tên thành chương trình Chào ngày mới, và từ ngày 3/11/2024, chương trình Chuông nhạc Chủ Nhật chính thức ra mắt thính giả lúc 6h30 chủ nhật hàng tuần, riêng khung chương trình thời sự vẫn giữ nguyên 2 khung giờ: 11h30 & 18h hằng ngày."
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Sóng từ Tam Đảo",
+      "frequency_mhz": "96,5",
+      "channel": "VOV2",
+      "note": "Phát sóng từ 4h45–24h00 (19h15/24h)"
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh huyện Mỹ Đức",
+      "frequency_mhz": "96,7",
+      "channel": "Mỹ Đức",
+      "note": "Phát sóng 5h30–6h00, 11h00–11h30, 17h30–18h00 từ thứ 2 đến thứ 7 hàng tuần"
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh huyện Chương Mỹ",
+      "frequency_mhz": "98,0",
+      "channel": "Chương Mỹ",
+      "note": ""
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh huyện Đan Phượng",
+      "frequency_mhz": "98,2",
+      "channel": "Đan Phượng",
+      "note": "Phát sóng 6h00–6h15, 17h00–17h30 từ thứ 2 đến thứ 6 hàng tuần"
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài PT–TH Hà Nội (hợp tác với VTVcab)",
+      "frequency_mhz": "98,9",
+      "channel": "JOYFM",
+      "note": "Kênh phát sóng thử nghiệm từ ngày 18/9/2012 & được phát sóng chính thức từ ngày 10/1/2013 với thời lượng 18/24h, kênh do Công ty Cổ phần Truyền hình HiTV & Đài PT-TH Hà Nội sản xuất Từ ngày 1/7/2015 đến 31/3/2022, kênh do STV Media và Đài PT-TH Hà Nội hợp tác sản xuất. Từ ngày 1/4/2022 đến ngày 22/8/2022 là kênh JOYFM được đổi tên thành ON 365FM (kênh Thông tin – Tương tác – Giải trí). Kênh do VTVcab và Đài PT-TH Hà Nội hợp tác sản xuất, trở thành kênh phát thanh thuộc thành viên hệ sinh thái nội dung số của VTVcab. Kênh đã tạm ngừng phát sóng từ ngày 23/8/2022 đến ngày 23/4/2023. Kênh thử nghiệm máy phát trở lại từ ngày 24/4/2023. Từ ngày 5/5/2023, kênh chính thức tái ra mắt trở lại với tên gọi cũ là JOYFM với định hướng là kênh phát thanh chuyên biệt về Sức khỏe & Giải trí, kênh vẫn do VTVcab & Đài PT-TH Hà Nội hợp tác sản xuất – thuộc thành viên hệ sinh thái nội dung số của VTVcab, được phát sóng liên tục 24/24h. Từ ngày 8/6/2023, kênh JOYFM đã có mặt trên hệ thống truyền hình số của VTVcab toàn quốc tại vị trí kênh 68. Từ ngày 1/4/2025, kênh JOYFM chính thức dừng phát sóng, khép lại sứ mệnh hành trình 13 năm đồng hành cùng thính giả cả nước."
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh huyện Đông Anh",
+      "frequency_mhz": "96,6 → 99,4",
+      "channel": "Đông Anh",
+      "note": ""
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Sóng từ Tam Đảo",
+      "frequency_mhz": "100,0",
+      "channel": "VOV1",
+      "note": "Phát sóng từ 4h45–24h00 (19h15/24h)"
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh quốc gia Mễ Trì",
+      "frequency_mhz": "101,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh quận Hà Đông",
+      "frequency_mhz": "106,4 → 101,4",
+      "channel": "Hà Đông",
+      "note": ""
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh huyện Quốc Oai",
+      "frequency_mhz": "102,0",
+      "channel": "Quốc Oai",
+      "note": "Phát sóng 6h30–7h00, 17h00–17h30 từ thứ 2 đến thứ 7 hàng tuần"
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Sóng từ Tam Đảo",
+      "frequency_mhz": "102,7",
+      "channel": "VOV3",
+      "note": "Phát sóng 24/24h. Từ ngày 15/4/2023, VOV3 thay đổi khung chương trình mới, phát sóng toàn thời gian các chương trình âm nhạc do Ban Âm nhạc VOV3 sản xuất."
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh huyện Thanh Oai",
+      "frequency_mhz": "103,7 → 103,1",
+      "channel": "Thanh Oai",
+      "note": ""
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh huyện Mê Linh",
+      "frequency_mhz": "103,5 → 103,6",
+      "channel": "Mê Linh",
+      "note": "Phát sóng 6h00–6h30, 17h30–18h00 từ thứ 2 đến thứ 6 hàng tuần"
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh quốc gia Mễ Trì",
+      "frequency_mhz": "104,0",
+      "channel": "VOV Tiếng Anh 24/7",
+      "note": ""
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh huyện Thường Tín",
+      "frequency_mhz": "67,13 → 104,9",
+      "channel": "Thường Tín",
+      "note": ""
+    },
+    {
+      "province": "Hà Nội",
+      "station": "Đài phát thanh quốc gia Mễ Trì",
+      "frequency_mhz": "105,5",
+      "channel": "VOV5",
+      "note": ""
+    },
+    {
+      "province": "Bắc Ninh",
+      "station": "Đài phát thanh huyện Tiên Du",
+      "frequency_mhz": "89,0 → 88,3",
+      "channel": "Tiên Du",
+      "note": "Phát sóng 6h30–7h00, 17h00–17h30 từ thứ 2 đến thứ 7 hàng tuần"
+    },
+    {
+      "province": "Bắc Ninh",
+      "station": "Báo và PT–TH Bắc Ninh",
+      "frequency_mhz": "92,1",
+      "channel": "Bắc Ninh",
+      "note": "Phát sóng 5h30–22h00 hàng ngày"
+    },
+    {
+      "province": "Bắc Ninh",
+      "station": "Đài phát thanh TX. Thuận Thành",
+      "frequency_mhz": "93,9",
+      "channel": "Thuận Thành",
+      "note": "Phát sóng 6h30–7h00, 18h30–19h00 hàng ngày"
+    },
+    {
+      "province": "Bắc Ninh",
+      "station": "Đài phát thanh TX. Quế Võ",
+      "frequency_mhz": "94,8",
+      "channel": "Quế Võ",
+      "note": ""
+    },
+    {
+      "province": "Bắc Ninh",
+      "station": "Đài phát thanh huyện Lương Tài",
+      "frequency_mhz": "97,5",
+      "channel": "Lương Tài",
+      "note": ""
+    },
+    {
+      "province": "Bắc Ninh",
+      "station": "Đài phát thanh huyện Yên Phong",
+      "frequency_mhz": "101,3",
+      "channel": "Yên Phong",
+      "note": "Hiện tại đài chỉ phát trên hệ thống loa truyền thanh của huyện, đang tạm ngừng trên sóng FM"
+    },
+    {
+      "province": "Bắc Ninh",
+      "station": "Đài phát thanh TP. Từ Sơn",
+      "frequency_mhz": "103,7",
+      "channel": "Từ Sơn",
+      "note": ""
+    },
+    {
+      "province": "Bắc Ninh",
+      "station": "Đài phát thanh huyện Gia Bình",
+      "frequency_mhz": "106,2",
+      "channel": "Gia Bình",
+      "note": "Đài đã đăng ký tần số 97,2 MHz, tuy nhiên trên thực tế vẫn dùng tần số cũ"
+    },
+    {
+      "province": "Bắc Ninh",
+      "station": "Đài phát thanh TP. Bắc Ninh",
+      "frequency_mhz": "107,0",
+      "channel": "TP. Bắc Ninh",
+      "note": "Đài đã đăng ký tần số 104,8 MHz, tuy nhiên trên thực tế vẫn dùng tần số cũ. Phát sóng 6h30–7h00, 17h00–17h30 hàng ngày."
+    },
+    {
+      "province": "Hưng Yên",
+      "station": "Đài phát thanh TX. Mỹ Hào",
+      "frequency_mhz": "88,6",
+      "channel": "Mỹ Hào",
+      "note": ""
+    },
+    {
+      "province": "Hưng Yên",
+      "station": "Đài phát thanh TP. Hưng Yên",
+      "frequency_mhz": "89,5",
+      "channel": "TP. Hưng Yên",
+      "note": ""
+    },
+    {
+      "province": "Hưng Yên",
+      "station": "Đài phát thanh huyện Tiên Lữ",
+      "frequency_mhz": "90,6",
+      "channel": "Tiên Lữ",
+      "note": ""
+    },
+    {
+      "province": "Hưng Yên",
+      "station": "Đài phát thanh huyện Ân Thi",
+      "frequency_mhz": "91,3",
+      "channel": "Ân Thi",
+      "note": "Phát sóng 5h30–7h00, 17h00–18h00 từ thứ 2 đến thứ 6 hàng tuần"
+    },
+    {
+      "province": "Hưng Yên",
+      "station": "Đài phát thanh huyện Phù Cừ",
+      "frequency_mhz": "91,4",
+      "channel": "Phù Cừ",
+      "note": ""
+    },
+    {
+      "province": "Hưng Yên",
+      "station": "Báo PT–TH Hưng Yên",
+      "frequency_mhz": "92,7",
+      "channel": "Hưng Yên",
+      "note": "Phát sóng 24/24h từ 5/4/2023–31/7/2023 (từ 1/10/2021–4/4/2023, đài tiếp âm VOV3 từ 0h00 đến 4h45). Tiếp âm chương trình thời sự VOV1 từ 6h00–6h30, 12h00–13h00, 18h00–19h00. Từ ngày 1/8/2023, đài phát từ 5h30–24h hàng ngày."
+    },
+    {
+      "province": "Hưng Yên",
+      "station": "Đài phát thanh huyện Yên Mỹ",
+      "frequency_mhz": "95,3",
+      "channel": "Yên Mỹ",
+      "note": "Phát sóng 5h30–7h00, 11h30–12h00, 17h00–18h45 hàng ngày"
+    },
+    {
+      "province": "Hưng Yên",
+      "station": "Đài phát thanh huyện Khoái Châu",
+      "frequency_mhz": "100,5",
+      "channel": "Khoái Châu",
+      "note": ""
+    },
+    {
+      "province": "Hưng Yên",
+      "station": "Đài phát thanh huyện Văn Lâm",
+      "frequency_mhz": "93,8 → 101,7",
+      "channel": "Văn Lâm",
+      "note": ""
+    },
+    {
+      "province": "Hưng Yên",
+      "station": "Đài phát thanh huyện Kim Động",
+      "frequency_mhz": "103,0",
+      "channel": "Kim Động",
+      "note": ""
+    },
+    {
+      "province": "Hưng Yên",
+      "station": "Đài phát thanh huyện Văn Giang",
+      "frequency_mhz": "103,3",
+      "channel": "Văn Giang",
+      "note": ""
+    },
+    {
+      "province": "Hải Phòng",
+      "station": "Đài phát thanh huyện Bạch Long Vĩ",
+      "frequency_mhz": "88,4",
+      "channel": "Bạch Long Vĩ",
+      "note": ""
+    },
+    {
+      "province": "Hải Phòng",
+      "station": "Đài phát thanh huyện Thủy Nguyên",
+      "frequency_mhz": "88,5",
+      "channel": "Thủy Nguyên",
+      "note": ""
+    },
+    {
+      "province": "Hải Phòng",
+      "station": "Đài phát thanh huyện An Dương",
+      "frequency_mhz": "89,8",
+      "channel": "An Dương",
+      "note": ""
+    },
+    {
+      "province": "Hải Phòng",
+      "station": "Đồi Thiên Văn",
+      "frequency_mhz": "90,5",
+      "channel": "VOV5",
+      "note": ""
+    },
+    {
+      "province": "Hải Phòng",
+      "station": "Đài phát thanh huyện Cát Hải",
+      "frequency_mhz": "90,6",
+      "channel": "Cát Hải",
+      "note": ""
+    },
+    {
+      "province": "Hải Phòng",
+      "station": "Đài phát thanh huyện An Lão",
+      "frequency_mhz": "92,8",
+      "channel": "An Lão",
+      "note": ""
+    },
+    {
+      "province": "Hải Phòng",
+      "station": "Đài phát thanh quận Kiến An",
+      "frequency_mhz": "93,3",
+      "channel": "Kiến An",
+      "note": ""
+    },
+    {
+      "province": "Hải Phòng",
+      "station": "Báo và PT,TH Hải Phòng",
+      "frequency_mhz": "93,7",
+      "channel": "Hải Phòng 1 (Kênh phát thanh Tổng hợp)",
+      "note": "Phát sóng 5h15–23h30 hàng ngày"
+    },
+    {
+      "province": "Hải Phòng",
+      "station": "Đài phát thanh huyện Kiến Thụy",
+      "frequency_mhz": "94,3",
+      "channel": "Kiến Thụy",
+      "note": ""
+    },
+    {
+      "province": "Hải Phòng",
+      "station": "Trạm phát sóng Cát Bà",
+      "frequency_mhz": "95,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Hải Phòng",
+      "station": "Đài phát thanh huyện Vĩnh Bảo",
+      "frequency_mhz": "87,9 → 97,4",
+      "channel": "Vĩnh Bảo",
+      "note": ""
+    },
+    {
+      "province": "Hải Phòng",
+      "station": "Đài phát thanh quận Hải An",
+      "frequency_mhz": "99,2",
+      "channel": "Hải An",
+      "note": ""
+    },
+    {
+      "province": "Hải Phòng",
+      "station": "Đài PT–TH Hải Phòng",
+      "frequency_mhz": "102,2",
+      "channel": "Hải Phòng 2 (Kênh phát thanh Giao thông)",
+      "note": "Phát sóng 5h45–20h00 hàng ngày"
+    },
+    {
+      "province": "Hải Phòng",
+      "station": "Đài phát thanh huyện Tiên Lãng",
+      "frequency_mhz": "103,0",
+      "channel": "Tiên Lãng",
+      "note": ""
+    },
+    {
+      "province": "Hải Phòng",
+      "station": "Đài phát thanh quận Đồ Sơn",
+      "frequency_mhz": "105,0",
+      "channel": "Đồ Sơn",
+      "note": ""
+    },
+    {
+      "province": "Ninh Bình",
+      "station": "Đài phát thanh huyện Yên Khánh",
+      "frequency_mhz": "88,1",
+      "channel": "Yên Khánh",
+      "note": ""
+    },
+    {
+      "province": "Ninh Bình",
+      "station": "Đài phát thanh huyện Kim Sơn",
+      "frequency_mhz": "93,2",
+      "channel": "Kim Sơn",
+      "note": ""
+    },
+    {
+      "province": "Ninh Bình",
+      "station": "Đài phát thanh huyện Nho Quan",
+      "frequency_mhz": "97,1 → 94,4",
+      "channel": "Nho Quan",
+      "note": ""
+    },
+    {
+      "province": "Ninh Bình",
+      "station": "Đài phát thanh huyện Hoa Lư",
+      "frequency_mhz": "95,7",
+      "channel": "Hoa Lư",
+      "note": "Phát sóng 5h00–7h00, 10h30–12h00, 16h00–19h00 hàng ngày"
+    },
+    {
+      "province": "Ninh Bình",
+      "station": "Đài phát thanh huyện Gia Viễn",
+      "frequency_mhz": "96,2",
+      "channel": "Gia Viễn",
+      "note": ""
+    },
+    {
+      "province": "Ninh Bình",
+      "station": "Đài PT–TH Ninh Bình",
+      "frequency_mhz": "98,1",
+      "channel": "Ninh Bình",
+      "note": "Phát sóng 4h45–19h00 hàng ngày"
+    },
+    {
+      "province": "Ninh Bình",
+      "station": "Đài phát thanh huyện Yên Mô",
+      "frequency_mhz": "99,3",
+      "channel": "Yên Mô",
+      "note": ""
+    },
+    {
+      "province": "Ninh Bình",
+      "station": "Đài phát thanh TP. Tam Điệp",
+      "frequency_mhz": "100,2",
+      "channel": "TP. Tam Điệp",
+      "note": ""
+    },
+    {
+      "province": "Ninh Bình",
+      "station": "Đài phát thanh TP. Ninh Bình",
+      "frequency_mhz": "105,8 → 104,7",
+      "channel": "TP. Ninh Bình",
+      "note": "Phát sóng 5h00–7h00, 10h30–12h00, 16h30–19h00 hàng ngày"
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Cẩm Thủy",
+      "frequency_mhz": "88,2 (thị trấn Cẩm Thủy) 90,9 (xã Cẩm Thạch) 92,8 (xã Cẩm Tân)",
+      "channel": "Cẩm Thủy",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Yên Định",
+      "frequency_mhz": "88,6",
+      "channel": "Yên Định",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Như Xuân",
+      "frequency_mhz": "89,0 (thị trấn Yên Cát) 94,5 (xã Thanh Phong) 98,3 (xã Xuân Bình)",
+      "channel": "Như Xuân",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Bá Thước",
+      "frequency_mhz": "89,3 (xã Điền Lư) 94,5 (xã Cổ Lũng) 97,7 (xã Thiết Ống) 102,4 (thị trấn Cành Nàng)",
+      "channel": "Bá Thước",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Mường Lát",
+      "frequency_mhz": "89,6",
+      "channel": "Mường Lát",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Hoằng Hóa",
+      "frequency_mhz": "90,3",
+      "channel": "Hoằng Hóa",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Hà Trung",
+      "frequency_mhz": "90,8",
+      "channel": "Hà Trung",
+      "note": "Phát sóng 5h30–6h00, 17h30–18h00 từ thứ 2 đến thứ 6 hàng tuần"
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Quan Sơn",
+      "frequency_mhz": "91,4",
+      "channel": "Quan Sơn",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Lang Chánh",
+      "frequency_mhz": "91,5",
+      "channel": "Lang Chánh",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Trạm phát sóng Đồi Quyết Thắng",
+      "frequency_mhz": "91,5",
+      "channel": "VOV Giao thông",
+      "note": "cũ"
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Trạm phát sóng FM Đồi Quyết Thắng - Báo và Đài PT–TH Thanh Hóa",
+      "frequency_mhz": "92,3",
+      "channel": "Thanh Hóa",
+      "note": "Phát sóng 5h00–21h20 hàng ngày"
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Đông Sơn",
+      "frequency_mhz": "92,6",
+      "channel": "Đông Sơn",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh TP. Thanh Hóa",
+      "frequency_mhz": "94,2 → 93,1",
+      "channel": "TP. Thanh Hóa",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh TX. Bỉm Sơn",
+      "frequency_mhz": "93,6",
+      "channel": "Bỉm Sơn",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Trạm phát sóng đồi Quyết Thắng",
+      "frequency_mhz": "89,5 → 105,1 → 94,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Hậu Lộc",
+      "frequency_mhz": "92,0 → 94,6",
+      "channel": "Hậu Lộc",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Trạm phát sóng FM Bá Thước",
+      "frequency_mhz": "94,9 (cũ)",
+      "channel": "VOV3",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Quảng Xương",
+      "frequency_mhz": "95,4",
+      "channel": "Quảng Xương",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Thiệu Hóa",
+      "frequency_mhz": "95,5",
+      "channel": "Thiệu Hóa",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Quan Hóa",
+      "frequency_mhz": "95,8 (thị trấn Hồi Xuân) 97,0 (xã Nam Tiến)",
+      "channel": "Quan Hóa",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Thạch Thành",
+      "frequency_mhz": "95,8",
+      "channel": "Thạch Thành",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh TX. Nghi Sơn",
+      "frequency_mhz": "96,0",
+      "channel": "Nghi Sơn",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Vĩnh Lộc",
+      "frequency_mhz": "96,1",
+      "channel": "Vĩnh Lộc",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Nông Cống",
+      "frequency_mhz": "96,8",
+      "channel": "Nông Cống",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Thọ Xuân",
+      "frequency_mhz": "97,0",
+      "channel": "Thọ Xuân",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Nga Sơn",
+      "frequency_mhz": "97,6",
+      "channel": "Nga Sơn",
+      "note": "Hiện tại đài không sử dụng hệ thống phát FM. Buổi sáng mùa hè phát sóng từ 5h30–6h00, mùa đông từ 6h30–7h00. Buổi chiều phát sóng từ 17h30–18h00 hàng ngày."
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Triệu Sơn",
+      "frequency_mhz": "97,8",
+      "channel": "Triệu Sơn",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Thường Xuân",
+      "frequency_mhz": "98,4",
+      "channel": "Thường Xuân",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Trạm phát sóng FM Ngọc Lặc",
+      "frequency_mhz": "98,6",
+      "channel": "VOV1, VOV4",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Như Thanh",
+      "frequency_mhz": "98,9",
+      "channel": "Như Thanh",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Trạm phát sóng FM Hòn Mê",
+      "frequency_mhz": "100,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh huyện Ngọc Lặc",
+      "frequency_mhz": "101,3 → 100,7",
+      "channel": "Ngọc Lặc",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài phát thanh TP. Sầm Sơn",
+      "frequency_mhz": "101,1",
+      "channel": "Sầm Sơn",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Trạm phát sóng FM Bá Thước",
+      "frequency_mhz": "93,1 → 101,5",
+      "channel": "VOV4",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Đài PT–TH Thanh Hóa",
+      "frequency_mhz": "102,0",
+      "channel": "Thanh Hóa (Bá Thước)",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Trạm phát sóng FM Đồi Quyết Thắng",
+      "frequency_mhz": "103,0",
+      "channel": "VOV3 (cũ)",
+      "note": ""
+    },
+    {
+      "province": "Thanh Hóa",
+      "station": "Trạm phát sóng Đồi Quyết Thắng",
+      "frequency_mhz": "105,1 → 103,5",
+      "channel": "VOV2",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh huyện Quế Phong",
+      "frequency_mhz": "87,5 (xã Châu Thôn) 93,2 (thị trấn Kim Sơn)",
+      "channel": "Quế Phong",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh thị xã Thái Hòa",
+      "frequency_mhz": "88,0",
+      "channel": "Thái Hòa",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh huyện Kỳ Sơn",
+      "frequency_mhz": "88,0",
+      "channel": "Kỳ Sơn",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh huyện Quỳnh Lưu",
+      "frequency_mhz": "88,4",
+      "channel": "Quỳnh Lưu",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh huyện Nam Đàn",
+      "frequency_mhz": "89,3",
+      "channel": "Nam Đàn",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh huyện Quỳ Châu",
+      "frequency_mhz": "89,9 (thị trấn Tân Lạc) 90,1 (xã Châu Bình) 98,9 (xã Châu Bính)",
+      "channel": "Quỳ Châu",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Trạm phát sóng FM Đô Lương",
+      "frequency_mhz": "90,2",
+      "channel": "VOV2, VOV4",
+      "note": "Đô Lương (cũ)"
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh huyện Nghĩa Đàn",
+      "frequency_mhz": "90,5",
+      "channel": "Nghĩa Đàn",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh huyện Quỳ Hợp",
+      "frequency_mhz": "92,4",
+      "channel": "Quỳ Hợp",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh huyện Yên Thành",
+      "frequency_mhz": "92,8",
+      "channel": "Yên Thành",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh huyện Diễn Châu",
+      "frequency_mhz": "93,4",
+      "channel": "Diễn Châu",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Báo và PT–TH Nghệ An",
+      "frequency_mhz": "93,5",
+      "channel": "VOV2",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh huyện Con Cuông",
+      "frequency_mhz": "93,5",
+      "channel": "Con Cuông",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Trạm phát sóng FM Quế Phong",
+      "frequency_mhz": "94,0",
+      "channel": "VOV1, VOV4",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh huyện Thanh Chương",
+      "frequency_mhz": "94,1",
+      "channel": "Thanh Chương",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Báo và PT–TH Nghệ An",
+      "frequency_mhz": "94,2",
+      "channel": "VOV3",
+      "note": "cũ"
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh huyện Tân Kỳ",
+      "frequency_mhz": "94,5",
+      "channel": "Tân Kỳ",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh huyện Tương Dương",
+      "frequency_mhz": "94,6",
+      "channel": "Tương Dương",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Trạm phát sóng FM Quỳ Hợp và Kỳ Sơn",
+      "frequency_mhz": "95,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Trạm phát sóng FM Quỳ Hợp",
+      "frequency_mhz": "95,5",
+      "channel": "VOV3",
+      "note": "Quỳ Hợp cũ"
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh huyện Anh Sơn",
+      "frequency_mhz": "96,2",
+      "channel": "Anh Sơn",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Trạm phát sóng FM Huồi Tụ, Kỳ Sơn",
+      "frequency_mhz": "97,0",
+      "channel": "VOV2, VOV4",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh huyện Đô Lương",
+      "frequency_mhz": "97,2",
+      "channel": "Đô Lương",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Trạm phát sóng FM Nghĩa Đàn",
+      "frequency_mhz": "97,3",
+      "channel": "VOV2, VOV4",
+      "note": "Nghĩa Đàn (cũ)"
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh huyện Nghi Lộc",
+      "frequency_mhz": "98,7",
+      "channel": "Nghi Lộc",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Báo và PT,TH Nghệ An",
+      "frequency_mhz": "98,3 → 99,6",
+      "channel": "Nghệ An",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Trạm phát sóng FM Con Cuông",
+      "frequency_mhz": "100,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh huyện Hưng Nguyên",
+      "frequency_mhz": "100,2",
+      "channel": "Hưng Nguyên",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Trạm phát sóng FM Quỳ Hợp",
+      "frequency_mhz": "100,5",
+      "channel": "VOV2 (cũ)",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh thị xã Cửa Lò",
+      "frequency_mhz": "100,7",
+      "channel": "Cửa Lò",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Trạm phát sóng FM Quỳ Hợp",
+      "frequency_mhz": "101,5",
+      "channel": "VOV1",
+      "note": "Quỳ Hợp (cũ)"
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Trạm phát sóng FM Quỳ Hợp",
+      "frequency_mhz": "103,0",
+      "channel": "VOV4",
+      "note": "Quỳ Hợp (cũ)"
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Trạm phát sóng FM Tương Dương",
+      "frequency_mhz": "103,5",
+      "channel": "VOV2",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Trạm phát sóng FM Tương Dương",
+      "frequency_mhz": "104,0",
+      "channel": "VOV2 (Tương Dương cũ) VOV3 (Tây Nghệ An)",
+      "note": ""
+    },
+    {
+      "province": "Nghệ An",
+      "station": "Đài phát thanh TP. Vinh",
+      "frequency_mhz": "104,6",
+      "channel": "Vinh",
+      "note": ""
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Đài phát thanh huyện Nghi Xuân",
+      "frequency_mhz": "90,5",
+      "channel": "Nghi Xuân",
+      "note": ""
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Đài phát thanh huyện Can Lộc",
+      "frequency_mhz": "91,0",
+      "channel": "Can Lộc",
+      "note": ""
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Trạm phát sóng FM Núi Thiên Tượng",
+      "frequency_mhz": "91,0",
+      "channel": "VOV Giao thông",
+      "note": "cũ"
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Đài phát thanh TX. Hồng Lĩnh",
+      "frequency_mhz": "91,5",
+      "channel": "Hồng Lĩnh",
+      "note": ""
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Báo và PT–TH Hà Tĩnh",
+      "frequency_mhz": "92,5",
+      "channel": "VOV2 (cũ)",
+      "note": "TP. Hà Tĩnh"
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Đài phát thanh TP. Hà Tĩnh",
+      "frequency_mhz": "92,6",
+      "channel": "TP. Hà Tĩnh",
+      "note": ""
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Đài phát thanh huyện Lộc Hà",
+      "frequency_mhz": "94,0",
+      "channel": "Lộc Hà",
+      "note": ""
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Trạm phát sóng FM Hương Khê",
+      "frequency_mhz": "94,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Đài phát thanh huyện Đức Thọ",
+      "frequency_mhz": "94,7 → 94,4",
+      "channel": "Đức Thọ",
+      "note": ""
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Đài phát thanh huyện Kỳ Anh",
+      "frequency_mhz": "94,5",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Báo và PT,TH Hà Tĩnh",
+      "frequency_mhz": "95,0",
+      "channel": "VOV1",
+      "note": "TP. Hà Tĩnh"
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Trạm phát sóng Núi Thiên Tượng",
+      "frequency_mhz": "103,5 → 95,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Đài phát thanh huyện Cẩm Xuyên",
+      "frequency_mhz": "95,3",
+      "channel": "Cẩm Xuyên",
+      "note": ""
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Đài phát thanh huyện Thạch Hà",
+      "frequency_mhz": "96,2",
+      "channel": "Thạch Hà",
+      "note": ""
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Trạm phát sóng Núi Thiên Tượng",
+      "frequency_mhz": "96,5",
+      "channel": "VOV2",
+      "note": ""
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Đài phát thanh huyện Hương Khê",
+      "frequency_mhz": "97,4",
+      "channel": "Hương Khê",
+      "note": ""
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Báo và PT,TH Hà Tĩnh",
+      "frequency_mhz": "97,8",
+      "channel": "Hà Tĩnh",
+      "note": ""
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Trạm phát sóng FM Hương Khê",
+      "frequency_mhz": "99,0",
+      "channel": "VOV1",
+      "note": "Hương Khê"
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Đài phát thanh TX. Kỳ Anh",
+      "frequency_mhz": "99,0",
+      "channel": "TX. Kỳ Anh",
+      "note": ""
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Đài phát thanh huyện Hương Sơn",
+      "frequency_mhz": "99,0",
+      "channel": "Hương Sơn",
+      "note": ""
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Trạm phát sóng FM Hương Khê",
+      "frequency_mhz": "100,2",
+      "channel": "VOV2 (cũ)",
+      "note": "Hương Khê"
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Trạm phát sóng Núi Thiên Tượng",
+      "frequency_mhz": "101,0",
+      "channel": "VOV3 (cũ)",
+      "note": "TX. Hồng Lĩnh"
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Trạm phát sóng FM Núi Thiên Tượng",
+      "frequency_mhz": "102,7",
+      "channel": "VOV3",
+      "note": ""
+    },
+    {
+      "province": "Hà Tĩnh",
+      "station": "Đài phát thanh huyện Vũ Quang",
+      "frequency_mhz": "106,0 → 104,9",
+      "channel": "Vũ Quang",
+      "note": ""
+    },
+    {
+      "province": "Quảng Trị",
+      "station": "Trạm phát sóng FM Báo và PT,TH Quảng Trị",
+      "frequency_mhz": "88,5",
+      "channel": "VOV Giao thông",
+      "note": "cũ"
+    },
+    {
+      "province": "Quảng Trị",
+      "station": "Đài phát thanh huyện Cam Lộ",
+      "frequency_mhz": "88,6",
+      "channel": "Cam Lộ",
+      "note": ""
+    },
+    {
+      "province": "Quảng Trị",
+      "station": "Báo và PT,TH Quảng Trị",
+      "frequency_mhz": "89,5",
+      "channel": "VOV3/VOH + Quảng Trị",
+      "note": ""
+    },
+    {
+      "province": "Quảng Trị",
+      "station": "Báo và PT,TH Quảng Trị",
+      "frequency_mhz": "92,2 → 92,5 (tần số chính)",
+      "channel": "Quảng Trị",
+      "note": ""
+    },
+    {
+      "province": "Quảng Trị",
+      "station": "Đài phát thanh huyện Cồn Cỏ",
+      "frequency_mhz": "93,5",
+      "channel": "Cồn Cỏ",
+      "note": ""
+    },
+    {
+      "province": "Quảng Trị",
+      "station": "Báo và PT–TH Quảng Trị",
+      "frequency_mhz": "102,0 → 94,0",
+      "channel": "VOV1",
+      "note": "TP. Đông Hà"
+    },
+    {
+      "province": "Quảng Trị",
+      "station": "Báo và PT–TH Quảng Trị",
+      "frequency_mhz": "96,5",
+      "channel": "VOV2",
+      "note": "cũ"
+    },
+    {
+      "province": "Quảng Trị",
+      "station": "Đài phát thanh huyện Vĩnh Linh",
+      "frequency_mhz": "96,8",
+      "channel": "Vĩnh Linh",
+      "note": ""
+    },
+    {
+      "province": "Quảng Trị",
+      "station": "Đài phát thanh huyện Đakrông",
+      "frequency_mhz": "96,9",
+      "channel": "Đakrông",
+      "note": ""
+    },
+    {
+      "province": "Quảng Trị",
+      "station": "Đài phát thanh huyện Hướng Hóa",
+      "frequency_mhz": "97,2",
+      "channel": "Hướng Hóa",
+      "note": "Trạm phát đặt tại thị trấn Khe Sanh"
+    },
+    {
+      "province": "Quảng Trị",
+      "station": "Đài phát thanh TP. Đông Hà",
+      "frequency_mhz": "97,8",
+      "channel": "Đông Hà",
+      "note": ""
+    },
+    {
+      "province": "Quảng Trị",
+      "station": "Đài phát thanh huyện Hải Lăng",
+      "frequency_mhz": "98,0",
+      "channel": "Hải Lăng",
+      "note": ""
+    },
+    {
+      "province": "Quảng Trị",
+      "station": "Đài phát thanh TX. Quảng Trị",
+      "frequency_mhz": "99,2",
+      "channel": "TX. Quảng Trị",
+      "note": ""
+    },
+    {
+      "province": "Quảng Trị",
+      "station": "Trạm phát sóng FM Khe Sanh",
+      "frequency_mhz": "100,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Quảng Trị",
+      "station": "Báo và PT,TH Quảng Trị",
+      "frequency_mhz": "101,0",
+      "channel": "VOV3",
+      "note": "cũ"
+    },
+    {
+      "province": "Quảng Trị",
+      "station": "Trạm phát sóng FM Thị trấn Lao Bảo",
+      "frequency_mhz": "101,5",
+      "channel": "VOV4 (khu vực miền Trung)",
+      "note": ""
+    },
+    {
+      "province": "Quảng Trị",
+      "station": "Đài phát thanh huyện Gio Linh",
+      "frequency_mhz": "104,0",
+      "channel": "Gio Linh",
+      "note": ""
+    },
+    {
+      "province": "Quảng Trị",
+      "station": "Đài phát thanh huyện Triệu Phong",
+      "frequency_mhz": "105,6 → 104,9",
+      "channel": "Triệu Phong",
+      "note": ""
+    },
+    {
+      "province": "TP. Huế",
+      "station": "Trạm phát sóng FM Núi Bạch Mã",
+      "frequency_mhz": "87,4 → 99,5",
+      "channel": "VOV2",
+      "note": "cũ"
+    },
+    {
+      "province": "TP. Huế",
+      "station": "Đài phát thanh huyện Phong Điền",
+      "frequency_mhz": "88,0",
+      "channel": "Phong Điền",
+      "note": ""
+    },
+    {
+      "province": "TP. Huế",
+      "station": "Trạm phát sóng FM A Lưới",
+      "frequency_mhz": "90,0",
+      "channel": "VOV4 (khu vực miền Trung)",
+      "note": ""
+    },
+    {
+      "province": "TP. Huế",
+      "station": "Đài phát thanh TP. Huế",
+      "frequency_mhz": "90,7",
+      "channel": "Huế",
+      "note": ""
+    },
+    {
+      "province": "TP. Huế",
+      "station": "Đài phát thanh TX. Hương Trà",
+      "frequency_mhz": "91,5",
+      "channel": "Hương Trà",
+      "note": ""
+    },
+    {
+      "province": "TP. Huế",
+      "station": "Đài phát thanh huyện Phú Vang",
+      "frequency_mhz": "91,9",
+      "channel": "Phú Vang",
+      "note": ""
+    },
+    {
+      "province": "TP. Huế",
+      "station": "Báo và PT-TH Huế",
+      "frequency_mhz": "93,3 → 93,0 96,0 106,1",
+      "channel": "Huế",
+      "note": "Tần số 96,0 MHz phát với công suất 20 W, tại trạm phát lại phường Thủy Dương, thị xã Hương Thủy. Tần số 106,1 MHz phát với công suất 10 kW, tần số 93,0 MHz phát với công suất 2 kW. Phát sóng từ 5h00–22h00 hàng ngày."
+    },
+    {
+      "province": "TP. Huế",
+      "station": "Đài phát thanh huyện Nam Đông",
+      "frequency_mhz": "93,5",
+      "channel": "Nam Đông",
+      "note": "Phát chính vào chiều thứ 6 và sáng thứ 7 hàng tuần, thời lượng chương trình từ 30–40 phút. Chuyên mục \"Vì an ninh tổ quốc, vì hạnh phúc nhân dân\" phát sóng vào chiều thứ 4 và sáng Chủ Nhật hàng tuần, thời lượng 10–15 phút. Tuyên truyền chung phát vào sáng thứ 6 hàng tuần, thời lượng 10 phút. Tiếp sóng VOV1 từ 4h45–6h30, 11h00–12h00, 17h00–19h00 hàng ngày. Chương trình buổi sáng phát sóng từ 6h30, buổi chiều từ 16h30."
+    },
+    {
+      "province": "TP. Huế",
+      "station": "Đài phát thanh huyện Quảng Điền",
+      "frequency_mhz": "94,3",
+      "channel": "Quảng Điền",
+      "note": ""
+    },
+    {
+      "province": "TP. Huế",
+      "station": "Trạm phát sóng FM Núi Bạch Mã",
+      "frequency_mhz": "87,4 → 95,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "TP. Huế",
+      "station": "Đài phát thanh TX. Hương Thủy",
+      "frequency_mhz": "95,3",
+      "channel": "Hương Thủy",
+      "note": ""
+    },
+    {
+      "province": "TP. Huế",
+      "station": "Đài phát thanh huyện A Lưới",
+      "frequency_mhz": "96,0",
+      "channel": "A Lưới",
+      "note": ""
+    },
+    {
+      "province": "TP. Huế",
+      "station": "Đài phát thanh huyện Phú Lộc",
+      "frequency_mhz": "98,0",
+      "channel": "Phú Lộc",
+      "note": ""
+    },
+    {
+      "province": "TP. Huế",
+      "station": "Trạm phát sóng FM A Lưới",
+      "frequency_mhz": "100,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "TP. Huế",
+      "station": "Trạm phát sóng FM Núi Bạch Mã",
+      "frequency_mhz": "103,0 → 101,5",
+      "channel": "VOV3",
+      "note": ""
+    },
+    {
+      "province": "TP. Huế",
+      "station": "Trạm phát sóng FM Núi Bạch Mã",
+      "frequency_mhz": "104,5",
+      "channel": "VOV 24/7",
+      "note": ""
+    },
+    {
+      "province": "Đà Nẵng",
+      "station": "Trạm phát sóng núi Sơn Trà",
+      "frequency_mhz": "89,0",
+      "channel": "VOV Sonata FM89",
+      "note": "Trước đây là kênh VOV Sức khỏe. Từ ngày 20 tháng 10 năm 2026, VOV ra mắt và phát sóng kênh VOV Sonata - FM89"
+    },
+    {
+      "province": "Đà Nẵng",
+      "station": "Đài phát thanh quận Liên Chiểu",
+      "frequency_mhz": "90,5",
+      "channel": "Liên Chiểu",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đà Nẵng",
+      "station": "Trạm phát sóng núi Sơn Trà",
+      "frequency_mhz": "91,0",
+      "channel": "VOV Giao thông Duyên Hải VOV5 (cũ)",
+      "note": "VOV Giao thông Duyên Hải được phát sóng chính thức từ ngày 11 tháng 8 năm 2025"
+    },
+    {
+      "province": "Đà Nẵng",
+      "station": "Đài phát thanh quận Cẩm Lệ",
+      "frequency_mhz": "92,7",
+      "channel": "Cẩm Lệ",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đà Nẵng",
+      "station": "Đài phát thanh quận Ngũ Hành Sơn",
+      "frequency_mhz": "93,2",
+      "channel": "Ngũ Hành Sơn",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đà Nẵng",
+      "station": "Đài phát thanh quận Ngũ Hành Sơn",
+      "frequency_mhz": "93,4",
+      "channel": "Ngũ Hành Sơn (chương trình ATGT)",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đà Nẵng",
+      "station": "Đài phát thanh quận Sơn Trà",
+      "frequency_mhz": "94,5",
+      "channel": "Sơn Trà",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đà Nẵng",
+      "station": "Đài phát thanh huyện Hòa Vang",
+      "frequency_mhz": "95,8",
+      "channel": "Hòa Vang",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đà Nẵng",
+      "station": "Trạm phát sóng núi Sơn Trà",
+      "frequency_mhz": "89 (cũ) → 96,5",
+      "channel": "VOV2",
+      "note": "Áp dụng từ tháng 12 năm 2018"
+    },
+    {
+      "province": "Đà Nẵng",
+      "station": "Núi Sơn Trà",
+      "frequency_mhz": "96,3 → 98,5",
+      "channel": "Đà Nẵng",
+      "note": "Phát sóng từ 05h25 – 24h00 hàng ngày, tiếp sóng kênh FM99.9 MHz (VOH) vào 2 buổi/ngày: 12h00 – 16h00, 22h00 – 24h00 (Từ tháng 3 năm 2026)"
+    },
+    {
+      "province": "Đà Nẵng",
+      "station": "Trạm phát sóng núi Sơn Trà",
+      "frequency_mhz": "100,0",
+      "channel": "VOV3 (cũ), VOV1+4 (cũ) → VOV1",
+      "note": "Áp dụng từ tháng 12 năm 2018"
+    },
+    {
+      "province": "Đà Nẵng",
+      "station": "Trạm phát sóng núi Bà Nà",
+      "frequency_mhz": "102,5",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Đà Nẵng",
+      "station": "Trạm phát sóng núi Sơn Trà",
+      "frequency_mhz": "102.5 (cũ) → 102,7",
+      "channel": "VOV3",
+      "note": "Áp dụng từ tháng 12/2018"
+    },
+    {
+      "province": "Đà Nẵng",
+      "station": "Trạm phát sóng núi Sơn Trà",
+      "frequency_mhz": "104,0 & 105,5",
+      "channel": "VOV Tiếng Anh 24/7 & VOV5",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Đài phát thanh huyện Sơn Tây",
+      "frequency_mhz": "88,8",
+      "channel": "Sơn Tây",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Đài phát thanh huyện Tây Trà (cũ)",
+      "frequency_mhz": "90,5",
+      "channel": "Tây Trà (cũ)",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Đài phát thanh huyện Mộ Đức",
+      "frequency_mhz": "91,0",
+      "channel": "Mộ Đức",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Báo và PT–TH Quảng Ngãi",
+      "frequency_mhz": "91,5",
+      "channel": "VOV Giao thông (cũ)",
+      "note": "Không còn hoạt động"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Đài phát thanh huyện Sơn Hà",
+      "frequency_mhz": "87,9 → 91,9",
+      "channel": "Sơn Hà",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Báo và PT–TH Quảng Ngãi",
+      "frequency_mhz": "95,5 → 94,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Đài phát thanh huyện Trà Bồng",
+      "frequency_mhz": "98,5 → 94,6",
+      "channel": "Trà Bồng",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Đài phát thanh huyện Lý Sơn",
+      "frequency_mhz": "93,3",
+      "channel": "Lý Sơn",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Đài phát thanh huyện Lý Sơn",
+      "frequency_mhz": "95",
+      "channel": "Lý Sơn",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Đài phát thanh TP. Quảng Ngãi",
+      "frequency_mhz": "89,0 → 95,0",
+      "channel": "TP. Quảng Ngãi",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Báo và PT,TH Quảng Ngãi",
+      "frequency_mhz": "95,5",
+      "channel": "Quảng Ngãi",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Đài phát thanh huyện Minh Long",
+      "frequency_mhz": "96,0",
+      "channel": "Minh Long",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Đài phát thanh huyện Sơn Tịnh",
+      "frequency_mhz": "96,8",
+      "channel": "Sơn Tịnh",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Đài phát thanh TX. Đức Phổ",
+      "frequency_mhz": "97,4",
+      "channel": "Đức Phổ",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Báo và PT,TH Quảng Ngãi",
+      "frequency_mhz": "92,5 → 99,5",
+      "channel": "VOV2",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Báo và PT,TH Quảng Ngãi",
+      "frequency_mhz": "93,5 → 101,0",
+      "channel": "VOV3",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Báo và PT,TH Quảng Ngãi",
+      "frequency_mhz": "102,9",
+      "channel": "Quảng Ngãi",
+      "note": ""
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Đài phát thanh huyện Bình Sơn",
+      "frequency_mhz": "94,1 → 103,3",
+      "channel": "Bình Sơn",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Đài phát thanh huyện Nghĩa Hành",
+      "frequency_mhz": "94,0 → 103,7",
+      "channel": "Nghĩa Hành",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Đài phát thanh huyện Ba Tơ",
+      "frequency_mhz": "104,5",
+      "channel": "Ba Tơ",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Quảng Ngãi",
+      "station": "Đài phát thanh huyện Tư Nghĩa",
+      "frequency_mhz": "104,0 → 104,7",
+      "channel": "Tư Nghĩa",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Đài phát thanh huyện Cam Lâm",
+      "frequency_mhz": "91,0",
+      "channel": "Cam Lâm",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Đài phát sóng Đồng Đế",
+      "frequency_mhz": "91,0",
+      "channel": "VOV Giao Thông Duyên Hải",
+      "note": "Phát sóng chính thức từ ngày 11 tháng 8 năm 2025"
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Đài phát thanh huyện Khánh Sơn",
+      "frequency_mhz": "94,2",
+      "channel": "Khánh Sơn",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Trạm phát sóng xã Ninh Sơn, thị xã Ninh Hòa",
+      "frequency_mhz": "94,9",
+      "channel": "Khánh Hòa",
+      "note": ""
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Đài phát sóng Đồng Đế",
+      "frequency_mhz": "97,8 → 95,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Đài phát thanh huyện Vạn Ninh",
+      "frequency_mhz": "96,4",
+      "channel": "Vạn Ninh",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Đài phát sóng Đồng Đế",
+      "frequency_mhz": "104,0 → 96,5",
+      "channel": "VOV2",
+      "note": ""
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Đài phát thanh huyện Khánh Sơn",
+      "frequency_mhz": "96,5",
+      "channel": "Khánh Sơn",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Đài phát thanh huyện Diên Khánh",
+      "frequency_mhz": "96,7",
+      "channel": "Diên Khánh",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Đài phát thanh huyện Khánh Vĩnh",
+      "frequency_mhz": "98,5",
+      "channel": "Khánh Vĩnh",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Trạm phát sóng đảo Trường Sa Lớn",
+      "frequency_mhz": "100,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Đài phát sóng Đồng Đế",
+      "frequency_mhz": "101,0",
+      "channel": "VOV3",
+      "note": ""
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Đài phát thanh TP. Cam Ranh",
+      "frequency_mhz": "101,0",
+      "channel": "Cam Ranh",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Trạm phát sóng núi Hòn Bà",
+      "frequency_mhz": "101,0",
+      "channel": "VOV4 (cũ)",
+      "note": ""
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Trạm phát sóng Hầm đường bộ Đèo Cả",
+      "frequency_mhz": "102,7",
+      "channel": "VOV3, VOV4 (khu vực miền Trung)",
+      "note": ""
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Báo và PT,TH Khánh Hòa",
+      "frequency_mhz": "103,3",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Đài phát sóng Đồng Đế",
+      "frequency_mhz": "104,0",
+      "channel": "VOV Tiếng Anh 24/7",
+      "note": ""
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Đài phát thanh TP. Nha Trang",
+      "frequency_mhz": "105,5",
+      "channel": "Nha Trang",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Báo và PT,TH Khánh Hòa – trung tâm truyền dẫn phát sóng",
+      "frequency_mhz": "101,7 → 106,5",
+      "channel": "Khánh Hòa",
+      "note": "Phát sóng từ 5h30–24h hàng ngày"
+    },
+    {
+      "province": "Khánh Hòa",
+      "station": "Đài phát thanh TX. Ninh Hòa",
+      "frequency_mhz": "106,8",
+      "channel": "Ninh Hòa",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh TX. Ayun Pa",
+      "frequency_mhz": "89,1",
+      "channel": "Ayun Pa",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh huyện Kbang",
+      "frequency_mhz": "90,0",
+      "channel": "Kbang",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh huyện Krông Pa",
+      "frequency_mhz": "90,1",
+      "channel": "Krông Pa/VOV1",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh huyện Kông Chro",
+      "frequency_mhz": "90,2",
+      "channel": "Kông Chro",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Báo và PT,TH Gia Lai – Núi Hàm Rồng",
+      "frequency_mhz": "90,5",
+      "channel": "VOV4 (khu vực Tây Nguyên)",
+      "note": ""
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh huyện Đức Cơ",
+      "frequency_mhz": "90,8",
+      "channel": "Đức Cơ",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh huyện Đak Pơ",
+      "frequency_mhz": "91,5",
+      "channel": "Đak Pơ",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh huyện Phú Thiện",
+      "frequency_mhz": "91,7",
+      "channel": "Phú Thiện",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Báo và PT,TH Gia Lai – Núi Hàm Rồng",
+      "frequency_mhz": "93,7",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh huyện Chư Păh",
+      "frequency_mhz": "94,2",
+      "channel": "Chư Păh",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh huyện Chư Prông",
+      "frequency_mhz": "95,0",
+      "channel": "Chư Prông",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh huyện Ia Grai",
+      "frequency_mhz": "95,0",
+      "channel": "Ia Grai",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh huyện Chư Sê",
+      "frequency_mhz": "95,5",
+      "channel": "VOV1, 4 (khu vực Miền Trung)",
+      "note": ""
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh huyện Krông Pa",
+      "frequency_mhz": "95,7",
+      "channel": "Krông Pa",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Trạm phát sóng Ayun, Chư Sê",
+      "frequency_mhz": "96,0",
+      "channel": "Gia Lai",
+      "note": ""
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh TP. Pleiku",
+      "frequency_mhz": "96,1",
+      "channel": "Pleiku",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Trạm phát sóng núi Hàm Rồng",
+      "frequency_mhz": "97,5 → 96,5",
+      "channel": "VOV2 (cũ)",
+      "note": "Không còn hoạt động"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh huyện Chư Sê",
+      "frequency_mhz": "97,0",
+      "channel": "Chư Sê",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh TX. An Khê",
+      "frequency_mhz": "98,5",
+      "channel": "An Khê",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh huyện Ia Pa",
+      "frequency_mhz": "99,0",
+      "channel": "Ia Pa",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh huyện Đak Đoa",
+      "frequency_mhz": "99,5",
+      "channel": "Đak Đoa",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Trạm phát sóng núi Hàm Rồng",
+      "frequency_mhz": "96,5 → 100,0",
+      "channel": "VOV1 (cũ)",
+      "note": "Không còn hoạt động"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài PT–TH Gia Lai – Núi Hàm Rồng",
+      "frequency_mhz": "102,0",
+      "channel": "Gia Lai",
+      "note": "Phát sóng từ 5h-23h hằng ngày"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Trạm phát sóng núi Hàm Rồng",
+      "frequency_mhz": "98,5 → 97,5 → 102,7",
+      "channel": "VOV3 (cũ)",
+      "note": "Không còn hoạt động"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh huyện Mang Yang",
+      "frequency_mhz": "106,0 → 103,8",
+      "channel": "Mang Yang",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Gia Lai",
+      "station": "Đài phát thanh huyện Chư Pưh",
+      "frequency_mhz": "106,3",
+      "channel": "Chư Pưh",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Trạm phát sóng Đèo Hà Lan",
+      "frequency_mhz": "102,7 → 88,0",
+      "channel": "VOV4 (khu vực Tây Nguyên)",
+      "note": ""
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Trạm phát sóng Đèo Hà Lan",
+      "frequency_mhz": "90,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Báo và PT,TH Đắk Lắk",
+      "frequency_mhz": "90,5",
+      "channel": "VOV4 (khu vực Tây Nguyên)",
+      "note": ""
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Trạm phát sóng đèo Hà Lan",
+      "frequency_mhz": "91,0",
+      "channel": "VOV Giao thông (cũ)",
+      "note": "Không còn hoạt động"
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Đài phát thanh TP. Buôn Ma Thuột",
+      "frequency_mhz": "91,3 → 91,9",
+      "channel": "Buôn Ma Thuột",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Báo và PT,TH Đắk Lắk",
+      "frequency_mhz": "92,4",
+      "channel": "Đắk Lắk",
+      "note": ""
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Đài phát thanh huyện Lắk",
+      "frequency_mhz": "93,0",
+      "channel": "Lắk",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Đài phát thanh TX. Buôn Hồ",
+      "frequency_mhz": "93,2",
+      "channel": "Buôn Hồ",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Đài phát thanh huyện Ea Súp",
+      "frequency_mhz": "93,4",
+      "channel": "Ea Súp",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Đài phát thanh huyện Krông Bông",
+      "frequency_mhz": "91,0 → 93,5 (thị trấn Krông Kmar) 100,7 (xã Cư Đrăm)",
+      "channel": "Krông Bông",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Trạm phát sóng đèo Hà Lan",
+      "frequency_mhz": "94,7",
+      "channel": "Đắk Lắk",
+      "note": "Phát sóng từ 4h45–24h hàng ngày, tiếp âm đài Tiếng nói Việt Nam VOV1 4 buổi: 4h45–5h00, 6h–6h30, 12h–16h và 18h–18h45"
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Đài phát thanh huyện Cư Kuin",
+      "frequency_mhz": "98,0 → 95,3",
+      "channel": "Cư Kuin",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Đài phát thanh huyện Buôn Đôn",
+      "frequency_mhz": "96,0",
+      "channel": "Buôn Đôn",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Đài phát thanh huyện Krông Búk",
+      "frequency_mhz": "97,7",
+      "channel": "Krông Búk",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Đài phát thanh huyện Krông Pắc",
+      "frequency_mhz": "98,1",
+      "channel": "Krông Pắc",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Đài phát thanh huyện Ea H'Leo (cũ)",
+      "frequency_mhz": "98,3",
+      "channel": "Ea Drăng",
+      "note": "Nay được đổi tên thành \" Trung tâm cung ứng Dịch vụ sự nghiệp công xã Ea Drăng \""
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Đài phát thanh huyện Cư M'gar",
+      "frequency_mhz": "98,5",
+      "channel": "Cư M'gar",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Đài phát thanh huyện Krong Ana",
+      "frequency_mhz": "99,1",
+      "channel": "Krong Ana",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Đài phát thanh huyện M'Đrăk",
+      "frequency_mhz": "99,2",
+      "channel": "M'Đrăk",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Báo và PT,TH Đắk Lắk",
+      "frequency_mhz": "102,7",
+      "channel": "VOV3",
+      "note": ""
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Trạm phát sóng đèo Hà Lan",
+      "frequency_mhz": "92,7 → 102,7",
+      "channel": "VOV2, VOV4 (khu vực miền Trung)",
+      "note": ""
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Đài phát thanh huyện Krông Năng",
+      "frequency_mhz": "103,5",
+      "channel": "Krông Năng",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Đài phát thanh huyện Ea Kar",
+      "frequency_mhz": "104,0",
+      "channel": "Eakar",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đắk Lắk",
+      "station": "Báo và PT,TH Đắk Lắk",
+      "frequency_mhz": "100,0",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Đài phát thanh huyện Đam Rông",
+      "frequency_mhz": "92,0",
+      "channel": "Đam Rông/Lâm Đồng",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Đài phát thanh huyện Đức Trọng",
+      "frequency_mhz": "92,0",
+      "channel": "Đức Trọng",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Đài phát thanh huyện Đạ Tẻh",
+      "frequency_mhz": "98,0 → 93,0",
+      "channel": "Đạ Tẻh/Lâm Đồng",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Đài phát thanh huyện Đam Rông",
+      "frequency_mhz": "93,3",
+      "channel": "Đam Rông/VOV3",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Trạm phát sóng FM Cầu Đất",
+      "frequency_mhz": "88,0 → 93,5",
+      "channel": "VOV4 (khu vực Tây Nguyên)",
+      "note": ""
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Đài phát thanh huyện Đơn Dương",
+      "frequency_mhz": "94,0",
+      "channel": "Đơn Dương",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Đài phát thanh huyện Di Linh",
+      "frequency_mhz": "94,5",
+      "channel": "Di Linh",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Đài phát thanh huyện Đạ Huoai",
+      "frequency_mhz": "96,2",
+      "channel": "Đạ Huoai",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Đài phát thanh huyện Bảo Lâm",
+      "frequency_mhz": "97,0",
+      "channel": "Lâm Đồng",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Đài phát thanh huyện Đạ Tẻh",
+      "frequency_mhz": "97,0",
+      "channel": "Lâm Đồng",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Báo và PT,TH Lâm Đồng",
+      "frequency_mhz": "97,0",
+      "channel": "Lâm Đồng",
+      "note": "Phát sóng từ 5h25–24h00 hàng ngày"
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Trạm phát sóng FM Cầu Đất",
+      "frequency_mhz": "97,0",
+      "channel": "Lâm Đồng (phường Xuân Trường - Đà Lạt)",
+      "note": ""
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Đài phát thanh TP. Bảo Lộc",
+      "frequency_mhz": "98,6",
+      "channel": "Bảo Lộc",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Đài phát thanh huyện Lâm Hà",
+      "frequency_mhz": "98,7",
+      "channel": "Lâm Hà",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Trạm phát sóng FM Cầu Đất",
+      "frequency_mhz": "100,0",
+      "channel": "VOV1, VOV4 (khu vực miền Trung)",
+      "note": ""
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Trạm phát sóng FM Cầu Đất",
+      "frequency_mhz": "101,5",
+      "channel": "VOV3",
+      "note": ""
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Đài phát thanh huyện Bảo Lâm",
+      "frequency_mhz": "98,0 → 102,0",
+      "channel": "Bảo Lâm",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Trạm phát sóng FM Cầu Đất",
+      "frequency_mhz": "103,5",
+      "channel": "VOV1 (cũ)",
+      "note": ""
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Đài phát thanh TP. Đà Lạt",
+      "frequency_mhz": "102,0 → 107,5 → 104,8",
+      "channel": "Đà Lạt",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Lâm Đồng",
+      "station": "Đài phát thanh huyện Cát Tiên",
+      "frequency_mhz": "105,5 → 104,8",
+      "channel": "Cát Tiên",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Tây Ninh",
+      "station": "Đài phát thanh huyện Châu Thành",
+      "frequency_mhz": "89,6",
+      "channel": "Châu Thành",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Tây Ninh",
+      "station": "Đài phát thanh huyện Tân Biên",
+      "frequency_mhz": "91,3",
+      "channel": "Tân Biên",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Tây Ninh",
+      "station": "Đài phát thanh huyện Tân Châu",
+      "frequency_mhz": "106,1 → 93,3",
+      "channel": "Tân Châu",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Tây Ninh",
+      "station": "Đài phát thanh TX. Trảng Bàng",
+      "frequency_mhz": "94,9",
+      "channel": "Trảng Bàng",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Tây Ninh",
+      "station": "Đài phát thanh TP. Tây Ninh",
+      "frequency_mhz": "95,1",
+      "channel": "TP. Tây Ninh",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Tây Ninh",
+      "station": "Đài phát thanh huyện Bến Cầu",
+      "frequency_mhz": "96,3",
+      "channel": "Bến Cầu",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Tây Ninh",
+      "station": "Đài phát thanh TX. Hòa Thành",
+      "frequency_mhz": "96,7",
+      "channel": "Hòa Thành",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Tây Ninh",
+      "station": "Trạm phát sóng núi Bà Đen cũ",
+      "frequency_mhz": "99",
+      "channel": "VOV Giao thông",
+      "note": ""
+    },
+    {
+      "province": "Tây Ninh",
+      "station": "Đài phát thanh huyện Dương Minh Châu",
+      "frequency_mhz": "99,4",
+      "channel": "Dương Minh Châu",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Tây Ninh",
+      "station": "Đài phát thanh huyện Gò Dầu",
+      "frequency_mhz": "100,4",
+      "channel": "Gò Dầu",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Tây Ninh",
+      "station": "Trạm phát sóng núi Bà Đen",
+      "frequency_mhz": "101,0",
+      "channel": "VOV1/Núi Bà Đen (cũ) VOV3",
+      "note": ""
+    },
+    {
+      "province": "Tây Ninh",
+      "station": "Báo và PT,TH Tây Ninh",
+      "frequency_mhz": "96,9 (chính, Long An cũ) 103,1 (luồng tiếp sóng FM 96,9 MHz)",
+      "channel": "Tây Ninh",
+      "note": "Phát sóng từ 5h00–23h00 hàng ngày"
+    },
+    {
+      "province": "Đồng Nai",
+      "station": "Đài phát thanh huyện Nhơn Trạch",
+      "frequency_mhz": "88,4",
+      "channel": "Nhơn Trạch",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Nai",
+      "station": "Đài phát thanh huyện Thống Nhất",
+      "frequency_mhz": "88,6",
+      "channel": "Thống Nhất",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Nai",
+      "station": "Núi Chứa Chan, Xuân Lộc",
+      "frequency_mhz": "89,7",
+      "channel": "Đồng Nai",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Nai",
+      "station": "Đài phát thanh huyện Tân Phú",
+      "frequency_mhz": "90,6",
+      "channel": "Tân Phú",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Nai",
+      "station": "Đài phát thanh TP. Biên Hòa",
+      "frequency_mhz": "106,0 → 92,8",
+      "channel": "Biên Hòa",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Nai",
+      "station": "Đài phát thanh huyện Cẩm Mỹ",
+      "frequency_mhz": "93,3",
+      "channel": "Cẩm Mỹ",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Nai",
+      "station": "Đài phát thanh huyện Định Quán",
+      "frequency_mhz": "93,4",
+      "channel": "Định Quán",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Nai",
+      "station": "Đài phát thanh huyện Vĩnh Cửu",
+      "frequency_mhz": "94,5",
+      "channel": "Vĩnh Cửu",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Nai",
+      "station": "Đài phát thanh huyện Xuân Lộc",
+      "frequency_mhz": "94,6",
+      "channel": "Xuân Lộc",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Nai",
+      "station": "Báo và PT, TH Đồng Nai",
+      "frequency_mhz": "95,0",
+      "channel": "VOV5",
+      "note": "Không còn hoạt động"
+    },
+    {
+      "province": "Đồng Nai",
+      "station": "Đài phát thanh TP. Long Khánh",
+      "frequency_mhz": "95,3",
+      "channel": "Long Khánh",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Nai",
+      "station": "Báo và PT, TH Đồng Nai",
+      "frequency_mhz": "97,5 (chính) 89,4 (Bình Phước cũ, luồng tiếp sóng FM 97,5 MHz)",
+      "channel": "Đồng Nai",
+      "note": "Phát sóng từ 4h30–23h00 hàng ngày"
+    },
+    {
+      "province": "Đồng Nai",
+      "station": "Đài phát thanh huyện Long Thành",
+      "frequency_mhz": "107,3 → 104,2 → 103,1",
+      "channel": "Long Thành",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Nai",
+      "station": "Đài phát thanh huyện Trảng Bom",
+      "frequency_mhz": "103,8",
+      "channel": "Trảng Bom",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Đài PT-TH TP. Hồ Chí Minh",
+      "frequency_mhz": "87,7",
+      "channel": "VOH4",
+      "note": "Phát sóng từ 05h00 → 23h00 hằng ngày"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Trạm phát sóng Quán Tre",
+      "frequency_mhz": "89",
+      "channel": "VOV3 (cũ) → VOV Sonata - FM 89 (hay VOV Sonata)",
+      "note": "Trước đây là kênh VOV Sức Khỏe. Từ ngày 20 tháng 10 năm 2026, VOV ra mắt và phát sóng kênh VOV Sonata - FM89 Phát sóng 24/24h"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Trạm phát sóng Quán Tre",
+      "frequency_mhz": "91",
+      "channel": "VOV Giao thông TP. HCM",
+      "note": "Phát sóng 24/24h"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Đài PT-TH TP. Hồ Chí Minh",
+      "frequency_mhz": "92",
+      "channel": "VOH-M",
+      "note": "Phát sóng từ 04h00 → 24h00 hằng ngày FM 92: Khu vực tỉnh BR-VT cũ FM 92,5: Khu vực tỉnh Bình Dương cũ"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Đài PT-TH TP. Hồ Chí Minh",
+      "frequency_mhz": "92,5",
+      "channel": "VOH-M",
+      "note": "Phát sóng từ 04h00 → 24h00 hằng ngày FM 92: Khu vực tỉnh BR-VT cũ FM 92,5: Khu vực tỉnh Bình Dương cũ"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Đài phát thanh huyện Hóc Môn",
+      "frequency_mhz": "93",
+      "channel": "Hóc Môn",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Trạm phát sóng Quán Tre",
+      "frequency_mhz": "94",
+      "channel": "VOV1",
+      "note": "Phát sóng 24/24h"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Đài PT-TH TP. Hồ Chí Minh",
+      "frequency_mhz": "95,6",
+      "channel": "VOH3",
+      "note": "Phát sóng từ 05h00 → 23h00 hằng ngày"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Đài phát sóng Quán Tre",
+      "frequency_mhz": "96,5",
+      "channel": "VOV2",
+      "note": "Phát sóng từ 04h45 → 24h00 hàng ngày"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Đài phát thanh huyện Nhà Bè",
+      "frequency_mhz": "96,5 → 98,3",
+      "channel": "Nhà Bè",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Đài phát thanh huyện Củ Chi",
+      "frequency_mhz": "106,5 → 99,2",
+      "channel": "Củ Chi",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Đài PT-TH TP. Hồ Chí Minh",
+      "frequency_mhz": "99,9",
+      "channel": "VOH2",
+      "note": "Phát sóng 24/24h"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Trạm phát sóng Quán Tre",
+      "frequency_mhz": "102,7",
+      "channel": "VOV3",
+      "note": "Phát sóng từ 05h00 → 24h00 hằng ngày"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Đài Truyền hình TP. HCM",
+      "frequency_mhz": "103",
+      "channel": "VOH (cũ)",
+      "note": "Không còn hoạt động"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Đài phát thanh huyện Bình Chánh",
+      "frequency_mhz": "103,4",
+      "channel": "Bình Chánh",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Trạm phát sóng Quán Tre",
+      "frequency_mhz": "104",
+      "channel": "VOV Tiếng anh 24/7",
+      "note": "Phát sóng từ 06h00 → 24h00 hàng ngày"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Đài phát sóng Quán Tre",
+      "frequency_mhz": "104,5",
+      "channel": "VOV2 (cũ)",
+      "note": "Không còn hoạt động"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Đài phát thanh huyện Cần Giờ",
+      "frequency_mhz": "105,0 → 104,6",
+      "channel": "Cần Giờ",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Đài phát sóng Quán Tre",
+      "frequency_mhz": "105,7",
+      "channel": "VOV5",
+      "note": "Phát sóng từ 05h00 → 24h00 hàng ngày"
+    },
+    {
+      "province": "Thành phố Hồ Chí Minh",
+      "station": "Đài PT-TH TP. Hồ Chí Minh",
+      "frequency_mhz": "AM 610 KHz",
+      "channel": "VOH1",
+      "note": "Phát sóng từ 04h00 → 24h00 hàng ngày"
+    },
+    {
+      "province": "Đồng Tháp",
+      "station": "Đài phát thanh huyện Thanh Bình",
+      "frequency_mhz": "89,9",
+      "channel": "Thanh Bình",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Tháp",
+      "station": "Đài phát thanh huyện Lai Vung",
+      "frequency_mhz": "95,0 → 91,4",
+      "channel": "Lai Vung",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Tháp",
+      "station": "Đài phát thanh huyện Lấp Vò",
+      "frequency_mhz": "92,0",
+      "channel": "Lấp Vò",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Tháp",
+      "station": "Đài phát thanh huyện Tân Hồng",
+      "frequency_mhz": "92,4",
+      "channel": "Tân Hồng",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Tháp",
+      "station": "Đài phát thanh TP. Sa Đéc",
+      "frequency_mhz": "95,8",
+      "channel": "TP. Sa Đéc",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Tháp",
+      "station": "Đài phát thanh TP. Cao Lãnh",
+      "frequency_mhz": "96,4",
+      "channel": "TP. Cao Lãnh",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Tháp",
+      "station": "Đài phát thanh TP. Hồng Ngự",
+      "frequency_mhz": "96,5",
+      "channel": "TP. Hồng Ngự",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Tháp",
+      "station": "Đài phát thanh huyện Tháp Mười",
+      "frequency_mhz": "97,6",
+      "channel": "Tháp Mười",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Tháp",
+      "station": "Báo và PT,TH Đồng Tháp",
+      "frequency_mhz": "96,2 (chính, Tiền Giang cũ) 98,4 (luồng tiếp sóng FM 96,2 MHz)",
+      "channel": "Đồng Tháp",
+      "note": "Phát sóng từ 5h00–22h00"
+    },
+    {
+      "province": "Đồng Tháp",
+      "station": "Đài phát thanh huyện Tam Nông",
+      "frequency_mhz": "100,2",
+      "channel": "Tam Nông",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Tháp",
+      "station": "Đài phát thanh huyện Châu Thành",
+      "frequency_mhz": "100,8",
+      "channel": "Châu Thành",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Tháp",
+      "station": "Đài phát thanh huyện Hồng Ngự",
+      "frequency_mhz": "101,7",
+      "channel": "Hồng Ngự",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Đồng Tháp",
+      "station": "Đài phát thanh huyện Cao Lãnh",
+      "frequency_mhz": "102,9",
+      "channel": "Cao Lãnh",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Vĩnh Long",
+      "station": "Báo và PT,TH Vĩnh Long",
+      "frequency_mhz": "90,2 (chính) 92,7 (Trà Vinh cũ, luồng tiếp sóng FM 90,2 MHz) 97,9 (Bến Tre cũ, luồng tiếp sóng FM 90,2 MHz)",
+      "channel": "Vĩnh Long",
+      "note": "Phát sóng 24/24h"
+    },
+    {
+      "province": "Vĩnh Long",
+      "station": "Đài phát thanh huyện Vũng Liêm",
+      "frequency_mhz": "90,7",
+      "channel": "Vũng Liêm",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Vĩnh Long",
+      "station": "Đài phát thanh huyện Trà Ôn",
+      "frequency_mhz": "93,2",
+      "channel": "Trà Ôn",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Vĩnh Long",
+      "station": "Đài phát thanh TP. Vĩnh Long",
+      "frequency_mhz": "93,5",
+      "channel": "TP. Vĩnh Long",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Vĩnh Long",
+      "station": "Đài phát thanh huyện Mang Thít",
+      "frequency_mhz": "95,5",
+      "channel": "Mang Thít",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Vĩnh Long",
+      "station": "Đài phát thanh TX. Bình Minh",
+      "frequency_mhz": "96,0",
+      "channel": "Bình Minh",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Vĩnh Long",
+      "station": "Đài phát thanh huyện Long Hồ",
+      "frequency_mhz": "98,7",
+      "channel": "Long Hồ",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Vĩnh Long",
+      "station": "Đài phát thanh huyện Bình Tân",
+      "frequency_mhz": "106,4 → 98,9",
+      "channel": "Bình Tân",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Vĩnh Long",
+      "station": "Đài phát thanh huyện Tam Bình",
+      "frequency_mhz": "99,7",
+      "channel": "Tam Bình",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cần Thơ",
+      "station": "Đài phát sóng phát thanh VN2",
+      "frequency_mhz": "88,0",
+      "channel": "VOV4 (khu vực Đồng bằng Sông Cửu Long)",
+      "note": "Phát sóng từ 6h00 - 9h30 và 15h - 18h30 hằng ngày."
+    },
+    {
+      "province": "Cần Thơ",
+      "station": "Đài phát sóng phát thanh VN2",
+      "frequency_mhz": "89,0",
+      "channel": "VOV Sonata - FM89",
+      "note": "Trước đây là kênh VOV Sức Khỏe. Từ ngày 20 tháng 10 năm 2026, VOV ra mắt và phát sóng kênh VOV Sonata - FM89"
+    },
+    {
+      "province": "Cần Thơ",
+      "station": "Đài phát thanh huyện Vĩnh Thạnh",
+      "frequency_mhz": "89,2",
+      "channel": "Vĩnh Thạnh",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cần Thơ",
+      "station": "Đài phát sóng phát thanh VN2",
+      "frequency_mhz": "90,0",
+      "channel": "VOV Giao thông – Mekong FM",
+      "note": "Phát sóng 24/24h hàng ngày. Từ 6h–9h, 10h30–12h và 14h30–19h/20h là chương trình của Mekong FM, thời gian còn lại tiếp sóng VOV Giao thông TP. HCM."
+    },
+    {
+      "province": "Cần Thơ",
+      "station": "Đài phát thanh quận Ô Môn",
+      "frequency_mhz": "90,8 → 91,0",
+      "channel": "Ô Môn",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cần Thơ",
+      "station": "Đài phát thanh huyện Cờ Đỏ",
+      "frequency_mhz": "88,8 → 92,5",
+      "channel": "Cờ Đỏ",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cần Thơ",
+      "station": "Đài phát sóng phát thanh VN2",
+      "frequency_mhz": "90,0 → 102,5 → 94,0 → 102,0 (từ 01/10/2026)",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Cần Thơ",
+      "station": "Đài phát thanh quận Thốt Nốt",
+      "frequency_mhz": "94,0 → 95,3",
+      "channel": "Thốt Nốt",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cần Thơ",
+      "station": "Đài phát sóng phát thanh VN2",
+      "frequency_mhz": "96,5 → 92,2 (từ 01/10/2026)",
+      "channel": "VOV2",
+      "note": ""
+    },
+    {
+      "province": "Cần Thơ",
+      "station": "Báo và PT,TH Cần Thơ",
+      "frequency_mhz": "97,3 (kênh 1,chính) 89,6 (kênh 2, Hậu Giang cũ) 100,4 (Sóc Trăng cũ, luồng tiếp sóng FM 97,3 MHz (kênh 1))",
+      "channel": "Cần Thơ",
+      "note": "Phát sóng 05h00-24h00"
+    },
+    {
+      "province": "Cần Thơ",
+      "station": "Đài phát thanh quận Cái Răng",
+      "frequency_mhz": "103,8 → 98,2",
+      "channel": "Cái Răng",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cần Thơ",
+      "station": "Đài phát thanh quận Bình Thủy",
+      "frequency_mhz": "105,7 → 101,3",
+      "channel": "Bình Thủy",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cần Thơ",
+      "station": "Đài phát thanh huyện Thới Lai",
+      "frequency_mhz": "104,1 → 102,2",
+      "channel": "Thới Lai",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cần Thơ",
+      "station": "Đài phát sóng phát thanh VN2",
+      "frequency_mhz": "102,2",
+      "channel": "VOV3 (cũ)",
+      "note": "Không còn hoạt động"
+    },
+    {
+      "province": "Cần Thơ",
+      "station": "Đài phát thanh huyện Phong Điền",
+      "frequency_mhz": "105,2 → 102,4",
+      "channel": "Phong Điền",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cần Thơ",
+      "station": "Đài phát sóng phát thanh VN2",
+      "frequency_mhz": "104,0",
+      "channel": "VOV Tiếng Anh 24/7",
+      "note": ""
+    },
+    {
+      "province": "Cần Thơ",
+      "station": "Đài phát thanh quận Ninh Kiều",
+      "frequency_mhz": "104,7",
+      "channel": "Ninh Kiều",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cà Mau",
+      "station": "Đài phát thanh huyện Đầm Dơi",
+      "frequency_mhz": "90,8",
+      "channel": "Đầm Dơi",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cà Mau",
+      "station": "Đài phát thanh huyện Năm Căn",
+      "frequency_mhz": "92,7",
+      "channel": "Năm Căn",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cà Mau",
+      "station": "Đài phát thanh huyện U Minh",
+      "frequency_mhz": "92,8",
+      "channel": "U Minh",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cà Mau",
+      "station": "Đài phát thanh huyện Trần Văn Thời",
+      "frequency_mhz": "93,3",
+      "channel": "Trần Văn Thời",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cà Mau",
+      "station": "Báo và PT–TH Cà Mau",
+      "frequency_mhz": "94,6 (chính) 93,8 (Bạc Liêu cũ, luồng tiếp sóng FM 94,6 MHz)",
+      "channel": "Cà Mau",
+      "note": "Phát sóng từ 5h00–22h00 hàng ngày"
+    },
+    {
+      "province": "Cà Mau",
+      "station": "Đài phát thanh huyện Cái Nước",
+      "frequency_mhz": "95,0",
+      "channel": "Cái Nước",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cà Mau",
+      "station": "Đài phát thanh huyện Thới Bình",
+      "frequency_mhz": "95,5",
+      "channel": "Thới Bình",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cà Mau",
+      "station": "Báo và PT,TH Cà Mau",
+      "frequency_mhz": "95,9",
+      "channel": "VOV1",
+      "note": ""
+    },
+    {
+      "province": "Cà Mau",
+      "station": "Báo và PT,TH Cà Mau",
+      "frequency_mhz": "97,8",
+      "channel": "VOV1 (cũ)",
+      "note": "Không còn hoạt động"
+    },
+    {
+      "province": "Cà Mau",
+      "station": "Đài phát thanh TP. Cà Mau",
+      "frequency_mhz": "98,5",
+      "channel": "TP. Cà Mau",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cà Mau",
+      "station": "Đài phát thanh huyện Ngọc Hiển",
+      "frequency_mhz": "99,2",
+      "channel": "Ngọc Hiển",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cà Mau",
+      "station": "Đài phát thanh huyện Phú Tân",
+      "frequency_mhz": "99,6",
+      "channel": "Phú Tân",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "Cà Mau",
+      "station": "Báo và PT,TH Cà Mau",
+      "frequency_mhz": "101,5",
+      "channel": "VOV3 (cũ)",
+      "note": "Không còn hoạt động"
+    },
+    {
+      "province": "Cà Mau",
+      "station": "Báo và PT,TH Cà Mau",
+      "frequency_mhz": "107,0",
+      "channel": "VOV1 (cũ)",
+      "note": "Không còn hoạt động"
+    },
+    {
+      "province": "An Giang",
+      "station": "Đài phát thanh huyện Tri Tôn",
+      "frequency_mhz": "87,5 → 88,7",
+      "channel": "Tri Tôn",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "An Giang",
+      "station": "Trạm phát sóng FM Núi Cấm",
+      "frequency_mhz": "91,5 (cũ)",
+      "channel": "VOV3 (cũ)",
+      "note": "Không còn hoạt động"
+    },
+    {
+      "province": "An Giang",
+      "station": "Đài phát thanh huyện Châu Thành",
+      "frequency_mhz": "106,1 → 91,8",
+      "channel": "Châu Thành",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "An Giang",
+      "station": "Đài phát thanh TP. Châu Đốc",
+      "frequency_mhz": "92,1",
+      "channel": "Châu Đốc",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "An Giang",
+      "station": "Báo và PT,TH An Giang",
+      "frequency_mhz": "99,4 (chính, Kiên Giang cũ) 93,1 (luồng tiếp sóng FM 99,4 MHz)",
+      "channel": "An Giang",
+      "note": "Phát sóng từ 5h25-22h30 hàng ngày"
+    },
+    {
+      "province": "An Giang",
+      "station": "Đài phát thanh TX. Tịnh Biên",
+      "frequency_mhz": "107,1 → 93,6",
+      "channel": "Tịnh Biên",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "An Giang",
+      "station": "Đài phát thanh huyện An Phú",
+      "frequency_mhz": "96,0",
+      "channel": "An Phú",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "An Giang",
+      "station": "Trạm phát sóng FM Núi Cấm",
+      "frequency_mhz": "96,5",
+      "channel": "VOV2 (cũ)",
+      "note": "Không còn hoạt động"
+    },
+    {
+      "province": "An Giang",
+      "station": "Đài phát thanh TP. Long Xuyên",
+      "frequency_mhz": "97,8",
+      "channel": "Long Xuyên",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "An Giang",
+      "station": "Đài phát thanh TX. Tân Châu",
+      "frequency_mhz": "99,0",
+      "channel": "Tân Châu",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "An Giang",
+      "station": "Đài phát thanh huyện Chợ Mới",
+      "frequency_mhz": "101,5",
+      "channel": "Chợ Mới",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "An Giang",
+      "station": "Trạm phát sóng FM Núi Cấm",
+      "frequency_mhz": "102,7→ 105,9 (từ 01/10/2026)",
+      "channel": "VOV3/VOV4 (khu vực ĐBSCL)",
+      "note": "Phát chương trình tiếng Khmer và các nội dung khai thác bên VOV2"
+    },
+    {
+      "province": "An Giang",
+      "station": "Đài phát thanh huyện Phú Tân",
+      "frequency_mhz": "103,4",
+      "channel": "Phú Tân",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "An Giang",
+      "station": "Đài phát thanh huyện Thoại Sơn",
+      "frequency_mhz": "104,8",
+      "channel": "Thoại Sơn",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    },
+    {
+      "province": "An Giang",
+      "station": "Đài phát thanh huyện Châu Phú",
+      "frequency_mhz": "107,6",
+      "channel": "Châu Phú",
+      "note": "Không còn hoạt động từ ngày 01 tháng 7 năm 2025"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách trạm phát sóng phát thanh FM tại Việt Nam - Free Download",
+    "description": "Các trạm phát sóng và tần số phát thanh FM tại Việt Nam theo tỉnh thành: trạm phát, tần số (MHz), tên kênh và ghi chú. Contains 640 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách trạm phát sóng phát thanh FM tại Việt Nam | ListBase",
+    "seo_description": "Download Danh sách trạm phát sóng phát thanh FM tại Việt Nam — 640 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 640 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_sách_trạm_phát_sóng_phát_thanh_FM_tại_Việt_Nam"
+    ]
+  }
+}
