@@ -1,0 +1,936 @@
+{
+  "id": "vi-nha-may-nhiet-dien-than",
+  "name": "Danh sách nhà máy nhiệt điện than tại Việt Nam",
+  "title": "Danh sách nhà máy nhiệt điện than tại Việt Nam",
+  "description": "Các nhà máy nhiệt điện than tại Việt Nam (đang vận hành, xây dựng, quy hoạch hoặc đã hủy): nhà đầu tư, công suất, trạng thái, tỉnh và năm đóng lưới.",
+  "category": "environment",
+  "source": "https://vi.wikipedia.org/wiki/Danh_sách_nhà_máy_nhiệt_điện_than_tại_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_sách_nhà_máy_nhiệt_điện_than_tại_Việt_Nam",
+  "updated": "2026-11",
+  "record_count": 87,
+  "columns": [
+    {
+      "key": "plant",
+      "label": "Plant",
+      "type": "string"
+    },
+    {
+      "key": "other_name",
+      "label": "Other Name",
+      "type": "string"
+    },
+    {
+      "key": "investor",
+      "label": "Investor",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "grid_connection_year",
+      "label": "Grid Connection Year",
+      "type": "number"
+    },
+    {
+      "key": "source_note",
+      "label": "Source Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "plant": "Nhiệt điện An Khánh - Bắc Giang",
+      "other_name": "Nhiệt điện Lục Nam",
+      "investor": "Công ty cổ phần Nhiệt điện An Khánh - Bắc Giang",
+      "capacity_mw": "650",
+      "status": "giấy phép trước",
+      "province": "Bắc Giang",
+      "grid_connection_year": "2023",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng V.4"
+    },
+    {
+      "plant": "An Khánh-1",
+      "other_name": "Nhiệt điện Khánh Hòa",
+      "investor": "Công ty cổ phần Nhiệt điện An Khánh",
+      "capacity_mw": "2x58",
+      "status": "vận hành",
+      "province": "Thái Nguyên",
+      "grid_connection_year": "2015",
+      "source_note": ""
+    },
+    {
+      "plant": "An Khánh-2",
+      "other_name": "",
+      "investor": "Công ty cổ phần Nhiệt điện An Khánh",
+      "capacity_mw": "2x150",
+      "status": "hủy bỏ",
+      "province": "Thái Nguyên",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Bạc Liêu",
+      "other_name": "Nhiệt điện Cái Cùng",
+      "investor": "Tập đoàn Điện lực Việt Nam, Tập đoàn Sojitz Kyushu",
+      "capacity_mw": "2x600",
+      "status": "hủy bỏ",
+      "province": "Bạc Liêu",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Bình Định 1-2",
+      "other_name": "Nhiệt điện Than Bình Định",
+      "investor": "Cơ quan Phát điện của Thái Lan và có thể các công ty Thái Lan khác",
+      "capacity_mw": "2x1200",
+      "status": "hủy bỏ",
+      "province": "Bình Định",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện Cẩm Phả Giai đoạn I-II",
+      "other_name": "",
+      "investor": "Tập đoàn công nghiệp Than - Khoáng sản Việt Nam",
+      "capacity_mw": "2x340",
+      "status": "vận hành",
+      "province": "Quảng Ninh",
+      "grid_connection_year": "2011",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện Cẩm Phả Giai đoạn III",
+      "other_name": "",
+      "investor": "Tập đoàn công nghiệp Than - Khoáng sản Việt Nam",
+      "capacity_mw": "2x220",
+      "status": "hủy bỏ",
+      "province": "Quảng Ninh",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện Cao Ngạn",
+      "other_name": "",
+      "investor": "Tập đoàn công nghiệp Than - Khoáng sản Việt Nam",
+      "capacity_mw": "2x57.5",
+      "status": "vận hành",
+      "province": "Thái Nguyên",
+      "grid_connection_year": "2006",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện Công Thanh",
+      "other_name": "",
+      "investor": "Công ty cổ phần Nhiệt điện Công Thanh",
+      "capacity_mw": "600",
+      "status": "được cấp phép",
+      "province": "Thanh Hóa",
+      "grid_connection_year": "2024",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng V.3"
+    },
+    {
+      "plant": "Đồng Nai Formosa Tổ máy 1-2",
+      "other_name": "",
+      "investor": "Hưng Nghiệp Formosa",
+      "capacity_mw": "2x150",
+      "status": "vận hành",
+      "province": "Đồng Nai",
+      "grid_connection_year": "2004",
+      "source_note": ""
+    },
+    {
+      "plant": "Đồng Nai Formosa Tổ máy 3",
+      "other_name": "",
+      "investor": "Hưng Nghiệp Formosa",
+      "capacity_mw": "150",
+      "status": "vận hành",
+      "province": "Đồng Nai",
+      "grid_connection_year": "2018",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện hóa chất Đức Giang - Lào Cai",
+      "other_name": "",
+      "investor": "Công ty cổ phần hóa chất Đức Giang - Lào Cai",
+      "capacity_mw": "2x50",
+      "status": "giấy phép trước",
+      "province": "Lào Cai",
+      "grid_connection_year": "2020",
+      "source_note": ""
+    },
+    {
+      "plant": "Dung Quất 1-2",
+      "other_name": "",
+      "investor": "Sembcorp Utilities Vietnam",
+      "capacity_mw": "2x600",
+      "status": "hủy bỏ",
+      "province": "Quảng Ngãi",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện Khu kinh tế Dung Quất (J-Power) Giai đoạn I-II",
+      "other_name": "",
+      "investor": "J-Power",
+      "capacity_mw": "2400 & 2000",
+      "status": "thông báo",
+      "province": "Quảng Ngãi",
+      "grid_connection_year": "2028-2030",
+      "source_note": ""
+    },
+    {
+      "plant": "Duyên Hải-1",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Việt Nam",
+      "capacity_mw": "2x622",
+      "status": "vận hành",
+      "province": "Trà Vinh",
+      "grid_connection_year": "2015",
+      "source_note": ""
+    },
+    {
+      "plant": "Duyên Hải-2",
+      "other_name": "",
+      "investor": "Janakuasa SDN BHD",
+      "capacity_mw": "2x600",
+      "status": "vận hành",
+      "province": "Trà Vinh",
+      "grid_connection_year": "2021-2022",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng IV.3"
+    },
+    {
+      "plant": "Duyên Hải-3 mở rộng",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Việt Nam",
+      "capacity_mw": "660",
+      "status": "vận hành",
+      "province": "Trà Vinh",
+      "grid_connection_year": "2019",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng I.9"
+    },
+    {
+      "plant": "Duyên Hải-3",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Việt Nam",
+      "capacity_mw": "2x622",
+      "status": "vận hành",
+      "province": "Trà Vinh",
+      "grid_connection_year": "2016",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng I.4"
+    },
+    {
+      "plant": "Gành Dầu",
+      "other_name": "Nhiệt điện Phú Quốc",
+      "investor": "Tập đoàn công nghiệp Than - Khoáng sản Việt Nam",
+      "capacity_mw": "2x100",
+      "status": "hủy bỏ",
+      "province": "Kiên Giang",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện Hà Tĩnh Formosa Tổ máy 1,2,5,6,7,10",
+      "other_name": "Formosa Hà Tĩnh",
+      "investor": "Hưng Nghiệp Formosa",
+      "capacity_mw": "6x150",
+      "status": "vận hành: Tổ máy1,2,5 giấy phép trước: Tổ máy6,7,10",
+      "province": "Hà Tĩnh",
+      "grid_connection_year": "2015-2020",
+      "source_note": ""
+    },
+    {
+      "plant": "Hải Dương",
+      "other_name": "Nhiệt điện Hải Dương BOT",
+      "investor": "JAKS Resources, Tập đoàn Điện lực Trung Quốc",
+      "capacity_mw": "2x600",
+      "status": "vận hành",
+      "province": "Hải Dương",
+      "grid_connection_year": "2021",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng IV.2"
+    },
+    {
+      "plant": "Nhiệt điện Đồng phát Hải Hà 1-4",
+      "other_name": "Đồng phát Hải Hà (CHP)",
+      "investor": "Công ty TNHH Khu công nghiệp Texhong Việt Nam",
+      "capacity_mw": "2100",
+      "status": "giấy phép trước",
+      "province": "Quảng Ninh",
+      "grid_connection_year": "2019-2030",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng V.2"
+    },
+    {
+      "plant": "Hải Phòng 1-2",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Việt Nam Genco No 2",
+      "capacity_mw": "4x300",
+      "status": "vận hành",
+      "province": "Hải Phòng",
+      "grid_connection_year": "2011-2014",
+      "source_note": ""
+    },
+    {
+      "plant": "Hải Phòng-3 Tổ máy 1-2",
+      "other_name": "",
+      "investor": "Tập đoàn công nghiệp Than - Khoáng sản Việt Nam",
+      "capacity_mw": "2x600",
+      "status": "giấy phép trước",
+      "province": "Hải Phòng",
+      "grid_connection_year": "2028-2029",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng III.4"
+    },
+    {
+      "plant": "Hải Phòng-3 Tổ máy 3-4",
+      "other_name": "",
+      "investor": "Tập đoàn công nghiệp Than - Khoáng sản Việt Nam",
+      "capacity_mw": "2x600",
+      "status": "hủy bỏ",
+      "province": "Hải Phòng",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện Hóa dầu Long Sơn",
+      "other_name": "",
+      "investor": "Công ty TNHH Hóa dầu Long Sơn",
+      "capacity_mw": "3x75",
+      "status": "hủy bỏ",
+      "province": "Vũng Tàu",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Kiên Lương 1-2",
+      "other_name": "",
+      "investor": "Công Ty Cổ Phần Phát triển Năng lượng Tân Tạo",
+      "capacity_mw": "4x600",
+      "status": "hủy bỏ",
+      "province": "Kiên Giang",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Kiên Lương-3",
+      "other_name": "",
+      "investor": "Công Ty Cổ Phần Phát triển Năng lượng Tân Tạo",
+      "capacity_mw": "2x1000",
+      "status": "hủy bỏ",
+      "province": "Kiên Giang",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Lee & Man",
+      "other_name": "",
+      "investor": "Công Ty TNHH Giấy Lee & Man Việt Nam",
+      "capacity_mw": "50 & 75",
+      "status": "vận hành",
+      "province": "Hậu Giang",
+      "grid_connection_year": "2018",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện Long An Giai đoạn I",
+      "other_name": "",
+      "investor": "Chưa có nhà đầu tư",
+      "capacity_mw": "2x600",
+      "status": "thông báo",
+      "province": "Long An",
+      "grid_connection_year": "",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng VI.1"
+    },
+    {
+      "plant": "Nhiệt điện Long An Giai đoạn II",
+      "other_name": "",
+      "investor": "Chưa có nhà đầu tư",
+      "capacity_mw": "2x800",
+      "status": "thông báo",
+      "province": "Long An",
+      "grid_connection_year": "",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng VI.2"
+    },
+    {
+      "plant": "Long Phú-1",
+      "other_name": "",
+      "investor": "Tập đoàn Dầu khí Việt Nam",
+      "capacity_mw": "2x600",
+      "status": "xây dựng",
+      "province": "Sóc Trăng",
+      "grid_connection_year": "2023-2024",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng II.2"
+    },
+    {
+      "plant": "Long Phú-2",
+      "other_name": "",
+      "investor": "Tập đoàn Tata",
+      "capacity_mw": "2x660",
+      "status": "giấy phép trước",
+      "province": "Sóc Trăng",
+      "grid_connection_year": "2029-2030",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng IV.8"
+    },
+    {
+      "plant": "Long Phú-3",
+      "other_name": "",
+      "investor": "Tập đoàn Dầu khí Việt Nam yêu cầu chuyển giao nhà đầu tư khác",
+      "capacity_mw": "3x600",
+      "status": "thông báo",
+      "province": "Sóc Trăng",
+      "grid_connection_year": "",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng II.4"
+    },
+    {
+      "plant": "Mạo Khê",
+      "other_name": "",
+      "investor": "Tập đoàn công nghiệp Than - Khoáng sản Việt Nam",
+      "capacity_mw": "2x220",
+      "status": "vận hành",
+      "province": "Quảng Ninh",
+      "grid_connection_year": "2013",
+      "source_note": ""
+    },
+    {
+      "plant": "Mông Dương-1",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Việt Nam",
+      "capacity_mw": "2x540",
+      "status": "vận hành",
+      "province": "Quảng Ninh",
+      "grid_connection_year": "2015",
+      "source_note": ""
+    },
+    {
+      "plant": "Mông Dương-2",
+      "other_name": "",
+      "investor": "Công ty TNHH Điện lực AES-TKV Mông Dương",
+      "capacity_mw": "2x620",
+      "status": "vận hành",
+      "province": "Quảng Ninh",
+      "grid_connection_year": "2015",
+      "source_note": ""
+    },
+    {
+      "plant": "Na Dương-1",
+      "other_name": "",
+      "investor": "Tập đoàn công nghiệp Than - Khoáng sản Việt Nam",
+      "capacity_mw": "2x55",
+      "status": "vận hành",
+      "province": "Lạng Sơn",
+      "grid_connection_year": "2005",
+      "source_note": ""
+    },
+    {
+      "plant": "Na Dương-2",
+      "other_name": "",
+      "investor": "Tập đoàn công nghiệp Than - Khoáng sản Việt Nam",
+      "capacity_mw": "110",
+      "status": "Vận hành",
+      "province": "Lạng Sơn",
+      "grid_connection_year": "2022",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng III.1"
+    },
+    {
+      "plant": "Nam Định-1",
+      "other_name": "Hai Hau Nhiệt điện",
+      "investor": "Công ty Cổ phần Tae Kwang Vina Industrial, First National Operation & Maintenance Co. (NOMAC)",
+      "capacity_mw": "2x600",
+      "status": "được cấp phép",
+      "province": "Nam Định",
+      "grid_connection_year": "2024-2025",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng IV.4"
+    },
+    {
+      "plant": "Nam Định-2",
+      "other_name": "Hai Hau Nhiệt điện",
+      "investor": "Công ty Cổ phần Tae Kwang Vina Industrial",
+      "capacity_mw": "2x600",
+      "status": "hủy bỏ",
+      "province": "Nam Định",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Nghi Sơn-1",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Việt Nam Genco No 1",
+      "capacity_mw": "2x300",
+      "status": "vận hành",
+      "province": "Thanh Hóa",
+      "grid_connection_year": "2013-2014",
+      "source_note": ""
+    },
+    {
+      "plant": "Nghi Sơn-2",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Hàn Quốc và Tập đoàn Marubeni",
+      "capacity_mw": "2x600",
+      "status": "vận hành",
+      "province": "Thanh Hóa",
+      "grid_connection_year": "2022",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng IV.5"
+    },
+    {
+      "plant": "Ninh Bình II mở rộng",
+      "other_name": "",
+      "investor": "Công Ty Cổ Phần Nhiệt Điện Ninh Bình",
+      "capacity_mw": "300",
+      "status": "hủy bỏ",
+      "province": "Ninh Bình",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Ninh Bình",
+      "other_name": "",
+      "investor": "Công Ty Cổ Phần Nhiệt Điện Ninh Bình",
+      "capacity_mw": "4x25",
+      "status": "vận hành",
+      "province": "Ninh Bình",
+      "grid_connection_year": "1974",
+      "source_note": ""
+    },
+    {
+      "plant": "Nông Sơn 1",
+      "other_name": "",
+      "investor": "Tập đoàn công nghiệp Than - Khoáng sản Việt Nam",
+      "capacity_mw": "30",
+      "status": "vận hành",
+      "province": "Quang Nam",
+      "grid_connection_year": "2014",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện Phả Lại -1",
+      "other_name": "",
+      "investor": "Công ty Cổ Phần Nhiệt Điện Phả Lại",
+      "capacity_mw": "4x110",
+      "status": "vận hành",
+      "province": "Hải Dương",
+      "grid_connection_year": "1986",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện Phả Lại-2",
+      "other_name": "",
+      "investor": "Công Ty Cổ Phần Nhiệt Điện Phả Lại",
+      "capacity_mw": "2x300",
+      "status": "vận hành",
+      "province": "Hải Dương",
+      "grid_connection_year": "2001",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện Phú Thọ",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Việt Nam",
+      "capacity_mw": "600",
+      "status": "hủy bỏ",
+      "province": "Phú Thọ",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Phú Yên",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Việt Nam",
+      "capacity_mw": "4x600",
+      "status": "hủy bỏ",
+      "province": "Phú Yên",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện Quảng Ninh 1-2",
+      "other_name": "",
+      "investor": "Công Ty Cổ Phần Nhiệt Điện Quảng Ninh",
+      "capacity_mw": "4x300",
+      "status": "vận hành",
+      "province": "Quảng Ninh",
+      "grid_connection_year": "2009-2014",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện Quảng Ninh-3",
+      "other_name": "",
+      "investor": "Chưa có nhà đầu tư",
+      "capacity_mw": "2x600",
+      "status": "thông báo",
+      "province": "Quảng Ninh",
+      "grid_connection_year": "",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng VI.4"
+    },
+    {
+      "plant": "Quảng Trạch-1",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Việt Nam",
+      "capacity_mw": "2x600",
+      "status": "vận hành",
+      "province": "Quảng Bình",
+      "grid_connection_year": "2026",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng I.17"
+    },
+    {
+      "plant": "Quảng Trạch-2",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Việt Nam",
+      "capacity_mw": "2x600",
+      "status": "xây dựng",
+      "province": "Quảng Bình",
+      "grid_connection_year": "2029",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng I.18"
+    },
+    {
+      "plant": "Quảng Trị-1",
+      "other_name": "",
+      "investor": "Công ty TNHH EGAT International (EGATi)",
+      "capacity_mw": "2x660",
+      "status": "giấy phép trước",
+      "province": "Quảng Trị",
+      "grid_connection_year": "2026-2027",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng IV.11"
+    },
+    {
+      "plant": "Quảng Trị-2",
+      "other_name": "",
+      "investor": "Công ty TNHH Korea Western Power",
+      "capacity_mw": "2x600",
+      "status": "thông báo",
+      "province": "Quảng Trị",
+      "grid_connection_year": "2024",
+      "source_note": ""
+    },
+    {
+      "plant": "Quỳnh Lập-1",
+      "other_name": "",
+      "investor": "Tập đoàn công nghiệp Than - Khoáng sản Việt Nam",
+      "capacity_mw": "2x600",
+      "status": "được cấp phép",
+      "province": "Nghệ An",
+      "grid_connection_year": "2029",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng III.3"
+    },
+    {
+      "plant": "Quỳnh Lập-2",
+      "other_name": "",
+      "investor": "POSCO",
+      "capacity_mw": "2x600",
+      "status": "thông báo",
+      "province": "Nghệ An",
+      "grid_connection_year": "2027-2028",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng IV.14"
+    },
+    {
+      "plant": "Nhiệt điện Đồng phát Rạng Đông",
+      "other_name": "",
+      "investor": "",
+      "capacity_mw": "100",
+      "status": "thông báo",
+      "province": "",
+      "grid_connection_year": "2025",
+      "source_note": "PDP 7A Quyết định 428/QD-TTg, phụ lục 1, bảng 2, \"Công trình vận hành năm 2025\", hàng 4"
+    },
+    {
+      "plant": "Nhiệt điện Sơn Động",
+      "other_name": "",
+      "investor": "Tập đoàn công nghiệp Than - Khoáng sản Việt Nam",
+      "capacity_mw": "2x110",
+      "status": "vận hành",
+      "province": "Bắc Giang",
+      "grid_connection_year": "2009",
+      "source_note": ""
+    },
+    {
+      "plant": "Sơn Mỹ 1-6",
+      "other_name": "",
+      "investor": "Trung tập điện lực Sơn Mỹ",
+      "capacity_mw": "6x600",
+      "status": "hủy bỏ",
+      "province": "Bình Thuận",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Sông Hậu-1",
+      "other_name": "",
+      "investor": "Tập đoàn Dầu khí Việt Nam",
+      "capacity_mw": "2x600",
+      "status": "xây dựng",
+      "province": "Hậu Giang",
+      "grid_connection_year": "2021",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng II.3"
+    },
+    {
+      "plant": "Sông Hậu-2",
+      "other_name": "",
+      "investor": "Toyo Engineering & Construction",
+      "capacity_mw": "2x1000",
+      "status": "được cấp phép",
+      "province": "Hậu Giang",
+      "grid_connection_year": "2024",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng IV.7"
+    },
+    {
+      "plant": "Sông Hậu-3",
+      "other_name": "",
+      "investor": "Chưa có nhà đầu tư",
+      "capacity_mw": "2x1000",
+      "status": "hủy bỏ",
+      "province": "Hậu Giang",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Tân Phước-1",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Việt Nam",
+      "capacity_mw": "2x600",
+      "status": "thông báo",
+      "province": "Tiền Giang",
+      "grid_connection_year": "",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng I.15"
+    },
+    {
+      "plant": "Tân Phước-2",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Việt Nam",
+      "capacity_mw": "2x600",
+      "status": "thông báo",
+      "province": "Tiền Giang",
+      "grid_connection_year": "",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng I.16"
+    },
+    {
+      "plant": "Tân Thành",
+      "other_name": "",
+      "investor": "J-Power",
+      "capacity_mw": "4x600",
+      "status": "hủy bỏ",
+      "province": "Bà Rịa - Vũng Tàu",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Thái Bình-1",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Việt Nam",
+      "capacity_mw": "2x300",
+      "status": "vận hành",
+      "province": "Thái Bình",
+      "grid_connection_year": "2017",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng I.5"
+    },
+    {
+      "plant": "Thái Bình-2",
+      "other_name": "",
+      "investor": "Tập đoàn Dầu khí Việt Nam",
+      "capacity_mw": "2x600",
+      "status": "xây dựng",
+      "province": "Thái Bình",
+      "grid_connection_year": "2021-2022",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng II.1"
+    },
+    {
+      "plant": "Thái Bình-3",
+      "other_name": "",
+      "investor": "Tập đoàn công nghiệp Than - Khoáng sản Việt Nam",
+      "capacity_mw": "440",
+      "status": "thông báo",
+      "province": "Thái Bình",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Than An Giang",
+      "other_name": "",
+      "investor": "Chưa có nhà đầu tư",
+      "capacity_mw": "2000",
+      "status": "hủy bỏ",
+      "province": "An Giang",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Thăng Long",
+      "other_name": "Le Loi Nhiệt điện",
+      "investor": "Công ty xuất - nhập khẩu Hà Nội",
+      "capacity_mw": "2x300",
+      "status": "vận hành",
+      "province": "Quảng Ninh",
+      "grid_connection_year": "2017-2018",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng V.1"
+    },
+    {
+      "plant": "Nhiệt điện Uông Bí I mở rộng",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Việt Nam Genco No 1",
+      "capacity_mw": "300",
+      "status": "vận hành",
+      "province": "Quảng Ninh",
+      "grid_connection_year": "2007",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện Uông Bí I",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Việt Nam Genco No 1",
+      "capacity_mw": "50 & 55",
+      "status": "vận hành",
+      "province": "Quảng Ninh",
+      "grid_connection_year": "1975-1976",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện Uông Bí II mở rộng",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Việt Nam Genco No 1",
+      "capacity_mw": "330",
+      "status": "vận hành",
+      "province": "Quảng Ninh",
+      "grid_connection_year": "2014",
+      "source_note": ""
+    },
+    {
+      "plant": "Vân Phong-1",
+      "other_name": "",
+      "investor": "Tập đoàn Sumitomo",
+      "capacity_mw": "2x660",
+      "status": "vận hành",
+      "province": "Khánh Hòa",
+      "grid_connection_year": "2023-2024",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng IV.10"
+    },
+    {
+      "plant": "Vân Phong-2",
+      "other_name": "",
+      "investor": "Công ty cổ phần Đầu tư - Xây dựng Hà Nội, Tập đoàn Keangnam Enterprises",
+      "capacity_mw": "2x660",
+      "status": "hủy bỏ",
+      "province": "Khánh Hòa",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện Đồng phát Vedan Việt Nam",
+      "other_name": "",
+      "investor": "Công ty cổ phần hữu hạn Vedan Việt Nam",
+      "capacity_mw": "60",
+      "status": "vận hành",
+      "province": "Đồng Nai",
+      "grid_connection_year": "2015",
+      "source_note": ""
+    },
+    {
+      "plant": "Vĩnh Tân-1",
+      "other_name": "",
+      "investor": "China Southern Power Grid, Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam",
+      "capacity_mw": "2x600",
+      "status": "vận hành",
+      "province": "Bình Thuận",
+      "grid_connection_year": "2018-2019",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng IV.1"
+    },
+    {
+      "plant": "Vĩnh Tân-2",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Việt Nam Genco No 3",
+      "capacity_mw": "2x622",
+      "status": "vận hành",
+      "province": "Bình Thuận",
+      "grid_connection_year": "2014",
+      "source_note": ""
+    },
+    {
+      "plant": "Vĩnh Tân-3",
+      "other_name": "",
+      "investor": "OneEnergy, Tập đoàn Điện lực Việt Nam, Pacific Group",
+      "capacity_mw": "3x660",
+      "status": "giấy phép trước",
+      "province": "Bình Thuận",
+      "grid_connection_year": "2024-2025",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng IV.9"
+    },
+    {
+      "plant": "Vĩnh Tân-4 mở rộng",
+      "other_name": "Vĩnh Tân-4 mở rộng",
+      "investor": "Tập đoàn Điện lực Việt Nam",
+      "capacity_mw": "600",
+      "status": "xây dựng",
+      "province": "Bình Thuận",
+      "grid_connection_year": "2019",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng I.12"
+    },
+    {
+      "plant": "Vĩnh Tân-4",
+      "other_name": "",
+      "investor": "Tập đoàn Điện lực Việt Nam",
+      "capacity_mw": "2x600",
+      "status": "vận hành",
+      "province": "Bình Thuận",
+      "grid_connection_year": "2017-2018",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng I.6"
+    },
+    {
+      "plant": "Vũng Áng-1",
+      "other_name": "",
+      "investor": "Tập đoàn Dầu khí Việt Nam",
+      "capacity_mw": "2x600",
+      "status": "vận hành",
+      "province": "Hà Tĩnh",
+      "grid_connection_year": "2014-2015",
+      "source_note": ""
+    },
+    {
+      "plant": "Vũng Áng-2",
+      "other_name": "",
+      "investor": "OneEnergy Co.",
+      "capacity_mw": "2x600",
+      "status": "vận hành",
+      "province": "Hà Tĩnh",
+      "grid_connection_year": "2023-2024",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng IV.6"
+    },
+    {
+      "plant": "Vũng Áng-3 Tổ máy1-2",
+      "other_name": "",
+      "investor": "Samsung C&T Corporation",
+      "capacity_mw": "2x600",
+      "status": "hủy bỏ",
+      "province": "Hà Tĩnh",
+      "grid_connection_year": "2031",
+      "source_note": "Báo cáo 58/BC-CBT, phụ lục, hàng IV.13"
+    },
+    {
+      "plant": "Vũng Áng-3 Tổ máy3-4",
+      "other_name": "",
+      "investor": "",
+      "capacity_mw": "2x600",
+      "status": "thông báo",
+      "province": "",
+      "grid_connection_year": "",
+      "source_note": "PDP 7A: Các nhà máy dự phòng cho trường hợp các nguồn điện từ năng lượng tái tạo không đạt được tiến độ và quy mô công suất như kỳ vọng"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách nhà máy nhiệt điện than tại Việt Nam - Free Download",
+    "description": "Các nhà máy nhiệt điện than tại Việt Nam (đang vận hành, xây dựng, quy hoạch hoặc đã hủy): nhà đầu tư, công suất, trạng thái, tỉnh và năm đóng lưới. Contains 87 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách nhà máy nhiệt điện than tại Việt Nam | ListBase",
+    "seo_description": "Download Danh sách nhà máy nhiệt điện than tại Việt Nam — 87 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 87 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_sách_nhà_máy_nhiệt_điện_than_tại_Việt_Nam"
+    ]
+  }
+}
