@@ -1,0 +1,336 @@
+{
+  "id": "vi-nha-may-nhiet-dien-khi",
+  "name": "Danh sách nhà máy nhiệt điện khí tại Việt Nam",
+  "title": "Danh sách nhà máy nhiệt điện khí tại Việt Nam",
+  "description": "Các nhà máy nhiệt điện khí và tua-bin khí hỗn hợp tại Việt Nam: nhà đầu tư, công suất, trạng thái, tỉnh và năm đóng lưới.",
+  "category": "environment",
+  "source": "https://vi.wikipedia.org/wiki/Danh_sách_nhà_máy_nhiệt_điện_khí_tại_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Danh_sách_nhà_máy_nhiệt_điện_khí_tại_Việt_Nam",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "plant",
+      "label": "Plant",
+      "type": "string"
+    },
+    {
+      "key": "other_name",
+      "label": "Other Name",
+      "type": "string"
+    },
+    {
+      "key": "investor",
+      "label": "Investor",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "grid_connection_year",
+      "label": "Grid Connection Year",
+      "type": "number"
+    },
+    {
+      "key": "source_note",
+      "label": "Source Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "plant": "TBKHH Ô Môn III",
+      "other_name": "",
+      "investor": "EVN (ODA)",
+      "capacity_mw": "1x750",
+      "status": "giấy phép trước/được cấp phép",
+      "province": "Cần Thơ",
+      "grid_connection_year": "2025",
+      "source_note": "Báo cáo 58/BC-CBT phụ lục hàng I.13"
+    },
+    {
+      "plant": "TBKHH Ô Môn IV",
+      "other_name": "",
+      "investor": "EVN",
+      "capacity_mw": "1x750",
+      "status": "giấy phép trước/được cấp phép",
+      "province": "Cần Thơ",
+      "grid_connection_year": "2023",
+      "source_note": "Báo cáo 58/BC-CBT phụ lục hàng I.14"
+    },
+    {
+      "plant": "TBKHH Dung Quất I",
+      "other_name": "",
+      "investor": "EVN",
+      "capacity_mw": "750",
+      "status": "giấy phép trước/được cấp phép",
+      "province": "Quảng Ngãi",
+      "grid_connection_year": "2024",
+      "source_note": "Báo cáo 58/BC-CBT phụ lục hàng I.19"
+    },
+    {
+      "plant": "TBKHH Dung Quất III",
+      "other_name": "",
+      "investor": "EVN",
+      "capacity_mw": "750",
+      "status": "giấy phép trước/được cấp phép",
+      "province": "Quảng Ngãi",
+      "grid_connection_year": "2025",
+      "source_note": "Báo cáo 58/BC-CBT phụ lục hàng I.20"
+    },
+    {
+      "plant": "TBKHH Nhơn Trạch 3&4",
+      "other_name": "",
+      "investor": "PVN",
+      "capacity_mw": "2x750",
+      "status": "giấy phép trước/được cấp phép",
+      "province": "Đồng Nai",
+      "grid_connection_year": "2023-2024",
+      "source_note": "Báo cáo 58/BC-CBT phụ lục hàng II.5"
+    },
+    {
+      "plant": "TBKHH Kiên Giang 1&2",
+      "other_name": "",
+      "investor": "PVN",
+      "capacity_mw": "2x750",
+      "status": "thông báo",
+      "province": "An Giang",
+      "grid_connection_year": "Sau năm 2030",
+      "source_note": "Báo cáo 58/BC-CBT phụ lục hàng II.6"
+    },
+    {
+      "plant": "TBKHH Miền Trung 1,2",
+      "other_name": "",
+      "investor": "PVN",
+      "capacity_mw": "2x750",
+      "status": "giấy phép trước/được cấp phép",
+      "province": "Đà Nẵng",
+      "grid_connection_year": "2024-2025",
+      "source_note": "Báo cáo 58/BC-CBT phụ lục hàng II.7"
+    },
+    {
+      "plant": "TBKHH Sơn Mỹ II",
+      "other_name": "",
+      "investor": "Tập đoàn AES, PVGAS",
+      "capacity_mw": "3x750",
+      "status": "thông báo",
+      "province": "Lâm Đồng",
+      "grid_connection_year": "2026-2028",
+      "source_note": "Báo cáo 58/BC-CBT phụ lục hàng II.8 và"
+    },
+    {
+      "plant": "TBKHH Dung Quất II",
+      "other_name": "",
+      "investor": "BOT",
+      "capacity_mw": "750",
+      "status": "thông báo",
+      "province": "Quảng Ngãi",
+      "grid_connection_year": "2026",
+      "source_note": "Báo cáo 58/BC-CBT phụ lục hàng IV.12"
+    },
+    {
+      "plant": "TBKHH Sơn Mỹ",
+      "other_name": "",
+      "investor": "Electricité De France (EDF), Kiushu, Sojitz, PAC",
+      "capacity_mw": "3x750",
+      "status": "thông báo",
+      "province": "Lâm Đồng",
+      "grid_connection_year": "2028-2029",
+      "source_note": "Báo cáo 58/BC-CBT phụ lục hàng IV.15 và"
+    },
+    {
+      "plant": "TBKHH Ô Môn II",
+      "other_name": "",
+      "investor": "Chưa có nhà đầu tư",
+      "capacity_mw": "750",
+      "status": "thông báo",
+      "province": "Cần Thơ",
+      "grid_connection_year": "2026",
+      "source_note": "Báo cáo 58/BC-CBT phụ lục hàng VI.3"
+    },
+    {
+      "plant": "Nhiệt điện khí LNG Cà Ná",
+      "other_name": "",
+      "investor": "Tập đoàn Gulf (Thái Lan)",
+      "capacity_mw": "4x1500",
+      "status": "thông báo",
+      "province": "Khánh Hòa",
+      "grid_connection_year": "Không rõ",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện khí Cà Mau 1&2",
+      "other_name": "",
+      "investor": "Công ty Điện lực Dầu khí Cà Mau, đơn vị thành viên của PV Power",
+      "capacity_mw": "2x750",
+      "status": "vận hành",
+      "province": "Cà Mau",
+      "grid_connection_year": "2008",
+      "source_note": "và Quyết định 125/QD-DTDL phụ lục 3 hàng 22-23"
+    },
+    {
+      "plant": "Nhiệt điện khí Nhơn Trạch 1",
+      "other_name": "",
+      "investor": "Công ty Điện lực Dầu khí Nhơn Trạch, đơn vị thành viên của PV Power",
+      "capacity_mw": "450",
+      "status": "vận hành",
+      "province": "Đồng Nai",
+      "grid_connection_year": "2009",
+      "source_note": ""
+    },
+    {
+      "plant": "TBKHH Nhơn Trạch 2",
+      "other_name": "",
+      "investor": "Công ty Cổ phần Điện lực Dầu khí Nhơn Trạch 2",
+      "capacity_mw": "750",
+      "status": "vận hành",
+      "province": "Đồng Nai",
+      "grid_connection_year": "2011",
+      "source_note": ""
+    },
+    {
+      "plant": "Nhiệt điện khí LNG Bạc Liêu",
+      "other_name": "",
+      "investor": "Delta Offshore Energy",
+      "capacity_mw": "3200",
+      "status": "thông báo",
+      "province": "Cà Mau",
+      "grid_connection_year": "Không rõ",
+      "source_note": ""
+    },
+    {
+      "plant": "Phú Mỹ 2.1",
+      "other_name": "",
+      "investor": "Công ty Nhiệt điện Phú Mỹ, GENCO3",
+      "capacity_mw": "477",
+      "status": "vận hành",
+      "province": "Thành phố Hồ Chí Minh",
+      "grid_connection_year": "1997",
+      "source_note": "và Quyết định 125/QD-DTDL phụ lục 1 hàng 15"
+    },
+    {
+      "plant": "Bà Rịa",
+      "other_name": "",
+      "investor": "Công ty Nhiệt điện Bà Rịa, GENCO 3",
+      "capacity_mw": "340",
+      "status": "vận hành",
+      "province": "Thành phố Hồ Chí Minh",
+      "grid_connection_year": "1992-2002",
+      "source_note": "và Quyết định 125/QD-DTDL phụ lục 3 hàng 21"
+    },
+    {
+      "plant": "Phú Mỹ 2.1 mở rộng",
+      "other_name": "",
+      "investor": "Công ty Nhiệt điện Phú Mỹ, GENCO 3",
+      "capacity_mw": "468",
+      "status": "vận hành",
+      "province": "Thành phố Hồ Chí Minh",
+      "grid_connection_year": "1999",
+      "source_note": "và Quyết định 125/QD-DTDL phụ lục 1 hàng 15"
+    },
+    {
+      "plant": "Phú Mỹ 4",
+      "other_name": "",
+      "investor": "Công ty Nhiệt điện Phú Mỹ, GENCO 3",
+      "capacity_mw": "477",
+      "status": "vận hành",
+      "province": "Thành phố Hồ Chí Minh",
+      "grid_connection_year": "2004",
+      "source_note": "và Quyết định 125/QD-DTDL phụ lục 1 hàng 16"
+    },
+    {
+      "plant": "Phú Yên",
+      "other_name": "",
+      "investor": "J-Power",
+      "capacity_mw": "",
+      "status": "thông báo",
+      "province": "Đắk Lắk",
+      "grid_connection_year": "",
+      "source_note": ""
+    },
+    {
+      "plant": "Tổ hợp hóa lọc dầu Long Sơn",
+      "other_name": "Tổ hợp hóa lọc dầu Miền Nam",
+      "investor": "Tập đoàn SCG (Thái Lan)",
+      "capacity_mw": "2x10",
+      "status": "được cấp phép",
+      "province": "Thành phố Hồ Chí Minh",
+      "grid_connection_year": "2023",
+      "source_note": ""
+    },
+    {
+      "plant": "Ô Môn",
+      "other_name": "",
+      "investor": "EVNGENCO2",
+      "capacity_mw": "2x330",
+      "status": "vận hành",
+      "province": "Cần Thơ",
+      "grid_connection_year": "2009-2015",
+      "source_note": ""
+    },
+    {
+      "plant": "Phú Mỹ 1",
+      "other_name": "",
+      "investor": "Công ty Nhiệt điện Phú Mỹ, GENCO 3",
+      "capacity_mw": "1118",
+      "status": "vận hành",
+      "province": "Thành phố Hồ Chí Minh",
+      "grid_connection_year": "2001",
+      "source_note": "và Quyết định 125/QD-DTDL phụ lục 1 hàng 14"
+    },
+    {
+      "plant": "Phú Mỹ 3",
+      "other_name": "",
+      "investor": "Công ty Điện lực TNHH BOT Phú Mỹ 3, SembCorp, Công ty SempCorp Utilities (Singapore), tổ hợp nhà thầu Kyushu và Nissho Iwai (Nhật Bản)",
+      "capacity_mw": "720",
+      "status": "vận hành",
+      "province": "Thành phố Hồ Chí Minh",
+      "grid_connection_year": "2004",
+      "source_note": "và Quyết định 125/QD-DTDL phụ lục 3 hàng 18"
+    },
+    {
+      "plant": "Phú Mỹ 2.2",
+      "other_name": "",
+      "investor": "Mekong Energy Company LTD, Electricité De France (EDF), Sumitomo, TEPCO",
+      "capacity_mw": "720",
+      "status": "vận hành",
+      "province": "Thành phố Hồ Chí Minh",
+      "grid_connection_year": "2005",
+      "source_note": "và Quyết định 125/QD-DTDL phụ lục 3 hàng 17"
+    },
+    {
+      "plant": "Long Sơn",
+      "other_name": "",
+      "investor": "EVNGENCO3",
+      "capacity_mw": "3x1200",
+      "status": "thông báo",
+      "province": "Thành phố Hồ Chí Minh",
+      "grid_connection_year": "2019-2025",
+      "source_note": ""
+    }
+  ],
+  "meta": {
+    "title": "Danh sách nhà máy nhiệt điện khí tại Việt Nam - Free Download",
+    "description": "Các nhà máy nhiệt điện khí và tua-bin khí hỗn hợp tại Việt Nam: nhà đầu tư, công suất, trạng thái, tỉnh và năm đóng lưới. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách nhà máy nhiệt điện khí tại Việt Nam | ListBase",
+    "seo_description": "Download Danh sách nhà máy nhiệt điện khí tại Việt Nam — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Danh_sách_nhà_máy_nhiệt_điện_khí_tại_Việt_Nam"
+    ]
+  }
+}

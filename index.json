@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-15T02:16:59.786Z",
-  "total_datasets": 605,
-  "total_records": 130761,
+  "generated": "2026-11-15T02:17:09.111Z",
+  "total_datasets": 606,
+  "total_records": 130788,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "finance",
@@ -1626,6 +1626,35 @@
         "xlsx": {
           "name": "vi-nha-may-dien-mat-troi-dien-gio_VI.xlsx",
           "size": 28060
+        }
+      }
+    },
+    {
+      "id": "vi-nha-may-nhiet-dien-khi",
+      "name": "Danh sách nhà máy nhiệt điện khí tại Việt Nam",
+      "category": "environment",
+      "record_count": 27,
+      "columns": [
+        "plant",
+        "other_name",
+        "investor",
+        "capacity_mw",
+        "status",
+        "province",
+        "grid_connection_year",
+        "source_note"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_nhà_máy_nhiệt_điện_khí_tại_Việt_Nam",
+      "updated": "2026-11",
+      "size": 11300,
+      "files": {
+        "csv": {
+          "name": "vi-nha-may-nhiet-dien-khi_VI.csv",
+          "size": 4311
+        },
+        "xlsx": {
+          "name": "vi-nha-may-nhiet-dien-khi_VI.xlsx",
+          "size": 8905
         }
       }
     },
