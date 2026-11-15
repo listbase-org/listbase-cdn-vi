@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-15T02:17:17.353Z",
-  "total_datasets": 607,
-  "total_records": 131428,
+  "generated": "2026-11-15T02:17:26.179Z",
+  "total_datasets": 608,
+  "total_records": 131455,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "language",
@@ -3952,6 +3952,33 @@
         "xlsx": {
           "name": "vi-cong-chua-viet-nam_VI.xlsx",
           "size": 18994
+        }
+      }
+    },
+    {
+      "id": "vi-den-thap-cham-pa",
+      "name": "Danh sách đền tháp Chăm Pa",
+      "category": "history",
+      "record_count": 27,
+      "columns": [
+        "name",
+        "type",
+        "period",
+        "province",
+        "deity",
+        "description"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_đền_tháp_Chăm_Pa",
+      "updated": "2026-11",
+      "size": 22695,
+      "files": {
+        "csv": {
+          "name": "vi-den-thap-cham-pa_VI.csv",
+          "size": 17848
+        },
+        "xlsx": {
+          "name": "vi-den-thap-cham-pa_VI.xlsx",
+          "size": 12990
         }
       }
     },
