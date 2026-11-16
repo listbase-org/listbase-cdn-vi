@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-16T02:17:45.033Z",
-  "total_datasets": 610,
-  "total_records": 131480,
+  "generated": "2026-11-16T02:17:53.304Z",
+  "total_datasets": 611,
+  "total_records": 131493,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "tourism",
@@ -15230,6 +15230,31 @@
         "xlsx": {
           "name": "vi-lich-am-duong_VI.xlsx",
           "size": 225128
+        }
+      }
+    },
+    {
+      "id": "vi-lich-su-gio-chuan-viet-nam",
+      "name": "Lịch sử giờ chuẩn ở Việt Nam",
+      "category": "time",
+      "record_count": 13,
+      "columns": [
+        "period",
+        "utc_offset",
+        "time_name",
+        "region"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Giờ_ở_Việt_Nam",
+      "updated": "2026-11",
+      "size": 4517,
+      "files": {
+        "csv": {
+          "name": "vi-lich-su-gio-chuan-viet-nam_VI.csv",
+          "size": 1727
+        },
+        "xlsx": {
+          "name": "vi-lich-su-gio-chuan-viet-nam_VI.xlsx",
+          "size": 7381
         }
       }
     },

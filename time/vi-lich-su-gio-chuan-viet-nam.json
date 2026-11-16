@@ -1,0 +1,124 @@
+{
+  "id": "vi-lich-su-gio-chuan-viet-nam",
+  "name": "Lịch sử giờ chuẩn ở Việt Nam",
+  "title": "Lịch sử giờ chuẩn ở Việt Nam",
+  "description": "Các mốc thay đổi giờ chuẩn (chênh lệch so với GMT/UTC) ở Liên bang Đông Dương, miền Bắc, miền Nam và Việt Nam thống nhất qua các thời kỳ.",
+  "category": "time",
+  "source": "https://vi.wikipedia.org/wiki/Giờ_ở_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Giờ_ở_Việt_Nam",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    },
+    {
+      "key": "utc_offset",
+      "label": "Utc Offset",
+      "type": "string"
+    },
+    {
+      "key": "time_name",
+      "label": "Time Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "period": "Trước ngày 01 tháng 7 năm 1906",
+      "utc_offset": "UTC+07:06:40",
+      "time_name": "Giờ địa phương",
+      "region": "Liên bang Đông Dương"
+    },
+    {
+      "period": "01 tháng 7 năm 1906 – 30 tháng 4 năm 1911",
+      "utc_offset": "UTC+07:06:30",
+      "time_name": "Giờ Pháp",
+      "region": "Liên bang Đông Dương"
+    },
+    {
+      "period": "01 tháng 5 năm 1911 – 31 tháng 12 năm 1942",
+      "utc_offset": "UTC+07:00",
+      "time_name": "Giờ Đông Dương",
+      "region": "Liên bang Đông Dương"
+    },
+    {
+      "period": "01 tháng 1 năm 1943 – 14 tháng 3 năm 1945",
+      "utc_offset": "UTC+08:00",
+      "time_name": "Giờ chuẩn Sài Gòn",
+      "region": "Liên bang Đông Dương"
+    },
+    {
+      "period": "15 tháng 3 năm 1945 – tháng 9 năm 1945",
+      "utc_offset": "UTC+09:00",
+      "time_name": "Giờ chuẩn Nhật Bản",
+      "region": "Liên bang Đông Dương"
+    },
+    {
+      "period": "Tháng 9 năm 1945 – Thực thi Hiệp định Genève",
+      "utc_offset": "UTC+08:00",
+      "time_name": "Giờ chuẩn Sài Gòn",
+      "region": "Liên bang Đông Dương"
+    },
+    {
+      "period": "2 tháng 9 năm 1945 – 31 tháng 3 năm 1947",
+      "utc_offset": "UTC+07:00",
+      "time_name": "Giờ Đông Dương",
+      "region": "miền Bắc Việt Nam"
+    },
+    {
+      "period": "01 tháng 4 năm 1947 – Thực thi Hiệp định Genève Sau khi thực thi",
+      "utc_offset": "Không có giờ chuẩn: UTC+07:00 cho vùng không có chiến sự UTC+08:00 cho vùng có chiến sự",
+      "time_name": "Không có giờ chuẩn: UTC+07:00 cho vùng không có chiến sự UTC+08:00 cho vùng có chiến sự",
+      "region": "miền Bắc Việt Nam"
+    },
+    {
+      "period": "01 tháng 1 năm 1968 – 12 tháng 6 năm 1975",
+      "utc_offset": "UTC+07:00",
+      "time_name": "Giờ Đông Dương",
+      "region": "miền Bắc Việt Nam"
+    },
+    {
+      "period": "Thực thi Hiệp định Genève – 30 tháng 5 năm 1955",
+      "utc_offset": "UTC+08:00",
+      "time_name": "Giờ chuẩn Sài Gòn",
+      "region": "miền Nam Việt Nam"
+    },
+    {
+      "period": "01 tháng 7 năm 1955 – 31 tháng 12 năm 1959",
+      "utc_offset": "UTC+07:00",
+      "time_name": "Giờ chuẩn Sài Gòn",
+      "region": "miền Nam Việt Nam"
+    },
+    {
+      "period": "01 tháng 1 năm 1960 – 12 tháng 6 năm 1975",
+      "utc_offset": "UTC+08:00",
+      "time_name": "Giờ chuẩn Sài Gòn",
+      "region": "miền Nam Việt Nam"
+    },
+    {
+      "period": "13 tháng 6 năm 1975 – nay",
+      "utc_offset": "UTC+07:00",
+      "time_name": "Giờ Đông Dương",
+      "region": "nước Việt Nam thống nhất"
+    }
+  ],
+  "meta": {
+    "title": "Lịch sử giờ chuẩn ở Việt Nam - Free Download",
+    "description": "Các mốc thay đổi giờ chuẩn (chênh lệch so với GMT/UTC) ở Liên bang Đông Dương, miền Bắc, miền Nam và Việt Nam thống nhất qua các thời kỳ. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lịch sử giờ chuẩn ở Việt Nam | ListBase",
+    "seo_description": "Download Lịch sử giờ chuẩn ở Việt Nam — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Giờ_ở_Việt_Nam"
+    ]
+  }
+}
