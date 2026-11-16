@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-15T02:17:26.179Z",
-  "total_datasets": 608,
-  "total_records": 131455,
+  "generated": "2026-11-16T02:17:33.483Z",
+  "total_datasets": 609,
+  "total_records": 131474,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "language",
@@ -3952,6 +3952,34 @@
         "xlsx": {
           "name": "vi-cong-chua-viet-nam_VI.xlsx",
           "size": 18994
+        }
+      }
+    },
+    {
+      "id": "vi-dai-tuong-quan-doi-nhan-dan",
+      "name": "Danh sách Đại tướng Quân đội nhân dân Việt Nam",
+      "category": "history",
+      "record_count": 19,
+      "columns": [
+        "name",
+        "birth_year",
+        "death_year",
+        "promoted_year",
+        "hometown_old_province",
+        "hometown_new_province",
+        "currently_serving"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Đại_tướng_Quân_đội_nhân_dân_Việt_Nam",
+      "updated": "2026-11",
+      "size": 7115,
+      "files": {
+        "csv": {
+          "name": "vi-dai-tuong-quan-doi-nhan-dan_VI.csv",
+          "size": 1534
+        },
+        "xlsx": {
+          "name": "vi-dai-tuong-quan-doi-nhan-dan_VI.xlsx",
+          "size": 7845
         }
       }
     },

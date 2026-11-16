@@ -1,0 +1,232 @@
+{
+  "id": "vi-dai-tuong-quan-doi-nhan-dan",
+  "name": "Danh sách Đại tướng Quân đội nhân dân Việt Nam",
+  "title": "Danh sách Đại tướng Quân đội nhân dân Việt Nam",
+  "description": "Các sĩ quan được phong quân hàm Đại tướng Quân đội nhân dân Việt Nam: năm sinh – mất, năm được phong và quê quán (tỉnh cũ và tỉnh mới sau sáp nhập).",
+  "category": "history",
+  "source": "https://vi.wikipedia.org/wiki/Đại_tướng_Quân_đội_nhân_dân_Việt_Nam",
+  "source_url": "https://vi.wikipedia.org/wiki/Đại_tướng_Quân_đội_nhân_dân_Việt_Nam",
+  "updated": "2026-11",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "birth_year",
+      "label": "Birth Year",
+      "type": "number"
+    },
+    {
+      "key": "death_year",
+      "label": "Death Year",
+      "type": "number"
+    },
+    {
+      "key": "promoted_year",
+      "label": "Promoted Year",
+      "type": "number"
+    },
+    {
+      "key": "hometown_old_province",
+      "label": "Hometown Old Province",
+      "type": "string"
+    },
+    {
+      "key": "hometown_new_province",
+      "label": "Hometown New Province",
+      "type": "string"
+    },
+    {
+      "key": "currently_serving",
+      "label": "Currently Serving",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Võ Nguyên Giáp",
+      "birth_year": 1911,
+      "death_year": 2013,
+      "promoted_year": 1948,
+      "hometown_old_province": "Quảng Bình",
+      "hometown_new_province": "Quảng Trị",
+      "currently_serving": "không"
+    },
+    {
+      "name": "Nguyễn Chí Thanh",
+      "birth_year": 1914,
+      "death_year": 1967,
+      "promoted_year": 1959,
+      "hometown_old_province": "Thừa Thiên – Huế",
+      "hometown_new_province": "Huế",
+      "currently_serving": "không"
+    },
+    {
+      "name": "Văn Tiến Dũng",
+      "birth_year": 1917,
+      "death_year": 2002,
+      "promoted_year": 1974,
+      "hometown_old_province": "Hà Nội",
+      "hometown_new_province": "Hà Nội",
+      "currently_serving": "không"
+    },
+    {
+      "name": "Hoàng Văn Thái",
+      "birth_year": 1915,
+      "death_year": 1986,
+      "promoted_year": 1980,
+      "hometown_old_province": "Thái Bình",
+      "hometown_new_province": "Hưng Yên",
+      "currently_serving": "không"
+    },
+    {
+      "name": "Chu Huy Mân",
+      "birth_year": 1913,
+      "death_year": 2006,
+      "promoted_year": 1980,
+      "hometown_old_province": "Nghệ An",
+      "hometown_new_province": "Nghệ An",
+      "currently_serving": "không"
+    },
+    {
+      "name": "Lê Trọng Tấn",
+      "birth_year": 1914,
+      "death_year": 1986,
+      "promoted_year": 1984,
+      "hometown_old_province": "Hà Nội",
+      "hometown_new_province": "Hà Nội",
+      "currently_serving": "không"
+    },
+    {
+      "name": "Lê Đức Anh",
+      "birth_year": 1920,
+      "death_year": 2019,
+      "promoted_year": 1984,
+      "hometown_old_province": "Thừa Thiên – Huế",
+      "hometown_new_province": "Huế",
+      "currently_serving": "không"
+    },
+    {
+      "name": "Nguyễn Quyết",
+      "birth_year": 1922,
+      "death_year": 2024,
+      "promoted_year": 1990,
+      "hometown_old_province": "Hưng Yên",
+      "hometown_new_province": "Hưng Yên",
+      "currently_serving": "không"
+    },
+    {
+      "name": "Đoàn Khuê",
+      "birth_year": 1923,
+      "death_year": 1999,
+      "promoted_year": 1990,
+      "hometown_old_province": "Quảng Trị",
+      "hometown_new_province": "Quảng Trị",
+      "currently_serving": "không"
+    },
+    {
+      "name": "Phạm Văn Trà",
+      "birth_year": 1935,
+      "death_year": "",
+      "promoted_year": 2003,
+      "hometown_old_province": "Bắc Ninh",
+      "hometown_new_province": "Bắc Ninh",
+      "currently_serving": "không"
+    },
+    {
+      "name": "Lê Văn Dũng",
+      "birth_year": 1945,
+      "death_year": 2026,
+      "promoted_year": 2007,
+      "hometown_old_province": "Bến Tre",
+      "hometown_new_province": "Vĩnh Long",
+      "currently_serving": "không"
+    },
+    {
+      "name": "Phùng Quang Thanh",
+      "birth_year": 1949,
+      "death_year": 2021,
+      "promoted_year": 2007,
+      "hometown_old_province": "Hà Nội",
+      "hometown_new_province": "Hà Nội",
+      "currently_serving": "không"
+    },
+    {
+      "name": "Đỗ Bá Tỵ",
+      "birth_year": 1954,
+      "death_year": "",
+      "promoted_year": 2015,
+      "hometown_old_province": "Hà Nội",
+      "hometown_new_province": "Hà Nội",
+      "currently_serving": "không"
+    },
+    {
+      "name": "Ngô Xuân Lịch",
+      "birth_year": 1954,
+      "death_year": "",
+      "promoted_year": 2015,
+      "hometown_old_province": "Hà Nam",
+      "hometown_new_province": "Ninh Bình",
+      "currently_serving": "không"
+    },
+    {
+      "name": "Lương Cường",
+      "birth_year": 1957,
+      "death_year": "",
+      "promoted_year": 2019,
+      "hometown_old_province": "Phú Thọ",
+      "hometown_new_province": "Phú Thọ",
+      "currently_serving": "không"
+    },
+    {
+      "name": "Phan Văn Giang",
+      "birth_year": 1960,
+      "death_year": "",
+      "promoted_year": 2021,
+      "hometown_old_province": "Nam Định",
+      "hometown_new_province": "Ninh Bình",
+      "currently_serving": "có"
+    },
+    {
+      "name": "Nguyễn Tân Cương",
+      "birth_year": 1966,
+      "death_year": "",
+      "promoted_year": 2024,
+      "hometown_old_province": "Hà Nam",
+      "hometown_new_province": "Ninh Bình",
+      "currently_serving": "có"
+    },
+    {
+      "name": "Trịnh Văn Quyết",
+      "birth_year": 1966,
+      "death_year": "",
+      "promoted_year": 2025,
+      "hometown_old_province": "Hải Dương",
+      "hometown_new_province": "Hải Phòng",
+      "currently_serving": "có"
+    },
+    {
+      "name": "Nguyễn Trọng Nghĩa",
+      "birth_year": 1962,
+      "death_year": "",
+      "promoted_year": 2025,
+      "hometown_old_province": "Tiền Giang",
+      "hometown_new_province": "Đồng Tháp",
+      "currently_serving": "có"
+    }
+  ],
+  "meta": {
+    "title": "Danh sách Đại tướng Quân đội nhân dân Việt Nam - Free Download",
+    "description": "Các sĩ quan được phong quân hàm Đại tướng Quân đội nhân dân Việt Nam: năm sinh – mất, năm được phong và quê quán (tỉnh cũ và tỉnh mới sau sáp nhập). Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Danh sách Đại tướng Quân đội nhân dân Việt Nam | ListBase",
+    "seo_description": "Download Danh sách Đại tướng Quân đội nhân dân Việt Nam — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Đại_tướng_Quân_đội_nhân_dân_Việt_Nam"
+    ]
+  }
+}
