@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-16T02:17:33.483Z",
-  "total_datasets": 609,
-  "total_records": 131474,
+  "generated": "2026-11-16T02:17:45.033Z",
+  "total_datasets": 610,
+  "total_records": 131480,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "economy",
@@ -590,6 +590,37 @@
         "xlsx": {
           "name": "vi-di-san-van-hoa-phi-vat-the-quoc-gia_VI.xlsx",
           "size": 29720
+        }
+      }
+    },
+    {
+      "id": "vi-hong-y-viet-nam",
+      "name": "Danh sách hồng y Việt Nam",
+      "category": "culture",
+      "record_count": 6,
+      "columns": [
+        "name",
+        "birth_year",
+        "death_year",
+        "priest_ordination",
+        "episcopal_consecration",
+        "cardinal_date",
+        "cardinal_order",
+        "motto",
+        "diocese",
+        "appointed_by_pope"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Danh_sách_hồng_y_Việt_Nam",
+      "updated": "2026-11",
+      "size": 5043,
+      "files": {
+        "csv": {
+          "name": "vi-hong-y-viet-nam_VI.csv",
+          "size": 1419
+        },
+        "xlsx": {
+          "name": "vi-hong-y-viet-nam_VI.xlsx",
+          "size": 7634
         }
       }
     },
