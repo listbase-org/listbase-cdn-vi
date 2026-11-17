@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-17T02:20:46.621Z",
-  "total_datasets": 614,
-  "total_records": 131647,
+  "generated": "2026-11-17T02:20:55.554Z",
+  "total_datasets": 615,
+  "total_records": 131661,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "math",
@@ -5098,6 +5098,31 @@
         "xlsx": {
           "name": "vi-vien-truong-vksndtc_VI.xlsx",
           "size": 7189
+        }
+      }
+    },
+    {
+      "id": "vi-vu-an-bi-can-truy-to-theo-nhom-toi-danh-2025",
+      "name": "Số vụ án và số bị can bị truy tố năm 2025 phân theo nhóm tội danh",
+      "category": "law",
+      "record_count": 14,
+      "columns": [
+        "crime_group",
+        "penal_code_chapter",
+        "cases_prosecuted",
+        "defendants_prosecuted"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/V14.80.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 5238,
+      "files": {
+        "csv": {
+          "name": "vi-vu-an-bi-can-truy-to-theo-nhom-toi-danh-2025_VI.csv",
+          "size": 1241
+        },
+        "xlsx": {
+          "name": "vi-vu-an-bi-can-truy-to-theo-nhom-toi-danh-2025_VI.xlsx",
+          "size": 7468
         }
       }
     },
