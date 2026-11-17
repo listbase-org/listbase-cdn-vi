@@ -1,12 +1,12 @@
 {
   "lang": "vi",
-  "generated": "2026-11-17T02:20:30.179Z",
-  "total_datasets": 612,
-  "total_records": 131563,
+  "generated": "2026-11-17T02:20:38.276Z",
+  "total_datasets": 613,
+  "total_records": 131576,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -256,6 +256,48 @@
         "xlsx": {
           "name": "vi-go-nhom-1_VI.xlsx",
           "size": 8932
+        }
+      }
+    },
+    {
+      "id": "vi-san-luong-cay-lau-nam-chu-yeu",
+      "name": "Sản lượng một số cây lâu năm chủ yếu của Việt Nam",
+      "category": "agriculture",
+      "record_count": 13,
+      "columns": [
+        "crop",
+        "y2005",
+        "y2007",
+        "y2008",
+        "y2009",
+        "y2010",
+        "y2011",
+        "y2012",
+        "y2013",
+        "y2014",
+        "y2015",
+        "y2016",
+        "y2017",
+        "y2018",
+        "y2019",
+        "y2020",
+        "y2021",
+        "y2022",
+        "y2023",
+        "y2024",
+        "y2025_so_bo"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/N%C3%B4ng%20nghi%E1%BB%87p%2C%20l%C3%A2m%20nghi%E1%BB%87p%20v%C3%A0%20th%E1%BB%A7y%20s%E1%BA%A3n/N%C3%B4ng%20nghi%E1%BB%87p%2C%20l%C3%A2m%20nghi%E1%BB%87p%20v%C3%A0%20th%E1%BB%A7y%20s%E1%BA%A3n/V06.38.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 10215,
+      "files": {
+        "csv": {
+          "name": "vi-san-luong-cay-lau-nam-chu-yeu_VI.csv",
+          "size": 2313
+        },
+        "xlsx": {
+          "name": "vi-san-luong-cay-lau-nam-chu-yeu_VI.xlsx",
+          "size": 8533
         }
       }
     },
