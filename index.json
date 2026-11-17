@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-16T02:17:53.304Z",
-  "total_datasets": 611,
-  "total_records": 131493,
+  "generated": "2026-11-17T02:20:30.179Z",
+  "total_datasets": 612,
+  "total_records": 131563,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -3873,6 +3873,43 @@
         "xlsx": {
           "name": "vi-covid-19-theo-tinh-thanh_VI.xlsx",
           "size": 8798
+        }
+      }
+    },
+    {
+      "id": "vi-giuong-benh-va-bac-si-theo-tinh",
+      "name": "Số giường bệnh và số bác sĩ phân theo địa phương",
+      "category": "health",
+      "record_count": 70,
+      "columns": [
+        "area",
+        "level",
+        "beds_total_2021",
+        "beds_public_2021",
+        "beds_non_public_2021",
+        "beds_total_2022",
+        "beds_public_2022",
+        "beds_non_public_2022",
+        "beds_total_2023",
+        "beds_public_2023",
+        "beds_non_public_2023",
+        "doctors_2018",
+        "doctors_2019",
+        "doctors_2020",
+        "doctors_2021",
+        "doctors_2022_so_bo"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/V14.09.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 39854,
+      "files": {
+        "csv": {
+          "name": "vi-giuong-benh-va-bac-si-theo-tinh_VI.csv",
+          "size": 9228
+        },
+        "xlsx": {
+          "name": "vi-giuong-benh-va-bac-si-theo-tinh_VI.xlsx",
+          "size": 13306
         }
       }
     },
