@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-18T02:19:14.102Z",
-  "total_datasets": 617,
-  "total_records": 132011,
+  "generated": "2026-11-18T02:19:22.629Z",
+  "total_datasets": 618,
+  "total_records": 132081,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "history",
@@ -4088,6 +4088,44 @@
         "xlsx": {
           "name": "vi-ty-le-suy-dinh-duong-tre-em-duoi-5-tuoi-theo-tinh_VI.xlsx",
           "size": 14713
+        }
+      }
+    },
+    {
+      "id": "vi-ty-le-tiem-chung-day-du-tre-em-theo-tinh",
+      "name": "Tỷ lệ trẻ em dưới 1 tuổi được tiêm chủng đầy đủ phân theo địa phương (2010–2024)",
+      "category": "health",
+      "record_count": 70,
+      "columns": [
+        "area",
+        "level",
+        "y2010",
+        "y2011",
+        "y2012",
+        "y2013",
+        "y2014",
+        "y2015",
+        "y2016",
+        "y2017",
+        "y2018",
+        "y2019",
+        "y2020",
+        "y2021",
+        "y2022",
+        "y2023",
+        "y2024"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/V14.16.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 31038,
+      "files": {
+        "csv": {
+          "name": "vi-ty-le-tiem-chung-day-du-tre-em-theo-tinh_VI.csv",
+          "size": 9812
+        },
+        "xlsx": {
+          "name": "vi-ty-le-tiem-chung-day-du-tre-em-theo-tinh_VI.xlsx",
+          "size": 12971
         }
       }
     },
