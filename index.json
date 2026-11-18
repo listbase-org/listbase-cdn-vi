@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-17T02:20:55.554Z",
-  "total_datasets": 615,
-  "total_records": 131661,
+  "generated": "2026-11-18T02:19:05.452Z",
+  "total_datasets": 616,
+  "total_records": 131731,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -4006,6 +4006,35 @@
         "xlsx": {
           "name": "vi-giuong-benh-va-bac-si-theo-tinh_VI.xlsx",
           "size": 13306
+        }
+      }
+    },
+    {
+      "id": "vi-hiv-aids-theo-tinh-2024",
+      "name": "Số người nhiễm HIV/AIDS và tử vong do HIV/AIDS phân theo địa phương năm 2024",
+      "category": "health",
+      "record_count": 70,
+      "columns": [
+        "area",
+        "level",
+        "new_hiv_cases",
+        "living_hiv_cumulative",
+        "deaths_in_year",
+        "deaths_cumulative",
+        "living_hiv_per_100k",
+        "deaths_per_100k"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/V14.19.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 21978,
+      "files": {
+        "csv": {
+          "name": "vi-hiv-aids-theo-tinh-2024_VI.csv",
+          "size": 5308
+        },
+        "xlsx": {
+          "name": "vi-hiv-aids-theo-tinh-2024_VI.xlsx",
+          "size": 10461
         }
       }
     },

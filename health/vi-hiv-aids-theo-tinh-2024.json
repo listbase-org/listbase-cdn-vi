@@ -1,0 +1,766 @@
+{
+  "id": "vi-hiv-aids-theo-tinh-2024",
+  "name": "Số người nhiễm HIV/AIDS và tử vong do HIV/AIDS phân theo địa phương năm 2024",
+  "title": "Số người nhiễm HIV/AIDS và tử vong do HIV/AIDS phân theo địa phương năm 2024",
+  "description": "Số người nhiễm HIV phát hiện mới, số người nhiễm HIV còn sống (lũy kế), số người chết do HIV/AIDS trong năm và lũy kế, cùng tỷ lệ trên 100.000 dân của cả nước, các vùng và tỉnh, thành phố năm 2024, theo Tổng cục Thống kê.",
+  "category": "health",
+  "source": "https://pxweb.nso.gov.vn/pxweb/vi/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/V14.19.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "source_url": "https://pxweb.nso.gov.vn/pxweb/vi/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/V14.19.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "updated": "2026-11",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "string"
+    },
+    {
+      "key": "new_hiv_cases",
+      "label": "New Hiv Cases",
+      "type": "number"
+    },
+    {
+      "key": "living_hiv_cumulative",
+      "label": "Living Hiv Cumulative",
+      "type": "number"
+    },
+    {
+      "key": "deaths_in_year",
+      "label": "Deaths In Year",
+      "type": "number"
+    },
+    {
+      "key": "deaths_cumulative",
+      "label": "Deaths Cumulative",
+      "type": "number"
+    },
+    {
+      "key": "living_hiv_per_100k",
+      "label": "Living Hiv Per 100k",
+      "type": "number"
+    },
+    {
+      "key": "deaths_per_100k",
+      "label": "Deaths Per 100k",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "area": "CẢ NƯỚC",
+      "level": "cả nước",
+      "new_hiv_cases": 13351,
+      "living_hiv_cumulative": 245762,
+      "deaths_in_year": 1905,
+      "deaths_cumulative": 116004,
+      "living_hiv_per_100k": 242.5,
+      "deaths_per_100k": 1.9
+    },
+    {
+      "area": "Đồng bằng sông Hồng",
+      "level": "vùng",
+      "new_hiv_cases": 1258,
+      "living_hiv_cumulative": 46131,
+      "deaths_in_year": 260,
+      "deaths_cumulative": 29346,
+      "living_hiv_per_100k": 192.1,
+      "deaths_per_100k": 1.1
+    },
+    {
+      "area": "Hà Nội",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 424,
+      "living_hiv_cumulative": 19116,
+      "deaths_in_year": 48,
+      "deaths_cumulative": 7585,
+      "living_hiv_per_100k": 219.3,
+      "deaths_per_100k": 0.6
+    },
+    {
+      "area": "Vĩnh Phúc",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 59,
+      "living_hiv_cumulative": 1472,
+      "deaths_in_year": 20,
+      "deaths_cumulative": 899,
+      "living_hiv_per_100k": 120.1,
+      "deaths_per_100k": 1.6
+    },
+    {
+      "area": "Bắc Ninh",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 47,
+      "living_hiv_cumulative": 1152,
+      "deaths_in_year": 16,
+      "deaths_cumulative": 1153,
+      "living_hiv_per_100k": 74.5,
+      "deaths_per_100k": 1
+    },
+    {
+      "area": "Quảng Ninh",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 170,
+      "living_hiv_cumulative": 6329,
+      "deaths_in_year": 51,
+      "deaths_cumulative": 5884,
+      "living_hiv_per_100k": 453.2,
+      "deaths_per_100k": 3.7
+    },
+    {
+      "area": "Hải Dương",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 90,
+      "living_hiv_cumulative": 2272,
+      "deaths_in_year": 11,
+      "deaths_cumulative": 1793,
+      "living_hiv_per_100k": 114.9,
+      "deaths_per_100k": 0.6
+    },
+    {
+      "area": "Hải Phòng",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 205,
+      "living_hiv_cumulative": 7046,
+      "deaths_in_year": 52,
+      "deaths_cumulative": 5502,
+      "living_hiv_per_100k": 331.7,
+      "deaths_per_100k": 2.4
+    },
+    {
+      "area": "Hưng Yên",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 62,
+      "living_hiv_cumulative": 1122,
+      "deaths_in_year": 15,
+      "deaths_cumulative": 972,
+      "living_hiv_per_100k": 85.1,
+      "deaths_per_100k": 1.1
+    },
+    {
+      "area": "Thái Bình",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 55,
+      "living_hiv_cumulative": 2184,
+      "deaths_in_year": 11,
+      "deaths_cumulative": 1704,
+      "living_hiv_per_100k": 115.5,
+      "deaths_per_100k": 0.6
+    },
+    {
+      "area": "Hà Nam",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 44,
+      "living_hiv_cumulative": 909,
+      "deaths_in_year": 1,
+      "deaths_cumulative": 779,
+      "living_hiv_per_100k": 101.7,
+      "deaths_per_100k": 0.1
+    },
+    {
+      "area": "Nam Định",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 71,
+      "living_hiv_cumulative": 2953,
+      "deaths_in_year": 17,
+      "deaths_cumulative": 1759,
+      "living_hiv_per_100k": 155.9,
+      "deaths_per_100k": 0.9
+    },
+    {
+      "area": "Ninh Bình",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 31,
+      "living_hiv_cumulative": 1576,
+      "deaths_in_year": 18,
+      "deaths_cumulative": 1316,
+      "living_hiv_per_100k": 153,
+      "deaths_per_100k": 1.7
+    },
+    {
+      "area": "Trung du và miền núi phía Bắc",
+      "level": "vùng",
+      "new_hiv_cases": 1782,
+      "living_hiv_cumulative": 29269,
+      "deaths_in_year": 413,
+      "deaths_cumulative": 26770,
+      "living_hiv_per_100k": 219.4,
+      "deaths_per_100k": 3.1
+    },
+    {
+      "area": "Hà Giang",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 34,
+      "living_hiv_cumulative": 874,
+      "deaths_in_year": 7,
+      "deaths_cumulative": 369,
+      "living_hiv_per_100k": 95.9,
+      "deaths_per_100k": 0.8
+    },
+    {
+      "area": "Cao Bằng",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 428,
+      "living_hiv_cumulative": 997,
+      "deaths_in_year": 21,
+      "deaths_cumulative": 1354,
+      "living_hiv_per_100k": 178.5,
+      "deaths_per_100k": 3.8
+    },
+    {
+      "area": "Bắc Kạn",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 108,
+      "living_hiv_cumulative": 837,
+      "deaths_in_year": 19,
+      "deaths_cumulative": 1125,
+      "living_hiv_per_100k": 254.2,
+      "deaths_per_100k": 5.8
+    },
+    {
+      "area": "Tuyên Quang",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 54,
+      "living_hiv_cumulative": 914,
+      "deaths_in_year": 2,
+      "deaths_cumulative": 820,
+      "living_hiv_per_100k": 111.4,
+      "deaths_per_100k": 0.2
+    },
+    {
+      "area": "Lào Cai",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 94,
+      "living_hiv_cumulative": 1652,
+      "deaths_in_year": 43,
+      "deaths_cumulative": 1630,
+      "living_hiv_per_100k": 208.5,
+      "deaths_per_100k": 5.4
+    },
+    {
+      "area": "Yên Bái",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 92,
+      "living_hiv_cumulative": 1880,
+      "deaths_in_year": 23,
+      "deaths_cumulative": 1931,
+      "living_hiv_per_100k": 217.5,
+      "deaths_per_100k": 2.7
+    },
+    {
+      "area": "Thái Nguyên",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 110,
+      "living_hiv_cumulative": 4758,
+      "deaths_in_year": 60,
+      "deaths_cumulative": 4786,
+      "living_hiv_per_100k": 348.5,
+      "deaths_per_100k": 4.4
+    },
+    {
+      "area": "Lạng Sơn",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 43,
+      "living_hiv_cumulative": 1040,
+      "deaths_in_year": 10,
+      "deaths_cumulative": 2194,
+      "living_hiv_per_100k": 127.8,
+      "deaths_per_100k": 1.2
+    },
+    {
+      "area": "Bắc Giang",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 240,
+      "living_hiv_cumulative": 1987,
+      "deaths_in_year": 14,
+      "deaths_cumulative": 1342,
+      "living_hiv_per_100k": 101.2,
+      "deaths_per_100k": 0.7
+    },
+    {
+      "area": "Phú Thọ",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 127,
+      "living_hiv_cumulative": 2550,
+      "deaths_in_year": 39,
+      "deaths_cumulative": 1567,
+      "living_hiv_per_100k": 165.2,
+      "deaths_per_100k": 2.5
+    },
+    {
+      "area": "Điện Biên",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 111,
+      "living_hiv_cumulative": 3614,
+      "deaths_in_year": 69,
+      "deaths_cumulative": 2300,
+      "living_hiv_per_100k": 550.3,
+      "deaths_per_100k": 10.5
+    },
+    {
+      "area": "Lai Châu",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 110,
+      "living_hiv_cumulative": 1513,
+      "deaths_in_year": 51,
+      "deaths_cumulative": 1880,
+      "living_hiv_per_100k": 305.4,
+      "deaths_per_100k": 10.3
+    },
+    {
+      "area": "Sơn La",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 151,
+      "living_hiv_cumulative": 5307,
+      "deaths_in_year": 31,
+      "deaths_cumulative": 4300,
+      "living_hiv_per_100k": 398.8,
+      "deaths_per_100k": 2.3
+    },
+    {
+      "area": "Hoà Bình",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 80,
+      "living_hiv_cumulative": 1346,
+      "deaths_in_year": 24,
+      "deaths_cumulative": 1172,
+      "living_hiv_per_100k": 150.5,
+      "deaths_per_100k": 2.7
+    },
+    {
+      "area": "Bắc Trung Bộ và Duyên hải miền Trung",
+      "level": "vùng",
+      "new_hiv_cases": 1918,
+      "living_hiv_cumulative": 21376,
+      "deaths_in_year": 240,
+      "deaths_cumulative": 12762,
+      "living_hiv_per_100k": 102,
+      "deaths_per_100k": 1.1
+    },
+    {
+      "area": "Thanh Hoá",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 153,
+      "living_hiv_cumulative": 5121,
+      "deaths_in_year": 27,
+      "deaths_cumulative": 2912,
+      "living_hiv_per_100k": 136,
+      "deaths_per_100k": 0.7
+    },
+    {
+      "area": "Nghệ An",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 193,
+      "living_hiv_cumulative": 6309,
+      "deaths_in_year": 77,
+      "deaths_cumulative": 4564,
+      "living_hiv_per_100k": 181.7,
+      "deaths_per_100k": 2.2
+    },
+    {
+      "area": "Hà Tĩnh",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 58,
+      "living_hiv_cumulative": 736,
+      "deaths_in_year": 6,
+      "deaths_cumulative": 421,
+      "living_hiv_per_100k": 55.3,
+      "deaths_per_100k": 0.5
+    },
+    {
+      "area": "Quảng Bình",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 18,
+      "living_hiv_cumulative": 413,
+      "deaths_in_year": 10,
+      "deaths_cumulative": 133,
+      "living_hiv_per_100k": 44.7,
+      "deaths_per_100k": 1.1
+    },
+    {
+      "area": "Quảng Trị",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 23,
+      "living_hiv_cumulative": 278,
+      "deaths_in_year": 2,
+      "deaths_cumulative": 107,
+      "living_hiv_per_100k": 42.2,
+      "deaths_per_100k": 0.3
+    },
+    {
+      "area": "Thừa Thiên Huế",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 43,
+      "living_hiv_cumulative": 603,
+      "deaths_in_year": 7,
+      "deaths_cumulative": 346,
+      "living_hiv_per_100k": 51.2,
+      "deaths_per_100k": ""
+    },
+    {
+      "area": "Đà Nẵng",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 108,
+      "living_hiv_cumulative": 1392,
+      "deaths_in_year": 8,
+      "deaths_cumulative": 401,
+      "living_hiv_per_100k": 109.1,
+      "deaths_per_100k": 0.5
+    },
+    {
+      "area": "Quảng Nam",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 95,
+      "living_hiv_cumulative": 710,
+      "deaths_in_year": 15,
+      "deaths_cumulative": 484,
+      "living_hiv_per_100k": 46,
+      "deaths_per_100k": 0.5
+    },
+    {
+      "area": "Quảng Ngãi",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 114,
+      "living_hiv_cumulative": 850,
+      "deaths_in_year": 21,
+      "deaths_cumulative": 308,
+      "living_hiv_per_100k": 67.5,
+      "deaths_per_100k": 1.2
+    },
+    {
+      "area": "Bình Định",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 758,
+      "living_hiv_cumulative": 871,
+      "deaths_in_year": 7,
+      "deaths_cumulative": 603,
+      "living_hiv_per_100k": 57.4,
+      "deaths_per_100k": 1.4
+    },
+    {
+      "area": "Phú Yên",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 48,
+      "living_hiv_cumulative": 427,
+      "deaths_in_year": 34,
+      "deaths_cumulative": 192,
+      "living_hiv_per_100k": 48.2,
+      "deaths_per_100k": 0.8
+    },
+    {
+      "area": "Khánh Hoà",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 139,
+      "living_hiv_cumulative": 2007,
+      "deaths_in_year": 13,
+      "deaths_cumulative": 1384,
+      "living_hiv_per_100k": 158.1,
+      "deaths_per_100k": 2.7
+    },
+    {
+      "area": "Ninh Thuận",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 69,
+      "living_hiv_cumulative": 434,
+      "deaths_in_year": 13,
+      "deaths_cumulative": 248,
+      "living_hiv_per_100k": 70.8,
+      "deaths_per_100k": 2.1
+    },
+    {
+      "area": "Bình Thuận",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 99,
+      "living_hiv_cumulative": 1225,
+      "deaths_in_year": 41,
+      "deaths_cumulative": 659,
+      "living_hiv_per_100k": 96.7,
+      "deaths_per_100k": 1
+    },
+    {
+      "area": "Tây Nguyên",
+      "level": "vùng",
+      "new_hiv_cases": 411,
+      "living_hiv_cumulative": 4520,
+      "deaths_in_year": 3,
+      "deaths_cumulative": 1962,
+      "living_hiv_per_100k": 72.4,
+      "deaths_per_100k": 0.7
+    },
+    {
+      "area": "Kon Tum",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 35,
+      "living_hiv_cumulative": 424,
+      "deaths_in_year": 13,
+      "deaths_cumulative": 208,
+      "living_hiv_per_100k": 70.5,
+      "deaths_per_100k": 0.5
+    },
+    {
+      "area": "Gia Lai",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 108,
+      "living_hiv_cumulative": 914,
+      "deaths_in_year": 14,
+      "deaths_cumulative": 374,
+      "living_hiv_per_100k": 55.9,
+      "deaths_per_100k": 0.8
+    },
+    {
+      "area": "Đắk Lắk",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 113,
+      "living_hiv_cumulative": 1207,
+      "deaths_in_year": 1,
+      "deaths_cumulative": 496,
+      "living_hiv_per_100k": 62,
+      "deaths_per_100k": 0.7
+    },
+    {
+      "area": "Đắk Nông",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 43,
+      "living_hiv_cumulative": 438,
+      "deaths_in_year": 10,
+      "deaths_cumulative": 241,
+      "living_hiv_per_100k": 63,
+      "deaths_per_100k": 0.1
+    },
+    {
+      "area": "Lâm Đồng",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 112,
+      "living_hiv_cumulative": 1537,
+      "deaths_in_year": 370,
+      "deaths_cumulative": 643,
+      "living_hiv_per_100k": 112.8,
+      "deaths_per_100k": 0.7
+    },
+    {
+      "area": "Đông Nam Bộ",
+      "level": "vùng",
+      "new_hiv_cases": 3794,
+      "living_hiv_cumulative": 96644,
+      "deaths_in_year": 13,
+      "deaths_cumulative": 21866,
+      "living_hiv_per_100k": 502.3,
+      "deaths_per_100k": 1.9
+    },
+    {
+      "area": "Bình Phước",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 122,
+      "living_hiv_cumulative": 1436,
+      "deaths_in_year": 40,
+      "deaths_cumulative": 412,
+      "living_hiv_per_100k": 135.2,
+      "deaths_per_100k": 1.2
+    },
+    {
+      "area": "Tây Ninh",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 318,
+      "living_hiv_cumulative": 4424,
+      "deaths_in_year": 33,
+      "deaths_cumulative": 2064,
+      "living_hiv_per_100k": 367.8,
+      "deaths_per_100k": 3.3
+    },
+    {
+      "area": "Bình Dương",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 109,
+      "living_hiv_cumulative": 6499,
+      "deaths_in_year": 39,
+      "deaths_cumulative": 1277,
+      "living_hiv_per_100k": 226.4,
+      "deaths_per_100k": 1.1
+    },
+    {
+      "area": "Đồng Nai",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 525,
+      "living_hiv_cumulative": 6826,
+      "deaths_in_year": 23,
+      "deaths_cumulative": 3366,
+      "living_hiv_per_100k": 202.8,
+      "deaths_per_100k": 1.2
+    },
+    {
+      "area": "Bà Rịa - Vũng Tàu",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 225,
+      "living_hiv_cumulative": 3449,
+      "deaths_in_year": 222,
+      "deaths_cumulative": 2176,
+      "living_hiv_per_100k": 288.7,
+      "deaths_per_100k": 1.9
+    },
+    {
+      "area": "TP.Hồ Chí Minh",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 2495,
+      "living_hiv_cumulative": 74010,
+      "deaths_in_year": 581,
+      "deaths_cumulative": 12571,
+      "living_hiv_per_100k": 775.5,
+      "deaths_per_100k": 2.3
+    },
+    {
+      "area": "Đồng bằng sông Cửu Long",
+      "level": "vùng",
+      "new_hiv_cases": 4188,
+      "living_hiv_cumulative": 47822,
+      "deaths_in_year": 41,
+      "deaths_cumulative": 23298,
+      "living_hiv_per_100k": 272.5,
+      "deaths_per_100k": 3.3
+    },
+    {
+      "area": "Long An",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 417,
+      "living_hiv_cumulative": 4027,
+      "deaths_in_year": 34,
+      "deaths_cumulative": 1056,
+      "living_hiv_per_100k": 229.3,
+      "deaths_per_100k": 2.3
+    },
+    {
+      "area": "Tiền Giang",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 438,
+      "living_hiv_cumulative": 3879,
+      "deaths_in_year": 46,
+      "deaths_cumulative": 1402,
+      "living_hiv_per_100k": 216,
+      "deaths_per_100k": 1.9
+    },
+    {
+      "area": "Bến Tre",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 294,
+      "living_hiv_cumulative": 2693,
+      "deaths_in_year": 29,
+      "deaths_cumulative": 1342,
+      "living_hiv_per_100k": 206.2,
+      "deaths_per_100k": 3.5
+    },
+    {
+      "area": "Trà Vinh",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 203,
+      "living_hiv_cumulative": 1585,
+      "deaths_in_year": 18,
+      "deaths_cumulative": 1252,
+      "living_hiv_per_100k": 154.8,
+      "deaths_per_100k": 2.8
+    },
+    {
+      "area": "Vĩnh Long",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 335,
+      "living_hiv_cumulative": 2669,
+      "deaths_in_year": 68,
+      "deaths_cumulative": 1129,
+      "living_hiv_per_100k": 257.3,
+      "deaths_per_100k": 1.7
+    },
+    {
+      "area": "Đồng Tháp",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 450,
+      "living_hiv_cumulative": 4786,
+      "deaths_in_year": 133,
+      "deaths_cumulative": 2206,
+      "living_hiv_per_100k": 298.9,
+      "deaths_per_100k": 4.2
+    },
+    {
+      "area": "An Giang",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 594,
+      "living_hiv_cumulative": 7524,
+      "deaths_in_year": 50,
+      "deaths_cumulative": 5902,
+      "living_hiv_per_100k": 393.4,
+      "deaths_per_100k": 7
+    },
+    {
+      "area": "Kiên Giang",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 485,
+      "living_hiv_cumulative": 4186,
+      "deaths_in_year": 55,
+      "deaths_cumulative": 1830,
+      "living_hiv_per_100k": 236.9,
+      "deaths_per_100k": 2.8
+    },
+    {
+      "area": "Cần Thơ",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 98,
+      "living_hiv_cumulative": 5977,
+      "deaths_in_year": 14,
+      "deaths_cumulative": 2896,
+      "living_hiv_per_100k": 470,
+      "deaths_per_100k": 4.3
+    },
+    {
+      "area": "Hậu Giang",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 235,
+      "living_hiv_cumulative": 1322,
+      "deaths_in_year": 32,
+      "deaths_cumulative": 653,
+      "living_hiv_per_100k": 181.1,
+      "deaths_per_100k": 1.9
+    },
+    {
+      "area": "Sóc Trăng",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 276,
+      "living_hiv_cumulative": 3383,
+      "deaths_in_year": 44,
+      "deaths_cumulative": 1671,
+      "living_hiv_per_100k": 280.7,
+      "deaths_per_100k": 2.7
+    },
+    {
+      "area": "Bạc Liêu",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 28,
+      "living_hiv_cumulative": 1954,
+      "deaths_in_year": 17,
+      "deaths_cumulative": 1287,
+      "living_hiv_per_100k": 210.4,
+      "deaths_per_100k": 4.7
+    },
+    {
+      "area": "Cà Mau",
+      "level": "tỉnh/thành phố",
+      "new_hiv_cases": 335,
+      "living_hiv_cumulative": 3837,
+      "deaths_in_year": 22,
+      "deaths_cumulative": 672,
+      "living_hiv_per_100k": 316.6,
+      "deaths_per_100k": 1.4
+    }
+  ],
+  "meta": {
+    "title": "Số người nhiễm HIV/AIDS và tử vong do HIV/AIDS phân theo địa phương năm 2024 - Free Download",
+    "description": "Số người nhiễm HIV phát hiện mới, số người nhiễm HIV còn sống (lũy kế), số người chết do HIV/AIDS trong năm và lũy kế, cùng tỷ lệ trên 100.000 dân của cả nước, các vùng và tỉnh, thành phố năm 2024, theo Tổng cục Thống kê. Contains 70 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Số người nhiễm HIV/AIDS và tử vong do HIV/AIDS phân theo địa phương năm 2024 | ListBase",
+    "seo_description": "Download Số người nhiễm HIV/AIDS và tử vong do HIV/AIDS phân theo địa phương năm 2024 — 70 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 70 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pxweb.nso.gov.vn/pxweb/vi/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/V14.19.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2"
+    ]
+  }
+}
