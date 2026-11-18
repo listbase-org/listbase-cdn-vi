@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-18T02:19:05.452Z",
-  "total_datasets": 616,
-  "total_records": 131731,
+  "generated": "2026-11-18T02:19:14.102Z",
+  "total_datasets": 617,
+  "total_records": 132011,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "history",
@@ -4061,6 +4061,33 @@
         "xlsx": {
           "name": "vi-tiem-chung-covid-19-theo-dia-phuong_VI.xlsx",
           "size": 9835
+        }
+      }
+    },
+    {
+      "id": "vi-ty-le-suy-dinh-duong-tre-em-duoi-5-tuoi-theo-tinh",
+      "name": "Tỷ lệ trẻ em dưới 5 tuổi bị suy dinh dưỡng phân theo địa phương (2021–2024)",
+      "category": "health",
+      "record_count": 280,
+      "columns": [
+        "area",
+        "level",
+        "year",
+        "underweight_pct",
+        "stunting_pct",
+        "wasting_pct"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/V14.18.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 54110,
+      "files": {
+        "csv": {
+          "name": "vi-ty-le-suy-dinh-duong-tre-em-duoi-5-tuoi-theo-tinh_VI.csv",
+          "size": 17371
+        },
+        "xlsx": {
+          "name": "vi-ty-le-suy-dinh-duong-tre-em-duoi-5-tuoi-theo-tinh_VI.xlsx",
+          "size": 14713
         }
       }
     },

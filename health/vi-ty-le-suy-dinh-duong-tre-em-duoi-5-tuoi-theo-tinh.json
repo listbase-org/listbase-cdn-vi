@@ -1,0 +1,2296 @@
+{
+  "id": "vi-ty-le-suy-dinh-duong-tre-em-duoi-5-tuoi-theo-tinh",
+  "name": "Tỷ lệ trẻ em dưới 5 tuổi bị suy dinh dưỡng phân theo địa phương (2021–2024)",
+  "title": "Tỷ lệ trẻ em dưới 5 tuổi bị suy dinh dưỡng phân theo địa phương (2021–2024)",
+  "description": "Tỷ lệ (%) trẻ em dưới 5 tuổi bị suy dinh dưỡng thể nhẹ cân (cân nặng theo tuổi), thấp còi (chiều cao theo tuổi) và gầy còm (cân nặng theo chiều cao) của cả nước, các vùng và các tỉnh, thành phố, theo Tổng cục Thống kê.",
+  "category": "health",
+  "source": "https://pxweb.nso.gov.vn/pxweb/vi/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/V14.18.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "source_url": "https://pxweb.nso.gov.vn/pxweb/vi/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/V14.18.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "updated": "2026-11",
+  "record_count": 280,
+  "columns": [
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "underweight_pct",
+      "label": "Underweight Pct",
+      "type": "number"
+    },
+    {
+      "key": "stunting_pct",
+      "label": "Stunting Pct",
+      "type": "number"
+    },
+    {
+      "key": "wasting_pct",
+      "label": "Wasting Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "area": "CẢ NƯỚC",
+      "level": "cả nước",
+      "year": 2021,
+      "underweight_pct": 11.2,
+      "stunting_pct": 19.2,
+      "wasting_pct": 3.6
+    },
+    {
+      "area": "CẢ NƯỚC",
+      "level": "cả nước",
+      "year": 2022,
+      "underweight_pct": 11.2,
+      "stunting_pct": 19.2,
+      "wasting_pct": 3.6
+    },
+    {
+      "area": "CẢ NƯỚC",
+      "level": "cả nước",
+      "year": 2023,
+      "underweight_pct": 9.7,
+      "stunting_pct": 18.2,
+      "wasting_pct": 4.4
+    },
+    {
+      "area": "CẢ NƯỚC",
+      "level": "cả nước",
+      "year": 2024,
+      "underweight_pct": 10.4,
+      "stunting_pct": 18.1,
+      "wasting_pct": 5.6
+    },
+    {
+      "area": "Đồng bằng sông Hồng",
+      "level": "vùng",
+      "year": 2021,
+      "underweight_pct": 8.5,
+      "stunting_pct": 18,
+      "wasting_pct": 5
+    },
+    {
+      "area": "Đồng bằng sông Hồng",
+      "level": "vùng",
+      "year": 2022,
+      "underweight_pct": 8.5,
+      "stunting_pct": 18,
+      "wasting_pct": 5
+    },
+    {
+      "area": "Đồng bằng sông Hồng",
+      "level": "vùng",
+      "year": 2023,
+      "underweight_pct": 8.8,
+      "stunting_pct": 16.8,
+      "wasting_pct": 4.4
+    },
+    {
+      "area": "Đồng bằng sông Hồng",
+      "level": "vùng",
+      "year": 2024,
+      "underweight_pct": 7.6,
+      "stunting_pct": 14.3,
+      "wasting_pct": 4.9
+    },
+    {
+      "area": "Hà Nội",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 4.6,
+      "stunting_pct": 12.2,
+      "wasting_pct": 3.2
+    },
+    {
+      "area": "Hà Nội",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 4.6,
+      "stunting_pct": 12.2,
+      "wasting_pct": 3.2
+    },
+    {
+      "area": "Hà Nội",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 6.9,
+      "stunting_pct": 12,
+      "wasting_pct": 7.7
+    },
+    {
+      "area": "Hà Nội",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 4.8,
+      "stunting_pct": 8.8,
+      "wasting_pct": 4.6
+    },
+    {
+      "area": "Vĩnh Phúc",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 11,
+      "stunting_pct": 20,
+      "wasting_pct": 5.2
+    },
+    {
+      "area": "Vĩnh Phúc",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 11,
+      "stunting_pct": 20,
+      "wasting_pct": 5.2
+    },
+    {
+      "area": "Vĩnh Phúc",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 7.3,
+      "stunting_pct": 14.4,
+      "wasting_pct": 5.5
+    },
+    {
+      "area": "Vĩnh Phúc",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 7.2,
+      "stunting_pct": 14.3,
+      "wasting_pct": 5.8
+    },
+    {
+      "area": "Bắc Ninh",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 9.3,
+      "stunting_pct": 20.2,
+      "wasting_pct": 5.6
+    },
+    {
+      "area": "Bắc Ninh",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 9.3,
+      "stunting_pct": 20.2,
+      "wasting_pct": 5.6
+    },
+    {
+      "area": "Bắc Ninh",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 4.6,
+      "stunting_pct": 11.5,
+      "wasting_pct": 4.7
+    },
+    {
+      "area": "Bắc Ninh",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 4.6,
+      "stunting_pct": 10.8,
+      "wasting_pct": 4.8
+    },
+    {
+      "area": "Quảng Ninh",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 10.7,
+      "stunting_pct": 20.4,
+      "wasting_pct": 4.9
+    },
+    {
+      "area": "Quảng Ninh",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 10.7,
+      "stunting_pct": 20.4,
+      "wasting_pct": 4.9
+    },
+    {
+      "area": "Quảng Ninh",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 9.8,
+      "stunting_pct": 18.1,
+      "wasting_pct": 6.3
+    },
+    {
+      "area": "Quảng Ninh",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 7.8,
+      "stunting_pct": 13.8,
+      "wasting_pct": 5.5
+    },
+    {
+      "area": "Hải Dương",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 9.9,
+      "stunting_pct": 18,
+      "wasting_pct": 5.7
+    },
+    {
+      "area": "Hải Dương",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 9.9,
+      "stunting_pct": 18,
+      "wasting_pct": 5.7
+    },
+    {
+      "area": "Hải Dương",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": "",
+      "stunting_pct": "",
+      "wasting_pct": ""
+    },
+    {
+      "area": "Hải Dương",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 3.8,
+      "stunting_pct": 11.6,
+      "wasting_pct": 4.9
+    },
+    {
+      "area": "Hải Phòng",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 6.5,
+      "stunting_pct": 16.9,
+      "wasting_pct": 3.8
+    },
+    {
+      "area": "Hải Phòng",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 6.5,
+      "stunting_pct": 16.9,
+      "wasting_pct": 3.8
+    },
+    {
+      "area": "Hải Phòng",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 6.6,
+      "stunting_pct": 16.6,
+      "wasting_pct": 3.2
+    },
+    {
+      "area": "Hải Phòng",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 6.5,
+      "stunting_pct": 16.3,
+      "wasting_pct": 3.2
+    },
+    {
+      "area": "Hưng Yên",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 10.3,
+      "stunting_pct": 20.3,
+      "wasting_pct": 5.4
+    },
+    {
+      "area": "Hưng Yên",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 10.3,
+      "stunting_pct": 20.3,
+      "wasting_pct": 5.4
+    },
+    {
+      "area": "Hưng Yên",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 8.8,
+      "stunting_pct": 17.8,
+      "wasting_pct": 5.8
+    },
+    {
+      "area": "Hưng Yên",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 8.1,
+      "stunting_pct": 16.2,
+      "wasting_pct": 4.5
+    },
+    {
+      "area": "Thái Bình",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 11.2,
+      "stunting_pct": 20.8,
+      "wasting_pct": 6.2
+    },
+    {
+      "area": "Thái Bình",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 11.2,
+      "stunting_pct": 20.8,
+      "wasting_pct": 6.2
+    },
+    {
+      "area": "Thái Bình",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 9.8,
+      "stunting_pct": 18.5,
+      "wasting_pct": 6
+    },
+    {
+      "area": "Thái Bình",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 9,
+      "stunting_pct": 17.7,
+      "wasting_pct": 5.7
+    },
+    {
+      "area": "Hà Nam",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 10.9,
+      "stunting_pct": 19.9,
+      "wasting_pct": 5.5
+    },
+    {
+      "area": "Hà Nam",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 10.9,
+      "stunting_pct": 19.9,
+      "wasting_pct": 5.5
+    },
+    {
+      "area": "Hà Nam",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 10.3,
+      "stunting_pct": 17.3,
+      "wasting_pct": 3.9
+    },
+    {
+      "area": "Hà Nam",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 10.2,
+      "stunting_pct": 16.9,
+      "wasting_pct": 3.8
+    },
+    {
+      "area": "Nam Định",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 10,
+      "stunting_pct": 18.5,
+      "wasting_pct": 5.3
+    },
+    {
+      "area": "Nam Định",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 10,
+      "stunting_pct": 18.5,
+      "wasting_pct": 5.3
+    },
+    {
+      "area": "Nam Định",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": "",
+      "stunting_pct": "",
+      "wasting_pct": ""
+    },
+    {
+      "area": "Nam Định",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 9.8,
+      "stunting_pct": 14.6,
+      "wasting_pct": 5.2
+    },
+    {
+      "area": "Ninh Bình",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 10.7,
+      "stunting_pct": 19,
+      "wasting_pct": 4.8
+    },
+    {
+      "area": "Ninh Bình",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 10.7,
+      "stunting_pct": 19,
+      "wasting_pct": 4.8
+    },
+    {
+      "area": "Ninh Bình",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 10.2,
+      "stunting_pct": 12.7,
+      "wasting_pct": 4.5
+    },
+    {
+      "area": "Ninh Bình",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 10.1,
+      "stunting_pct": 12.6,
+      "wasting_pct": 4.8
+    },
+    {
+      "area": "Trung du và miền núi phía Bắc",
+      "level": "vùng",
+      "year": 2021,
+      "underweight_pct": 15.4,
+      "stunting_pct": 25.3,
+      "wasting_pct": 7.1
+    },
+    {
+      "area": "Trung du và miền núi phía Bắc",
+      "level": "vùng",
+      "year": 2022,
+      "underweight_pct": 15.4,
+      "stunting_pct": 25.3,
+      "wasting_pct": 7.1
+    },
+    {
+      "area": "Trung du và miền núi phía Bắc",
+      "level": "vùng",
+      "year": 2023,
+      "underweight_pct": 14,
+      "stunting_pct": 24.8,
+      "wasting_pct": 5.8
+    },
+    {
+      "area": "Trung du và miền núi phía Bắc",
+      "level": "vùng",
+      "year": 2024,
+      "underweight_pct": 14.4,
+      "stunting_pct": 23.8,
+      "wasting_pct": 6.5
+    },
+    {
+      "area": "Hà Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 18.3,
+      "stunting_pct": 29.5,
+      "wasting_pct": 7.7
+    },
+    {
+      "area": "Hà Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 18.3,
+      "stunting_pct": 29.5,
+      "wasting_pct": 7.7
+    },
+    {
+      "area": "Hà Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 18.7,
+      "stunting_pct": 30.1,
+      "wasting_pct": 7.6
+    },
+    {
+      "area": "Hà Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 18.3,
+      "stunting_pct": 30.2,
+      "wasting_pct": 5.8
+    },
+    {
+      "area": "Cao Bằng",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 16.3,
+      "stunting_pct": 28,
+      "wasting_pct": 6.4
+    },
+    {
+      "area": "Cao Bằng",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 16.3,
+      "stunting_pct": 28,
+      "wasting_pct": 6.4
+    },
+    {
+      "area": "Cao Bằng",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 16.3,
+      "stunting_pct": 29,
+      "wasting_pct": 4.6
+    },
+    {
+      "area": "Cao Bằng",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 16.8,
+      "stunting_pct": 28,
+      "wasting_pct": 11.7
+    },
+    {
+      "area": "Bắc Kạn",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 16.1,
+      "stunting_pct": 26.3,
+      "wasting_pct": 7.5
+    },
+    {
+      "area": "Bắc Kạn",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 16.1,
+      "stunting_pct": 26.3,
+      "wasting_pct": 7.5
+    },
+    {
+      "area": "Bắc Kạn",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 15.2,
+      "stunting_pct": 24.9,
+      "wasting_pct": 5.4
+    },
+    {
+      "area": "Bắc Kạn",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 14.5,
+      "stunting_pct": 22.9,
+      "wasting_pct": 5.1
+    },
+    {
+      "area": "Tuyên Quang",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 15.7,
+      "stunting_pct": 24,
+      "wasting_pct": 8.8
+    },
+    {
+      "area": "Tuyên Quang",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 15.7,
+      "stunting_pct": 24,
+      "wasting_pct": 8.8
+    },
+    {
+      "area": "Tuyên Quang",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 12.2,
+      "stunting_pct": 23.7,
+      "wasting_pct": 12.7
+    },
+    {
+      "area": "Tuyên Quang",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 12,
+      "stunting_pct": 20.6,
+      "wasting_pct": 11.4
+    },
+    {
+      "area": "Lào Cai",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 16.4,
+      "stunting_pct": 28.2,
+      "wasting_pct": 5.4
+    },
+    {
+      "area": "Lào Cai",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 16.4,
+      "stunting_pct": 28.2,
+      "wasting_pct": 5.4
+    },
+    {
+      "area": "Lào Cai",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 14.1,
+      "stunting_pct": 25.6,
+      "wasting_pct": 2.5
+    },
+    {
+      "area": "Lào Cai",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 12.9,
+      "stunting_pct": 24.4,
+      "wasting_pct": 4.3
+    },
+    {
+      "area": "Yên Bái",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 16.4,
+      "stunting_pct": 24.9,
+      "wasting_pct": 8.3
+    },
+    {
+      "area": "Yên Bái",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 16.4,
+      "stunting_pct": 24.9,
+      "wasting_pct": 8.3
+    },
+    {
+      "area": "Yên Bái",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 14.9,
+      "stunting_pct": 23.1,
+      "wasting_pct": 7.1
+    },
+    {
+      "area": "Yên Bái",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 13.8,
+      "stunting_pct": 21.8,
+      "wasting_pct": 5.5
+    },
+    {
+      "area": "Thái Nguyên",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 11.8,
+      "stunting_pct": 21,
+      "wasting_pct": 6.5
+    },
+    {
+      "area": "Thái Nguyên",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 11.8,
+      "stunting_pct": 21,
+      "wasting_pct": 6.5
+    },
+    {
+      "area": "Thái Nguyên",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 10.3,
+      "stunting_pct": 19.8,
+      "wasting_pct": 5.9
+    },
+    {
+      "area": "Thái Nguyên",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": "",
+      "stunting_pct": "",
+      "wasting_pct": ""
+    },
+    {
+      "area": "Lạng Sơn",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 16.1,
+      "stunting_pct": 22.8,
+      "wasting_pct": 7.1
+    },
+    {
+      "area": "Lạng Sơn",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 16.1,
+      "stunting_pct": 22.8,
+      "wasting_pct": 7.1
+    },
+    {
+      "area": "Lạng Sơn",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 15.1,
+      "stunting_pct": 21.8,
+      "wasting_pct": 7.3
+    },
+    {
+      "area": "Lạng Sơn",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 14.8,
+      "stunting_pct": 21.4,
+      "wasting_pct": 6.9
+    },
+    {
+      "area": "Bắc Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 11.3,
+      "stunting_pct": 20.8,
+      "wasting_pct": 6.6
+    },
+    {
+      "area": "Bắc Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 11.3,
+      "stunting_pct": 20.8,
+      "wasting_pct": 6.6
+    },
+    {
+      "area": "Bắc Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 10.5,
+      "stunting_pct": 19.4,
+      "wasting_pct": 4.9
+    },
+    {
+      "area": "Bắc Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 10,
+      "stunting_pct": 18.6,
+      "wasting_pct": 3.9
+    },
+    {
+      "area": "Phú Thọ",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 11.9,
+      "stunting_pct": 22.1,
+      "wasting_pct": 6.5
+    },
+    {
+      "area": "Phú Thọ",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 11.9,
+      "stunting_pct": 22.1,
+      "wasting_pct": 6.5
+    },
+    {
+      "area": "Phú Thọ",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 10.8,
+      "stunting_pct": 19.9,
+      "wasting_pct": 5.6
+    },
+    {
+      "area": "Phú Thọ",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 10.5,
+      "stunting_pct": 18.3,
+      "wasting_pct": 4.9
+    },
+    {
+      "area": "Điện Biên",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 16.1,
+      "stunting_pct": 27,
+      "wasting_pct": 7.6
+    },
+    {
+      "area": "Điện Biên",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 16.1,
+      "stunting_pct": 27,
+      "wasting_pct": 7.6
+    },
+    {
+      "area": "Điện Biên",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 14.8,
+      "stunting_pct": 25.5,
+      "wasting_pct": 6.6
+    },
+    {
+      "area": "Điện Biên",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 14.9,
+      "stunting_pct": 26.1,
+      "wasting_pct": 7.6
+    },
+    {
+      "area": "Lai Châu",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 17.8,
+      "stunting_pct": 28.5,
+      "wasting_pct": 6.2
+    },
+    {
+      "area": "Lai Châu",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 17.8,
+      "stunting_pct": 28.5,
+      "wasting_pct": 6.2
+    },
+    {
+      "area": "Lai Châu",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 17.9,
+      "stunting_pct": 27.1,
+      "wasting_pct": 7.3
+    },
+    {
+      "area": "Lai Châu",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 17.4,
+      "stunting_pct": 26.7,
+      "wasting_pct": 6.9
+    },
+    {
+      "area": "Sơn La",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 17,
+      "stunting_pct": 28.2,
+      "wasting_pct": 7.2
+    },
+    {
+      "area": "Sơn La",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 17,
+      "stunting_pct": 28.2,
+      "wasting_pct": 7.2
+    },
+    {
+      "area": "Sơn La",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 15.4,
+      "stunting_pct": 26.1,
+      "wasting_pct": 4.5
+    },
+    {
+      "area": "Sơn La",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 15.2,
+      "stunting_pct": 26,
+      "wasting_pct": 4.5
+    },
+    {
+      "area": "Hòa Bình",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 15.1,
+      "stunting_pct": 22.7,
+      "wasting_pct": 7.4
+    },
+    {
+      "area": "Hòa Bình",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 15.1,
+      "stunting_pct": 22.7,
+      "wasting_pct": 7.4
+    },
+    {
+      "area": "Hòa Bình",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 14.2,
+      "stunting_pct": 22.5,
+      "wasting_pct": 6.8
+    },
+    {
+      "area": "Hòa Bình",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 13.7,
+      "stunting_pct": 22.2,
+      "wasting_pct": 4.8
+    },
+    {
+      "area": "Bắc Trung Bộ và Duyên hải miền Trung",
+      "level": "vùng",
+      "year": 2021,
+      "underweight_pct": 12.6,
+      "stunting_pct": 22.4,
+      "wasting_pct": 6.1
+    },
+    {
+      "area": "Bắc Trung Bộ và Duyên hải miền Trung",
+      "level": "vùng",
+      "year": 2022,
+      "underweight_pct": 12.6,
+      "stunting_pct": 22.4,
+      "wasting_pct": 6.1
+    },
+    {
+      "area": "Bắc Trung Bộ và Duyên hải miền Trung",
+      "level": "vùng",
+      "year": 2023,
+      "underweight_pct": 12.7,
+      "stunting_pct": 20.8,
+      "wasting_pct": 5.9
+    },
+    {
+      "area": "Bắc Trung Bộ và Duyên hải miền Trung",
+      "level": "vùng",
+      "year": 2024,
+      "underweight_pct": 9.1,
+      "stunting_pct": 16.5,
+      "wasting_pct": 5.5
+    },
+    {
+      "area": "Thanh Hóa",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 15.4,
+      "stunting_pct": 25.2,
+      "wasting_pct": 5.5
+    },
+    {
+      "area": "Thanh Hóa",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 15.4,
+      "stunting_pct": 25.2,
+      "wasting_pct": 5.5
+    },
+    {
+      "area": "Thanh Hóa",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 13.7,
+      "stunting_pct": 23.4,
+      "wasting_pct": 5
+    },
+    {
+      "area": "Thanh Hóa",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 6.9,
+      "stunting_pct": 10.4,
+      "wasting_pct": 3.6
+    },
+    {
+      "area": "Nghệ An",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 15.2,
+      "stunting_pct": 26,
+      "wasting_pct": 6.1
+    },
+    {
+      "area": "Nghệ An",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 15.2,
+      "stunting_pct": 26,
+      "wasting_pct": 6.1
+    },
+    {
+      "area": "Nghệ An",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 13.9,
+      "stunting_pct": 24.4,
+      "wasting_pct": 5.6
+    },
+    {
+      "area": "Nghệ An",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 12.4,
+      "stunting_pct": 22.7,
+      "wasting_pct": 3.2
+    },
+    {
+      "area": "Hà Tĩnh",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 15,
+      "stunting_pct": 24.4,
+      "wasting_pct": 6.3
+    },
+    {
+      "area": "Hà Tĩnh",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 15,
+      "stunting_pct": 24.4,
+      "wasting_pct": 6.3
+    },
+    {
+      "area": "Hà Tĩnh",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 9.5,
+      "stunting_pct": 20.2,
+      "wasting_pct": 5.2
+    },
+    {
+      "area": "Hà Tĩnh",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 7.7,
+      "stunting_pct": 13.6,
+      "wasting_pct": 5.2
+    },
+    {
+      "area": "Quảng Bình",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 14.7,
+      "stunting_pct": 24.8,
+      "wasting_pct": 6.5
+    },
+    {
+      "area": "Quảng Bình",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 14.7,
+      "stunting_pct": 24.8,
+      "wasting_pct": 6.5
+    },
+    {
+      "area": "Quảng Bình",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 12.7,
+      "stunting_pct": 21,
+      "wasting_pct": 5.1
+    },
+    {
+      "area": "Quảng Bình",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 11.8,
+      "stunting_pct": 19.1,
+      "wasting_pct": 6.1
+    },
+    {
+      "area": "Quảng Trị",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 13.3,
+      "stunting_pct": 24.3,
+      "wasting_pct": 6.9
+    },
+    {
+      "area": "Quảng Trị",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 13.3,
+      "stunting_pct": 24.3,
+      "wasting_pct": 6.9
+    },
+    {
+      "area": "Quảng Trị",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": "",
+      "stunting_pct": "",
+      "wasting_pct": ""
+    },
+    {
+      "area": "Quảng Trị",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 12.1,
+      "stunting_pct": 15.4,
+      "wasting_pct": 5.9
+    },
+    {
+      "area": "Thừa Thiên - Huế",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 10.6,
+      "stunting_pct": 21.6,
+      "wasting_pct": 5.6
+    },
+    {
+      "area": "Thừa Thiên - Huế",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 10.6,
+      "stunting_pct": 21.6,
+      "wasting_pct": 5.6
+    },
+    {
+      "area": "Thừa Thiên - Huế",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 7,
+      "stunting_pct": 14.9,
+      "wasting_pct": 5.1
+    },
+    {
+      "area": "Thừa Thiên - Huế",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 6.9,
+      "stunting_pct": 13.2,
+      "wasting_pct": 5.1
+    },
+    {
+      "area": "Đà Nẵng",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 3.4,
+      "stunting_pct": 12.4,
+      "wasting_pct": 4.3
+    },
+    {
+      "area": "Đà Nẵng",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 3.4,
+      "stunting_pct": 12.4,
+      "wasting_pct": 4.3
+    },
+    {
+      "area": "Đà Nẵng",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 3.2,
+      "stunting_pct": 12.3,
+      "wasting_pct": 3.8
+    },
+    {
+      "area": "Đà Nẵng",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 3.3,
+      "stunting_pct": 10.4,
+      "wasting_pct": 3.6
+    },
+    {
+      "area": "Quảng Nam",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 12.7,
+      "stunting_pct": 23.3,
+      "wasting_pct": 6.6
+    },
+    {
+      "area": "Quảng Nam",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 12.7,
+      "stunting_pct": 23.3,
+      "wasting_pct": 6.6
+    },
+    {
+      "area": "Quảng Nam",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 9.6,
+      "stunting_pct": 21,
+      "wasting_pct": 7.1
+    },
+    {
+      "area": "Quảng Nam",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 9.1,
+      "stunting_pct": 20.2,
+      "wasting_pct": 6.5
+    },
+    {
+      "area": "Quảng Ngãi",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 13.2,
+      "stunting_pct": 20.9,
+      "wasting_pct": 5.8
+    },
+    {
+      "area": "Quảng Ngãi",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 13.2,
+      "stunting_pct": 20.9,
+      "wasting_pct": 5.8
+    },
+    {
+      "area": "Quảng Ngãi",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": "",
+      "stunting_pct": "",
+      "wasting_pct": ""
+    },
+    {
+      "area": "Quảng Ngãi",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": "",
+      "stunting_pct": "",
+      "wasting_pct": ""
+    },
+    {
+      "area": "Bình Định",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 12,
+      "stunting_pct": 21.2,
+      "wasting_pct": 4.3
+    },
+    {
+      "area": "Bình Định",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 12,
+      "stunting_pct": 21.2,
+      "wasting_pct": 4.3
+    },
+    {
+      "area": "Bình Định",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 8.1,
+      "stunting_pct": 13,
+      "wasting_pct": 4.6
+    },
+    {
+      "area": "Bình Định",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 8,
+      "stunting_pct": 13.1,
+      "wasting_pct": 4.5
+    },
+    {
+      "area": "Phú Yên",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 12.8,
+      "stunting_pct": 23.7,
+      "wasting_pct": 7.5
+    },
+    {
+      "area": "Phú Yên",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 12.8,
+      "stunting_pct": 23.7,
+      "wasting_pct": 7.5
+    },
+    {
+      "area": "Phú Yên",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 10.6,
+      "stunting_pct": 22,
+      "wasting_pct": 4.9
+    },
+    {
+      "area": "Phú Yên",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 10.1,
+      "stunting_pct": 20.6,
+      "wasting_pct": 4.8
+    },
+    {
+      "area": "Khánh Hòa",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 9.7,
+      "stunting_pct": 19,
+      "wasting_pct": 5.8
+    },
+    {
+      "area": "Khánh Hòa",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 9.7,
+      "stunting_pct": 19,
+      "wasting_pct": 5.8
+    },
+    {
+      "area": "Khánh Hòa",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 8.3,
+      "stunting_pct": 15,
+      "wasting_pct": 5.5
+    },
+    {
+      "area": "Khánh Hòa",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 5.4,
+      "stunting_pct": 11.3,
+      "wasting_pct": 7
+    },
+    {
+      "area": "Ninh Thuận",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 14.9,
+      "stunting_pct": 23.3,
+      "wasting_pct": 7.7
+    },
+    {
+      "area": "Ninh Thuận",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 14.9,
+      "stunting_pct": 23.3,
+      "wasting_pct": 7.7
+    },
+    {
+      "area": "Ninh Thuận",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 12.3,
+      "stunting_pct": 20.8,
+      "wasting_pct": 6.1
+    },
+    {
+      "area": "Ninh Thuận",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 12,
+      "stunting_pct": 20.6,
+      "wasting_pct": 7.5
+    },
+    {
+      "area": "Bình Thuận",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 13.1,
+      "stunting_pct": 23.9,
+      "wasting_pct": 5.8
+    },
+    {
+      "area": "Bình Thuận",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 13.1,
+      "stunting_pct": 23.9,
+      "wasting_pct": 5.8
+    },
+    {
+      "area": "Bình Thuận",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 11.2,
+      "stunting_pct": 22.1,
+      "wasting_pct": 4.9
+    },
+    {
+      "area": "Bình Thuận",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 10.1,
+      "stunting_pct": 21.9,
+      "wasting_pct": 4.5
+    },
+    {
+      "area": "Tây Nguyên",
+      "level": "vùng",
+      "year": 2021,
+      "underweight_pct": 17.1,
+      "stunting_pct": 27,
+      "wasting_pct": 6.7
+    },
+    {
+      "area": "Tây Nguyên",
+      "level": "vùng",
+      "year": 2022,
+      "underweight_pct": 17.1,
+      "stunting_pct": 27,
+      "wasting_pct": 6.7
+    },
+    {
+      "area": "Tây Nguyên",
+      "level": "vùng",
+      "year": 2023,
+      "underweight_pct": 16.2,
+      "stunting_pct": 25.9,
+      "wasting_pct": 7.1
+    },
+    {
+      "area": "Tây Nguyên",
+      "level": "vùng",
+      "year": 2024,
+      "underweight_pct": 19.1,
+      "stunting_pct": 27.3,
+      "wasting_pct": 6.1
+    },
+    {
+      "area": "Kon Tum",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 19.7,
+      "stunting_pct": 30.2,
+      "wasting_pct": 6.7
+    },
+    {
+      "area": "Kon Tum",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 19.7,
+      "stunting_pct": 30.2,
+      "wasting_pct": 6.7
+    },
+    {
+      "area": "Kon Tum",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 16.9,
+      "stunting_pct": 28.7,
+      "wasting_pct": 4.5
+    },
+    {
+      "area": "Kon Tum",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 16.5,
+      "stunting_pct": 28.1,
+      "wasting_pct": 4
+    },
+    {
+      "area": "Gia Lai",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 19.4,
+      "stunting_pct": 29.3,
+      "wasting_pct": 7.5
+    },
+    {
+      "area": "Gia Lai",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 19.4,
+      "stunting_pct": 29.3,
+      "wasting_pct": 7.5
+    },
+    {
+      "area": "Gia Lai",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 22.1,
+      "stunting_pct": 28.6,
+      "wasting_pct": 8.2
+    },
+    {
+      "area": "Gia Lai",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 24.6,
+      "stunting_pct": 27.6,
+      "wasting_pct": 9.2
+    },
+    {
+      "area": "Đắk Lắk",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 18,
+      "stunting_pct": 28.3,
+      "wasting_pct": 7.2
+    },
+    {
+      "area": "Đắk Lắk",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 18,
+      "stunting_pct": 28.3,
+      "wasting_pct": 7.2
+    },
+    {
+      "area": "Đắk Lắk",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 18,
+      "stunting_pct": 27.8,
+      "wasting_pct": 6.6
+    },
+    {
+      "area": "Đắk Lắk",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 17.6,
+      "stunting_pct": 27.6,
+      "wasting_pct": 6.6
+    },
+    {
+      "area": "Đắk Nông",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 17.8,
+      "stunting_pct": 27.2,
+      "wasting_pct": 6.6
+    },
+    {
+      "area": "Đắk Nông",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 17.8,
+      "stunting_pct": 27.2,
+      "wasting_pct": 6.6
+    },
+    {
+      "area": "Đắk Nông",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 17.1,
+      "stunting_pct": 25.7,
+      "wasting_pct": 4.6
+    },
+    {
+      "area": "Đắk Nông",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 16.5,
+      "stunting_pct": 24.7,
+      "wasting_pct": 4.3
+    },
+    {
+      "area": "Lâm Đồng",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 10.4,
+      "stunting_pct": 20.1,
+      "wasting_pct": 5.6
+    },
+    {
+      "area": "Lâm Đồng",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 10.4,
+      "stunting_pct": 20.1,
+      "wasting_pct": 5.6
+    },
+    {
+      "area": "Lâm Đồng",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": "",
+      "stunting_pct": "",
+      "wasting_pct": ""
+    },
+    {
+      "area": "Lâm Đồng",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": "",
+      "stunting_pct": "",
+      "wasting_pct": ""
+    },
+    {
+      "area": "Đông Nam Bộ",
+      "level": "vùng",
+      "year": 2021,
+      "underweight_pct": 7,
+      "stunting_pct": 15.8,
+      "wasting_pct": 4.3
+    },
+    {
+      "area": "Đông Nam Bộ",
+      "level": "vùng",
+      "year": 2022,
+      "underweight_pct": 7,
+      "stunting_pct": 15.8,
+      "wasting_pct": 4.3
+    },
+    {
+      "area": "Đông Nam Bộ",
+      "level": "vùng",
+      "year": 2023,
+      "underweight_pct": 5.4,
+      "stunting_pct": 14.3,
+      "wasting_pct": 4.8
+    },
+    {
+      "area": "Đông Nam Bộ",
+      "level": "vùng",
+      "year": 2024,
+      "underweight_pct": 7.3,
+      "stunting_pct": 13.8,
+      "wasting_pct": 4.8
+    },
+    {
+      "area": "Bình Phước",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 12.8,
+      "stunting_pct": 23.8,
+      "wasting_pct": 7.8
+    },
+    {
+      "area": "Bình Phước",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 12.8,
+      "stunting_pct": 23.8,
+      "wasting_pct": 7.8
+    },
+    {
+      "area": "Bình Phước",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 11.4,
+      "stunting_pct": 19.5,
+      "wasting_pct": 4.8
+    },
+    {
+      "area": "Bình Phước",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 10.6,
+      "stunting_pct": 18,
+      "wasting_pct": 4.8
+    },
+    {
+      "area": "Tây Ninh",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 10.7,
+      "stunting_pct": 19.2,
+      "wasting_pct": 4
+    },
+    {
+      "area": "Tây Ninh",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 10.7,
+      "stunting_pct": 19.2,
+      "wasting_pct": 4
+    },
+    {
+      "area": "Tây Ninh",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 10.1,
+      "stunting_pct": 18.5,
+      "wasting_pct": 5.6
+    },
+    {
+      "area": "Tây Ninh",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 9.9,
+      "stunting_pct": 18.1,
+      "wasting_pct": 3.8
+    },
+    {
+      "area": "Bình Dương",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 7,
+      "stunting_pct": 18.3,
+      "wasting_pct": 3.2
+    },
+    {
+      "area": "Bình Dương",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 7,
+      "stunting_pct": 18.3,
+      "wasting_pct": 3.2
+    },
+    {
+      "area": "Bình Dương",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 5.4,
+      "stunting_pct": 10.1,
+      "wasting_pct": 4.1
+    },
+    {
+      "area": "Bình Dương",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": "",
+      "stunting_pct": "",
+      "wasting_pct": ""
+    },
+    {
+      "area": "Đồng Nai",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 7.2,
+      "stunting_pct": 20.7,
+      "wasting_pct": 4.5
+    },
+    {
+      "area": "Đồng Nai",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 7.2,
+      "stunting_pct": 20.7,
+      "wasting_pct": 4.5
+    },
+    {
+      "area": "Đồng Nai",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 5.4,
+      "stunting_pct": 9.3,
+      "wasting_pct": 6.2
+    },
+    {
+      "area": "Đồng Nai",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 5.7,
+      "stunting_pct": 8.1,
+      "wasting_pct": 7.3
+    },
+    {
+      "area": "Bà Rịa - Vũng Tàu",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 5.7,
+      "stunting_pct": 16.2,
+      "wasting_pct": 4.4
+    },
+    {
+      "area": "Bà Rịa - Vũng Tàu",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 5.7,
+      "stunting_pct": 16.2,
+      "wasting_pct": 4.4
+    },
+    {
+      "area": "Bà Rịa - Vũng Tàu",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 5.2,
+      "stunting_pct": 15.1,
+      "wasting_pct": 4.9
+    },
+    {
+      "area": "Bà Rịa - Vũng Tàu",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 4.2,
+      "stunting_pct": 13.8,
+      "wasting_pct": 4.1
+    },
+    {
+      "area": "TP. Hồ Chí Minh",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 4.2,
+      "stunting_pct": 6.3,
+      "wasting_pct": 1.9
+    },
+    {
+      "area": "TP. Hồ Chí Minh",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 4.2,
+      "stunting_pct": 6.3,
+      "wasting_pct": 1.9
+    },
+    {
+      "area": "TP. Hồ Chí Minh",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 4.5,
+      "stunting_pct": 6,
+      "wasting_pct": 2.8
+    },
+    {
+      "area": "TP. Hồ Chí Minh",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 4.5,
+      "stunting_pct": 5.8,
+      "wasting_pct": 2.5
+    },
+    {
+      "area": "Đồng bằng sông Cửu Long",
+      "level": "vùng",
+      "year": 2021,
+      "underweight_pct": 10.2,
+      "stunting_pct": 20.3,
+      "wasting_pct": 5.6
+    },
+    {
+      "area": "Đồng bằng sông Cửu Long",
+      "level": "vùng",
+      "year": 2022,
+      "underweight_pct": 10.2,
+      "stunting_pct": 20.3,
+      "wasting_pct": 5.6
+    },
+    {
+      "area": "Đồng bằng sông Cửu Long",
+      "level": "vùng",
+      "year": 2023,
+      "underweight_pct": 9.3,
+      "stunting_pct": 18.7,
+      "wasting_pct": 5.6
+    },
+    {
+      "area": "Đồng bằng sông Cửu Long",
+      "level": "vùng",
+      "year": 2024,
+      "underweight_pct": 8.5,
+      "stunting_pct": 15.7,
+      "wasting_pct": 5.5
+    },
+    {
+      "area": "Long An",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 7.4,
+      "stunting_pct": 17.3,
+      "wasting_pct": 3.6
+    },
+    {
+      "area": "Long An",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 7.4,
+      "stunting_pct": 17.3,
+      "wasting_pct": 3.6
+    },
+    {
+      "area": "Long An",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 7.2,
+      "stunting_pct": 16,
+      "wasting_pct": 3.5
+    },
+    {
+      "area": "Long An",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 7.1,
+      "stunting_pct": 15.8,
+      "wasting_pct": 3
+    },
+    {
+      "area": "Tiền Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 9.6,
+      "stunting_pct": 21.1,
+      "wasting_pct": 6.5
+    },
+    {
+      "area": "Tiền Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 9.6,
+      "stunting_pct": 21.1,
+      "wasting_pct": 6.5
+    },
+    {
+      "area": "Tiền Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 9,
+      "stunting_pct": 18.9,
+      "wasting_pct": 6.3
+    },
+    {
+      "area": "Tiền Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 8.6,
+      "stunting_pct": 17.4,
+      "wasting_pct": 7
+    },
+    {
+      "area": "Bến Tre",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 9.7,
+      "stunting_pct": 20.2,
+      "wasting_pct": 4.8
+    },
+    {
+      "area": "Bến Tre",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 9.7,
+      "stunting_pct": 20.2,
+      "wasting_pct": 4.8
+    },
+    {
+      "area": "Bến Tre",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 9.7,
+      "stunting_pct": 18.6,
+      "wasting_pct": 4.5
+    },
+    {
+      "area": "Bến Tre",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 9.5,
+      "stunting_pct": 17.4,
+      "wasting_pct": 4.4
+    },
+    {
+      "area": "Trà Vinh",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 11.3,
+      "stunting_pct": 20.3,
+      "wasting_pct": 6.3
+    },
+    {
+      "area": "Trà Vinh",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 11.3,
+      "stunting_pct": 20.3,
+      "wasting_pct": 6.3
+    },
+    {
+      "area": "Trà Vinh",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 6,
+      "stunting_pct": 10.5,
+      "wasting_pct": 9
+    },
+    {
+      "area": "Trà Vinh",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 6.4,
+      "stunting_pct": 11.2,
+      "wasting_pct": 7.8
+    },
+    {
+      "area": "Vĩnh Long",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 11,
+      "stunting_pct": 20.1,
+      "wasting_pct": 5.4
+    },
+    {
+      "area": "Vĩnh Long",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 11,
+      "stunting_pct": 20.1,
+      "wasting_pct": 5.4
+    },
+    {
+      "area": "Vĩnh Long",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 5.2,
+      "stunting_pct": 11,
+      "wasting_pct": 6.6
+    },
+    {
+      "area": "Vĩnh Long",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 5.4,
+      "stunting_pct": 10.3,
+      "wasting_pct": 5.1
+    },
+    {
+      "area": "Đồng Tháp",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 12.1,
+      "stunting_pct": 21.7,
+      "wasting_pct": 5.6
+    },
+    {
+      "area": "Đồng Tháp",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 12.1,
+      "stunting_pct": 21.7,
+      "wasting_pct": 5.6
+    },
+    {
+      "area": "Đồng Tháp",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 11,
+      "stunting_pct": 17.7,
+      "wasting_pct": 4.2
+    },
+    {
+      "area": "Đồng Tháp",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 9.7,
+      "stunting_pct": 16.5,
+      "wasting_pct": 4.4
+    },
+    {
+      "area": "An Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 11.2,
+      "stunting_pct": 20.8,
+      "wasting_pct": 5.2
+    },
+    {
+      "area": "An Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 11.2,
+      "stunting_pct": 20.8,
+      "wasting_pct": 5.2
+    },
+    {
+      "area": "An Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 9.7,
+      "stunting_pct": 16.8,
+      "wasting_pct": ""
+    },
+    {
+      "area": "An Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 9.4,
+      "stunting_pct": 16.7,
+      "wasting_pct": 3.7
+    },
+    {
+      "area": "Kiên Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 12,
+      "stunting_pct": 19.9,
+      "wasting_pct": 5
+    },
+    {
+      "area": "Kiên Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 12,
+      "stunting_pct": 19.9,
+      "wasting_pct": 5
+    },
+    {
+      "area": "Kiên Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 9.1,
+      "stunting_pct": 14.5,
+      "wasting_pct": 5.5
+    },
+    {
+      "area": "Kiên Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 8.3,
+      "stunting_pct": 13.2,
+      "wasting_pct": 6
+    },
+    {
+      "area": "Cần Thơ",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 8.6,
+      "stunting_pct": 17.8,
+      "wasting_pct": 3.6
+    },
+    {
+      "area": "Cần Thơ",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 8.6,
+      "stunting_pct": 17.8,
+      "wasting_pct": 3.6
+    },
+    {
+      "area": "Cần Thơ",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 7.6,
+      "stunting_pct": 14,
+      "wasting_pct": 6.1
+    },
+    {
+      "area": "Cần Thơ",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 6.8,
+      "stunting_pct": 12.8,
+      "wasting_pct": 4.7
+    },
+    {
+      "area": "Hậu Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 11.4,
+      "stunting_pct": 22,
+      "wasting_pct": 7
+    },
+    {
+      "area": "Hậu Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 11.4,
+      "stunting_pct": 22,
+      "wasting_pct": 7
+    },
+    {
+      "area": "Hậu Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 7.8,
+      "stunting_pct": 12.6,
+      "wasting_pct": 7.9
+    },
+    {
+      "area": "Hậu Giang",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 10.2,
+      "stunting_pct": 16.3,
+      "wasting_pct": 6.6
+    },
+    {
+      "area": "Sóc Trăng",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 11.5,
+      "stunting_pct": 22.2,
+      "wasting_pct": 5.4
+    },
+    {
+      "area": "Sóc Trăng",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 11.5,
+      "stunting_pct": 22.2,
+      "wasting_pct": 5.4
+    },
+    {
+      "area": "Sóc Trăng",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 9.8,
+      "stunting_pct": 19.5,
+      "wasting_pct": 4.4
+    },
+    {
+      "area": "Sóc Trăng",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 9.3,
+      "stunting_pct": 18.7,
+      "wasting_pct": 4.4
+    },
+    {
+      "area": "Bạc Liêu",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 11.8,
+      "stunting_pct": 21.5,
+      "wasting_pct": 6.8
+    },
+    {
+      "area": "Bạc Liêu",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 11.8,
+      "stunting_pct": 21.5,
+      "wasting_pct": 6.8
+    },
+    {
+      "area": "Bạc Liêu",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 8.7,
+      "stunting_pct": 18.1,
+      "wasting_pct": 7.7
+    },
+    {
+      "area": "Bạc Liêu",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 8.5,
+      "stunting_pct": 17.4,
+      "wasting_pct": 7.4
+    },
+    {
+      "area": "Cà Mau",
+      "level": "tỉnh/thành phố",
+      "year": 2021,
+      "underweight_pct": 11.3,
+      "stunting_pct": 21,
+      "wasting_pct": 7
+    },
+    {
+      "area": "Cà Mau",
+      "level": "tỉnh/thành phố",
+      "year": 2022,
+      "underweight_pct": 11.3,
+      "stunting_pct": 21,
+      "wasting_pct": 7
+    },
+    {
+      "area": "Cà Mau",
+      "level": "tỉnh/thành phố",
+      "year": 2023,
+      "underweight_pct": 10.2,
+      "stunting_pct": 19.5,
+      "wasting_pct": 5.8
+    },
+    {
+      "area": "Cà Mau",
+      "level": "tỉnh/thành phố",
+      "year": 2024,
+      "underweight_pct": 9.9,
+      "stunting_pct": 19.3,
+      "wasting_pct": 6.7
+    }
+  ],
+  "meta": {
+    "title": "Tỷ lệ trẻ em dưới 5 tuổi bị suy dinh dưỡng phân theo địa phương (2021–2024) - Free Download",
+    "description": "Tỷ lệ (%) trẻ em dưới 5 tuổi bị suy dinh dưỡng thể nhẹ cân (cân nặng theo tuổi), thấp còi (chiều cao theo tuổi) và gầy còm (cân nặng theo chiều cao) của cả nước, các vùng và các tỉnh, thành phố, theo Tổng cục Thống kê. Contains 280 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tỷ lệ trẻ em dưới 5 tuổi bị suy dinh dưỡng phân theo địa phương (2021–2024) | ListBase",
+    "seo_description": "Download Tỷ lệ trẻ em dưới 5 tuổi bị suy dinh dưỡng phân theo địa phương (2021–2024) — 280 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 280 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pxweb.nso.gov.vn/pxweb/vi/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/V14.18.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2"
+    ]
+  }
+}
