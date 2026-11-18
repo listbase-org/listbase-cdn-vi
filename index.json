@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-18T02:19:22.629Z",
-  "total_datasets": 618,
-  "total_records": 132081,
+  "generated": "2026-11-18T02:19:52.937Z",
+  "total_datasets": 619,
+  "total_records": 132151,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "sports",
@@ -14589,6 +14589,37 @@
         "xlsx": {
           "name": "vi-hdi-tinh-thanh_VI.xlsx",
           "size": 8786
+        }
+      }
+    },
+    {
+      "id": "vi-he-so-gini-theo-tinh",
+      "name": "Hệ số GINI (bất bình đẳng thu nhập) phân theo địa phương (2018–2025)",
+      "category": "society",
+      "record_count": 70,
+      "columns": [
+        "area",
+        "level",
+        "y2018",
+        "y2019",
+        "y2020",
+        "y2021",
+        "y2022",
+        "y2023",
+        "y2024",
+        "y2025"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/V14.39.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 20696,
+      "files": {
+        "csv": {
+          "name": "vi-he-so-gini-theo-tinh_VI.csv",
+          "size": 7037
+        },
+        "xlsx": {
+          "name": "vi-he-so-gini-theo-tinh_VI.xlsx",
+          "size": 10716
         }
       }
     },
