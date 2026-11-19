@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-18T02:19:52.937Z",
-  "total_datasets": 619,
-  "total_records": 132151,
+  "generated": "2026-11-19T02:22:14.938Z",
+  "total_datasets": 620,
+  "total_records": 132221,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "entertainment",
@@ -1131,6 +1131,33 @@
         "xlsx": {
           "name": "vi-bo-truong-bo-giao-duc_VI.xlsx",
           "size": 8781
+        }
+      }
+    },
+    {
+      "id": "vi-hoc-sinh-pho-thong-theo-tinh-2024",
+      "name": "Số học sinh phổ thông phân theo địa phương và cấp học (năm học 2024–2025)",
+      "category": "education",
+      "record_count": 70,
+      "columns": [
+        "area",
+        "level",
+        "total",
+        "primary",
+        "lower_secondary",
+        "upper_secondary"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/Khoa%20hoc%20c%C3%B4ng%20ngh%E1%BB%87%2C%20Gi%C3%A1o%20d%E1%BB%A5c/Khoa%20hoc%20c%C3%B4ng%20ngh%E1%BB%87%2C%20Gi%C3%A1o%20d%E1%BB%A5c/V13.14.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 16151,
+      "files": {
+        "csv": {
+          "name": "vi-hoc-sinh-pho-thong-theo-tinh-2024_VI.csv",
+          "size": 5016
+        },
+        "xlsx": {
+          "name": "vi-hoc-sinh-pho-thong-theo-tinh-2024_VI.xlsx",
+          "size": 10161
         }
       }
     },

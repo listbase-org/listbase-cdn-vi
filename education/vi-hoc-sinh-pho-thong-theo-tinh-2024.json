@@ -1,0 +1,616 @@
+{
+  "id": "vi-hoc-sinh-pho-thong-theo-tinh-2024",
+  "name": "Số học sinh phổ thông phân theo địa phương và cấp học (năm học 2024–2025)",
+  "title": "Số học sinh phổ thông phân theo địa phương và cấp học (năm học 2024–2025)",
+  "description": "Số học sinh phổ thông tại thời điểm 30/9/2024 phân theo cấp học (tiểu học, THCS, THPT) của cả nước, các vùng và 63 tỉnh, thành phố, theo Tổng cục Thống kê.",
+  "category": "education",
+  "source": "https://pxweb.nso.gov.vn/pxweb/vi/Khoa%20hoc%20c%C3%B4ng%20ngh%E1%BB%87%2C%20Gi%C3%A1o%20d%E1%BB%A5c/Khoa%20hoc%20c%C3%B4ng%20ngh%E1%BB%87%2C%20Gi%C3%A1o%20d%E1%BB%A5c/V13.14.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "source_url": "https://pxweb.nso.gov.vn/pxweb/vi/Khoa%20hoc%20c%C3%B4ng%20ngh%E1%BB%87%2C%20Gi%C3%A1o%20d%E1%BB%A5c/Khoa%20hoc%20c%C3%B4ng%20ngh%E1%BB%87%2C%20Gi%C3%A1o%20d%E1%BB%A5c/V13.14.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "updated": "2026-11",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "string"
+    },
+    {
+      "key": "total",
+      "label": "Total",
+      "type": "number"
+    },
+    {
+      "key": "primary",
+      "label": "Primary",
+      "type": "number"
+    },
+    {
+      "key": "lower_secondary",
+      "label": "Lower Secondary",
+      "type": "number"
+    },
+    {
+      "key": "upper_secondary",
+      "label": "Upper Secondary",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "area": "CẢ NƯỚC",
+      "level": "cả nước",
+      "total": 18564887,
+      "primary": 8710059,
+      "lower_secondary": 6710487,
+      "upper_secondary": 3144341
+    },
+    {
+      "area": "Đồng bằng sông Hồng",
+      "level": "vùng",
+      "total": 4575112,
+      "primary": 2046347,
+      "lower_secondary": 1697936,
+      "upper_secondary": 830829
+    },
+    {
+      "area": "Hà Nội",
+      "level": "tỉnh/thành phố",
+      "total": 1700638,
+      "primary": 762387,
+      "lower_secondary": 623767,
+      "upper_secondary": 314484
+    },
+    {
+      "area": "Vĩnh Phúc",
+      "level": "tỉnh/thành phố",
+      "total": 258190,
+      "primary": 119378,
+      "lower_secondary": 99579,
+      "upper_secondary": 39233
+    },
+    {
+      "area": "Bắc Ninh",
+      "level": "tỉnh/thành phố",
+      "total": 252360,
+      "primary": 99275,
+      "lower_secondary": 101557,
+      "upper_secondary": 51528
+    },
+    {
+      "area": "Quảng Ninh",
+      "level": "tỉnh/thành phố",
+      "total": 276308,
+      "primary": 123189,
+      "lower_secondary": 103798,
+      "upper_secondary": 49321
+    },
+    {
+      "area": "Hải Dương",
+      "level": "tỉnh/thành phố",
+      "total": 379640,
+      "primary": 171835,
+      "lower_secondary": 142662,
+      "upper_secondary": 65143
+    },
+    {
+      "area": "Hải Phòng",
+      "level": "tỉnh/thành phố",
+      "total": 415017,
+      "primary": 176595,
+      "lower_secondary": 155699,
+      "upper_secondary": 82723
+    },
+    {
+      "area": "Hưng Yên",
+      "level": "tỉnh/thành phố",
+      "total": 259635,
+      "primary": 117695,
+      "lower_secondary": 95923,
+      "upper_secondary": 46017
+    },
+    {
+      "area": "Thái Bình",
+      "level": "tỉnh/thành phố",
+      "total": 315981,
+      "primary": 139412,
+      "lower_secondary": 114407,
+      "upper_secondary": 62162
+    },
+    {
+      "area": "Hà Nam",
+      "level": "tỉnh/thành phố",
+      "total": 164460,
+      "primary": 78574,
+      "lower_secondary": 61478,
+      "upper_secondary": 24408
+    },
+    {
+      "area": "Nam Định",
+      "level": "tỉnh/thành phố",
+      "total": 355839,
+      "primary": 163299,
+      "lower_secondary": 128919,
+      "upper_secondary": 63621
+    },
+    {
+      "area": "Ninh Bình",
+      "level": "tỉnh/thành phố",
+      "total": 197044,
+      "primary": 94708,
+      "lower_secondary": 70147,
+      "upper_secondary": 32189
+    },
+    {
+      "area": "Trung du và miền núi phía Bắc",
+      "level": "vùng",
+      "total": 2704286,
+      "primary": 1291855,
+      "lower_secondary": 1014358,
+      "upper_secondary": 398073
+    },
+    {
+      "area": "Hà Giang",
+      "level": "tỉnh/thành phố",
+      "total": 202320,
+      "primary": 105700,
+      "lower_secondary": 74632,
+      "upper_secondary": 21988
+    },
+    {
+      "area": "Cao Bằng",
+      "level": "tỉnh/thành phố",
+      "total": 103479,
+      "primary": 51288,
+      "lower_secondary": 37552,
+      "upper_secondary": 14639
+    },
+    {
+      "area": "Bắc Kạn",
+      "level": "tỉnh/thành phố",
+      "total": 61072,
+      "primary": 28874,
+      "lower_secondary": 23704,
+      "upper_secondary": 8494
+    },
+    {
+      "area": "Tuyên Quang",
+      "level": "tỉnh/thành phố",
+      "total": 172097,
+      "primary": 78082,
+      "lower_secondary": 65182,
+      "upper_secondary": 28833
+    },
+    {
+      "area": "Lào Cai",
+      "level": "tỉnh/thành phố",
+      "total": 174570,
+      "primary": 84578,
+      "lower_secondary": 64141,
+      "upper_secondary": 25851
+    },
+    {
+      "area": "Yên Bái",
+      "level": "tỉnh/thành phố",
+      "total": 175925,
+      "primary": 84329,
+      "lower_secondary": 67101,
+      "upper_secondary": 24495
+    },
+    {
+      "area": "Thái Nguyên",
+      "level": "tỉnh/thành phố",
+      "total": 253611,
+      "primary": 117541,
+      "lower_secondary": 95342,
+      "upper_secondary": 40728
+    },
+    {
+      "area": "Lạng Sơn",
+      "level": "tỉnh/thành phố",
+      "total": 155881,
+      "primary": 72558,
+      "lower_secondary": 57651,
+      "upper_secondary": 25672
+    },
+    {
+      "area": "Bắc Giang",
+      "level": "tỉnh/thành phố",
+      "total": 382540,
+      "primary": 185746,
+      "lower_secondary": 139200,
+      "upper_secondary": 57594
+    },
+    {
+      "area": "Phú Thọ",
+      "level": "tỉnh/thành phố",
+      "total": 302091,
+      "primary": 137714,
+      "lower_secondary": 113852,
+      "upper_secondary": 50525
+    },
+    {
+      "area": "Điện Biên",
+      "level": "tỉnh/thành phố",
+      "total": 151608,
+      "primary": 75384,
+      "lower_secondary": 55036,
+      "upper_secondary": 21188
+    },
+    {
+      "area": "Lai Châu",
+      "level": "tỉnh/thành phố",
+      "total": 112258,
+      "primary": 54860,
+      "lower_secondary": 44517,
+      "upper_secondary": 12881
+    },
+    {
+      "area": "Sơn La",
+      "level": "tỉnh/thành phố",
+      "total": 284887,
+      "primary": 139139,
+      "lower_secondary": 109212,
+      "upper_secondary": 36536
+    },
+    {
+      "area": "Hòa Bình",
+      "level": "tỉnh/thành phố",
+      "total": 171947,
+      "primary": 76062,
+      "lower_secondary": 67236,
+      "upper_secondary": 28649
+    },
+    {
+      "area": "Bắc Trung Bộ và Duyên hải miền Trung",
+      "level": "vùng",
+      "total": 4034054,
+      "primary": 1929810,
+      "lower_secondary": 1407957,
+      "upper_secondary": 696287
+    },
+    {
+      "area": "Thanh Hóa",
+      "level": "tỉnh/thành phố",
+      "total": 719511,
+      "primary": 350383,
+      "lower_secondary": 259300,
+      "upper_secondary": 109828
+    },
+    {
+      "area": "Nghệ An",
+      "level": "tỉnh/thành phố",
+      "total": 705317,
+      "primary": 342393,
+      "lower_secondary": 244261,
+      "upper_secondary": 118663
+    },
+    {
+      "area": "Hà Tĩnh",
+      "level": "tỉnh/thành phố",
+      "total": 276388,
+      "primary": 135182,
+      "lower_secondary": 95675,
+      "upper_secondary": 45531
+    },
+    {
+      "area": "Quảng Bình",
+      "level": "tỉnh/thành phố",
+      "total": 191891,
+      "primary": 91930,
+      "lower_secondary": 65745,
+      "upper_secondary": 34216
+    },
+    {
+      "area": "Quảng Trị",
+      "level": "tỉnh/thành phố",
+      "total": 138549,
+      "primary": 64680,
+      "lower_secondary": 47494,
+      "upper_secondary": 26375
+    },
+    {
+      "area": "Thừa Thiên-Huế",
+      "level": "tỉnh/thành phố",
+      "total": 219517,
+      "primary": 106363,
+      "lower_secondary": 74770,
+      "upper_secondary": 38384
+    },
+    {
+      "area": "Đà Nẵng",
+      "level": "tỉnh/thành phố",
+      "total": 225394,
+      "primary": 106734,
+      "lower_secondary": 78567,
+      "upper_secondary": 40093
+    },
+    {
+      "area": "Quảng Nam",
+      "level": "tỉnh/thành phố",
+      "total": 295754,
+      "primary": 138098,
+      "lower_secondary": 102510,
+      "upper_secondary": 55146
+    },
+    {
+      "area": "Quảng Ngãi",
+      "level": "tỉnh/thành phố",
+      "total": 227560,
+      "primary": 106464,
+      "lower_secondary": 78547,
+      "upper_secondary": 42549
+    },
+    {
+      "area": "Bình Định",
+      "level": "tỉnh/thành phố",
+      "total": 275066,
+      "primary": 122606,
+      "lower_secondary": 95843,
+      "upper_secondary": 56617
+    },
+    {
+      "area": "Phú Yên",
+      "level": "tỉnh/thành phố",
+      "total": 165217,
+      "primary": 75340,
+      "lower_secondary": 58272,
+      "upper_secondary": 31605
+    },
+    {
+      "area": "Khánh Hòa",
+      "level": "tỉnh/thành phố",
+      "total": 225544,
+      "primary": 107452,
+      "lower_secondary": 79539,
+      "upper_secondary": 38553
+    },
+    {
+      "area": "Ninh Thuận",
+      "level": "tỉnh/thành phố",
+      "total": 122768,
+      "primary": 62410,
+      "lower_secondary": 42092,
+      "upper_secondary": 18266
+    },
+    {
+      "area": "Bình Thuận",
+      "level": "tỉnh/thành phố",
+      "total": 245578,
+      "primary": 119775,
+      "lower_secondary": 85342,
+      "upper_secondary": 40461
+    },
+    {
+      "area": "Tây Nguyên",
+      "level": "vùng",
+      "total": 1302958,
+      "primary": 639902,
+      "lower_secondary": 451974,
+      "upper_secondary": 211082
+    },
+    {
+      "area": "Kon Tum",
+      "level": "tỉnh/thành phố",
+      "total": 128759,
+      "primary": 65386,
+      "lower_secondary": 47024,
+      "upper_secondary": 16349
+    },
+    {
+      "area": "Gia Lai",
+      "level": "tỉnh/thành phố",
+      "total": 338238,
+      "primary": 169556,
+      "lower_secondary": 115845,
+      "upper_secondary": 52837
+    },
+    {
+      "area": "Đắk Lắk",
+      "level": "tỉnh/thành phố",
+      "total": 402367,
+      "primary": 197511,
+      "lower_secondary": 139472,
+      "upper_secondary": 65384
+    },
+    {
+      "area": "Đắk Nông",
+      "level": "tỉnh/thành phố",
+      "total": 152343,
+      "primary": 74734,
+      "lower_secondary": 51595,
+      "upper_secondary": 26014
+    },
+    {
+      "area": "Lâm Đồng",
+      "level": "tỉnh/thành phố",
+      "total": 281251,
+      "primary": 132715,
+      "lower_secondary": 98038,
+      "upper_secondary": 50498
+    },
+    {
+      "area": "Đông Nam Bộ",
+      "level": "vùng",
+      "total": 3029001,
+      "primary": 1442849,
+      "lower_secondary": 1078952,
+      "upper_secondary": 507200
+    },
+    {
+      "area": "Bình Phước",
+      "level": "tỉnh/thành phố",
+      "total": 212378,
+      "primary": 103726,
+      "lower_secondary": 73496,
+      "upper_secondary": 35156
+    },
+    {
+      "area": "Tây Ninh",
+      "level": "tỉnh/thành phố",
+      "total": 194710,
+      "primary": 93571,
+      "lower_secondary": 70548,
+      "upper_secondary": 30591
+    },
+    {
+      "area": "Bình Dương",
+      "level": "tỉnh/thành phố",
+      "total": 407653,
+      "primary": 216563,
+      "lower_secondary": 144841,
+      "upper_secondary": 46249
+    },
+    {
+      "area": "Đồng Nai",
+      "level": "tỉnh/thành phố",
+      "total": 603386,
+      "primary": 295627,
+      "lower_secondary": 217400,
+      "upper_secondary": 90359
+    },
+    {
+      "area": "Bà Rịa - Vũng Tàu",
+      "level": "tỉnh/thành phố",
+      "total": 239963,
+      "primary": 113415,
+      "lower_secondary": 86046,
+      "upper_secondary": 40502
+    },
+    {
+      "area": "TP. Hồ Chí Minh",
+      "level": "tỉnh/thành phố",
+      "total": 1370911,
+      "primary": 619947,
+      "lower_secondary": 486621,
+      "upper_secondary": 264343
+    },
+    {
+      "area": "Đồng bằng sông Cửu Long",
+      "level": "vùng",
+      "total": 2919476,
+      "primary": 1359296,
+      "lower_secondary": 1059310,
+      "upper_secondary": 500870
+    },
+    {
+      "area": "Long An",
+      "level": "tỉnh/thành phố",
+      "total": 280562,
+      "primary": 130508,
+      "lower_secondary": 102800,
+      "upper_secondary": 47254
+    },
+    {
+      "area": "Tiền Giang",
+      "level": "tỉnh/thành phố",
+      "total": 276185,
+      "primary": 124068,
+      "lower_secondary": 100326,
+      "upper_secondary": 51791
+    },
+    {
+      "area": "Bến Tre",
+      "level": "tỉnh/thành phố",
+      "total": 197758,
+      "primary": 91309,
+      "lower_secondary": 73407,
+      "upper_secondary": 33042
+    },
+    {
+      "area": "Trà Vinh",
+      "level": "tỉnh/thành phố",
+      "total": 175128,
+      "primary": 82799,
+      "lower_secondary": 64188,
+      "upper_secondary": 28141
+    },
+    {
+      "area": "Vĩnh Long",
+      "level": "tỉnh/thành phố",
+      "total": 171413,
+      "primary": 74546,
+      "lower_secondary": 63030,
+      "upper_secondary": 33837
+    },
+    {
+      "area": "Đồng Tháp",
+      "level": "tỉnh/thành phố",
+      "total": 278778,
+      "primary": 123767,
+      "lower_secondary": 100995,
+      "upper_secondary": 54016
+    },
+    {
+      "area": "An Giang",
+      "level": "tỉnh/thành phố",
+      "total": 348251,
+      "primary": 161446,
+      "lower_secondary": 126544,
+      "upper_secondary": 60261
+    },
+    {
+      "area": "Kiên Giang",
+      "level": "tỉnh/thành phố",
+      "total": 298964,
+      "primary": 147588,
+      "lower_secondary": 107456,
+      "upper_secondary": 43920
+    },
+    {
+      "area": "Cần Thơ",
+      "level": "tỉnh/thành phố",
+      "total": 198529,
+      "primary": 90029,
+      "lower_secondary": 72045,
+      "upper_secondary": 36455
+    },
+    {
+      "area": "Hậu Giang",
+      "level": "tỉnh/thành phố",
+      "total": 127704,
+      "primary": 58471,
+      "lower_secondary": 48248,
+      "upper_secondary": 20985
+    },
+    {
+      "area": "Sóc Trăng",
+      "level": "tỉnh/thành phố",
+      "total": 223281,
+      "primary": 108893,
+      "lower_secondary": 79912,
+      "upper_secondary": 34476
+    },
+    {
+      "area": "Bạc Liêu",
+      "level": "tỉnh/thành phố",
+      "total": 136443,
+      "primary": 67091,
+      "lower_secondary": 48959,
+      "upper_secondary": 20393
+    },
+    {
+      "area": "Cà Mau",
+      "level": "tỉnh/thành phố",
+      "total": 206480,
+      "primary": 98781,
+      "lower_secondary": 71400,
+      "upper_secondary": 36299
+    }
+  ],
+  "meta": {
+    "title": "Số học sinh phổ thông phân theo địa phương và cấp học (năm học 2024–2025) - Free Download",
+    "description": "Số học sinh phổ thông tại thời điểm 30/9/2024 phân theo cấp học (tiểu học, THCS, THPT) của cả nước, các vùng và 63 tỉnh, thành phố, theo Tổng cục Thống kê. Contains 70 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Số học sinh phổ thông phân theo địa phương và cấp học (năm học 2024–2025) | ListBase",
+    "seo_description": "Download Số học sinh phổ thông phân theo địa phương và cấp học (năm học 2024–2025) — 70 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 70 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pxweb.nso.gov.vn/pxweb/vi/Khoa%20hoc%20c%C3%B4ng%20ngh%E1%BB%87%2C%20Gi%C3%A1o%20d%E1%BB%A5c/Khoa%20hoc%20c%C3%B4ng%20ngh%E1%BB%87%2C%20Gi%C3%A1o%20d%E1%BB%A5c/V13.14.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2"
+    ]
+  }
+}
