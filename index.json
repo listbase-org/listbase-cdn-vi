@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-19T02:22:14.938Z",
-  "total_datasets": 620,
-  "total_records": 132221,
+  "generated": "2026-11-19T02:22:24.270Z",
+  "total_datasets": 621,
+  "total_records": 132249,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 64
+      "dataset_count": 65
     },
     {
       "id": "transport",
@@ -16608,6 +16608,44 @@
         "xlsx": {
           "name": "vi-hung-yen-dia-diem-du-lich_VI.xlsx",
           "size": 8136
+        }
+      }
+    },
+    {
+      "id": "vi-khach-quoc-te-theo-quoc-tich",
+      "name": "Số lượt người nước ngoài nhập cảnh Việt Nam theo quốc tịch (2010–2025)",
+      "category": "tourism",
+      "record_count": 28,
+      "columns": [
+        "nationality",
+        "y2010",
+        "y2011",
+        "y2012",
+        "y2013",
+        "y2014",
+        "y2015",
+        "y2016",
+        "y2017",
+        "y2018",
+        "y2019",
+        "y2020",
+        "y2021",
+        "y2022",
+        "y2023",
+        "y2024",
+        "y2025_prelim"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/Du%20l%E1%BB%8Bch/Du%20l%E1%BB%8Bch/V10.05.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 14838,
+      "files": {
+        "csv": {
+          "name": "vi-khach-quoc-te-theo-quoc-tich_VI.csv",
+          "size": 4219
+        },
+        "xlsx": {
+          "name": "vi-khach-quoc-te-theo-quoc-tich_VI.xlsx",
+          "size": 10133
         }
       }
     },
