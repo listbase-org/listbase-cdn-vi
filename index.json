@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-20T02:11:49.480Z",
-  "total_datasets": 624,
-  "total_records": 132401,
+  "generated": "2026-11-20T02:11:58.790Z",
+  "total_datasets": 625,
+  "total_records": 132442,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "sports",
@@ -14788,6 +14788,35 @@
         "xlsx": {
           "name": "vi-ton-giao-theo-dan-so_VI.xlsx",
           "size": 7504
+        }
+      }
+    },
+    {
+      "id": "vi-ty-le-ho-ngheo-34-tinh-thanh",
+      "name": "Tỷ lệ hộ nghèo phân theo địa phương – 34 tỉnh thành (2020–2025)",
+      "category": "society",
+      "record_count": 41,
+      "columns": [
+        "name",
+        "level",
+        "y2020",
+        "y2021",
+        "y2022",
+        "y2023",
+        "y2024",
+        "y2025"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV14Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/PLV14Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/PL.V14.24.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 11198,
+      "files": {
+        "csv": {
+          "name": "vi-ty-le-ho-ngheo-34-tinh-thanh_VI.csv",
+          "size": 3261
+        },
+        "xlsx": {
+          "name": "vi-ty-le-ho-ngheo-34-tinh-thanh_VI.xlsx",
+          "size": 8992
         }
       }
     },
