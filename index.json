@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-20T02:11:39.831Z",
-  "total_datasets": 623,
-  "total_records": 132360,
+  "generated": "2026-11-20T02:11:49.480Z",
+  "total_datasets": 624,
+  "total_records": 132401,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "education",
@@ -1108,6 +1108,35 @@
         "xlsx": {
           "name": "vi-ngan-hang-thuong-mai-von-dieu-le_VI.xlsx",
           "size": 15408
+        }
+      }
+    },
+    {
+      "id": "vi-thu-nhap-binh-quan-lao-dong-34-tinh-thanh",
+      "name": "Thu nhập bình quân một lao động đang làm việc theo địa phương – 34 tỉnh thành (2020–2025)",
+      "category": "economy",
+      "record_count": 41,
+      "columns": [
+        "name",
+        "level",
+        "y2020",
+        "y2021",
+        "y2022",
+        "y2023",
+        "y2024",
+        "y2025_prelim"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV14Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/PLV14Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/PL.V14.14.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 11768,
+      "files": {
+        "csv": {
+          "name": "vi-thu-nhap-binh-quan-lao-dong-34-tinh-thanh_VI.csv",
+          "size": 3267
+        },
+        "xlsx": {
+          "name": "vi-thu-nhap-binh-quan-lao-dong-34-tinh-thanh_VI.xlsx",
+          "size": 9098
         }
       }
     },
