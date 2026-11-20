@@ -1,0 +1,338 @@
+{
+  "id": "vi-tai-nan-giao-thong-34-tinh-thanh-2025",
+  "name": "Tai nạn giao thông phân theo địa phương năm 2025 – 34 tỉnh thành",
+  "title": "Tai nạn giao thông phân theo địa phương năm 2025 – 34 tỉnh thành",
+  "description": "Số vụ tai nạn giao thông, số người chết và số người bị thương năm 2025 của cả nước, 6 vùng và 34 tỉnh, thành phố (cấu trúc sau sáp nhập), theo Cục Thống kê.",
+  "category": "transport",
+  "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV14Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/PLV14Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/PL.V14.55.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "source_url": "https://pxweb.nso.gov.vn/pxweb/vi/PLV14Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/PLV14Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/PL.V14.55.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "updated": "2026-11",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "string"
+    },
+    {
+      "key": "accidents",
+      "label": "Accidents",
+      "type": "number"
+    },
+    {
+      "key": "deaths",
+      "label": "Deaths",
+      "type": "number"
+    },
+    {
+      "key": "injured",
+      "label": "Injured",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "CẢ NƯỚC",
+      "level": "cả nước",
+      "accidents": 18622,
+      "deaths": 10533,
+      "injured": 12294
+    },
+    {
+      "name": "Đồng bằng sông Hồng",
+      "level": "vùng",
+      "accidents": 4462,
+      "deaths": 2456,
+      "injured": 3021
+    },
+    {
+      "name": "Hà Nội",
+      "level": "tỉnh/thành phố",
+      "accidents": 1189,
+      "deaths": 645,
+      "injured": 828
+    },
+    {
+      "name": "Bắc Ninh",
+      "level": "tỉnh/thành phố",
+      "accidents": 658,
+      "deaths": 373,
+      "injured": 406
+    },
+    {
+      "name": "Quảng Ninh",
+      "level": "tỉnh/thành phố",
+      "accidents": 330,
+      "deaths": 156,
+      "injured": 266
+    },
+    {
+      "name": "Hải Phòng",
+      "level": "tỉnh/thành phố",
+      "accidents": 874,
+      "deaths": 461,
+      "injured": 600
+    },
+    {
+      "name": "Hưng Yên",
+      "level": "tỉnh/thành phố",
+      "accidents": 597,
+      "deaths": 354,
+      "injured": 385
+    },
+    {
+      "name": "Ninh Bình",
+      "level": "tỉnh/thành phố",
+      "accidents": 814,
+      "deaths": 467,
+      "injured": 536
+    },
+    {
+      "name": "Trung du và miền núi phía Bắc",
+      "level": "vùng",
+      "accidents": 2659,
+      "deaths": 1071,
+      "injured": 2317
+    },
+    {
+      "name": "Cao Bằng",
+      "level": "tỉnh/thành phố",
+      "accidents": 113,
+      "deaths": 36,
+      "injured": 116
+    },
+    {
+      "name": "Tuyên Quang",
+      "level": "tỉnh/thành phố",
+      "accidents": 197,
+      "deaths": 117,
+      "injured": 116
+    },
+    {
+      "name": "Lào Cai",
+      "level": "tỉnh/thành phố",
+      "accidents": 250,
+      "deaths": 113,
+      "injured": 225
+    },
+    {
+      "name": "Thái Nguyên",
+      "level": "tỉnh/thành phố",
+      "accidents": 702,
+      "deaths": 138,
+      "injured": 723
+    },
+    {
+      "name": "Lạng Sơn",
+      "level": "tỉnh/thành phố",
+      "accidents": 355,
+      "deaths": 85,
+      "injured": 347
+    },
+    {
+      "name": "Phú Thọ",
+      "level": "tỉnh/thành phố",
+      "accidents": 759,
+      "deaths": 411,
+      "injured": 550
+    },
+    {
+      "name": "Điện Biên",
+      "level": "tỉnh/thành phố",
+      "accidents": 83,
+      "deaths": 34,
+      "injured": 81
+    },
+    {
+      "name": "Lai Châu",
+      "level": "tỉnh/thành phố",
+      "accidents": 59,
+      "deaths": 27,
+      "injured": 52
+    },
+    {
+      "name": "Sơn La",
+      "level": "tỉnh/thành phố",
+      "accidents": 141,
+      "deaths": 110,
+      "injured": 107
+    },
+    {
+      "name": "Bắc Trung Bộ",
+      "level": "vùng",
+      "accidents": 2053,
+      "deaths": 1230,
+      "injured": 1384
+    },
+    {
+      "name": "Thanh Hóa",
+      "level": "tỉnh/thành phố",
+      "accidents": 751,
+      "deaths": 420,
+      "injured": 554
+    },
+    {
+      "name": "Nghệ An",
+      "level": "tỉnh/thành phố",
+      "accidents": 362,
+      "deaths": 261,
+      "injured": 203
+    },
+    {
+      "name": "Hà Tĩnh",
+      "level": "tỉnh/thành phố",
+      "accidents": 355,
+      "deaths": 234,
+      "injured": 216
+    },
+    {
+      "name": "Quảng Trị",
+      "level": "tỉnh/thành phố",
+      "accidents": 305,
+      "deaths": 201,
+      "injured": 210
+    },
+    {
+      "name": "Huế",
+      "level": "tỉnh/thành phố",
+      "accidents": 280,
+      "deaths": 114,
+      "injured": 201
+    },
+    {
+      "name": "Duyên hải Nam Trung Bộ và Tây Nguyên",
+      "level": "vùng",
+      "accidents": 3567,
+      "deaths": 2066,
+      "injured": 2526
+    },
+    {
+      "name": "Đà Nẵng",
+      "level": "tỉnh/thành phố",
+      "accidents": 570,
+      "deaths": 227,
+      "injured": 448
+    },
+    {
+      "name": "Quảng Ngãi",
+      "level": "tỉnh/thành phố",
+      "accidents": 337,
+      "deaths": 208,
+      "injured": 261
+    },
+    {
+      "name": "Gia Lai",
+      "level": "tỉnh/thành phố",
+      "accidents": 699,
+      "deaths": 503,
+      "injured": 439
+    },
+    {
+      "name": "Khánh Hòa",
+      "level": "tỉnh/thành phố",
+      "accidents": 514,
+      "deaths": 296,
+      "injured": 344
+    },
+    {
+      "name": "Đắk Lắk",
+      "level": "tỉnh/thành phố",
+      "accidents": 574,
+      "deaths": 406,
+      "injured": 359
+    },
+    {
+      "name": "Lâm Đồng",
+      "level": "tỉnh/thành phố",
+      "accidents": 873,
+      "deaths": 426,
+      "injured": 675
+    },
+    {
+      "name": "Đông Nam Bộ",
+      "level": "vùng",
+      "accidents": 3625,
+      "deaths": 2173,
+      "injured": 1865
+    },
+    {
+      "name": "Tây Ninh",
+      "level": "tỉnh/thành phố",
+      "accidents": 579,
+      "deaths": 453,
+      "injured": 226
+    },
+    {
+      "name": "Đồng Nai",
+      "level": "tỉnh/thành phố",
+      "accidents": 932,
+      "deaths": 668,
+      "injured": 401
+    },
+    {
+      "name": "TP. Hồ Chí Minh",
+      "level": "tỉnh/thành phố",
+      "accidents": 2114,
+      "deaths": 1052,
+      "injured": 1238
+    },
+    {
+      "name": "Đồng bằng sông Cửu Long",
+      "level": "vùng",
+      "accidents": 2249,
+      "deaths": 1531,
+      "injured": 1181
+    },
+    {
+      "name": "Vĩnh Long",
+      "level": "tỉnh/thành phố",
+      "accidents": 492,
+      "deaths": 321,
+      "injured": 284
+    },
+    {
+      "name": "Đồng Tháp",
+      "level": "tỉnh/thành phố",
+      "accidents": 590,
+      "deaths": 439,
+      "injured": 273
+    },
+    {
+      "name": "An Giang",
+      "level": "tỉnh/thành phố",
+      "accidents": 386,
+      "deaths": 268,
+      "injured": 172
+    },
+    {
+      "name": "Cần Thơ",
+      "level": "tỉnh/thành phố",
+      "accidents": 592,
+      "deaths": 388,
+      "injured": 345
+    },
+    {
+      "name": "Cà Mau",
+      "level": "tỉnh/thành phố",
+      "accidents": 189,
+      "deaths": 115,
+      "injured": 107
+    }
+  ],
+  "meta": {
+    "title": "Tai nạn giao thông phân theo địa phương năm 2025 – 34 tỉnh thành - Free Download",
+    "description": "Số vụ tai nạn giao thông, số người chết và số người bị thương năm 2025 của cả nước, 6 vùng và 34 tỉnh, thành phố (cấu trúc sau sáp nhập), theo Cục Thống kê. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tai nạn giao thông phân theo địa phương năm 2025 – 34 tỉnh thành | ListBase",
+    "seo_description": "Download Tai nạn giao thông phân theo địa phương năm 2025 – 34 tỉnh thành — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pxweb.nso.gov.vn/pxweb/vi/PLV14Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/PLV14Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/PL.V14.55.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2"
+    ]
+  }
+}

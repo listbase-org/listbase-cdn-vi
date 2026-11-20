@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-19T02:22:34.793Z",
-  "total_datasets": 622,
-  "total_records": 132319,
+  "generated": "2026-11-20T02:11:39.831Z",
+  "total_datasets": 623,
+  "total_records": 132360,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 30
+      "dataset_count": 31
     },
     {
       "id": "units",
@@ -18497,6 +18497,32 @@
         "xlsx": {
           "name": "vi-son-la-san-bay_VI.xlsx",
           "size": 6978
+        }
+      }
+    },
+    {
+      "id": "vi-tai-nan-giao-thong-34-tinh-thanh-2025",
+      "name": "Tai nạn giao thông phân theo địa phương năm 2025 – 34 tỉnh thành",
+      "category": "transport",
+      "record_count": 41,
+      "columns": [
+        "name",
+        "level",
+        "accidents",
+        "deaths",
+        "injured"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV14Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/PLV14Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/PL.V14.55.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 8533,
+      "files": {
+        "csv": {
+          "name": "vi-tai-nan-giao-thong-34-tinh-thanh-2025_VI.csv",
+          "size": 2275
+        },
+        "xlsx": {
+          "name": "vi-tai-nan-giao-thong-34-tinh-thanh-2025_VI.xlsx",
+          "size": 8320
         }
       }
     },
