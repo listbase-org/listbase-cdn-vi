@@ -1,12 +1,12 @@
 {
   "lang": "vi",
-  "generated": "2026-11-20T02:11:58.790Z",
-  "total_datasets": 625,
-  "total_records": 132442,
+  "generated": "2026-11-23T02:19:23.296Z",
+  "total_datasets": 626,
+  "total_records": 132483,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "culture",
@@ -158,6 +158,35 @@
         "xlsx": {
           "name": "vi-chi-dan-dia-ly-bao-ho_VI.xlsx",
           "size": 9842
+        }
+      }
+    },
+    {
+      "id": "vi-dan-trau-bo-lon-34-tinh-thanh",
+      "name": "Số lượng trâu, bò, lợn phân theo địa phương – 34 tỉnh thành (2024–2025)",
+      "category": "agriculture",
+      "record_count": 41,
+      "columns": [
+        "name",
+        "level",
+        "buffalo_y2024",
+        "buffalo_y2025_prelim",
+        "cattle_y2024",
+        "cattle_y2025_prelim",
+        "pigs_y2024",
+        "pigs_y2025_prelim"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV06N%C3%B4ng%20nghi%E1%BB%87p%2C%20l%C3%A2m%20nghi%E1%BB%87p%20v%C3%A0%20th%E1%BB%A7y%20s%E1%BA%A3n/PLV06N%C3%B4ng%20nghi%E1%BB%87p%2C%20l%C3%A2m%20nghi%E1%BB%87p%20v%C3%A0%20th%E1%BB%A7y%20s%E1%BA%A3n/PL.V06.31.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 14518,
+      "files": {
+        "csv": {
+          "name": "vi-dan-trau-bo-lon-34-tinh-thanh_VI.csv",
+          "size": 3784
+        },
+        "xlsx": {
+          "name": "vi-dan-trau-bo-lon-34-tinh-thanh_VI.xlsx",
+          "size": 9398
         }
       }
     },

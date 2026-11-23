@@ -1,0 +1,476 @@
+{
+  "id": "vi-dan-trau-bo-lon-34-tinh-thanh",
+  "name": "Số lượng trâu, bò, lợn phân theo địa phương – 34 tỉnh thành (2024–2025)",
+  "title": "Số lượng trâu, bò, lợn phân theo địa phương – 34 tỉnh thành (2024–2025)",
+  "description": "Số lượng trâu, bò và lợn (nghìn con) năm 2024 và sơ bộ 2025 của cả nước, 6 vùng và 34 tỉnh, thành phố (cấu trúc sau sáp nhập), theo Cục Thống kê.",
+  "category": "agriculture",
+  "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV06N%C3%B4ng%20nghi%E1%BB%87p%2C%20l%C3%A2m%20nghi%E1%BB%87p%20v%C3%A0%20th%E1%BB%A7y%20s%E1%BA%A3n/PLV06N%C3%B4ng%20nghi%E1%BB%87p%2C%20l%C3%A2m%20nghi%E1%BB%87p%20v%C3%A0%20th%E1%BB%A7y%20s%E1%BA%A3n/PL.V06.31.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "source_url": "https://pxweb.nso.gov.vn/pxweb/vi/PLV06N%C3%B4ng%20nghi%E1%BB%87p%2C%20l%C3%A2m%20nghi%E1%BB%87p%20v%C3%A0%20th%E1%BB%A7y%20s%E1%BA%A3n/PLV06N%C3%B4ng%20nghi%E1%BB%87p%2C%20l%C3%A2m%20nghi%E1%BB%87p%20v%C3%A0%20th%E1%BB%A7y%20s%E1%BA%A3n/PL.V06.31.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "updated": "2026-11",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "string"
+    },
+    {
+      "key": "buffalo_y2024",
+      "label": "Buffalo Y2024",
+      "type": "number"
+    },
+    {
+      "key": "buffalo_y2025_prelim",
+      "label": "Buffalo Y2025 Prelim",
+      "type": "number"
+    },
+    {
+      "key": "cattle_y2024",
+      "label": "Cattle Y2024",
+      "type": "number"
+    },
+    {
+      "key": "cattle_y2025_prelim",
+      "label": "Cattle Y2025 Prelim",
+      "type": "number"
+    },
+    {
+      "key": "pigs_y2024",
+      "label": "Pigs Y2024",
+      "type": "number"
+    },
+    {
+      "key": "pigs_y2025_prelim",
+      "label": "Pigs Y2025 Prelim",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "CẢ NƯỚC",
+      "level": "cả nước",
+      "buffalo_y2024": 2032.396,
+      "buffalo_y2025_prelim": 1883.615,
+      "cattle_y2024": 6212.203,
+      "cattle_y2025_prelim": 5943.695,
+      "pigs_y2024": 26519.4,
+      "pigs_y2025_prelim": 26743.4
+    },
+    {
+      "name": "Đồng bằng sông Hồng",
+      "level": "vùng",
+      "buffalo_y2024": 125.256,
+      "buffalo_y2025_prelim": 114.225,
+      "cattle_y2024": 451.434,
+      "cattle_y2025_prelim": 396.481,
+      "pigs_y2024": 5191.1,
+      "pigs_y2025_prelim": 5147.9
+    },
+    {
+      "name": "Hà Nội",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 28.827,
+      "buffalo_y2025_prelim": 27.5,
+      "cattle_y2024": 120.368,
+      "cattle_y2025_prelim": 111,
+      "pigs_y2024": 1279.8,
+      "pigs_y2025_prelim": 1241.6
+    },
+    {
+      "name": "Bắc Ninh",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 27.977,
+      "buffalo_y2025_prelim": 25.245,
+      "cattle_y2024": 109.572,
+      "cattle_y2025_prelim": 100.02,
+      "pigs_y2024": 939.4,
+      "pigs_y2025_prelim": 963.3
+    },
+    {
+      "name": "Quảng Ninh",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 22.765,
+      "buffalo_y2025_prelim": 23.105,
+      "cattle_y2024": 22.793,
+      "cattle_y2025_prelim": 23.19,
+      "pigs_y2024": 248.7,
+      "pigs_y2025_prelim": 250.1
+    },
+    {
+      "name": "Hải Phòng",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 9.743,
+      "buffalo_y2025_prelim": 7,
+      "cattle_y2024": 20.272,
+      "cattle_y2025_prelim": 14.641,
+      "pigs_y2024": 504.9,
+      "pigs_y2025_prelim": 510.7
+    },
+    {
+      "name": "Hưng Yên",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 11.938,
+      "buffalo_y2025_prelim": 10.973,
+      "cattle_y2024": 82.038,
+      "cattle_y2025_prelim": 73.091,
+      "pigs_y2024": 1049.4,
+      "pigs_y2025_prelim": 1034.4
+    },
+    {
+      "name": "Ninh Bình",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 24.006,
+      "buffalo_y2025_prelim": 20.346,
+      "cattle_y2024": 96.391,
+      "cattle_y2025_prelim": 74.539,
+      "pigs_y2024": 1168.9,
+      "pigs_y2025_prelim": 1147.8
+    },
+    {
+      "name": "Trung du và miền núi phía Bắc",
+      "level": "vùng",
+      "buffalo_y2024": 1130.121,
+      "buffalo_y2025_prelim": 1044.938,
+      "cattle_y2024": 1195.009,
+      "cattle_y2025_prelim": 1118.515,
+      "pigs_y2024": 5785.9,
+      "pigs_y2025_prelim": 5659.3
+    },
+    {
+      "name": "Cao Bằng",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 103.829,
+      "buffalo_y2025_prelim": 84.238,
+      "cattle_y2024": 100.996,
+      "cattle_y2025_prelim": 75.964,
+      "pigs_y2024": 299.4,
+      "pigs_y2025_prelim": 242.7
+    },
+    {
+      "name": "Tuyên Quang",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 224.367,
+      "buffalo_y2025_prelim": 216.479,
+      "cattle_y2024": 175.006,
+      "cattle_y2025_prelim": 175.733,
+      "pigs_y2024": 1151.5,
+      "pigs_y2025_prelim": 1125.8
+    },
+    {
+      "name": "Lào Cai",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 179.681,
+      "buffalo_y2025_prelim": 179.326,
+      "cattle_y2024": 61.077,
+      "cattle_y2025_prelim": 61.128,
+      "pigs_y2024": 876,
+      "pigs_y2025_prelim": 919.7
+    },
+    {
+      "name": "Thái Nguyên",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 60.228,
+      "buffalo_y2025_prelim": 43.144,
+      "cattle_y2024": 55.421,
+      "cattle_y2025_prelim": 43.758,
+      "pigs_y2024": 501.5,
+      "pigs_y2025_prelim": 477.3
+    },
+    {
+      "name": "Lạng Sơn",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 54.015,
+      "buffalo_y2025_prelim": 47.98,
+      "cattle_y2024": 27.449,
+      "cattle_y2025_prelim": 27.405,
+      "pigs_y2024": 172.6,
+      "pigs_y2025_prelim": 170.1
+    },
+    {
+      "name": "Phú Thọ",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 165.865,
+      "buffalo_y2025_prelim": 148.941,
+      "cattle_y2024": 253.512,
+      "cattle_y2025_prelim": 229.518,
+      "pigs_y2024": 1641,
+      "pigs_y2025_prelim": 1557.2
+    },
+    {
+      "name": "Điện Biên",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 142.753,
+      "buffalo_y2025_prelim": 141.467,
+      "cattle_y2024": 104.786,
+      "cattle_y2025_prelim": 105.066,
+      "pigs_y2024": 309.4,
+      "pigs_y2025_prelim": 304.3
+    },
+    {
+      "name": "Lai Châu",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 92.049,
+      "buffalo_y2025_prelim": 84.107,
+      "cattle_y2024": 28.289,
+      "cattle_y2025_prelim": 28.86,
+      "pigs_y2024": 216.6,
+      "pigs_y2025_prelim": 182.1
+    },
+    {
+      "name": "Sơn La",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 107.334,
+      "buffalo_y2025_prelim": 99.256,
+      "cattle_y2024": 388.473,
+      "cattle_y2025_prelim": 371.083,
+      "pigs_y2024": 617.8,
+      "pigs_y2025_prelim": 680.1
+    },
+    {
+      "name": "Bắc Trung Bộ",
+      "level": "vùng",
+      "buffalo_y2024": 491.711,
+      "buffalo_y2025_prelim": 455.366,
+      "cattle_y2024": 1091.358,
+      "cattle_y2025_prelim": 1048.554,
+      "pigs_y2024": 2816.2,
+      "pigs_y2025_prelim": 2800.1
+    },
+    {
+      "name": "Thanh Hóa",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 112.813,
+      "buffalo_y2025_prelim": 99.843,
+      "cattle_y2024": 203.084,
+      "cattle_y2025_prelim": 183.538,
+      "pigs_y2024": 984.3,
+      "pigs_y2025_prelim": 978.6
+    },
+    {
+      "name": "Nghệ An",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 248.281,
+      "buffalo_y2025_prelim": 246.855,
+      "cattle_y2024": 549.971,
+      "cattle_y2025_prelim": 563.618,
+      "pigs_y2024": 878.8,
+      "pigs_y2025_prelim": 904.3
+    },
+    {
+      "name": "Hà Tĩnh",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 65.22,
+      "buffalo_y2025_prelim": 48.092,
+      "cattle_y2024": 161.162,
+      "cattle_y2025_prelim": 129.906,
+      "pigs_y2024": 352.4,
+      "pigs_y2025_prelim": 340.9
+    },
+    {
+      "name": "Quảng Trị",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 50.436,
+      "buffalo_y2025_prelim": 46.184,
+      "cattle_y2024": 146.408,
+      "cattle_y2025_prelim": 140.742,
+      "pigs_y2024": 482.2,
+      "pigs_y2025_prelim": 456.2
+    },
+    {
+      "name": "Huế",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 14.961,
+      "buffalo_y2025_prelim": 14.392,
+      "cattle_y2024": 30.733,
+      "cattle_y2025_prelim": 30.75,
+      "pigs_y2024": 118.5,
+      "pigs_y2025_prelim": 120.1
+    },
+    {
+      "name": "Duyên hải Nam Trung Bộ và Tây Nguyên",
+      "level": "vùng",
+      "buffalo_y2024": 234.714,
+      "buffalo_y2025_prelim": 219.958,
+      "cattle_y2024": 2227.579,
+      "cattle_y2025_prelim": 2213.32,
+      "pigs_y2024": 4984.8,
+      "pigs_y2025_prelim": 5087.7
+    },
+    {
+      "name": "Đà Nẵng",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 52.564,
+      "buffalo_y2025_prelim": 44.469,
+      "cattle_y2024": 188.42,
+      "cattle_y2025_prelim": 185.036,
+      "pigs_y2024": 351.1,
+      "pigs_y2025_prelim": 291.8
+    },
+    {
+      "name": "Quảng Ngãi",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 90.434,
+      "buffalo_y2025_prelim": 85.363,
+      "cattle_y2024": 367.531,
+      "cattle_y2025_prelim": 357.253,
+      "pigs_y2024": 572.5,
+      "pigs_y2025_prelim": 561
+    },
+    {
+      "name": "Gia Lai",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 27.513,
+      "buffalo_y2025_prelim": 25.836,
+      "cattle_y2024": 779.853,
+      "cattle_y2025_prelim": 785.972,
+      "pigs_y2024": 1477.2,
+      "pigs_y2025_prelim": 1681.1
+    },
+    {
+      "name": "Khánh Hòa",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 7.345,
+      "buffalo_y2025_prelim": 6.593,
+      "cattle_y2024": 185.297,
+      "cattle_y2025_prelim": 164.57,
+      "pigs_y2024": 343.7,
+      "pigs_y2025_prelim": 237
+    },
+    {
+      "name": "Đắk Lắk",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 30.873,
+      "buffalo_y2025_prelim": 30.39,
+      "cattle_y2024": 405.745,
+      "cattle_y2025_prelim": 402.489,
+      "pigs_y2024": 1033.6,
+      "pigs_y2025_prelim": 1089
+    },
+    {
+      "name": "Lâm Đồng",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 25.985,
+      "buffalo_y2025_prelim": 27.307,
+      "cattle_y2024": 300.733,
+      "cattle_y2025_prelim": 318,
+      "pigs_y2024": 1206.7,
+      "pigs_y2025_prelim": 1227.8
+    },
+    {
+      "name": "Đông Nam Bộ",
+      "level": "vùng",
+      "buffalo_y2024": 36.216,
+      "buffalo_y2025_prelim": 35.764,
+      "cattle_y2024": 507.842,
+      "cattle_y2025_prelim": 483.504,
+      "pigs_y2024": 5431.3,
+      "pigs_y2025_prelim": 5677.4
+    },
+    {
+      "name": "Tây Ninh",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 13.43,
+      "buffalo_y2025_prelim": 13.218,
+      "cattle_y2024": 202.296,
+      "cattle_y2025_prelim": 201.337,
+      "pigs_y2024": 615.5,
+      "pigs_y2025_prelim": 723.4
+    },
+    {
+      "name": "Đồng Nai",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 16.359,
+      "buffalo_y2025_prelim": 16.565,
+      "cattle_y2024": 145.494,
+      "cattle_y2025_prelim": 146.11,
+      "pigs_y2024": 3581.6,
+      "pigs_y2025_prelim": 3670.8
+    },
+    {
+      "name": "TP. Hồ Chí Minh",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 6.427,
+      "buffalo_y2025_prelim": 5.981,
+      "cattle_y2024": 160,
+      "cattle_y2025_prelim": 136.057,
+      "pigs_y2024": 1234.2,
+      "pigs_y2025_prelim": 1283.2
+    },
+    {
+      "name": "Đồng bằng sông Cửu Long",
+      "level": "vùng",
+      "buffalo_y2024": 14.378,
+      "buffalo_y2025_prelim": 13.364,
+      "cattle_y2024": 738.981,
+      "cattle_y2025_prelim": 683.321,
+      "pigs_y2024": 2310.1,
+      "pigs_y2025_prelim": 2371
+    },
+    {
+      "name": "Vĩnh Long",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 0.514,
+      "buffalo_y2025_prelim": 0.368,
+      "cattle_y2024": 468.821,
+      "cattle_y2025_prelim": 419.08,
+      "pigs_y2024": 769.6,
+      "pigs_y2025_prelim": 786.6
+    },
+    {
+      "name": "Đồng Tháp",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 2.916,
+      "buffalo_y2025_prelim": 2.094,
+      "cattle_y2024": 155.628,
+      "cattle_y2025_prelim": 149,
+      "pigs_y2024": 472.3,
+      "pigs_y2025_prelim": 458.1
+    },
+    {
+      "name": "An Giang",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 5.753,
+      "buffalo_y2025_prelim": 5.7,
+      "cattle_y2024": 52.22,
+      "cattle_y2025_prelim": 52.21,
+      "pigs_y2024": 354.7,
+      "pigs_y2025_prelim": 384.3
+    },
+    {
+      "name": "Cần Thơ",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 4.107,
+      "buffalo_y2025_prelim": 4.118,
+      "cattle_y2024": 59.647,
+      "cattle_y2025_prelim": 60.287,
+      "pigs_y2024": 408.5,
+      "pigs_y2025_prelim": 434.6
+    },
+    {
+      "name": "Cà Mau",
+      "level": "tỉnh/thành phố",
+      "buffalo_y2024": 1.088,
+      "buffalo_y2025_prelim": 1.084,
+      "cattle_y2024": 2.665,
+      "cattle_y2025_prelim": 2.744,
+      "pigs_y2024": 305,
+      "pigs_y2025_prelim": 307.4
+    }
+  ],
+  "meta": {
+    "title": "Số lượng trâu, bò, lợn phân theo địa phương – 34 tỉnh thành (2024–2025) - Free Download",
+    "description": "Số lượng trâu, bò và lợn (nghìn con) năm 2024 và sơ bộ 2025 của cả nước, 6 vùng và 34 tỉnh, thành phố (cấu trúc sau sáp nhập), theo Cục Thống kê. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Số lượng trâu, bò, lợn phân theo địa phương – 34 tỉnh thành (2024–2025) | ListBase",
+    "seo_description": "Download Số lượng trâu, bò, lợn phân theo địa phương – 34 tỉnh thành (2024–2025) — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pxweb.nso.gov.vn/pxweb/vi/PLV06N%C3%B4ng%20nghi%E1%BB%87p%2C%20l%C3%A2m%20nghi%E1%BB%87p%20v%C3%A0%20th%E1%BB%A7y%20s%E1%BA%A3n/PLV06N%C3%B4ng%20nghi%E1%BB%87p%2C%20l%C3%A2m%20nghi%E1%BB%87p%20v%C3%A0%20th%E1%BB%A7y%20s%E1%BA%A3n/PL.V06.31.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2"
+    ]
+  }
+}
