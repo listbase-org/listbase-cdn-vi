@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-23T02:19:53.776Z",
-  "total_datasets": 629,
-  "total_records": 132606,
+  "generated": "2026-11-23T02:20:02.262Z",
+  "total_datasets": 630,
+  "total_records": 132647,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "history",
@@ -4215,6 +4215,35 @@
         "xlsx": {
           "name": "vi-tiem-chung-covid-19-theo-dia-phuong_VI.xlsx",
           "size": 9835
+        }
+      }
+    },
+    {
+      "id": "vi-tuoi-tho-trung-binh-34-tinh-thanh",
+      "name": "Tuổi thọ trung bình tính từ lúc sinh theo địa phương – 34 tỉnh thành (2020–2025)",
+      "category": "health",
+      "record_count": 41,
+      "columns": [
+        "name",
+        "level",
+        "y2020",
+        "y2021",
+        "y2022",
+        "y2023",
+        "y2024",
+        "y2025_prelim"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV02D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/PLV02D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/PL.V02.17.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 11598,
+      "files": {
+        "csv": {
+          "name": "vi-tuoi-tho-trung-binh-34-tinh-thanh_VI.csv",
+          "size": 3223
+        },
+        "xlsx": {
+          "name": "vi-tuoi-tho-trung-binh-34-tinh-thanh_VI.xlsx",
+          "size": 8699
         }
       }
     },
