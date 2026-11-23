@@ -1,0 +1,430 @@
+{
+  "id": "vi-ket-hon-ly-hon-34-tinh-thanh-2025",
+  "name": "Số cuộc kết hôn và số vụ ly hôn phân theo địa phương năm 2025 – 34 tỉnh thành",
+  "title": "Số cuộc kết hôn và số vụ ly hôn phân theo địa phương năm 2025 – 34 tỉnh thành",
+  "description": "Số cuộc kết hôn năm 2025 (lần đầu, lần thứ 2 trở lên) và số vụ ly hôn đã xét xử năm 2024–2025 của cả nước, 6 vùng và 34 tỉnh, thành phố sau sáp nhập, theo Cục Thống kê.",
+  "category": "society",
+  "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV02D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/PLV02D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/PL.V02.18.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "source_url": "https://pxweb.nso.gov.vn/pxweb/vi/PLV02D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/PLV02D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/PL.V02.18.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "updated": "2026-11",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "string"
+    },
+    {
+      "key": "marriages_2025",
+      "label": "Marriages 2025",
+      "type": "number"
+    },
+    {
+      "key": "first_marriages_2025",
+      "label": "First Marriages 2025",
+      "type": "number"
+    },
+    {
+      "key": "remarriages_2025",
+      "label": "Remarriages 2025",
+      "type": "number"
+    },
+    {
+      "key": "divorces_2024",
+      "label": "Divorces 2024",
+      "type": "number"
+    },
+    {
+      "key": "divorces_2025",
+      "label": "Divorces 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "CẢ NƯỚC",
+      "level": "cả nước",
+      "marriages_2025": 678105,
+      "first_marriages_2025": 548069,
+      "remarriages_2025": 130036,
+      "divorces_2024": 182355,
+      "divorces_2025": 187075
+    },
+    {
+      "name": "Đồng bằng sông Hồng",
+      "level": "vùng",
+      "marriages_2025": 151594,
+      "first_marriages_2025": 115424,
+      "remarriages_2025": 36170,
+      "divorces_2024": 34146,
+      "divorces_2025": 34314
+    },
+    {
+      "name": "Hà Nội",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 44173,
+      "first_marriages_2025": 34543,
+      "remarriages_2025": 9630,
+      "divorces_2024": 13454,
+      "divorces_2025": 13737
+    },
+    {
+      "name": "Bắc Ninh",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 26766,
+      "first_marriages_2025": 18945,
+      "remarriages_2025": 7821,
+      "divorces_2024": 4866,
+      "divorces_2025": 4938
+    },
+    {
+      "name": "Quảng Ninh",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 8721,
+      "first_marriages_2025": 6890,
+      "remarriages_2025": 1831,
+      "divorces_2024": 1641,
+      "divorces_2025": 1793
+    },
+    {
+      "name": "Hải Phòng",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 24955,
+      "first_marriages_2025": 18857,
+      "remarriages_2025": 6098,
+      "divorces_2024": 7032,
+      "divorces_2025": 6471
+    },
+    {
+      "name": "Hưng Yên",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 19658,
+      "first_marriages_2025": 15965,
+      "remarriages_2025": 3693,
+      "divorces_2024": 3387,
+      "divorces_2025": 3642
+    },
+    {
+      "name": "Ninh Bình",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 27321,
+      "first_marriages_2025": 20224,
+      "remarriages_2025": 7097,
+      "divorces_2024": 3766,
+      "divorces_2025": 3733
+    },
+    {
+      "name": "Trung du và miền núi phía Bắc",
+      "level": "vùng",
+      "marriages_2025": 83044,
+      "first_marriages_2025": 70424,
+      "remarriages_2025": 12620,
+      "divorces_2024": 17936,
+      "divorces_2025": 19176
+    },
+    {
+      "name": "Cao Bằng",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 3532,
+      "first_marriages_2025": 3139,
+      "remarriages_2025": 393,
+      "divorces_2024": 619,
+      "divorces_2025": 720
+    },
+    {
+      "name": "Tuyên Quang",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 12549,
+      "first_marriages_2025": 11118,
+      "remarriages_2025": 1431,
+      "divorces_2024": 2197,
+      "divorces_2025": 2325
+    },
+    {
+      "name": "Lào Cai",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 11032,
+      "first_marriages_2025": 9282,
+      "remarriages_2025": 1750,
+      "divorces_2024": 2910,
+      "divorces_2025": 3132
+    },
+    {
+      "name": "Thái Nguyên",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 9864,
+      "first_marriages_2025": 7687,
+      "remarriages_2025": 2177,
+      "divorces_2024": 2959,
+      "divorces_2025": 3081
+    },
+    {
+      "name": "Lạng Sơn",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 4316,
+      "first_marriages_2025": 3679,
+      "remarriages_2025": 637,
+      "divorces_2024": 1193,
+      "divorces_2025": 1230
+    },
+    {
+      "name": "Phú Thọ",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 21952,
+      "first_marriages_2025": 17597,
+      "remarriages_2025": 4355,
+      "divorces_2024": 5679,
+      "divorces_2025": 6183
+    },
+    {
+      "name": "Điện Biên",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 6022,
+      "first_marriages_2025": 5319,
+      "remarriages_2025": 703,
+      "divorces_2024": 508,
+      "divorces_2025": 501
+    },
+    {
+      "name": "Lai Châu",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 3861,
+      "first_marriages_2025": 3545,
+      "remarriages_2025": 316,
+      "divorces_2024": 672,
+      "divorces_2025": 672
+    },
+    {
+      "name": "Sơn La",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 9916,
+      "first_marriages_2025": 9058,
+      "remarriages_2025": 858,
+      "divorces_2024": 1199,
+      "divorces_2025": 1332
+    },
+    {
+      "name": "Bắc Trung Bộ",
+      "level": "vùng",
+      "marriages_2025": 94745,
+      "first_marriages_2025": 73863,
+      "remarriages_2025": 20882,
+      "divorces_2024": 14393,
+      "divorces_2025": 15549
+    },
+    {
+      "name": "Thanh Hóa",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 41391,
+      "first_marriages_2025": 30491,
+      "remarriages_2025": 10900,
+      "divorces_2024": 5019,
+      "divorces_2025": 5535
+    },
+    {
+      "name": "Nghệ An",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 26331,
+      "first_marriages_2025": 20570,
+      "remarriages_2025": 5761,
+      "divorces_2024": 4372,
+      "divorces_2025": 4786
+    },
+    {
+      "name": "Hà Tĩnh",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 9598,
+      "first_marriages_2025": 7703,
+      "remarriages_2025": 1895,
+      "divorces_2024": 1140,
+      "divorces_2025": 1123
+    },
+    {
+      "name": "Quảng Trị",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 10176,
+      "first_marriages_2025": 8730,
+      "remarriages_2025": 1446,
+      "divorces_2024": 1900,
+      "divorces_2025": 2144
+    },
+    {
+      "name": "Huế",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 7249,
+      "first_marriages_2025": 6369,
+      "remarriages_2025": 880,
+      "divorces_2024": 1962,
+      "divorces_2025": 1961
+    },
+    {
+      "name": "Duyên hải Nam Trung Bộ và Tây Nguyên",
+      "level": "vùng",
+      "marriages_2025": 119977,
+      "first_marriages_2025": 101424,
+      "remarriages_2025": 18553,
+      "divorces_2024": 29975,
+      "divorces_2025": 30758
+    },
+    {
+      "name": "Đà Nẵng",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 16202,
+      "first_marriages_2025": 14011,
+      "remarriages_2025": 2191,
+      "divorces_2024": 4848,
+      "divorces_2025": 4988
+    },
+    {
+      "name": "Quảng Ngãi",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 13701,
+      "first_marriages_2025": 10731,
+      "remarriages_2025": 2970,
+      "divorces_2024": 1936,
+      "divorces_2025": 2192
+    },
+    {
+      "name": "Gia Lai",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 22785,
+      "first_marriages_2025": 20030,
+      "remarriages_2025": 2755,
+      "divorces_2024": 5257,
+      "divorces_2025": 5186
+    },
+    {
+      "name": "Khánh Hòa",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 14196,
+      "first_marriages_2025": 11818,
+      "remarriages_2025": 2378,
+      "divorces_2024": 4154,
+      "divorces_2025": 4453
+    },
+    {
+      "name": "Đắk Lắk",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 23559,
+      "first_marriages_2025": 19926,
+      "remarriages_2025": 3633,
+      "divorces_2024": 6096,
+      "divorces_2025": 6063
+    },
+    {
+      "name": "Lâm Đồng",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 29534,
+      "first_marriages_2025": 24908,
+      "remarriages_2025": 4626,
+      "divorces_2024": 7684,
+      "divorces_2025": 7876
+    },
+    {
+      "name": "Đông Nam Bộ",
+      "level": "vùng",
+      "marriages_2025": 102190,
+      "first_marriages_2025": 82332,
+      "remarriages_2025": 19858,
+      "divorces_2024": 43782,
+      "divorces_2025": 44799
+    },
+    {
+      "name": "Tây Ninh",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 21740,
+      "first_marriages_2025": 16422,
+      "remarriages_2025": 5318,
+      "divorces_2024": 8839,
+      "divorces_2025": 8778
+    },
+    {
+      "name": "Đồng Nai",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 27723,
+      "first_marriages_2025": 23892,
+      "remarriages_2025": 3831,
+      "divorces_2024": 10395,
+      "divorces_2025": 10669
+    },
+    {
+      "name": "TP. Hồ Chí Minh",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 52727,
+      "first_marriages_2025": 42018,
+      "remarriages_2025": 10709,
+      "divorces_2024": 24548,
+      "divorces_2025": 25352
+    },
+    {
+      "name": "Đồng bằng sông Cửu Long",
+      "level": "vùng",
+      "marriages_2025": 126555,
+      "first_marriages_2025": 104602,
+      "remarriages_2025": 21953,
+      "divorces_2024": 42123,
+      "divorces_2025": 42479
+    },
+    {
+      "name": "Vĩnh Long",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 22027,
+      "first_marriages_2025": 17632,
+      "remarriages_2025": 4395,
+      "divorces_2024": 9944,
+      "divorces_2025": 9749
+    },
+    {
+      "name": "Đồng Tháp",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 27564,
+      "first_marriages_2025": 22404,
+      "remarriages_2025": 5160,
+      "divorces_2024": 8572,
+      "divorces_2025": 8227
+    },
+    {
+      "name": "An Giang",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 32252,
+      "first_marriages_2025": 27748,
+      "remarriages_2025": 4504,
+      "divorces_2024": 8950,
+      "divorces_2025": 8821
+    },
+    {
+      "name": "Cần Thơ",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 26163,
+      "first_marriages_2025": 21241,
+      "remarriages_2025": 4922,
+      "divorces_2024": 7862,
+      "divorces_2025": 8765
+    },
+    {
+      "name": "Cà Mau",
+      "level": "tỉnh/thành phố",
+      "marriages_2025": 18549,
+      "first_marriages_2025": 15577,
+      "remarriages_2025": 2972,
+      "divorces_2024": 6795,
+      "divorces_2025": 6917
+    }
+  ],
+  "meta": {
+    "title": "Số cuộc kết hôn và số vụ ly hôn phân theo địa phương năm 2025 – 34 tỉnh thành - Free Download",
+    "description": "Số cuộc kết hôn năm 2025 (lần đầu, lần thứ 2 trở lên) và số vụ ly hôn đã xét xử năm 2024–2025 của cả nước, 6 vùng và 34 tỉnh, thành phố sau sáp nhập, theo Cục Thống kê. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Số cuộc kết hôn và số vụ ly hôn phân theo địa phương năm 2025 – 34 tỉnh thành | ListBase",
+    "seo_description": "Download Số cuộc kết hôn và số vụ ly hôn phân theo địa phương năm 2025 – 34 tỉnh thành — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pxweb.nso.gov.vn/pxweb/vi/PLV02D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/PLV02D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/PL.V02.18.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2"
+    ]
+  }
+}

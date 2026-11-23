@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-23T02:19:33.876Z",
-  "total_datasets": 627,
-  "total_records": 132524,
+  "generated": "2026-11-23T02:19:44.933Z",
+  "total_datasets": 628,
+  "total_records": 132565,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "sports",
@@ -14744,6 +14744,34 @@
         "xlsx": {
           "name": "vi-he-so-gini-theo-tinh_VI.xlsx",
           "size": 10716
+        }
+      }
+    },
+    {
+      "id": "vi-ket-hon-ly-hon-34-tinh-thanh-2025",
+      "name": "Số cuộc kết hôn và số vụ ly hôn phân theo địa phương năm 2025 – 34 tỉnh thành",
+      "category": "society",
+      "record_count": 41,
+      "columns": [
+        "name",
+        "level",
+        "marriages_2025",
+        "first_marriages_2025",
+        "remarriages_2025",
+        "divorces_2024",
+        "divorces_2025"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV02D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/PLV02D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/PL.V02.18.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 12656,
+      "files": {
+        "csv": {
+          "name": "vi-ket-hon-ly-hon-34-tinh-thanh-2025_VI.csv",
+          "size": 3103
+        },
+        "xlsx": {
+          "name": "vi-ket-hon-ly-hon-34-tinh-thanh-2025_VI.xlsx",
+          "size": 8961
         }
       }
     },
