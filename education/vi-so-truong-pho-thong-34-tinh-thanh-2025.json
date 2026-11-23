@@ -1,0 +1,522 @@
+{
+  "id": "vi-so-truong-pho-thong-34-tinh-thanh-2025",
+  "name": "Số trường phổ thông phân theo địa phương và loại trường năm 2025 – 34 tỉnh thành",
+  "title": "Số trường phổ thông phân theo địa phương và loại trường năm 2025 – 34 tỉnh thành",
+  "description": "Số trường phổ thông tại thời điểm 30/9/2025 chia theo loại trường (tiểu học, THCS, THPT, liên cấp) của cả nước, 6 vùng và 34 tỉnh, thành phố sau sáp nhập, theo Cục Thống kê.",
+  "category": "education",
+  "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV13Gi%C3%A1o%20d%E1%BB%A5c/PLV13Gi%C3%A1o%20d%E1%BB%A5c/PL.V13.01.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "source_url": "https://pxweb.nso.gov.vn/pxweb/vi/PLV13Gi%C3%A1o%20d%E1%BB%A5c/PLV13Gi%C3%A1o%20d%E1%BB%A5c/PL.V13.01.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "updated": "2026-11",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "string"
+    },
+    {
+      "key": "total",
+      "label": "Total",
+      "type": "number"
+    },
+    {
+      "key": "primary",
+      "label": "Primary",
+      "type": "number"
+    },
+    {
+      "key": "lower_secondary",
+      "label": "Lower Secondary",
+      "type": "number"
+    },
+    {
+      "key": "upper_secondary",
+      "label": "Upper Secondary",
+      "type": "number"
+    },
+    {
+      "key": "primary_lower_secondary",
+      "label": "Primary Lower Secondary",
+      "type": "number"
+    },
+    {
+      "key": "lower_upper_secondary",
+      "label": "Lower Upper Secondary",
+      "type": "number"
+    },
+    {
+      "key": "all_levels",
+      "label": "All Levels",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "CẢ NƯỚC",
+      "level": "cả nước",
+      "total": 25513,
+      "primary": 11829,
+      "lower_secondary": 8325,
+      "upper_secondary": 2369,
+      "primary_lower_secondary": 2361,
+      "lower_upper_secondary": 399,
+      "all_levels": 230
+    },
+    {
+      "name": "Đồng bằng sông Hồng",
+      "level": "vùng",
+      "total": 5557,
+      "primary": 2344,
+      "lower_secondary": 2047,
+      "upper_secondary": 608,
+      "primary_lower_secondary": 455,
+      "lower_upper_secondary": 46,
+      "all_levels": 57
+    },
+    {
+      "name": "Hà Nội",
+      "level": "tỉnh/thành phố",
+      "total": 1693,
+      "primary": 781,
+      "lower_secondary": 636,
+      "upper_secondary": 200,
+      "primary_lower_secondary": 31,
+      "lower_upper_secondary": 26,
+      "all_levels": 19
+    },
+    {
+      "name": "Bắc Ninh",
+      "level": "tỉnh/thành phố",
+      "total": 773,
+      "primary": 318,
+      "lower_secondary": 292,
+      "upper_secondary": 81,
+      "primary_lower_secondary": 73,
+      "lower_upper_secondary": 3,
+      "all_levels": 6
+    },
+    {
+      "name": "Quảng Ninh",
+      "level": "tỉnh/thành phố",
+      "total": 396,
+      "primary": 153,
+      "lower_secondary": 127,
+      "upper_secondary": 39,
+      "primary_lower_secondary": 57,
+      "lower_upper_secondary": 10,
+      "all_levels": 10
+    },
+    {
+      "name": "Hải Phòng",
+      "level": "tỉnh/thành phố",
+      "total": 982,
+      "primary": 437,
+      "lower_secondary": 387,
+      "upper_secondary": 110,
+      "primary_lower_secondary": 33,
+      "lower_upper_secondary": 3,
+      "all_levels": 12
+    },
+    {
+      "name": "Hưng Yên",
+      "level": "tỉnh/thành phố",
+      "total": 715,
+      "primary": 196,
+      "lower_secondary": 186,
+      "upper_secondary": 72,
+      "primary_lower_secondary": 252,
+      "lower_upper_secondary": 1,
+      "all_levels": 8
+    },
+    {
+      "name": "Ninh Bình",
+      "level": "tỉnh/thành phố",
+      "total": 998,
+      "primary": 459,
+      "lower_secondary": 419,
+      "upper_secondary": 106,
+      "primary_lower_secondary": 9,
+      "lower_upper_secondary": 3,
+      "all_levels": 2
+    },
+    {
+      "name": "Trung du và miền núi phía Bắc",
+      "level": "vùng",
+      "total": 4713,
+      "primary": 1778,
+      "lower_secondary": 1500,
+      "upper_secondary": 393,
+      "primary_lower_secondary": 937,
+      "lower_upper_secondary": 88,
+      "all_levels": 17
+    },
+    {
+      "name": "Cao Bằng",
+      "level": "tỉnh/thành phố",
+      "total": 330,
+      "primary": 122,
+      "lower_secondary": 96,
+      "upper_secondary": 24,
+      "primary_lower_secondary": 82,
+      "lower_upper_secondary": 6,
+      "all_levels": 0
+    },
+    {
+      "name": "Tuyên Quang",
+      "level": "tỉnh/thành phố",
+      "total": 666,
+      "primary": 260,
+      "lower_secondary": 236,
+      "upper_secondary": 46,
+      "primary_lower_secondary": 96,
+      "lower_upper_secondary": 28,
+      "all_levels": 0
+    },
+    {
+      "name": "Lào Cai",
+      "level": "tỉnh/thành phố",
+      "total": 650,
+      "primary": 218,
+      "lower_secondary": 181,
+      "upper_secondary": 51,
+      "primary_lower_secondary": 183,
+      "lower_upper_secondary": 15,
+      "all_levels": 2
+    },
+    {
+      "name": "Thái Nguyên",
+      "level": "tỉnh/thành phố",
+      "total": 603,
+      "primary": 263,
+      "lower_secondary": 216,
+      "upper_secondary": 47,
+      "primary_lower_secondary": 72,
+      "lower_upper_secondary": 3,
+      "all_levels": 2
+    },
+    {
+      "name": "Lạng Sơn",
+      "level": "tỉnh/thành phố",
+      "total": 400,
+      "primary": 154,
+      "lower_secondary": 125,
+      "upper_secondary": 26,
+      "primary_lower_secondary": 85,
+      "lower_upper_secondary": 10,
+      "all_levels": 0
+    },
+    {
+      "name": "Phú Thọ",
+      "level": "tỉnh/thành phố",
+      "total": 1187,
+      "primary": 442,
+      "lower_secondary": 389,
+      "upper_secondary": 117,
+      "primary_lower_secondary": 219,
+      "lower_upper_secondary": 16,
+      "all_levels": 4
+    },
+    {
+      "name": "Điện Biên",
+      "level": "tỉnh/thành phố",
+      "total": 295,
+      "primary": 139,
+      "lower_secondary": 96,
+      "upper_secondary": 29,
+      "primary_lower_secondary": 27,
+      "lower_upper_secondary": 4,
+      "all_levels": 0
+    },
+    {
+      "name": "Lai Châu",
+      "level": "tỉnh/thành phố",
+      "total": 215,
+      "primary": 82,
+      "lower_secondary": 80,
+      "upper_secondary": 23,
+      "primary_lower_secondary": 30,
+      "lower_upper_secondary": 0,
+      "all_levels": 0
+    },
+    {
+      "name": "Sơn La",
+      "level": "tỉnh/thành phố",
+      "total": 367,
+      "primary": 98,
+      "lower_secondary": 81,
+      "upper_secondary": 30,
+      "primary_lower_secondary": 143,
+      "lower_upper_secondary": 6,
+      "all_levels": 9
+    },
+    {
+      "name": "Bắc Trung Bộ",
+      "level": "vùng",
+      "total": 3629,
+      "primary": 1716,
+      "lower_secondary": 1304,
+      "upper_secondary": 299,
+      "primary_lower_secondary": 264,
+      "lower_upper_secondary": 23,
+      "all_levels": 23
+    },
+    {
+      "name": "Thanh Hóa",
+      "level": "tỉnh/thành phố",
+      "total": 1299,
+      "primary": 588,
+      "lower_secondary": 533,
+      "upper_secondary": 86,
+      "primary_lower_secondary": 73,
+      "lower_upper_secondary": 8,
+      "all_levels": 11
+    },
+    {
+      "name": "Nghệ An",
+      "level": "tỉnh/thành phố",
+      "total": 967,
+      "primary": 479,
+      "lower_secondary": 361,
+      "upper_secondary": 87,
+      "primary_lower_secondary": 35,
+      "lower_upper_secondary": 1,
+      "all_levels": 4
+    },
+    {
+      "name": "Hà Tĩnh",
+      "level": "tỉnh/thành phố",
+      "total": 413,
+      "primary": 221,
+      "lower_secondary": 131,
+      "upper_secondary": 40,
+      "primary_lower_secondary": 17,
+      "lower_upper_secondary": 1,
+      "all_levels": 3
+    },
+    {
+      "name": "Quảng Trị",
+      "level": "tỉnh/thành phố",
+      "total": 590,
+      "primary": 237,
+      "lower_secondary": 169,
+      "upper_secondary": 50,
+      "primary_lower_secondary": 120,
+      "lower_upper_secondary": 11,
+      "all_levels": 3
+    },
+    {
+      "name": "Huế",
+      "level": "tỉnh/thành phố",
+      "total": 360,
+      "primary": 191,
+      "lower_secondary": 110,
+      "upper_secondary": 36,
+      "primary_lower_secondary": 19,
+      "lower_upper_secondary": 2,
+      "all_levels": 2
+    },
+    {
+      "name": "Duyên hải Nam Trung Bộ và Tây Nguyên",
+      "level": "vùng",
+      "total": 4627,
+      "primary": 2248,
+      "lower_secondary": 1436,
+      "upper_secondary": 444,
+      "primary_lower_secondary": 409,
+      "lower_upper_secondary": 59,
+      "all_levels": 31
+    },
+    {
+      "name": "Đà Nẵng",
+      "level": "tỉnh/thành phố",
+      "total": 695,
+      "primary": 326,
+      "lower_secondary": 233,
+      "upper_secondary": 75,
+      "primary_lower_secondary": 45,
+      "lower_upper_secondary": 5,
+      "all_levels": 11
+    },
+    {
+      "name": "Quảng Ngãi",
+      "level": "tỉnh/thành phố",
+      "total": 581,
+      "primary": 227,
+      "lower_secondary": 171,
+      "upper_secondary": 56,
+      "primary_lower_secondary": 118,
+      "lower_upper_secondary": 8,
+      "all_levels": 1
+    },
+    {
+      "name": "Gia Lai",
+      "level": "tỉnh/thành phố",
+      "total": 897,
+      "primary": 407,
+      "lower_secondary": 299,
+      "upper_secondary": 96,
+      "primary_lower_secondary": 82,
+      "lower_upper_secondary": 8,
+      "all_levels": 5
+    },
+    {
+      "name": "Khánh Hòa",
+      "level": "tỉnh/thành phố",
+      "total": 507,
+      "primary": 269,
+      "lower_secondary": 146,
+      "upper_secondary": 45,
+      "primary_lower_secondary": 36,
+      "lower_upper_secondary": 6,
+      "all_levels": 5
+    },
+    {
+      "name": "Đắk Lắk",
+      "level": "tỉnh/thành phố",
+      "total": 899,
+      "primary": 456,
+      "lower_secondary": 284,
+      "upper_secondary": 80,
+      "primary_lower_secondary": 65,
+      "lower_upper_secondary": 10,
+      "all_levels": 4
+    },
+    {
+      "name": "Lâm Đồng",
+      "level": "tỉnh/thành phố",
+      "total": 1048,
+      "primary": 563,
+      "lower_secondary": 303,
+      "upper_secondary": 92,
+      "primary_lower_secondary": 63,
+      "lower_upper_secondary": 22,
+      "all_levels": 5
+    },
+    {
+      "name": "Đông Nam Bộ",
+      "level": "vùng",
+      "total": 3081,
+      "primary": 1572,
+      "lower_secondary": 897,
+      "upper_secondary": 310,
+      "primary_lower_secondary": 140,
+      "lower_upper_secondary": 81,
+      "all_levels": 81
+    },
+    {
+      "name": "Tây Ninh",
+      "level": "tỉnh/thành phố",
+      "total": 673,
+      "primary": 349,
+      "lower_secondary": 206,
+      "upper_secondary": 58,
+      "primary_lower_secondary": 44,
+      "lower_upper_secondary": 11,
+      "all_levels": 5
+    },
+    {
+      "name": "Đồng Nai",
+      "level": "tỉnh/thành phố",
+      "total": 807,
+      "primary": 403,
+      "lower_secondary": 235,
+      "upper_secondary": 72,
+      "primary_lower_secondary": 60,
+      "lower_upper_secondary": 19,
+      "all_levels": 18
+    },
+    {
+      "name": "TP. Hồ Chí Minh",
+      "level": "tỉnh/thành phố",
+      "total": 1601,
+      "primary": 820,
+      "lower_secondary": 456,
+      "upper_secondary": 180,
+      "primary_lower_secondary": 36,
+      "lower_upper_secondary": 51,
+      "all_levels": 58
+    },
+    {
+      "name": "Đồng bằng sông Cửu Long",
+      "level": "vùng",
+      "total": 3906,
+      "primary": 2171,
+      "lower_secondary": 1141,
+      "upper_secondary": 315,
+      "primary_lower_secondary": 156,
+      "lower_upper_secondary": 102,
+      "all_levels": 21
+    },
+    {
+      "name": "Vĩnh Long",
+      "level": "tỉnh/thành phố",
+      "total": 875,
+      "primary": 451,
+      "lower_secondary": 299,
+      "upper_secondary": 90,
+      "primary_lower_secondary": 14,
+      "lower_upper_secondary": 16,
+      "all_levels": 5
+    },
+    {
+      "name": "Đồng Tháp",
+      "level": "tỉnh/thành phố",
+      "total": 725,
+      "primary": 389,
+      "lower_secondary": 222,
+      "upper_secondary": 67,
+      "primary_lower_secondary": 32,
+      "lower_upper_secondary": 14,
+      "all_levels": 1
+    },
+    {
+      "name": "An Giang",
+      "level": "tỉnh/thành phố",
+      "total": 961,
+      "primary": 534,
+      "lower_secondary": 246,
+      "upper_secondary": 66,
+      "primary_lower_secondary": 74,
+      "lower_upper_secondary": 36,
+      "all_levels": 5
+    },
+    {
+      "name": "Cần Thơ",
+      "level": "tỉnh/thành phố",
+      "total": 807,
+      "primary": 486,
+      "lower_secondary": 217,
+      "upper_secondary": 56,
+      "primary_lower_secondary": 19,
+      "lower_upper_secondary": 21,
+      "all_levels": 8
+    },
+    {
+      "name": "Cà Mau",
+      "level": "tỉnh/thành phố",
+      "total": 538,
+      "primary": 311,
+      "lower_secondary": 157,
+      "upper_secondary": 36,
+      "primary_lower_secondary": 17,
+      "lower_upper_secondary": 15,
+      "all_levels": 2
+    }
+  ],
+  "meta": {
+    "title": "Số trường phổ thông phân theo địa phương và loại trường năm 2025 – 34 tỉnh thành - Free Download",
+    "description": "Số trường phổ thông tại thời điểm 30/9/2025 chia theo loại trường (tiểu học, THCS, THPT, liên cấp) của cả nước, 6 vùng và 34 tỉnh, thành phố sau sáp nhập, theo Cục Thống kê. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Số trường phổ thông phân theo địa phương và loại trường năm 2025 – 34 tỉnh thành | ListBase",
+    "seo_description": "Download Số trường phổ thông phân theo địa phương và loại trường năm 2025 – 34 tỉnh thành — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pxweb.nso.gov.vn/pxweb/vi/PLV13Gi%C3%A1o%20d%E1%BB%A5c/PLV13Gi%C3%A1o%20d%E1%BB%A5c/PL.V13.01.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2"
+    ]
+  }
+}

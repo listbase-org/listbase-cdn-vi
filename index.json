@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-23T02:19:44.933Z",
-  "total_datasets": 628,
-  "total_records": 132565,
+  "generated": "2026-11-23T02:19:53.776Z",
+  "total_datasets": 629,
+  "total_records": 132606,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "entertainment",
@@ -1255,6 +1255,36 @@
         "xlsx": {
           "name": "vi-hoc-sinh-pho-thong-theo-tinh-2024_VI.xlsx",
           "size": 10161
+        }
+      }
+    },
+    {
+      "id": "vi-so-truong-pho-thong-34-tinh-thanh-2025",
+      "name": "Số trường phổ thông phân theo địa phương và loại trường năm 2025 – 34 tỉnh thành",
+      "category": "education",
+      "record_count": 41,
+      "columns": [
+        "name",
+        "level",
+        "total",
+        "primary",
+        "lower_secondary",
+        "upper_secondary",
+        "primary_lower_secondary",
+        "lower_upper_secondary",
+        "all_levels"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV13Gi%C3%A1o%20d%E1%BB%A5c/PLV13Gi%C3%A1o%20d%E1%BB%A5c/PL.V13.01.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 14255,
+      "files": {
+        "csv": {
+          "name": "vi-so-truong-pho-thong-34-tinh-thanh-2025_VI.csv",
+          "size": 3167
+        },
+        "xlsx": {
+          "name": "vi-so-truong-pho-thong-34-tinh-thanh-2025_VI.xlsx",
+          "size": 9129
         }
       }
     },
