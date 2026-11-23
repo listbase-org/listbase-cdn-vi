@@ -1,0 +1,476 @@
+{
+  "id": "vi-doanh-thu-du-lich-lu-hanh-34-tinh-thanh",
+  "name": "Doanh thu du lịch lữ hành phân theo địa phương – 34 tỉnh thành (2020–2025)",
+  "title": "Doanh thu du lịch lữ hành phân theo địa phương – 34 tỉnh thành (2020–2025)",
+  "description": "Doanh thu du lịch lữ hành theo giá hiện hành (tỷ đồng) của cả nước, 6 vùng và 34 tỉnh, thành phố (cấu trúc sau sáp nhập) giai đoạn 2020–2025 (2025 là số liệu sơ bộ), theo Cục Thống kê.",
+  "category": "tourism",
+  "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV10Du%20l%E1%BB%8Bch/PLV10Du%20l%E1%BB%8Bch/PL.V10.01.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "source_url": "https://pxweb.nso.gov.vn/pxweb/vi/PLV10Du%20l%E1%BB%8Bch/PLV10Du%20l%E1%BB%8Bch/PL.V10.01.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "updated": "2026-11",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "string"
+    },
+    {
+      "key": "y2020",
+      "label": "Y2020",
+      "type": "number"
+    },
+    {
+      "key": "y2021",
+      "label": "Y2021",
+      "type": "number"
+    },
+    {
+      "key": "y2022",
+      "label": "Y2022",
+      "type": "number"
+    },
+    {
+      "key": "y2023",
+      "label": "Y2023",
+      "type": "number"
+    },
+    {
+      "key": "y2024",
+      "label": "Y2024",
+      "type": "number"
+    },
+    {
+      "key": "y2025_prelim",
+      "label": "Y2025 Prelim",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "CẢ NƯỚC",
+      "level": "cả nước",
+      "y2020": 16492,
+      "y2021": 8998.8,
+      "y2022": 43505.5,
+      "y2023": 64035.8,
+      "y2024": 76990.3,
+      "y2025_prelim": 93857.3
+    },
+    {
+      "name": "Đồng bằng sông Hồng",
+      "level": "vùng",
+      "y2020": 6080.6,
+      "y2021": 3901.3,
+      "y2022": 16800.9,
+      "y2023": 23702.5,
+      "y2024": 31508.6,
+      "y2025_prelim": 39504.7
+    },
+    {
+      "name": "Hà Nội",
+      "level": "tỉnh/thành phố",
+      "y2020": 5184.4,
+      "y2021": 3382,
+      "y2022": 14773.8,
+      "y2023": 20687.3,
+      "y2024": 27800.7,
+      "y2025_prelim": 35227.2
+    },
+    {
+      "name": "Bắc Ninh",
+      "level": "tỉnh/thành phố",
+      "y2020": 37.1,
+      "y2021": 10,
+      "y2022": 85.8,
+      "y2023": 227.6,
+      "y2024": 511.6,
+      "y2025_prelim": 626.4
+    },
+    {
+      "name": "Quảng Ninh",
+      "level": "tỉnh/thành phố",
+      "y2020": 622.3,
+      "y2021": 390.7,
+      "y2022": 713.7,
+      "y2023": 1046,
+      "y2024": 1187.1,
+      "y2025_prelim": 1417.8
+    },
+    {
+      "name": "Hải Phòng",
+      "level": "tỉnh/thành phố",
+      "y2020": 193.3,
+      "y2021": 93.3,
+      "y2022": 587.2,
+      "y2023": 842.2,
+      "y2024": 960.2,
+      "y2025_prelim": 1068.3
+    },
+    {
+      "name": "Hưng Yên",
+      "level": "tỉnh/thành phố",
+      "y2020": 8.9,
+      "y2021": 3.9,
+      "y2022": 124.4,
+      "y2023": 79.9,
+      "y2024": 81.4,
+      "y2025_prelim": 88.3
+    },
+    {
+      "name": "Ninh Bình",
+      "level": "tỉnh/thành phố",
+      "y2020": 34.6,
+      "y2021": 21.4,
+      "y2022": 516,
+      "y2023": 819.5,
+      "y2024": 967.6,
+      "y2025_prelim": 1076.7
+    },
+    {
+      "name": "Trung du và miền núi phía Bắc",
+      "level": "vùng",
+      "y2020": 258.9,
+      "y2021": 169.6,
+      "y2022": 618.4,
+      "y2023": 1071.3,
+      "y2024": 1162.2,
+      "y2025_prelim": 1322.1
+    },
+    {
+      "name": "Cao Bằng",
+      "level": "tỉnh/thành phố",
+      "y2020": 2.9,
+      "y2021": 2.6,
+      "y2022": 6.2,
+      "y2023": 13.2,
+      "y2024": 21.1,
+      "y2025_prelim": 23.7
+    },
+    {
+      "name": "Tuyên Quang",
+      "level": "tỉnh/thành phố",
+      "y2020": 29.9,
+      "y2021": 7.4,
+      "y2022": 33,
+      "y2023": 28.6,
+      "y2024": 26.5,
+      "y2025_prelim": 37.8
+    },
+    {
+      "name": "Lào Cai",
+      "level": "tỉnh/thành phố",
+      "y2020": 95.1,
+      "y2021": 60.8,
+      "y2022": 125.3,
+      "y2023": 284.1,
+      "y2024": 198.6,
+      "y2025_prelim": 240.9
+    },
+    {
+      "name": "Thái Nguyên",
+      "level": "tỉnh/thành phố",
+      "y2020": 18.1,
+      "y2021": 30.1,
+      "y2022": 161.4,
+      "y2023": 222.2,
+      "y2024": 333.5,
+      "y2025_prelim": 344.2
+    },
+    {
+      "name": "Lạng Sơn",
+      "level": "tỉnh/thành phố",
+      "y2020": 2.5,
+      "y2021": 9.1,
+      "y2022": 20.3,
+      "y2023": 22.2,
+      "y2024": 24,
+      "y2025_prelim": 26.8
+    },
+    {
+      "name": "Phú Thọ",
+      "level": "tỉnh/thành phố",
+      "y2020": 92.8,
+      "y2021": 48.5,
+      "y2022": 251.6,
+      "y2023": 468.6,
+      "y2024": 481.2,
+      "y2025_prelim": 558
+    },
+    {
+      "name": "Điện Biên",
+      "level": "tỉnh/thành phố",
+      "y2020": 1.3,
+      "y2021": 0.8,
+      "y2022": 1.8,
+      "y2023": 2.4,
+      "y2024": 3.9,
+      "y2025_prelim": 4.4
+    },
+    {
+      "name": "Lai Châu",
+      "level": "tỉnh/thành phố",
+      "y2020": 1.5,
+      "y2021": 3.7,
+      "y2022": 5.2,
+      "y2023": 4.9,
+      "y2024": 3.5,
+      "y2025_prelim": 3.7
+    },
+    {
+      "name": "Sơn La",
+      "level": "tỉnh/thành phố",
+      "y2020": 14.8,
+      "y2021": 6.6,
+      "y2022": 13.6,
+      "y2023": 25.1,
+      "y2024": 69.9,
+      "y2025_prelim": 82.5
+    },
+    {
+      "name": "Bắc Trung Bộ",
+      "level": "vùng",
+      "y2020": 381,
+      "y2021": 126.8,
+      "y2022": 754.2,
+      "y2023": 1254.9,
+      "y2024": 1614.7,
+      "y2025_prelim": 1860.3
+    },
+    {
+      "name": "Thanh Hóa",
+      "level": "tỉnh/thành phố",
+      "y2020": 80.2,
+      "y2021": 25.8,
+      "y2022": 197,
+      "y2023": 231,
+      "y2024": 268.9,
+      "y2025_prelim": 299.7
+    },
+    {
+      "name": "Nghệ An",
+      "level": "tỉnh/thành phố",
+      "y2020": 52.3,
+      "y2021": 13.3,
+      "y2022": 114,
+      "y2023": 351,
+      "y2024": 425.8,
+      "y2025_prelim": 508.9
+    },
+    {
+      "name": "Hà Tĩnh",
+      "level": "tỉnh/thành phố",
+      "y2020": 12.2,
+      "y2021": 7.8,
+      "y2022": 16.4,
+      "y2023": 44.1,
+      "y2024": 65.3,
+      "y2025_prelim": 80.5
+    },
+    {
+      "name": "Quảng Trị",
+      "level": "tỉnh/thành phố",
+      "y2020": 132.1,
+      "y2021": 58.9,
+      "y2022": 238.8,
+      "y2023": 346.5,
+      "y2024": 356.4,
+      "y2025_prelim": 399
+    },
+    {
+      "name": "Huế",
+      "level": "tỉnh/thành phố",
+      "y2020": 104.2,
+      "y2021": 21,
+      "y2022": 188,
+      "y2023": 282.3,
+      "y2024": 498.2,
+      "y2025_prelim": 572.2
+    },
+    {
+      "name": "Duyên hải Nam Trung Bộ và Tây Nguyên",
+      "level": "vùng",
+      "y2020": 1049,
+      "y2021": 985.1,
+      "y2022": 4379.8,
+      "y2023": 9175.4,
+      "y2024": 11316.6,
+      "y2025_prelim": 12603.5
+    },
+    {
+      "name": "Đà Nẵng",
+      "level": "tỉnh/thành phố",
+      "y2020": 656.8,
+      "y2021": 711,
+      "y2022": 2503.6,
+      "y2023": 4824.7,
+      "y2024": 6051.7,
+      "y2025_prelim": 6974.2
+    },
+    {
+      "name": "Quảng Ngãi",
+      "level": "tỉnh/thành phố",
+      "y2020": 5.9,
+      "y2021": 3.5,
+      "y2022": 20.2,
+      "y2023": 34.2,
+      "y2024": 32.4,
+      "y2025_prelim": 36.4
+    },
+    {
+      "name": "Gia Lai",
+      "level": "tỉnh/thành phố",
+      "y2020": 45.6,
+      "y2021": 28.1,
+      "y2022": 240.9,
+      "y2023": 739.2,
+      "y2024": 258.2,
+      "y2025_prelim": 274.8
+    },
+    {
+      "name": "Khánh Hòa",
+      "level": "tỉnh/thành phố",
+      "y2020": 246.5,
+      "y2021": 167.7,
+      "y2022": 1382.6,
+      "y2023": 3268.1,
+      "y2024": 4628.8,
+      "y2025_prelim": 4897
+    },
+    {
+      "name": "Đắk Lắk",
+      "level": "tỉnh/thành phố",
+      "y2020": 36.5,
+      "y2021": 23.7,
+      "y2022": 60.7,
+      "y2023": 71.6,
+      "y2024": 98,
+      "y2025_prelim": 137.8
+    },
+    {
+      "name": "Lâm Đồng",
+      "level": "tỉnh/thành phố",
+      "y2020": 57.7,
+      "y2021": 51.1,
+      "y2022": 171.8,
+      "y2023": 237.6,
+      "y2024": 247.6,
+      "y2025_prelim": 283.3
+    },
+    {
+      "name": "Đông Nam Bộ",
+      "level": "vùng",
+      "y2020": 8286.7,
+      "y2021": 3518.4,
+      "y2022": 19109.5,
+      "y2023": 26589.6,
+      "y2024": 28528.7,
+      "y2025_prelim": 35470.5
+    },
+    {
+      "name": "Tây Ninh",
+      "level": "tỉnh/thành phố",
+      "y2020": 31.3,
+      "y2021": 20.9,
+      "y2022": 56.2,
+      "y2023": 102.8,
+      "y2024": 111.7,
+      "y2025_prelim": 141.4
+    },
+    {
+      "name": "Đồng Nai",
+      "level": "tỉnh/thành phố",
+      "y2020": 56.2,
+      "y2021": 24.4,
+      "y2022": 51.3,
+      "y2023": 233.7,
+      "y2024": 322,
+      "y2025_prelim": 394.9
+    },
+    {
+      "name": "TP. Hồ Chí Minh",
+      "level": "tỉnh/thành phố",
+      "y2020": 8199.2,
+      "y2021": 3473.1,
+      "y2022": 19001.9,
+      "y2023": 26253,
+      "y2024": 28095,
+      "y2025_prelim": 34934.2
+    },
+    {
+      "name": "Đồng bằng sông Cửu Long",
+      "level": "vùng",
+      "y2020": 435.8,
+      "y2021": 297.6,
+      "y2022": 1842.7,
+      "y2023": 2242.1,
+      "y2024": 2859.5,
+      "y2025_prelim": 3096.2
+    },
+    {
+      "name": "Vĩnh Long",
+      "level": "tỉnh/thành phố",
+      "y2020": 85.8,
+      "y2021": 54,
+      "y2022": 282.6,
+      "y2023": 309.7,
+      "y2024": 310.7,
+      "y2025_prelim": 360.1
+    },
+    {
+      "name": "Đồng Tháp",
+      "level": "tỉnh/thành phố",
+      "y2020": 49.1,
+      "y2021": 15.3,
+      "y2022": 154.8,
+      "y2023": 283.5,
+      "y2024": 379,
+      "y2025_prelim": 451.4
+    },
+    {
+      "name": "An Giang",
+      "level": "tỉnh/thành phố",
+      "y2020": 201.8,
+      "y2021": 174.9,
+      "y2022": 1008.3,
+      "y2023": 959.2,
+      "y2024": 1276.9,
+      "y2025_prelim": 1378.3
+    },
+    {
+      "name": "Cần Thơ",
+      "level": "tỉnh/thành phố",
+      "y2020": 72.1,
+      "y2021": 39.6,
+      "y2022": 354.3,
+      "y2023": 621.7,
+      "y2024": 778.9,
+      "y2025_prelim": 774.6
+    },
+    {
+      "name": "Cà Mau",
+      "level": "tỉnh/thành phố",
+      "y2020": 27,
+      "y2021": 13.8,
+      "y2022": 42.7,
+      "y2023": 68,
+      "y2024": 114,
+      "y2025_prelim": 131.8
+    }
+  ],
+  "meta": {
+    "title": "Doanh thu du lịch lữ hành phân theo địa phương – 34 tỉnh thành (2020–2025) - Free Download",
+    "description": "Doanh thu du lịch lữ hành theo giá hiện hành (tỷ đồng) của cả nước, 6 vùng và 34 tỉnh, thành phố (cấu trúc sau sáp nhập) giai đoạn 2020–2025 (2025 là số liệu sơ bộ), theo Cục Thống kê. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Doanh thu du lịch lữ hành phân theo địa phương – 34 tỉnh thành (2020–2025) | ListBase",
+    "seo_description": "Download Doanh thu du lịch lữ hành phân theo địa phương – 34 tỉnh thành (2020–2025) — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pxweb.nso.gov.vn/pxweb/vi/PLV10Du%20l%E1%BB%8Bch/PLV10Du%20l%E1%BB%8Bch/PL.V10.01.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2"
+    ]
+  }
+}

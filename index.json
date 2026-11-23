@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-23T02:19:23.296Z",
-  "total_datasets": 626,
-  "total_records": 132483,
+  "generated": "2026-11-23T02:19:33.876Z",
+  "total_datasets": 627,
+  "total_records": 132524,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 65
+      "dataset_count": 66
     },
     {
       "id": "transport",
@@ -16374,6 +16374,35 @@
         "xlsx": {
           "name": "vi-dien-bien-dia-diem-du-lich_VI.xlsx",
           "size": 8198
+        }
+      }
+    },
+    {
+      "id": "vi-doanh-thu-du-lich-lu-hanh-34-tinh-thanh",
+      "name": "Doanh thu du lịch lữ hành phân theo địa phương – 34 tỉnh thành (2020–2025)",
+      "category": "tourism",
+      "record_count": 41,
+      "columns": [
+        "name",
+        "level",
+        "y2020",
+        "y2021",
+        "y2022",
+        "y2023",
+        "y2024",
+        "y2025_prelim"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV10Du%20l%E1%BB%8Bch/PLV10Du%20l%E1%BB%8Bch/PL.V10.01.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 11510,
+      "files": {
+        "csv": {
+          "name": "vi-doanh-thu-du-lich-lu-hanh-34-tinh-thanh_VI.csv",
+          "size": 3417
+        },
+        "xlsx": {
+          "name": "vi-doanh-thu-du-lich-lu-hanh-34-tinh-thanh_VI.xlsx",
+          "size": 9114
         }
       }
     },
