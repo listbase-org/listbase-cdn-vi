@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-23T02:20:02.262Z",
-  "total_datasets": 630,
-  "total_records": 132647,
+  "generated": "2026-11-24T02:08:23.285Z",
+  "total_datasets": 631,
+  "total_records": 132688,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "education",
@@ -980,6 +980,38 @@
         "xlsx": {
           "name": "vi-bo-truong-nganh-cong-thuong_VI.xlsx",
           "size": 10707
+        }
+      }
+    },
+    {
+      "id": "vi-cho-sieu-thi-trung-tam-thuong-mai-34-tinh-thanh",
+      "name": "Số lượng chợ, siêu thị và trung tâm thương mại phân theo địa phương – 34 tỉnh thành (2020–2025)",
+      "category": "economy",
+      "record_count": 41,
+      "columns": [
+        "name",
+        "level",
+        "markets_y2020",
+        "markets_y2024",
+        "markets_y2025_prelim",
+        "supermarkets_y2020",
+        "supermarkets_y2024",
+        "supermarkets_y2025_prelim",
+        "malls_y2020",
+        "malls_y2024",
+        "malls_y2025_prelim"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV08Th%C6%B0%C6%A1ng%20m%E1%BA%A1i/PLV08Th%C6%B0%C6%A1ng%20m%E1%BA%A1i/PL.V08.02.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 17846,
+      "files": {
+        "csv": {
+          "name": "vi-cho-sieu-thi-trung-tam-thuong-mai-34-tinh-thanh_VI.csv",
+          "size": 3550
+        },
+        "xlsx": {
+          "name": "vi-cho-sieu-thi-trung-tam-thuong-mai-34-tinh-thanh_VI.xlsx",
+          "size": 9329
         }
       }
     },
