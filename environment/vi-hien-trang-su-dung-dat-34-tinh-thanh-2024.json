@@ -1,0 +1,430 @@
+{
+  "id": "vi-hien-trang-su-dung-dat-34-tinh-thanh-2024",
+  "name": "Hiện trạng sử dụng đất phân theo địa phương – 34 tỉnh thành (31/12/2024)",
+  "title": "Hiện trạng sử dụng đất phân theo địa phương – 34 tỉnh thành (31/12/2024)",
+  "description": "Tổng diện tích, đất sản xuất nông nghiệp, đất lâm nghiệp và đất ở (nghìn ha) tính đến 31/12/2024 của cả nước, 6 vùng và 34 tỉnh, thành phố theo cấu trúc hành chính sau sáp nhập, theo Cục Thống kê; cột tỷ lệ đất lâm nghiệp được tính từ số liệu gốc.",
+  "category": "environment",
+  "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV01%C4%90%C6%A1n%20v%E1%BB%8B%20h%C3%A0nh%20ch%C3%ADnh/PLV01%C4%90%C6%A1n%20v%E1%BB%8B%20h%C3%A0nh%20ch%C3%ADnh/PL.V01.02.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "source_url": "https://pxweb.nso.gov.vn/pxweb/vi/PLV01%C4%90%C6%A1n%20v%E1%BB%8B%20h%C3%A0nh%20ch%C3%ADnh/PLV01%C4%90%C6%A1n%20v%E1%BB%8B%20h%C3%A0nh%20ch%C3%ADnh/PL.V01.02.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "updated": "2026-11",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "string"
+    },
+    {
+      "key": "total_area_kha",
+      "label": "Total Area Kha",
+      "type": "number"
+    },
+    {
+      "key": "agricultural_land_kha",
+      "label": "Agricultural Land Kha",
+      "type": "number"
+    },
+    {
+      "key": "forestry_land_kha",
+      "label": "Forestry Land Kha",
+      "type": "number"
+    },
+    {
+      "key": "residential_land_kha",
+      "label": "Residential Land Kha",
+      "type": "number"
+    },
+    {
+      "key": "forest_land_share_pct",
+      "label": "Forest Land Share Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "CẢ NƯỚC",
+      "level": "cả nước",
+      "total_area_kha": 33214.437,
+      "agricultural_land_kha": 11773.578,
+      "forestry_land_kha": 15539.305,
+      "residential_land_kha": 793.552,
+      "forest_land_share_pct": 46.8
+    },
+    {
+      "name": "Đồng bằng sông Hồng",
+      "level": "vùng",
+      "total_area_kha": 2407.325,
+      "agricultural_land_kha": 849.29,
+      "forestry_land_kha": 632.344,
+      "residential_land_kha": 167.2,
+      "forest_land_share_pct": 26.3
+    },
+    {
+      "name": "Hà Nội",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 335.984,
+      "agricultural_land_kha": 154.654,
+      "forestry_land_kha": 19.811,
+      "residential_land_kha": 39.699,
+      "forest_land_share_pct": 5.9
+    },
+    {
+      "name": "Bắc Ninh",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 471.375,
+      "agricultural_land_kha": 183.247,
+      "forestry_land_kha": 146.03,
+      "residential_land_kha": 32.357,
+      "forest_land_share_pct": 31
+    },
+    {
+      "name": "Quảng Ninh",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 623.127,
+      "agricultural_land_kha": 57.032,
+      "forestry_land_kha": 397.749,
+      "residential_land_kha": 9.987,
+      "forest_land_share_pct": 63.8
+    },
+    {
+      "name": "Hải Phòng",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 318.449,
+      "agricultural_land_kha": 129.164,
+      "forestry_land_kha": 27.662,
+      "residential_land_kha": 34.145,
+      "forest_land_share_pct": 8.7
+    },
+    {
+      "name": "Hưng Yên",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 263.784,
+      "agricultural_land_kha": 138.217,
+      "forestry_land_kha": 3.564,
+      "residential_land_kha": 24.922,
+      "forest_land_share_pct": 1.4
+    },
+    {
+      "name": "Ninh Bình",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 394.606,
+      "agricultural_land_kha": 186.976,
+      "forestry_land_kha": 37.528,
+      "residential_land_kha": 26.09,
+      "forest_land_share_pct": 9.5
+    },
+    {
+      "name": "Trung du và miền núi phía Bắc",
+      "level": "vùng",
+      "total_area_kha": 9250.8,
+      "agricultural_land_kha": 2303.688,
+      "forestry_land_kha": 5717.073,
+      "residential_land_kha": 116.898,
+      "forest_land_share_pct": 61.8
+    },
+    {
+      "name": "Cao Bằng",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 670.2,
+      "agricultural_land_kha": 109.698,
+      "forestry_land_kha": 511.419,
+      "residential_land_kha": 5.74,
+      "forest_land_share_pct": 76.3
+    },
+    {
+      "name": "Tuyên Quang",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 1379.6,
+      "agricultural_land_kha": 300.881,
+      "forestry_land_kha": 915.719,
+      "residential_land_kha": 15.517,
+      "forest_land_share_pct": 66.4
+    },
+    {
+      "name": "Lào Cai",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 1325.5,
+      "agricultural_land_kha": 276.45,
+      "forestry_land_kha": 902.712,
+      "residential_land_kha": 13.543,
+      "forest_land_share_pct": 68.1
+    },
+    {
+      "name": "Thái Nguyên",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 837.5,
+      "agricultural_land_kha": 149.237,
+      "forestry_land_kha": 598.38,
+      "residential_land_kha": 17.322,
+      "forest_land_share_pct": 71.4
+    },
+    {
+      "name": "Lạng Sơn",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 830.7,
+      "agricultural_land_kha": 116.178,
+      "forestry_land_kha": 619.108,
+      "residential_land_kha": 9.38,
+      "forest_land_share_pct": 74.5
+    },
+    {
+      "name": "Phú Thọ",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 934.7,
+      "agricultural_land_kha": 266.439,
+      "forestry_land_kha": 489.581,
+      "residential_land_kha": 36.01,
+      "forest_land_share_pct": 52.4
+    },
+    {
+      "name": "Điện Biên",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 954.8,
+      "agricultural_land_kha": 454.88,
+      "forestry_land_kha": 430.366,
+      "residential_land_kha": 5.755,
+      "forest_land_share_pct": 45.1
+    },
+    {
+      "name": "Lai Châu",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 906.9,
+      "agricultural_land_kha": 119.988,
+      "forestry_land_kha": 554.795,
+      "residential_land_kha": 3.765,
+      "forest_land_share_pct": 61.2
+    },
+    {
+      "name": "Sơn La",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 1410.9,
+      "agricultural_land_kha": 509.937,
+      "forestry_land_kha": 694.993,
+      "residential_land_kha": 9.866,
+      "forest_land_share_pct": 49.3
+    },
+    {
+      "name": "Bắc Trung Bộ",
+      "level": "vùng",
+      "total_area_kha": 5122.542,
+      "agricultural_land_kha": 935.3,
+      "forestry_land_kha": 3437.39,
+      "residential_land_kha": 125.747,
+      "forest_land_share_pct": 67.1
+    },
+    {
+      "name": "Thanh Hóa",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 1111.116,
+      "agricultural_land_kha": 234.6,
+      "forestry_land_kha": 659.157,
+      "residential_land_kha": 58.544,
+      "forest_land_share_pct": 59.3
+    },
+    {
+      "name": "Nghệ An",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 1648.608,
+      "agricultural_land_kha": 289.7,
+      "forestry_land_kha": 1176.508,
+      "residential_land_kha": 29.2,
+      "forest_land_share_pct": 71.4
+    },
+    {
+      "name": "Hà Tĩnh",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 599.431,
+      "agricultural_land_kha": 136.3,
+      "forestry_land_kha": 351.706,
+      "residential_land_kha": 15.003,
+      "forest_land_share_pct": 58.7
+    },
+    {
+      "name": "Quảng Trị",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 1268.676,
+      "agricultural_land_kha": 206.1,
+      "forestry_land_kha": 924.896,
+      "residential_land_kha": 12.3,
+      "forest_land_share_pct": 72.9
+    },
+    {
+      "name": "Huế",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 494.711,
+      "agricultural_land_kha": 68.6,
+      "forestry_land_kha": 325.123,
+      "residential_land_kha": 10.7,
+      "forest_land_share_pct": 65.7
+    },
+    {
+      "name": "Duyên hải Nam Trung Bộ và Tây Nguyên",
+      "level": "vùng",
+      "total_area_kha": 9932.284,
+      "agricultural_land_kha": 3791.2,
+      "forestry_land_kha": 4957.2,
+      "residential_land_kha": 147.794,
+      "forest_land_share_pct": 49.9
+    },
+    {
+      "name": "Đà Nẵng",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 1187.034,
+      "agricultural_land_kha": 203.6,
+      "forestry_land_kha": 808.5,
+      "residential_land_kha": 28.135,
+      "forest_land_share_pct": 68.1
+    },
+    {
+      "name": "Quảng Ngãi",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 1482.597,
+      "agricultural_land_kha": 456.5,
+      "forestry_land_kha": 897.5,
+      "residential_land_kha": 20.987,
+      "forest_land_share_pct": 60.5
+    },
+    {
+      "name": "Gia Lai",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 2158.088,
+      "agricultural_land_kha": 991.6,
+      "forestry_land_kha": 925.7,
+      "residential_land_kha": 30.2,
+      "forest_land_share_pct": 42.9
+    },
+    {
+      "name": "Khánh Hòa",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 870.675,
+      "agricultural_land_kha": 190.4,
+      "forestry_land_kha": 479.7,
+      "residential_land_kha": 13.806,
+      "forest_land_share_pct": 55.1
+    },
+    {
+      "name": "Đắk Lắk",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 1809.98,
+      "agricultural_land_kha": 845.1,
+      "forestry_land_kha": 759.4,
+      "residential_land_kha": 25.088,
+      "forest_land_share_pct": 42
+    },
+    {
+      "name": "Lâm Đồng",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 2423.91,
+      "agricultural_land_kha": 1104,
+      "forestry_land_kha": 1086.4,
+      "residential_land_kha": 29.578,
+      "forest_land_share_pct": 44.8
+    },
+    {
+      "name": "Đông Nam Bộ",
+      "level": "vùng",
+      "total_area_kha": 2805.849,
+      "agricultural_land_kha": 1632.9,
+      "forestry_land_kha": 522.137,
+      "residential_land_kha": 122.95,
+      "forest_land_share_pct": 18.6
+    },
+    {
+      "name": "Tây Ninh",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 852.44,
+      "agricultural_land_kha": 569.7,
+      "forestry_land_kha": 103.095,
+      "residential_land_kha": 42.391,
+      "forest_land_share_pct": 12.1
+    },
+    {
+      "name": "Đồng Nai",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 1273.718,
+      "agricultural_land_kha": 709.8,
+      "forestry_land_kha": 340.204,
+      "residential_land_kha": 29.056,
+      "forest_land_share_pct": 26.7
+    },
+    {
+      "name": "TP. Hồ Chí Minh",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 679.691,
+      "agricultural_land_kha": 353.4,
+      "forestry_land_kha": 78.838,
+      "residential_land_kha": 51.503,
+      "forest_land_share_pct": 11.6
+    },
+    {
+      "name": "Đồng bằng sông Cửu Long",
+      "level": "vùng",
+      "total_area_kha": 3695.66,
+      "agricultural_land_kha": 2261.227,
+      "forestry_land_kha": 273.2,
+      "residential_land_kha": 113,
+      "forest_land_share_pct": 7.4
+    },
+    {
+      "name": "Vĩnh Long",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 687.586,
+      "agricultural_land_kha": 399.09,
+      "forestry_land_kha": 12.6,
+      "residential_land_kha": 24,
+      "forest_land_share_pct": 1.8
+    },
+    {
+      "name": "Đồng Tháp",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 593.856,
+      "agricultural_land_kha": 435.4,
+      "forestry_land_kha": 14.5,
+      "residential_land_kha": 25.7,
+      "forest_land_share_pct": 2.4
+    },
+    {
+      "name": "An Giang",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 989.392,
+      "agricultural_land_kha": 723.42,
+      "forestry_land_kha": 84.9,
+      "residential_land_kha": 31.1,
+      "forest_land_share_pct": 8.6
+    },
+    {
+      "name": "Cần Thơ",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 636.098,
+      "agricultural_land_kha": 454.532,
+      "forestry_land_kha": 13,
+      "residential_land_kha": 20.9,
+      "forest_land_share_pct": 2
+    },
+    {
+      "name": "Cà Mau",
+      "level": "tỉnh/thành phố",
+      "total_area_kha": 788.728,
+      "agricultural_land_kha": 248.785,
+      "forestry_land_kha": 148.2,
+      "residential_land_kha": 11.3,
+      "forest_land_share_pct": 18.8
+    }
+  ],
+  "meta": {
+    "title": "Hiện trạng sử dụng đất phân theo địa phương – 34 tỉnh thành (31/12/2024) - Free Download",
+    "description": "Tổng diện tích, đất sản xuất nông nghiệp, đất lâm nghiệp và đất ở (nghìn ha) tính đến 31/12/2024 của cả nước, 6 vùng và 34 tỉnh, thành phố theo cấu trúc hành chính sau sáp nhập, theo Cục Thống kê; cột tỷ lệ đất lâm nghiệp được tính từ số liệu gốc. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hiện trạng sử dụng đất phân theo địa phương – 34 tỉnh thành (31/12/2024) | ListBase",
+    "seo_description": "Download Hiện trạng sử dụng đất phân theo địa phương – 34 tỉnh thành (31/12/2024) — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pxweb.nso.gov.vn/pxweb/vi/PLV01%C4%90%C6%A1n%20v%E1%BB%8B%20h%C3%A0nh%20ch%C3%ADnh/PLV01%C4%90%C6%A1n%20v%E1%BB%8B%20h%C3%A0nh%20ch%C3%ADnh/PL.V01.02.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2"
+    ]
+  }
+}

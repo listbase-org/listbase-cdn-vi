@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-24T02:08:23.285Z",
-  "total_datasets": 631,
-  "total_records": 132688,
+  "generated": "2026-11-24T02:08:34.999Z",
+  "total_datasets": 632,
+  "total_records": 132729,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "finance",
@@ -1883,6 +1883,34 @@
         "xlsx": {
           "name": "vi-cay-di-san_VI.xlsx",
           "size": 15237
+        }
+      }
+    },
+    {
+      "id": "vi-hien-trang-su-dung-dat-34-tinh-thanh-2024",
+      "name": "Hiện trạng sử dụng đất phân theo địa phương – 34 tỉnh thành (31/12/2024)",
+      "category": "environment",
+      "record_count": 41,
+      "columns": [
+        "name",
+        "level",
+        "total_area_kha",
+        "agricultural_land_kha",
+        "forestry_land_kha",
+        "residential_land_kha",
+        "forest_land_share_pct"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV01%C4%90%C6%A1n%20v%E1%BB%8B%20h%C3%A0nh%20ch%C3%ADnh/PLV01%C4%90%C6%A1n%20v%E1%BB%8B%20h%C3%A0nh%20ch%C3%ADnh/PL.V01.02.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 13776,
+      "files": {
+        "csv": {
+          "name": "vi-hien-trang-su-dung-dat-34-tinh-thanh-2024_VI.csv",
+          "size": 3359
+        },
+        "xlsx": {
+          "name": "vi-hien-trang-su-dung-dat-34-tinh-thanh-2024_VI.xlsx",
+          "size": 9165
         }
       }
     },
