@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-24T02:08:34.999Z",
-  "total_datasets": 632,
-  "total_records": 132729,
+  "generated": "2026-11-24T02:08:43.269Z",
+  "total_datasets": 633,
+  "total_records": 132770,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "time",
@@ -15652,6 +15652,35 @@
         "xlsx": {
           "name": "vi-tram-phat-thanh-fm_VI.xlsx",
           "size": 32437
+        }
+      }
+    },
+    {
+      "id": "vi-ty-le-su-dung-internet-may-tinh-34-tinh-thanh",
+      "name": "Tỷ lệ người dùng internet, hộ có kết nối internet và hộ có máy tính – 34 tỉnh thành (2024–2025)",
+      "category": "tech",
+      "record_count": 41,
+      "columns": [
+        "name",
+        "level",
+        "internet_users_pct_y2024",
+        "internet_users_pct_y2025",
+        "households_internet_pct_y2024",
+        "households_internet_pct_y2025",
+        "households_computer_pct_y2024",
+        "households_computer_pct_y2025"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV14Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/PLV14Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/PL.V14.37.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 17539,
+      "files": {
+        "csv": {
+          "name": "vi-ty-le-su-dung-internet-may-tinh-34-tinh-thanh_VI.csv",
+          "size": 3604
+        },
+        "xlsx": {
+          "name": "vi-ty-le-su-dung-internet-may-tinh-34-tinh-thanh_VI.xlsx",
+          "size": 9201
         }
       }
     },
