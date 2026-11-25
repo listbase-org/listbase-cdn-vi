@@ -1,0 +1,476 @@
+{
+  "id": "vi-tuoi-ket-hon-trung-binh-lan-dau-34-tinh-thanh",
+  "name": "Tuổi kết hôn trung bình lần đầu phân theo địa phương – 34 tỉnh thành (2020–2025)",
+  "title": "Tuổi kết hôn trung bình lần đầu phân theo địa phương – 34 tỉnh thành (2020–2025)",
+  "description": "Tuổi kết hôn trung bình lần đầu (năm) của cả nước, 6 vùng và 34 tỉnh, thành phố (cấu trúc sau sáp nhập 2025) giai đoạn 2020–2025 (2025 là số liệu sơ bộ), theo Cục Thống kê.",
+  "category": "society",
+  "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV02D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/PLV02D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/PL.V02.19.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "source_url": "https://pxweb.nso.gov.vn/pxweb/vi/PLV02D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/PLV02D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/PL.V02.19.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+  "updated": "2026-11",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "string"
+    },
+    {
+      "key": "y2020",
+      "label": "Y2020",
+      "type": "number"
+    },
+    {
+      "key": "y2021",
+      "label": "Y2021",
+      "type": "number"
+    },
+    {
+      "key": "y2022",
+      "label": "Y2022",
+      "type": "number"
+    },
+    {
+      "key": "y2023",
+      "label": "Y2023",
+      "type": "number"
+    },
+    {
+      "key": "y2024",
+      "label": "Y2024",
+      "type": "number"
+    },
+    {
+      "key": "y2025_prelim",
+      "label": "Y2025 Prelim",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "CẢ NƯỚC",
+      "level": "cả nước",
+      "y2020": 25.7,
+      "y2021": 26.2,
+      "y2022": 26.9,
+      "y2023": 27.2,
+      "y2024": 27.3,
+      "y2025_prelim": 28
+    },
+    {
+      "name": "Đồng bằng sông Hồng",
+      "level": "vùng",
+      "y2020": 25.4,
+      "y2021": 25.9,
+      "y2022": 26.5,
+      "y2023": 27,
+      "y2024": 27.1,
+      "y2025_prelim": 27.8
+    },
+    {
+      "name": "Hà Nội",
+      "level": "tỉnh/thành phố",
+      "y2020": 25.8,
+      "y2021": 26.4,
+      "y2022": 26.9,
+      "y2023": 27.9,
+      "y2024": 27.8,
+      "y2025_prelim": 28.6
+    },
+    {
+      "name": "Bắc Ninh",
+      "level": "tỉnh/thành phố",
+      "y2020": 24.6,
+      "y2021": 25,
+      "y2022": 25.5,
+      "y2023": 25.9,
+      "y2024": 26.1,
+      "y2025_prelim": 26.4
+    },
+    {
+      "name": "Quảng Ninh",
+      "level": "tỉnh/thành phố",
+      "y2020": 25.7,
+      "y2021": 26.2,
+      "y2022": 26.5,
+      "y2023": 26.9,
+      "y2024": 27.1,
+      "y2025_prelim": 28.6
+    },
+    {
+      "name": "Hải Phòng",
+      "level": "tỉnh/thành phố",
+      "y2020": 25.6,
+      "y2021": 26.3,
+      "y2022": 26.9,
+      "y2023": 27.4,
+      "y2024": 26.9,
+      "y2025_prelim": 28.2
+    },
+    {
+      "name": "Hưng Yên",
+      "level": "tỉnh/thành phố",
+      "y2020": 25.3,
+      "y2021": 25.7,
+      "y2022": 26.7,
+      "y2023": 26.8,
+      "y2024": 27.3,
+      "y2025_prelim": 27.5
+    },
+    {
+      "name": "Ninh Bình",
+      "level": "tỉnh/thành phố",
+      "y2020": 24.7,
+      "y2021": 25,
+      "y2022": 25.8,
+      "y2023": 25.8,
+      "y2024": 26.3,
+      "y2025_prelim": 26.7
+    },
+    {
+      "name": "Trung du và miền núi phía Bắc",
+      "level": "vùng",
+      "y2020": 23.3,
+      "y2021": 23.5,
+      "y2022": 24.1,
+      "y2023": 24.4,
+      "y2024": 24.3,
+      "y2025_prelim": 24.8
+    },
+    {
+      "name": "Cao Bằng",
+      "level": "tỉnh/thành phố",
+      "y2020": 22.5,
+      "y2021": 23,
+      "y2022": 23.4,
+      "y2023": 24,
+      "y2024": 24.2,
+      "y2025_prelim": 24.3
+    },
+    {
+      "name": "Tuyên Quang",
+      "level": "tỉnh/thành phố",
+      "y2020": 22.6,
+      "y2021": 23,
+      "y2022": 23.4,
+      "y2023": 23.7,
+      "y2024": 23.6,
+      "y2025_prelim": 23.8
+    },
+    {
+      "name": "Lào Cai",
+      "level": "tỉnh/thành phố",
+      "y2020": 23.1,
+      "y2021": 23.1,
+      "y2022": 23.7,
+      "y2023": 24.1,
+      "y2024": 24,
+      "y2025_prelim": 24.7
+    },
+    {
+      "name": "Thái Nguyên",
+      "level": "tỉnh/thành phố",
+      "y2020": 24.3,
+      "y2021": 24.8,
+      "y2022": 25.2,
+      "y2023": 25.6,
+      "y2024": 24.9,
+      "y2025_prelim": 26.1
+    },
+    {
+      "name": "Lạng Sơn",
+      "level": "tỉnh/thành phố",
+      "y2020": 24.9,
+      "y2021": 24.8,
+      "y2022": 25.7,
+      "y2023": 25.6,
+      "y2024": 25.8,
+      "y2025_prelim": 25.8
+    },
+    {
+      "name": "Phú Thọ",
+      "level": "tỉnh/thành phố",
+      "y2020": 24.3,
+      "y2021": 24.7,
+      "y2022": 25.6,
+      "y2023": 25.5,
+      "y2024": 25.8,
+      "y2025_prelim": 26.2
+    },
+    {
+      "name": "Điện Biên",
+      "level": "tỉnh/thành phố",
+      "y2020": 22.6,
+      "y2021": 22.2,
+      "y2022": 22.8,
+      "y2023": 23,
+      "y2024": 23.3,
+      "y2025_prelim": 23
+    },
+    {
+      "name": "Lai Châu",
+      "level": "tỉnh/thành phố",
+      "y2020": 21.5,
+      "y2021": 21.6,
+      "y2022": 21.9,
+      "y2023": 22.3,
+      "y2024": 22.8,
+      "y2025_prelim": 22.9
+    },
+    {
+      "name": "Sơn La",
+      "level": "tỉnh/thành phố",
+      "y2020": 21.5,
+      "y2021": 21.8,
+      "y2022": 22.1,
+      "y2023": 22.9,
+      "y2024": 22.2,
+      "y2025_prelim": 23.4
+    },
+    {
+      "name": "Bắc Trung Bộ",
+      "level": "vùng",
+      "y2020": 25.8,
+      "y2021": 26,
+      "y2022": 26.9,
+      "y2023": 26.8,
+      "y2024": 27.3,
+      "y2025_prelim": 28.2
+    },
+    {
+      "name": "Thanh Hóa",
+      "level": "tỉnh/thành phố",
+      "y2020": 24.7,
+      "y2021": 24.9,
+      "y2022": 26.1,
+      "y2023": 25.9,
+      "y2024": 26.9,
+      "y2025_prelim": 27.7
+    },
+    {
+      "name": "Nghệ An",
+      "level": "tỉnh/thành phố",
+      "y2020": 26.4,
+      "y2021": 26.3,
+      "y2022": 27.3,
+      "y2023": 27.1,
+      "y2024": 27.2,
+      "y2025_prelim": 28.1
+    },
+    {
+      "name": "Hà Tĩnh",
+      "level": "tỉnh/thành phố",
+      "y2020": 25.9,
+      "y2021": 26.4,
+      "y2022": 26.9,
+      "y2023": 27,
+      "y2024": 27.5,
+      "y2025_prelim": 28.6
+    },
+    {
+      "name": "Quảng Trị",
+      "level": "tỉnh/thành phố",
+      "y2020": 26,
+      "y2021": 26.3,
+      "y2022": 26.5,
+      "y2023": 26.9,
+      "y2024": 27.1,
+      "y2025_prelim": 28
+    },
+    {
+      "name": "Huế",
+      "level": "tỉnh/thành phố",
+      "y2020": 27,
+      "y2021": 27.2,
+      "y2022": 28,
+      "y2023": 28.2,
+      "y2024": 28.8,
+      "y2025_prelim": 29.3
+    },
+    {
+      "name": "Duyên hải Nam Trung Bộ và Tây Nguyên",
+      "level": "vùng",
+      "y2020": 25.5,
+      "y2021": 25.8,
+      "y2022": 26.5,
+      "y2023": 26.7,
+      "y2024": 26.8,
+      "y2025_prelim": 27.6
+    },
+    {
+      "name": "Đà Nẵng",
+      "level": "tỉnh/thành phố",
+      "y2020": 26.3,
+      "y2021": 26.4,
+      "y2022": 27.3,
+      "y2023": 27.5,
+      "y2024": 27.3,
+      "y2025_prelim": 28.3
+    },
+    {
+      "name": "Quảng Ngãi",
+      "level": "tỉnh/thành phố",
+      "y2020": 25.3,
+      "y2021": 25.2,
+      "y2022": 25.8,
+      "y2023": 25.9,
+      "y2024": 26.4,
+      "y2025_prelim": 27.2
+    },
+    {
+      "name": "Gia Lai",
+      "level": "tỉnh/thành phố",
+      "y2020": 24.5,
+      "y2021": 24.6,
+      "y2022": 25.5,
+      "y2023": 25.3,
+      "y2024": 25.8,
+      "y2025_prelim": 26.3
+    },
+    {
+      "name": "Khánh Hòa",
+      "level": "tỉnh/thành phố",
+      "y2020": 26.6,
+      "y2021": 27.1,
+      "y2022": 28,
+      "y2023": 28.5,
+      "y2024": 28.1,
+      "y2025_prelim": 29.1
+    },
+    {
+      "name": "Đắk Lắk",
+      "level": "tỉnh/thành phố",
+      "y2020": 24.8,
+      "y2021": 25.4,
+      "y2022": 25.7,
+      "y2023": 26.4,
+      "y2024": 26.2,
+      "y2025_prelim": 26.6
+    },
+    {
+      "name": "Lâm Đồng",
+      "level": "tỉnh/thành phố",
+      "y2020": 25.6,
+      "y2021": 26.4,
+      "y2022": 27.1,
+      "y2023": 27.2,
+      "y2024": 27.4,
+      "y2025_prelim": 28.3
+    },
+    {
+      "name": "Đông Nam Bộ",
+      "level": "vùng",
+      "y2020": 27,
+      "y2021": 27.8,
+      "y2022": 28.8,
+      "y2023": 29,
+      "y2024": 28.9,
+      "y2025_prelim": 29.7
+    },
+    {
+      "name": "Tây Ninh",
+      "level": "tỉnh/thành phố",
+      "y2020": 26.2,
+      "y2021": 26.6,
+      "y2022": 27.3,
+      "y2023": 27.6,
+      "y2024": 27.3,
+      "y2025_prelim": 28.2
+    },
+    {
+      "name": "Đồng Nai",
+      "level": "tỉnh/thành phố",
+      "y2020": 27,
+      "y2021": 27.1,
+      "y2022": 28,
+      "y2023": 28.1,
+      "y2024": 28.2,
+      "y2025_prelim": 29.5
+    },
+    {
+      "name": "TP. Hồ Chí Minh",
+      "level": "tỉnh/thành phố",
+      "y2020": 27.1,
+      "y2021": 28.2,
+      "y2022": 29.2,
+      "y2023": 29.5,
+      "y2024": 29.3,
+      "y2025_prelim": 30
+    },
+    {
+      "name": "Đồng bằng sông Cửu Long",
+      "level": "vùng",
+      "y2020": 26.3,
+      "y2021": 26.9,
+      "y2022": 27.4,
+      "y2023": 27.7,
+      "y2024": 27.9,
+      "y2025_prelim": 28.6
+    },
+    {
+      "name": "Vĩnh Long",
+      "level": "tỉnh/thành phố",
+      "y2020": 26.1,
+      "y2021": 26.4,
+      "y2022": 26.7,
+      "y2023": 27.4,
+      "y2024": 27.9,
+      "y2025_prelim": 28.2
+    },
+    {
+      "name": "Đồng Tháp",
+      "level": "tỉnh/thành phố",
+      "y2020": 26.3,
+      "y2021": 26.5,
+      "y2022": 27.3,
+      "y2023": 27.6,
+      "y2024": 27.5,
+      "y2025_prelim": 28.3
+    },
+    {
+      "name": "An Giang",
+      "level": "tỉnh/thành phố",
+      "y2020": 26.1,
+      "y2021": 26.8,
+      "y2022": 27.3,
+      "y2023": 27.4,
+      "y2024": 27.3,
+      "y2025_prelim": 28.6
+    },
+    {
+      "name": "Cần Thơ",
+      "level": "tỉnh/thành phố",
+      "y2020": 26.8,
+      "y2021": 27.6,
+      "y2022": 28.5,
+      "y2023": 28.3,
+      "y2024": 28.7,
+      "y2025_prelim": 29.1
+    },
+    {
+      "name": "Cà Mau",
+      "level": "tỉnh/thành phố",
+      "y2020": 26.5,
+      "y2021": 27.1,
+      "y2022": 27.4,
+      "y2023": 27.8,
+      "y2024": 28.5,
+      "y2025_prelim": 29.1
+    }
+  ],
+  "meta": {
+    "title": "Tuổi kết hôn trung bình lần đầu phân theo địa phương – 34 tỉnh thành (2020–2025) - Free Download",
+    "description": "Tuổi kết hôn trung bình lần đầu (năm) của cả nước, 6 vùng và 34 tỉnh, thành phố (cấu trúc sau sáp nhập 2025) giai đoạn 2020–2025 (2025 là số liệu sơ bộ), theo Cục Thống kê. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tuổi kết hôn trung bình lần đầu phân theo địa phương – 34 tỉnh thành (2020–2025) | ListBase",
+    "seo_description": "Download Tuổi kết hôn trung bình lần đầu phân theo địa phương – 34 tỉnh thành (2020–2025) — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://pxweb.nso.gov.vn/pxweb/vi/PLV02D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/PLV02D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/PL.V02.19.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2"
+    ]
+  }
+}
