@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-24T02:08:43.269Z",
-  "total_datasets": 633,
-  "total_records": 132770,
+  "generated": "2026-11-25T02:10:07.272Z",
+  "total_datasets": 634,
+  "total_records": 132811,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "economy",
@@ -729,6 +729,30 @@
         "xlsx": {
           "name": "vi-di-san-the-gioi-unesco_VI.xlsx",
           "size": 9605
+        }
+      }
+    },
+    {
+      "id": "vi-di-san-van-hoa-cap-quoc-gia-34-tinh-thanh",
+      "name": "Số di sản văn hóa cấp quốc gia phân theo địa phương – 34 tỉnh thành",
+      "category": "culture",
+      "record_count": 41,
+      "columns": [
+        "name",
+        "level",
+        "national_heritage_sites"
+      ],
+      "source": "https://pxweb.nso.gov.vn/pxweb/vi/PLV14Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/PLV14Y%20t%E1%BA%BF%2C%20v%C4%83n%20h%C3%B3a%20v%C3%A0%20MSDC/PL.V14.06.px/?rxid=0b61a958-199c-42e3-b0fa-94cc2676dad2",
+      "updated": "2026-11",
+      "size": 7225,
+      "files": {
+        "csv": {
+          "name": "vi-di-san-van-hoa-cap-quoc-gia-34-tinh-thanh_VI.csv",
+          "size": 1738
+        },
+        "xlsx": {
+          "name": "vi-di-san-van-hoa-cap-quoc-gia-34-tinh-thanh_VI.xlsx",
+          "size": 7855
         }
       }
     },
