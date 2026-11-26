@@ -1,0 +1,856 @@
+{
+  "id": "vi-don-vi-dan-xuat-si",
+  "name": "Đơn vị dẫn xuất SI",
+  "title": "Đơn vị dẫn xuất SI",
+  "description": "Danh sách các đơn vị dẫn xuất trong Hệ đo lường quốc tế (SI) như hertz, newton, pascal, joule, watt…: tên, ký hiệu, đại lượng được đo, dạng tương đương và cách biểu diễn theo các đơn vị SI cơ bản, phân theo nhóm (Wikipedia tiếng Việt).",
+  "category": "units",
+  "source": "https://vi.wikipedia.org/wiki/Đơn_vị_dẫn_xuất_SI",
+  "source_url": "https://vi.wikipedia.org/wiki/Đơn_vị_dẫn_xuất_SI",
+  "updated": "2026-11",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "ten",
+      "label": "Ten",
+      "type": "string"
+    },
+    {
+      "key": "ky_hieu",
+      "label": "Ky Hieu",
+      "type": "string"
+    },
+    {
+      "key": "dai_luong_do",
+      "label": "Dai Luong Do",
+      "type": "string"
+    },
+    {
+      "key": "tuong_duong",
+      "label": "Tuong Duong",
+      "type": "string"
+    },
+    {
+      "key": "bieu_dien_theo_don_vi_si_co_ban",
+      "label": "Bieu Dien Theo Don Vi Si Co Ban",
+      "type": "string"
+    },
+    {
+      "key": "nhom",
+      "label": "Nhom",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ten": "hertz",
+      "ky_hieu": "Hz",
+      "dai_luong_do": "tần số",
+      "tuong_duong": "1/s",
+      "bieu_dien_theo_don_vi_si_co_ban": "s^−1",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "radian",
+      "ky_hieu": "rad",
+      "dai_luong_do": "góc",
+      "tuong_duong": "m/m",
+      "bieu_dien_theo_don_vi_si_co_ban": "1",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "steradian",
+      "ky_hieu": "sr",
+      "dai_luong_do": "góc khối",
+      "tuong_duong": "m²/m²",
+      "bieu_dien_theo_don_vi_si_co_ban": "1",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "newton",
+      "ky_hieu": "N",
+      "dai_luong_do": "lực, trọng lượng",
+      "tuong_duong": "kg⋅m/s^2",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg⋅m⋅s^−2",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "pascal",
+      "ky_hieu": "Pa",
+      "dai_luong_do": "áp suất, sức căng",
+      "tuong_duong": "N/m²",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg⋅m^−1 ⋅s^−2",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "joule",
+      "ky_hieu": "J",
+      "dai_luong_do": "năng lượng, công, nhiệt",
+      "tuong_duong": "m⋅N, C⋅V, W⋅s",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg⋅m²⋅s^−2",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "watt",
+      "ky_hieu": "W",
+      "dai_luong_do": "công suất, thông lượng phóng xạ",
+      "tuong_duong": "J/s, V⋅A",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg⋅m²⋅s^−3",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "coulomb",
+      "ky_hieu": "C",
+      "dai_luong_do": "điện tích",
+      "tuong_duong": "s⋅A, F⋅V",
+      "bieu_dien_theo_don_vi_si_co_ban": "s⋅A",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "volt",
+      "ky_hieu": "V",
+      "dai_luong_do": "hiệu điện thế, lực điện động",
+      "tuong_duong": "W/A, J/C",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg⋅m²⋅s^−3 ⋅A^−1",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "farad",
+      "ky_hieu": "F",
+      "dai_luong_do": "điện dung",
+      "tuong_duong": "C/V, s/Ω",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg^−1 ⋅m^−2 ⋅s^4 ⋅A^2",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "ohm",
+      "ky_hieu": "Ω",
+      "dai_luong_do": "điện trở, trở kháng, điện kháng",
+      "tuong_duong": "1/S, V/A",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg⋅m²⋅s^−3 ⋅A^−2",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "siemens",
+      "ky_hieu": "S",
+      "dai_luong_do": "điện dẫn",
+      "tuong_duong": "1/Ω, A/V",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg^−1 ⋅m^−2 ⋅s^3 ⋅A^2",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "weber",
+      "ky_hieu": "Wb",
+      "dai_luong_do": "từ thông",
+      "tuong_duong": "J/A, T⋅m²,V⋅s",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg⋅m²⋅s^−2 ⋅A^−1",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "tesla",
+      "ky_hieu": "T",
+      "dai_luong_do": "mật độ từ thông",
+      "tuong_duong": "V⋅s/m², Wb/m², N/(A⋅m)",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg⋅s^−2 ⋅A^−1",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "henry",
+      "ky_hieu": "H",
+      "dai_luong_do": "hệ số tự cảm",
+      "tuong_duong": "V⋅s/A, Ω⋅s, Wb/A",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg⋅m²⋅s^−2 ⋅A^−2",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "degree Celsius",
+      "ky_hieu": "°C",
+      "dai_luong_do": "nhiệt độ (theo 273.15 K)",
+      "tuong_duong": "K",
+      "bieu_dien_theo_don_vi_si_co_ban": "K",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "lumen",
+      "ky_hieu": "lm",
+      "dai_luong_do": "quang thông",
+      "tuong_duong": "cd⋅sr",
+      "bieu_dien_theo_don_vi_si_co_ban": "cd",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "lux",
+      "ky_hieu": "lx",
+      "dai_luong_do": "độ rọi",
+      "tuong_duong": "lm/m²",
+      "bieu_dien_theo_don_vi_si_co_ban": "cd⋅m^−2",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "becquerel",
+      "ky_hieu": "Bq",
+      "dai_luong_do": "cường độ phóng xạ (phân rã trên giây)",
+      "tuong_duong": "1/s",
+      "bieu_dien_theo_don_vi_si_co_ban": "s^−1",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "gray",
+      "ky_hieu": "Gy",
+      "dai_luong_do": "lượng hấp thụ bức xạ ion hóa (tuyệt đối)",
+      "tuong_duong": "J/kg",
+      "bieu_dien_theo_don_vi_si_co_ban": "m²⋅s^−2",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "sievert",
+      "ky_hieu": "Sv",
+      "dai_luong_do": "lượng hấp thụ bức xạ ion hóa (tương đương)",
+      "tuong_duong": "J/kg",
+      "bieu_dien_theo_don_vi_si_co_ban": "m²⋅s^−2",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "katal",
+      "ky_hieu": "kat",
+      "dai_luong_do": "hoạt động xúc tác",
+      "tuong_duong": "mol/s",
+      "bieu_dien_theo_don_vi_si_co_ban": "s^−1 ⋅mol",
+      "nhom": "Các đơn vị dẫn xuất SI có tên riêng"
+    },
+    {
+      "ten": "mét trên giây",
+      "ky_hieu": "m/s",
+      "dai_luong_do": "tốc độ, vận tốc",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m⋅s^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "mét trên giây bình phương",
+      "ky_hieu": "m/s^2",
+      "dai_luong_do": "gia tốc",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m⋅s^−2",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "mét trên giây lập phương",
+      "ky_hieu": "m/s^3",
+      "dai_luong_do": "jerk",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m⋅s^−3",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "mét trên giây lũy thừa bốn",
+      "ky_hieu": "m/s^4",
+      "dai_luong_do": "snap, jounce",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m⋅s^−4",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "radian trên giây",
+      "ky_hieu": "rad/s",
+      "dai_luong_do": "vận tốc góc",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "s^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "radian trên giây bình phương",
+      "ky_hieu": "rad/s^2",
+      "dai_luong_do": "gia tốc góc",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "s^−2",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "hertz trên giây",
+      "ky_hieu": "Hz/s",
+      "dai_luong_do": "trôi tần số",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "s^−2",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "mét khối trên giây",
+      "ky_hieu": "m^3 /s",
+      "dai_luong_do": "lưu lượng dòng chảy",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^3 ⋅s^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "mét vuông",
+      "ky_hieu": "m^2",
+      "dai_luong_do": "diện tích",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^2",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "mét khối",
+      "ky_hieu": "m^3",
+      "dai_luong_do": "thể tích",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^3",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "newton-giây",
+      "ky_hieu": "N⋅s",
+      "dai_luong_do": "động lượng, xung lượng",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m⋅kg⋅s^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "newton-mét-giây",
+      "ky_hieu": "N⋅m⋅s",
+      "dai_luong_do": "mô men động lượng",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^2 ⋅kg⋅s^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "mét-newton",
+      "ky_hieu": "N⋅m = J/rad",
+      "dai_luong_do": "mô men lực",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^2 ⋅kg⋅s^−2",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "newton trên giây",
+      "ky_hieu": "N/s",
+      "dai_luong_do": "yank",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m⋅kg⋅s^−3",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "mét đối ứng",
+      "ky_hieu": "m^−1",
+      "dai_luong_do": "số sóng, năng lượng quang học, độ cong, tần số không gian",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "ki-lô-gam trên mét vuông",
+      "ky_hieu": "kg/m^2",
+      "dai_luong_do": "mật độ diện tích",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−2 ⋅kg",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "ki-lô-gam trên mét khối",
+      "ky_hieu": "kg/m^3",
+      "dai_luong_do": "khối lượng riêng",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−3 ⋅kg",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "mét khối trên ki-lô-gam",
+      "ky_hieu": "m^3 /kg",
+      "dai_luong_do": "thể tích riêng",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^3 ⋅kg^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "joule-giây",
+      "ky_hieu": "J⋅s",
+      "dai_luong_do": "công suất",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^2 ⋅kg⋅s^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "joule trên ki-lô-gam",
+      "ky_hieu": "J/kg",
+      "dai_luong_do": "năng lượng riêng",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^2 ⋅s^−2",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "joule trên mét khối",
+      "ky_hieu": "J/m^3",
+      "dai_luong_do": "mật độ năng lượng",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−1 ⋅kg⋅s^−2",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "newton trên mét",
+      "ky_hieu": "N/m = J/m^2",
+      "dai_luong_do": "sức căng bề mặt, độ cứng",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg⋅s^−2",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "watt trên mét khối",
+      "ky_hieu": "W/m^2",
+      "dai_luong_do": "mật độ dòng nhiệt riêng, sự chiếu xạ",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg⋅s^−3",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "mét vuông trên giây",
+      "ky_hieu": "m^2 /s",
+      "dai_luong_do": "độ nhớt động học, độ khuếch tán nhiệt, hệ số khuếch tán",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^2 ⋅s^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "pascal-giây",
+      "ky_hieu": "Pa⋅s = N⋅s/m^2",
+      "dai_luong_do": "độ nhớt năng động",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−1 ⋅kg⋅s^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "ki-lô-gam trên mét",
+      "ky_hieu": "kg/m",
+      "dai_luong_do": "mật độ tuyến tính",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−1 ⋅kg",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "ki-lô-gam trên giây",
+      "ky_hieu": "kg/s",
+      "dai_luong_do": "tốc độ dòng chảy khối lượng",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg⋅s^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "watt trên steradian-mét vuông",
+      "ky_hieu": "W/(sr⋅m^2)",
+      "dai_luong_do": "bức xạ",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg⋅s^−3",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "watt trên steradian-mét khối",
+      "ky_hieu": "W/(sr⋅m^3)",
+      "dai_luong_do": "bức xạ phổ",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−1 ⋅kg⋅s^−3",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "watt trên mét",
+      "ky_hieu": "W/m",
+      "dai_luong_do": "công suất quang phổ",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m⋅kg⋅s^−3",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "gray trên mét",
+      "ky_hieu": "Gy/s",
+      "dai_luong_do": "độ hấp thụ",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^2 ⋅s^−3",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "mét trên mét khối",
+      "ky_hieu": "m/m^3",
+      "dai_luong_do": "hiệu quả nhiên liệu",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−2",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "watt trên mét khối",
+      "ky_hieu": "W/m^3",
+      "dai_luong_do": "chiếu xạ phổ, công suất",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−1 ⋅kg⋅s^−3",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "joule trên mét vuông-giây",
+      "ky_hieu": "J/(m^2 ⋅s)",
+      "dai_luong_do": "thông lượng năng lượng riêng",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg⋅s^−3",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "pascal đối ứng",
+      "ky_hieu": "Pa^−1",
+      "dai_luong_do": "độ nén",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m⋅kg^−1 ⋅s^2",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "joule trên mét vuông",
+      "ky_hieu": "J/m^2",
+      "dai_luong_do": "phơi nhiễm bức xạ",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg⋅s^−2",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "ki-lô-gam-mét vuông",
+      "ky_hieu": "kg⋅m^2",
+      "dai_luong_do": "mô men quán tính",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^2 ⋅kg",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "newton-mét-giây trên ki-lô-gam",
+      "ky_hieu": "N⋅m⋅s/kg",
+      "dai_luong_do": "mô men động lượng tương đối riêng",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^2 ⋅s^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "watt trên steradian",
+      "ky_hieu": "W/sr",
+      "dai_luong_do": "cường độ bức xạ",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^2 ⋅kg⋅s^−3",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "watt trên steradian-mét",
+      "ky_hieu": "W/(sr⋅m)",
+      "dai_luong_do": "cường độ bức xạ phổ",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m⋅kg⋅s^−3",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "mole trên mét vuông",
+      "ky_hieu": "mol/m^3",
+      "dai_luong_do": "nồng độ mol, nồng độ chất",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−3 ⋅mol",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "mét vuông trên mole",
+      "ky_hieu": "m^3 /mol",
+      "dai_luong_do": "thể tích mol",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^3 ⋅mol^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "joule trên kelvin-mole",
+      "ky_hieu": "J/(K⋅mol)",
+      "dai_luong_do": "nhiệt dung mol, entropy mol",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^2 ⋅kg⋅s^−2 ⋅K^−1 ⋅mol^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "joule trên mole",
+      "ky_hieu": "J/mol",
+      "dai_luong_do": "năng lượng mol",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^2 ⋅kg⋅s^−2 ⋅mol^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "siemens-mét vuông trên mol",
+      "ky_hieu": "S⋅m^2 /mol",
+      "dai_luong_do": "độ dẫn điện theo mol",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg^−1 ⋅s^3 ⋅A^2 ⋅mol^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "mole trên ki-lô-gam",
+      "ky_hieu": "mol/kg",
+      "dai_luong_do": "nồng độ mol (về cân nặng)",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg^−1 ⋅mol",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "ki-lô-gam trên mole",
+      "ky_hieu": "kg/mol",
+      "dai_luong_do": "phân tử gam",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg⋅mol^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "mét khối trên mole giây",
+      "ky_hieu": "m^3 /(mol⋅s)",
+      "dai_luong_do": "hằng số đặc hiệu",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^3 ⋅s^−1 ⋅mol^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "reciprocal mole",
+      "ky_hieu": "mol^−1",
+      "dai_luong_do": "hằng số Avogadro",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "mol^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "coulomb trên mét vuông",
+      "ky_hieu": "C/m^2",
+      "dai_luong_do": "trường dịch chuyển điện, mật độ phân cực",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−2 ⋅s⋅A",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "coulomb trên mét khối",
+      "ky_hieu": "C/m^3",
+      "dai_luong_do": "mật độ điện tích",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−3 ⋅s⋅A",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "ampere trên mét vuông",
+      "ky_hieu": "A/m^2",
+      "dai_luong_do": "mật độ dòng điện",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−2 ⋅A",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "siemens trên mét",
+      "ky_hieu": "S/m",
+      "dai_luong_do": "dẫn điện",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−3 ⋅kg^−1 ⋅s^3 ⋅A^2",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "farad trên mét",
+      "ky_hieu": "F/m",
+      "dai_luong_do": "hằng số điện môi",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−3 ⋅kg^−1 ⋅s^4 ⋅A^2",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "henry trên mét",
+      "ky_hieu": "H/m",
+      "dai_luong_do": "độ từ thẩm",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m⋅kg⋅s^−2 ⋅A^−2",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "volt trên mét",
+      "ky_hieu": "V/m",
+      "dai_luong_do": "sức mạnh điện trường",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m⋅kg⋅s^−3 ⋅A^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "ampere trên mét",
+      "ky_hieu": "A/m",
+      "dai_luong_do": "từ hóa, sức mạnh của từ trường",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−1 ⋅A",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "coulomb trên ki-lô-gam",
+      "ky_hieu": "C/kg",
+      "dai_luong_do": "phơi bày (trước tia X và tia gamma)",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg^−1 ⋅s⋅A",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "ohm mét",
+      "ky_hieu": "Ω⋅m",
+      "dai_luong_do": "điện trở suất",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^3 ⋅kg⋅s^−3 ⋅A^−2",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "coulomb trên mét",
+      "ky_hieu": "C/m",
+      "dai_luong_do": "mật độ tuyến tính",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−1 ⋅s⋅A",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "joule trên tesla",
+      "ky_hieu": "J/T",
+      "dai_luong_do": "mômen lưỡng cực từ",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^2 ⋅A",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "mét vuông trên volt giây",
+      "ky_hieu": "m^2 /(V⋅s)",
+      "dai_luong_do": "tính linh động của điện tử",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "kg^−1 ⋅s^2 ⋅A",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "reciprocal henry",
+      "ky_hieu": "H^−1",
+      "dai_luong_do": "kháng từ",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−2 ⋅kg^−1 ⋅s^2 ⋅A^2",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "weber trên mét",
+      "ky_hieu": "Wb/m",
+      "dai_luong_do": "vectơ thế từ",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m⋅kg⋅s^−2 ⋅A^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "weber mét",
+      "ky_hieu": "Wb⋅m",
+      "dai_luong_do": "mômen từ",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^3 ⋅kg⋅s^−2 ⋅A^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "tesla mét",
+      "ky_hieu": "T⋅m",
+      "dai_luong_do": "độ cứng từ",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m⋅kg⋅s^−2 ⋅A^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "ampere radian",
+      "ky_hieu": "A⋅rad",
+      "dai_luong_do": "lực động từ",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "A",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "mét trên henry",
+      "ky_hieu": "m/H",
+      "dai_luong_do": "độ cảm từ",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−1 ⋅kg^−1 ⋅s^2 ⋅A^2",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "lumen giây",
+      "ky_hieu": "lm⋅s",
+      "dai_luong_do": "năng lượng sáng",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "s⋅cd",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "lux giây",
+      "ky_hieu": "lx⋅s",
+      "dai_luong_do": "độ phơi sáng",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−2 ⋅s⋅cd",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "candela trên mét vuông",
+      "ky_hieu": "cd/m^2",
+      "dai_luong_do": "độ chói sáng",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−2 ⋅cd",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "lumen trên watt",
+      "ky_hieu": "lm/W",
+      "dai_luong_do": "hiệu suất phát sáng",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−2 ⋅kg^−1 ⋅s^3 ⋅cd",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "joule trên kelvin",
+      "ky_hieu": "J/K",
+      "dai_luong_do": "nhiệt dung, entropy",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^2 ⋅kg⋅s^−2 ⋅K^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "joule trên ki-lô-gam kelvin",
+      "ky_hieu": "J/(K⋅kg)",
+      "dai_luong_do": "nhiệt dung riêng, specific entropy",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^2 ⋅s^−2 ⋅K^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "watt trên mét kelvin",
+      "ky_hieu": "W/(m⋅K)",
+      "dai_luong_do": "độ dẫn nhiệt",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m⋅kg⋅s^−3 ⋅K^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "kelvin trên watt",
+      "ky_hieu": "K/W",
+      "dai_luong_do": "nhiệt trở",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−2 ⋅kg^−1 ⋅s^3 ⋅K",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "reciprocal kelvin",
+      "ky_hieu": "K^−1",
+      "dai_luong_do": "hệ số giản nở nhiệt",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "K^−1",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    },
+    {
+      "ten": "kelvin trên mét",
+      "ky_hieu": "K/m",
+      "dai_luong_do": "gradien nhiệt độ",
+      "tuong_duong": "",
+      "bieu_dien_theo_don_vi_si_co_ban": "m^−1 ⋅K",
+      "nhom": "Ví dụ về các đại lượng và đơn vị dẫn xuất"
+    }
+  ],
+  "meta": {
+    "title": "Đơn vị dẫn xuất SI - Free Download",
+    "description": "Danh sách các đơn vị dẫn xuất trong Hệ đo lường quốc tế (SI) như hertz, newton, pascal, joule, watt…: tên, ký hiệu, đại lượng được đo, dạng tương đương và cách biểu diễn theo các đơn vị SI cơ bản, phân theo nhóm (Wikipedia tiếng Việt). Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Đơn vị dẫn xuất SI | ListBase",
+    "seo_description": "Download Đơn vị dẫn xuất SI — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://vi.wikipedia.org/wiki/Đơn_vị_dẫn_xuất_SI"
+    ]
+  }
+}
