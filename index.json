@@ -1,8 +1,8 @@
 {
   "lang": "vi",
-  "generated": "2026-11-26T02:30:46.271Z",
-  "total_datasets": 638,
-  "total_records": 133034,
+  "generated": "2026-11-26T02:30:55.657Z",
+  "total_datasets": 639,
+  "total_records": 133058,
   "categories": [
     {
       "id": "agriculture",
@@ -102,7 +102,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 7
+      "dataset_count": 8
     }
   ],
   "datasets": [
@@ -19302,6 +19302,34 @@
         "xlsx": {
           "name": "vi-thang-suc-gio-beaufort_VI.xlsx",
           "size": 8540
+        }
+      }
+    },
+    {
+      "id": "vi-tien-to-si",
+      "name": "Tiền tố SI (tiền tố đơn vị đo lường quốc tế)",
+      "category": "units",
+      "record_count": 24,
+      "columns": [
+        "luy_thua_10",
+        "tien_to",
+        "ky_hieu",
+        "luy_thua_1000",
+        "ten_goi_quy_mo_ngan",
+        "ten_goi_quy_mo_dai",
+        "gia_tri_thap_phan"
+      ],
+      "source": "https://vi.wikipedia.org/wiki/Tiền_tố_SI",
+      "updated": "2026-11",
+      "size": 8797,
+      "files": {
+        "csv": {
+          "name": "vi-tien-to-si_VI.csv",
+          "size": 2249
+        },
+        "xlsx": {
+          "name": "vi-tien-to-si_VI.xlsx",
+          "size": 8149
         }
       }
     }
